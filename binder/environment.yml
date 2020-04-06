@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+dependencies:
+  # Jupyter
+  - jupyterlab=2.0.1
+  - nodejs=11
+  # Python Kernel
+  - ipykernel=5.2
+  - ipywidgets=7.5.1
+  - python=3.6
+  # Python tools
+  - altair=4.0.1
+  - pandas=1.0.3
