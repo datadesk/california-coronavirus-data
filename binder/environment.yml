@@ -11,3 +11,5 @@ dependencies:
   # Python tools
   - altair=4.0.1
   - pandas=1.0.3
+  - pip:
+    - altair-latimes
