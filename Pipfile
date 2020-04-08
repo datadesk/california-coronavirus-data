@@ -7,6 +7,7 @@ verify_ssl = true
 jupyterlab = "*"
 pandas = "*"
 altair = "*"
+latimes-altair = "*"
 
 [requires]
 python_version = "3.6"
