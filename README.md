@@ -49,10 +49,12 @@ Some counties, primarily in Southern California, break out the location of cases
 These counties currently provide the data and are being tracked by The Times:
 
 * Los Angeles
+* Kern
 * Orange
 * Riverside
 * San Bernardino
 * San Diego
+* San Luis Obispo
 * Santa Barbara
 * Ventura
 
