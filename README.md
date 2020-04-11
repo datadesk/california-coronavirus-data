@@ -102,6 +102,9 @@ Some dates are missing because the state did not publish a press release for tha
 | `age_65_and_up`              | integer | The number of confirmed cases involving a person 65 of older.                                                                                                                                                |
 | `age_18_to_64`               | integer | The number of confirmed cases involving a person between 18 and 64 years old. The state stopped publishing it on March 23.                                                                                   |
 | `age_unknown`                | integer | The number of confirmed cases involving a person of unknown age.                                                                                                                                             |
+| `gender_male`                | integer | The number of confirmed cases involving a male.
+| `gender_female`              | integer | The number of confirmed cases involving a female.
+| `gender_unknown`             | integer | The number of confirmed cases involving a a person of unknown gender.
 | `total_tests`                | integer | The total number of tests conducted.                                                                                                                                                                         |
 | `received_tests`             | integer | The number of tests results received.                                                                                                                                                                        |
 | `pending_tests`              | integer | The number of tests resuts that are still pending.                                                                                                                                                           |
