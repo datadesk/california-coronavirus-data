@@ -42,6 +42,22 @@ Most counties have only one agency except for Alameda and Los Angeles counties, 
 | `deaths`          | integer | The cumulative number of deaths attributed to coronavirus as of this `date`.                                                                                                                                                        |
 | `did_not_update`  | boolean | Indicates if the agency did not provide an update on this date. If this is `true` and the case and death totals are unchanged from the previous day, this means they were holdovers. Use this flag omit these records when desired. |
 
+### [latimes-county-totals.csv](./latimes-county-totals.csv)
+
+The county-level totals of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports in that county logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.
+
+It comes with all of the same caveats as its source. It is included here as a convenience.
+
+| field                 | type    | description                                                                                                                                                                            |
+| --------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `county`              | string  | The name of the county where the agency is based.                                                                                                                                      |
+| `fips`                | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources. |
+| `date`                | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                    |
+| `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                                                      |
+| `deaths`              | integer | The cumulative number of deaths at that time.                                                                                                                                          |
+| `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                                                                                                            |
+| `new_deaths`          | integer | The net change in deaths over the previous `date`.                                                                                                                                     |
+
 ### [latimes-state-totals.csv](./latimes-state-totals.csv)
 
 The statewide total of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.
