@@ -1,50 +1,50 @@
 date,county,fips,place,confirmed_cases,note,lon,y
-2020-04-11,Alameda,001,Alameda,23,,,
+2020-04-11,Alameda,001,Alameda,23,,-122.274444,37.756111
 2020-04-11,Alameda,001,Alameda County LHJ,770,,,
-2020-04-11,Alameda,001,Albany,,,,
+2020-04-11,Alameda,001,Albany,,,-122.297778,37.886944
 2020-04-11,Alameda,001,Berkeley LHJ,36,,,
-2020-04-11,Alameda,001,Dublin,17,,,
-2020-04-11,Alameda,001,Emeryville,,,,
-2020-04-11,Alameda,001,Fremont,70,,,
-2020-04-11,Alameda,001,Hayward,156,,,
+2020-04-11,Alameda,001,Dublin,17,,-121.935833,37.702222
+2020-04-11,Alameda,001,Emeryville,,,-122.285278,37.831389
+2020-04-11,Alameda,001,Fremont,70,,-121.988611,37.548333
+2020-04-11,Alameda,001,Hayward,156,,-122.080796,37.66882
 2020-04-11,Alameda,001,Known Homeless,,,,
-2020-04-11,Alameda,001,Livermore,26,,,
-2020-04-11,Alameda,001,Newark,25,,,
+2020-04-11,Alameda,001,Livermore,26,,-121.768056,37.681944
+2020-04-11,Alameda,001,Newark,25,,-122.033333,37.533333
 2020-04-11,Alameda,001,No Address (May Be Homeless),11,,,
-2020-04-11,Alameda,001,Oakland,175,,,
-2020-04-11,Alameda,001,Piedmont,10,,,
-2020-04-11,Alameda,001,Pleasanton,43,,,
-2020-04-11,Alameda,001,San Leandro,45,,,
-2020-04-11,Alameda,001,Santa Rita Jail,13,,,
+2020-04-11,Alameda,001,Oakland,175,,-122.270833,37.804444
+2020-04-11,Alameda,001,Piedmont,10,,-122.233333,37.816667
+2020-04-11,Alameda,001,Pleasanton,43,,-121.874722,37.6625
+2020-04-11,Alameda,001,San Leandro,45,,-122.156111,37.725
+2020-04-11,Alameda,001,Santa Rita Jail,13,,-121.887925,37.717269
 2020-04-11,Alameda,001,Unincorporated,105,,,
-2020-04-11,Alameda,001,Union City,38,,,
-2020-04-11,Contra Costa,013,Alamo,15,,,
-2020-04-11,Contra Costa,013,Antioch,38,,,
-2020-04-11,Contra Costa,013,Bay Point,24,,,
-2020-04-11,Contra Costa,013,Bethel Island,1,,,
-2020-04-11,Contra Costa,013,Brentwood,37,,,
-2020-04-11,Contra Costa,013,Clayton,5,,,
-2020-04-11,Contra Costa,013,Concord,48,,,
-2020-04-11,Contra Costa,013,Danville,22,,,
-2020-04-11,Contra Costa,013,Discovery Bay,7,,,
-2020-04-11,Contra Costa,013,El Cerrito,8,,,
-2020-04-11,Contra Costa,013,El Sobrante,13,,,
-2020-04-11,Contra Costa,013,Hercules,9,,,
-2020-04-11,Contra Costa,013,Lafayette,16,,,
-2020-04-11,Contra Costa,013,Martinez,9,,,
-2020-04-11,Contra Costa,013,Moraga,5,,,
-2020-04-11,Contra Costa,013,Oakley,22,,,
-2020-04-11,Contra Costa,013,Orinda,32,,,
+2020-04-11,Alameda,001,Union City,38,,-122.048333,37.596389
+2020-04-11,Contra Costa,013,Alamo,15,,-122.032222,37.850278
+2020-04-11,Contra Costa,013,Antioch,38,,-121.805833,38.005
+2020-04-11,Contra Costa,013,Bay Point,24,,-121.961667,38.029167
+2020-04-11,Contra Costa,013,Bethel Island,1,,-121.640556,38.015
+2020-04-11,Contra Costa,013,Brentwood,37,,-121.695833,37.931944
+2020-04-11,Contra Costa,013,Clayton,5,,-121.935833,37.941111
+2020-04-11,Contra Costa,013,Concord,48,,-122.031111,37.978056
+2020-04-11,Contra Costa,013,Danville,22,,-122.0,37.821667
+2020-04-11,Contra Costa,013,Discovery Bay,7,,-121.600278,37.908611
+2020-04-11,Contra Costa,013,El Cerrito,8,,-122.311667,37.915833
+2020-04-11,Contra Costa,013,El Sobrante,13,,-122.295278,37.977222
+2020-04-11,Contra Costa,013,Hercules,9,,-122.288611,38.017222
+2020-04-11,Contra Costa,013,Lafayette,16,,-122.118056,37.885833
+2020-04-11,Contra Costa,013,Martinez,9,,-122.134167,38.019444
+2020-04-11,Contra Costa,013,Moraga,5,,-122.129722,37.835
+2020-04-11,Contra Costa,013,Oakley,22,,-121.7125,37.9975
+2020-04-11,Contra Costa,013,Orinda,32,,-122.179722,37.882778
 2020-04-11,Contra Costa,013,Other/Unspecified,10,,,
-2020-04-11,Contra Costa,013,Pacheco,5,,,
-2020-04-11,Contra Costa,013,Pinole,7,,,
-2020-04-11,Contra Costa,013,Pittsburg,41,,,
-2020-04-11,Contra Costa,013,Pleasant Hill,16,,,
-2020-04-11,Contra Costa,013,Richmond,50,,,
-2020-04-11,Contra Costa,013,Rodeo,5,,,
-2020-04-11,Contra Costa,013,San Pablo,27,,,
-2020-04-11,Contra Costa,013,San Ramon,27,,,
-2020-04-11,Contra Costa,013,Walnut Creek,31,,,
+2020-04-11,Contra Costa,013,Pacheco,5,,-122.075278,37.983611
+2020-04-11,Contra Costa,013,Pinole,7,,-122.291111,38.004444
+2020-04-11,Contra Costa,013,Pittsburg,41,,-121.884722,38.028056
+2020-04-11,Contra Costa,013,Pleasant Hill,16,,-122.0525,37.948056
+2020-04-11,Contra Costa,013,Richmond,50,,-122.347778,37.935833
+2020-04-11,Contra Costa,013,Rodeo,5,,-122.266944,38.033056
+2020-04-11,Contra Costa,013,San Pablo,27,,-122.345556,37.962222
+2020-04-11,Contra Costa,013,San Ramon,27,,-121.978056,37.78
+2020-04-11,Contra Costa,013,Walnut Creek,31,,-122.065,37.906389
 2020-04-11,Kern,029,Bakersfield East,162,,-118.789756,35.451612
 2020-04-11,Kern,029,Bakersfield West,136,,-119.20883,35.382088
 2020-04-11,Kern,029,Desert,11,,-117.948332,35.302887
@@ -437,14 +437,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,Riverside,065,Beaumont,25,,-117.061065,33.896342
 2020-04-11,Riverside,065,Bermuda Dunes,3,,-116.289175,33.742799
 2020-04-11,Riverside,065,Blythe,2,,-114.867668,33.618343
-2020-04-11,Riverside,065,Cabazon,0,,,
+2020-04-11,Riverside,065,Cabazon,0,,-116.766389,33.909167
 2020-04-11,Riverside,065,Calimesa,3,,-117.095906,33.979146
 2020-04-11,Riverside,065,Canyon Lake,4,,-117.276834,33.692301
 2020-04-11,Riverside,065,Cathedral City,42,,-116.534922,33.822583
 2020-04-11,Riverside,065,Cherry Valley,1,,-116.977248,33.972515
 2020-04-11,Riverside,065,Coachella,43,,-116.182425,33.686059
 2020-04-11,Riverside,065,Corona,58,,-117.648816,33.85932
-2020-04-11,Riverside,065,Coronita,1,,,
+2020-04-11,Riverside,065,Coronita,1,,-117.611389,33.875833
 2020-04-11,Riverside,065,Desert Edge,2,,-116.440538,33.921539
 2020-04-11,Riverside,065,Desert Hot Springs,14,,-116.61534,33.961634
 2020-04-11,Riverside,065,Desert Palms,4,,-116.374456,33.722244
@@ -458,16 +458,16 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,Riverside,065,Green Acres,1,,-117.09307,33.738058
 2020-04-11,Riverside,065,Hemet,31,,-117.060185,33.725795
 2020-04-11,Riverside,065,Home Gardens,3,,-117.523476,33.881265
-2020-04-11,Riverside,065,Homeland,1,,,
+2020-04-11,Riverside,065,Homeland,1,,-117.113333,33.741944
 2020-04-11,Riverside,065,Idyllwild-Pine Cove,3,,-116.762466,33.743539
 2020-04-11,Riverside,065,Indian Wells,9,,-116.369369,33.707409
 2020-04-11,Riverside,065,Indio,64,,-116.300284,33.738849
 2020-04-11,Riverside,065,Jurupa Valley,29,,-117.529214,33.992044
 2020-04-11,Riverside,065,La Quinta,28,,-116.344796,33.660873
 2020-04-11,Riverside,065,Lake Elsinore,51,,-117.38781,33.688474
-2020-04-11,Riverside,065,Lake Mathews,1,,,
+2020-04-11,Riverside,065,Lake Mathews,1,,-117.368333,33.825
 2020-04-11,Riverside,065,Lakeland Village,4,,-117.365068,33.641002
-2020-04-11,Riverside,065,Lakeview,1,,,
+2020-04-11,Riverside,065,Lakeview,1,,-117.118056,33.838611
 2020-04-11,Riverside,065,Mead Valley,11,,-117.296361,33.837219
 2020-04-11,Riverside,065,Meadowbrook,1,,-117.301306,33.72459
 2020-04-11,Riverside,065,Mecca,5,,-116.085007,33.576657
@@ -475,7 +475,7 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,Riverside,065,Moreno Valley,143,,-117.262466,33.921775
 2020-04-11,Riverside,065,Murrieta,52,,-117.26848,33.57744
 2020-04-11,Riverside,065,Norco,6,,-117.595116,33.92786
-2020-04-11,Riverside,065,North Shore,0,,,
+2020-04-11,Riverside,065,North Shore,0,,-115.927222,33.512778
 2020-04-11,Riverside,065,Nuevo,3,,-117.147359,33.805509
 2020-04-11,Riverside,065,Oasis,3,,-116.0979,33.461632
 2020-04-11,Riverside,065,Palm Desert,52,,-116.434042,33.740497
@@ -483,7 +483,7 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,Riverside,065,Perris,49,,-117.2912,33.791973
 2020-04-11,Riverside,065,Rancho Mirage,19,,-116.46805,33.769852
 2020-04-11,Riverside,065,Riverside,223,,-117.469568,33.945996
-2020-04-11,Riverside,065,Romoland,0,,,
+2020-04-11,Riverside,065,Romoland,0,,-117.175,33.745833
 2020-04-11,Riverside,065,San Jacinto,10,,-117.024268,33.794605
 2020-04-11,Riverside,065,Sky Valley,1,,-116.35505,33.89124
 2020-04-11,Riverside,065,Temecula,59,,-117.157264,33.501366
@@ -491,21 +491,21 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,Riverside,065,Thermal,2,,-116.142235,33.640264
 2020-04-11,Riverside,065,Thousand Palms,2,,-116.390289,33.820018
 2020-04-11,Riverside,065,Valle Vista,2,,-116.887115,33.743607
-2020-04-11,Riverside,065,Vista Santa Rosa,0,,,
+2020-04-11,Riverside,065,Vista Santa Rosa,0,,-116.2125,33.6225
 2020-04-11,Riverside,065,Wildomar,24,,-117.293586,33.616152
-2020-04-11,Riverside,065,Winchester,0,,,
+2020-04-11,Riverside,065,Winchester,0,,-117.086944,33.707778
 2020-04-11,Riverside,065,Woodcrest,6,,-117.405956,33.887064
-2020-04-11,Sacramento,067,Citrus Heights,34,,,
-2020-04-11,Sacramento,067,Elk Grove,63,,,
-2020-04-11,Sacramento,067,Folsom,13,,,
-2020-04-11,Sacramento,067,Galt,6,,,
-2020-04-11,Sacramento,067,Isleton,1,,,
-2020-04-11,Sacramento,067,Outside of Cities,125,,,
-2020-04-11,Sacramento,067,Rancho Cordova,47,,,
-2020-04-11,Sacramento,067,Sacramento,397,,,
+2020-04-11,Sacramento,067,Citrus Heights,34,,-121.283333,38.7
+2020-04-11,Sacramento,067,Elk Grove,63,,-121.381944,38.438333
+2020-04-11,Sacramento,067,Folsom,13,,-121.157778,38.672222
+2020-04-11,Sacramento,067,Galt,6,,-121.303056,38.260833
+2020-04-11,Sacramento,067,Isleton,1,,-121.609167,38.161944
+2020-04-11,Sacramento,067,Outside of cities,125,,,
+2020-04-11,Sacramento,067,Rancho Cordova,47,,-121.302778,38.589167
+2020-04-11,Sacramento,067,Sacramento,397,,-121.494444,38.581667
 2020-04-11,San Diego,073,Alpine,1,,-116.791972,32.844067
 2020-04-11,San Diego,073,Bonita,13,,-117.029174,32.672774
-2020-04-11,San Diego,073,Bonsall,1,,,
+2020-04-11,San Diego,073,Bonsall,1,,-117.193611,33.279722
 2020-04-11,San Diego,073,Borrego Springs,1,,-116.423024,33.25489
 2020-04-11,San Diego,073,Boulevard,1,,-116.286294,32.663632
 2020-04-11,San Diego,073,Carlsbad,48,,-117.282654,33.130701
@@ -533,7 +533,7 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,San Diego,073,San Diego,874,,-117.148962,32.69247
 2020-04-11,San Diego,073,San Marcos,21,,-117.170654,33.139888
 2020-04-11,San Diego,073,Santee,18,,-116.988058,32.839658
-2020-04-11,San Diego,073,Solana,5,,,
+2020-04-11,San Diego,073,Solana,5,,-117.260278,32.995278
 2020-04-11,San Diego,073,Spring Valley,45,,-116.999869,32.744752
 2020-04-11,San Diego,073,Valley Center,3,,-117.090885,33.226252
 2020-04-11,San Diego,073,Vista,28,,-117.243746,33.201367
@@ -543,7 +543,7 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,San Luis Obispo,079,Nipomo,7,,-120.475999,35.042755
 2020-04-11,San Luis Obispo,079,Other,15,,,
 2020-04-11,San Luis Obispo,079,Paso Robles,29,,-120.654502,35.636876
-2020-04-11,San Luis Obispo,079,San Luis Obispo (city),10,,,
+2020-04-11,San Luis Obispo,079,San Luis Obispo,10,,120.659616,35.282752
 2020-04-11,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-11,Santa Barbara,083,Goleta,5,,-119.898454,34.436278
 2020-04-11,Santa Barbara,083,Goleta Valley & Gaviota,11,,-120.214872,34.471656
@@ -555,37 +555,37 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,Santa Barbara,083,Santa Maria,64,,-120.435719,34.953034
 2020-04-11,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-11,Santa Barbara,083,South County,16,,-119.69819,34.42083
-2020-04-11,Santa Clara,085,Campbell,,,,
-2020-04-11,Santa Clara,085,Cupertino,,,,
-2020-04-11,Santa Clara,085,Gilroy,,,,
-2020-04-11,Santa Clara,085,Los Altos,,,,
-2020-04-11,Santa Clara,085,Los Altos Hills,,,,
-2020-04-11,Santa Clara,085,Los Gatos,,,,
-2020-04-11,Santa Clara,085,Milpitas,,,,
-2020-04-11,Santa Clara,085,Monte Sereno,,,,
-2020-04-11,Santa Clara,085,Morgan Hill,,,,
-2020-04-11,Santa Clara,085,Mountain View,,,,
+2020-04-11,Santa Clara,085,Campbell,,,-121.955,37.283889
+2020-04-11,Santa Clara,085,Cupertino,,,-122.031944,37.323056
+2020-04-11,Santa Clara,085,Gilroy,,,-121.58,37.011944
+2020-04-11,Santa Clara,085,Los Altos,,,-122.0975,37.368056
+2020-04-11,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
+2020-04-11,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
+2020-04-11,Santa Clara,085,Milpitas,,,-121.895,37.434722
+2020-04-11,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
+2020-04-11,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
+2020-04-11,Santa Clara,085,Mountain View,,,-122.081944,37.389444
 2020-04-11,Santa Clara,085,Other/Unknown,,,,
-2020-04-11,Santa Clara,085,Palo Alto,,,,
-2020-04-11,Santa Clara,085,San Jose,,,,
-2020-04-11,Santa Clara,085,Santa Clara,,,,
-2020-04-11,Santa Clara,085,Saratoga,,,,
-2020-04-11,Santa Clara,085,Sunnyvale,,,,
-2020-04-11,Sonoma,097,Central County,80,,,
-2020-04-11,Sonoma,097,East County,15,,,
-2020-04-11,Sonoma,097,North County,17,,,
-2020-04-11,Sonoma,097,South County,19,,,
-2020-04-11,Sonoma,097,West County,14,,,
-2020-04-11,Stanislaus,099,Ceres,11,,,
+2020-04-11,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
+2020-04-11,Santa Clara,085,San Jose,,,-121.9,37.333333
+2020-04-11,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
+2020-04-11,Santa Clara,085,Saratoga,,,-122.019444,37.2725
+2020-04-11,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
+2020-04-11,Sonoma,097,Central County,80,,-122.704722,38.448611
+2020-04-11,Sonoma,097,East County,15,,-122.546111,38.413889
+2020-04-11,Sonoma,097,North County,17,,-122.902679,38.707482
+2020-04-11,Sonoma,097,South County,19,,-122.631389,38.245833
+2020-04-11,Sonoma,097,West County,14,,-122.990833,38.506389
+2020-04-11,Stanislaus,099,Ceres,11,,-120.957222,37.601389
 2020-04-11,Stanislaus,099,County,21,,,
-2020-04-11,Stanislaus,099,Hughson,,,,
-2020-04-11,Stanislaus,099,Modesto,56,,,
-2020-04-11,Stanislaus,099,Newman,,,,
-2020-04-11,Stanislaus,099,Oakdale,,,,
-2020-04-11,Stanislaus,099,Patterson,10,,,
-2020-04-11,Stanislaus,099,Riverbank,5,,,
-2020-04-11,Stanislaus,099,Turlock,6,,,
-2020-04-11,Stanislaus,099,Waterford,5,,,
+2020-04-11,Stanislaus,099,Hughson,,,-120.866944,37.603056
+2020-04-11,Stanislaus,099,Modesto,56,,-120.994444,37.661389
+2020-04-11,Stanislaus,099,Newman,,,-121.0225,37.315
+2020-04-11,Stanislaus,099,Oakdale,,,-120.856944,37.769167
+2020-04-11,Stanislaus,099,Patterson,10,,-121.132778,37.473056
+2020-04-11,Stanislaus,099,Riverbank,5,,-120.943611,37.731389
+2020-04-11,Stanislaus,099,Turlock,6,,-120.848889,37.505833
+2020-04-11,Stanislaus,099,Waterford,5,,-120.7675,37.645
 2020-04-11,Ventura,111,Camarillo,36,,-119.03636,34.218076
 2020-04-11,Ventura,111,Camarillo,36,,-119.03636,34.218076
 2020-04-11,Ventura,111,Fillmore,1,,-118.933112,34.401069
@@ -616,60 +616,60 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-11,Ventura,111,Ventura,26,,-119.293754,34.282366
 2020-04-11,Ventura,111,Ventura,26,,-119.293754,34.282366
 2020-04-11,Ventura,111,Westlake,8,,-118.82443,34.135589
-2020-04-11,Yolo,113,Davis,11,,,
-2020-04-11,Yolo,113,West Sacramento,36,,,
-2020-04-11,Yolo,113,Winters and unincorporated,7,,,
-2020-04-11,Yolo,113,Woodland,21,,,
-2020-04-10,Alameda,001,Alameda,22,,,
-2020-04-10,Alameda,001,Albany,,,,
-2020-04-10,Alameda,001,Berkeley,36,,,
-2020-04-10,Alameda,001,Dublin,16,,,
-2020-04-10,Alameda,001,Emeryville,,,,
-2020-04-10,Alameda,001,Fremont,68,,,
-2020-04-10,Alameda,001,Hayward,153,,,
-2020-04-10,Alameda,001,Livermore,26,,,
-2020-04-10,Alameda,001,Newark,25,,,
-2020-04-10,Alameda,001,Oakland,162,,,
-2020-04-10,Alameda,001,Piedmont,,,,
-2020-04-10,Alameda,001,Pleasanton,40,,,
-2020-04-10,Alameda,001,San Leandro,38,,,
+2020-04-11,Yolo,113,Davis,11,,-121.738056,38.553889
+2020-04-11,Yolo,113,West Sacramento,36,,-121.530278,38.580556
+2020-04-11,Yolo,113,Winters and unincorporated,7,,-121.970833,38.525
+2020-04-11,Yolo,113,Woodland,21,,-121.773333,38.678611
+2020-04-10,Alameda,001,Alameda,22,,-122.274444,37.756111
+2020-04-10,Alameda,001,Albany,,,-122.297778,37.886944
+2020-04-10,Alameda,001,Berkeley,36,,-122.272778,37.871667
+2020-04-10,Alameda,001,Dublin,16,,-121.935833,37.702222
+2020-04-10,Alameda,001,Emeryville,,,-122.285278,37.831389
+2020-04-10,Alameda,001,Fremont,68,,-121.988611,37.548333
+2020-04-10,Alameda,001,Hayward,153,,-122.080796,37.66882
+2020-04-10,Alameda,001,Livermore,26,,-121.768056,37.681944
+2020-04-10,Alameda,001,Newark,25,,-122.033333,37.533333
+2020-04-10,Alameda,001,Oakland,162,,-122.270833,37.804444
+2020-04-10,Alameda,001,Piedmont,,,-122.233333,37.816667
+2020-04-10,Alameda,001,Pleasanton,40,,-121.874722,37.6625
+2020-04-10,Alameda,001,San Leandro,38,,-122.156111,37.725
 2020-04-10,Alameda,001,Unincorporated,99,,,
-2020-04-10,Alameda,001,Union City,36,,,
-2020-04-10,Contra Costa,013,Alamo,15,,,
-2020-04-10,Contra Costa,013,Antioch,37,,,
-2020-04-10,Contra Costa,013,Bay Point,20,,,
-2020-04-10,Contra Costa,013,Bethel Island,1,,,
-2020-04-10,Contra Costa,013,Brentwood,34,,,
-2020-04-10,Contra Costa,013,Clayton,4,,,
-2020-04-10,Contra Costa,013,Concord,46,,,
-2020-04-10,Contra Costa,013,Danville,22,,,
-2020-04-10,Contra Costa,013,Discovery Bay,6,,,
-2020-04-10,Contra Costa,013,El Cerrito,7,,,
-2020-04-10,Contra Costa,013,El Sobrante,13,,,
-2020-04-10,Contra Costa,013,Hercules,9,,,
-2020-04-10,Contra Costa,013,Lafayette,16,,,
-2020-04-10,Contra Costa,013,Martinez,8,,,
-2020-04-10,Contra Costa,013,Moraga,5,,,
-2020-04-10,Contra Costa,013,Oakley,22,,,
-2020-04-10,Contra Costa,013,Orinda,33,,,
+2020-04-10,Alameda,001,Union City,36,,-122.048333,37.596389
+2020-04-10,Contra Costa,013,Alamo,15,,-122.032222,37.850278
+2020-04-10,Contra Costa,013,Antioch,37,,-121.805833,38.005
+2020-04-10,Contra Costa,013,Bay Point,20,,-121.961667,38.029167
+2020-04-10,Contra Costa,013,Bethel Island,1,,-121.640556,38.015
+2020-04-10,Contra Costa,013,Brentwood,34,,-121.695833,37.931944
+2020-04-10,Contra Costa,013,Clayton,4,,-121.935833,37.941111
+2020-04-10,Contra Costa,013,Concord,46,,-122.031111,37.978056
+2020-04-10,Contra Costa,013,Danville,22,,-122.0,37.821667
+2020-04-10,Contra Costa,013,Discovery Bay,6,,-121.600278,37.908611
+2020-04-10,Contra Costa,013,El Cerrito,7,,-122.311667,37.915833
+2020-04-10,Contra Costa,013,El Sobrante,13,,-122.295278,37.977222
+2020-04-10,Contra Costa,013,Hercules,9,,-122.288611,38.017222
+2020-04-10,Contra Costa,013,Lafayette,16,,-122.118056,37.885833
+2020-04-10,Contra Costa,013,Martinez,8,,-122.134167,38.019444
+2020-04-10,Contra Costa,013,Moraga,5,,-122.129722,37.835
+2020-04-10,Contra Costa,013,Oakley,22,,-121.7125,37.9975
+2020-04-10,Contra Costa,013,Orinda,33,,-122.179722,37.882778
 2020-04-10,Contra Costa,013,Other/Unspecified,10,,,
-2020-04-10,Contra Costa,013,Pacheco,4,,,
-2020-04-10,Contra Costa,013,Pinole,7,,,
-2020-04-10,Contra Costa,013,Pittsburg,39,,,
-2020-04-10,Contra Costa,013,Pleasant Hill,13,,,
-2020-04-10,Contra Costa,013,Richmond,51,,,
-2020-04-10,Contra Costa,013,Rodeo,5,,,
-2020-04-10,Contra Costa,013,San Pablo,26,,,
-2020-04-10,Contra Costa,013,San Ramon,27,,,
-2020-04-10,Contra Costa,013,Walnut Creek,31,,,
-2020-04-10,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,,
-2020-04-10,El Dorado,017,"Diamond Springs, El Dorado",0,,,
-2020-04-10,El Dorado,017,El Dorado Hills,13,,,
-2020-04-10,El Dorado,017,Greater Placerville,5,,,
-2020-04-10,El Dorado,017,Lake Tahoe Region,9,,,
-2020-04-10,El Dorado,017,North County,2,,,
-2020-04-10,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,,
-2020-04-10,El Dorado,017,South County,0,,,
+2020-04-10,Contra Costa,013,Pacheco,4,,-122.075278,37.983611
+2020-04-10,Contra Costa,013,Pinole,7,,-122.291111,38.004444
+2020-04-10,Contra Costa,013,Pittsburg,39,,-121.884722,38.028056
+2020-04-10,Contra Costa,013,Pleasant Hill,13,,-122.0525,37.948056
+2020-04-10,Contra Costa,013,Richmond,51,,-122.347778,37.935833
+2020-04-10,Contra Costa,013,Rodeo,5,,-122.266944,38.033056
+2020-04-10,Contra Costa,013,San Pablo,26,,-122.345556,37.962222
+2020-04-10,Contra Costa,013,San Ramon,27,,-121.978056,37.78
+2020-04-10,Contra Costa,013,Walnut Creek,31,,-122.065,37.906389
+2020-04-10,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,-120.987222,38.668889
+2020-04-10,El Dorado,017,"Diamond Springs, El Dorado",0,,-120.815,38.694722
+2020-04-10,El Dorado,017,El Dorado Hills,13,,-121.082222,38.685833
+2020-04-10,El Dorado,017,Greater Placerville,5,,-120.798611,38.729722
+2020-04-10,El Dorado,017,Lake Tahoe Region,9,,-119.977187,38.939926
+2020-04-10,El Dorado,017,North County,2,,-120.306071,38.99614
+2020-04-10,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,-120.586594,38.761292
+2020-04-10,El Dorado,017,South County,0,,-120.57326,38.581296
 2020-04-10,Kern,029,Bakersfield East,137,,-118.789756,35.451612
 2020-04-10,Kern,029,Bakersfield West,129,,-119.20883,35.382088
 2020-04-10,Kern,029,Desert,10,,-117.948332,35.302887
@@ -1068,7 +1068,7 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-10,Riverside,065,Cherry Valley,1,,-116.977248,33.972515
 2020-04-10,Riverside,065,Coachella,42,,-116.182425,33.686059
 2020-04-10,Riverside,065,Corona,58,,-117.648816,33.85932
-2020-04-10,Riverside,065,Coronita,1,,,
+2020-04-10,Riverside,065,Coronita,1,,-117.611389,33.875833
 2020-04-10,Riverside,065,Desert Edge,2,,-116.440538,33.921539
 2020-04-10,Riverside,065,Desert Hot Springs,13,,-116.61534,33.961634
 2020-04-10,Riverside,065,Desert Palms,3,,-116.374456,33.722244
@@ -1082,14 +1082,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-10,Riverside,065,Green Acres,1,,-117.09307,33.738058
 2020-04-10,Riverside,065,Hemet,27,,-117.060185,33.725795
 2020-04-10,Riverside,065,Home Gardens,3,,-117.523476,33.881265
-2020-04-10,Riverside,065,Homeland,1,,,
+2020-04-10,Riverside,065,Homeland,1,,-117.113333,33.741944
 2020-04-10,Riverside,065,Idyllwild-Pine Cove,3,,-116.762466,33.743539
 2020-04-10,Riverside,065,Indian Wells,9,,-116.369369,33.707409
 2020-04-10,Riverside,065,Indio,61,,-116.300284,33.738849
 2020-04-10,Riverside,065,Jurupa Valley,25,,-117.529214,33.992044
 2020-04-10,Riverside,065,La Quinta,28,,-116.344796,33.660873
 2020-04-10,Riverside,065,Lake Elsinore,42,,-117.38781,33.688474
-2020-04-10,Riverside,065,Lake Mathews,1,,,
+2020-04-10,Riverside,065,Lake Mathews,1,,-117.368333,33.825
 2020-04-10,Riverside,065,Lakeland Village,4,,-117.365068,33.641002
 2020-04-10,Riverside,065,Mead Valley,10,,-117.296361,33.837219
 2020-04-10,Riverside,065,Meadowbrook,1,,-117.301306,33.72459
@@ -1114,14 +1114,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-10,Riverside,065,Valle Vista,2,,-116.887115,33.743607
 2020-04-10,Riverside,065,Wildomar,22,,-117.293586,33.616152
 2020-04-10,Riverside,065,Woodcrest,6,,-117.405956,33.887064
-2020-04-10,Sacramento,067,Citrus Heights,33,,,
-2020-04-10,Sacramento,067,Elk Grove,63,,,
-2020-04-10,Sacramento,067,Folsom,13,,,
-2020-04-10,Sacramento,067,Galt,6,,,
-2020-04-10,Sacramento,067,Isleton,1,,,
-2020-04-10,Sacramento,067,Outside of Cities,122,,,
-2020-04-10,Sacramento,067,Rancho Cordova,46,,,
-2020-04-10,Sacramento,067,Sacramento,367,,,
+2020-04-10,Sacramento,067,Citrus Heights,33,,-121.283333,38.7
+2020-04-10,Sacramento,067,Elk Grove,63,,-121.381944,38.438333
+2020-04-10,Sacramento,067,Folsom,13,,-121.157778,38.672222
+2020-04-10,Sacramento,067,Galt,6,,-121.303056,38.260833
+2020-04-10,Sacramento,067,Isleton,1,,-121.609167,38.161944
+2020-04-10,Sacramento,067,Outside of cities,122,,,
+2020-04-10,Sacramento,067,Rancho Cordova,46,,-121.302778,38.589167
+2020-04-10,Sacramento,067,Sacramento,367,,-121.494444,38.581667
 2020-04-10,San Bernardino,071,Adelanto,4,,-117.560861,34.591254
 2020-04-10,San Bernardino,071,Alta Loma,7,,-117.598109,34.122232
 2020-04-10,San Bernardino,071,Apple Valley,10,,-117.185876,34.500831
@@ -1161,7 +1161,7 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-10,San Bernardino,071,Yucca Valley,4,,-116.432235,34.114174
 2020-04-10,San Diego,073,Alpine,1,,-116.791972,32.844067
 2020-04-10,San Diego,073,Bonita,13,,-117.029174,32.672774
-2020-04-10,San Diego,073,BorregoS prings,1,,,
+2020-04-10,San Diego,073,Borrego Springs,1,,-116.423024,33.25489
 2020-04-10,San Diego,073,Boulevard,1,,-116.286294,32.663632
 2020-04-10,San Diego,073,Carlsbad,48,,-117.282654,33.130701
 2020-04-10,San Diego,073,Chula Vista,163,,-117.005993,32.632325
@@ -1192,13 +1192,22 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-10,San Diego,073,Spring Valley,42,,-116.999869,32.744752
 2020-04-10,San Diego,073,Valley Center,3,,-117.090885,33.226252
 2020-04-10,San Diego,073,Vista,28,,-117.243746,33.201367
+2020-04-10,San Joaquin,077,Escalon,,,-120.991667,37.791667
+2020-04-10,San Joaquin,077,Lathrop,,,-121.288611,37.816944
+2020-04-10,San Joaquin,077,Lodi,,,-121.280833,38.128889
+2020-04-10,San Joaquin,077,Manteca,,,-121.220833,37.802778
+2020-04-10,San Joaquin,077,Ripon,,,-121.128333,37.740556
+2020-04-10,San Joaquin,077,Stockton,,,-121.300833,37.975556
+2020-04-10,San Joaquin,077,Tracy,,,-121.433889,37.738056
+2020-04-10,San Joaquin,077,Unincorporated,,,,
+2020-04-10,San Joaquin,077,Unknown,,,,
 2020-04-10,San Luis Obispo,079,Arroyo Grande,14,,-120.590725,35.118587
 2020-04-10,San Luis Obispo,079,Atascadero,21,,-120.670726,35.489417
 2020-04-10,San Luis Obispo,079,Morro Bay,6,,-120.849992,35.365944
 2020-04-10,San Luis Obispo,079,Nipomo,6,,-120.475999,35.042755
 2020-04-10,San Luis Obispo,079,Other,15,,,
 2020-04-10,San Luis Obispo,079,Paso Robles,29,,-120.654502,35.636876
-2020-04-10,San Luis Obispo,079,San Luis Obispo (city),10,,,
+2020-04-10,San Luis Obispo,079,San Luis Obispo,10,,120.659616,35.282752
 2020-04-10,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-10,Santa Barbara,083,Goleta,5,,-119.898454,34.436278
 2020-04-10,Santa Barbara,083,Goleta Valley & Gaviota,11,,-120.214872,34.471656
@@ -1210,37 +1219,37 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-10,Santa Barbara,083,Santa Maria,63,,-120.435719,34.953034
 2020-04-10,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-10,Santa Barbara,083,South County,16,,-119.69819,34.42083
-2020-04-10,Santa Clara,085,Campbell,,,,
-2020-04-10,Santa Clara,085,Cupertino,,,,
-2020-04-10,Santa Clara,085,Gilroy,,,,
-2020-04-10,Santa Clara,085,Los Altos,,,,
-2020-04-10,Santa Clara,085,Los Altos Hills,,,,
-2020-04-10,Santa Clara,085,Los Gatos,,,,
-2020-04-10,Santa Clara,085,Milpitas,,,,
-2020-04-10,Santa Clara,085,Monte Sereno,,,,
-2020-04-10,Santa Clara,085,Morgan Hill,,,,
-2020-04-10,Santa Clara,085,Mountain View,,,,
+2020-04-10,Santa Clara,085,Campbell,,,-121.955,37.283889
+2020-04-10,Santa Clara,085,Cupertino,,,-122.031944,37.323056
+2020-04-10,Santa Clara,085,Gilroy,,,-121.58,37.011944
+2020-04-10,Santa Clara,085,Los Altos,,,-122.0975,37.368056
+2020-04-10,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
+2020-04-10,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
+2020-04-10,Santa Clara,085,Milpitas,,,-121.895,37.434722
+2020-04-10,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
+2020-04-10,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
+2020-04-10,Santa Clara,085,Mountain View,,,-122.081944,37.389444
 2020-04-10,Santa Clara,085,Other/Unknown,,,,
-2020-04-10,Santa Clara,085,Palo Alto,,,,
-2020-04-10,Santa Clara,085,San Jose,,,,
-2020-04-10,Santa Clara,085,Santa Clara,,,,
-2020-04-10,Santa Clara,085,Saratoga,,,,
-2020-04-10,Santa Clara,085,Sunnyvale,,,,
-2020-04-10,Sonoma,097,Central County,80,,,
-2020-04-10,Sonoma,097,East County,15,,,
-2020-04-10,Sonoma,097,North County,17,,,
-2020-04-10,Sonoma,097,South County,19,,,
-2020-04-10,Sonoma,097,West County,14,,,
-2020-04-10,Stanislaus,099,Ceres,11,,,
+2020-04-10,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
+2020-04-10,Santa Clara,085,San Jose,,,-121.9,37.333333
+2020-04-10,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
+2020-04-10,Santa Clara,085,Saratoga,,,-122.019444,37.2725
+2020-04-10,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
+2020-04-10,Sonoma,097,Central County,80,,-122.704722,38.448611
+2020-04-10,Sonoma,097,East County,15,,-122.546111,38.413889
+2020-04-10,Sonoma,097,North County,17,,-122.902679,38.707482
+2020-04-10,Sonoma,097,South County,19,,-122.631389,38.245833
+2020-04-10,Sonoma,097,West County,14,,-122.990833,38.506389
+2020-04-10,Stanislaus,099,Ceres,11,,-120.957222,37.601389
 2020-04-10,Stanislaus,099,County,20,,,
-2020-04-10,Stanislaus,099,Hughson,,,,
-2020-04-10,Stanislaus,099,Modesto,53,,,
-2020-04-10,Stanislaus,099,Newman,,,,
-2020-04-10,Stanislaus,099,Oakdale,,,,
-2020-04-10,Stanislaus,099,Patterson,10,,,
-2020-04-10,Stanislaus,099,Riverbank,5,,,
-2020-04-10,Stanislaus,099,Turlock,5,,,
-2020-04-10,Stanislaus,099,Waterford,5,,,
+2020-04-10,Stanislaus,099,Hughson,,,-120.866944,37.603056
+2020-04-10,Stanislaus,099,Modesto,53,,-120.994444,37.661389
+2020-04-10,Stanislaus,099,Newman,,,-121.0225,37.315
+2020-04-10,Stanislaus,099,Oakdale,,,-120.856944,37.769167
+2020-04-10,Stanislaus,099,Patterson,10,,-121.132778,37.473056
+2020-04-10,Stanislaus,099,Riverbank,5,,-120.943611,37.731389
+2020-04-10,Stanislaus,099,Turlock,5,,-120.848889,37.505833
+2020-04-10,Stanislaus,099,Waterford,5,,-120.7675,37.645
 2020-04-10,Ventura,111,Camarillo,35,,-119.03636,34.218076
 2020-04-10,Ventura,111,Fillmore,1,,-118.933112,34.401069
 2020-04-10,Ventura,111,Lake Sherwood,3,,-118.869875,34.143531
@@ -1259,60 +1268,60 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-10,Ventura,111,Thousand Oaks,43,,-118.839304,34.172478
 2020-04-10,Ventura,111,Ventura,25,,-119.293754,34.282366
 2020-04-10,Ventura,111,Westlake,8,,-118.82443,34.135589
-2020-04-10,Yolo,113,Davis,11,,,
-2020-04-10,Yolo,113,West Sacramento,36,,,
-2020-04-10,Yolo,113,Winters and unincorporated,7,,,
-2020-04-10,Yolo,113,Woodland,21,,,
-2020-04-09,Alameda,001,Alameda,22,,,
-2020-04-09,Alameda,001,Albany,,,,
-2020-04-09,Alameda,001,Berkeley,32,,,
-2020-04-09,Alameda,001,Dublin,13,,,
-2020-04-09,Alameda,001,Emeryville,,,,
-2020-04-09,Alameda,001,Fremont,64,,,
-2020-04-09,Alameda,001,Hayward,142,,,
-2020-04-09,Alameda,001,Livermore,28,,,
-2020-04-09,Alameda,001,Newark,24,,,
-2020-04-09,Alameda,001,Oakland,157,,,
-2020-04-09,Alameda,001,Piedmont,,,,
-2020-04-09,Alameda,001,Pleasanton,40,,,
-2020-04-09,Alameda,001,San Leandro,37,,,
+2020-04-10,Yolo,113,Davis,11,,-121.738056,38.553889
+2020-04-10,Yolo,113,West Sacramento,36,,-121.530278,38.580556
+2020-04-10,Yolo,113,Winters and unincorporated,7,,-121.970833,38.525
+2020-04-10,Yolo,113,Woodland,21,,-121.773333,38.678611
+2020-04-09,Alameda,001,Alameda,22,,-122.274444,37.756111
+2020-04-09,Alameda,001,Albany,,,-122.297778,37.886944
+2020-04-09,Alameda,001,Berkeley,32,,-122.272778,37.871667
+2020-04-09,Alameda,001,Dublin,13,,-121.935833,37.702222
+2020-04-09,Alameda,001,Emeryville,,,-122.285278,37.831389
+2020-04-09,Alameda,001,Fremont,64,,-121.988611,37.548333
+2020-04-09,Alameda,001,Hayward,142,,-122.080796,37.66882
+2020-04-09,Alameda,001,Livermore,28,,-121.768056,37.681944
+2020-04-09,Alameda,001,Newark,24,,-122.033333,37.533333
+2020-04-09,Alameda,001,Oakland,157,,-122.270833,37.804444
+2020-04-09,Alameda,001,Piedmont,,,-122.233333,37.816667
+2020-04-09,Alameda,001,Pleasanton,40,,-121.874722,37.6625
+2020-04-09,Alameda,001,San Leandro,37,,-122.156111,37.725
 2020-04-09,Alameda,001,Unincorporated,84,,,
-2020-04-09,Alameda,001,Union City,32,,,
-2020-04-09,Contra Costa,013,Alamo,13,,,
-2020-04-09,Contra Costa,013,Antioch,34,,,
-2020-04-09,Contra Costa,013,Bay Point,20,,,
-2020-04-09,Contra Costa,013,Bethel Island,1,,,
-2020-04-09,Contra Costa,013,Brentwood,32,,,
-2020-04-09,Contra Costa,013,Clayton,4,,,
-2020-04-09,Contra Costa,013,Concord,41,,,
-2020-04-09,Contra Costa,013,Danville,20,,,
-2020-04-09,Contra Costa,013,Discovery Bay,6,,,
-2020-04-09,Contra Costa,013,El Cerrito,6,,,
-2020-04-09,Contra Costa,013,El Sobrante,13,,,
-2020-04-09,Contra Costa,013,Hercules,9,,,
-2020-04-09,Contra Costa,013,Lafayette,16,,,
-2020-04-09,Contra Costa,013,Martinez,9,,,
-2020-04-09,Contra Costa,013,Moraga,5,,,
-2020-04-09,Contra Costa,013,Oakley,21,,,
-2020-04-09,Contra Costa,013,Orinda,33,,,
+2020-04-09,Alameda,001,Union City,32,,-122.048333,37.596389
+2020-04-09,Contra Costa,013,Alamo,13,,-122.032222,37.850278
+2020-04-09,Contra Costa,013,Antioch,34,,-121.805833,38.005
+2020-04-09,Contra Costa,013,Bay Point,20,,-121.961667,38.029167
+2020-04-09,Contra Costa,013,Bethel Island,1,,-121.640556,38.015
+2020-04-09,Contra Costa,013,Brentwood,32,,-121.695833,37.931944
+2020-04-09,Contra Costa,013,Clayton,4,,-121.935833,37.941111
+2020-04-09,Contra Costa,013,Concord,41,,-122.031111,37.978056
+2020-04-09,Contra Costa,013,Danville,20,,-122.0,37.821667
+2020-04-09,Contra Costa,013,Discovery Bay,6,,-121.600278,37.908611
+2020-04-09,Contra Costa,013,El Cerrito,6,,-122.311667,37.915833
+2020-04-09,Contra Costa,013,El Sobrante,13,,-122.295278,37.977222
+2020-04-09,Contra Costa,013,Hercules,9,,-122.288611,38.017222
+2020-04-09,Contra Costa,013,Lafayette,16,,-122.118056,37.885833
+2020-04-09,Contra Costa,013,Martinez,9,,-122.134167,38.019444
+2020-04-09,Contra Costa,013,Moraga,5,,-122.129722,37.835
+2020-04-09,Contra Costa,013,Oakley,21,,-121.7125,37.9975
+2020-04-09,Contra Costa,013,Orinda,33,,-122.179722,37.882778
 2020-04-09,Contra Costa,013,Other/Unspecified,10,,,
-2020-04-09,Contra Costa,013,Pacheco,5,,,
-2020-04-09,Contra Costa,013,Pinole,7,,,
-2020-04-09,Contra Costa,013,Pittsburg,36,,,
-2020-04-09,Contra Costa,013,Pleasant Hill,11,,,
-2020-04-09,Contra Costa,013,Richmond,46,,,
-2020-04-09,Contra Costa,013,Rodeo,5,,,
-2020-04-09,Contra Costa,013,San Pablo,26,,,
-2020-04-09,Contra Costa,013,San Ramon,26,,,
-2020-04-09,Contra Costa,013,Walnut Creek,29,,,
-2020-04-09,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,,
-2020-04-09,El Dorado,017,"Diamond Springs, El Dorado",0,,,
-2020-04-09,El Dorado,017,El Dorado Hills,11,,,
-2020-04-09,El Dorado,017,Greater Placerville,5,,,
-2020-04-09,El Dorado,017,Lake Tahoe Region,9,,,
-2020-04-09,El Dorado,017,North County,2,,,
-2020-04-09,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,,
-2020-04-09,El Dorado,017,South County,0,,,
+2020-04-09,Contra Costa,013,Pacheco,5,,-122.075278,37.983611
+2020-04-09,Contra Costa,013,Pinole,7,,-122.291111,38.004444
+2020-04-09,Contra Costa,013,Pittsburg,36,,-121.884722,38.028056
+2020-04-09,Contra Costa,013,Pleasant Hill,11,,-122.0525,37.948056
+2020-04-09,Contra Costa,013,Richmond,46,,-122.347778,37.935833
+2020-04-09,Contra Costa,013,Rodeo,5,,-122.266944,38.033056
+2020-04-09,Contra Costa,013,San Pablo,26,,-122.345556,37.962222
+2020-04-09,Contra Costa,013,San Ramon,26,,-121.978056,37.78
+2020-04-09,Contra Costa,013,Walnut Creek,29,,-122.065,37.906389
+2020-04-09,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,-120.987222,38.668889
+2020-04-09,El Dorado,017,"Diamond Springs, El Dorado",0,,-120.815,38.694722
+2020-04-09,El Dorado,017,El Dorado Hills,11,,-121.082222,38.685833
+2020-04-09,El Dorado,017,Greater Placerville,5,,-120.798611,38.729722
+2020-04-09,El Dorado,017,Lake Tahoe Region,9,,-119.977187,38.939926
+2020-04-09,El Dorado,017,North County,2,,-120.306071,38.99614
+2020-04-09,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,-120.586594,38.761292
+2020-04-09,El Dorado,017,South County,0,,-120.57326,38.581296
 2020-04-09,Kern,029,Bakersfield East,119,,-118.789756,35.451612
 2020-04-09,Kern,029,Bakersfield West,124,,-119.20883,35.382088
 2020-04-09,Kern,029,Desert,9,,-117.948332,35.302887
@@ -1711,14 +1720,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-09,Riverside,065,Green Acres,1,,-117.09307,33.738058
 2020-04-09,Riverside,065,Hemet,23,,-117.060185,33.725795
 2020-04-09,Riverside,065,Home Gardens,2,,-117.523476,33.881265
-2020-04-09,Riverside,065,Homeland,1,,,
+2020-04-09,Riverside,065,Homeland,1,,-117.113333,33.741944
 2020-04-09,Riverside,065,Idyllwild-Pine Cove,3,,-116.762466,33.743539
 2020-04-09,Riverside,065,Indian Wells,9,,-116.369369,33.707409
 2020-04-09,Riverside,065,Indio,58,,-116.300284,33.738849
 2020-04-09,Riverside,065,Jurupa Valley,23,,-117.529214,33.992044
 2020-04-09,Riverside,065,La Quinta,28,,-116.344796,33.660873
 2020-04-09,Riverside,065,Lake Elsinore,35,,-117.38781,33.688474
-2020-04-09,Riverside,065,Lake Mathews,1,,,
+2020-04-09,Riverside,065,Lake Mathews,1,,-117.368333,33.825
 2020-04-09,Riverside,065,Lakeland Village,2,,-117.365068,33.641002
 2020-04-09,Riverside,065,Mead Valley,8,,-117.296361,33.837219
 2020-04-09,Riverside,065,Meadowbrook,1,,-117.301306,33.72459
@@ -1743,14 +1752,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-09,Riverside,065,Valle Vista,1,,-116.887115,33.743607
 2020-04-09,Riverside,065,Wildomar,22,,-117.293586,33.616152
 2020-04-09,Riverside,065,Woodcrest,5,,-117.405956,33.887064
-2020-04-09,Sacramento,067,Citrus Heights,31,,,
-2020-04-09,Sacramento,067,Elk Grove,60,,,
-2020-04-09,Sacramento,067,Folsom,13,,,
-2020-04-09,Sacramento,067,Galt,6,,,
-2020-04-09,Sacramento,067,Isleton,1,,,
-2020-04-09,Sacramento,067,Outside of Cities,114,,,
-2020-04-09,Sacramento,067,Rancho Cordova,40,,,
-2020-04-09,Sacramento,067,Sacramento,343,,,
+2020-04-09,Sacramento,067,Citrus Heights,31,,-121.283333,38.7
+2020-04-09,Sacramento,067,Elk Grove,60,,-121.381944,38.438333
+2020-04-09,Sacramento,067,Folsom,13,,-121.157778,38.672222
+2020-04-09,Sacramento,067,Galt,6,,-121.303056,38.260833
+2020-04-09,Sacramento,067,Isleton,1,,-121.609167,38.161944
+2020-04-09,Sacramento,067,Outside of cities,114,,,
+2020-04-09,Sacramento,067,Rancho Cordova,40,,-121.302778,38.589167
+2020-04-09,Sacramento,067,Sacramento,343,,-121.494444,38.581667
 2020-04-09,San Bernardino,071,Adelanto,3,,-117.560861,34.591254
 2020-04-09,San Bernardino,071,Alta Loma,6,,-117.598109,34.122232
 2020-04-09,San Bernardino,071,Apple Valley,10,,-117.185876,34.500831
@@ -1839,38 +1848,38 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-09,Santa Barbara,083,Santa Maria,59,,-120.435719,34.953034
 2020-04-09,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-09,Santa Barbara,083,South County,16,,-119.69819,34.42083
-2020-04-09,Santa Clara,085,Campbell,,,,
-2020-04-09,Santa Clara,085,Cupertino,,,,
-2020-04-09,Santa Clara,085,Gilroy,,,,
-2020-04-09,Santa Clara,085,Los Altos,,,,
-2020-04-09,Santa Clara,085,Los Altos Hills,,,,
-2020-04-09,Santa Clara,085,Los Gatos,,,,
-2020-04-09,Santa Clara,085,Milpitas,,,,
-2020-04-09,Santa Clara,085,Monte Sereno,,,,
-2020-04-09,Santa Clara,085,Morgan Hill,,,,
-2020-04-09,Santa Clara,085,Mountain View,,,,
-2020-04-09,Santa Clara,085,Other/uknown,,,,
-2020-04-09,Santa Clara,085,Palo Alto,,,,
-2020-04-09,Santa Clara,085,San Jose,,,,
-2020-04-09,Santa Clara,085,Santa Clara,,,,
-2020-04-09,Santa Clara,085,Saratoga,,,,
-2020-04-09,Santa Clara,085,Sunnyvale,,,,
+2020-04-09,Santa Clara,085,Campbell,,,-121.955,37.283889
+2020-04-09,Santa Clara,085,Cupertino,,,-122.031944,37.323056
+2020-04-09,Santa Clara,085,Gilroy,,,-121.58,37.011944
+2020-04-09,Santa Clara,085,Los Altos,,,-122.0975,37.368056
+2020-04-09,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
+2020-04-09,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
+2020-04-09,Santa Clara,085,Milpitas,,,-121.895,37.434722
+2020-04-09,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
+2020-04-09,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
+2020-04-09,Santa Clara,085,Mountain View,,,-122.081944,37.389444
+2020-04-09,Santa Clara,085,Other/Unknown,,,,
+2020-04-09,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
+2020-04-09,Santa Clara,085,San Jose,,,-121.9,37.333333
+2020-04-09,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
+2020-04-09,Santa Clara,085,Saratoga,,,-122.019444,37.2725
+2020-04-09,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
 2020-04-09,Santa Clara,085,Unincorporated,,,,
-2020-04-09,Sonoma,097,Central County,77,,,
-2020-04-09,Sonoma,097,East County,15,,,
-2020-04-09,Sonoma,097,North County,17,,,
-2020-04-09,Sonoma,097,South County,18,,,
-2020-04-09,Sonoma,097,West County,13,,,
-2020-04-09,Stanislaus,099,Ceres,10,,,
+2020-04-09,Sonoma,097,Central County,77,,-122.704722,38.448611
+2020-04-09,Sonoma,097,East County,15,,-122.546111,38.413889
+2020-04-09,Sonoma,097,North County,17,,-122.902679,38.707482
+2020-04-09,Sonoma,097,South County,18,,-122.631389,38.245833
+2020-04-09,Sonoma,097,West County,13,,-122.990833,38.506389
+2020-04-09,Stanislaus,099,Ceres,10,,-120.957222,37.601389
 2020-04-09,Stanislaus,099,County,17,,,
-2020-04-09,Stanislaus,099,Hughson,,,,
-2020-04-09,Stanislaus,099,Modesto,43,,,
-2020-04-09,Stanislaus,099,Newman,,,,
-2020-04-09,Stanislaus,099,Oakdale,,,,
-2020-04-09,Stanislaus,099,Patterson,8,,,
-2020-04-09,Stanislaus,099,Riverbank,3,,,
-2020-04-09,Stanislaus,099,Turlock,4,,,
-2020-04-09,Stanislaus,099,Waterford,5,,,
+2020-04-09,Stanislaus,099,Hughson,,,-120.866944,37.603056
+2020-04-09,Stanislaus,099,Modesto,43,,-120.994444,37.661389
+2020-04-09,Stanislaus,099,Newman,,,-121.0225,37.315
+2020-04-09,Stanislaus,099,Oakdale,,,-120.856944,37.769167
+2020-04-09,Stanislaus,099,Patterson,8,,-121.132778,37.473056
+2020-04-09,Stanislaus,099,Riverbank,3,,-120.943611,37.731389
+2020-04-09,Stanislaus,099,Turlock,4,,-120.848889,37.505833
+2020-04-09,Stanislaus,099,Waterford,5,,-120.7675,37.645
 2020-04-09,Ventura,111,Camarillo,33,,-119.03636,34.218076
 2020-04-09,Ventura,111,Fillmore,1,,-118.933112,34.401069
 2020-04-09,Ventura,111,Lake Sherwood,2,,-118.869875,34.143531
@@ -1889,60 +1898,60 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-09,Ventura,111,Thousand Oaks,40,,-118.839304,34.172478
 2020-04-09,Ventura,111,Ventura,24,,-119.293754,34.282366
 2020-04-09,Ventura,111,Westlake,8,,-118.82443,34.135589
-2020-04-09,Yolo,113,Davis,11,,,
-2020-04-09,Yolo,113,West Sacramento,35,,,
-2020-04-09,Yolo,113,Winters and unincorporated,7,,,
-2020-04-09,Yolo,113,Woodland,18,,,
-2020-04-08,Alameda,001,Alameda,18,,,
-2020-04-08,Alameda,001,Albany,,,,
-2020-04-08,Alameda,001,Berkeley,30,,,
-2020-04-08,Alameda,001,Dublin,14,,,
-2020-04-08,Alameda,001,Emeryville,,,,
-2020-04-08,Alameda,001,Fremont,40,,,
-2020-04-08,Alameda,001,Hayward,103,,,
-2020-04-08,Alameda,001,Livermore,22,,,
-2020-04-08,Alameda,001,Newark,19,,,
-2020-04-08,Alameda,001,Oakland,127,,,
-2020-04-08,Alameda,001,Piedmont,,,,
-2020-04-08,Alameda,001,Pleasanton,33,,,
-2020-04-08,Alameda,001,San Leandro,27,,,
+2020-04-09,Yolo,113,Davis,11,,-121.738056,38.553889
+2020-04-09,Yolo,113,West Sacramento,35,,-121.530278,38.580556
+2020-04-09,Yolo,113,Winters and unincorporated,7,,-121.970833,38.525
+2020-04-09,Yolo,113,Woodland,18,,-121.773333,38.678611
+2020-04-08,Alameda,001,Alameda,18,,-122.274444,37.756111
+2020-04-08,Alameda,001,Albany,,,-122.297778,37.886944
+2020-04-08,Alameda,001,Berkeley,30,,-122.272778,37.871667
+2020-04-08,Alameda,001,Dublin,14,,-121.935833,37.702222
+2020-04-08,Alameda,001,Emeryville,,,-122.285278,37.831389
+2020-04-08,Alameda,001,Fremont,40,,-121.988611,37.548333
+2020-04-08,Alameda,001,Hayward,103,,-122.080796,37.66882
+2020-04-08,Alameda,001,Livermore,22,,-121.768056,37.681944
+2020-04-08,Alameda,001,Newark,19,,-122.033333,37.533333
+2020-04-08,Alameda,001,Oakland,127,,-122.270833,37.804444
+2020-04-08,Alameda,001,Piedmont,,,-122.233333,37.816667
+2020-04-08,Alameda,001,Pleasanton,33,,-121.874722,37.6625
+2020-04-08,Alameda,001,San Leandro,27,,-122.156111,37.725
 2020-04-08,Alameda,001,Unincorporated,70,,,
-2020-04-08,Alameda,001,Union City,28,,,
-2020-04-08,Contra Costa,013,Alamo,13,,,
-2020-04-08,Contra Costa,013,Antioch,32,,,
-2020-04-08,Contra Costa,013,Bay Point,20,,,
-2020-04-08,Contra Costa,013,Bethel Island,1,,,
-2020-04-08,Contra Costa,013,Brentwood,29,,,
-2020-04-08,Contra Costa,013,Clayton,4,,,
-2020-04-08,Contra Costa,013,Concord,37,,,
-2020-04-08,Contra Costa,013,Danville,19,,,
-2020-04-08,Contra Costa,013,Discovery Bay,6,,,
-2020-04-08,Contra Costa,013,El Cerrito,5,,,
-2020-04-08,Contra Costa,013,El Sobrante,13,,,
-2020-04-08,Contra Costa,013,Hercules,9,,,
-2020-04-08,Contra Costa,013,Lafayette,16,,,
-2020-04-08,Contra Costa,013,Martinez,8,,,
-2020-04-08,Contra Costa,013,Moraga,5,,,
-2020-04-08,Contra Costa,013,Oakley,20,,,
-2020-04-08,Contra Costa,013,Orinda,33,,,
+2020-04-08,Alameda,001,Union City,28,,-122.048333,37.596389
+2020-04-08,Contra Costa,013,Alamo,13,,-122.032222,37.850278
+2020-04-08,Contra Costa,013,Antioch,32,,-121.805833,38.005
+2020-04-08,Contra Costa,013,Bay Point,20,,-121.961667,38.029167
+2020-04-08,Contra Costa,013,Bethel Island,1,,-121.640556,38.015
+2020-04-08,Contra Costa,013,Brentwood,29,,-121.695833,37.931944
+2020-04-08,Contra Costa,013,Clayton,4,,-121.935833,37.941111
+2020-04-08,Contra Costa,013,Concord,37,,-122.031111,37.978056
+2020-04-08,Contra Costa,013,Danville,19,,-122.0,37.821667
+2020-04-08,Contra Costa,013,Discovery Bay,6,,-121.600278,37.908611
+2020-04-08,Contra Costa,013,El Cerrito,5,,-122.311667,37.915833
+2020-04-08,Contra Costa,013,El Sobrante,13,,-122.295278,37.977222
+2020-04-08,Contra Costa,013,Hercules,9,,-122.288611,38.017222
+2020-04-08,Contra Costa,013,Lafayette,16,,-122.118056,37.885833
+2020-04-08,Contra Costa,013,Martinez,8,,-122.134167,38.019444
+2020-04-08,Contra Costa,013,Moraga,5,,-122.129722,37.835
+2020-04-08,Contra Costa,013,Oakley,20,,-121.7125,37.9975
+2020-04-08,Contra Costa,013,Orinda,33,,-122.179722,37.882778
 2020-04-08,Contra Costa,013,Other/Unspecified,9,,,
-2020-04-08,Contra Costa,013,Pacheco,5,,,
-2020-04-08,Contra Costa,013,Pinole,7,,,
-2020-04-08,Contra Costa,013,Pittsburg,33,,,
-2020-04-08,Contra Costa,013,Pleasant Hill,11,,,
-2020-04-08,Contra Costa,013,Richmond,43,,,
-2020-04-08,Contra Costa,013,Rodeo,5,,,
-2020-04-08,Contra Costa,013,San Pablo,25,,,
-2020-04-08,Contra Costa,013,San Ramon,25,,,
-2020-04-08,Contra Costa,013,Walnut Creek,28,,,
-2020-04-08,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,,
-2020-04-08,El Dorado,017,"Diamond Springs, El Dorado",0,,,
-2020-04-08,El Dorado,017,El Dorado Hills,10,,,
-2020-04-08,El Dorado,017,Greater Placerville,5,,,
-2020-04-08,El Dorado,017,Lake Tahoe Region,9,,,
-2020-04-08,El Dorado,017,North County,2,,,
-2020-04-08,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,,
-2020-04-08,El Dorado,017,South County,0,,,
+2020-04-08,Contra Costa,013,Pacheco,5,,-122.075278,37.983611
+2020-04-08,Contra Costa,013,Pinole,7,,-122.291111,38.004444
+2020-04-08,Contra Costa,013,Pittsburg,33,,-121.884722,38.028056
+2020-04-08,Contra Costa,013,Pleasant Hill,11,,-122.0525,37.948056
+2020-04-08,Contra Costa,013,Richmond,43,,-122.347778,37.935833
+2020-04-08,Contra Costa,013,Rodeo,5,,-122.266944,38.033056
+2020-04-08,Contra Costa,013,San Pablo,25,,-122.345556,37.962222
+2020-04-08,Contra Costa,013,San Ramon,25,,-121.978056,37.78
+2020-04-08,Contra Costa,013,Walnut Creek,28,,-122.065,37.906389
+2020-04-08,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,-120.987222,38.668889
+2020-04-08,El Dorado,017,"Diamond Springs, El Dorado",0,,-120.815,38.694722
+2020-04-08,El Dorado,017,El Dorado Hills,10,,-121.082222,38.685833
+2020-04-08,El Dorado,017,Greater Placerville,5,,-120.798611,38.729722
+2020-04-08,El Dorado,017,Lake Tahoe Region,9,,-119.977187,38.939926
+2020-04-08,El Dorado,017,North County,2,,-120.306071,38.99614
+2020-04-08,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,-120.586594,38.761292
+2020-04-08,El Dorado,017,South County,0,,-120.57326,38.581296
 2020-04-08,Kern,029,Bakersfield East,117,,-118.789756,35.451612
 2020-04-08,Kern,029,Bakersfield West,123,,-119.20883,35.382088
 2020-04-08,Kern,029,Desert,9,,-117.948332,35.302887
@@ -2340,14 +2349,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-08,Riverside,065,Green Acres,1,,-117.09307,33.738058
 2020-04-08,Riverside,065,Hemet,21,,-117.060185,33.725795
 2020-04-08,Riverside,065,Home Gardens,1,,-117.523476,33.881265
-2020-04-08,Riverside,065,Homeland,1,,,
+2020-04-08,Riverside,065,Homeland,1,,-117.113333,33.741944
 2020-04-08,Riverside,065,Idyllwild-Pine Cove,3,,-116.762466,33.743539
 2020-04-08,Riverside,065,Indian Wells,9,,-116.369369,33.707409
 2020-04-08,Riverside,065,Indio,58,,-116.300284,33.738849
 2020-04-08,Riverside,065,Jurupa Valley,20,,-117.529214,33.992044
 2020-04-08,Riverside,065,La Quinta,28,,-116.344796,33.660873
 2020-04-08,Riverside,065,Lake Elsinore,34,,-117.38781,33.688474
-2020-04-08,Riverside,065,Lake Mathews,1,,,
+2020-04-08,Riverside,065,Lake Mathews,1,,-117.368333,33.825
 2020-04-08,Riverside,065,Lakeland Village,2,,-117.365068,33.641002
 2020-04-08,Riverside,065,Mead Valley,9,,-117.296361,33.837219
 2020-04-08,Riverside,065,Meadowbrook,1,,-117.301306,33.72459
@@ -2372,14 +2381,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-08,Riverside,065,Valle Vista,1,,-116.887115,33.743607
 2020-04-08,Riverside,065,Wildomar,21,,-117.293586,33.616152
 2020-04-08,Riverside,065,Woodcrest,5,,-117.405956,33.887064
-2020-04-08,Sacramento,067,Citrus Heights,26,,,
-2020-04-08,Sacramento,067,Elk Grove,59,,,
-2020-04-08,Sacramento,067,Folsom,13,,,
-2020-04-08,Sacramento,067,Galt,6,,,
-2020-04-08,Sacramento,067,Isleton,1,,,
-2020-04-08,Sacramento,067,Outside of Cities,107,,,
-2020-04-08,Sacramento,067,Rancho Cordova,37,,,
-2020-04-08,Sacramento,067,Sacramento,323,,,
+2020-04-08,Sacramento,067,Citrus Heights,26,,-121.283333,38.7
+2020-04-08,Sacramento,067,Elk Grove,59,,-121.381944,38.438333
+2020-04-08,Sacramento,067,Folsom,13,,-121.157778,38.672222
+2020-04-08,Sacramento,067,Galt,6,,-121.303056,38.260833
+2020-04-08,Sacramento,067,Isleton,1,,-121.609167,38.161944
+2020-04-08,Sacramento,067,Outside of cities,107,,,
+2020-04-08,Sacramento,067,Rancho Cordova,37,,-121.302778,38.589167
+2020-04-08,Sacramento,067,Sacramento,323,,-121.494444,38.581667
 2020-04-08,San Bernardino,071,Adelanto,3,,-117.560861,34.591254
 2020-04-08,San Bernardino,071,Alta Loma,5,,-117.598109,34.122232
 2020-04-08,San Bernardino,071,Apple Valley,8,,-117.185876,34.500831
@@ -2467,16 +2476,16 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-08,Santa Barbara,083,Santa Maria,59,,-120.435719,34.953034
 2020-04-08,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-08,Santa Barbara,083,South County,16,,-119.69819,34.42083
-2020-04-08,Stanislaus,099,Ceres,10,,,
+2020-04-08,Stanislaus,099,Ceres,10,,-120.957222,37.601389
 2020-04-08,Stanislaus,099,County,17,,,
-2020-04-08,Stanislaus,099,Hughson,,,,
-2020-04-08,Stanislaus,099,Modesto,43,,,
-2020-04-08,Stanislaus,099,Newman,,,,
-2020-04-08,Stanislaus,099,Oakdale,,,,
-2020-04-08,Stanislaus,099,Patterson,8,,,
-2020-04-08,Stanislaus,099,Riverbank,3,,,
-2020-04-08,Stanislaus,099,Turlock,4,,,
-2020-04-08,Stanislaus,099,Waterford,5,,,
+2020-04-08,Stanislaus,099,Hughson,,,-120.866944,37.603056
+2020-04-08,Stanislaus,099,Modesto,43,,-120.994444,37.661389
+2020-04-08,Stanislaus,099,Newman,,,-121.0225,37.315
+2020-04-08,Stanislaus,099,Oakdale,,,-120.856944,37.769167
+2020-04-08,Stanislaus,099,Patterson,8,,-121.132778,37.473056
+2020-04-08,Stanislaus,099,Riverbank,3,,-120.943611,37.731389
+2020-04-08,Stanislaus,099,Turlock,4,,-120.848889,37.505833
+2020-04-08,Stanislaus,099,Waterford,5,,-120.7675,37.645
 2020-04-08,Ventura,111,Camarillo,32,,-119.03636,34.218076
 2020-04-08,Ventura,111,Lake Sherwood,2,,-118.869875,34.143531
 2020-04-08,Ventura,111,Moorpark,17,,-118.881099,34.280189
@@ -2494,45 +2503,45 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-08,Ventura,111,Thousand Oaks,40,,-118.839304,34.172478
 2020-04-08,Ventura,111,Ventura,23,,-119.293754,34.282366
 2020-04-08,Ventura,111,Westlake,8,,-118.82443,34.135589
-2020-04-08,Yolo,113,Davis,10,,,
-2020-04-08,Yolo,113,West Sacramento,34,,,
-2020-04-08,Yolo,113,Winters and unincorporated,6,,,
-2020-04-08,Yolo,113,Woodland,17,,,
-2020-04-07,Contra Costa,013,Alamo,13,,,
-2020-04-07,Contra Costa,013,Antioch,27,,,
-2020-04-07,Contra Costa,013,Bay Point,18,,,
-2020-04-07,Contra Costa,013,Bethel Island,1,,,
-2020-04-07,Contra Costa,013,Brentwood,27,,,
-2020-04-07,Contra Costa,013,Clayton,4,,,
-2020-04-07,Contra Costa,013,Concord,36,,,
-2020-04-07,Contra Costa,013,Danville,19,,,
-2020-04-07,Contra Costa,013,Discovery Bay,6,,,
-2020-04-07,Contra Costa,013,El Cerrito,5,,,
-2020-04-07,Contra Costa,013,El Sobrante,13,,,
-2020-04-07,Contra Costa,013,Hercules,9,,,
-2020-04-07,Contra Costa,013,Lafayette,15,,,
-2020-04-07,Contra Costa,013,Martinez,8,,,
-2020-04-07,Contra Costa,013,Moraga,5,,,
-2020-04-07,Contra Costa,013,Oakley,20,,,
-2020-04-07,Contra Costa,013,Orinda,33,,,
+2020-04-08,Yolo,113,Davis,10,,-121.738056,38.553889
+2020-04-08,Yolo,113,West Sacramento,34,,-121.530278,38.580556
+2020-04-08,Yolo,113,Winters and unincorporated,6,,-121.970833,38.525
+2020-04-08,Yolo,113,Woodland,17,,-121.773333,38.678611
+2020-04-07,Contra Costa,013,Alamo,13,,-122.032222,37.850278
+2020-04-07,Contra Costa,013,Antioch,27,,-121.805833,38.005
+2020-04-07,Contra Costa,013,Bay Point,18,,-121.961667,38.029167
+2020-04-07,Contra Costa,013,Bethel Island,1,,-121.640556,38.015
+2020-04-07,Contra Costa,013,Brentwood,27,,-121.695833,37.931944
+2020-04-07,Contra Costa,013,Clayton,4,,-121.935833,37.941111
+2020-04-07,Contra Costa,013,Concord,36,,-122.031111,37.978056
+2020-04-07,Contra Costa,013,Danville,19,,-122.0,37.821667
+2020-04-07,Contra Costa,013,Discovery Bay,6,,-121.600278,37.908611
+2020-04-07,Contra Costa,013,El Cerrito,5,,-122.311667,37.915833
+2020-04-07,Contra Costa,013,El Sobrante,13,,-122.295278,37.977222
+2020-04-07,Contra Costa,013,Hercules,9,,-122.288611,38.017222
+2020-04-07,Contra Costa,013,Lafayette,15,,-122.118056,37.885833
+2020-04-07,Contra Costa,013,Martinez,8,,-122.134167,38.019444
+2020-04-07,Contra Costa,013,Moraga,5,,-122.129722,37.835
+2020-04-07,Contra Costa,013,Oakley,20,,-121.7125,37.9975
+2020-04-07,Contra Costa,013,Orinda,33,,-122.179722,37.882778
 2020-04-07,Contra Costa,013,Other/Unspecified,9,,,
-2020-04-07,Contra Costa,013,Pacheco,5,,,
-2020-04-07,Contra Costa,013,Pinole,5,,,
-2020-04-07,Contra Costa,013,Pittsburg,33,,,
-2020-04-07,Contra Costa,013,Pleasant Hill,10,,,
-2020-04-07,Contra Costa,013,Richmond,39,,,
-2020-04-07,Contra Costa,013,Rodeo,5,,,
-2020-04-07,Contra Costa,013,San Pablo,26,,,
-2020-04-07,Contra Costa,013,San Ramon,23,,,
-2020-04-07,Contra Costa,013,Walnut Creek,28,,,
-2020-04-07,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,,
-2020-04-07,El Dorado,017,"Diamond Springs, El Dorado",0,,,
-2020-04-07,El Dorado,017,El Dorado Hills,10,,,
-2020-04-07,El Dorado,017,Greater Placerville,4,,,
-2020-04-07,El Dorado,017,Lake Tahoe Region,9,,,
-2020-04-07,El Dorado,017,North County,2,,,
-2020-04-07,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,,
-2020-04-07,El Dorado,017,South County,0,,,
+2020-04-07,Contra Costa,013,Pacheco,5,,-122.075278,37.983611
+2020-04-07,Contra Costa,013,Pinole,5,,-122.291111,38.004444
+2020-04-07,Contra Costa,013,Pittsburg,33,,-121.884722,38.028056
+2020-04-07,Contra Costa,013,Pleasant Hill,10,,-122.0525,37.948056
+2020-04-07,Contra Costa,013,Richmond,39,,-122.347778,37.935833
+2020-04-07,Contra Costa,013,Rodeo,5,,-122.266944,38.033056
+2020-04-07,Contra Costa,013,San Pablo,26,,-122.345556,37.962222
+2020-04-07,Contra Costa,013,San Ramon,23,,-121.978056,37.78
+2020-04-07,Contra Costa,013,Walnut Creek,28,,-122.065,37.906389
+2020-04-07,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,-120.987222,38.668889
+2020-04-07,El Dorado,017,"Diamond Springs, El Dorado",0,,-120.815,38.694722
+2020-04-07,El Dorado,017,El Dorado Hills,10,,-121.082222,38.685833
+2020-04-07,El Dorado,017,Greater Placerville,4,,-120.798611,38.729722
+2020-04-07,El Dorado,017,Lake Tahoe Region,9,,-119.977187,38.939926
+2020-04-07,El Dorado,017,North County,2,,-120.306071,38.99614
+2020-04-07,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,-120.586594,38.761292
+2020-04-07,El Dorado,017,South County,0,,-120.57326,38.581296
 2020-04-07,Kern,029,Bakersfield East,94,,-118.789756,35.451612
 2020-04-07,Kern,029,Bakersfield West,110,,-119.20883,35.382088
 2020-04-07,Kern,029,Desert,6,,-117.948332,35.302887
@@ -2977,14 +2986,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-07,Riverside,065,Warm Springs,2,,-117.328651,33.679744
 2020-04-07,Riverside,065,Wildomar,20,,-117.293586,33.616152
 2020-04-07,Riverside,065,Woodcrest,5,,-117.405956,33.887064
-2020-04-07,Sacramento,067,Citrus Heights,25,,,
-2020-04-07,Sacramento,067,Elk Grove,54,,,
-2020-04-07,Sacramento,067,Folsom,12,,,
-2020-04-07,Sacramento,067,Galt,5,,,
-2020-04-07,Sacramento,067,Isleton,1,,,
+2020-04-07,Sacramento,067,Citrus Heights,25,,-121.283333,38.7
+2020-04-07,Sacramento,067,Elk Grove,54,,-121.381944,38.438333
+2020-04-07,Sacramento,067,Folsom,12,,-121.157778,38.672222
+2020-04-07,Sacramento,067,Galt,5,,-121.303056,38.260833
+2020-04-07,Sacramento,067,Isleton,1,,-121.609167,38.161944
 2020-04-07,Sacramento,067,Outside of cities,95,,,
-2020-04-07,Sacramento,067,Rancho Cordova,34,,,
-2020-04-07,Sacramento,067,Sacramento,287,,,
+2020-04-07,Sacramento,067,Rancho Cordova,34,,-121.302778,38.589167
+2020-04-07,Sacramento,067,Sacramento,287,,-121.494444,38.581667
 2020-04-07,San Bernardino,071,Adelanto,3,,-117.560861,34.591254
 2020-04-07,San Bernardino,071,Alta Loma,4,,-117.598109,34.122232
 2020-04-07,San Bernardino,071,Apple Valley,7,,-117.185876,34.500831
@@ -3071,16 +3080,16 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-07,Santa Barbara,083,Santa Maria,59,,-120.435719,34.953034
 2020-04-07,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-07,Santa Barbara,083,South County,14,,-119.69819,34.42083
-2020-04-07,Stanislaus,099,Ceres,9,,,
+2020-04-07,Stanislaus,099,Ceres,9,,-120.957222,37.601389
 2020-04-07,Stanislaus,099,County,17,,,
-2020-04-07,Stanislaus,099,Hughson,,,,
-2020-04-07,Stanislaus,099,Modesto,39,,,
-2020-04-07,Stanislaus,099,Newman,,,,
-2020-04-07,Stanislaus,099,Oakdale,,,,
-2020-04-07,Stanislaus,099,Patterson,8,,,
-2020-04-07,Stanislaus,099,Riverbank,3,,,
-2020-04-07,Stanislaus,099,Turlock,4,,,
-2020-04-07,Stanislaus,099,Waterford,5,,,
+2020-04-07,Stanislaus,099,Hughson,,,-120.866944,37.603056
+2020-04-07,Stanislaus,099,Modesto,39,,-120.994444,37.661389
+2020-04-07,Stanislaus,099,Newman,,,-121.0225,37.315
+2020-04-07,Stanislaus,099,Oakdale,,,-120.856944,37.769167
+2020-04-07,Stanislaus,099,Patterson,8,,-121.132778,37.473056
+2020-04-07,Stanislaus,099,Riverbank,3,,-120.943611,37.731389
+2020-04-07,Stanislaus,099,Turlock,4,,-120.848889,37.505833
+2020-04-07,Stanislaus,099,Waterford,5,,-120.7675,37.645
 2020-04-07,Ventura,111,Camarillo,32,,-119.03636,34.218076
 2020-04-07,Ventura,111,Lake Sherwood,2,,-118.869875,34.143531
 2020-04-07,Ventura,111,Moorpark,15,,-118.881099,34.280189
@@ -3098,45 +3107,45 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-07,Ventura,111,Thousand Oaks,36,,-118.839304,34.172478
 2020-04-07,Ventura,111,Ventura,21,,-119.293754,34.282366
 2020-04-07,Ventura,111,Westlake,9,,-118.82443,34.135589
-2020-04-07,Yolo,113,Davis,10,,,
-2020-04-07,Yolo,113,West Sacramento,33,,,
-2020-04-07,Yolo,113,Winters and unincorporated,6,,,
-2020-04-07,Yolo,113,Woodland,7,,,
-2020-04-06,Contra Costa,013,Alamo,13,,,
-2020-04-06,Contra Costa,013,Antioch,26,,,
-2020-04-06,Contra Costa,013,Bay Point,15,,,
-2020-04-06,Contra Costa,013,Bethel Island,1,,,
-2020-04-06,Contra Costa,013,Brentwood,24,,,
-2020-04-06,Contra Costa,013,Clayton,4,,,
-2020-04-06,Contra Costa,013,Concord,30,,,
-2020-04-06,Contra Costa,013,Danville,19,,,
-2020-04-06,Contra Costa,013,Discovery Bay,6,,,
-2020-04-06,Contra Costa,013,El Cerrito,4,,,
-2020-04-06,Contra Costa,013,El Sobrante,13,,,
-2020-04-06,Contra Costa,013,Hercules,9,,,
-2020-04-06,Contra Costa,013,Lafayette,15,,,
-2020-04-06,Contra Costa,013,Martinez,8,,,
-2020-04-06,Contra Costa,013,Moraga,5,,,
-2020-04-06,Contra Costa,013,Oakley,17,,,
-2020-04-06,Contra Costa,013,Orinda,35,,,
+2020-04-07,Yolo,113,Davis,10,,-121.738056,38.553889
+2020-04-07,Yolo,113,West Sacramento,33,,-121.530278,38.580556
+2020-04-07,Yolo,113,Winters and unincorporated,6,,-121.970833,38.525
+2020-04-07,Yolo,113,Woodland,7,,-121.773333,38.678611
+2020-04-06,Contra Costa,013,Alamo,13,,-122.032222,37.850278
+2020-04-06,Contra Costa,013,Antioch,26,,-121.805833,38.005
+2020-04-06,Contra Costa,013,Bay Point,15,,-121.961667,38.029167
+2020-04-06,Contra Costa,013,Bethel Island,1,,-121.640556,38.015
+2020-04-06,Contra Costa,013,Brentwood,24,,-121.695833,37.931944
+2020-04-06,Contra Costa,013,Clayton,4,,-121.935833,37.941111
+2020-04-06,Contra Costa,013,Concord,30,,-122.031111,37.978056
+2020-04-06,Contra Costa,013,Danville,19,,-122.0,37.821667
+2020-04-06,Contra Costa,013,Discovery Bay,6,,-121.600278,37.908611
+2020-04-06,Contra Costa,013,El Cerrito,4,,-122.311667,37.915833
+2020-04-06,Contra Costa,013,El Sobrante,13,,-122.295278,37.977222
+2020-04-06,Contra Costa,013,Hercules,9,,-122.288611,38.017222
+2020-04-06,Contra Costa,013,Lafayette,15,,-122.118056,37.885833
+2020-04-06,Contra Costa,013,Martinez,8,,-122.134167,38.019444
+2020-04-06,Contra Costa,013,Moraga,5,,-122.129722,37.835
+2020-04-06,Contra Costa,013,Oakley,17,,-121.7125,37.9975
+2020-04-06,Contra Costa,013,Orinda,35,,-122.179722,37.882778
 2020-04-06,Contra Costa,013,Other/Unspecified,6,,,
-2020-04-06,Contra Costa,013,Pacheco,5,,,
-2020-04-06,Contra Costa,013,Pinole,4,,,
-2020-04-06,Contra Costa,013,Pittsburg,32,,,
-2020-04-06,Contra Costa,013,Pleasant Hill,9,,,
-2020-04-06,Contra Costa,013,Richmond,37,,,
-2020-04-06,Contra Costa,013,Rodeo,5,,,
-2020-04-06,Contra Costa,013,San Pablo,25,,,
-2020-04-06,Contra Costa,013,San Ramon,23,,,
-2020-04-06,Contra Costa,013,Walnut Creek,27,,,
-2020-04-06,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,,
-2020-04-06,El Dorado,017,"Diamond Springs, El Dorado",0,,,
-2020-04-06,El Dorado,017,El Dorado Hills,7,,,
-2020-04-06,El Dorado,017,Greater Placerville,3,,,
-2020-04-06,El Dorado,017,North County,2,,,
-2020-04-06,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,,
-2020-04-06,El Dorado,017,South County,0,,,
-2020-04-06,El Dorado,017,South Lake Tahoe Region,10,,,
+2020-04-06,Contra Costa,013,Pacheco,5,,-122.075278,37.983611
+2020-04-06,Contra Costa,013,Pinole,4,,-122.291111,38.004444
+2020-04-06,Contra Costa,013,Pittsburg,32,,-121.884722,38.028056
+2020-04-06,Contra Costa,013,Pleasant Hill,9,,-122.0525,37.948056
+2020-04-06,Contra Costa,013,Richmond,37,,-122.347778,37.935833
+2020-04-06,Contra Costa,013,Rodeo,5,,-122.266944,38.033056
+2020-04-06,Contra Costa,013,San Pablo,25,,-122.345556,37.962222
+2020-04-06,Contra Costa,013,San Ramon,23,,-121.978056,37.78
+2020-04-06,Contra Costa,013,Walnut Creek,27,,-122.065,37.906389
+2020-04-06,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,-120.987222,38.668889
+2020-04-06,El Dorado,017,"Diamond Springs, El Dorado",0,,-120.815,38.694722
+2020-04-06,El Dorado,017,El Dorado Hills,7,,-121.082222,38.685833
+2020-04-06,El Dorado,017,Greater Placerville,3,,-120.798611,38.729722
+2020-04-06,El Dorado,017,Lake Tahoe Region,10,,-119.977187,38.939926
+2020-04-06,El Dorado,017,North County,2,,-120.306071,38.99614
+2020-04-06,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,-120.586594,38.761292
+2020-04-06,El Dorado,017,South County,0,,-120.57326,38.581296
 2020-04-06,Kern,029,Bakersfield East,83,,-118.789756,35.451612
 2020-04-06,Kern,029,Bakersfield West,107,,-119.20883,35.382088
 2020-04-06,Kern,029,Desert,6,,-117.948332,35.302887
@@ -3579,14 +3588,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-06,Riverside,065,Warm Springs,2,,-117.328651,33.679744
 2020-04-06,Riverside,065,Wildomar,19,,-117.293586,33.616152
 2020-04-06,Riverside,065,Woodcrest,4,,-117.405956,33.887064
-2020-04-06,Sacramento,067,Citrus Heights,20,,,
-2020-04-06,Sacramento,067,Elk Grove,47,,,
-2020-04-06,Sacramento,067,Folsom,11,,,
-2020-04-06,Sacramento,067,Galt,4,,,
-2020-04-06,Sacramento,067,Isleton,1,,,
+2020-04-06,Sacramento,067,Citrus Heights,20,,-121.283333,38.7
+2020-04-06,Sacramento,067,Elk Grove,47,,-121.381944,38.438333
+2020-04-06,Sacramento,067,Folsom,11,,-121.157778,38.672222
+2020-04-06,Sacramento,067,Galt,4,,-121.303056,38.260833
+2020-04-06,Sacramento,067,Isleton,1,,-121.609167,38.161944
 2020-04-06,Sacramento,067,Outside of cities,73,,,
-2020-04-06,Sacramento,067,Rancho Cordova,33,,,
-2020-04-06,Sacramento,067,Sacramento,246,,,
+2020-04-06,Sacramento,067,Rancho Cordova,33,,-121.302778,38.589167
+2020-04-06,Sacramento,067,Sacramento,246,,-121.494444,38.581667
 2020-04-06,San Bernardino,071,Adelanto,3,,-117.560861,34.591254
 2020-04-06,San Bernardino,071,Alta Loma,4,,-117.598109,34.122232
 2020-04-06,San Bernardino,071,Apple Valley,7,,-117.185876,34.500831
@@ -3673,16 +3682,16 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-06,Santa Barbara,083,Santa Maria,53,,-120.435719,34.953034
 2020-04-06,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-06,Santa Barbara,083,South County,13,,-119.69819,34.42083
-2020-04-06,Stanislaus,099,Ceres,8,,,
+2020-04-06,Stanislaus,099,Ceres,8,,-120.957222,37.601389
 2020-04-06,Stanislaus,099,County,15,,,
-2020-04-06,Stanislaus,099,Hughson,,,,
-2020-04-06,Stanislaus,099,Modesto,33,,,
-2020-04-06,Stanislaus,099,Newman,,,,
-2020-04-06,Stanislaus,099,Oakdale,,,,
-2020-04-06,Stanislaus,099,Patterson,8,,,
-2020-04-06,Stanislaus,099,Riverbank,3,,,
-2020-04-06,Stanislaus,099,Turlock,4,,,
-2020-04-06,Stanislaus,099,Waterford,,,,
+2020-04-06,Stanislaus,099,Hughson,,,-120.866944,37.603056
+2020-04-06,Stanislaus,099,Modesto,33,,-120.994444,37.661389
+2020-04-06,Stanislaus,099,Newman,,,-121.0225,37.315
+2020-04-06,Stanislaus,099,Oakdale,,,-120.856944,37.769167
+2020-04-06,Stanislaus,099,Patterson,8,,-121.132778,37.473056
+2020-04-06,Stanislaus,099,Riverbank,3,,-120.943611,37.731389
+2020-04-06,Stanislaus,099,Turlock,4,,-120.848889,37.505833
+2020-04-06,Stanislaus,099,Waterford,,,-120.7675,37.645
 2020-04-06,Ventura,111,Camarillo,31,,-119.03636,34.218076
 2020-04-06,Ventura,111,Lake Sherwood,2,,-118.869875,34.143531
 2020-04-06,Ventura,111,Moorpark,15,,-118.881099,34.280189
@@ -3700,10 +3709,10 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-06,Ventura,111,Thousand Oaks,33,,-118.839304,34.172478
 2020-04-06,Ventura,111,Ventura,21,,-119.293754,34.282366
 2020-04-06,Ventura,111,Westlake,8,,-118.82443,34.135589
-2020-04-06,Yolo,113,Davis,10,,,
-2020-04-06,Yolo,113,West Sacramento,27,,,
-2020-04-06,Yolo,113,Winters and unincorporated,6,,,
-2020-04-06,Yolo,113,Woodland,7,,,
+2020-04-06,Yolo,113,Davis,10,,-121.738056,38.553889
+2020-04-06,Yolo,113,West Sacramento,27,,-121.530278,38.580556
+2020-04-06,Yolo,113,Winters and unincorporated,6,,-121.970833,38.525
+2020-04-06,Yolo,113,Woodland,7,,-121.773333,38.678611
 2020-04-05,Kern,029,Bakersfield East,70,,-118.789756,35.451612
 2020-04-05,Kern,029,Bakersfield West,101,,-119.20883,35.382088
 2020-04-05,Kern,029,Desert,6,,-117.948332,35.302887
@@ -4145,14 +4154,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-05,Riverside,065,Warm Springs,1,,-117.328651,33.679744
 2020-04-05,Riverside,065,Wildomar,15,,-117.293586,33.616152
 2020-04-05,Riverside,065,Woodcrest,4,,-117.405956,33.887064
-2020-04-05,Sacramento,067,Citrus Heights,20,,,
-2020-04-05,Sacramento,067,Elk Grove,47,,,
-2020-04-05,Sacramento,067,Folsom,11,,,
-2020-04-05,Sacramento,067,Galt,4,,,
-2020-04-05,Sacramento,067,Isleton,1,,,
+2020-04-05,Sacramento,067,Citrus Heights,20,,-121.283333,38.7
+2020-04-05,Sacramento,067,Elk Grove,47,,-121.381944,38.438333
+2020-04-05,Sacramento,067,Folsom,11,,-121.157778,38.672222
+2020-04-05,Sacramento,067,Galt,4,,-121.303056,38.260833
+2020-04-05,Sacramento,067,Isleton,1,,-121.609167,38.161944
 2020-04-05,Sacramento,067,Outside of cities,73,,,
-2020-04-05,Sacramento,067,Rancho Cordova,33,,,
-2020-04-05,Sacramento,067,Sacramento,246,,,
+2020-04-05,Sacramento,067,Rancho Cordova,33,,-121.302778,38.589167
+2020-04-05,Sacramento,067,Sacramento,246,,-121.494444,38.581667
 2020-04-05,San Bernardino,071,Adelanto,3,,-117.560861,34.591254
 2020-04-05,San Bernardino,071,Alta Loma,4,,-117.598109,34.122232
 2020-04-05,San Bernardino,071,Apple Valley,4,,-117.185876,34.500831
@@ -4790,14 +4799,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-04,Ventura,111,Thousand Oaks,29,,-118.839304,34.172478
 2020-04-04,Ventura,111,Ventura,20,,-119.293754,34.282366
 2020-04-04,Ventura,111,Westlake,7,,-118.82443,34.135589
-2020-04-03,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,,
-2020-04-03,El Dorado,017,"Diamond Springs, El Dorado",0,,,
-2020-04-03,El Dorado,017,El Dorado Hills,5,,,
-2020-04-03,El Dorado,017,Greater Placerville,3,,,
-2020-04-03,El Dorado,017,North County,2,,,
-2020-04-03,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,,
-2020-04-03,El Dorado,017,South County,0,,,
-2020-04-03,El Dorado,017,South Lake Tahoe Region,9,,,
+2020-04-03,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,-120.987222,38.668889
+2020-04-03,El Dorado,017,"Diamond Springs, El Dorado",0,,-120.815,38.694722
+2020-04-03,El Dorado,017,El Dorado Hills,5,,-121.082222,38.685833
+2020-04-03,El Dorado,017,Greater Placerville,3,,-120.798611,38.729722
+2020-04-03,El Dorado,017,Lake Tahoe Region,9,,-119.977187,38.939926
+2020-04-03,El Dorado,017,North County,2,,-120.306071,38.99614
+2020-04-03,El Dorado,017,"Pollock Pines, Camino, Kyburz",0,,-120.586594,38.761292
+2020-04-03,El Dorado,017,South County,0,,-120.57326,38.581296
 2020-04-03,Los Angeles,037,Acton,1,Between 1 and 4,-118.216138,34.481366
 2020-04-03,Los Angeles,037,Adams-Normandie,12,,-118.302397,34.029122
 2020-04-03,Los Angeles,037,Agoura Hills,16,,-118.760876,34.151007
@@ -5228,14 +5237,14 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-03,Riverside,065,Temescal Valley,1,,-117.495958,33.766606
 2020-04-03,Riverside,065,Wildomar,13,,-117.293586,33.616152
 2020-04-03,Riverside,065,Woodcrest,3,,-117.405956,33.887064
-2020-04-03,Sacramento,067,Citrus Heights,17,,,
-2020-04-03,Sacramento,067,Elk Grove,43,,,
-2020-04-03,Sacramento,067,Folsom,9,,,
-2020-04-03,Sacramento,067,Galt,4,,,
-2020-04-03,Sacramento,067,Isleton,0,,,
+2020-04-03,Sacramento,067,Citrus Heights,17,,-121.283333,38.7
+2020-04-03,Sacramento,067,Elk Grove,43,,-121.381944,38.438333
+2020-04-03,Sacramento,067,Folsom,9,,-121.157778,38.672222
+2020-04-03,Sacramento,067,Galt,4,,-121.303056,38.260833
+2020-04-03,Sacramento,067,Isleton,0,,-121.609167,38.161944
 2020-04-03,Sacramento,067,Outside of cities,66,,,
-2020-04-03,Sacramento,067,Rancho Cordova,30,,,
-2020-04-03,Sacramento,067,Sacramento,216,,,
+2020-04-03,Sacramento,067,Rancho Cordova,30,,-121.302778,38.589167
+2020-04-03,Sacramento,067,Sacramento,216,,-121.494444,38.581667
 2020-04-03,San Bernardino,071,Adelanto,3,,-117.560861,34.591254
 2020-04-03,San Bernardino,071,Alta Loma,4,,-117.598109,34.122232
 2020-04-03,San Bernardino,071,Apple Valley,4,,-117.185876,34.500831
@@ -5330,10 +5339,10 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-03,Ventura,111,Thousand Oaks,30,,-118.839304,34.172478
 2020-04-03,Ventura,111,Ventura,19,,-119.293754,34.282366
 2020-04-03,Ventura,111,Westlake,7,,-118.82443,34.135589
-2020-04-03,Yolo,113,Davis,8,,,
-2020-04-03,Yolo,113,West Sacramento,19,,,
-2020-04-03,Yolo,113,Winters and unincorporated,6,,,
-2020-04-03,Yolo,113,Woodland,4,,,
+2020-04-03,Yolo,113,Davis,8,,-121.738056,38.553889
+2020-04-03,Yolo,113,West Sacramento,19,,-121.530278,38.580556
+2020-04-03,Yolo,113,Winters and unincorporated,6,,-121.970833,38.525
+2020-04-03,Yolo,113,Woodland,4,,-121.773333,38.678611
 2020-04-02,Los Angeles,037,Acton,1,Between 1 and 4,-118.216138,34.481366
 2020-04-02,Los Angeles,037,Adams-Normandie,8,,-118.302397,34.029122
 2020-04-02,Los Angeles,037,Agoura Hills,14,,-118.760876,34.151007
