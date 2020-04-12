@@ -78,15 +78,23 @@ Some counties, primarily in Southern California, break out the location of cases
 
 These counties currently provide the data and are being tracked by The Times:
 
+- Alameda
+- Contra Costa
+- El Dorado
 - Los Angeles
 - Kern
 - Orange
 - Riverside
+- Sacramento
 - San Bernardino
 - San Diego
 - San Luis Obispo
 - Santa Barbara
+- Santa Clara
+- Sonoma
+- Stanislaus
 - Ventura
+- Yolo
 
 The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations in other counties are manually geocoded by The Times.
 
