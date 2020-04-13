@@ -1,4 +1,4 @@
-date,county,fips,place,confirmed_cases,note,lon,y
+date,county,fips,place,confirmed_cases,note,x,y
 2020-04-08,Alameda,001,Alameda,18,,-122.274444,37.756111
 2020-04-08,Alameda,001,Albany,,,-122.297778,37.886944
 2020-04-08,Alameda,001,Berkeley,30,,-122.272778,37.871667
@@ -10023,6 +10023,17 @@ date,county,fips,place,confirmed_cases,note,lon,y
 2020-04-12,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-12,Santa Barbara,083,South County,16,,-119.69819,34.42083
 2020-04-13,Santa Barbara,083,"Federal Prison, Lompoc",45,,,
+2020-04-13,Santa Barbara,083,"Federal Prison, Lompoc",45,,,
+2020-04-13,Santa Barbara,083,Goleta,5,,-119.898454,34.436278
+2020-04-13,Santa Barbara,083,Goleta Valley & Gaviota,11,,-120.214872,34.471656
+2020-04-13,Santa Barbara,083,Isla Vista,1,,-119.876711,34.414185
+2020-04-13,Santa Barbara,083,Lompoc,41,,-120.457941,34.63915
+2020-04-13,Santa Barbara,083,North County,15,,-120.571836,34.971644
+2020-04-13,Santa Barbara,083,Orcutt,27,,-120.435997,34.865257
+2020-04-13,Santa Barbara,083,Santa Barbara,35,,-119.69819,34.42083
+2020-04-13,Santa Barbara,083,Santa Maria,64,,-120.435719,34.953034
+2020-04-13,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
+2020-04-13,Santa Barbara,083,South County,16,,-119.69819,34.42083
 2020-04-09,Santa Clara,085,Campbell,,,-121.955,37.283889
 2020-04-09,Santa Clara,085,Cupertino,,,-122.031944,37.323056
 2020-04-09,Santa Clara,085,Gilroy,,,-121.58,37.011944
