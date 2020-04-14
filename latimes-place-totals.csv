@@ -10357,12 +10357,12 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-13,San Diego,073,Valley Center,3,,-117.090885,33.226252
 2020-04-13,San Diego,073,Vista,28,,-117.243746,33.201367
 2020-04-10,San Joaquin,077,Escalon,,,-120.991667,37.791667
-2020-04-10,San Joaquin,077,Lathrop,,,-121.288611,37.816944
-2020-04-10,San Joaquin,077,Lodi,,,-121.280833,38.128889
-2020-04-10,San Joaquin,077,Manteca,,,-121.220833,37.802778
+2020-04-10,San Joaquin,077,Lathrop,13,,-121.288611,37.816944
+2020-04-10,San Joaquin,077,Lodi,21,,-121.280833,38.128889
+2020-04-10,San Joaquin,077,Manteca,42,,-121.220833,37.802778
 2020-04-10,San Joaquin,077,Ripon,,,-121.128333,37.740556
-2020-04-10,San Joaquin,077,Stockton,,,-121.300833,37.975556
-2020-04-10,San Joaquin,077,Tracy,,,-121.433889,37.738056
+2020-04-10,San Joaquin,077,Stockton,130,,-121.300833,37.975556
+2020-04-10,San Joaquin,077,Tracy,36,,-121.433889,37.738056
 2020-04-10,San Joaquin,077,Unincorporated,,,,
 2020-04-10,San Joaquin,077,Unknown,,,,
 2020-04-04,San Luis Obispo,079,Arroyo Grande,13,,-120.590725,35.118587
@@ -10628,87 +10628,87 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-13,Santa Barbara,083,Santa Maria,67,,-120.435719,34.953034
 2020-04-13,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-13,Santa Barbara,083,South County,16,,-119.69819,34.42083
-2020-04-09,Santa Clara,085,Campbell,,,-121.955,37.283889
-2020-04-09,Santa Clara,085,Cupertino,,,-122.031944,37.323056
-2020-04-09,Santa Clara,085,Gilroy,,,-121.58,37.011944
-2020-04-09,Santa Clara,085,Los Altos,,,-122.0975,37.368056
-2020-04-09,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
-2020-04-09,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
-2020-04-09,Santa Clara,085,Milpitas,,,-121.895,37.434722
-2020-04-09,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
-2020-04-09,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
-2020-04-09,Santa Clara,085,Mountain View,,,-122.081944,37.389444
-2020-04-09,Santa Clara,085,Other/Unknown,,,,
-2020-04-09,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
-2020-04-09,Santa Clara,085,San Jose,,,-121.9,37.333333
-2020-04-09,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
-2020-04-09,Santa Clara,085,Saratoga,,,-122.019444,37.2725
-2020-04-09,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
-2020-04-09,Santa Clara,085,Unincorporated,,,,
-2020-04-10,Santa Clara,085,Campbell,,,-121.955,37.283889
-2020-04-10,Santa Clara,085,Cupertino,,,-122.031944,37.323056
-2020-04-10,Santa Clara,085,Gilroy,,,-121.58,37.011944
-2020-04-10,Santa Clara,085,Los Altos,,,-122.0975,37.368056
-2020-04-10,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
-2020-04-10,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
-2020-04-10,Santa Clara,085,Milpitas,,,-121.895,37.434722
-2020-04-10,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
-2020-04-10,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
-2020-04-10,Santa Clara,085,Mountain View,,,-122.081944,37.389444
-2020-04-10,Santa Clara,085,Other/Unknown,,,,
-2020-04-10,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
-2020-04-10,Santa Clara,085,San Jose,,,-121.9,37.333333
-2020-04-10,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
-2020-04-10,Santa Clara,085,Saratoga,,,-122.019444,37.2725
-2020-04-10,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
-2020-04-11,Santa Clara,085,Campbell,,,-121.955,37.283889
-2020-04-11,Santa Clara,085,Cupertino,,,-122.031944,37.323056
-2020-04-11,Santa Clara,085,Gilroy,,,-121.58,37.011944
-2020-04-11,Santa Clara,085,Los Altos,,,-122.0975,37.368056
-2020-04-11,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
-2020-04-11,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
-2020-04-11,Santa Clara,085,Milpitas,,,-121.895,37.434722
-2020-04-11,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
-2020-04-11,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
-2020-04-11,Santa Clara,085,Mountain View,,,-122.081944,37.389444
-2020-04-11,Santa Clara,085,Other/Unknown,,,,
-2020-04-11,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
-2020-04-11,Santa Clara,085,San Jose,,,-121.9,37.333333
-2020-04-11,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
-2020-04-11,Santa Clara,085,Saratoga,,,-122.019444,37.2725
-2020-04-11,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
-2020-04-12,Santa Clara,085,Campbell,,,-121.955,37.283889
-2020-04-12,Santa Clara,085,Cupertino,,,-122.031944,37.323056
-2020-04-12,Santa Clara,085,Gilroy,,,-121.58,37.011944
-2020-04-12,Santa Clara,085,Los Altos,,,-122.0975,37.368056
-2020-04-12,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
-2020-04-12,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
-2020-04-12,Santa Clara,085,Milpitas,,,-121.895,37.434722
-2020-04-12,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
-2020-04-12,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
-2020-04-12,Santa Clara,085,Mountain View,,,-122.081944,37.389444
-2020-04-12,Santa Clara,085,Other/Unknown,,,,
-2020-04-12,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
-2020-04-12,Santa Clara,085,San Jose,,,-121.9,37.333333
-2020-04-12,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
-2020-04-12,Santa Clara,085,Saratoga,,,-122.019444,37.2725
-2020-04-12,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
-2020-04-13,Santa Clara,085,Campbell,,,-121.955,37.283889
-2020-04-13,Santa Clara,085,Cupertino,,,-122.031944,37.323056
-2020-04-13,Santa Clara,085,Gilroy,,,-121.58,37.011944
-2020-04-13,Santa Clara,085,Los Altos,,,-122.0975,37.368056
-2020-04-13,Santa Clara,085,Los Altos Hills,,,-122.1375,37.371389
-2020-04-13,Santa Clara,085,Los Gatos,,,-121.961667,37.236111
-2020-04-13,Santa Clara,085,Milpitas,,,-121.895,37.434722
-2020-04-13,Santa Clara,085,Monte Sereno,,,-121.989444,37.238056
-2020-04-13,Santa Clara,085,Morgan Hill,,,-121.654444,37.130556
-2020-04-13,Santa Clara,085,Mountain View,,,-122.081944,37.389444
-2020-04-13,Santa Clara,085,Other/Unknown,,,,
-2020-04-13,Santa Clara,085,Palo Alto,,,-122.138056,37.429167
-2020-04-13,Santa Clara,085,San Jose,,,-121.9,37.333333
-2020-04-13,Santa Clara,085,Santa Clara,,,-121.969167,37.354444
-2020-04-13,Santa Clara,085,Saratoga,,,-122.019444,37.2725
-2020-04-13,Santa Clara,085,Sunnyvale,,,-122.0375,37.371111
+2020-04-09,Santa Clara,085,Campbell,26,,-121.955,37.283889
+2020-04-09,Santa Clara,085,Cupertino,17,,-122.031944,37.323056
+2020-04-09,Santa Clara,085,Gilroy,24,,-121.58,37.011944
+2020-04-09,Santa Clara,085,Los Altos,18,,-122.0975,37.368056
+2020-04-09,Santa Clara,085,Los Altos Hills,1,Less than 10,-122.1375,37.371389
+2020-04-09,Santa Clara,085,Los Gatos,21,,-121.961667,37.236111
+2020-04-09,Santa Clara,085,Milpitas,43,,-121.895,37.434722
+2020-04-09,Santa Clara,085,Monte Sereno,1,Less than 10,-121.989444,37.238056
+2020-04-09,Santa Clara,085,Morgan Hill,25,,-121.654444,37.130556
+2020-04-09,Santa Clara,085,Mountain View,30,,-122.081944,37.389444
+2020-04-09,Santa Clara,085,Other/Unknown,75,,,
+2020-04-09,Santa Clara,085,Palo Alto,57,,-122.138056,37.429167
+2020-04-09,Santa Clara,085,San Jose,958,,-121.9,37.333333
+2020-04-09,Santa Clara,085,Santa Clara,54,,-121.969167,37.354444
+2020-04-09,Santa Clara,085,Saratoga,1,Less than 10,-122.019444,37.2725
+2020-04-09,Santa Clara,085,Sunnyvale,65,,-122.0375,37.371111
+2020-04-09,Santa Clara,085,Unincorporated,1,Less than 10,,
+2020-04-10,Santa Clara,085,Campbell,26,,-121.955,37.283889
+2020-04-10,Santa Clara,085,Cupertino,17,,-122.031944,37.323056
+2020-04-10,Santa Clara,085,Gilroy,24,,-121.58,37.011944
+2020-04-10,Santa Clara,085,Los Altos,18,,-122.0975,37.368056
+2020-04-10,Santa Clara,085,Los Altos Hills,5,,-122.1375,37.371389
+2020-04-10,Santa Clara,085,Los Gatos,22,,-121.961667,37.236111
+2020-04-10,Santa Clara,085,Milpitas,44,,-121.895,37.434722
+2020-04-10,Santa Clara,085,Monte Sereno,6,,-121.989444,37.238056
+2020-04-10,Santa Clara,085,Morgan Hill,26,,-121.654444,37.130556
+2020-04-10,Santa Clara,085,Mountain View,31,,-122.081944,37.389444
+2020-04-10,Santa Clara,085,Other/Unknown,83,,,
+2020-04-10,Santa Clara,085,Palo Alto,57,,-122.138056,37.429167
+2020-04-10,Santa Clara,085,San Jose,986,,-121.9,37.333333
+2020-04-10,Santa Clara,085,Santa Clara,57,,-121.969167,37.354444
+2020-04-10,Santa Clara,085,Saratoga,9,,-122.019444,37.2725
+2020-04-10,Santa Clara,085,Sunnyvale,73,,-122.0375,37.371111
+2020-04-11,Santa Clara,085,Campbell,28,,-121.955,37.283889
+2020-04-11,Santa Clara,085,Cupertino,18,,-122.031944,37.323056
+2020-04-11,Santa Clara,085,Gilroy,25,,-121.58,37.011944
+2020-04-11,Santa Clara,085,Los Altos,18,,-122.0975,37.368056
+2020-04-11,Santa Clara,085,Los Altos Hills,1,Less than 10,-122.1375,37.371389
+2020-04-11,Santa Clara,085,Los Gatos,22,,-121.961667,37.236111
+2020-04-11,Santa Clara,085,Milpitas,47,,-121.895,37.434722
+2020-04-11,Santa Clara,085,Monte Sereno,1,Less than 10,-121.989444,37.238056
+2020-04-11,Santa Clara,085,Morgan Hill,28,,-121.654444,37.130556
+2020-04-11,Santa Clara,085,Mountain View,32,,-122.081944,37.389444
+2020-04-11,Santa Clara,085,Other/Unknown,97,,,
+2020-04-11,Santa Clara,085,Palo Alto,59,,-122.138056,37.429167
+2020-04-11,Santa Clara,085,San Jose,1021,,-121.9,37.333333
+2020-04-11,Santa Clara,085,Santa Clara,66,,-121.969167,37.354444
+2020-04-11,Santa Clara,085,Saratoga,1,Less than 10,-122.019444,37.2725
+2020-04-11,Santa Clara,085,Sunnyvale,85,,-122.0375,37.371111
+2020-04-12,Santa Clara,085,Campbell,28,,-121.955,37.283889
+2020-04-12,Santa Clara,085,Cupertino,18,,-122.031944,37.323056
+2020-04-12,Santa Clara,085,Gilroy,26,,-121.58,37.011944
+2020-04-12,Santa Clara,085,Los Altos,18,,-122.0975,37.368056
+2020-04-12,Santa Clara,085,Los Altos Hills,1,Less than 10,-122.1375,37.371389
+2020-04-12,Santa Clara,085,Los Gatos,23,,-121.961667,37.236111
+2020-04-12,Santa Clara,085,Milpitas,48,,-121.895,37.434722
+2020-04-12,Santa Clara,085,Monte Sereno,1,Less than 10,-121.989444,37.238056
+2020-04-12,Santa Clara,085,Morgan Hill,28,,-121.654444,37.130556
+2020-04-12,Santa Clara,085,Mountain View,34,,-122.081944,37.389444
+2020-04-12,Santa Clara,085,Other/Unknown,104,,,
+2020-04-12,Santa Clara,085,Palo Alto,61,,-122.138056,37.429167
+2020-04-12,Santa Clara,085,San Jose,1053,,-121.9,37.333333
+2020-04-12,Santa Clara,085,Santa Clara,69,,-121.969167,37.354444
+2020-04-12,Santa Clara,085,Saratoga,1,Less than 10,-122.019444,37.2725
+2020-04-12,Santa Clara,085,Sunnyvale,91,,-122.0375,37.371111
+2020-04-13,Santa Clara,085,Campbell,29,,-121.955,37.283889
+2020-04-13,Santa Clara,085,Cupertino,19,,-122.031944,37.323056
+2020-04-13,Santa Clara,085,Gilroy,28,,-121.58,37.011944
+2020-04-13,Santa Clara,085,Los Altos,18,,-122.0975,37.368056
+2020-04-13,Santa Clara,085,Los Altos Hills,1,Less than 10,-122.1375,37.371389
+2020-04-13,Santa Clara,085,Los Gatos,23,,-121.961667,37.236111
+2020-04-13,Santa Clara,085,Milpitas,54,,-121.895,37.434722
+2020-04-13,Santa Clara,085,Monte Sereno,1,Less than 10,-121.989444,37.238056
+2020-04-13,Santa Clara,085,Morgan Hill,30,,-121.654444,37.130556
+2020-04-13,Santa Clara,085,Mountain View,34,,-122.081944,37.389444
+2020-04-13,Santa Clara,085,Other/Unknown,104,,,
+2020-04-13,Santa Clara,085,Palo Alto,62,,-122.138056,37.429167
+2020-04-13,Santa Clara,085,San Jose,1082,,-121.9,37.333333
+2020-04-13,Santa Clara,085,Santa Clara,72,,-121.969167,37.354444
+2020-04-13,Santa Clara,085,Saratoga,1,Less than 10,-122.019444,37.2725
+2020-04-13,Santa Clara,085,Sunnyvale,91,,-122.0375,37.371111
 2020-04-09,Sonoma,097,Central County,77,,-122.704722,38.448611
 2020-04-09,Sonoma,097,East County,15,,-122.546111,38.413889
 2020-04-09,Sonoma,097,North County,17,,-122.902679,38.707482
