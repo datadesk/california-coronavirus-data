@@ -172,10 +172,12 @@ Some dates are missing because the state did not publish a press release for tha
 
 California's Department of Public Health is [listing the nursing homes](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks.
 
+In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the `staff` or `patients` field and an accompanying `note` field includes the set of possible values.
+
 | field           | type    | description                                                                                                                                                                          |
 | --------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `date`          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
-| `name`          | string  | The name of the nursing home                                                                                                                                                         |
+| `name`          | string  | The name of the nursing home.                                                                                                                                                        |
 | `county`        | string  | The name of the county where the city is located.                                                                                                                                    |
 | `fips`          | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `staff`         | integer | The cumulative number of confirmed coronavirus case amoung staff at that time.                                                                                                       |
