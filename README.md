@@ -81,8 +81,10 @@ These counties currently provide the data and are being tracked by The Times:
 - Alameda
 - Contra Costa
 - El Dorado
+- Fresno
 - Los Angeles
 - Kern
+- Marin
 - Orange
 - Riverside
 - Sacramento
@@ -91,6 +93,7 @@ These counties currently provide the data and are being tracked by The Times:
 - San Luis Obispo
 - Santa Barbara
 - Santa Clara
+- Solano
 - Sonoma
 - Stanislaus
 - Ventura
