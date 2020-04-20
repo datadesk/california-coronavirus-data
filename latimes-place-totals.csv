@@ -10080,6 +10080,12 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,Los Angeles,037,Winnetka,67,,-118.575929,34.213111
 2020-04-19,Los Angeles,037,Wiseburn,1,Between 1 and 4,-118.365742,33.90952
 2020-04-19,Los Angeles,037,Woodland Hills,84,,-118.604522,34.16635
+2020-04-19,Marin,041,Central Marin,37,,-122.524722,37.948611
+2020-04-19,Marin,041,Novato,37,,-122.569722,38.1075
+2020-04-19,Marin,041,San Anselmo and Fairfax,14,,-122.561667,37.974722
+2020-04-19,Marin,041,San Rafael,61,,-122.531111,37.973611
+2020-04-19,Marin,041,Southern Marin,42,,-122.456667,37.873611
+2020-04-19,Marin,041,West Marin,,,-122.806944,38.069167
 2020-03-27,Orange,059,Aliso Viejo,2,,-117.726298,33.56846
 2020-03-27,Orange,059,Anaheim,28,,-117.914301,33.836593
 2020-03-27,Orange,059,Brea,1,,-117.900292,33.916475
@@ -10627,7 +10633,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-12,Orange,059,Brea,12,,-117.900292,33.916475
 2020-04-12,Orange,059,Buena Park,44,,-117.998139,33.867404
 2020-04-12,Orange,059,Costa Mesa,26,,-117.904743,33.663844
-2020-04-12,Orange,059,Coto de Caza,5,,,
+2020-04-12,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-12,Orange,059,Cypress,31,,-118.036851,33.816937
 2020-04-12,Orange,059,Dana Point,12,,-117.698912,33.467458
 2020-04-12,Orange,059,Fountain Valley,20,,-117.956243,33.720285
@@ -10664,7 +10670,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-13,Orange,059,Brea,12,,-117.900292,33.916475
 2020-04-13,Orange,059,Buena Park,43,,-117.998139,33.867404
 2020-04-13,Orange,059,Costa Mesa,26,,-117.904743,33.663844
-2020-04-13,Orange,059,Coto de Caza,5,,,
+2020-04-13,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-13,Orange,059,Cypress,31,,-118.036851,33.816937
 2020-04-13,Orange,059,Dana Point,12,,-117.698912,33.467458
 2020-04-13,Orange,059,Fountain Valley,20,,-117.956243,33.720285
@@ -10701,7 +10707,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-14,Orange,059,Brea,12,,-117.900292,33.916475
 2020-04-14,Orange,059,Buena Park,45,,-117.998139,33.867404
 2020-04-14,Orange,059,Costa Mesa,26,,-117.904743,33.663844
-2020-04-14,Orange,059,Coto de Caza,5,,,
+2020-04-14,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-14,Orange,059,Cypress,32,,-118.036851,33.816937
 2020-04-14,Orange,059,Dana Point,12,,-117.698912,33.467458
 2020-04-14,Orange,059,Fountain Valley,20,,-117.956243,33.720285
@@ -10739,7 +10745,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-15,Orange,059,Brea,13,,-117.900292,33.916475
 2020-04-15,Orange,059,Buena Park,50,,-117.998139,33.867404
 2020-04-15,Orange,059,Costa Mesa,28,,-117.904743,33.663844
-2020-04-15,Orange,059,Coto de Caza,5,,,
+2020-04-15,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-15,Orange,059,Cypress,33,,-118.036851,33.816937
 2020-04-15,Orange,059,Dana Point,12,,-117.698912,33.467458
 2020-04-15,Orange,059,Fountain Valley,20,,-117.956243,33.720285
@@ -10761,7 +10767,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-15,Orange,059,Orange,52,,-117.887465,33.807614
 2020-04-15,Orange,059,Other/unknown,52,,,
 2020-04-15,Orange,059,Placentia,31,,-117.885835,33.881894
-2020-04-15,Orange,059,Rancho Mission Viejo,5,,,
+2020-04-15,Orange,059,Rancho Mission Viejo,5,,-117.61,33.6
 2020-04-15,Orange,059,Rancho Santa Margarita,12,,-117.630248,33.627933
 2020-04-15,Orange,059,San Clemente,43,,-117.620278,33.437778
 2020-04-15,Orange,059,San Juan Capistrano,22,,-117.683894,33.506334
@@ -10778,7 +10784,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-16,Orange,059,Brea,15,,-117.900292,33.916475
 2020-04-16,Orange,059,Buena Park,50,,-117.998139,33.867404
 2020-04-16,Orange,059,Costa Mesa,28,,-117.904743,33.663844
-2020-04-16,Orange,059,Coto de Caza,5,,,
+2020-04-16,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-16,Orange,059,Cypress,34,,-118.036851,33.816937
 2020-04-16,Orange,059,Dana Point,13,,-117.698912,33.467458
 2020-04-16,Orange,059,Fountain Valley,20,,-117.956243,33.720285
@@ -10800,7 +10806,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-16,Orange,059,Orange,53,,-117.887465,33.807614
 2020-04-16,Orange,059,Other/unknown,60,,,
 2020-04-16,Orange,059,Placentia,31,,-117.885835,33.881894
-2020-04-16,Orange,059,Rancho Mission Viejo,5,,,
+2020-04-16,Orange,059,Rancho Mission Viejo,5,,-117.61,33.6
 2020-04-16,Orange,059,Rancho Santa Margarita,12,,-117.630248,33.627933
 2020-04-16,Orange,059,San Clemente,43,,-117.620278,33.437778
 2020-04-16,Orange,059,San Juan Capistrano,22,,-117.683894,33.506334
@@ -10817,7 +10823,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-17,Orange,059,Brea,16,,-117.900292,33.916475
 2020-04-17,Orange,059,Buena Park,53,,-117.998139,33.867404
 2020-04-17,Orange,059,Costa Mesa,29,,-117.904743,33.663844
-2020-04-17,Orange,059,Coto de Caza,5,,,
+2020-04-17,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-17,Orange,059,Cypress,35,,-118.036851,33.816937
 2020-04-17,Orange,059,Dana Point,16,,-117.698912,33.467458
 2020-04-17,Orange,059,Fountain Valley,24,,-117.956243,33.720285
@@ -10839,7 +10845,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-17,Orange,059,Orange,59,,-117.887465,33.807614
 2020-04-17,Orange,059,Other/unknown,63,,,
 2020-04-17,Orange,059,Placentia,32,,-117.885835,33.881894
-2020-04-17,Orange,059,Rancho Mission Viejo,5,,,
+2020-04-17,Orange,059,Rancho Mission Viejo,5,,-117.61,33.6
 2020-04-17,Orange,059,Rancho Santa Margarita,13,,-117.630248,33.627933
 2020-04-17,Orange,059,San Clemente,43,,-117.620278,33.437778
 2020-04-17,Orange,059,San Juan Capistrano,22,,-117.683894,33.506334
@@ -10856,7 +10862,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,Orange,059,Brea,16,,-117.900292,33.916475
 2020-04-18,Orange,059,Buena Park,54,,-117.998139,33.867404
 2020-04-18,Orange,059,Costa Mesa,29,,-117.904743,33.663844
-2020-04-18,Orange,059,Coto de Caza,5,,,
+2020-04-18,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-18,Orange,059,Cypress,35,,-118.036851,33.816937
 2020-04-18,Orange,059,Dana Point,17,,-117.698912,33.467458
 2020-04-18,Orange,059,Fountain Valley,24,,-117.956243,33.720285
@@ -10878,7 +10884,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,Orange,059,Orange,61,,-117.887465,33.807614
 2020-04-18,Orange,059,Other/unknown,64,,,
 2020-04-18,Orange,059,Placentia,32,,-117.885835,33.881894
-2020-04-18,Orange,059,Rancho Mission Viejo,5,,,
+2020-04-18,Orange,059,Rancho Mission Viejo,5,,-117.61,33.6
 2020-04-18,Orange,059,Rancho Santa Margarita,14,,-117.630248,33.627933
 2020-04-18,Orange,059,San Clemente,43,,-117.620278,33.437778
 2020-04-18,Orange,059,San Juan Capistrano,22,,-117.683894,33.506334
@@ -10895,7 +10901,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,Orange,059,Brea,16,,-117.900292,33.916475
 2020-04-19,Orange,059,Buena Park,58,,-117.998139,33.867404
 2020-04-19,Orange,059,Costa Mesa,30,,-117.904743,33.663844
-2020-04-19,Orange,059,Coto de Caza,5,,,
+2020-04-19,Orange,059,Coto de Caza,5,,-117.587778,33.595833
 2020-04-19,Orange,059,Cypress,36,,-118.036851,33.816937
 2020-04-19,Orange,059,Dana Point,18,,-117.698912,33.467458
 2020-04-19,Orange,059,Fountain Valley,25,,-117.956243,33.720285
@@ -10917,7 +10923,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,Orange,059,Orange,61,,-117.887465,33.807614
 2020-04-19,Orange,059,Other/unknown,84,,,
 2020-04-19,Orange,059,Placentia,34,,-117.885835,33.881894
-2020-04-19,Orange,059,Rancho Mission Viejo,5,,,
+2020-04-19,Orange,059,Rancho Mission Viejo,5,,-117.61,33.6
 2020-04-19,Orange,059,Rancho Santa Margarita,14,,-117.630248,33.627933
 2020-04-19,Orange,059,San Clemente,43,,-117.620278,33.437778
 2020-04-19,Orange,059,San Juan Capistrano,22,,-117.683894,33.506334
@@ -13620,7 +13626,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-14,San Diego,073,Oceanside,41,,-117.309647,33.228541
 2020-04-14,San Diego,073,Other/unknown,153,,,
 2020-04-14,San Diego,073,Pauma Valley,2,,-116.998926,33.303366
-2020-04-14,San Diego,073,Potrero,1,,,
+2020-04-14,San Diego,073,Potrero,1,,-116.613056,32.604722
 2020-04-14,San Diego,073,Poway,19,,-117.031363,32.969113
 2020-04-14,San Diego,073,Ramona,11,,-116.877082,33.037247
 2020-04-14,San Diego,073,Ranchita,2,,-116.625678,33.183513
@@ -13655,7 +13661,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-15,San Diego,073,Oceanside,43,,-117.309647,33.228541
 2020-04-15,San Diego,073,Other/unknown,151,,,
 2020-04-15,San Diego,073,Pauma Valley,2,,-116.998926,33.303366
-2020-04-15,San Diego,073,Potrero,1,,,
+2020-04-15,San Diego,073,Potrero,1,,-116.613056,32.604722
 2020-04-15,San Diego,073,Poway,19,,-117.031363,32.969113
 2020-04-15,San Diego,073,Ramona,11,,-116.877082,33.037247
 2020-04-15,San Diego,073,Ranchita,2,,-116.625678,33.183513
@@ -13691,7 +13697,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-16,San Diego,073,Oceanside,48,,-117.309647,33.228541
 2020-04-16,San Diego,073,Other/unknown,161,,,
 2020-04-16,San Diego,073,Pauma Valley,2,,-116.998926,33.303366
-2020-04-16,San Diego,073,Potrero,1,,,
+2020-04-16,San Diego,073,Potrero,1,,-116.613056,32.604722
 2020-04-16,San Diego,073,Poway,19,,-117.031363,32.969113
 2020-04-16,San Diego,073,Ramona,11,,-116.877082,33.037247
 2020-04-16,San Diego,073,Ranchita,2,,-116.625678,33.183513
@@ -13727,7 +13733,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-17,San Diego,073,Oceanside,48,,-117.309647,33.228541
 2020-04-17,San Diego,073,Other/unknown,167,,,
 2020-04-17,San Diego,073,Pauma Valley,2,,-116.998926,33.303366
-2020-04-17,San Diego,073,Potrero,1,,,
+2020-04-17,San Diego,073,Potrero,1,,-116.613056,32.604722
 2020-04-17,San Diego,073,Poway,20,,-117.031363,32.969113
 2020-04-17,San Diego,073,Ramona,11,,-116.877082,33.037247
 2020-04-17,San Diego,073,Ranchita,2,,-116.625678,33.183513
@@ -13756,7 +13762,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,San Diego,073,Fallbrook,10,,-117.251739,33.37523
 2020-04-18,San Diego,073,Imperial Beach,14,,-117.13413,32.563104
 2020-04-18,San Diego,073,Jamul,6,,-116.877237,32.718851
-2020-04-18,San Diego,073,Julian,1,,,
+2020-04-18,San Diego,073,Julian,1,,-116.585556,33.070833
 2020-04-18,San Diego,073,La Mesa,44,,-117.022602,32.766092
 2020-04-18,San Diego,073,Lakeside,17,,-116.926798,32.856093
 2020-04-18,San Diego,073,Lemon Grove,18,,-117.031795,32.742202
@@ -13764,7 +13770,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,San Diego,073,Oceanside,50,,-117.309647,33.228541
 2020-04-18,San Diego,073,Other/unknown,146,,,
 2020-04-18,San Diego,073,Pauma Valley,2,,-116.998926,33.303366
-2020-04-18,San Diego,073,Potrero,1,,,
+2020-04-18,San Diego,073,Potrero,1,,-116.613056,32.604722
 2020-04-18,San Diego,073,Poway,20,,-117.031363,32.969113
 2020-04-18,San Diego,073,Ramona,11,,-116.877082,33.037247
 2020-04-18,San Diego,073,Ranchita,2,,-116.625678,33.183513
@@ -13793,7 +13799,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,San Diego,073,Fallbrook,10,,-117.251739,33.37523
 2020-04-19,San Diego,073,Imperial Beach,14,,-117.13413,32.563104
 2020-04-19,San Diego,073,Jamul,6,,-116.877237,32.718851
-2020-04-19,San Diego,073,Julian,1,,,
+2020-04-19,San Diego,073,Julian,1,,-116.585556,33.070833
 2020-04-19,San Diego,073,La Mesa,47,,-117.022602,32.766092
 2020-04-19,San Diego,073,Lakeside,18,,-116.926798,32.856093
 2020-04-19,San Diego,073,Lemon Grove,19,,-117.031795,32.742202
@@ -13801,7 +13807,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,San Diego,073,Oceanside,52,,-117.309647,33.228541
 2020-04-19,San Diego,073,Other/unknowns,164,,,
 2020-04-19,San Diego,073,Pauma Valley,2,,-116.998926,33.303366
-2020-04-19,San Diego,073,Potrero,2,,,
+2020-04-19,San Diego,073,Potrero,2,,-116.613056,32.604722
 2020-04-19,San Diego,073,Poway,21,,-117.031363,32.969113
 2020-04-19,San Diego,073,Ramona,11,,-116.877082,33.037247
 2020-04-19,San Diego,073,Ranchita,2,,-116.625678,33.183513
@@ -13911,7 +13917,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-13,San Luis Obispo,079,Other,11,,,
 2020-04-13,San Luis Obispo,079,Paso Robles,30,,-120.654502,35.636876
 2020-04-13,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-13,San Luis Obispo,079,San Luis Obispo (city),12,,,
+2020-04-13,San Luis Obispo,079,San Luis Obispo,12,,120.659616,35.282752
 2020-04-13,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-14,San Luis Obispo,079,Arroyo Grande,16,,-120.590725,35.118587
 2020-04-14,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -13920,7 +13926,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-14,San Luis Obispo,079,Other,13,,,
 2020-04-14,San Luis Obispo,079,Paso Robles,30,,-120.654502,35.636876
 2020-04-14,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-14,San Luis Obispo,079,San Luis Obispo (city),12,,,
+2020-04-14,San Luis Obispo,079,San Luis Obispo,12,,120.659616,35.282752
 2020-04-14,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-15,San Luis Obispo,079,Arroyo Grande,17,,-120.590725,35.118587
 2020-04-15,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -13929,7 +13935,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-15,San Luis Obispo,079,Other,12,,,
 2020-04-15,San Luis Obispo,079,Paso Robles,31,,-120.654502,35.636876
 2020-04-15,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-15,San Luis Obispo,079,San Luis Obispo (city),14,,,
+2020-04-15,San Luis Obispo,079,San Luis Obispo,14,,120.659616,35.282752
 2020-04-15,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-16,San Luis Obispo,079,Arroyo Grande,17,,-120.590725,35.118587
 2020-04-16,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -13938,7 +13944,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-16,San Luis Obispo,079,Other,12,,,
 2020-04-16,San Luis Obispo,079,Paso Robles,31,,-120.654502,35.636876
 2020-04-16,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-16,San Luis Obispo,079,San Luis Obispo (city),14,,,
+2020-04-16,San Luis Obispo,079,San Luis Obispo,14,,120.659616,35.282752
 2020-04-16,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-17,San Luis Obispo,079,Arroyo Grande,17,,-120.590725,35.118587
 2020-04-17,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -13947,7 +13953,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-17,San Luis Obispo,079,Other,12,,,
 2020-04-17,San Luis Obispo,079,Paso Robles,31,,-120.654502,35.636876
 2020-04-17,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-17,San Luis Obispo,079,San Luis Obispo (city),15,,,
+2020-04-17,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
 2020-04-17,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-18,San Luis Obispo,079,Arroyo Grande,18,,-120.590725,35.118587
 2020-04-18,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -13956,7 +13962,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,San Luis Obispo,079,Other,13,,,
 2020-04-18,San Luis Obispo,079,Paso Robles,32,,-120.654502,35.636876
 2020-04-18,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-18,San Luis Obispo,079,San Luis Obispo (city),15,,,
+2020-04-18,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
 2020-04-18,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-19,San Luis Obispo,079,Arroyo Grande,18,,-120.590725,35.118587
 2020-04-19,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -13965,7 +13971,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,San Luis Obispo,079,Other,13,,,
 2020-04-19,San Luis Obispo,079,Paso Robles,33,,-120.654502,35.636876
 2020-04-19,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-19,San Luis Obispo,079,San Luis Obispo (city),15,,,
+2020-04-19,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
 2020-04-19,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-03-26,Santa Barbara,083,Lompoc,1,,-120.457941,34.63915
 2020-03-26,Santa Barbara,083,Orcutt,5,,-120.435997,34.865257
