@@ -58,6 +58,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Alameda,001,1114,41,51,1
 2020-04-19,Alameda,001,1164,42,50,1
 2020-04-20,Alameda,001,1193,42,29,0
+2020-04-21,Alameda,001,1241,43,48,1
 2020-03-30,Alpine,003,1,0,,
 2020-03-31,Alpine,003,1,0,0,0
 2020-04-01,Alpine,003,1,0,0,0
@@ -80,6 +81,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Alpine,003,1,0,0,0
 2020-04-19,Alpine,003,1,0,0,0
 2020-04-20,Alpine,003,1,0,0,0
+2020-04-21,Alpine,003,1,0,0,0
 2020-03-13,Amador,005,1,0,,
 2020-03-14,Amador,005,1,0,0,0
 2020-03-15,Amador,005,1,0,0,0
@@ -119,6 +121,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Amador,005,7,0,0,0
 2020-04-19,Amador,005,7,0,0,0
 2020-04-20,Amador,005,7,0,0,0
+2020-04-21,Amador,005,8,0,1,0
 2020-03-21,Butte,007,1,0,,
 2020-03-22,Butte,007,2,0,1,0
 2020-03-23,Butte,007,3,0,1,0
@@ -150,6 +153,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Butte,007,16,0,0,0
 2020-04-19,Butte,007,16,0,0,0
 2020-04-20,Butte,007,16,0,0,0
+2020-04-21,Butte,007,16,0,0,0
 2020-01-26,Calaveras,009,0,0,,
 2020-01-31,Calaveras,009,0,0,0,0
 2020-02-02,Calaveras,009,0,0,0,0
@@ -209,6 +213,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Calaveras,009,12,0,0,0
 2020-04-19,Calaveras,009,12,0,0,0
 2020-04-20,Calaveras,009,12,0,0,0
+2020-04-21,Calaveras,009,12,0,0,0
 2020-03-27,Colusa,011,1,0,,
 2020-03-28,Colusa,011,1,0,0,0
 2020-03-29,Colusa,011,1,0,0,0
@@ -234,6 +239,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Colusa,011,3,0,0,0
 2020-04-19,Colusa,011,3,0,0,0
 2020-04-20,Colusa,011,3,0,0,0
+2020-04-21,Colusa,011,3,0,0,0
 2020-01-26,Contra Costa,013,0,0,,
 2020-01-31,Contra Costa,013,0,0,0,0
 2020-02-02,Contra Costa,013,0,0,0,0
@@ -293,6 +299,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Contra Costa,013,685,19,37,0
 2020-04-19,Contra Costa,013,693,20,8,1
 2020-04-20,Contra Costa,013,707,22,14,2
+2020-04-21,Contra Costa,013,749,22,42,0
 2020-04-02,Del Norte,015,1,0,,
 2020-04-03,Del Norte,015,1,0,0,0
 2020-04-04,Del Norte,015,2,0,1,0
@@ -312,6 +319,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Del Norte,015,2,0,0,0
 2020-04-19,Del Norte,015,2,0,0,0
 2020-04-20,Del Norte,015,2,0,0,0
+2020-04-21,Del Norte,015,2,0,0,0
 2020-03-20,El Dorado,017,2,0,,
 2020-03-21,El Dorado,017,2,0,0,0
 2020-03-22,El Dorado,017,2,0,0,0
@@ -344,6 +352,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,El Dorado,017,36,0,0,0
 2020-04-19,El Dorado,017,36,0,0,0
 2020-04-20,El Dorado,017,38,0,2,0
+2020-04-21,El Dorado,017,39,0,1,0
 2020-03-07,Fresno,019,1,0,,
 2020-03-08,Fresno,019,1,0,0,0
 2020-03-09,Fresno,019,1,0,0,0
@@ -389,6 +398,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Fresno,019,315,7,4,0
 2020-04-19,Fresno,019,315,7,0,0
 2020-04-20,Fresno,019,351,7,36,0
+2020-04-21,Fresno,019,371,7,20,0
 2020-03-27,Glenn,021,1,0,,
 2020-03-28,Glenn,021,1,0,0,0
 2020-03-29,Glenn,021,1,0,0,0
@@ -414,6 +424,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Glenn,021,4,0,0,0
 2020-04-19,Glenn,021,4,0,0,0
 2020-04-20,Glenn,021,4,0,0,0
+2020-04-21,Glenn,021,4,0,0,0
 2020-01-26,Humboldt,023,0,0,,
 2020-01-31,Humboldt,023,0,0,0,0
 2020-02-02,Humboldt,023,0,0,0,0
@@ -478,6 +489,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Humboldt,023,52,0,0,0
 2020-04-19,Humboldt,023,52,0,0,0
 2020-04-20,Humboldt,023,52,0,0,0
+2020-04-21,Humboldt,023,52,0,0,0
 2020-03-11,Imperial,025,2,0,,
 2020-03-12,Imperial,025,2,0,0,0
 2020-03-13,Imperial,025,2,0,0,0
@@ -519,6 +531,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Imperial,025,155,3,0,0
 2020-04-19,Imperial,025,160,3,5,0
 2020-04-20,Imperial,025,175,4,15,1
+2020-04-21,Imperial,025,195,5,20,1
 2020-03-25,Inyo,027,1,0,,
 2020-03-26,Inyo,027,2,0,1,0
 2020-03-27,Inyo,027,5,0,3,0
@@ -546,6 +559,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Inyo,027,18,0,0,0
 2020-04-19,Inyo,027,18,0,0,0
 2020-04-20,Inyo,027,18,0,0,0
+2020-04-21,Inyo,027,18,0,0,0
 2020-03-17,Kern,029,1,0,,
 2020-03-18,Kern,029,0,0,-1,0
 2020-03-19,Kern,029,3,0,3,0
@@ -581,6 +595,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Kern,029,610,3,32,0
 2020-04-19,Kern,029,623,3,13,0
 2020-04-20,Kern,029,643,3,20,0
+2020-04-21,Kern,029,671,3,28,0
 2020-03-27,Kings,031,1,0,,
 2020-03-28,Kings,031,2,0,1,0
 2020-03-29,Kings,031,2,0,0,0
@@ -606,6 +621,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Kings,031,30,1,10,0
 2020-04-19,Kings,031,30,1,0,0
 2020-04-20,Kings,031,32,1,2,0
+2020-04-21,Kings,031,32,1,0,0
 2020-04-05,Lake,033,1,0,,
 2020-04-06,Lake,033,2,0,1,0
 2020-04-07,Lake,033,2,0,0,0
@@ -622,6 +638,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Lake,033,6,0,0,0
 2020-04-19,Lake,033,6,0,0,0
 2020-04-20,Lake,033,6,0,0,0
+2020-04-21,Lake,033,6,0,0,0
 2020-01-26,Los Angeles,037,1,0,,
 2020-01-27,Los Angeles,037,1,0,0,0
 2020-01-28,Los Angeles,037,1,0,0,0
@@ -708,6 +725,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Los Angeles,037,12051,577,630,76
 2020-04-19,Los Angeles,037,12349,601,298,24
 2020-04-20,Los Angeles,037,13823,619,1474,18
+2020-04-21,Los Angeles,037,15165,666,1342,47
 2020-03-07,Madera,039,1,0,,
 2020-03-08,Madera,039,1,0,0,0
 2020-03-09,Madera,039,1,0,0,0
@@ -753,6 +771,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Madera,039,34,2,1,0
 2020-04-19,Madera,039,34,2,0,0
 2020-04-20,Madera,039,36,2,2,0
+2020-04-21,Madera,039,36,2,0,0
 2020-01-26,Marin,041,0,0,,
 2020-01-31,Marin,041,0,0,0,0
 2020-02-02,Marin,041,0,0,0,0
@@ -812,6 +831,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Marin,041,189,10,2,0
 2020-04-19,Marin,041,195,10,6,0
 2020-04-20,Marin,041,199,10,4,0
+2020-04-21,Marin,041,200,10,1,0
 2020-03-18,Mendocino,045,1,0,,
 2020-03-19,Mendocino,045,1,0,0,0
 2020-03-20,Mendocino,045,1,0,0,0
@@ -846,6 +866,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Mendocino,045,5,0,0,0
 2020-04-19,Mendocino,045,5,0,0,0
 2020-04-20,Mendocino,045,5,0,0,0
+2020-04-21,Mendocino,045,5,0,0,0
 2020-03-22,Merced,047,1,0,,
 2020-03-23,Merced,047,1,0,0,0
 2020-03-24,Merced,047,1,0,0,0
@@ -876,6 +897,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Merced,047,87,3,2,0
 2020-04-19,Merced,047,90,3,3,0
 2020-04-20,Merced,047,90,3,0,0
+2020-04-21,Merced,047,92,3,2,0
 2020-03-21,Mono,051,1,0,,
 2020-03-22,Mono,051,1,0,0,0
 2020-03-23,Mono,051,1,0,0,0
@@ -907,6 +929,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Mono,051,23,1,0,0
 2020-04-19,Mono,051,23,1,0,0
 2020-04-20,Mono,051,24,1,1,0
+2020-04-21,Mono,051,24,1,0,0
 2020-03-17,Monterey,053,2,0,,
 2020-03-18,Monterey,053,2,0,0,0
 2020-03-19,Monterey,053,2,0,0,0
@@ -942,6 +965,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Monterey,053,136,3,17,0
 2020-04-19,Monterey,053,141,4,5,1
 2020-04-20,Monterey,053,148,4,7,0
+2020-04-21,Monterey,053,150,4,2,0
 2020-03-22,Napa,055,2,0,,
 2020-03-23,Napa,055,2,0,0,0
 2020-03-24,Napa,055,3,0,1,0
@@ -972,6 +996,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Napa,055,47,2,3,0
 2020-04-19,Napa,055,47,2,0,0
 2020-04-20,Napa,055,48,2,1,0
+2020-04-21,Napa,055,54,2,6,0
 2020-03-16,Nevada,057,1,0,,
 2020-03-17,Nevada,057,1,0,0,0
 2020-03-18,Nevada,057,1,0,0,0
@@ -1008,6 +1033,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Nevada,057,36,1,0,0
 2020-04-19,Nevada,057,36,1,0,0
 2020-04-20,Nevada,057,38,1,2,0
+2020-04-21,Nevada,057,38,1,0,0
 2020-01-26,Orange,059,1,0,,
 2020-01-27,Orange,059,1,0,0,0
 2020-01-28,Orange,059,1,0,0,0
@@ -1094,6 +1120,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Orange,059,1556,32,55,4
 2020-04-19,Orange,059,1636,32,80,0
 2020-04-20,Orange,059,1676,33,40,1
+2020-04-21,Orange,059,1691,33,15,0
 2020-01-26,Placer,061,0,0,,
 2020-01-31,Placer,061,0,0,0,0
 2020-02-02,Placer,061,0,0,0,0
@@ -1153,6 +1180,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Placer,061,131,8,1,0
 2020-04-19,Placer,061,132,8,1,0
 2020-04-20,Placer,061,132,8,0,0
+2020-04-21,Placer,061,133,8,1,0
 2020-03-31,Plumas,063,1,0,,
 2020-04-01,Plumas,063,1,0,0,0
 2020-04-02,Plumas,063,2,0,1,0
@@ -1174,6 +1202,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Plumas,063,4,0,0,0
 2020-04-19,Plumas,063,4,0,0,0
 2020-04-20,Plumas,063,4,0,0,0
+2020-04-21,Plumas,063,4,0,0,0
 2020-01-26,Riverside,065,0,0,,
 2020-01-31,Riverside,065,0,0,0,0
 2020-02-02,Riverside,065,0,0,0,0
@@ -1233,6 +1262,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Riverside,065,2602,74,145,5
 2020-04-19,Riverside,065,2638,75,36,1
 2020-04-20,Riverside,065,2847,85,209,10
+2020-04-21,Riverside,065,2960,93,113,8
 2020-01-26,Sacramento,067,0,0,,
 2020-01-31,Sacramento,067,0,0,0,0
 2020-02-02,Sacramento,067,0,0,0,0
@@ -1297,6 +1327,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Sacramento,067,914,33,18,1
 2020-04-19,Sacramento,067,925,34,11,1
 2020-04-20,Sacramento,067,940,34,15,0
+2020-04-21,Sacramento,067,954,35,14,1
 2020-01-26,San Benito,069,0,0,,
 2020-01-31,San Benito,069,0,0,0,0
 2020-02-02,San Benito,069,2,0,2,0
@@ -1378,6 +1409,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Benito,069,44,2,0,0
 2020-04-19,San Benito,069,44,2,0,0
 2020-04-20,San Benito,069,44,2,0,0
+2020-04-21,San Benito,069,45,2,1,0
 2020-03-15,San Bernardino,071,1,0,,
 2020-03-16,San Bernardino,071,2,0,1,0
 2020-03-17,San Bernardino,071,3,0,1,0
@@ -1415,6 +1447,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Bernardino,071,1219,57,123,2
 2020-04-19,San Bernardino,071,1286,57,67,0
 2020-04-20,San Bernardino,071,1406,60,120,3
+2020-04-21,San Bernardino,071,1489,67,83,7
 2020-01-26,San Diego,073,0,0,,
 2020-01-31,San Diego,073,0,0,0,0
 2020-02-02,San Diego,073,0,0,0,0
@@ -1474,6 +1507,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Diego,073,2213,71,55,1
 2020-04-19,San Diego,073,2268,71,55,0
 2020-04-20,San Diego,073,2325,72,57,1
+2020-04-21,San Diego,073,2434,87,109,15
 2020-01-26,San Francisco,075,0,0,,
 2020-01-31,San Francisco,075,0,0,0,0
 2020-02-02,San Francisco,075,0,0,0,0
@@ -1533,6 +1567,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Francisco,075,1137,20,79,0
 2020-04-19,San Francisco,075,1157,20,20,0
 2020-04-20,San Francisco,075,1216,20,59,0
+2020-04-21,San Francisco,075,1231,20,15,0
 2020-03-13,San Joaquin,077,8,0,,
 2020-03-14,San Joaquin,077,8,0,0,0
 2020-03-15,San Joaquin,077,8,0,0,0
@@ -1572,6 +1607,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Joaquin,077,410,17,12,0
 2020-04-19,San Joaquin,077,418,17,8,0
 2020-04-20,San Joaquin,077,446,18,28,1
+2020-04-21,San Joaquin,077,456,20,10,2
 2020-03-14,San Luis Obispo,079,1,0,,
 2020-03-15,San Luis Obispo,079,2,0,1,0
 2020-03-16,San Luis Obispo,079,3,0,1,0
@@ -1610,6 +1646,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Luis Obispo,079,131,1,4,0
 2020-04-19,San Luis Obispo,079,132,1,1,0
 2020-04-20,San Luis Obispo,079,132,1,0,0
+2020-04-21,San Luis Obispo,079,134,1,2,0
 2020-01-26,San Mateo,081,0,0,,
 2020-01-31,San Mateo,081,0,0,0,0
 2020-02-02,San Mateo,081,0,0,0,0
@@ -1669,6 +1706,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Mateo,081,838,28,0,0
 2020-04-19,San Mateo,081,838,28,0,0
 2020-04-20,San Mateo,081,920,28,82,0
+2020-04-21,San Mateo,081,935,28,15,0
 2020-03-15,Santa Barbara,083,1,0,,
 2020-03-16,Santa Barbara,083,1,0,0,0
 2020-03-17,Santa Barbara,083,2,0,1,0
@@ -1706,10 +1744,15 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Santa Barbara,083,385,4,12,1
 2020-04-19,Santa Barbara,083,394,4,9,0
 2020-04-20,Santa Barbara,083,416,4,22,0
+2020-04-21,Santa Barbara,083,429,5,13,1
 2020-01-26,Santa Clara,085,0,0,,
-2020-01-31,Santa Clara,085,1,0,1,0
-2020-02-01,Santa Clara,085,1,0,0,0
-2020-02-02,Santa Clara,085,2,0,1,0
+2020-01-27,Santa Clara,085,1,0,1,0
+2020-01-28,Santa Clara,085,1,0,0,0
+2020-01-29,Santa Clara,085,2,0,1,0
+2020-01-30,Santa Clara,085,2,0,0,0
+2020-01-31,Santa Clara,085,2,0,0,0
+2020-02-01,Santa Clara,085,2,0,0,0
+2020-02-02,Santa Clara,085,2,0,0,0
 2020-02-03,Santa Clara,085,2,0,0,0
 2020-02-04,Santa Clara,085,2,0,0,0
 2020-02-05,Santa Clara,085,2,0,0,0
@@ -1724,70 +1767,71 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-14,Santa Clara,085,2,0,0,0
 2020-02-15,Santa Clara,085,2,0,0,0
 2020-02-16,Santa Clara,085,2,0,0,0
-2020-02-17,Santa Clara,085,2,0,0,0
-2020-02-18,Santa Clara,085,2,0,0,0
-2020-02-19,Santa Clara,085,2,0,0,0
-2020-02-20,Santa Clara,085,2,0,0,0
-2020-02-21,Santa Clara,085,2,0,0,0
-2020-02-22,Santa Clara,085,2,0,0,0
-2020-02-23,Santa Clara,085,2,0,0,0
-2020-02-24,Santa Clara,085,2,0,0,0
-2020-02-25,Santa Clara,085,2,0,0,0
-2020-02-26,Santa Clara,085,2,0,0,0
-2020-02-27,Santa Clara,085,2,0,0,0
-2020-02-28,Santa Clara,085,3,0,1,0
-2020-02-29,Santa Clara,085,4,0,1,0
-2020-03-01,Santa Clara,085,7,0,3,0
-2020-03-02,Santa Clara,085,9,0,2,0
-2020-03-03,Santa Clara,085,11,0,2,0
-2020-03-04,Santa Clara,085,14,0,3,0
-2020-03-05,Santa Clara,085,20,0,6,0
-2020-03-06,Santa Clara,085,24,0,4,0
-2020-03-07,Santa Clara,085,32,0,8,0
-2020-03-08,Santa Clara,085,37,0,5,0
-2020-03-09,Santa Clara,085,43,1,6,1
-2020-03-10,Santa Clara,085,45,1,2,0
-2020-03-11,Santa Clara,085,48,1,3,0
-2020-03-12,Santa Clara,085,66,1,18,0
-2020-03-13,Santa Clara,085,79,2,13,1
-2020-03-14,Santa Clara,085,91,2,12,0
-2020-03-15,Santa Clara,085,114,2,23,0
-2020-03-16,Santa Clara,085,138,4,24,2
-2020-03-17,Santa Clara,085,155,5,17,1
-2020-03-18,Santa Clara,085,175,6,20,1
-2020-03-19,Santa Clara,085,189,6,14,0
-2020-03-20,Santa Clara,085,196,8,7,2
-2020-03-21,Santa Clara,085,263,8,67,0
-2020-03-22,Santa Clara,085,302,10,39,2
-2020-03-23,Santa Clara,085,321,13,19,3
-2020-03-24,Santa Clara,085,375,16,54,3
-2020-03-25,Santa Clara,085,542,19,167,3
-2020-03-26,Santa Clara,085,542,19,0,0
-2020-03-27,Santa Clara,085,574,20,32,1
-2020-03-28,Santa Clara,085,591,25,17,5
-2020-03-29,Santa Clara,085,646,25,55,0
-2020-03-30,Santa Clara,085,848,28,202,3
-2020-03-31,Santa Clara,085,890,30,42,2
-2020-04-01,Santa Clara,085,956,32,66,2
-2020-04-02,Santa Clara,085,1019,36,63,4
-2020-04-03,Santa Clara,085,1094,38,75,2
-2020-04-04,Santa Clara,085,1148,39,54,1
-2020-04-05,Santa Clara,085,1207,39,59,0
-2020-04-06,Santa Clara,085,1224,42,17,3
-2020-04-07,Santa Clara,085,1285,43,61,1
-2020-04-08,Santa Clara,085,1380,46,95,3
-2020-04-09,Santa Clara,085,1442,47,62,1
-2020-04-10,Santa Clara,085,1484,50,42,3
-2020-04-11,Santa Clara,085,1566,51,82,1
-2020-04-12,Santa Clara,085,1621,54,55,3
-2020-04-13,Santa Clara,085,1666,60,45,6
-2020-04-14,Santa Clara,085,1666,60,0,0
-2020-04-15,Santa Clara,085,1793,65,127,5
-2020-04-16,Santa Clara,085,1833,69,40,4
-2020-04-17,Santa Clara,085,1870,73,37,4
-2020-04-18,Santa Clara,085,1870,73,0,0
-2020-04-19,Santa Clara,085,1870,73,0,0
-2020-04-20,Santa Clara,085,1922,83,52,10
+2020-02-17,Santa Clara,085,3,0,1,0
+2020-02-18,Santa Clara,085,3,0,0,0
+2020-02-19,Santa Clara,085,3,0,0,0
+2020-02-20,Santa Clara,085,3,0,0,0
+2020-02-21,Santa Clara,085,4,0,1,0
+2020-02-22,Santa Clara,085,4,0,0,0
+2020-02-23,Santa Clara,085,4,0,0,0
+2020-02-24,Santa Clara,085,5,0,1,0
+2020-02-25,Santa Clara,085,5,0,0,0
+2020-02-26,Santa Clara,085,7,0,2,0
+2020-02-27,Santa Clara,085,7,0,0,0
+2020-02-28,Santa Clara,085,8,0,1,0
+2020-02-29,Santa Clara,085,13,0,5,0
+2020-03-01,Santa Clara,085,13,0,0,0
+2020-03-02,Santa Clara,085,18,0,5,0
+2020-03-03,Santa Clara,085,20,0,2,0
+2020-03-04,Santa Clara,085,24,0,4,0
+2020-03-05,Santa Clara,085,31,0,7,0
+2020-03-06,Santa Clara,085,40,0,9,0
+2020-03-07,Santa Clara,085,49,0,9,0
+2020-03-08,Santa Clara,085,53,0,4,0
+2020-03-09,Santa Clara,085,70,1,17,1
+2020-03-10,Santa Clara,085,85,1,15,0
+2020-03-11,Santa Clara,085,111,1,26,0
+2020-03-12,Santa Clara,085,134,1,23,0
+2020-03-13,Santa Clara,085,180,2,46,1
+2020-03-14,Santa Clara,085,223,2,43,0
+2020-03-15,Santa Clara,085,255,2,32,0
+2020-03-16,Santa Clara,085,290,4,35,2
+2020-03-17,Santa Clara,085,337,5,47,1
+2020-03-18,Santa Clara,085,390,6,53,1
+2020-03-19,Santa Clara,085,442,6,52,0
+2020-03-20,Santa Clara,085,505,8,63,2
+2020-03-21,Santa Clara,085,544,8,39,0
+2020-03-22,Santa Clara,085,582,10,38,2
+2020-03-23,Santa Clara,085,656,13,74,3
+2020-03-24,Santa Clara,085,725,16,69,3
+2020-03-25,Santa Clara,085,802,19,77,3
+2020-03-26,Santa Clara,085,876,19,74,0
+2020-03-27,Santa Clara,085,938,20,62,1
+2020-03-28,Santa Clara,085,979,25,41,5
+2020-03-29,Santa Clara,085,1002,25,23,0
+2020-03-30,Santa Clara,085,1080,28,78,3
+2020-03-31,Santa Clara,085,1136,30,56,2
+2020-04-01,Santa Clara,085,1190,32,54,2
+2020-04-02,Santa Clara,085,1247,36,57,4
+2020-04-03,Santa Clara,085,1287,38,40,2
+2020-04-04,Santa Clara,085,1318,39,31,1
+2020-04-05,Santa Clara,085,1360,39,42,0
+2020-04-06,Santa Clara,085,1413,42,53,3
+2020-04-07,Santa Clara,085,1453,43,40,1
+2020-04-08,Santa Clara,085,1528,46,75,3
+2020-04-09,Santa Clara,085,1595,47,67,1
+2020-04-10,Santa Clara,085,1672,50,77,3
+2020-04-11,Santa Clara,085,1714,51,42,1
+2020-04-12,Santa Clara,085,1741,54,27,3
+2020-04-13,Santa Clara,085,1780,60,39,6
+2020-04-14,Santa Clara,085,1821,60,41,0
+2020-04-15,Santa Clara,085,1844,65,23,5
+2020-04-16,Santa Clara,085,1861,69,17,4
+2020-04-17,Santa Clara,085,1892,73,31,4
+2020-04-18,Santa Clara,085,1900,73,8,0
+2020-04-19,Santa Clara,085,1903,73,3,0
+2020-04-20,Santa Clara,085,1922,83,19,10
+2020-04-21,Santa Clara,085,1946,88,24,5
 2020-01-26,Santa Cruz,087,0,0,,
 2020-01-31,Santa Cruz,087,0,0,0,0
 2020-02-02,Santa Cruz,087,0,0,0,0
@@ -1847,6 +1891,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Santa Cruz,087,101,2,3,0
 2020-04-19,Santa Cruz,087,104,2,3,0
 2020-04-20,Santa Cruz,087,106,2,2,0
+2020-04-21,Santa Cruz,087,108,2,2,0
 2020-01-26,Shasta,089,0,0,,
 2020-01-31,Shasta,089,0,0,0,0
 2020-02-02,Shasta,089,0,0,0,0
@@ -1906,6 +1951,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Shasta,089,26,3,0,0
 2020-04-19,Shasta,089,26,3,0,0
 2020-04-20,Shasta,089,26,3,0,0
+2020-04-21,Shasta,089,26,3,0,0
 2020-03-21,Siskiyou,093,2,0,,
 2020-03-22,Siskiyou,093,2,0,0,0
 2020-03-23,Siskiyou,093,3,0,1,0
@@ -1937,6 +1983,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Siskiyou,093,5,0,0,0
 2020-04-19,Siskiyou,093,5,0,0,0
 2020-04-20,Siskiyou,093,5,0,0,0
+2020-04-21,Siskiyou,093,5,0,0,0
 2020-01-26,Solano,095,0,0,,
 2020-01-31,Solano,095,0,0,0,0
 2020-02-02,Solano,095,0,0,0,0
@@ -1997,6 +2044,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Solano,095,169,2,0,0
 2020-04-19,Solano,095,169,2,0,0
 2020-04-20,Solano,095,180,2,11,0
+2020-04-21,Solano,095,181,3,1,1
 2020-01-26,Sonoma,097,0,0,,
 2020-01-31,Sonoma,097,0,0,0,0
 2020-02-02,Sonoma,097,0,0,0,0
@@ -2056,6 +2104,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Sonoma,097,180,2,0,0
 2020-04-19,Sonoma,097,181,2,1,0
 2020-04-20,Sonoma,097,182,2,1,0
+2020-04-21,Sonoma,097,192,2,10,0
 2020-01-26,Stanislaus,099,0,0,,
 2020-01-31,Stanislaus,099,0,0,0,0
 2020-02-02,Stanislaus,099,0,0,0,0
@@ -2115,6 +2164,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Stanislaus,099,221,4,15,0
 2020-04-19,Stanislaus,099,226,4,5,0
 2020-04-20,Stanislaus,099,232,4,6,0
+2020-04-21,Stanislaus,099,236,4,4,0
 2020-03-25,Sutter,101,2,0,,
 2020-03-26,Sutter,101,2,0,0,0
 2020-03-27,Sutter,101,2,0,0,0
@@ -2142,6 +2192,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Sutter,101,25,2,0,0
 2020-04-19,Sutter,101,26,2,1,0
 2020-04-20,Sutter,101,26,2,0,0
+2020-04-21,Sutter,101,26,2,0,0
 2020-04-01,Tehama,103,1,0,,
 2020-04-02,Tehama,103,1,0,0,0
 2020-04-03,Tehama,103,1,0,0,0
@@ -2162,6 +2213,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Tehama,103,1,1,0,0
 2020-04-19,Tehama,103,1,1,0,0
 2020-04-20,Tehama,103,1,1,0,0
+2020-04-21,Tehama,103,1,1,0,0
 2020-03-11,Tulare,107,1,0,,
 2020-03-12,Tulare,107,1,0,0,0
 2020-03-13,Tulare,107,1,0,0,0
@@ -2203,6 +2255,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Tulare,107,397,17,15,0
 2020-04-19,Tulare,107,411,17,14,0
 2020-04-20,Tulare,107,422,18,11,1
+2020-04-21,Tulare,107,436,22,14,4
 2020-03-30,Tuolumne,109,1,0,,
 2020-03-31,Tuolumne,109,1,0,0,0
 2020-04-01,Tuolumne,109,1,0,0,0
@@ -2225,6 +2278,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Tuolumne,109,2,0,0,0
 2020-04-19,Tuolumne,109,2,0,0,0
 2020-04-20,Tuolumne,109,2,0,0,0
+2020-04-21,Tuolumne,109,2,0,0,0
 2020-01-26,Ventura,111,0,0,,
 2020-01-31,Ventura,111,0,0,0,0
 2020-02-02,Ventura,111,0,0,0,0
@@ -2284,6 +2338,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Ventura,111,416,13,20,0
 2020-04-19,Ventura,111,422,13,6,0
 2020-04-20,Ventura,111,428,13,6,0
+2020-04-21,Ventura,111,443,13,15,0
 2020-01-26,Yolo,113,0,0,,
 2020-01-31,Yolo,113,0,0,0,0
 2020-02-02,Yolo,113,0,0,0,0
@@ -2343,6 +2398,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Yolo,113,126,8,0,0
 2020-04-19,Yolo,113,137,9,11,1
 2020-04-20,Yolo,113,142,10,5,1
+2020-04-21,Yolo,113,146,10,4,0
 2020-03-21,Yuba,115,2,0,,
 2020-03-22,Yuba,115,3,0,1,0
 2020-03-23,Yuba,115,3,0,0,0
@@ -2374,3 +2430,4 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Yuba,115,16,1,1,0
 2020-04-19,Yuba,115,16,1,0,0
 2020-04-20,Yuba,115,16,1,0,0
+2020-04-21,Yuba,115,16,1,0,0
