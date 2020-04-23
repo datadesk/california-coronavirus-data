@@ -234,6 +234,25 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Alameda,001,Santa Rita Jail,32,,-121.887925,37.717269
 2020-04-21,Alameda,001,Unincorporated,152,,,
 2020-04-21,Alameda,001,Union City,56,,-122.048333,37.596389
+2020-04-22,Alameda,001,Alameda,29,,-122.274444,37.756111
+2020-04-22,Alameda,001,Alameda County LHJ,1235,,,
+2020-04-22,Alameda,001,Albany,,,-122.297778,37.886944
+2020-04-22,Alameda,001,Berkeley LHJ,45,,,
+2020-04-22,Alameda,001,Dublin,19,,-121.935833,37.702222
+2020-04-22,Alameda,001,Emeryville,,,-122.285278,37.831389
+2020-04-22,Alameda,001,Fremont,91,,-121.988611,37.548333
+2020-04-22,Alameda,001,Hayward,249,,-122.080796,37.66882
+2020-04-22,Alameda,001,Known Homeless,,,,
+2020-04-22,Alameda,001,Livermore,33,,-121.768056,37.681944
+2020-04-22,Alameda,001,Newark,49,,-122.033333,37.533333
+2020-04-22,Alameda,001,No Address (May Be Homeless),19,,,
+2020-04-22,Alameda,001,Oakland,346,,-122.270833,37.804444
+2020-04-22,Alameda,001,Piedmont,10,,-122.233333,37.816667
+2020-04-22,Alameda,001,Pleasanton,48,,-121.874722,37.6625
+2020-04-22,Alameda,001,San Leandro,78,,-122.156111,37.725
+2020-04-22,Alameda,001,Santa Rita Jail,33,,-121.887925,37.717269
+2020-04-22,Alameda,001,Unincorporated,158,,,
+2020-04-22,Alameda,001,Union City,56,,-122.048333,37.596389
 2020-04-06,Contra Costa,013,Alamo,13,,-122.032222,37.850278
 2020-04-06,Contra Costa,013,Antioch,26,,-121.805833,38.005
 2020-04-06,Contra Costa,013,Bay Point,15,,-121.961667,38.029167
@@ -666,6 +685,33 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Contra Costa,013,San Pablo,44,,-122.345556,37.962222
 2020-04-21,Contra Costa,013,San Ramon,30,,-121.978056,37.78
 2020-04-21,Contra Costa,013,Walnut Creek,38,,-122.065,37.906389
+2020-04-22,Contra Costa,013,Alamo,17,,-122.032222,37.850278
+2020-04-22,Contra Costa,013,Antioch,56,,-121.805833,38.005
+2020-04-22,Contra Costa,013,Bay Point,37,,-121.961667,38.029167
+2020-04-22,Contra Costa,013,Bethel Island,1,,-121.640556,38.015
+2020-04-22,Contra Costa,013,Brentwood,48,,-121.695833,37.931944
+2020-04-22,Contra Costa,013,Clayton,5,,-121.935833,37.941111
+2020-04-22,Contra Costa,013,Concord,69,,-122.031111,37.978056
+2020-04-22,Contra Costa,013,Danville,20,,-122.0,37.821667
+2020-04-22,Contra Costa,013,Discovery Bay,7,,-121.600278,37.908611
+2020-04-22,Contra Costa,013,El Cerrito,10,,-122.311667,37.915833
+2020-04-22,Contra Costa,013,El Sobrante,19,,-122.295278,37.977222
+2020-04-22,Contra Costa,013,Hercules,11,,-122.288611,38.017222
+2020-04-22,Contra Costa,013,Lafayette,18,,-122.118056,37.885833
+2020-04-22,Contra Costa,013,Martinez,15,,-122.134167,38.019444
+2020-04-22,Contra Costa,013,Moraga,8,,-122.129722,37.835
+2020-04-22,Contra Costa,013,Oakley,30,,-121.7125,37.9975
+2020-04-22,Contra Costa,013,Orinda,50,,-122.179722,37.882778
+2020-04-22,Contra Costa,013,Other/Unspecified,21,,,
+2020-04-22,Contra Costa,013,Pacheco,5,,-122.075278,37.983611
+2020-04-22,Contra Costa,013,Pinole,15,,-122.291111,38.004444
+2020-04-22,Contra Costa,013,Pittsburg,54,,-121.884722,38.028056
+2020-04-22,Contra Costa,013,Pleasant Hill,40,,-122.0525,37.948056
+2020-04-22,Contra Costa,013,Richmond,83,,-122.347778,37.935833
+2020-04-22,Contra Costa,013,Rodeo,7,,-122.266944,38.033056
+2020-04-22,Contra Costa,013,San Pablo,45,,-122.345556,37.962222
+2020-04-22,Contra Costa,013,San Ramon,32,,-121.978056,37.78
+2020-04-22,Contra Costa,013,Walnut Creek,40,,-122.065,37.906389
 2020-04-03,El Dorado,017,"Cameron Park, Shingle Springs, Rescue",3,,-120.987222,38.668889
 2020-04-03,El Dorado,017,"Diamond Springs, El Dorado",0,,-120.815,38.694722
 2020-04-03,El Dorado,017,El Dorado Hills,5,,-121.082222,38.685833
@@ -855,6 +901,11 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Kern,029,Desert,18,,-117.948332,35.302887
 2020-04-21,Kern,029,Mountain,19,,-118.439676,35.400862
 2020-04-21,Kern,029,Valley,82,,-119.487567,35.42838
+2020-04-22,Kern,029,Bakersfield East,351,,-118.789756,35.451612
+2020-04-22,Kern,029,Bakersfield West,211,,-119.20883,35.382088
+2020-04-22,Kern,029,Desert,18,,-117.948332,35.302887
+2020-04-22,Kern,029,Mountain,19,,-118.439676,35.400862
+2020-04-22,Kern,029,Valley,84,,-119.487567,35.42838
 2020-03-16,Los Angeles,037,Alhambra,2,,-118.135504,34.083961
 2020-03-16,Los Angeles,037,Arcadia,1,,-118.037297,34.134186
 2020-03-16,Los Angeles,037,Beverly Hills,1,,-118.402109,34.078543
@@ -10890,6 +10941,352 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Los Angeles,037,Winnetka,84,,-118.575929,34.213111
 2020-04-21,Los Angeles,037,Wiseburn,1,Between 1 and 4,-118.365742,33.90952
 2020-04-21,Los Angeles,037,Woodland Hills,93,,-118.604522,34.16635
+2020-04-22,Los Angeles,037,Acton,8,,-118.216138,34.481366
+2020-04-22,Los Angeles,037,Adams-Normandie,19,,-118.302397,34.029122
+2020-04-22,Los Angeles,037,Agoura Hills,29,,-118.760876,34.151007
+2020-04-22,Los Angeles,037,Agua Dulce,1,Between 1 and 4,-118.32381,34.497963
+2020-04-22,Los Angeles,037,Alhambra,62,,-118.135504,34.083961
+2020-04-22,Los Angeles,037,Alsace,23,,-118.362349,34.029571
+2020-04-22,Los Angeles,037,Altadena,54,,-118.135675,34.193482
+2020-04-22,Los Angeles,037,Anaverde,1,Between 1 and 4,-118.133856,34.535644
+2020-04-22,Los Angeles,037,Angeles National Forest,0,,-118.27900700000001,34.275218
+2020-04-22,Los Angeles,037,Angelino Heights,6,,-118.251986,34.068331
+2020-04-22,Los Angeles,037,Arcadia,34,,-118.037297,34.134186
+2020-04-22,Los Angeles,037,Arleta,66,,-118.431775,34.241478
+2020-04-22,Los Angeles,037,Artesia,12,,-118.08063,33.867577
+2020-04-22,Los Angeles,037,Athens Village,12,,-118.273697,33.919783
+2020-04-22,Los Angeles,037,Athens-Westmont,64,,-118.302483,33.934033
+2020-04-22,Los Angeles,037,Atwater Village,19,,-118.258308,34.119421
+2020-04-22,Los Angeles,037,Avalon,0,,-118.331354,33.333921
+2020-04-22,Los Angeles,037,Avocado Heights,7,,-117.990979,34.040819
+2020-04-22,Los Angeles,037,Azusa,37,,-117.912351,34.138622
+2020-04-22,Los Angeles,037,Baldwin Hills,46,,-118.356095,34.014825
+2020-04-22,Los Angeles,037,Baldwin Park,57,,-117.972142,34.082841
+2020-04-22,Los Angeles,037,Bandini Islands,0,,-118.205597,34.003986
+2020-04-22,Los Angeles,037,Bassett,22,,-117.977406,34.057144
+2020-04-22,Los Angeles,037,Bel Air,27,,-118.460296,34.098692
+2020-04-22,Los Angeles,037,Bell,109,,-118.179783,33.980058
+2020-04-22,Los Angeles,037,Bell Gardens,70,,-118.155014,33.966323
+2020-04-22,Los Angeles,037,Bellflower,87,,-118.127136,33.888021
+2020-04-22,Los Angeles,037,Beverly Crest,31,,-118.424404,34.11298
+2020-04-22,Los Angeles,037,Beverly Hills,100,,-118.402109,34.078543
+2020-04-22,Los Angeles,037,Beverlywood,30,,-118.394492,34.044747
+2020-04-22,Los Angeles,037,Bouquet Canyon,0,,-118.363392,34.595497
+2020-04-22,Los Angeles,037,Boyle Heights,129,,-118.20533,34.03815
+2020-04-22,Los Angeles,037,Bradbury,1,Between 1 and 4,-117.968387,34.153532
+2020-04-22,Los Angeles,037,Brentwood,62,,-118.485909,34.08524
+2020-04-22,Los Angeles,037,Brookside,0,,-118.336327,34.058936
+2020-04-22,Los Angeles,037,Burbank,170,,-118.323487,34.1879
+2020-04-22,Los Angeles,037,Cadillac-Corning,12,,-118.381794,34.042513
+2020-04-22,Los Angeles,037,Calabasas,31,,-118.668881,34.13747
+2020-04-22,Los Angeles,037,Canoga Park,167,,-118.600829,34.208098
+2020-04-22,Los Angeles,037,Canyon Country,21,,-118.434197,34.454977
+2020-04-22,Los Angeles,037,Carson,191,,-118.255878,33.837391
+2020-04-22,Los Angeles,037,Carthay,56,,-118.372894,34.07124
+2020-04-22,Los Angeles,037,Castaic,16,,-118.628355,34.610162
+2020-04-22,Los Angeles,037,Central,81,,-118.258141,34.016399
+2020-04-22,Los Angeles,037,Century City,30,,-118.419399,34.052715
+2020-04-22,Los Angeles,037,Century Palms/Cove,57,,-118.267985,33.932641
+2020-04-22,Los Angeles,037,Cerritos,44,,-118.068587,33.867752
+2020-04-22,Los Angeles,037,Charter Oak,0,,-117.872888,34.058996
+2020-04-22,Los Angeles,037,Chatsworth,58,,-118.596089,34.256617
+2020-04-22,Los Angeles,037,Cheviot Hills,15,,-118.408801,34.041277
+2020-04-22,Los Angeles,037,Chinatown,1,Between 1 and 4,-118.240969,34.06146
+2020-04-22,Los Angeles,037,Claremont,21,,-117.715319,34.125904
+2020-04-22,Los Angeles,037,Cloverdale/Cochran,23,,-118.356007,34.038941
+2020-04-22,Los Angeles,037,Commerce,10,,-118.151914,33.996345
+2020-04-22,Los Angeles,037,Compton,140,,-118.22753,33.892938
+2020-04-22,Los Angeles,037,Country Club Park,50,,-118.325579,34.054301
+2020-04-22,Los Angeles,037,Covina,71,,-117.881821,34.090264
+2020-04-22,Los Angeles,037,Covina (Charter Oak),12,,-117.865044,34.100802
+2020-04-22,Los Angeles,037,Crenshaw District,43,,-118.335877,34.023057
+2020-04-22,Los Angeles,037,Crestview,57,,-118.378658,34.049595
+2020-04-22,Los Angeles,037,Cudahy,49,,-118.183118,33.963116
+2020-04-22,Los Angeles,037,Culver City,45,,-118.396806,34.005798
+2020-04-22,Los Angeles,037,Del Aire,6,,-118.372296,33.922831
+2020-04-22,Los Angeles,037,Del Rey,43,,-118.424311,33.989764
+2020-04-22,Los Angeles,037,Del Sur,1,Between 1 and 4,-118.284121,34.764411
+2020-04-22,Los Angeles,037,Desert View Highlands,1,Between 1 and 4,-118.153557,34.590253
+2020-04-22,Los Angeles,037,Diamond Bar,28,,-117.81613,33.999164
+2020-04-22,Los Angeles,037,Downey,155,,-118.131148,33.937862
+2020-04-22,Los Angeles,037,Downtown,41,,-118.257803,34.044724
+2020-04-22,Los Angeles,037,Duarte,45,,-117.950531,34.16094
+2020-04-22,Los Angeles,037,Eagle Rock,68,,-118.205209,34.135207
+2020-04-22,Los Angeles,037,East Covina,0,,-117.835314,34.088091
+2020-04-22,Los Angeles,037,East Hollywood,91,,-118.292538,34.09217
+2020-04-22,Los Angeles,037,East La Mirada,6,,-117.984485,33.922235
+2020-04-22,Los Angeles,037,East Lancaster,0,,-117.995982,34.667605
+2020-04-22,Los Angeles,037,East Los Angeles,227,,-118.169189,34.032673
+2020-04-22,Los Angeles,037,East Pasadena,0,,-118.082551,34.161732
+2020-04-22,Los Angeles,037,East Rancho Dominguez,15,,-118.195596,33.894857
+2020-04-22,Los Angeles,037,East Whittier,1,Between 1 and 4,-117.994826,33.927445
+2020-04-22,Los Angeles,037,Echo Park,14,,-118.255001,34.082177
+2020-04-22,Los Angeles,037,El Camino Village,1,Between 1 and 4,-118.334992,33.888441
+2020-04-22,Los Angeles,037,El Monte,96,,-118.029074,34.073948
+2020-04-22,Los Angeles,037,El Segundo,24,,-118.402004,33.916898
+2020-04-22,Los Angeles,037,El Sereno,70,,-118.177515,34.081112
+2020-04-22,Los Angeles,037,Elizabeth Lake,0,,-118.386954,34.674457
+2020-04-22,Los Angeles,037,Elysian Park,7,,-118.240334,34.078256
+2020-04-22,Los Angeles,037,Elysian Valley,16,,-118.237642,34.092694
+2020-04-22,Los Angeles,037,Encino,73,,-118.501697,34.155925
+2020-04-22,Los Angeles,037,Exposition,1,Between 1 and 4,-118.349778,34.026624
+2020-04-22,Los Angeles,037,Exposition Park,86,,-118.297919,34.018599
+2020-04-22,Los Angeles,037,Faircrest Heights,1,Between 1 and 4,-118.371706,34.038691
+2020-04-22,Los Angeles,037,Figueroa Park Square,16,,-118.286739,33.93256
+2020-04-22,Los Angeles,037,Florence-Firestone,86,,-118.267376,33.974897
+2020-04-22,Los Angeles,037,Franklin Canyon,0,,-118.413943,34.108047
+2020-04-22,Los Angeles,037,Gardena,126,,-118.307231,33.894352
+2020-04-22,Los Angeles,037,Glassell Park,92,,-118.231508,34.118242
+2020-04-22,Los Angeles,037,Glendale,389,,-118.246803,34.181933
+2020-04-22,Los Angeles,037,Glendora,37,,-117.84673599999999,34.144935
+2020-04-22,Los Angeles,037,Gramercy Place,20,,-118.309409,33.951267
+2020-04-22,Los Angeles,037,Granada Hills,88,,-118.504152,34.291056
+2020-04-22,Los Angeles,037,Green Meadows,36,,-118.263144,33.950734
+2020-04-22,Los Angeles,037,Hacienda Heights,43,,-117.978311,34.000107
+2020-04-22,Los Angeles,037,Hancock Park,60,,-118.32887,34.069715
+2020-04-22,Los Angeles,037,Harbor City,33,,-118.296386,33.781993
+2020-04-22,Los Angeles,037,Harbor Gateway,49,,-118.29466,33.866487
+2020-04-22,Los Angeles,037,Harbor Pines,0,,-118.304543,33.78262
+2020-04-22,Los Angeles,037,Harvard Heights,37,,-118.304644,34.043582
+2020-04-22,Los Angeles,037,Harvard Park,69,,-118.298016,33.981859
+2020-04-22,Los Angeles,037,Hawaiian Gardens,9,,-118.072804,33.830337
+2020-04-22,Los Angeles,037,Hawthorne,140,,-118.347694,33.914649
+2020-04-22,Los Angeles,037,Hermosa Beach,22,,-118.396435,33.865241
+2020-04-22,Los Angeles,037,Hi Vista,0,,-117.755031,34.689335
+2020-04-22,Los Angeles,037,Hidden Hills,0,,-118.661203,34.163749
+2020-04-22,Los Angeles,037,Highland Park,59,,-118.187118,34.112134
+2020-04-22,Los Angeles,037,Historic Filipinotown,38,,-118.271077,34.070245
+2020-04-22,Los Angeles,037,Hollywood,166,,-118.35386,34.100299
+2020-04-22,Los Angeles,037,Hollywood Hills,55,,-118.346365,34.120516
+2020-04-22,Los Angeles,037,Huntington Park,95,,-118.216706,33.979987
+2020-04-22,Los Angeles,037,Hyde Park,39,,-118.328048,33.983083
+2020-04-22,Los Angeles,037,Industry,1,Between 1 and 4,-117.926756,34.017494
+2020-04-22,Los Angeles,037,Inglewood,228,,-118.344474,33.956529
+2020-04-22,Los Angeles,037,Irwindale,1,Between 1 and 4,-117.963631,34.112113
+2020-04-22,Los Angeles,037,Jefferson Park,6,,-118.322769,34.02425
+2020-04-22,Los Angeles,037,Kagel/Lopez Canyons,1,Between 1 and 4,-118.37001,34.310296
+2020-04-22,Los Angeles,037,Koreatown,104,,-118.304346,34.054588
+2020-04-22,Los Angeles,037,La Canada Flintridge,35,,-118.200156,34.209689
+2020-04-22,Los Angeles,037,La Crescenta-Montrose,13,,-118.235266,34.232152
+2020-04-22,Los Angeles,037,La Habra Heights,1,Between 1 and 4,-117.950975,33.96025
+2020-04-22,Los Angeles,037,La Mirada,42,,-118.00932,33.90251
+2020-04-22,Los Angeles,037,La Puente,31,,-117.953338,34.032209
+2020-04-22,Los Angeles,037,La Rambla,6,,-118.302255,33.740218
+2020-04-22,Los Angeles,037,La Verne,14,,-117.770312,34.120692
+2020-04-22,Los Angeles,037,Ladera Heights,16,,-118.374062,33.997128
+2020-04-22,Los Angeles,037,Lafayette Square,9,,-118.334892,34.043401
+2020-04-22,Los Angeles,037,Lake Balboa,54,,-118.498229,34.198949
+2020-04-22,Los Angeles,037,Lake Hughes,0,,-118.429088,34.661878
+2020-04-22,Los Angeles,037,Lake Los Angeles,13,,-117.87071,34.620978
+2020-04-22,Los Angeles,037,Lake Manor,1,Between 1 and 4,-118.651748,34.238237
+2020-04-22,Los Angeles,037,Lakeview Terrace,40,,-118.37398,34.274649
+2020-04-22,Los Angeles,037,Lakewood,69,,-118.122171,33.84707
+2020-04-22,Los Angeles,037,Lancaster,197,,-118.175352,34.693444
+2020-04-22,Los Angeles,037,Lawndale,45,,-118.353156,33.888463
+2020-04-22,Los Angeles,037,Leimert Park,26,,-118.32453,34.006034
+2020-04-22,Los Angeles,037,Lennox,31,,-118.358601,33.938019
+2020-04-22,Los Angeles,037,Leona Valley,1,Between 1 and 4,-118.306794,34.62562
+2020-04-22,Los Angeles,037,Lincoln Heights,44,,-118.205364,34.081157
+2020-04-22,Los Angeles,037,Little Armenia,74,,-118.304855,34.094457
+2020-04-22,Los Angeles,037,Little Bangladesh,58,,-118.300377,34.065378
+2020-04-22,Los Angeles,037,Little Tokyo,1,Between 1 and 4,-118.241598,34.046994
+2020-04-22,Los Angeles,037,Littlerock,1,Between 1 and 4,-117.97807,34.531079
+2020-04-22,Los Angeles,037,Littlerock/Juniper Hills,1,Between 1 and 4,-117.919259,34.463499
+2020-04-22,Los Angeles,037,Littlerock/Pearblossom,1,Between 1 and 4,-117.897777,34.534363
+2020-04-22,Los Angeles,037,Llano,1,Between 1 and 4,-117.744875,34.49129
+2020-04-22,Los Angeles,037,Lomita,30,,-118.31745599999999,33.793312
+2020-04-22,Los Angeles,037,Long Beach,489,,-118.161014,33.805559
+2020-04-22,Los Angeles,037,Longwood,9,,-118.343548,34.036097
+2020-04-22,Los Angeles,037,Los Feliz,30,,-118.299672,34.131749
+2020-04-22,Los Angeles,037,Lynwood,132,,-118.201664,33.923954
+2020-04-22,Los Angeles,037,Malibu,26,,-118.784201,34.03684
+2020-04-22,Los Angeles,037,Manchester Square,9,,-118.311191,33.967273
+2020-04-22,Los Angeles,037,Mandeville Canyon,1,Between 1 and 4,-118.508629,34.091814
+2020-04-22,Los Angeles,037,Manhattan Beach,63,,-118.397059,33.889428
+2020-04-22,Los Angeles,037,Mar Vista,46,,-118.436957,34.013245
+2020-04-22,Los Angeles,037,Marina Peninsula,9,,-118.460393,33.972411
+2020-04-22,Los Angeles,037,Marina del Rey,9,,-118.447659,33.976535
+2020-04-22,Los Angeles,037,Maywood,47,,-118.187662,33.98852
+2020-04-22,Los Angeles,037,Melrose,281,,-118.334586,34.082723
+2020-04-22,Los Angeles,037,Mid-city,34,,-118.353944,34.049526
+2020-04-22,Los Angeles,037,Miracle Mile,32,,-118.353469,34.059456
+2020-04-22,Los Angeles,037,Mission Hills,49,,-118.457528,34.266942
+2020-04-22,Los Angeles,037,Monrovia,26,,-117.992121,34.165036
+2020-04-22,Los Angeles,037,Montebello,96,,-118.110797,34.015436
+2020-04-22,Los Angeles,037,Monterey Park,50,,-118.13253,34.049708
+2020-04-22,Los Angeles,037,Mt. Washington,31,,-118.216378,34.099553
+2020-04-22,Los Angeles,037,Newhall,0,,-118.526491,34.34704
+2020-04-22,Los Angeles,037,North Hills,101,,-118.478218,34.238739
+2020-04-22,Los Angeles,037,North Hollywood,226,,-118.390769,34.190006
+2020-04-22,Los Angeles,037,North Lancaster,0,,-118.141748,34.765963
+2020-04-22,Los Angeles,037,North Whittier,6,,-118.006976,34.03608
+2020-04-22,Los Angeles,037,Northeast San Gabriel,10,,-118.079216,34.115475
+2020-04-22,Los Angeles,037,Northridge,109,,-118.52853,34.237368
+2020-04-22,Los Angeles,037,Norwalk,135,,-118.082884,33.90687
+2020-04-22,Los Angeles,037,Pacific Palisades,33,,-118.531425,34.046284
+2020-04-22,Los Angeles,037,Pacoima,151,,-118.416768,34.265724
+2020-04-22,Los Angeles,037,Palisades Highlands,1,Between 1 and 4,-118.548762,34.089984
+2020-04-22,Los Angeles,037,Palmdale,299,,-118.105685,34.594429
+2020-04-22,Los Angeles,037,Palms,85,,-118.412847,34.023755
+2020-04-22,Los Angeles,037,Palos Verdes Estates,36,,-118.397292,33.787212
+2020-04-22,Los Angeles,037,Palos Verdes Peninsula,0,,-118.344627,33.78358
+2020-04-22,Los Angeles,037,Panorama City,166,,-118.444601,34.224297
+2020-04-22,Los Angeles,037,Paramount,100,,-118.165144,33.89765
+2020-04-22,Los Angeles,037,Park La Brea,11,,-118.355627,34.069731
+2020-04-22,Los Angeles,037,Pasadena,263,,-118.138912,34.159752
+2020-04-22,Los Angeles,037,Pearblossom/Llano,1,Between 1 and 4,-117.898903,34.494142
+2020-04-22,Los Angeles,037,Pellissier Village,0,,-118.03015,34.035291
+2020-04-22,Los Angeles,037,Pico Rivera,113,,-118.088735,33.990124
+2020-04-22,Los Angeles,037,Pico-Union,133,,-118.280491,34.045762
+2020-04-22,Los Angeles,037,Placerita Canyon,0,,-118.471321,34.38234
+2020-04-22,Los Angeles,037,Playa Del Rey,1,Between 1 and 4,-118.446368,33.961018
+2020-04-22,Los Angeles,037,Playa Vista,16,,-118.414497,33.979496
+2020-04-22,Los Angeles,037,Pomona,110,,-117.762596,34.058481
+2020-04-22,Los Angeles,037,Porter Ranch,46,,-118.557024,34.279694
+2020-04-22,Los Angeles,037,Quartz Hill,19,,-118.218626,34.65244
+2020-04-22,Los Angeles,037,Rancho Dominguez,10,,-118.218433,33.858301
+2020-04-22,Los Angeles,037,Rancho Palos Verdes,50,,-118.363522,33.75538
+2020-04-22,Los Angeles,037,Rancho Park,10,,-118.429114,34.036458
+2020-04-22,Los Angeles,037,Redondo Beach,94,,-118.376656,33.857406
+2020-04-22,Los Angeles,037,Regent Square,1,Between 1 and 4,-118.38321,34.03281
+2020-04-22,Los Angeles,037,Reseda,143,,-118.538571,34.198926
+2020-04-22,Los Angeles,037,Reseda Ranch,13,,-118.552574,34.21498
+2020-04-22,Los Angeles,037,Reynier Village,6,,-118.387153,34.036336
+2020-04-22,Los Angeles,037,Rolling Hills,1,Between 1 and 4,-118.347168,33.760022
+2020-04-22,Los Angeles,037,Rolling Hills Estates,13,,-118.350807,33.778407
+2020-04-22,Los Angeles,037,Roosevelt,0,,-117.961701,34.733315
+2020-04-22,Los Angeles,037,Rosemead,21,,-118.082271,34.068882
+2020-04-22,Los Angeles,037,Rosewood,1,Between 1 and 4,-118.249875,33.904692
+2020-04-22,Los Angeles,037,Rosewood/East Gardena,0,,-118.274921,33.893472
+2020-04-22,Los Angeles,037,Rosewood/West Rancho Dominguez,1,Between 1 and 4,-118.260993,33.898562
+2020-04-22,Los Angeles,037,Rowland Heights,32,,-117.871842,33.96744
+2020-04-22,Los Angeles,037,San Clemente Island,0,,-118.47404,32.894101
+2020-04-22,Los Angeles,037,San Dimas,24,,-117.808944,34.108201
+2020-04-22,Los Angeles,037,San Fernando,58,,-118.436238,34.288671
+2020-04-22,Los Angeles,037,San Francisquito Canyon/Bouquet Canyon,0,,-118.434085,34.532344
+2020-04-22,Los Angeles,037,San Gabriel,25,,-118.099093,34.094844
+2020-04-22,Los Angeles,037,San Jose Hills,14,,-117.904177,34.012262
+2020-04-22,Los Angeles,037,San Marino,9,,-118.113237,34.122367
+2020-04-22,Los Angeles,037,San Pasqual,0,,-118.102533,34.139229
+2020-04-22,Los Angeles,037,San Pedro,104,,-118.284679,33.736684
+2020-04-22,Los Angeles,037,Sand Canyon,0,,-118.402642,34.400323
+2020-04-22,Los Angeles,037,Santa Catalina Island,1,Between 1 and 4,-118.437421,33.384064
+2020-04-22,Los Angeles,037,Santa Clarita,273,,-118.496479,34.41748
+2020-04-22,Los Angeles,037,Santa Fe Springs,15,,-118.062518,33.933048
+2020-04-22,Los Angeles,037,Santa Monica,139,,-118.481816,34.023052
+2020-04-22,Los Angeles,037,Santa Monica Mountains,8,,-118.740912,34.087782
+2020-04-22,Los Angeles,037,Saugus,1,Between 1 and 4,-118.478866,34.477689
+2020-04-22,Los Angeles,037,Saugus/Canyon Country,0,,-118.430213,34.47789
+2020-04-22,Los Angeles,037,Shadow Hills,11,,-118.359629,34.254439
+2020-04-22,Los Angeles,037,Sherman Oaks,102,,-118.439071,34.15242
+2020-04-22,Los Angeles,037,Sierra Madre,5,,-118.050332,34.168709
+2020-04-22,Los Angeles,037,Signal Hill,6,,-118.168269,33.803005
+2020-04-22,Los Angeles,037,Silver Lake,97,,-118.270242,34.095701
+2020-04-22,Los Angeles,037,South Antelope Valley,0,,-118.084149,34.498972
+2020-04-22,Los Angeles,037,South Carthay,22,,-118.374921,34.056936
+2020-04-22,Los Angeles,037,South Edwards,0,,-117.95459,34.795787
+2020-04-22,Los Angeles,037,South El Monte,7,,-118.048315,34.049352
+2020-04-22,Los Angeles,037,South Gate,188,,-118.192526,33.944713
+2020-04-22,Los Angeles,037,South Park,80,,-118.274297,33.999717
+2020-04-22,Los Angeles,037,South Pasadena,38,,-118.157289,34.11024
+2020-04-22,Los Angeles,037,South San Gabriel,7,,-118.088033,34.047555
+2020-04-22,Los Angeles,037,South Whittier,52,,-118.031191,33.933626
+2020-04-22,Los Angeles,037,Southeast Antelope Valley,0,,-118.032536,34.526511
+2020-04-22,Los Angeles,037,St Elmo Village,6,,-118.342305,34.042791
+2020-04-22,Los Angeles,037,Stevenson Ranch,16,,-118.607267,34.376825
+2020-04-22,Los Angeles,037,Studio City,27,,-118.389205,34.137441
+2020-04-22,Los Angeles,037,Sun Valley,77,,-118.355481,34.227522
+2020-04-22,Los Angeles,037,Sun Village,1,Between 1 and 4,-117.937941,34.572624
+2020-04-22,Los Angeles,037,Sunland,52,,-118.329287,34.255065
+2020-04-22,Los Angeles,037,Sunrise Village,1,Between 1 and 4,-118.060407,34.010388
+2020-04-22,Los Angeles,037,Sycamore Square,0,,-118.343701,34.058007
+2020-04-22,Los Angeles,037,Sylmar,220,,-118.447155,34.313096
+2020-04-22,Los Angeles,037,Tarzana,65,,-118.549107,34.156974
+2020-04-22,Los Angeles,037,Temple City,31,,-118.057952,34.102167
+2020-04-22,Los Angeles,037,Temple-Beaudry,112,,-118.26774,34.069826
+2020-04-22,Los Angeles,037,Thai Town,12,,-118.304431,34.102003
+2020-04-22,Los Angeles,037,Toluca Lake,9,,-118.357673,34.15055
+2020-04-22,Los Angeles,037,Toluca Terrace,1,Between 1 and 4,-118.35844,34.166653
+2020-04-22,Los Angeles,037,Toluca Woods,1,Between 1 and 4,-118.357555,34.159662
+2020-04-22,Los Angeles,037,Torrance,220,,-118.341633,33.834625
+2020-04-22,Los Angeles,037,Tujunga,42,,-118.288497,34.25113
+2020-04-22,Los Angeles,037,Twin Lakes/Oat Mountain,1,Between 1 and 4,-118.610637,34.31406
+2020-04-22,Los Angeles,037,Unincorporated - Angeles National Forest,1,Between 1 and 4,-118.000747,34.323635
+2020-04-22,Los Angeles,037,Unincorporated - Arcadia,1,Between 1 and 4,-118.017067,34.108069
+2020-04-22,Los Angeles,037,Unincorporated - Azusa,10,,-117.897148,34.123231
+2020-04-22,Los Angeles,037,Unincorporated - Bradbury,0,,-117.967764,34.145326
+2020-04-22,Los Angeles,037,Unincorporated - Cerritos,0,,-118.093345,33.879439
+2020-04-22,Los Angeles,037,Unincorporated - Claremont,0,,-117.70912,34.15187
+2020-04-22,Los Angeles,037,Unincorporated - Covina,18,,-117.875822,34.075619
+2020-04-22,Los Angeles,037,Unincorporated - Del Rey,0,,-118.412269,33.982584
+2020-04-22,Los Angeles,037,Unincorporated - Duarte,5,,-117.993289,34.12409
+2020-04-22,Los Angeles,037,Unincorporated - El Monte,0,,-118.060454,34.063425
+2020-04-22,Los Angeles,037,Unincorporated - Florence-Firestone,126,,-118.244629,33.968138
+2020-04-22,Los Angeles,037,Unincorporated - Glendora,0,,-117.848888,34.15532
+2020-04-22,Los Angeles,037,Unincorporated - Harbor Gateway,0,,-118.298075,33.852743
+2020-04-22,Los Angeles,037,Unincorporated - Hawthorne,1,Between 1 and 4,-118.330502,33.911054
+2020-04-22,Los Angeles,037,Unincorporated - La Habra Heights,0,,-117.959311,33.947844
+2020-04-22,Los Angeles,037,Unincorporated - La Verne,1,Between 1 and 4,-117.746463,34.144207
+2020-04-22,Los Angeles,037,Unincorporated - Lakewood,0,,-118.059778,33.841354
+2020-04-22,Los Angeles,037,Unincorporated - Lynwood,0,,-118.176451,33.924541
+2020-04-22,Los Angeles,037,Unincorporated - Miracle Mile,0,,-118.358008,34.075844
+2020-04-22,Los Angeles,037,Unincorporated - Monrovia,5,,-118.003247,34.123033
+2020-04-22,Los Angeles,037,Unincorporated - Palmdale,1,Between 1 and 4,-118.015688,34.614211
+2020-04-22,Los Angeles,037,Unincorporated - Pomona,0,,-117.820557,34.05647
+2020-04-22,Los Angeles,037,Unincorporated - South El Monte,1,Between 1 and 4,-118.027068,34.041949
+2020-04-22,Los Angeles,037,Unincorporated - Walnut,0,,-117.846364,34.015792
+2020-04-22,Los Angeles,037,Unincorporated - West LA,1,Between 1 and 4,-118.456949,34.057291
+2020-04-22,Los Angeles,037,Unincorporated - Whittier,1,Between 1 and 4,-118.025917,34.003624
+2020-04-22,Los Angeles,037,Universal City,0,,-118.351868,34.138554
+2020-04-22,Los Angeles,037,University Hills,1,Between 1 and 4,-118.168371,34.068093
+2020-04-22,Los Angeles,037,University Park,45,,-118.278835,34.027991
+2020-04-22,Los Angeles,037,Val Verde,1,Between 1 and 4,-118.673426,34.444032
+2020-04-22,Los Angeles,037,Valencia,1,Between 1 and 4,-118.560379,34.469938
+2020-04-22,Los Angeles,037,Valinda,23,,-117.930106,34.04005
+2020-04-22,Los Angeles,037,Valley Glen,61,,-118.426504,34.182525
+2020-04-22,Los Angeles,037,Valley Village,66,,-118.395153,34.163461
+2020-04-22,Los Angeles,037,Van Nuys,191,,-118.462798,34.201032
+2020-04-22,Los Angeles,037,Venice,41,,-118.462067,33.993791
+2020-04-22,Los Angeles,037,Vermont Knolls,36,,-118.294776,33.968255
+2020-04-22,Los Angeles,037,Vermont Square,29,,-118.298043,33.999376
+2020-04-22,Los Angeles,037,Vermont Vista,70,,-118.282068,33.954326
+2020-04-22,Los Angeles,037,Vernon,0,,-118.210583,34.001902
+2020-04-22,Los Angeles,037,Vernon Central,112,,-118.251565,34.000396
+2020-04-22,Los Angeles,037,Victoria Park,28,,-118.32462,34.044
+2020-04-22,Los Angeles,037,View Heights,7,,-118.348176,33.984966
+2020-04-22,Los Angeles,037,View Park/Windsor Hills,21,,-118.348359,33.995555
+2020-04-22,Los Angeles,037,Walnut,19,,-117.859319,34.033461
+2020-04-22,Los Angeles,037,Walnut Park,36,,-118.22195,33.968237
+2020-04-22,Los Angeles,037,Watts,62,,-118.241149,33.940452
+2020-04-22,Los Angeles,037,Wellington Square,6,,-118.333492,34.035815
+2020-04-22,Los Angeles,037,West Adams,78,,-118.307847,34.035612
+2020-04-22,Los Angeles,037,West Antelope Valley,1,Between 1 and 4,-118.580785,34.760448
+2020-04-22,Los Angeles,037,West Carson,48,,-118.292604,33.825207
+2020-04-22,Los Angeles,037,West Chatsworth,0,,-118.660126,34.224938
+2020-04-22,Los Angeles,037,West Covina,81,,-117.911288,34.055423
+2020-04-22,Los Angeles,037,West Hills,38,,-118.63607,34.211472
+2020-04-22,Los Angeles,037,West Hollywood,125,,-118.371765,34.088278
+2020-04-22,Los Angeles,037,West Los Angeles,49,,-118.450481,34.040753
+2020-04-22,Los Angeles,037,West Puente Valley,7,,-117.958787,34.043568
+2020-04-22,Los Angeles,037,West Rancho Dominguez,1,Between 1 and 4,-118.262956,33.890237
+2020-04-22,Los Angeles,037,West Vernon,133,,-118.300192,34.000114
+2020-04-22,Los Angeles,037,West Whittier/Los Nietos,25,,-118.068907,33.976609
+2020-04-22,Los Angeles,037,Westchester,54,,-118.40607,33.952357
+2020-04-22,Los Angeles,037,Westfield/Academy Hills,0,,-118.356806,33.776376
+2020-04-22,Los Angeles,037,Westhills,0,,-118.661948,34.192708
+2020-04-22,Los Angeles,037,Westlake,164,,-118.272224,34.057208
+2020-04-22,Los Angeles,037,Westlake Village,6,,-118.822005,34.136925
+2020-04-22,Los Angeles,037,Westwood,42,,-118.438137,34.065931
+2020-04-22,Los Angeles,037,White Fence Farms,1,Between 1 and 4,-118.171417,34.625588
+2020-04-22,Los Angeles,037,Whittier,84,,-118.018806,33.967844
+2020-04-22,Los Angeles,037,Whittier Narrows,0,,-118.061967,34.033775
+2020-04-22,Los Angeles,037,Wholesale District,58,,-118.233106,34.041547
+2020-04-22,Los Angeles,037,Willowbrook,37,,-118.251505,33.916576
+2020-04-22,Los Angeles,037,Wilmington,61,,-118.253276,33.785869
+2020-04-22,Los Angeles,037,Wilshire Center,79,,-118.295338,34.068376
+2020-04-22,Los Angeles,037,Winnetka,95,,-118.575929,34.213111
+2020-04-22,Los Angeles,037,Wiseburn,1,Between 1 and 4,-118.365742,33.90952
+2020-04-22,Los Angeles,037,Woodland Hills,96,,-118.604522,34.16635
 2020-04-19,Marin,041,Central Marin,37,,-122.524722,37.948611
 2020-04-19,Marin,041,Novato,37,,-122.569722,38.1075
 2020-04-19,Marin,041,San Anselmo and Fairfax,14,,-122.561667,37.974722
@@ -11829,6 +12226,45 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Orange,059,Villa Park,6,,-117.822072,33.814006
 2020-04-21,Orange,059,Westminster,24,,-118.029078,33.746996
 2020-04-21,Orange,059,Yorba Linda,42,,-117.834681,33.890894
+2020-04-22,Orange,059,Aliso Viejo,17,,-117.726298,33.56846
+2020-04-22,Orange,059,Anaheim,230,,-117.889722,33.836111
+2020-04-22,Orange,059,Brea,18,,-117.900292,33.916475
+2020-04-22,Orange,059,Buena Park,64,,-117.998139,33.867404
+2020-04-22,Orange,059,Costa Mesa,33,,-117.904743,33.663844
+2020-04-22,Orange,059,Coto de Caza,5,,-117.587778,33.595833
+2020-04-22,Orange,059,Cypress,38,,-118.036851,33.816937
+2020-04-22,Orange,059,Dana Point,18,,-117.698912,33.467458
+2020-04-22,Orange,059,Fountain Valley,25,,-117.956243,33.720285
+2020-04-22,Orange,059,Fullerton,59,,-117.925205,33.871972
+2020-04-22,Orange,059,Garden Grove,69,,-117.940639,33.77322
+2020-04-22,Orange,059,Huntington Beach,153,,-118.000278,33.692778
+2020-04-22,Orange,059,Irvine,119,,-117.8436,33.686502
+2020-04-22,Orange,059,La Habra,37,,-117.965359,33.926246
+2020-04-22,Orange,059,La Palma,12,,-118.046139,33.846322
+2020-04-22,Orange,059,Ladera Ranch,10,,-117.654344,33.550805
+2020-04-22,Orange,059,Laguna Beach,36,,-117.785357,33.542719
+2020-04-22,Orange,059,Laguna Hills,17,,-117.69866,33.591643
+2020-04-22,Orange,059,Laguna Niguel,32,,-117.74145,33.529249
+2020-04-22,Orange,059,Laguna Woods,8,,-117.725116,33.61017
+2020-04-22,Orange,059,Lake Forest,26,,-117.708689,33.656746
+2020-04-22,Orange,059,Los Alamitos,9,,-118.071889,33.803201
+2020-04-22,Orange,059,Mission Viejo,39,,-117.730609,33.602
+2020-04-22,Orange,059,Newport Beach,89,,-117.940778,33.61799
+2020-04-22,Orange,059,Orange,65,,-117.887465,33.807614
+2020-04-22,Orange,059,Other/unknown,76,,,
+2020-04-22,Orange,059,Placentia,38,,-117.885835,33.881894
+2020-04-22,Orange,059,Rancho Mission Viejo,5,,-117.61,33.6
+2020-04-22,Orange,059,Rancho Santa Margarita,14,,-117.630248,33.627933
+2020-04-22,Orange,059,San Clemente,43,,-117.620278,33.437778
+2020-04-22,Orange,059,San Juan Capistrano,22,,-117.683894,33.506334
+2020-04-22,Orange,059,Santa Ana,184,,-117.881389,33.740833
+2020-04-22,Orange,059,Seal Beach,10,,-118.0825,33.759167
+2020-04-22,Orange,059,Stanton,15,,-118.010462,33.79474
+2020-04-22,Orange,059,Trabuco Canyon,10,,-117.586986,33.665508
+2020-04-22,Orange,059,Tustin,33,,-117.836714,33.733512
+2020-04-22,Orange,059,Villa Park,6,,-117.822072,33.814006
+2020-04-22,Orange,059,Westminster,26,,-118.029078,33.746996
+2020-04-22,Orange,059,Yorba Linda,43,,-117.834681,33.890894
 2020-03-27,Riverside,065,Banning,1,,-116.955647,33.968698
 2020-03-27,Riverside,065,Beaumont,5,,-117.061065,33.896342
 2020-03-27,Riverside,065,Blythe,1,,-114.867668,33.618343
@@ -13198,6 +13634,66 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Riverside,065,Wildomar,34,,-117.293586,33.616152
 2020-04-21,Riverside,065,Winchester,1,,-117.086944,33.707778
 2020-04-21,Riverside,065,Woodcrest,13,,-117.405956,33.887064
+2020-04-22,Riverside,065,Anza,5,,-116.638908,33.549092
+2020-04-22,Riverside,065,Banning,19,,-116.955647,33.968698
+2020-04-22,Riverside,065,Beaumont,96,,-117.061065,33.896342
+2020-04-22,Riverside,065,Bermuda Dunes,4,,-116.289175,33.742799
+2020-04-22,Riverside,065,Blythe,1,,-114.867668,33.618343
+2020-04-22,Riverside,065,Cabazon,2,,-116.766389,33.909167
+2020-04-22,Riverside,065,Calimesa,15,,-117.095906,33.979146
+2020-04-22,Riverside,065,Canyon Lake,8,,-117.276834,33.692301
+2020-04-22,Riverside,065,Cathedral City,67,,-116.534922,33.822583
+2020-04-22,Riverside,065,Cherry Valley,5,,-116.977248,33.972515
+2020-04-22,Riverside,065,Coachella,94,,-116.182425,33.686059
+2020-04-22,Riverside,065,Corona,153,,-117.648816,33.85932
+2020-04-22,Riverside,065,Coronita,2,,-117.611389,33.875833
+2020-04-22,Riverside,065,Desert Edge,3,,-116.440538,33.921539
+2020-04-22,Riverside,065,Desert Hot Springs,28,,-116.61534,33.961634
+2020-04-22,Riverside,065,Desert Palms,5,,-116.374456,33.722244
+2020-04-22,Riverside,065,East Hemet,6,,-116.958516,33.736753
+2020-04-22,Riverside,065,Eastvale,49,,-117.65215,33.971305
+2020-04-22,Riverside,065,El Cerrito,9,,-117.522944,33.836027
+2020-04-22,Riverside,065,El Sobrante,19,,-117.46117,33.872462
+2020-04-22,Riverside,065,French Valley,27,,-117.124328,33.583461
+2020-04-22,Riverside,065,Garnet,8,,-116.545569,33.90196
+2020-04-22,Riverside,065,Good Hope,16,,-117.266982,33.764742
+2020-04-22,Riverside,065,Green Acres,1,,-117.09307,33.738058
+2020-04-22,Riverside,065,Hemet,150,,-117.060185,33.725795
+2020-04-22,Riverside,065,Home Gardens,12,,-117.523476,33.881265
+2020-04-22,Riverside,065,Homeland,4,,-117.113333,33.741944
+2020-04-22,Riverside,065,Idyllwild-Pine Cove,3,,-116.762466,33.743539
+2020-04-22,Riverside,065,Indian Wells,10,,-116.369369,33.707409
+2020-04-22,Riverside,065,Indio,110,,-116.300284,33.738849
+2020-04-22,Riverside,065,Jurupa Valley,94,,-117.529214,33.992044
+2020-04-22,Riverside,065,La Quinta,49,,-116.344796,33.660873
+2020-04-22,Riverside,065,Lake Elsinore,81,,-117.38781,33.688474
+2020-04-22,Riverside,065,Lake Mathews,3,,-117.368333,33.825
+2020-04-22,Riverside,065,Lakeland Village,14,,-117.365068,33.641002
+2020-04-22,Riverside,065,Lakeview,1,,-117.118056,33.838611
+2020-04-22,Riverside,065,Mead Valley,24,,-117.296361,33.837219
+2020-04-22,Riverside,065,Meadowbrook,1,,-117.301306,33.72459
+2020-04-22,Riverside,065,Mecca,21,,-116.085007,33.576657
+2020-04-22,Riverside,065,Menifee,91,,-117.258498,33.692352
+2020-04-22,Riverside,065,Moreno Valley,318,,-117.262466,33.921775
+2020-04-22,Riverside,065,Murrieta,83,,-117.26848,33.57744
+2020-04-22,Riverside,065,Norco,18,,-117.595116,33.92786
+2020-04-22,Riverside,065,Nuevo,9,,-117.147359,33.805509
+2020-04-22,Riverside,065,Oasis,5,,-116.0979,33.461632
+2020-04-22,Riverside,065,Palm Desert,73,,-116.434042,33.740497
+2020-04-22,Riverside,065,Palm Springs,84,,-116.704031,33.771553
+2020-04-22,Riverside,065,Perris,126,,-117.2912,33.791973
+2020-04-22,Riverside,065,Rancho Mirage,22,,-116.46805,33.769852
+2020-04-22,Riverside,065,Riverside,536,,-117.469568,33.945996
+2020-04-22,Riverside,065,Romoland,1,,-117.175,33.745833
+2020-04-22,Riverside,065,San Jacinto,44,,-117.024268,33.794605
+2020-04-22,Riverside,065,Sky Valley,3,,-116.35505,33.89124
+2020-04-22,Riverside,065,Temecula,88,,-117.157264,33.501366
+2020-04-22,Riverside,065,Temescal Valley,16,,-117.495958,33.766606
+2020-04-22,Riverside,065,Thousand Palms,4,,-116.390289,33.820018
+2020-04-22,Riverside,065,Valle Vista,6,,-116.887115,33.743607
+2020-04-22,Riverside,065,Wildomar,37,,-117.293586,33.616152
+2020-04-22,Riverside,065,Winchester,1,,-117.086944,33.707778
+2020-04-22,Riverside,065,Woodcrest,14,,-117.405956,33.887064
 2020-04-03,Sacramento,067,Citrus Heights,17,,-121.283333,38.7
 2020-04-03,Sacramento,067,Elk Grove,43,,-121.381944,38.438333
 2020-04-03,Sacramento,067,Folsom,9,,-121.157778,38.672222
@@ -13342,6 +13838,14 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Sacramento,067,Outside of Cities,165,,,
 2020-04-21,Sacramento,067,Rancho Cordova,66,,-121.302778,38.589167
 2020-04-21,Sacramento,067,Sacramento,552,,-121.494444,38.581667
+2020-04-22,Sacramento,067,Citrus Heights,49,,-121.283333,38.7
+2020-04-22,Sacramento,067,Elk Grove,78,,-121.381944,38.438333
+2020-04-22,Sacramento,067,Folsom,37,,-121.157778,38.672222
+2020-04-22,Sacramento,067,Galt,9,,-121.303056,38.260833
+2020-04-22,Sacramento,067,Isleton,2,,-121.609167,38.161944
+2020-04-22,Sacramento,067,Outside of Cities,165,,,
+2020-04-22,Sacramento,067,Rancho Cordova,66,,-121.302778,38.589167
+2020-04-22,Sacramento,067,Sacramento,556,,-121.494444,38.581667
 2020-03-30,San Bernardino,071,Barstow,3,,-117.017283,34.895796
 2020-03-30,San Bernardino,071,Big Bear Lake,1,,-116.911422,34.243896
 2020-03-30,San Bernardino,071,Bloomington,2,,-117.39588,34.07029
@@ -14094,6 +14598,46 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,San Bernardino,071,Wrightwood,1,,-117.633388,34.360834
 2020-04-21,San Bernardino,071,Yucaipa,162,,-117.043086,34.033625
 2020-04-21,San Bernardino,071,Yucca Valley,13,,-116.432235,34.114174
+2020-04-22,San Bernardino,071,Adelanto,15,,-117.560861,34.591254
+2020-04-22,San Bernardino,071,Angelus Oaks,1,,,
+2020-04-22,San Bernardino,071,Apple Valley,19,,-117.185876,34.500831
+2020-04-22,San Bernardino,071,Barstow,10,,-117.017283,34.895796
+2020-04-22,San Bernardino,071,Big Bear City,2,,-116.84503,34.261118
+2020-04-22,San Bernardino,071,Big Bear Lake,4,,-116.911422,34.243896
+2020-04-22,San Bernardino,071,Bloomington,19,,-117.39588,34.07029
+2020-04-22,San Bernardino,071,Blue Jay,3,,-117.216863,34.244027
+2020-04-22,San Bernardino,071,Chino,102,,-117.688944,34.012235
+2020-04-22,San Bernardino,071,Chino Hills,55,,-117.732585,33.989819
+2020-04-22,San Bernardino,071,Colton,42,,-117.313655,34.073902
+2020-04-22,San Bernardino,071,Crestline,5,,-117.285599,34.241951
+2020-04-22,San Bernardino,071,Fontana,183,,-117.435048,34.092234
+2020-04-22,San Bernardino,071,Fort Irwin,2,,-116.684635,35.26284
+2020-04-22,San Bernardino,071,Grand Terrace,15,,-117.313654,34.033903
+2020-04-22,San Bernardino,071,Hesperia,47,,-117.300878,34.426389
+2020-04-22,San Bernardino,071,Highland,59,,-117.208651,34.128344
+2020-04-22,San Bernardino,071,Joshua Tree,4,,-116.338749,34.126721
+2020-04-22,San Bernardino,071,Landers,3,,-116.392222,34.266111
+2020-04-22,San Bernardino,071,Loma Linda,28,,-117.261153,34.048347
+2020-04-22,San Bernardino,071,Mentone,8,,-117.124574,34.062589
+2020-04-22,San Bernardino,071,Montclair,21,,-117.689778,34.07751
+2020-04-22,San Bernardino,071,Morongo Valley,6,,-116.580847,34.046955
+2020-04-22,San Bernardino,071,Oak Hills,7,,-117.434696,34.434038
+2020-04-22,San Bernardino,071,Ontario,107,,-117.650888,34.063344
+2020-04-22,San Bernardino,071,Phelan,3,,-117.572563,34.426288
+2020-04-22,San Bernardino,071,Piñon Hills,2,,-117.650052,34.429272
+2020-04-22,San Bernardino,071,Rancho Cucamonga,87,,-117.593108,34.106399
+2020-04-22,San Bernardino,071,Redlands,78,,-117.182538,34.055569
+2020-04-22,San Bernardino,071,Rialto,68,,-117.370324,34.1064
+2020-04-22,San Bernardino,071,Rimforest,1,,-117.225666,34.22955
+2020-04-22,San Bernardino,071,Running Springs,2,,-117.109205,34.207786
+2020-04-22,San Bernardino,071,San Bernardino,172,,-117.289765,34.108345
+2020-04-22,San Bernardino,071,Twentynine Palms,8,,-116.054167,34.135556
+2020-04-22,San Bernardino,071,Undetermined,87,,,
+2020-04-22,San Bernardino,071,Upland,51,,-117.648388,34.09751
+2020-04-22,San Bernardino,071,Victorville,71,,-117.292764,34.536218
+2020-04-22,San Bernardino,071,Wrightwood,1,,-117.633388,34.360834
+2020-04-22,San Bernardino,071,Yucaipa,167,,-117.043086,34.033625
+2020-04-22,San Bernardino,071,Yucca Valley,13,,-116.432235,34.114174
 2020-03-23,San Diego,073,Carlsbad,12,,-117.282654,33.130701
 2020-03-23,San Diego,073,Chula Vista,4,,-117.005993,32.632325
 2020-03-23,San Diego,073,Del Mar,4,,-117.262392,32.964406
@@ -14359,7 +14903,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-03,San Diego,073,Chula Vista,75,,-117.005993,32.632325
 2020-04-03,San Diego,073,Coronado,4,,-117.240538,32.650839
 2020-04-03,San Diego,073,Del Mar,7,,-117.262392,32.964406
-2020-04-03,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-03,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-03,San Diego,073,El Cajon,60,,-116.965206,32.80148
 2020-04-03,San Diego,073,Encinitas,27,,-117.268311,33.045762
 2020-04-03,San Diego,073,Escondido,26,,-117.078906,33.125218
@@ -14391,7 +14935,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-04,San Diego,073,Chula Vista,86,,-117.005993,32.632325
 2020-04-04,San Diego,073,Coronado,4,,-117.240538,32.650839
 2020-04-04,San Diego,073,Del Mar,7,,-117.262392,32.964406
-2020-04-04,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-04,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-04,San Diego,073,El Cajon,67,,-116.965206,32.80148
 2020-04-04,San Diego,073,Encinitas,27,,-117.268311,33.045762
 2020-04-04,San Diego,073,Escondido,27,,-117.078906,33.125218
@@ -14423,7 +14967,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-05,San Diego,073,Chula Vista,95,,-117.005993,32.632325
 2020-04-05,San Diego,073,Coronado,4,,-117.240538,32.650839
 2020-04-05,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-05,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-05,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-05,San Diego,073,El Cajon,72,,-116.965206,32.80148
 2020-04-05,San Diego,073,Encinitas,29,,-117.268311,33.045762
 2020-04-05,San Diego,073,Escondido,28,,-117.078906,33.125218
@@ -14455,7 +14999,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-06,San Diego,073,Chula Vista,104,,-117.005993,32.632325
 2020-04-06,San Diego,073,Coronado,4,,-117.240538,32.650839
 2020-04-06,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-06,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-06,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-06,San Diego,073,El Cajon,74,,-116.965206,32.80148
 2020-04-06,San Diego,073,Encinitas,30,,-117.268311,33.045762
 2020-04-06,San Diego,073,Escondido,28,,-117.078906,33.125218
@@ -14487,7 +15031,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-07,San Diego,073,Chula Vista,120,,-117.005993,32.632325
 2020-04-07,San Diego,073,Coronado,4,,-117.240538,32.650839
 2020-04-07,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-07,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-07,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-07,San Diego,073,El Cajon,85,,-116.965206,32.80148
 2020-04-07,San Diego,073,Encinitas,31,,-117.268311,33.045762
 2020-04-07,San Diego,073,Escondido,32,,-117.078906,33.125218
@@ -14519,7 +15063,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-08,San Diego,073,Chula Vista,133,,-117.005993,32.632325
 2020-04-08,San Diego,073,Coronado,4,,-117.240538,32.650839
 2020-04-08,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-08,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-08,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-08,San Diego,073,El Cajon,88,,-116.965206,32.80148
 2020-04-08,San Diego,073,Encinitas,32,,-117.268311,33.045762
 2020-04-08,San Diego,073,Escondido,35,,-117.078906,33.125218
@@ -14552,7 +15096,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-09,San Diego,073,Chula Vista,154,,-117.005993,32.632325
 2020-04-09,San Diego,073,Coronado,5,,-117.240538,32.650839
 2020-04-09,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-09,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-09,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-09,San Diego,073,El Cajon,93,,-116.965206,32.80148
 2020-04-09,San Diego,073,Encinitas,32,,-117.268311,33.045762
 2020-04-09,San Diego,073,Escondido,39,,-117.078906,33.125218
@@ -14585,7 +15129,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-10,San Diego,073,Chula Vista,163,,-117.005993,32.632325
 2020-04-10,San Diego,073,Coronado,5,,-117.240538,32.650839
 2020-04-10,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-10,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-10,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-10,San Diego,073,El Cajon,97,,-116.965206,32.80148
 2020-04-10,San Diego,073,Encinitas,33,,-117.268311,33.045762
 2020-04-10,San Diego,073,Escondido,46,,-117.078906,33.125218
@@ -14619,7 +15163,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-11,San Diego,073,Chula Vista,170,,-117.005993,32.632325
 2020-04-11,San Diego,073,Coronado,5,,-117.240538,32.650839
 2020-04-11,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-11,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-11,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-11,San Diego,073,El Cajon,105,,-116.965206,32.80148
 2020-04-11,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-11,San Diego,073,Escondido,50,,-117.078906,33.125218
@@ -14653,7 +15197,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-12,San Diego,073,Chula Vista,175,,-117.005993,32.632325
 2020-04-12,San Diego,073,Coronado,5,,-117.240538,32.650839
 2020-04-12,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-12,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-12,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-12,San Diego,073,El Cajon,108,,-116.965206,32.80148
 2020-04-12,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-12,San Diego,073,Escondido,50,,-117.078906,33.125218
@@ -14687,7 +15231,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-13,San Diego,073,Chula Vista,183,,-117.005993,32.632325
 2020-04-13,San Diego,073,Coronado,5,,-117.240538,32.650839
 2020-04-13,San Diego,073,Del Mar,8,,-117.262392,32.964406
-2020-04-13,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-13,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-13,San Diego,073,El Cajon,111,,-116.965206,32.80148
 2020-04-13,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-13,San Diego,073,Escondido,50,,-117.078906,33.125218
@@ -14721,7 +15265,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-14,San Diego,073,Chula Vista,202,,-117.005993,32.632325
 2020-04-14,San Diego,073,Coronado,6,,-117.240538,32.650839
 2020-04-14,San Diego,073,Del Mar,10,,-117.262392,32.964406
-2020-04-14,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-14,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-14,San Diego,073,El Cajon,113,,-116.965206,32.80148
 2020-04-14,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-14,San Diego,073,Escondido,52,,-117.078906,33.125218
@@ -14756,7 +15300,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-15,San Diego,073,Chula Vista,210,,-117.005993,32.632325
 2020-04-15,San Diego,073,Coronado,6,,-117.240538,32.650839
 2020-04-15,San Diego,073,Del Mar,10,,-117.262392,32.964406
-2020-04-15,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-15,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-15,San Diego,073,El Cajon,118,,-116.965206,32.80148
 2020-04-15,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-15,San Diego,073,Escondido,55,,-117.078906,33.125218
@@ -14792,7 +15336,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-16,San Diego,073,Chula Vista,227,,-117.005993,32.632325
 2020-04-16,San Diego,073,Coronado,6,,-117.240538,32.650839
 2020-04-16,San Diego,073,Del Mar,11,,-117.262392,32.964406
-2020-04-16,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-16,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-16,San Diego,073,El Cajon,119,,-116.965206,32.80148
 2020-04-16,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-16,San Diego,073,Escondido,60,,-117.078906,33.125218
@@ -14828,7 +15372,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-17,San Diego,073,Chula Vista,234,,-117.005993,32.632325
 2020-04-17,San Diego,073,Coronado,6,,-117.240538,32.650839
 2020-04-17,San Diego,073,Del Mar,11,,-117.262392,32.964406
-2020-04-17,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-17,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-17,San Diego,073,El Cajon,122,,-116.965206,32.80148
 2020-04-17,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-17,San Diego,073,Escondido,62,,-117.078906,33.125218
@@ -14864,7 +15408,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,San Diego,073,Chula Vista,242,,-117.005993,32.632325
 2020-04-18,San Diego,073,Coronado,6,,-117.240538,32.650839
 2020-04-18,San Diego,073,Del Mar,11,,-117.262392,32.964406
-2020-04-18,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-18,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-18,San Diego,073,El Cajon,125,,-116.965206,32.80148
 2020-04-18,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-18,San Diego,073,Escondido,66,,-117.078906,33.125218
@@ -14901,7 +15445,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,San Diego,073,Chula Vista,251,,-117.005993,32.632325
 2020-04-19,San Diego,073,Coronado,6,,-117.240538,32.650839
 2020-04-19,San Diego,073,Del Mar,11,,-117.262392,32.964406
-2020-04-19,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-19,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-19,San Diego,073,El Cajon,128,,-116.965206,32.80148
 2020-04-19,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-19,San Diego,073,Escondido,67,,-117.078906,33.125218
@@ -14938,7 +15482,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-20,San Diego,073,Chula Vista,258,,-117.005993,32.632325
 2020-04-20,San Diego,073,Coronado,7,,-117.240538,32.650839
 2020-04-20,San Diego,073,Del Mar,11,,-117.262392,32.964406
-2020-04-20,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-20,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-20,San Diego,073,El Cajon,132,,-116.965206,32.80148
 2020-04-20,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-20,San Diego,073,Escondido,71,,-117.078906,33.125218
@@ -14975,7 +15519,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,San Diego,073,Chula Vista,273,,-117.005993,32.632325
 2020-04-21,San Diego,073,Coronado,7,,-117.240538,32.650839
 2020-04-21,San Diego,073,Del Mar,11,,-117.262392,32.964406
-2020-04-21,San Diego,073,Descanso,1,,-118.928973,33.535219
+2020-04-21,San Diego,073,Descanso,1,,-116.615833,32.852778
 2020-04-21,San Diego,073,El Cajon,140,,-116.965206,32.80148
 2020-04-21,San Diego,073,Encinitas,34,,-117.268311,33.045762
 2020-04-21,San Diego,073,Escondido,72,,-117.078906,33.125218
@@ -15004,6 +15548,45 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,San Diego,073,Unincorporated,330,,,
 2020-04-21,San Diego,073,Valley Center,5,,-117.090885,33.226252
 2020-04-21,San Diego,073,Vista,36,,-117.243746,33.201367
+2020-04-22,San Diego,073,Alpine,3,,-116.791972,32.844067
+2020-04-22,San Diego,073,Bonita,20,,-117.029174,32.672774
+2020-04-22,San Diego,073,Bonsall,1,,-117.193611,33.279722
+2020-04-22,San Diego,073,Borrego Springs,1,,-116.423024,33.25489
+2020-04-22,San Diego,073,Boulevard,2,,-116.286294,32.663632
+2020-04-22,San Diego,073,Campo,0,,-116.543573,32.652402
+2020-04-22,San Diego,073,Carlsbad,50,,-117.282654,33.130701
+2020-04-22,San Diego,073,Chula Vista,286,,-117.005993,32.632325
+2020-04-22,San Diego,073,Coronado,7,,-117.240538,32.650839
+2020-04-22,San Diego,073,Del Mar,11,,-117.262392,32.964406
+2020-04-22,San Diego,073,Descanso,1,,-116.615833,32.852778
+2020-04-22,San Diego,073,El Cajon,139,,-116.965206,32.80148
+2020-04-22,San Diego,073,Encinitas,34,,-117.268311,33.045762
+2020-04-22,San Diego,073,Escondido,73,,-117.078906,33.125218
+2020-04-22,San Diego,073,Fallbrook,11,,-117.251739,33.37523
+2020-04-22,San Diego,073,Imperial Beach,17,,-117.13413,32.563104
+2020-04-22,San Diego,073,Jamul,6,,-116.877237,32.718851
+2020-04-22,San Diego,073,Julian,2,,-116.585556,33.070833
+2020-04-22,San Diego,073,La Mesa,50,,-117.022602,32.766092
+2020-04-22,San Diego,073,Lakeside,18,,-116.926798,32.856093
+2020-04-22,San Diego,073,Lemon Grove,22,,-117.031795,32.742202
+2020-04-22,San Diego,073,National City,71,,-117.095883,32.672397
+2020-04-22,San Diego,073,Oceanside,56,,-117.309647,33.228541
+2020-04-22,San Diego,073,Other/unknowns,192,,,
+2020-04-22,San Diego,073,Pala,2,,,
+2020-04-22,San Diego,073,Pauma Valley,2,,-116.998926,33.303366
+2020-04-22,San Diego,073,Potrero,2,,-116.613056,32.604722
+2020-04-22,San Diego,073,Poway,22,,-117.031363,32.969113
+2020-04-22,San Diego,073,Ramona,12,,-116.877082,33.037247
+2020-04-22,San Diego,073,Ranchita,2,,-116.625678,33.183513
+2020-04-22,San Diego,073,Rancho Santa Fe,14,,-117.204198,33.019952
+2020-04-22,San Diego,073,San Diego,1189,,-117.148962,32.69247
+2020-04-22,San Diego,073,San Marcos,27,,-117.170654,33.139888
+2020-04-22,San Diego,073,Santee,28,,-116.988058,32.839658
+2020-04-22,San Diego,073,Solana Beach,6,,-117.258008,32.993843
+2020-04-22,San Diego,073,Spring Valley,68,,-116.999869,32.744752
+2020-04-22,San Diego,073,Unincorporated,335,,,
+2020-04-22,San Diego,073,Valley Center,5,,-117.090885,33.226252
+2020-04-22,San Diego,073,Vista,39,,-117.243746,33.201367
 2020-04-20,San Francisco,075,94102,51,,-122.419339,37.779584
 2020-04-20,San Francisco,075,94103,79,,-122.411164,37.773152
 2020-04-20,San Francisco,075,94104,,,-122.402129,37.791412
@@ -15082,7 +15665,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-04,San Luis Obispo,079,Nipomo,5,,-120.475999,35.042755
 2020-04-04,San Luis Obispo,079,Other,11,,,
 2020-04-04,San Luis Obispo,079,Paso Robles,26,,-120.654502,35.636876
-2020-04-04,San Luis Obispo,079,San Luis Obispo,8,,120.659616,35.282752
+2020-04-04,San Luis Obispo,079,San Luis Obispo,8,,-120.659616,35.282752
 2020-04-04,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-05,San Luis Obispo,079,Arroyo Grande,13,,-120.590725,35.118587
 2020-04-05,San Luis Obispo,079,Atascadero,19,,-120.670726,35.489417
@@ -15090,7 +15673,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-05,San Luis Obispo,079,Nipomo,5,,-120.475999,35.042755
 2020-04-05,San Luis Obispo,079,Other,11,,,
 2020-04-05,San Luis Obispo,079,Paso Robles,27,,-120.654502,35.636876
-2020-04-05,San Luis Obispo,079,San Luis Obispo,8,,120.659616,35.282752
+2020-04-05,San Luis Obispo,079,San Luis Obispo,8,,-120.659616,35.282752
 2020-04-05,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-06,San Luis Obispo,079,Arroyo Grande,13,,-120.590725,35.118587
 2020-04-06,San Luis Obispo,079,Atascadero,19,,-120.670726,35.489417
@@ -15098,7 +15681,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-06,San Luis Obispo,079,Nipomo,5,,-120.475999,35.042755
 2020-04-06,San Luis Obispo,079,Other,11,,,
 2020-04-06,San Luis Obispo,079,Paso Robles,27,,-120.654502,35.636876
-2020-04-06,San Luis Obispo,079,San Luis Obispo,8,,120.659616,35.282752
+2020-04-06,San Luis Obispo,079,San Luis Obispo,8,,-120.659616,35.282752
 2020-04-06,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-07,San Luis Obispo,079,Arroyo Grande,14,,-120.590725,35.118587
 2020-04-07,San Luis Obispo,079,Atascadero,19,,-120.670726,35.489417
@@ -15106,7 +15689,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-07,San Luis Obispo,079,Nipomo,6,,-120.475999,35.042755
 2020-04-07,San Luis Obispo,079,Other,13,,,
 2020-04-07,San Luis Obispo,079,Paso Robles,27,,-120.654502,35.636876
-2020-04-07,San Luis Obispo,079,San Luis Obispo,8,,120.659616,35.282752
+2020-04-07,San Luis Obispo,079,San Luis Obispo,8,,-120.659616,35.282752
 2020-04-07,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-08,San Luis Obispo,079,Arroyo Grande,14,,-120.590725,35.118587
 2020-04-08,San Luis Obispo,079,Atascadero,20,,-120.670726,35.489417
@@ -15114,7 +15697,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-08,San Luis Obispo,079,Nipomo,6,,-120.475999,35.042755
 2020-04-08,San Luis Obispo,079,Other,13,,,
 2020-04-08,San Luis Obispo,079,Paso Robles,29,,-120.654502,35.636876
-2020-04-08,San Luis Obispo,079,San Luis Obispo,8,,120.659616,35.282752
+2020-04-08,San Luis Obispo,079,San Luis Obispo,8,,-120.659616,35.282752
 2020-04-08,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-09,San Luis Obispo,079,Arroyo Grande,14,,-120.590725,35.118587
 2020-04-09,San Luis Obispo,079,Atascadero,20,,-120.670726,35.489417
@@ -15122,7 +15705,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-09,San Luis Obispo,079,Nipomo,6,,-120.475999,35.042755
 2020-04-09,San Luis Obispo,079,Other,15,,,
 2020-04-09,San Luis Obispo,079,Paso Robles,29,,-120.654502,35.636876
-2020-04-09,San Luis Obispo,079,San Luis Obispo,8,,120.659616,35.282752
+2020-04-09,San Luis Obispo,079,San Luis Obispo,8,,-120.659616,35.282752
 2020-04-09,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-10,San Luis Obispo,079,Arroyo Grande,14,,-120.590725,35.118587
 2020-04-10,San Luis Obispo,079,Atascadero,21,,-120.670726,35.489417
@@ -15130,7 +15713,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-10,San Luis Obispo,079,Nipomo,6,,-120.475999,35.042755
 2020-04-10,San Luis Obispo,079,Other,15,,,
 2020-04-10,San Luis Obispo,079,Paso Robles,29,,-120.654502,35.636876
-2020-04-10,San Luis Obispo,079,San Luis Obispo,10,,120.659616,35.282752
+2020-04-10,San Luis Obispo,079,San Luis Obispo,10,,-120.659616,35.282752
 2020-04-10,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-11,San Luis Obispo,079,Arroyo Grande,15,,-120.590725,35.118587
 2020-04-11,San Luis Obispo,079,Atascadero,22,,-120.670726,35.489417
@@ -15138,7 +15721,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-11,San Luis Obispo,079,Nipomo,7,,-120.475999,35.042755
 2020-04-11,San Luis Obispo,079,Other,15,,,
 2020-04-11,San Luis Obispo,079,Paso Robles,29,,-120.654502,35.636876
-2020-04-11,San Luis Obispo,079,San Luis Obispo,10,,120.659616,35.282752
+2020-04-11,San Luis Obispo,079,San Luis Obispo,10,,-120.659616,35.282752
 2020-04-11,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-12,San Luis Obispo,079,Arroyo Grande,16,,-120.590725,35.118587
 2020-04-12,San Luis Obispo,079,Atascadero,22,,-120.670726,35.489417
@@ -15147,7 +15730,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-12,San Luis Obispo,079,Other,11,,,
 2020-04-12,San Luis Obispo,079,Paso Robles,30,,-120.654502,35.636876
 2020-04-12,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-12,San Luis Obispo,079,San Luis Obispo,10,,120.659616,35.282752
+2020-04-12,San Luis Obispo,079,San Luis Obispo,10,,-120.659616,35.282752
 2020-04-12,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-13,San Luis Obispo,079,Arroyo Grande,16,,-120.590725,35.118587
 2020-04-13,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15156,7 +15739,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-13,San Luis Obispo,079,Other,11,,,
 2020-04-13,San Luis Obispo,079,Paso Robles,30,,-120.654502,35.636876
 2020-04-13,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-13,San Luis Obispo,079,San Luis Obispo,12,,120.659616,35.282752
+2020-04-13,San Luis Obispo,079,San Luis Obispo,12,,-120.659616,35.282752
 2020-04-13,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-14,San Luis Obispo,079,Arroyo Grande,16,,-120.590725,35.118587
 2020-04-14,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15165,7 +15748,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-14,San Luis Obispo,079,Other,13,,,
 2020-04-14,San Luis Obispo,079,Paso Robles,30,,-120.654502,35.636876
 2020-04-14,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-14,San Luis Obispo,079,San Luis Obispo,12,,120.659616,35.282752
+2020-04-14,San Luis Obispo,079,San Luis Obispo,12,,-120.659616,35.282752
 2020-04-14,San Luis Obispo,079,Templeton,6,,-120.706005,35.549694
 2020-04-15,San Luis Obispo,079,Arroyo Grande,17,,-120.590725,35.118587
 2020-04-15,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15174,7 +15757,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-15,San Luis Obispo,079,Other,12,,,
 2020-04-15,San Luis Obispo,079,Paso Robles,31,,-120.654502,35.636876
 2020-04-15,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-15,San Luis Obispo,079,San Luis Obispo,14,,120.659616,35.282752
+2020-04-15,San Luis Obispo,079,San Luis Obispo,14,,-120.659616,35.282752
 2020-04-15,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-16,San Luis Obispo,079,Arroyo Grande,17,,-120.590725,35.118587
 2020-04-16,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15183,7 +15766,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-16,San Luis Obispo,079,Other,12,,,
 2020-04-16,San Luis Obispo,079,Paso Robles,31,,-120.654502,35.636876
 2020-04-16,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-16,San Luis Obispo,079,San Luis Obispo,14,,120.659616,35.282752
+2020-04-16,San Luis Obispo,079,San Luis Obispo,14,,-120.659616,35.282752
 2020-04-16,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-17,San Luis Obispo,079,Arroyo Grande,17,,-120.590725,35.118587
 2020-04-17,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15192,7 +15775,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-17,San Luis Obispo,079,Other,12,,,
 2020-04-17,San Luis Obispo,079,Paso Robles,31,,-120.654502,35.636876
 2020-04-17,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-17,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
+2020-04-17,San Luis Obispo,079,San Luis Obispo,15,,-120.659616,35.282752
 2020-04-17,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-18,San Luis Obispo,079,Arroyo Grande,18,,-120.590725,35.118587
 2020-04-18,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15201,7 +15784,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,San Luis Obispo,079,Other,13,,,
 2020-04-18,San Luis Obispo,079,Paso Robles,32,,-120.654502,35.636876
 2020-04-18,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-18,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
+2020-04-18,San Luis Obispo,079,San Luis Obispo,15,,-120.659616,35.282752
 2020-04-18,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-19,San Luis Obispo,079,Arroyo Grande,18,,-120.590725,35.118587
 2020-04-19,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15210,7 +15793,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,San Luis Obispo,079,Other,13,,,
 2020-04-19,San Luis Obispo,079,Paso Robles,33,,-120.654502,35.636876
 2020-04-19,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-19,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
+2020-04-19,San Luis Obispo,079,San Luis Obispo,15,,-120.659616,35.282752
 2020-04-19,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-20,San Luis Obispo,079,Arroyo Grande,18,,-120.590725,35.118587
 2020-04-20,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15219,7 +15802,7 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-20,San Luis Obispo,079,Other,13,,,
 2020-04-20,San Luis Obispo,079,Paso Robles,33,,-120.654502,35.636876
 2020-04-20,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-20,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
+2020-04-20,San Luis Obispo,079,San Luis Obispo,15,,-120.659616,35.282752
 2020-04-20,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-04-21,San Luis Obispo,079,Arroyo Grande,19,,-120.590725,35.118587
 2020-04-21,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
@@ -15228,8 +15811,18 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,San Luis Obispo,079,Other,13,,,
 2020-04-21,San Luis Obispo,079,Paso Robles,34,,-120.654502,35.636876
 2020-04-21,San Luis Obispo,079,Pismo Beach,5,,-120.648056,35.148333
-2020-04-21,San Luis Obispo,079,San Luis Obispo,15,,120.659616,35.282752
+2020-04-21,San Luis Obispo,079,San Luis Obispo,15,,-120.659616,35.282752
 2020-04-21,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
+2020-04-22,San Luis Obispo,079,Arroyo Grande,19,,-120.590725,35.118587
+2020-04-22,San Luis Obispo,079,Atascadero,23,,-120.670726,35.489417
+2020-04-22,San Luis Obispo,079,Morro Bay,6,,-120.849992,35.365944
+2020-04-22,San Luis Obispo,079,Nipomo,12,,-120.475999,35.042755
+2020-04-22,San Luis Obispo,079,Other,10,,,
+2020-04-22,San Luis Obispo,079,Paso Robles,38,,-120.654502,35.636876
+2020-04-22,San Luis Obispo,079,Pismo Beach,6,,-120.648056,35.148333
+2020-04-22,San Luis Obispo,079,San Luis Obispo,15,,-120.659616,35.282752
+2020-04-22,San Luis Obispo,079,San Miquel,6,,,
+2020-04-22,San Luis Obispo,079,Templeton,7,,-120.706005,35.549694
 2020-03-26,Santa Barbara,083,Lompoc,1,,-120.457941,34.63915
 2020-03-26,Santa Barbara,083,Orcutt,5,,-120.435997,34.865257
 2020-03-26,Santa Barbara,083,Santa Barbara,11,,-119.69819,34.42083
@@ -15499,6 +16092,17 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Santa Barbara,083,Santa Maria,108,,-120.435719,34.953034
 2020-04-21,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
 2020-04-21,Santa Barbara,083,South County,21,,-119.69819,34.42083
+2020-04-22,Santa Barbara,083,"Federal Prison, Lompoc",99,,-120.497158,34.678364
+2020-04-22,Santa Barbara,083,Goleta,7,,-119.898454,34.436278
+2020-04-22,Santa Barbara,083,Goleta Valley & Gaviota,12,,-120.214872,34.471656
+2020-04-22,Santa Barbara,083,Isla Vista,1,,-119.876711,34.414185
+2020-04-22,Santa Barbara,083,Lompoc,72,,-120.457941,34.63915
+2020-04-22,Santa Barbara,083,North County,23,,-120.571836,34.971644
+2020-04-22,Santa Barbara,083,Orcutt,35,,-120.435997,34.865257
+2020-04-22,Santa Barbara,083,Santa Barbara,47,,-119.69819,34.42083
+2020-04-22,Santa Barbara,083,Santa Maria,116,,-120.435719,34.953034
+2020-04-22,Santa Barbara,083,Santa Ynez Valley,5,,-120.097368,34.584154
+2020-04-22,Santa Barbara,083,South County,21,,-119.69819,34.42083
 2020-04-09,Santa Clara,085,Campbell,26,,-121.955,37.283889
 2020-04-09,Santa Clara,085,Cupertino,17,,-122.031944,37.323056
 2020-04-09,Santa Clara,085,Gilroy,24,,-121.58,37.011944
@@ -15676,6 +16280,22 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Santa Clara,085,Santa Clara,94,,-121.969167,37.354444
 2020-04-21,Santa Clara,085,Saratoga,10,,-122.019444,37.2725
 2020-04-21,Santa Clara,085,Sunnyvale,105,,-122.0375,37.371111
+2020-04-22,Santa Clara,085,Campbell,28,,-121.955,37.283889
+2020-04-22,Santa Clara,085,Cupertino,24,,-122.031944,37.323056
+2020-04-22,Santa Clara,085,Gilroy,37,,-121.58,37.011944
+2020-04-22,Santa Clara,085,Los Altos,22,,-122.0975,37.368056
+2020-04-22,Santa Clara,085,Los Altos Hills,1,Less than 10,-122.1375,37.371389
+2020-04-22,Santa Clara,085,Los Gatos,22,,-121.961667,37.236111
+2020-04-22,Santa Clara,085,Milpitas,66,,-121.895,37.434722
+2020-04-22,Santa Clara,085,Monte Sereno,1,Less than 10,-121.989444,37.238056
+2020-04-22,Santa Clara,085,Morgan Hill,32,,-121.654444,37.130556
+2020-04-22,Santa Clara,085,Mountain View,43,,-122.081944,37.389444
+2020-04-22,Santa Clara,085,Other/Unknown,96,,,
+2020-04-22,Santa Clara,085,Palo Alto,67,,-122.138056,37.429167
+2020-04-22,Santa Clara,085,San Jose,1302,,-121.9,37.333333
+2020-04-22,Santa Clara,085,Santa Clara,94,,-121.969167,37.354444
+2020-04-22,Santa Clara,085,Saratoga,10,,-122.019444,37.2725
+2020-04-22,Santa Clara,085,Sunnyvale,108,,-122.0375,37.371111
 2020-04-09,Sonoma,097,Central County,77,,-122.704722,38.448611
 2020-04-09,Sonoma,097,East County,15,,-122.546111,38.413889
 2020-04-09,Sonoma,097,North County,17,,-122.902679,38.707482
@@ -15731,6 +16351,11 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-20,Sonoma,097,North County,20,,-122.902679,38.707482
 2020-04-20,Sonoma,097,South County,23,,-122.631389,38.245833
 2020-04-20,Sonoma,097,West County,15,,-122.990833,38.506389
+2020-04-22,Sonoma,097,Central County,115,,-122.704722,38.448611
+2020-04-22,Sonoma,097,East County,16,,-122.546111,38.413889
+2020-04-22,Sonoma,097,North County,20,,-122.902679,38.707482
+2020-04-22,Sonoma,097,South County,24,,-122.631389,38.245833
+2020-04-22,Sonoma,097,West County,15,,-122.990833,38.506389
 2020-04-06,Stanislaus,099,Ceres,8,,-120.957222,37.601389
 2020-04-06,Stanislaus,099,County,15,,,
 2020-04-06,Stanislaus,099,Hughson,,,-120.866944,37.603056
@@ -15890,6 +16515,16 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Stanislaus,099,Turlock,18,,-120.848889,37.505833
 2020-04-21,Stanislaus,099,Waterford,7,,-120.7675,37.645
 2020-04-21,Stanislaus,099,unincorporated,40,,,
+2020-04-22,Stanislaus,099,Ceres,31,,-120.957222,37.601389
+2020-04-22,Stanislaus,099,Hughson,5,,-120.866944,37.603056
+2020-04-22,Stanislaus,099,Modesto,91,,-120.994444,37.661389
+2020-04-22,Stanislaus,099,Newman,9,,-121.0225,37.315
+2020-04-22,Stanislaus,099,Oakdale,5,,-120.856944,37.769167
+2020-04-22,Stanislaus,099,Patterson,24,,-121.132778,37.473056
+2020-04-22,Stanislaus,099,Riverbank,11,,-120.943611,37.731389
+2020-04-22,Stanislaus,099,Turlock,22,,-120.848889,37.505833
+2020-04-22,Stanislaus,099,Waterford,7,,-120.7675,37.645
+2020-04-22,Stanislaus,099,unincorporated,46,,,
 2020-03-23,Ventura,111,Camarillo,5,,-119.03636,34.218076
 2020-03-23,Ventura,111,Moorpark,1,,-118.881099,34.280189
 2020-03-23,Ventura,111,Oak Park,1,,-118.759551,34.174226
@@ -16381,6 +17016,20 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Ventura,111,Somis,1,,-118.994592,34.263681
 2020-04-21,Ventura,111,Thousand Oaks,83,,-118.839304,34.172478
 2020-04-21,Ventura,111,Ventura,31,,-119.293754,34.282366
+2020-04-22,Ventura,111,Camarillo,44,,-119.03636,34.218076
+2020-04-22,Ventura,111,Fillmore,9,,-118.933112,34.401069
+2020-04-22,Ventura,111,Moorpark,25,,-118.881099,34.280189
+2020-04-22,Ventura,111,Oak Park,12,,-118.759551,34.174226
+2020-04-22,Ventura,111,Oak View,2,,-118.979212,34.173241
+2020-04-22,Ventura,111,Ojai,5,,-119.246813,34.447717
+2020-04-22,Ventura,111,Oxnard,103,,-119.177708,34.196119
+2020-04-22,Ventura,111,Piru,3,,-118.793982,34.415274
+2020-04-22,Ventura,111,Port Hueneme,7,,-119.221251,34.159362
+2020-04-22,Ventura,111,Santa Paula,7,,-119.061497,34.353092
+2020-04-22,Ventura,111,Simi Valley,116,,-118.75041,34.271008
+2020-04-22,Ventura,111,Somis,1,,-118.994592,34.263681
+2020-04-22,Ventura,111,Thousand Oaks,85,,-118.839304,34.172478
+2020-04-22,Ventura,111,Ventura,32,,-119.293754,34.282366
 2020-04-03,Yolo,113,Davis,8,,-121.738056,38.553889
 2020-04-03,Yolo,113,West Sacramento,19,,-121.530278,38.580556
 2020-04-03,Yolo,113,Winters and unincorporated,6,,-121.970833,38.525
@@ -16448,4 +17097,8 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Yolo,113,West Sacramento,46,,-121.530278,38.580556
 2020-04-21,Yolo,113,Winters and unincorporated,10,,-121.970833,38.525
 2020-04-21,Yolo,113,Woodland,74,,-121.773333,38.678611
+2020-04-22,Yolo,113,Davis,16,,-121.738056,38.553889
+2020-04-22,Yolo,113,West Sacramento,46,,-121.530278,38.580556
+2020-04-22,Yolo,113,Winters and unincorporated,11,,-121.970833,38.525
+2020-04-22,Yolo,113,Woodland,78,,-121.773333,38.678611
 ,Yolo,113,Woodland,72,,-121.773333,38.678611

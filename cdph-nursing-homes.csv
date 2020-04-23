@@ -210,7 +210,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-19,MID-TOWN OAKS POST-ACUTE,Sacramento,067,1,,< 11,,skilled nursing
 2020-04-19,SUNRISE ASSISTED LIVING OF FAIR OAKS,Sacramento,067,16,1,,< 11,assisted living
 2020-04-19,SUNRISE ASSISTED LIVING OF SACRAMENTO,Sacramento,067,25,23,,,assisted living
-2020-04-19,​WINDSOR EL CAMINO,Sacramento,067,,1,,,skilled nursing
+2020-04-19,WINDSOR EL CAMINO,Sacramento,067,,1,,< 11,skilled nursing
 2020-04-19,APPLE VALLEY POST ACUTE CENTER,San Bernardino,071,1,,< 11,,skilled nursing
 2020-04-19,ASISTENCIA VILLA REHABILITATION AND CARE CENTER,San Bernardino,071,1,,< 11,,skilled nursing
 2020-04-19,CEDAR MOUNTAIN POST ACUTE,San Bernardino,071,18,62,,,skilled nursing
@@ -238,7 +238,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-19,THE BRADLEY COURT,San Diego,073,1,12,< 11,,skilled nursing
 2020-04-19,THE SPRINGS AT PACIFIC REGENT,San Diego,073,1,1,< 11,< 11,skilled nursing
 2020-04-19,VALLE VISTA CONVALESCENT HOSPITAL,San Diego,073,1,,< 11,,skilled nursing
-2020-04-19,​VILLA RANCHO,San Diego,073,1,1,,,skilled nursing
+2020-04-19,VILLA RANCHO,San Diego,073,1,1,< 11,< 11,skilled nursing
 2020-04-19,CENTRAL GARDENS,San Francisco,075,26,36,,,skilled nursing
 2020-04-19,JEWISH HOME D/P SNF,San Francisco,075,,1,,< 11,skilled nursing
 2020-04-19,KINDRED TRANSITIONAL CARE AND REHABILITATION-TUNNELL CENTER,San Francisco,075,1,,< 11,,skilled nursing
@@ -269,8 +269,8 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-19,APPLE VALLEY POST-ACUTE REHAB,Sonoma,097,1,,< 11,,skilled nursing
 2020-04-19,CASA DE MODESTO,Stanislaus,099,1,,< 11,,skilled nursing
 2020-04-19,ENGLISH OAKS CONVALESCENT & REHABILITATION HOSPITAL,Stanislaus,099,,1,,< 11,skilled nursing
-2020-04-19,​PROVIDENCE LINDSEY GARDENS,Tulare,107,14,1,,,skilled nursing
-2020-04-19,​REDWOOD SPRINGS HEALTHCARE CENTER,Tulare,107,46,91,,,skilled nursing
+2020-04-19,PROVIDENCE LINDSEY GARDENS,Tulare,107,14,1,,< 11,skilled nursing
+2020-04-19,REDWOOD SPRINGS HEALTHCARE CENTER,Tulare,107,46,91,,,skilled nursing
 2020-04-19,CAMARILLO HEALTHCARE CENTER,Ventura,111,,1,,< 11,skilled nursing
 2020-04-19,GLENWOOD CARE CENTER,Ventura,111,,1,,< 11,skilled nursing
 2020-04-19,"RESERVE AT THOUSAND OAKS, THE",Ventura,111,1,1,< 11,< 11,assisted living
