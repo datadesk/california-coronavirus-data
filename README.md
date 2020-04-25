@@ -79,24 +79,35 @@ Some counties, primarily in Southern California, break out the location of cases
 These counties currently provide the data and are being tracked by The Times:
 
 - Alameda
+- Butte
 - Contra Costa
 - El Dorado
 - Fresno
-- Los Angeles
+- Humboldt
+- Imperial
 - Kern
+- Kings
+- Los Angeles
 - Marin
+- Merced
+- Mono
+- Monterey
+- Napa
 - Orange
+- Placer
 - Riverside
 - Sacramento
 - San Bernardino
 - San Diego
 - San Francisco
+- San Joaquin
 - San Luis Obispo
 - Santa Barbara
 - Santa Clara
 - Solano
 - Sonoma
 - Stanislaus
+- Tulare
 - Ventura
 - Yolo
 
@@ -127,50 +138,54 @@ Due to bureaucratic lags, the state's totals for cases and deaths arrive slower 
 
 Some dates are missing because the state did not publish a press release for that day.
 
-| field                         | type    | description                                                                                                                                                                                                  |
-| :---------------------------- | :------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `date`                        | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                                          |
-| `confirmed_cases`             | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                                                                            |
-| `deaths`                      | integer | The cumulative number of deaths at that time.                                                                                                                                                                |
-| `travel`                      | integer | The number of cases acquired while traveling. The state stopped publishing it on March 24.                                                                                                                   |
-| `person_to_person`            | integer | The number of cases acquired from close contacts and family members. The state stopped publishing it on March 24.                                                                                            |
-| `community_spread`            | integer | The number of cases acquired from community spread. The state stopped publishing it on March 29.                                                                                                             |
-| `under_investigation`         | integer | The number of cases acquired from an unknown source. The state stopped publishing it on March 24.                                                                                                            |
-| `other_causes`                | integer | The number of cases acquired from other sources. On March 24 the state began combining this figure with travel, person-to-person and under investigation cases. On March 29 the state stopped publishing it. |
-| `self_monitoring`             | integer | The number of people in a form of isolation monitored by the state. The state stopped publishing it on March 19.                                                                                             |
-| `age_0_to_17`                 | integer | The number of confirmed cases involving a person between 0 and 18 years old.                                                                                                                                 |
-| `age_18_to_49`                | integer | The number of confirmed cases involving a person between 18 and 49 years old.                                                                                                                                |
-| `age_50_to_64`                | integer | The number of confirmed cases involving a person between 50 and 64 years old.                                                                                                                                |
-| `age_65_and_up`               | integer | The number of confirmed cases involving a person 65 of older.                                                                                                                                                |
-| `age_18_to_64`                | integer | The number of confirmed cases involving a person between 18 and 64 years old. The state stopped publishing it on March 23.                                                                                   |
-| `age_unknown`                 | integer | The number of confirmed cases involving a person of unknown age.                                                                                                                                             |
-| `gender_male`                 | integer | The number of confirmed cases involving a male.                                                                                                                                                              |
-| `gender_female`               | integer | The number of confirmed cases involving a female.                                                                                                                                                            |
-| `gender_unknown`              | integer | The number of confirmed cases involving a a person of unknown gender.                                                                                                                                        |
-| `latino_cases`                | integer | The percentage of confirmed cases involving a Latino person.                                                                                                                                                 |
-| `latino_deaths`               | integer | The percentage of deaths involving a Latino person.                                                                                                                                                          |
-| `white_cases`                 | integer | The percentage of confirmed cases involving a white person.                                                                                                                                                  |
-| `white_deaths`                | integer | The percentage of deaths involving a white person.                                                                                                                                                           |
-| `black_cases`                 | integer | The percentage of confirmed cases involving a black person.                                                                                                                                                  |
-| `black_deaths`                | integer | The percentage of deaths involving a black person.                                                                                                                                                           |
-| `asian_cases`                 | integer | The percentage of confirmed cases involving an Asian person.                                                                                                                                                 |
-| `asian_deaths`                | integer | The percentage of deaths involving an Asian person.                                                                                                                                                          |
-| `multiracial_cases`           | integer | The percentage of confirmed cases involving a mulitracial person.                                                                                                                                            |
-| `mulitracial_deaths`          | integer | The percentage of deaths involving a multiracial person.                                                                                                                                                     |
-| `native_cases`                | integer | The percentage of confirmed cases involving a Native American person.                                                                                                                                        |
-| `native_deaths`               | integer | The percentage of deaths involving a Native American person.                                                                                                                                                 |
-| `hawaiian_pacislander_cases`  | integer | The percentage of confirmed cases involving an Hawaiian or Pacific Islander.                                                                                                                                 |
-| `hawaiian_pacislander_deaths` | integer | The percentage of deaths involving a Hawaiian or Pacific Islander.                                                                                                                                           |
-| `other_cases`                 | integer | The percentage of confirmed cases involving a person of another race.                                                                                                                                        |
-| `other_deaths`                | integer | The percentage of deaths involving a person of another race.                                                                                                                                                 |
-| `total_tests`                 | integer | The total number of tests conducted.                                                                                                                                                                         |
-| `received_tests`              | integer | The number of tests results received.                                                                                                                                                                        |
-| `pending_tests`               | integer | The number of tests resuts that are still pending.                                                                                                                                                           |
-| `confirmed_hospitalizations`  | integer | The total number of hospitalizations with a confirmed case of COVID-19.                                                                                                                                      |
-| `confirmed_icu`               | integer | The number of ICU hospitalizations with a confirmed case of COVID-19.                                                                                                                                        |
-| `suspected_hospitalizations`  | integer | The total number of hospitalizations with a suspected case of COVID-19.                                                                                                                                      |
-| `suspected_icu`               | integer | The number of ICU hospitalizations with a suspected case of COVID-19.                                                                                                                                        |
-| `source_url`                  | string  | The URL to the state press release.                                                                                                                                                                          |
+| field                                 | type    | description                                                                                                                                                                                                  |
+| :------------------------------------ | :------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `date`                                | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                                          |
+| `confirmed_cases`                     | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                                                                            |
+| `deaths`                              | integer | The cumulative number of deaths at that time.                                                                                                                                                                |
+| `travel`                              | integer | The number of cases acquired while traveling. The state stopped publishing it on March 24.                                                                                                                   |
+| `person_to_person`                    | integer | The number of cases acquired from close contacts and family members. The state stopped publishing it on March 24.                                                                                            |
+| `community_spread`                    | integer | The number of cases acquired from community spread. The state stopped publishing it on March 29.                                                                                                             |
+| `under_investigation`                 | integer | The number of cases acquired from an unknown source. The state stopped publishing it on March 24.                                                                                                            |
+| `other_causes`                        | integer | The number of cases acquired from other sources. On March 24 the state began combining this figure with travel, person-to-person and under investigation cases. On March 29 the state stopped publishing it. |
+| `self_monitoring`                     | integer | The number of people in a form of isolation monitored by the state. The state stopped publishing it on March 19.                                                                                             |
+| `age_0_to_17`                         | integer | The number of confirmed cases involving a person between 0 and 18 years old.                                                                                                                                 |
+| `age_18_to_49`                        | integer | The number of confirmed cases involving a person between 18 and 49 years old.                                                                                                                                |
+| `age_50_to_64`                        | integer | The number of confirmed cases involving a person between 50 and 64 years old.                                                                                                                                |
+| `age_65_and_up`                       | integer | The number of confirmed cases involving a person 65 of older.                                                                                                                                                |
+| `age_18_to_64`                        | integer | The number of confirmed cases involving a person between 18 and 64 years old. The state stopped publishing it on March 23.                                                                                   |
+| `age_unknown`                         | integer | The number of confirmed cases involving a person of unknown age.                                                                                                                                             |
+| `gender_male`                         | integer | The number of confirmed cases involving a male.                                                                                                                                                              |
+| `gender_female`                       | integer | The number of confirmed cases involving a female.                                                                                                                                                            |
+| `gender_unknown`                      | integer | The number of confirmed cases involving a a person of unknown gender.                                                                                                                                        |
+| `latino_cases_percent`                | float   | The percentage of confirmed cases involving a Latino person.                                                                                                                                                 |
+| `latino_deaths_percent`               | float   | The percentage of deaths involving a Latino person.                                                                                                                                                          |
+| `white_cases_percent`                 | float   | The percentage of confirmed cases involving a white person.                                                                                                                                                  |
+| `white_deaths_percent`                | float   | The percentage of deaths involving a white person.                                                                                                                                                           |
+| `black_cases_percent`                 | float   | The percentage of confirmed cases involving a black person.                                                                                                                                                  |
+| `black_deaths_percent`                | float   | The percentage of deaths involving a black person.                                                                                                                                                           |
+| `asian_cases_percent`                 | float   | The percentage of confirmed cases involving an Asian person.                                                                                                                                                 |
+| `asian_deaths_percent`                | float   | The percentage of deaths involving an Asian person.                                                                                                                                                          |
+| `multiracial_cases_percent`           | float   | The percentage of confirmed cases involving a mulitracial person.                                                                                                                                            |
+| `mulitracial_deaths_percent`          | float   | The percentage of deaths involving a multiracial person.                                                                                                                                                     |
+| `native_cases_percent`                | float   | The percentage of confirmed cases involving a Native American person.                                                                                                                                        |
+| `native_deaths_percent`               | float   | The percentage of deaths involving a Native American person.                                                                                                                                                 |
+| `hawaiian_pacislander_cases_percent`  | float   | The percentage of confirmed cases involving an Hawaiian or Pacific Islander.                                                                                                                                 |
+| `hawaiian_pacislander_deaths_percent` | float   | The percentage of deaths involving a Hawaiian or Pacific Islander.                                                                                                                                           |
+| `other_cases_percent`                 | float   | The percentage of confirmed cases involving a person of another race.                                                                                                                                        |
+| `other_deaths_percent`                | float   | The percentage of deaths involving a person of another race.                                                                                                                                                 |
+| `unknown_race_cases`                  | integer | The total number of cases involving a person of unknown race.                                                                                                                                                |
+| `unknown_race_deaths`                 | integer | The total number of deaths involving a person of unknown race.                                                                                                                                               |
+| `total_tests`                         | integer | The total number of tests conducted.                                                                                                                                                                         |
+| `received_tests`                      | integer | The number of tests results received.                                                                                                                                                                        |
+| `pending_tests`                       | integer | The number of tests resuts that are still pending.                                                                                                                                                           |
+| `confirmed_hospitalizations`          | integer | The total number of hospitalizations with a confirmed case of COVID-19.                                                                                                                                      |
+| `confirmed_icu`                       | integer | The number of ICU hospitalizations with a confirmed case of COVID-19.                                                                                                                                        |
+| `suspected_hospitalizations`          | integer | The total number of hospitalizations with a suspected case of COVID-19.                                                                                                                                      |
+| `suspected_icu`                       | integer | The number of ICU hospitalizations with a suspected case of COVID-19.                                                                                                                                        |
+| `healthcare_worker_infections`        | integer | The total number of healthcare workers who have tested positive for COVID-19.                                                                                                                                |
+| `healthcare_worker_deaths`            | integer | The total number of healthcare workers who have died from COVID-19.                                                                                                                                          |
+| `source_url`                          | string  | The URL to the state press release.                                                                                                                                                                          |
 
 ### [cdph-nursing-homes.csv](./cdph-nursing-homes.csv)
 
@@ -188,6 +203,7 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | `patients`      | integer | The cumulative number of confirmed coronavirus case amoung staff at that time.                                                                                                       |
 | `staff_note`    | string  | In cases where the `staff` are obscured, this explains the range of possible values.                                                                                                 |
 | `patients_note` | string  | In cases where the `patients` are obscured, this explains the range of possible values.                                                                                              |
+| `type`          | string  | What type of nursing home is being reported, either `assisted living` or `skilled nursing`.                                                                                          |
 
 ## Getting started
 
