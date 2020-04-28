@@ -7,7 +7,12 @@ verify_ssl = true
 jupyterlab = "*"
 pandas = "*"
 altair = "*"
-latimes-altair = "*"
+altair-latimes = "*"
+nbclient = "*"
+click = "*"
 
 [requires]
 python_version = "3.6"
+
+[pipenv]
+allow_prereleases = true
