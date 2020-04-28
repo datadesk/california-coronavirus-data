@@ -72,6 +72,15 @@ It comes with all of the same caveats as its source. It is included here as a co
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                         |
 | `new_deaths`          | integer | The net change in deaths over the previous `date`.                                                  |
 
+### [latimes-agency-websites.csv](./latimes-agency-websites.csv)
+
+The 61 local-health agency websites that the Los Angeles Times consults to conduct its survey.
+
+| field    | type   | description                                                 |
+| -------- | ------ | ----------------------------------------------------------- |
+| `agency` | string | The name of the county or city public health agency.        |
+| `url`    | string | The location of the agency's website on the World Wide Web. |
+
 ### [latimes-place-totals.csv](./latimes-place-totals.csv)
 
 Some counties, primarily in Southern California, break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
