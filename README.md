@@ -205,7 +205,7 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | `patients_note` | string  | In cases where the `patients` are obscured, this explains the range of possible values.                                                                                              |
 | `type`          | string  | What type of nursing home is being reported, either `assisted living` or `skilled nursing`.                                                                                          |
 
-### [cdph-hospital-patients.csv](./cdph-hospital-patients.csv)
+### [cdph-hospital-patient-county-totals.csv](./cdph-hospital-patient-county-totals.csv)
 
 California's Department of Public Health is releasing [county-level hospitalization totals](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics).
 
