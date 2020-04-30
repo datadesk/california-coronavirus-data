@@ -89,6 +89,8 @@ Some counties, primarily in Southern California, break out the location of cases
 These counties currently provide the data and are being tracked by The Times:
 
 - Alameda
+- Amandor
+- Calaveras
 - Butte
 - Contra Costa
 - El Dorado
@@ -99,12 +101,15 @@ These counties currently provide the data and are being tracked by The Times:
 - Kings
 - Los Angeles
 - Marin
+- Mendocino
 - Merced
 - Mono
 - Monterey
 - Napa
+- Nevada
 - Orange
 - Placer
+- Plumas
 - Riverside
 - Sacramento
 - San Bernardino
@@ -114,6 +119,7 @@ These counties currently provide the data and are being tracked by The Times:
 - San Luis Obispo
 - Santa Barbara
 - Santa Clara
+- Santa Cruz
 - Solano
 - Sonoma
 - Stanislaus
