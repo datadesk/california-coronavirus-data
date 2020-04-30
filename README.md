@@ -86,48 +86,9 @@ The 61 local-health agency websites that the Los Angeles Times consults to condu
 
 Some counties, primarily in Southern California, break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
 
-These counties currently provide the data and are being tracked by The Times:
+The following counties currently do not report cases by locality: Alpine, Colusa, Del Norte, Glenn, Inyo, Lake, Lassen, Madera, Mariposa, Modoc, San Benito, San Mateo, Shasta, Sierra, Siskiyou, Sutter, Tehama, Trinity, Tuolumne and Yuba
 
-- Alameda
-- Amandor
-- Calaveras
-- Butte
-- Contra Costa
-- El Dorado
-- Fresno
-- Humboldt
-- Imperial
-- Kern
-- Kings
-- Los Angeles
-- Marin
-- Mendocino
-- Merced
-- Mono
-- Monterey
-- Napa
-- Nevada
-- Orange
-- Placer
-- Plumas
-- Riverside
-- Sacramento
-- San Bernardino
-- San Diego
-- San Francisco
-- San Joaquin
-- San Luis Obispo
-- Santa Barbara
-- Santa Clara
-- Santa Cruz
-- Solano
-- Sonoma
-- Stanislaus
-- Tulare
-- Ventura
-- Yolo
-
-The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations in other counties are manually geocoded by The Times. San Francisco provides data at the ZIP Code level.
+Some counties provide data by region. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations in other counties are manually geocoded by The Times. San Francisco and Imperial counties provide data at the ZIP Code level.
 
 Be aware that some counties have shifted the place names used over time.
 
