@@ -27,6 +27,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Alameda,001,84,43,42,5
 2020-04-27,Alameda,001,81,47,39,8
 2020-04-28,Alameda,001,76,64,37,13
+2020-04-29,Alameda,001,76,63,33,13
 2020-04-01,Alpine,003,,,,
 2020-04-02,Alpine,003,,,,
 2020-04-03,Alpine,003,,,,
@@ -55,6 +56,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Alpine,003,0,0,0,0
 2020-04-27,Alpine,003,0,0,0,0
 2020-04-28,Alpine,003,0,0,0,0
+2020-04-29,Alpine,003,0,0,0,0
 2020-04-01,Amador,005,0,3,0,0
 2020-04-02,Amador,005,0,3,0,0
 2020-04-03,Amador,005,0,0,0,0
@@ -83,6 +85,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Amador,005,0,0,0,0
 2020-04-27,Amador,005,0,0,0,0
 2020-04-28,Amador,005,0,0,0,0
+2020-04-29,Amador,005,0,0,0,0
 2020-04-01,Butte,007,5,33,2,4
 2020-04-02,Butte,007,4,26,2,2
 2020-04-03,Butte,007,3,19,2,6
@@ -111,6 +114,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Butte,007,0,0,0,0
 2020-04-27,Butte,007,0,0,0,0
 2020-04-28,Butte,007,0,1,0,0
+2020-04-29,Butte,007,0,2,0,1
 2020-04-01,Calaveras,009,0,1,0,0
 2020-04-02,Calaveras,009,0,1,0,0
 2020-04-03,Calaveras,009,0,1,0,0
@@ -139,6 +143,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Calaveras,009,0,0,0,0
 2020-04-27,Calaveras,009,0,1,0,0
 2020-04-28,Calaveras,009,0,1,0,0
+2020-04-29,Calaveras,009,0,0,0,0
 2020-04-01,Colusa,011,0,1,0,1
 2020-04-02,Colusa,011,0,1,0,1
 2020-04-03,Colusa,011,1,0,1,0
@@ -167,6 +172,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Colusa,011,1,1,1,1
 2020-04-27,Colusa,011,1,1,1,1
 2020-04-28,Colusa,011,1,0,1,0
+2020-04-29,Colusa,011,1,0,1,0
 2020-04-01,Contra Costa,013,31,42,12,12
 2020-04-02,Contra Costa,013,32,38,13,10
 2020-04-03,Contra Costa,013,31,39,15,10
@@ -195,6 +201,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Contra Costa,013,27,42,9,9
 2020-04-27,Contra Costa,013,24,44,10,11
 2020-04-28,Contra Costa,013,27,43,11,12
+2020-04-29,Contra Costa,013,24,50,9,14
 2020-04-01,Del Norte,015,0,5,0,0
 2020-04-02,Del Norte,015,0,3,0,0
 2020-04-03,Del Norte,015,0,2,0,0
@@ -223,6 +230,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Del Norte,015,0,2,0,1
 2020-04-27,Del Norte,015,0,5,0,2
 2020-04-28,Del Norte,015,0,5,0,1
+2020-04-29,Del Norte,015,0,3,0,1
 2020-04-01,El Dorado,017,14,8,1,3
 2020-04-02,El Dorado,017,15,12,0,6
 2020-04-03,El Dorado,017,15,9,0,4
@@ -251,6 +259,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,El Dorado,017,1,8,0,3
 2020-04-27,El Dorado,017,1,7,0,2
 2020-04-28,El Dorado,017,1,7,0,2
+2020-04-29,El Dorado,017,0,4,0,2
 2020-04-01,Fresno,019,19,101,5,13
 2020-04-02,Fresno,019,17,74,6,13
 2020-04-03,Fresno,019,15,81,7,16
@@ -279,6 +288,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Fresno,019,37,44,18,9
 2020-04-27,Fresno,019,39,52,17,3
 2020-04-28,Fresno,019,39,44,14,7
+2020-04-29,Fresno,019,38,48,16,8
 2020-04-01,Glenn,021,,,,
 2020-04-02,Glenn,021,0,0,0,0
 2020-04-03,Glenn,021,0,0,0,0
@@ -307,6 +317,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Glenn,021,0,0,0,0
 2020-04-27,Glenn,021,0,0,0,0
 2020-04-28,Glenn,021,0,0,0,0
+2020-04-29,Glenn,021,0,0,0,0
 2020-04-01,Humboldt,023,1,9,0,3
 2020-04-02,Humboldt,023,1,8,0,2
 2020-04-03,Humboldt,023,1,7,0,0
@@ -335,6 +346,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Humboldt,023,0,0,0,0
 2020-04-27,Humboldt,023,0,3,0,0
 2020-04-28,Humboldt,023,0,6,0,1
+2020-04-29,Humboldt,023,1,5,0,3
 2020-04-01,Imperial,025,4,15,3,4
 2020-04-02,Imperial,025,4,16,3,5
 2020-04-03,Imperial,025,9,7,7,0
@@ -363,6 +375,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Imperial,025,26,12,8,2
 2020-04-27,Imperial,025,27,7,11,1
 2020-04-28,Imperial,025,29,4,12,1
+2020-04-29,Imperial,025,29,5,13,0
 2020-04-01,Inyo,027,7,89,0,0
 2020-04-02,Inyo,027,8,102,0,1
 2020-04-03,Inyo,027,8,102,1,2
@@ -391,6 +404,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Inyo,027,0,0,0,0
 2020-04-27,Inyo,027,0,0,0,0
 2020-04-28,Inyo,027,0,0,0,0
+2020-04-29,Inyo,027,0,0,0,0
 2020-04-01,Kern,029,15,45,7,9
 2020-04-02,Kern,029,27,77,12,23
 2020-04-03,Kern,029,35,73,12,16
@@ -419,6 +433,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Kern,029,29,15,23,0
 2020-04-27,Kern,029,31,19,23,2
 2020-04-28,Kern,029,32,13,22,3
+2020-04-29,Kern,029,36,13,23,3
 2020-04-01,Kings,031,2,6,1,2
 2020-04-02,Kings,031,2,6,1,1
 2020-04-03,Kings,031,0,3,1,0
@@ -447,6 +462,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Kings,031,9,0,2,0
 2020-04-27,Kings,031,9,2,2,0
 2020-04-28,Kings,031,9,2,2,0
+2020-04-29,Kings,031,9,2,2,0
 2020-04-01,Lake,033,0,2,0,0
 2020-04-02,Lake,033,0,1,0,0
 2020-04-03,Lake,033,0,2,0,1
@@ -475,6 +491,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Lake,033,0,1,0,0
 2020-04-27,Lake,033,0,1,0,1
 2020-04-28,Lake,033,0,2,0,1
+2020-04-29,Lake,033,0,2,0,1
 2020-04-01,Lassen,035,0,7,0,0
 2020-04-02,Lassen,035,0,7,0,0
 2020-04-03,Lassen,035,0,3,0,0
@@ -503,6 +520,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Lassen,035,0,0,0,0
 2020-04-27,Lassen,035,0,0,0,0
 2020-04-28,Lassen,035,0,0,0,0
+2020-04-29,Lassen,035,0,0,0,0
 2020-04-01,Los Angeles,037,739,1332,335,220
 2020-04-02,Los Angeles,037,818,1270,346,193
 2020-04-03,Los Angeles,037,962,1239,422,209
@@ -531,6 +549,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Los Angeles,037,1887,575,588,122
 2020-04-27,Los Angeles,037,1940,609,592,117
 2020-04-28,Los Angeles,037,1962,581,597,130
+2020-04-29,Los Angeles,037,1959,591,602,97
 2020-04-01,Madera,039,1,3,1,0
 2020-04-02,Madera,039,1,7,1,3
 2020-04-03,Madera,039,0,5,0,1
@@ -559,6 +578,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Madera,039,0,1,0,0
 2020-04-27,Madera,039,0,0,0,0
 2020-04-28,Madera,039,0,1,0,0
+2020-04-29,Madera,039,0,1,0,0
 2020-04-01,Marin,041,9,19,4,2
 2020-04-02,Marin,041,7,16,3,1
 2020-04-03,Marin,041,6,16,3,5
@@ -587,6 +607,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Marin,041,3,7,2,3
 2020-04-27,Marin,041,2,6,1,0
 2020-04-28,Marin,041,1,7,1,1
+2020-04-29,Marin,041,0,6,0,1
 2020-04-01,Mariposa,043,0,0,0,0
 2020-04-02,Mariposa,043,0,1,0,0
 2020-04-03,Mariposa,043,0,2,0,0
@@ -615,6 +636,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Mariposa,043,0,0,0,0
 2020-04-27,Mariposa,043,0,1,0,0
 2020-04-28,Mariposa,043,0,1,0,0
+2020-04-29,Mariposa,043,0,1,0,0
 2020-04-01,Mendocino,045,0,2,0,0
 2020-04-02,Mendocino,045,0,1,0,0
 2020-04-03,Mendocino,045,0,5,0,1
@@ -643,6 +665,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Mendocino,045,0,0,0,0
 2020-04-27,Mendocino,045,0,1,0,1
 2020-04-28,Mendocino,045,0,0,0,0
+2020-04-29,Mendocino,045,0,0,0,0
 2020-04-01,Merced,047,3,15,0,3
 2020-04-02,Merced,047,4,5,0,1
 2020-04-03,Merced,047,4,5,1,1
@@ -671,6 +694,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Merced,047,0,4,0,2
 2020-04-27,Merced,047,1,3,0,0
 2020-04-28,Merced,047,2,6,1,1
+2020-04-29,Merced,047,2,7,1,1
 2020-04-01,Modoc,049,0,1,0,0
 2020-04-03,Modoc,049,0,0,0,0
 2020-04-04,Modoc,049,0,0,0,0
@@ -698,6 +722,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Modoc,049,0,0,0,0
 2020-04-27,Modoc,049,0,0,0,0
 2020-04-28,Modoc,049,0,1,0,0
+2020-04-29,Modoc,049,0,0,0,0
 2020-04-01,Mono,051,0,0,0,0
 2020-04-02,Mono,051,18,2,0,0
 2020-04-03,Mono,051,18,2,0,0
@@ -726,6 +751,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Mono,051,0,0,0,0
 2020-04-27,Mono,051,0,0,0,0
 2020-04-28,Mono,051,0,0,0,0
+2020-04-29,Mono,051,0,0,0,0
 2020-04-01,Monterey,053,13,16,4,4
 2020-04-02,Monterey,053,14,14,4,2
 2020-04-03,Monterey,053,16,18,3,1
@@ -754,6 +780,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Monterey,053,5,5,3,2
 2020-04-27,Monterey,053,4,2,2,1
 2020-04-28,Monterey,053,2,7,2,2
+2020-04-29,Monterey,053,4,3,3,0
 2020-04-01,Napa,055,2,2,0,1
 2020-04-02,Napa,055,1,4,1,1
 2020-04-03,Napa,055,1,9,0,1
@@ -782,6 +809,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Napa,055,1,0,1,0
 2020-04-27,Napa,055,1,0,1,0
 2020-04-28,Napa,055,1,0,0,0
+2020-04-29,Napa,055,1,0,0,0
 2020-04-01,Nevada,057,36,54,0,4
 2020-04-02,Nevada,057,38,58,2,1
 2020-04-03,Nevada,057,2,4,2,1
@@ -810,6 +838,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Nevada,057,1,2,0,2
 2020-04-27,Nevada,057,1,1,0,1
 2020-04-28,Nevada,057,1,2,1,1
+2020-04-29,Nevada,057,1,2,1,1
 2020-04-01,Orange,059,117,221,50,48
 2020-04-02,Orange,059,129,225,67,47
 2020-04-03,Orange,059,131,182,66,36
@@ -838,6 +867,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Orange,059,180,109,73,23
 2020-04-27,Orange,059,189,113,76,23
 2020-04-28,Orange,059,203,84,75,25
+2020-04-29,Orange,059,211,91,76,16
 2020-04-01,Placer,061,25,28,6,2
 2020-04-02,Placer,061,32,15,9,0
 2020-04-03,Placer,061,21,23,10,1
@@ -866,6 +896,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Placer,061,4,21,1,5
 2020-04-27,Placer,061,5,17,1,3
 2020-04-28,Placer,061,5,21,1,2
+2020-04-29,Placer,061,5,28,1,3
 2020-04-01,Plumas,063,0,0,0,0
 2020-04-02,Plumas,063,0,0,0,0
 2020-04-03,Plumas,063,0,0,0,0
@@ -894,6 +925,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Plumas,063,0,0,0,0
 2020-04-27,Plumas,063,0,0,0,0
 2020-04-28,Plumas,063,0,0,0,0
+2020-04-29,Plumas,063,0,0,0,0
 2020-04-01,Riverside,065,85,182,29,47
 2020-04-02,Riverside,065,136,181,45,49
 2020-04-03,Riverside,065,105,182,44,59
@@ -922,6 +954,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Riverside,065,215,152,75,35
 2020-04-27,Riverside,065,220,118,73,25
 2020-04-28,Riverside,065,215,112,78,20
+2020-04-29,Riverside,065,212,124,78,32
 2020-04-01,Sacramento,067,53,138,20,33
 2020-04-02,Sacramento,067,71,92,24,19
 2020-04-03,Sacramento,067,77,76,28,17
@@ -950,6 +983,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Sacramento,067,48,40,16,6
 2020-04-27,Sacramento,067,46,42,16,13
 2020-04-28,Sacramento,067,43,33,16,9
+2020-04-29,Sacramento,067,42,36,17,5
 2020-04-01,San Benito,069,2,0,2,0
 2020-04-02,San Benito,069,2,0,2,0
 2020-04-03,San Benito,069,2,0,2,0
@@ -978,6 +1012,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,San Benito,069,0,0,0,0
 2020-04-27,San Benito,069,0,0,0,0
 2020-04-28,San Benito,069,0,0,0,0
+2020-04-29,San Benito,069,0,0,0,0
 2020-04-01,San Bernardino,071,95,196,39,52
 2020-04-02,San Bernardino,071,126,185,50,45
 2020-04-03,San Bernardino,071,118,204,44,53
@@ -1006,6 +1041,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,San Bernardino,071,146,83,50,20
 2020-04-27,San Bernardino,071,154,83,49,18
 2020-04-28,San Bernardino,071,156,123,51,31
+2020-04-29,San Bernardino,071,156,124,56,23
 2020-04-01,San Diego,073,168,340,71,32
 2020-04-02,San Diego,073,144,343,69,35
 2020-04-03,San Diego,073,171,308,84,28
@@ -1034,6 +1070,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,San Diego,073,273,90,114,21
 2020-04-27,San Diego,073,277,59,115,15
 2020-04-28,San Diego,073,276,105,112,18
+2020-04-29,San Diego,073,282,73,119,17
 2020-04-01,San Francisco,075,67,66,30,8
 2020-04-02,San Francisco,075,75,60,32,11
 2020-04-03,San Francisco,075,80,71,39,8
@@ -1062,6 +1099,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,San Francisco,075,79,21,31,3
 2020-04-27,San Francisco,075,82,19,29,3
 2020-04-28,San Francisco,075,81,23,27,9
+2020-04-29,San Francisco,075,80,24,26,6
 2020-04-01,San Joaquin,077,25,35,16,11
 2020-04-02,San Joaquin,077,42,42,20,7
 2020-04-03,San Joaquin,077,41,38,18,8
@@ -1090,6 +1128,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,San Joaquin,077,24,19,9,4
 2020-04-27,San Joaquin,077,24,23,10,6
 2020-04-28,San Joaquin,077,24,16,10,6
+2020-04-29,San Joaquin,077,21,20,9,7
 2020-04-01,San Luis Obispo,079,8,10,5,6
 2020-04-02,San Luis Obispo,079,5,5,4,4
 2020-04-03,San Luis Obispo,079,4,5,3,2
@@ -1118,6 +1157,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,San Luis Obispo,079,1,3,1,2
 2020-04-27,San Luis Obispo,079,3,6,2,2
 2020-04-28,San Luis Obispo,079,3,3,3,1
+2020-04-29,San Luis Obispo,079,3,2,3,0
 2020-04-01,San Mateo,081,57,35,19,9
 2020-04-02,San Mateo,081,62,40,26,4
 2020-04-03,San Mateo,081,65,39,26,4
@@ -1146,6 +1186,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,San Mateo,081,53,10,18,2
 2020-04-27,San Mateo,081,52,28,16,4
 2020-04-28,San Mateo,081,50,13,17,0
+2020-04-29,San Mateo,081,51,19,16,1
 2020-04-01,Santa Barbara,083,23,23,15,6
 2020-04-02,Santa Barbara,083,26,44,18,10
 2020-04-03,Santa Barbara,083,27,29,18,4
@@ -1174,6 +1215,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Santa Barbara,083,24,13,12,4
 2020-04-27,Santa Barbara,083,26,13,12,3
 2020-04-28,Santa Barbara,083,27,16,12,4
+2020-04-29,Santa Barbara,083,28,14,12,2
 2020-04-01,Santa Clara,085,160,85,77,15
 2020-04-02,Santa Clara,085,163,101,69,19
 2020-04-03,Santa Clara,085,164,83,71,17
@@ -1202,6 +1244,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Santa Clara,085,118,64,60,17
 2020-04-27,Santa Clara,085,115,49,56,10
 2020-04-28,Santa Clara,085,116,34,51,5
+2020-04-29,Santa Clara,085,110,34,46,2
 2020-04-01,Santa Cruz,087,2,12,2,2
 2020-04-02,Santa Cruz,087,4,4,3,0
 2020-04-03,Santa Cruz,087,4,8,3,0
@@ -1230,6 +1273,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Santa Cruz,087,4,1,2,0
 2020-04-27,Santa Cruz,087,2,1,1,0
 2020-04-28,Santa Cruz,087,2,0,1,0
+2020-04-29,Santa Cruz,087,2,0,1,0
 2020-04-01,Shasta,089,1,4,0,1
 2020-04-02,Shasta,089,2,4,1,0
 2020-04-03,Shasta,089,2,9,1,3
@@ -1258,6 +1302,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Shasta,089,1,0,1,0
 2020-04-27,Shasta,089,1,1,1,0
 2020-04-28,Shasta,089,2,1,2,0
+2020-04-29,Shasta,089,2,0,2,0
 2020-04-01,Sierra,091,,,,
 2020-04-02,Sierra,091,,,,
 2020-04-03,Sierra,091,,,,
@@ -1286,6 +1331,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Sierra,091,0,0,0,0
 2020-04-27,Sierra,091,0,0,0,0
 2020-04-28,Sierra,091,0,0,0,0
+2020-04-29,Sierra,091,0,0,0,0
 2020-04-01,Siskiyou,093,0,5,0,2
 2020-04-02,Siskiyou,093,0,3,0,2
 2020-04-03,Siskiyou,093,0,3,0,1
@@ -1314,6 +1360,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Siskiyou,093,0,0,0,0
 2020-04-27,Siskiyou,093,0,1,0,1
 2020-04-28,Siskiyou,093,0,2,0,1
+2020-04-29,Siskiyou,093,0,3,0,1
 2020-04-01,Solano,095,14,18,5,2
 2020-04-02,Solano,095,15,8,7,1
 2020-04-03,Solano,095,16,21,7,5
@@ -1342,6 +1389,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Solano,095,8,14,3,1
 2020-04-27,Solano,095,8,16,4,3
 2020-04-28,Solano,095,12,16,5,0
+2020-04-29,Solano,095,10,18,5,5
 2020-04-01,Sonoma,097,5,18,1,2
 2020-04-02,Sonoma,097,8,18,1,0
 2020-04-03,Sonoma,097,6,24,2,3
@@ -1370,6 +1418,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Sonoma,097,1,9,0,1
 2020-04-27,Sonoma,097,2,11,0,2
 2020-04-28,Sonoma,097,3,11,0,4
+2020-04-29,Sonoma,097,5,14,2,2
 2020-04-01,Stanislaus,099,25,39,10,6
 2020-04-02,Stanislaus,099,30,43,11,7
 2020-04-03,Stanislaus,099,28,45,12,8
@@ -1398,6 +1447,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Stanislaus,099,28,19,7,4
 2020-04-27,Stanislaus,099,30,36,8,8
 2020-04-28,Stanislaus,099,31,30,7,2
+2020-04-29,Stanislaus,099,35,26,4,5
 2020-04-01,Sutter,101,0,0,0,0
 2020-04-02,Sutter,101,0,0,,
 2020-04-03,Sutter,101,0,0,,
@@ -1426,6 +1476,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Sutter,101,0,0,0,0
 2020-04-27,Sutter,101,0,0,0,0
 2020-04-28,Sutter,101,0,0,0,0
+2020-04-29,Sutter,101,0,0,0,0
 2020-04-01,Tehama,103,0,1,0,1
 2020-04-02,Tehama,103,0,1,0,1
 2020-04-03,Tehama,103,0,0,0,0
@@ -1454,6 +1505,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Tehama,103,0,0,0,0
 2020-04-27,Tehama,103,0,0,0,0
 2020-04-28,Tehama,103,0,0,0,0
+2020-04-29,Tehama,103,0,0,0,0
 2020-04-01,Trinity,105,0,0,0,0
 2020-04-02,Trinity,105,0,0,0,0
 2020-04-03,Trinity,105,0,0,0,0
@@ -1482,6 +1534,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Trinity,105,0,0,0,0
 2020-04-27,Trinity,105,0,0,0,0
 2020-04-28,Trinity,105,0,0,0,0
+2020-04-29,Trinity,105,0,0,0,0
 2020-04-01,Tulare,107,4,12,3,4
 2020-04-02,Tulare,107,4,26,4,5
 2020-04-03,Tulare,107,6,15,5,2
@@ -1510,6 +1563,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Tulare,107,26,0,8,0
 2020-04-27,Tulare,107,29,0,7,0
 2020-04-28,Tulare,107,32,2,6,0
+2020-04-29,Tulare,107,30,0,5,0
 2020-04-01,Tuolumne,109,0,0,0,0
 2020-04-02,Tuolumne,109,0,0,0,0
 2020-04-03,Tuolumne,109,0,0,0,0
@@ -1538,6 +1592,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Tuolumne,109,0,0,0,0
 2020-04-27,Tuolumne,109,0,1,0,1
 2020-04-28,Tuolumne,109,0,0,0,0
+2020-04-29,Tuolumne,109,0,0,0,0
 2020-04-01,Unassigned,,,,,
 2020-04-02,Unassigned,,,,,
 2020-04-03,Unassigned,,,,,
@@ -1566,6 +1621,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Unassigned,,0,0,0,0
 2020-04-27,Unassigned,,0,0,0,0
 2020-04-28,Unassigned,,0,0,0,0
+2020-04-29,Unassigned,,0,0,0,0
 2020-04-01,Ventura,111,22,96,5,23
 2020-04-02,Ventura,111,27,111,7,24
 2020-04-03,Ventura,111,22,116,6,28
@@ -1594,6 +1650,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Ventura,111,27,73,6,3
 2020-04-27,Ventura,111,28,75,6,10
 2020-04-28,Ventura,111,31,71,11,11
+2020-04-29,Ventura,111,31,26,10,7
 2020-04-01,Yolo,113,3,3,1,1
 2020-04-02,Yolo,113,3,2,2,3
 2020-04-03,Yolo,113,2,7,3,6
@@ -1622,6 +1679,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Yolo,113,1,1,1,1
 2020-04-27,Yolo,113,0,1,0,0
 2020-04-28,Yolo,113,0,0,0,1
+2020-04-29,Yolo,113,0,0,0,1
 2020-04-01,Yuba,115,2,24,2,4
 2020-04-02,Yuba,115,2,25,2,6
 2020-04-03,Yuba,115,2,12,2,2
@@ -1650,3 +1708,4 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2020-04-26,Yuba,115,0,2,0,1
 2020-04-27,Yuba,115,0,3,0,3
 2020-04-28,Yuba,115,0,2,0,1
+2020-04-29,Yuba,115,0,0,0,0
