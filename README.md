@@ -196,6 +196,29 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
 
+### [latimes-beach-closures-county-list.csv](./latimes-beach-closures-county-list.csv)
+
+The county-level restrictions on beach access, compiled by the Los Angeles Times based on data release by the California Coastal Commission.
+
+| field         | type   | description                                                                                                                                                                            |
+| ------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `county`      | string | The name of the county where the agency is based.                                                                                                                                      |
+| `fips`        | string | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources. |
+| `status`      | string | A Times classification of the current level of restriction in this county                                                                                                              |
+| `restriction` | string | A description of the current level of restriction in this county                                                                                                                       |
+
+### [latimes-beach-closures-area-list.csv](./latimes-beach-closures-area-list.csv)
+
+The subcounty-level restrictions on beach access, compiled by the Los Angeles Times based on data release by the California Coastal Commission.
+
+| field         | type    | description                                                                                                                                                                            |
+| ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `county`      | string  | The name of the county where the agency is based.                                                                                                                                      |
+| `fips`        | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources. |
+| `area`        | string  | The name of the sub-county area being tracked.                                                                                                                                         |
+| `state_park`  | boolean | An indicator if this area is a state park.                                                                                                                                             |
+| `restriction` | string  | A description of the current level of restriction in this area.                                                                                                                        |
+
 ## Getting started
 
 The data published here can be easily imported to any data analysis tool, ranging from a simple spreadsheet to a more sophisticated analysis framework. This repository has be pre-configured to work with the [Python](https://www.python.org/) computer-programming language and a [Jupyter](https://jupyter.org/) computational notebook. You can install and run the code locally on your computer, or on the web with [Binder](https://mybinder.org/).
