@@ -198,7 +198,7 @@ California's Department of Public Health is releasing [county-level hospitalizat
 
 ### [latimes-beach-closures-county-list.csv](./latimes-beach-closures-county-list.csv)
 
-The county-level restrictions on beach access, compiled by the Los Angeles Times based on data release by the California Coastal Commission.
+The county-level restrictions on beach access, compiled by the Los Angeles Times based on data released by the California Coastal Commission.
 
 | field         | type   | description                                                                                                                                                                            |
 | ------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -209,7 +209,7 @@ The county-level restrictions on beach access, compiled by the Los Angeles Times
 
 ### [latimes-beach-closures-area-list.csv](./latimes-beach-closures-area-list.csv)
 
-The subcounty-level restrictions on beach access, compiled by the Los Angeles Times based on data release by the California Coastal Commission.
+The subcounty-level restrictions on beach access, compiled by the Los Angeles Times based on data released by the California Coastal Commission.
 
 | field         | type    | description                                                                                                                                                                            |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
