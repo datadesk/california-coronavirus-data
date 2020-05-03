@@ -198,7 +198,7 @@ California's Department of Public Health is releasing [county-level hospitalizat
 
 ### [latimes-project-roomkey.csv](./latimes-project-roomkey.csv)
 
-Los Angeles County officials have launched an unprecedented effort to shield 15,000 homeless people from the coronavirus by moving them into hotel rooms. The Times is tracking the latest data.
+Los Angeles County officials have launched an unprecedented effort to shield 15,000 homeless people from the coronavirus by moving them into hotel rooms. The Times is tracking the latest data from the Los Angeles County Emergency Operations Center and the Los Angeles County Department of Public Health.
 
 | field                      | type    | description                                                                                             |
 | -------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
