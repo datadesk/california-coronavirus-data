@@ -196,7 +196,7 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
 
-### [latimes-project-roomkey.csv](./latimes-project-roomkey.csv)
+### [latimes-project-roomkey-totals.csv](./latimes-project-roomkey-totals.csv)
 
 Los Angeles County officials have launched an unprecedented effort to shield 15,000 homeless people from the coronavirus by moving them into hotel rooms. The Times is tracking the latest data from the Los Angeles County Emergency Operations Center and the Los Angeles County Department of Public Health.
 
