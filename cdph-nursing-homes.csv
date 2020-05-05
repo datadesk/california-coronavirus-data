@@ -644,6 +644,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Chateau III,Contra Costa,013,27,39,,,assisted living
 2020-04-30,Chateau III,Contra Costa,013,28,39,,,assisted living
 2020-05-01,Chateau III,Contra Costa,013,28,39,,,assisted living
+2020-05-02,Chateau III,Contra Costa,013,28,39,,,assisted living
 2020-04-24,DANVILLE POST-ACUTE REHAB,Contra Costa,013,0,0,,,skilled nursing
 2020-04-25,DANVILLE POST-ACUTE REHAB,Contra Costa,013,0,0,,,skilled nursing
 2020-04-28,DANVILLE POST-ACUTE REHAB,Contra Costa,013,0,0,,,skilled nursing
@@ -1535,7 +1536,9 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Ararat Home of Los Angeles,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Ararat Home of Los Angeles,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Ararat Home of Los Angeles,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Ararat Home of Los Angeles,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Avantgarde Senior Living of Tarzana,Los Angeles,037,13,1,,10 or fewer,assisted living
+2020-05-02,Avantgarde Senior Living of Tarzana,Los Angeles,037,15,1,,10 or fewer,assisted living
 2020-04-24,BALDWIN GARDENS NURSING CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,BALDWIN GARDENS NURSING CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-28,BALDWIN GARDENS NURSING CENTER,Los Angeles,037,1,0,10 or fewer,,skilled nursing
@@ -1752,21 +1755,25 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Belmont Village Encino,Los Angeles,037,11,16,,,assisted living
 2020-04-30,Belmont Village Encino,Los Angeles,037,12,19,,,assisted living
 2020-05-01,Belmont Village Encino,Los Angeles,037,12,19,,,assisted living
+2020-05-02,Belmont Village Encino,Los Angeles,037,12,19,,,assisted living
 2020-04-26,Belmont Village Hollywood,Los Angeles,037,17,20,,,assisted living
 2020-04-27,Belmont Village Hollywood,Los Angeles,037,17,20,,,assisted living
 2020-04-28,Belmont Village Hollywood,Los Angeles,037,17,20,,,assisted living
 2020-04-30,Belmont Village Hollywood,Los Angeles,037,17,20,,,assisted living
 2020-05-01,Belmont Village Hollywood,Los Angeles,037,17,20,,,assisted living
+2020-05-02,Belmont Village Hollywood,Los Angeles,037,17,20,,,assisted living
 2020-04-26,Beverly Hills Carmel Retirement Hotel,Los Angeles,037,1,15,10 or fewer,,assisted living
 2020-04-27,Beverly Hills Carmel Retirement Hotel,Los Angeles,037,1,15,10 or fewer,,assisted living
 2020-04-28,Beverly Hills Carmel Retirement Hotel,Los Angeles,037,1,15,10 or fewer,,assisted living
 2020-04-30,Beverly Hills Carmel Retirement Hotel,Los Angeles,037,1,15,10 or fewer,,assisted living
 2020-05-01,Beverly Hills Carmel Retirement Hotel,Los Angeles,037,1,15,10 or fewer,,assisted living
+2020-05-02,Beverly Hills Carmel Retirement Hotel,Los Angeles,037,1,15,10 or fewer,,assisted living
 2020-04-26,Brookdale Northridge,Los Angeles,037,1,18,10 or fewer,,assisted living
 2020-04-27,Brookdale Northridge,Los Angeles,037,1,18,10 or fewer,,assisted living
 2020-04-28,Brookdale Northridge,Los Angeles,037,1,20,10 or fewer,,assisted living
 2020-04-30,Brookdale Northridge,Los Angeles,037,1,20,10 or fewer,,assisted living
 2020-05-01,Brookdale Northridge,Los Angeles,037,1,20,10 or fewer,,assisted living
+2020-05-02,Brookdale Northridge,Los Angeles,037,1,20,10 or fewer,,assisted living
 2020-04-19,CALIFORNIA HEALTHCARE AND REHABILITATION CENTER,Los Angeles,037,1,1,10 or fewer,10 or fewer,skilled nursing
 2020-04-24,CALIFORNIA HEALTHCARE AND REHABILITATION CENTER,Los Angeles,037,1,0,10 or fewer,,skilled nursing
 2020-04-25,CALIFORNIA HEALTHCARE AND REHABILITATION CENTER,Los Angeles,037,1,1,10 or fewer,10 or fewer,skilled nursing
@@ -2290,6 +2297,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Fallbrook Glen of West Hills,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Fallbrook Glen of West Hills,Los Angeles,037,1,11,10 or fewer,,assisted living
 2020-05-01,Fallbrook Glen of West Hills,Los Angeles,037,1,12,10 or fewer,,assisted living
+2020-05-02,Fallbrook Glen of West Hills,Los Angeles,037,1,12,10 or fewer,,assisted living
 2020-04-19,GARDEN CREST REHABILITATION CENTER,Los Angeles,037,35,35,,,skilled nursing
 2020-04-24,GARDEN CREST REHABILITATION CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,GARDEN CREST REHABILITATION CENTER,Los Angeles,037,1,1,10 or fewer,10 or fewer,skilled nursing
@@ -2696,6 +2704,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Jasmin Terrace at el Molino,Los Angeles,037,19,32,,,assisted living
 2020-04-30,Jasmin Terrace at el Molino,Los Angeles,037,20,34,,,assisted living
 2020-05-01,Jasmin Terrace at el Molino,Los Angeles,037,20,34,,,assisted living
+2020-05-02,Jasmin Terrace at el Molino,Los Angeles,037,20,34,,,assisted living
 2020-04-19,KEI-AI LOS ANGELES HEALTHCARE CENTER,Los Angeles,037,1,1,10 or fewer,10 or fewer,skilled nursing
 2020-04-24,KEI-AI LOS ANGELES HEALTHCARE CENTER,Los Angeles,037,0,1,,10 or fewer,skilled nursing
 2020-04-25,KEI-AI LOS ANGELES HEALTHCARE CENTER,Los Angeles,037,1,1,10 or fewer,10 or fewer,skilled nursing
@@ -3226,11 +3235,13 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Oakmont of Santa Clarita,Los Angeles,037,0,17,,,assisted living
 2020-04-30,Oakmont of Santa Clarita,Los Angeles,037,0,15,,,assisted living
 2020-05-01,Oakmont of Santa Clarita,Los Angeles,037,0,14,,,assisted living
+2020-05-02,Oakmont of Santa Clarita,Los Angeles,037,0,14,,,assisted living
 2020-04-26,Oakmont of Valencia,Los Angeles,037,1,12,10 or fewer,,assisted living
 2020-04-27,Oakmont of Valencia,Los Angeles,037,1,12,10 or fewer,,assisted living
 2020-04-28,Oakmont of Valencia,Los Angeles,037,1,12,10 or fewer,,assisted living
 2020-04-30,Oakmont of Valencia,Los Angeles,037,1,17,10 or fewer,,assisted living
 2020-05-01,Oakmont of Valencia,Los Angeles,037,1,16,10 or fewer,,assisted living
+2020-05-02,Oakmont of Valencia,Los Angeles,037,1,16,10 or fewer,,assisted living
 2020-04-24,PACIFIC CARE NURSING CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,PACIFIC CARE NURSING CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-28,PACIFIC CARE NURSING CENTER,Los Angeles,037,0,0,,,skilled nursing
@@ -3434,12 +3445,14 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Pacifica Senior Living Northridge,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Pacifica Senior Living Northridge,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Pacifica Senior Living Northridge,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Pacifica Senior Living Northridge,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-27,Pacifical Senior Living Northridge,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-26,Palmcrest Grand Residence,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-27,Palmcrest Grand Residence,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-28,Palmcrest Grand Residence,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Palmcrest Grand Residence,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Palmcrest Grand Residence,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Palmcrest Grand Residence,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-24,RAMONA NURSING & REHABILITATION CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,RAMONA NURSING & REHABILITATION CENTER,Los Angeles,037,,,,,skilled nursing
 2020-04-28,RAMONA NURSING & REHABILITATION CENTER,Los Angeles,037,0,0,,,skilled nursing
@@ -3560,6 +3573,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-30,ROYALWOOD CARE CENTER,Los Angeles,037,1,39,10 or fewer,,skilled nursing
 2020-05-01,ROYALWOOD CARE CENTER,Los Angeles,037,1,42,10 or fewer,,skilled nursing
 2020-05-02,ROYALWOOD CARE CENTER,Los Angeles,037,1,42,10 or fewer,,skilled nursing
+2020-05-02,Rosecrans Villa Residential Care,Los Angeles,037,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-24,SAINT FRANCIS MEDICAL CENTER D/P SNF,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,SAINT FRANCIS MEDICAL CENTER D/P SNF,Los Angeles,037,0,0,,,skilled nursing
 2020-04-28,SAINT FRANCIS MEDICAL CENTER D/P SNF,Los Angeles,037,0,0,,,skilled nursing
@@ -3839,6 +3853,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Silverado Senior Living - Beverly Place,Los Angeles,037,27,36,,,assisted living
 2020-04-30,Silverado Senior Living - Beverly Place,Los Angeles,037,27,40,,,assisted living
 2020-05-01,Silverado Senior Living - Beverly Place,Los Angeles,037,28,43,,,assisted living
+2020-05-02,Silverado Senior Living - Beverly Place,Los Angeles,037,29,43,,,assisted living
 2020-04-24,TARZANA HEALTH AND REHABILITATION CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,TARZANA HEALTH AND REHABILITATION CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-28,TARZANA HEALTH AND REHABILITATION CENTER,Los Angeles,037,0,0,,,skilled nursing
@@ -3992,6 +4007,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,The Kensington Redondo Beach,Los Angeles,037,19,23,,,assisted living
 2020-04-30,The Kensington Redondo Beach,Los Angeles,037,19,23,,,assisted living
 2020-05-01,The Kensington Redondo Beach,Los Angeles,037,19,23,,,assisted living
+2020-05-02,The Kensington Redondo Beach,Los Angeles,037,19,23,,,assisted living
 2020-04-19,UNIVERSITY PARK HEALTHCARE CENTER,Los Angeles,037,,1,,10 or fewer,skilled nursing
 2020-04-24,UNIVERSITY PARK HEALTHCARE CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,UNIVERSITY PARK HEALTHCARE CENTER,Los Angeles,037,0,0,,,skilled nursing
@@ -4130,6 +4146,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Villa Gardens,Los Angeles,037,12,15,,,assisted living
 2020-04-30,Villa Gardens,Los Angeles,037,13,15,,,assisted living
 2020-05-01,Villa Gardens,Los Angeles,037,13,15,,,assisted living
+2020-05-02,Villa Gardens,Los Angeles,037,14,15,,,assisted living
 2020-04-24,WELLSPRINGS POST-ACUTE CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-25,WELLSPRINGS POST-ACUTE CENTER,Los Angeles,037,0,0,,,skilled nursing
 2020-04-28,WELLSPRINGS POST-ACUTE CENTER,Los Angeles,037,0,0,,,skilled nursing
@@ -4828,6 +4845,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-05-01,ANAHEIM TERRACE CARE CENTER,Orange,059,0,0,,,skilled nursing
 2020-05-02,ANAHEIM TERRACE CARE CENTER,Orange,059,0,0,,,skilled nursing
 2020-05-01,Acacia Villas,Orange,059,1,12,10 or fewer,,assisted living
+2020-05-02,Acacia Villas,Orange,059,1,12,10 or fewer,,assisted living
 2020-04-24,BEACHSIDE NURSING CENTER,Orange,059,0,0,,,skilled nursing
 2020-04-25,BEACHSIDE NURSING CENTER,Orange,059,0,0,,,skilled nursing
 2020-04-28,BEACHSIDE NURSING CENTER,Orange,059,0,0,,,skilled nursing
@@ -5644,6 +5662,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Palms at La Quinta,Riverside,065,1,11,10 or fewer,,assisted living
 2020-04-30,Palms at La Quinta,Riverside,065,1,16,10 or fewer,,assisted living
 2020-05-01,Palms at La Quinta,Riverside,065,1,16,10 or fewer,,assisted living
+2020-05-02,Palms at La Quinta,Riverside,065,1,16,10 or fewer,,assisted living
 2020-04-19,RAMONA REHABILITATION AND POST ACUTE CARE CENTER,Riverside,065,1,1,10 or fewer,10 or fewer,skilled nursing
 2020-04-24,RAMONA REHABILITATION AND POST ACUTE CARE CENTER,Riverside,065,1,21,10 or fewer,,skilled nursing
 2020-04-25,RAMONA REHABILITATION AND POST ACUTE CARE CENTER,Riverside,065,1,20,10 or fewer,,skilled nursing
@@ -5709,11 +5728,13 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Raincross at Riverside,Riverside,065,0,12,,,assisted living
 2020-04-30,Raincross at Riverside,Riverside,065,0,12,,,assisted living
 2020-05-01,Raincross at Riverside,Riverside,065,0,12,,,assisted living
+2020-05-02,Raincross at Riverside,Riverside,065,0,12,,,assisted living
 2020-04-26,Renaissance Village Rancho Belago,Riverside,065,1,11,10 or fewer,,assisted living
 2020-04-27,Renaissance Village Rancho Belago,Riverside,065,1,11,10 or fewer,,assisted living
 2020-04-28,Renaissance Village Rancho Belago,Riverside,065,1,11,10 or fewer,,assisted living
 2020-04-30,Renaissance Village Rancho Belago,Riverside,065,1,11,10 or fewer,,assisted living
 2020-05-01,Renaissance Village Rancho Belago,Riverside,065,1,11,10 or fewer,,assisted living
+2020-05-02,Renaissance Village Rancho Belago,Riverside,065,1,11,10 or fewer,,assisted living
 2020-04-24,SAN JACINTO HEALTHCARE,Riverside,065,0,0,,,skilled nursing
 2020-04-25,SAN JACINTO HEALTHCARE,Riverside,065,0,0,,,skilled nursing
 2020-04-28,SAN JACINTO HEALTHCARE,Riverside,065,0,0,,,skilled nursing
@@ -5793,6 +5814,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Welbrook Senior Living Arlington,Riverside,065,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Welbrook Senior Living Arlington,Riverside,065,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Welbrook Senior Living Arlington,Riverside,065,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Welbrook Senior Living Arlington,Riverside,065,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-19,ACC CARE CENTER,Sacramento,067,1,,10 or fewer,,skilled nursing
 2020-04-24,ACC CARE CENTER,Sacramento,067,0,0,,,skilled nursing
 2020-04-25,ACC CARE CENTER,Sacramento,067,0,0,,,skilled nursing
@@ -5985,6 +6007,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Oakmont of Folsom,Sacramento,067,1,18,10 or fewer,,assisted living
 2020-04-30,Oakmont of Folsom,Sacramento,067,1,18,10 or fewer,,assisted living
 2020-05-01,Oakmont of Folsom,Sacramento,067,1,18,10 or fewer,,assisted living
+2020-05-02,Oakmont of Folsom,Sacramento,067,1,18,10 or fewer,,assisted living
 2020-04-24,PIONEER HOUSE,Sacramento,067,0,0,,,skilled nursing
 2020-04-25,PIONEER HOUSE,Sacramento,067,0,0,,,skilled nursing
 2020-04-28,PIONEER HOUSE,Sacramento,067,0,0,,,skilled nursing
@@ -6034,11 +6057,13 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Sunrise Assisted Living of Fair Oaks,Sacramento,067,1,17,10 or fewer,,assisted living
 2020-04-30,Sunrise Assisted Living of Fair Oaks,Sacramento,067,1,17,10 or fewer,,assisted living
 2020-05-01,Sunrise Assisted Living of Fair Oaks,Sacramento,067,1,17,10 or fewer,,assisted living
+2020-05-02,Sunrise Assisted Living of Fair Oaks,Sacramento,067,1,17,10 or fewer,,assisted living
 2020-04-26,Sunrise Assisted Living of Sacramento,Sacramento,067,23,25,,,assisted living
 2020-04-27,Sunrise Assisted Living of Sacramento,Sacramento,067,23,25,,,assisted living
 2020-04-28,Sunrise Assisted Living of Sacramento,Sacramento,067,23,25,,,assisted living
 2020-04-30,Sunrise Assisted Living of Sacramento,Sacramento,067,23,25,,,assisted living
 2020-05-01,Sunrise Assisted Living of Sacramento,Sacramento,067,23,25,,,assisted living
+2020-05-02,Sunrise Assisted Living of Sacramento,Sacramento,067,23,25,,,assisted living
 2020-04-24,UNIVERSITY POST-ACUTE REHAB,Sacramento,067,0,0,,,skilled nursing
 2020-04-25,UNIVERSITY POST-ACUTE REHAB,Sacramento,067,0,0,,,skilled nursing
 2020-04-28,UNIVERSITY POST-ACUTE REHAB,Sacramento,067,0,0,,,skilled nursing
@@ -6355,6 +6380,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Plymouth Village of Redlands,San Bernardino,071,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Plymouth Village of Redlands,San Bernardino,071,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Plymouth Village of Redlands,San Bernardino,071,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Plymouth Village of Redlands,San Bernardino,071,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-24,RANCHO MESA CARE CENTER,San Bernardino,071,0,0,,,skilled nursing
 2020-04-25,RANCHO MESA CARE CENTER,San Bernardino,071,0,0,,,skilled nursing
 2020-04-28,RANCHO MESA CARE CENTER,San Bernardino,071,0,0,,,skilled nursing
@@ -6678,6 +6704,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Elmcroft of La Mesa,San Diego,073,11,31,,,assisted living
 2020-04-30,Elmcroft of La Mesa,San Diego,073,12,34,,,assisted living
 2020-05-01,Elmcroft of La Mesa,San Diego,073,12,34,,,assisted living
+2020-05-02,Elmcroft of La Mesa,San Diego,073,12,34,,,assisted living
 2020-04-24,FALLBROOK SKILLED NURSING,San Diego,073,0,0,,,skilled nursing
 2020-04-25,FALLBROOK SKILLED NURSING,San Diego,073,0,0,,,skilled nursing
 2020-04-28,FALLBROOK SKILLED NURSING,San Diego,073,0,0,,,skilled nursing
@@ -6745,6 +6772,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Golden Living Health Management Inc.,San Diego,073,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Golden Living Health Management Inc.,San Diego,073,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Golden Living Health Management Inc.,San Diego,073,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Golden Living Health Management Inc.,San Diego,073,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-24,HILLCREST HEIGHTS HEALTHCARE CENTER,San Diego,073,0,0,,,skilled nursing
 2020-04-25,HILLCREST HEIGHTS HEALTHCARE CENTER,San Diego,073,0,0,,,skilled nursing
 2020-04-28,HILLCREST HEIGHTS HEALTHCARE CENTER,San Diego,073,0,0,,,skilled nursing
@@ -6830,6 +6858,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,La Vida Real,San Diego,073,17,13,,,assisted living
 2020-04-30,La Vida Real,San Diego,073,17,13,,,assisted living
 2020-05-01,La Vida Real,San Diego,073,18,13,,,assisted living
+2020-05-02,La Vida Real,San Diego,073,18,13,,,assisted living
 2020-04-24,MAGNOLIA POST ACUTE CARE,San Diego,073,0,0,,,skilled nursing
 2020-04-25,MAGNOLIA POST ACUTE CARE,San Diego,073,0,0,,,skilled nursing
 2020-04-28,MAGNOLIA POST ACUTE CARE,San Diego,073,0,0,,,skilled nursing
@@ -6984,6 +7013,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Stellar Care,San Diego,073,1,15,10 or fewer,,assisted living
 2020-04-30,Stellar Care,San Diego,073,1,14,10 or fewer,,assisted living
 2020-05-01,Stellar Care,San Diego,073,1,14,10 or fewer,,assisted living
+2020-05-02,Stellar Care,San Diego,073,1,14,10 or fewer,,assisted living
 2020-04-19,THE BRADLEY COURT,San Diego,073,1,12,10 or fewer,,skilled nursing
 2020-04-24,THE BRADLEY COURT,San Diego,073,1,11,10 or fewer,,skilled nursing
 2020-04-25,THE BRADLEY COURT,San Diego,073,1,11,10 or fewer,,skilled nursing
@@ -7515,11 +7545,13 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,"Abigail Complete Care, Inc.",San Mateo,081,1,12,10 or fewer,,assisted living
 2020-04-30,"Abigail Complete Care, Inc.",San Mateo,081,1,12,10 or fewer,,assisted living
 2020-05-01,"Abigail Complete Care, Inc.",San Mateo,081,1,20,10 or fewer,,assisted living
+2020-05-02,"Abigail Complete Care, Inc.",San Mateo,081,1,20,10 or fewer,,assisted living
 2020-04-26,Atria Daly City,San Mateo,081,13,14,,,assisted living
 2020-04-27,Atria Daly City,San Mateo,081,13,14,,,assisted living
 2020-04-28,Atria Daly City,San Mateo,081,13,14,,,assisted living
 2020-04-30,Atria Daly City,San Mateo,081,13,14,,,assisted living
 2020-05-01,Atria Daly City,San Mateo,081,13,14,,,assisted living
+2020-05-02,Atria Daly City,San Mateo,081,13,14,,,assisted living
 2020-04-24,BROOKSIDE SKILLED NURSING HOSPITAL,San Mateo,081,0,0,,,skilled nursing
 2020-04-25,BROOKSIDE SKILLED NURSING HOSPITAL,San Mateo,081,0,0,,,skilled nursing
 2020-04-28,BROOKSIDE SKILLED NURSING HOSPITAL,San Mateo,081,0,0,,,skilled nursing
@@ -7554,6 +7586,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Gordon Manor,San Mateo,081,1,23,10 or fewer,,assisted living
 2020-04-30,Gordon Manor,San Mateo,081,1,23,10 or fewer,,assisted living
 2020-05-01,Gordon Manor,San Mateo,081,1,23,10 or fewer,,assisted living
+2020-05-02,Gordon Manor,San Mateo,081,1,23,10 or fewer,,assisted living
 2020-04-24,LINDA MAR CARE CENTER,San Mateo,081,0,0,,,skilled nursing
 2020-04-25,LINDA MAR CARE CENTER,San Mateo,081,0,0,,,skilled nursing
 2020-04-28,LINDA MAR CARE CENTER,San Mateo,081,0,0,,,skilled nursing
@@ -7625,11 +7658,13 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-05-01,ST. FRANCIS HEIGHTS CONVALESCENT HOSPITAL,San Mateo,081,1,0,10 or fewer,,skilled nursing
 2020-05-02,ST. FRANCIS HEIGHTS CONVALESCENT HOSPITAL,San Mateo,081,1,0,10 or fewer,,skilled nursing
 2020-04-19,SUNRISE OF BURLINGAME,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Sterling Court,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-26,Sunrise of Burlingame,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-27,Sunrise of Burlingame,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-28,Sunrise of Burlingame,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,Sunrise of Burlingame,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,Sunrise of Burlingame,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,Sunrise of Burlingame,San Mateo,081,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-19,THE SEQUOIAS,San Mateo,081,1,,10 or fewer,,skilled nursing
 2020-04-24,THE SEQUOIAS,San Mateo,081,0,0,,,skilled nursing
 2020-04-25,THE SEQUOIAS,San Mateo,081,0,0,,,skilled nursing
@@ -8104,6 +8139,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,Vi at Palo Alto,Santa Clara,085,0,1,,10 or fewer,assisted living
 2020-04-30,Vi at Palo Alto,Santa Clara,085,0,11,,,assisted living
 2020-05-01,Vi at Palo Alto,Santa Clara,085,0,1,,10 or fewer,assisted living
+2020-05-02,Vi at Palo Alto,Santa Clara,085,0,11,,,assisted living
 2020-04-24,WEBSTER HOUSE,Santa Clara,085,0,0,,,skilled nursing
 2020-04-25,WEBSTER HOUSE,Santa Clara,085,0,0,,,skilled nursing
 2020-04-28,WEBSTER HOUSE,Santa Clara,085,0,0,,,skilled nursing
@@ -8894,6 +8930,7 @@ date,name,county,fips,staff,patients,staff_note,patients_note,type
 2020-04-28,"Reserve at Thousand Oaks, The",Ventura,111,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-30,"Reserve at Thousand Oaks, The",Ventura,111,1,1,10 or fewer,10 or fewer,assisted living
 2020-05-01,"Reserve at Thousand Oaks, The",Ventura,111,1,1,10 or fewer,10 or fewer,assisted living
+2020-05-02,"Reserve at Thousand Oaks, The",Ventura,111,1,1,10 or fewer,10 or fewer,assisted living
 2020-04-24,SANTA PAULA POST ACUTE CENTER,Ventura,111,0,0,,,skilled nursing
 2020-04-25,SANTA PAULA POST ACUTE CENTER,Ventura,111,0,0,,,skilled nursing
 2020-04-28,SANTA PAULA POST ACUTE CENTER,Ventura,111,0,0,,,skilled nursing
