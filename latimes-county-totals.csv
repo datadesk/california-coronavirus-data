@@ -107,7 +107,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,Alpine,3,1,0,0,0
 2020-05-02,Alpine,3,1,0,0,0
 2020-05-03,Alpine,3,1,0,0,0
-2020-05-04,Alpine,3,0,0,-1,0
+2020-05-04,Alpine,3,1,0,0,0
 2020-03-13,Amador,5,1,0,,
 2020-03-14,Amador,5,1,0,0,0
 2020-03-15,Amador,5,1,0,0,0
@@ -278,7 +278,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,Calaveras,9,13,0,0,0
 2020-05-02,Calaveras,9,13,0,0,0
 2020-05-03,Calaveras,9,13,0,0,0
-2020-05-04,Calaveras,9,0,0,-13,0
+2020-05-04,Calaveras,9,13,0,0,0
 2020-03-27,Colusa,11,1,0,,
 2020-03-28,Colusa,11,1,0,0,0
 2020-03-29,Colusa,11,1,0,0,0
@@ -1247,7 +1247,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,Mono,51,26,1,0,0
 2020-05-02,Mono,51,26,1,0,0
 2020-05-03,Mono,51,26,1,0,0
-2020-05-04,Mono,51,0,0,-26,-1
+2020-05-04,Mono,51,26,1,0,0
 2020-03-17,Monterey,53,2,0,,
 2020-03-18,Monterey,53,2,0,0,0
 2020-03-19,Monterey,53,2,0,0,0
@@ -1390,7 +1390,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,Nevada,57,41,1,0,0
 2020-05-02,Nevada,57,41,1,0,0
 2020-05-03,Nevada,57,41,1,0,0
-2020-05-04,Nevada,57,0,0,-41,-1
+2020-05-04,Nevada,57,41,1,0,0
 2020-01-26,Orange,59,1,0,,
 2020-01-27,Orange,59,1,0,0,0
 2020-01-28,Orange,59,1,0,0,0
@@ -2862,7 +2862,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,Tehama,103,1,1,0,0
 2020-05-02,Tehama,103,1,1,0,0
 2020-05-03,Tehama,103,1,1,0,0
-2020-05-04,Tehama,103,0,0,-1,-1
+2020-05-04,Tehama,103,1,1,0,0
 2020-04-29,Trinity,105,0,0,,
 2020-04-30,Trinity,105,0,0,0,0
 2020-05-01,Trinity,105,0,0,0,0
