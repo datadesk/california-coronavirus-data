@@ -45,7 +45,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-10,Alameda,001,Unincorporated,99,,,
 2020-04-10,Alameda,001,Union City,36,,-122.048333,37.596389
 2020-04-11,Alameda,001,Alameda,23,,-122.274444,37.756111
-2020-04-11,Alameda,001,Alameda County LHJ,770,,,
 2020-04-11,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-11,Alameda,001,Berkeley,36,,-122.272778,37.871667
 2020-04-11,Alameda,001,Dublin,17,,-121.935833,37.702222
@@ -64,7 +63,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-11,Alameda,001,Unincorporated,105,,,
 2020-04-11,Alameda,001,Union City,38,,-122.048333,37.596389
 2020-04-12,Alameda,001,Alameda,23,,-122.274444,37.756111
-2020-04-12,Alameda,001,Alameda County LHJ,807,,,
 2020-04-12,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-12,Alameda,001,Berkeley,36,,-122.272778,37.871667
 2020-04-12,Alameda,001,Dublin,17,,-121.935833,37.702222
@@ -83,7 +81,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-12,Alameda,001,Unincorporated,107,,,
 2020-04-12,Alameda,001,Union City,40,,-122.048333,37.596389
 2020-04-13,Alameda,001,Alameda,24,,-122.274444,37.756111
-2020-04-13,Alameda,001,Alameda County LHJ,850,,,
 2020-04-13,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-13,Alameda,001,Berkeley,36,,-122.272778,37.871667
 2020-04-13,Alameda,001,Dublin,18,,-121.935833,37.702222
@@ -102,7 +99,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-13,Alameda,001,Unincorporated,117,,,
 2020-04-13,Alameda,001,Union City,41,,-122.048333,37.596389
 2020-04-15,Alameda,001,Alameda,25,,-122.274444,37.756111
-2020-04-15,Alameda,001,Alameda County LHJ,924,,,
 2020-04-15,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-15,Alameda,001,Berkeley,38,,-122.272778,37.871667
 2020-04-15,Alameda,001,Dublin,20,,-121.935833,37.702222
@@ -121,7 +117,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-15,Alameda,001,Unincorporated,125,,,
 2020-04-15,Alameda,001,Union City,44,,-122.048333,37.596389
 2020-04-16,Alameda,001,Alameda,26,,-122.274444,37.756111
-2020-04-16,Alameda,001,Alameda County LHJ,968,,,
 2020-04-16,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-16,Alameda,001,Berkeley,39,,-122.272778,37.871667
 2020-04-16,Alameda,001,Dublin,20,,-121.935833,37.702222
@@ -140,7 +135,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-16,Alameda,001,Unincorporated,130,,,
 2020-04-16,Alameda,001,Union City,47,,-122.048333,37.596389
 2020-04-17,Alameda,001,Alameda,28,,-122.274444,37.756111
-2020-04-17,Alameda,001,Alameda County LHJ,1021,,,
 2020-04-17,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-17,Alameda,001,Berkeley,40,,-122.272778,37.871667
 2020-04-17,Alameda,001,Dublin,21,,-121.935833,37.702222
@@ -159,7 +153,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-17,Alameda,001,Unincorporated,134,,,
 2020-04-17,Alameda,001,Union City,51,,-122.048333,37.596389
 2020-04-18,Alameda,001,Alameda,30,,-122.274444,37.756111
-2020-04-18,Alameda,001,Alameda County LHJ,1072,,,
 2020-04-18,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-18,Alameda,001,Berkeley,42,,-122.272778,37.871667
 2020-04-18,Alameda,001,Dublin,21,,-121.935833,37.702222
@@ -178,7 +171,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-18,Alameda,001,Unincorporated,139,,,
 2020-04-18,Alameda,001,Union City,53,,-122.048333,37.596389
 2020-04-19,Alameda,001,Alameda,29,,-122.274444,37.756111
-2020-04-19,Alameda,001,Alameda County LHJ,1122,,,
 2020-04-19,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-19,Alameda,001,Berkeley,42,,-122.272778,37.871667
 2020-04-19,Alameda,001,Dublin,21,,-121.935833,37.702222
@@ -197,7 +189,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-19,Alameda,001,Unincorporated,148,,,
 2020-04-19,Alameda,001,Union City,55,,-122.048333,37.596389
 2020-04-20,Alameda,001,Alameda,29,,-122.274444,37.756111
-2020-04-20,Alameda,001,Alameda County LHJ,1149,,,
 2020-04-20,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-20,Alameda,001,Berkeley,42,,-122.272778,37.871667
 2020-04-20,Alameda,001,Dublin,21,,-121.935833,37.702222
@@ -216,7 +207,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-20,Alameda,001,Unincorporated,150,,,
 2020-04-20,Alameda,001,Union City,56,,-122.048333,37.596389
 2020-04-21,Alameda,001,Alameda,29,,-122.274444,37.756111
-2020-04-21,Alameda,001,Alameda County LHJ,1239,,,
 2020-04-21,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-21,Alameda,001,Berkeley,44,,-122.272778,37.871667
 2020-04-21,Alameda,001,Dublin,21,,-121.935833,37.702222
@@ -235,7 +225,6 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-21,Alameda,001,Unincorporated,152,,,
 2020-04-21,Alameda,001,Union City,56,,-122.048333,37.596389
 2020-04-22,Alameda,001,Alameda,29,,-122.274444,37.756111
-2020-04-22,Alameda,001,Alameda County LHJ,1235,,,
 2020-04-22,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-22,Alameda,001,Berkeley,45,,-122.272778,37.871667
 2020-04-22,Alameda,001,Dublin,19,,-121.935833,37.702222
@@ -254,14 +243,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-22,Alameda,001,Unincorporated,158,,,
 2020-04-22,Alameda,001,Union City,56,,-122.048333,37.596389
 2020-04-23,Alameda,001,Alameda,33,,-122.274444,37.756111
-2020-04-23,Alameda,001,Alameda County LHJ,1305,,,
 2020-04-23,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-23,Alameda,001,Berkeley,45,,-122.272778,37.871667
-2020-04-23,Alameda,001,Castro Valley MAC,72,,,
 2020-04-23,Alameda,001,Dublin,19,,-121.935833,37.702222
-2020-04-23,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",91,,,
 2020-04-23,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-23,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-04-23,Alameda,001,Fremont,94,,-121.988611,37.548333
 2020-04-23,Alameda,001,Hayward,258,,-122.080796,37.66882
 2020-04-23,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -275,14 +260,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-23,Alameda,001,Santa Rita Jail,33,,-121.887925,37.717269
 2020-04-23,Alameda,001,Union City,61,,-122.048333,37.596389
 2020-04-24,Alameda,001,Alameda,34,,-122.274444,37.756111
-2020-04-24,Alameda,001,Alameda County LHJ,1354,,,
 2020-04-24,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-24,Alameda,001,Berkeley,47,,-122.272778,37.871667
-2020-04-24,Alameda,001,Castro Valley MAC,76,,,
 2020-04-24,Alameda,001,Dublin,21,,-121.935833,37.702222
-2020-04-24,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",100,,,
 2020-04-24,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-24,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-04-24,Alameda,001,Fremont,94,,-121.988611,37.548333
 2020-04-24,Alameda,001,Hayward,269,,-122.080796,37.66882
 2020-04-24,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -296,14 +277,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-24,Alameda,001,Santa Rita Jail,33,,-121.887925,37.717269
 2020-04-24,Alameda,001,Union City,63,,-122.048333,37.596389
 2020-04-25,Alameda,001,Alameda,34,,-122.274444,37.756111
-2020-04-25,Alameda,001,Alameda County LHJ,1437,,,
 2020-04-25,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-25,Alameda,001,Berkeley,47,,-122.272778,37.871667
-2020-04-25,Alameda,001,Castro Valley MAC,1,9 or fewer,,
 2020-04-25,Alameda,001,Dublin,22,,-121.935833,37.702222
-2020-04-25,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",103,,,
 2020-04-25,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-25,Alameda,001,Fairview MAC,76,,,
 2020-04-25,Alameda,001,Fremont,96,,-121.988611,37.548333
 2020-04-25,Alameda,001,Hayward,281,,-122.080796,37.66882
 2020-04-25,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -318,14 +295,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-25,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-04-25,Alameda,001,Union City,64,,-122.048333,37.596389
 2020-04-26,Alameda,001,Alameda,35,,-122.274444,37.756111
-2020-04-26,Alameda,001,Alameda County LHJ,1421,,,
 2020-04-26,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-26,Alameda,001,Berkeley,47,,-122.272778,37.871667
-2020-04-26,Alameda,001,Castro Valley MAC,78,,,
 2020-04-26,Alameda,001,Dublin,22,,-121.935833,37.702222
-2020-04-26,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",105,,,
 2020-04-26,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-26,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-04-26,Alameda,001,Fremont,98,,-121.988611,37.548333
 2020-04-26,Alameda,001,Hayward,288,,-122.080796,37.66882
 2020-04-26,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -340,14 +313,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-26,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-04-26,Alameda,001,Union City,67,,-122.048333,37.596389
 2020-04-27,Alameda,001,Alameda,35,,-122.274444,37.756111
-2020-04-27,Alameda,001,Alameda County LHJ,1451,,,
 2020-04-27,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-27,Alameda,001,Berkeley,47,,-122.272778,37.871667
-2020-04-27,Alameda,001,Castro Valley MAC,78,,,
 2020-04-27,Alameda,001,Dublin,24,,-121.935833,37.702222
-2020-04-27,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",107,,,
 2020-04-27,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-27,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-04-27,Alameda,001,Fremont,98,,-121.988611,37.548333
 2020-04-27,Alameda,001,Hayward,292,,-122.080796,37.66882
 2020-04-27,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -363,14 +332,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-27,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-04-27,Alameda,001,Union City,66,,-122.048333,37.596389
 2020-04-28,Alameda,001,Alameda,35,,-122.274444,37.756111
-2020-04-28,Alameda,001,Alameda County LHJ,1483,,,
 2020-04-28,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-28,Alameda,001,Berkeley,50,,-122.272778,37.871667
-2020-04-28,Alameda,001,Castro Valley MAC,81,,,
 2020-04-28,Alameda,001,Dublin,24,,-121.935833,37.702222
-2020-04-28,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",111,,,
 2020-04-28,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-28,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-04-28,Alameda,001,Fremont,101,,-121.988611,37.548333
 2020-04-28,Alameda,001,Hayward,297,,-122.080796,37.66882
 2020-04-28,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -386,14 +351,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-28,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-04-28,Alameda,001,Union City,69,,-122.048333,37.596389
 2020-04-29,Alameda,001,Alameda,35,,-122.274444,37.756111
-2020-04-29,Alameda,001,Alameda County LHJ,1517,,,
 2020-04-29,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-29,Alameda,001,Berkeley,51,,-122.272778,37.871667
-2020-04-29,Alameda,001,Castro Valley MAC,81,,,
 2020-04-29,Alameda,001,Dublin,24,,-121.935833,37.702222
-2020-04-29,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",116,,,
 2020-04-29,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-29,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-04-29,Alameda,001,Fremont,102,,-121.988611,37.548333
 2020-04-29,Alameda,001,Hayward,312,,-122.080796,37.66882
 2020-04-29,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -409,14 +370,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-29,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-04-29,Alameda,001,Union City,70,,-122.048333,37.596389
 2020-04-30,Alameda,001,Alameda,36,,-122.274444,37.756111
-2020-04-30,Alameda,001,Alameda County LHJ,1551,,,
 2020-04-30,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-04-30,Alameda,001,Berkeley,52,,-122.272778,37.871667
-2020-04-30,Alameda,001,Castro Valley MAC,81,,,
 2020-04-30,Alameda,001,Dublin,25,,-121.935833,37.702222
-2020-04-30,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",127,,,
 2020-04-30,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-04-30,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-04-30,Alameda,001,Fremont,101,,-121.988611,37.548333
 2020-04-30,Alameda,001,Hayward,320,,-122.080796,37.66882
 2020-04-30,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -432,14 +389,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-04-30,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-04-30,Alameda,001,Union City,70,,-122.048333,37.596389
 2020-05-01,Alameda,001,Alameda,36,,-122.274444,37.756111
-2020-05-01,Alameda,001,Alameda County LHJ,1582,,,
 2020-05-01,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-05-01,Alameda,001,Berkeley,54,,-122.272778,37.871667
-2020-05-01,Alameda,001,Castro Valley MAC,82,,,
 2020-05-01,Alameda,001,Dublin,25,,-121.935833,37.702222
-2020-05-01,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",130,,,
 2020-05-01,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-05-01,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-05-01,Alameda,001,Fremont,103,,-121.988611,37.548333
 2020-05-01,Alameda,001,Hayward,330,,-122.080796,37.66882
 2020-05-01,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -455,14 +408,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-01,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-05-01,Alameda,001,Union City,74,,-122.048333,37.596389
 2020-05-02,Alameda,001,Alameda,37,,-122.274444,37.756111
-2020-05-02,Alameda,001,Alameda County LHJ,1652,,,
 2020-05-02,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-05-02,Alameda,001,Berkeley,53,,-122.272778,37.871667
-2020-05-02,Alameda,001,Castro Valley MAC,85,,,
 2020-05-02,Alameda,001,Dublin,25,,-121.935833,37.702222
-2020-05-02,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",134,,,
 2020-05-02,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-05-02,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-05-02,Alameda,001,Fremont,105,,-121.988611,37.548333
 2020-05-02,Alameda,001,Hayward,346,,-122.080796,37.66882
 2020-05-02,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -478,14 +427,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-02,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-05-02,Alameda,001,Union City,77,,-122.048333,37.596389
 2020-05-03,Alameda,001,Alameda,38,,-122.274444,37.756111
-2020-05-03,Alameda,001,Alameda County LHJ,1696,,,
 2020-05-03,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-05-03,Alameda,001,Berkeley,53,,-122.272778,37.871667
-2020-05-03,Alameda,001,Castro Valley MAC,86,,,
 2020-05-03,Alameda,001,Dublin,25,,-121.935833,37.702222
-2020-05-03,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",135,,,
 2020-05-03,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-05-03,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-05-03,Alameda,001,Fremont,109,,-121.988611,37.548333
 2020-05-03,Alameda,001,Hayward,361,,-122.080796,37.66882
 2020-05-03,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -501,14 +446,10 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-03,Alameda,001,Sunol,1,9 or fewer,-121.888611,37.594444
 2020-05-03,Alameda,001,Union City,79,,-122.048333,37.596389
 2020-05-04,Alameda,001,Alameda,39,,-122.274444,37.756111
-2020-05-04,Alameda,001,Alameda County LHJ,1722,,,
 2020-05-04,Alameda,001,Albany,1,9 or fewer,-122.297778,37.886944
 2020-05-04,Alameda,001,Berkeley,54,,-122.272778,37.871667
-2020-05-04,Alameda,001,Castro Valley MAC,87,,,
 2020-05-04,Alameda,001,Dublin,25,,-121.935833,37.702222
-2020-05-04,Alameda,001,"Eden Area MAC (Ashland, Cherryland, Hayward, Acres, San Lorenzo)",136,,,
 2020-05-04,Alameda,001,Emeryville,1,9 or fewer,-122.285278,37.831389
-2020-05-04,Alameda,001,Fairview MAC,1,9 or fewer,,
 2020-05-04,Alameda,001,Fremont,110,,-121.988611,37.548333
 2020-05-04,Alameda,001,Hayward,362,,-122.080796,37.66882
 2020-05-04,Alameda,001,Known Homeless,1,9 or fewer,,
@@ -15687,6 +15628,46 @@ date,county,fips,place,confirmed_cases,note,x,y
 2020-05-04,Orange,059,Villa Park,5,,-117.822072,33.814006
 2020-05-04,Orange,059,Westminster,47,,-118.029078,33.746996
 2020-05-04,Orange,059,Yorba Linda,52,,-117.834681,33.890894
+2020-05-05,Orange,059,Aliso Viejo,18,,-117.726298,33.56846
+2020-05-05,Orange,059,Anaheim,428,,-117.889722,33.836111
+2020-05-05,Orange,059,Brea,21,,-117.900292,33.916475
+2020-05-05,Orange,059,Buena Park,95,,-117.998139,33.867404
+2020-05-05,Orange,059,Costa Mesa,42,,-117.904743,33.663844
+2020-05-05,Orange,059,Coto de Caza,5,,-117.587778,33.595833
+2020-05-05,Orange,059,Cypress,44,,-118.036851,33.816937
+2020-05-05,Orange,059,Dana Point,22,,-117.698912,33.467458
+2020-05-05,Orange,059,Fountain Valley,36,,-117.956243,33.720285
+2020-05-05,Orange,059,Fullerton,101,,-117.925205,33.871972
+2020-05-05,Orange,059,Garden Grove,143,,-117.940639,33.77322
+2020-05-05,Orange,059,Huntington Beach,230,,-118.000278,33.692778
+2020-05-05,Orange,059,Irvine,137,,-117.8436,33.686502
+2020-05-05,Orange,059,La Habra,57,,-117.965359,33.926246
+2020-05-05,Orange,059,La Palma,15,,-118.046139,33.846322
+2020-05-05,Orange,059,Ladera Ranch,11,,-117.654344,33.550805
+2020-05-05,Orange,059,Laguna Beach,38,,-117.785357,33.542719
+2020-05-05,Orange,059,Laguna Hills,22,,-117.69866,33.591643
+2020-05-05,Orange,059,Laguna Niguel,32,,-117.74145,33.529249
+2020-05-05,Orange,059,Laguna Woods,8,,-117.725116,33.61017
+2020-05-05,Orange,059,Lake Forest,32,,-117.708689,33.656746
+2020-05-05,Orange,059,Los Alamitos,32,,-118.071889,33.803201
+2020-05-05,Orange,059,Midway City,7,,-117.987,33.7447
+2020-05-05,Orange,059,Mission Viejo,47,,-117.730609,33.602
+2020-05-05,Orange,059,Newport Beach,102,,-117.940778,33.61799
+2020-05-05,Orange,059,Orange,128,,-117.887465,33.807614
+2020-05-05,Orange,059,Other/Unknown,225,,,
+2020-05-05,Orange,059,Placentia,64,,-117.885835,33.881894
+2020-05-05,Orange,059,Rancho Mission Viejo,6,,-117.61,33.6
+2020-05-05,Orange,059,Rancho Santa Margarita,14,,-117.630248,33.627933
+2020-05-05,Orange,059,San Clemente,49,,-117.620278,33.437778
+2020-05-05,Orange,059,San Juan Capistrano,29,,-117.683894,33.506334
+2020-05-05,Orange,059,Santa Ana,433,,-117.881389,33.740833
+2020-05-05,Orange,059,Seal Beach,11,,-118.0825,33.759167
+2020-05-05,Orange,059,Stanton,28,,-118.010462,33.79474
+2020-05-05,Orange,059,Trabuco Canyon,12,,-117.586986,33.665508
+2020-05-05,Orange,059,Tustin,45,,-117.836714,33.733512
+2020-05-05,Orange,059,Villa Park,5,,-117.822072,33.814006
+2020-05-05,Orange,059,Westminster,47,,-118.029078,33.746996
+2020-05-05,Orange,059,Yorba Linda,52,,-117.834681,33.890894
 2020-04-24,Placer,061,East Placer,11,,-120.200398,39.20555
 2020-04-24,Placer,061,Mid Placer,11,,-120.763323,39.064633
 2020-04-24,Placer,061,South Placer,117,,-121.302209,38.881984
