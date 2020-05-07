@@ -30,7 +30,7 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 - [UC San Francisco: "UCSF Health Atlas"](http://healthatlas.ucsf.edu/welcome)
 - [UCLA: "COVID-19 Sandbox Maproom"](https://sandbox.idre.ucla.edu/covid19/?geo=la)
 - [Capradio: "Track COVID-19 Cases In California By County"](https://www.capradio.org/articles/2020/03/31/track-covid-19-cases-in-california-by-county/)
-- [Race Counts: How race, class and place fuel a pandemic](https://www.racecounts.org/covid/)
+- [Race Counts: "How race, class and place fuel a pandemic"](https://www.racecounts.org/covid/)
 
 ## Data dictionary
 
