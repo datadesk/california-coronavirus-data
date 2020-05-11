@@ -194,7 +194,7 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 
 California's Department of Public Health is releasing totals tracking the cumulative number of cases and deaths at the state's residential care facilities for the elderly and adult residential facilities.
 
-Counts for staff and patients are combined in this dataset into a single total.
+These are also sometimes known as assisted-living facilities. Counts for staff and patients are combined in this dataset into a single total.
 
 | field             | type    | description                                                                                         |
 | ----------------- | ------- | --------------------------------------------------------------------------------------------------- |
@@ -226,9 +226,9 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-residential-care-facilities.csv)
 
-California's Department of Public Health is [listing the adult and senior care facilities](https://www.cdss.ca.gov/#covid19) across the state with COVID-19 outbreaks.
+California's Department of Public Health is [listing the residential care facilities for the elderly and adult residential facilities](https://www.cdss.ca.gov/#covid19) across the state with COVID-19 outbreaks.
 
-In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the staff or patients field and an accompanying `note` field includes the set of possible values.
+These are also sometimes known as assisted-living facilities. In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the staff or patients field and an accompanying `note` field includes the set of possible values.
 
 | field                           | type    | description                                                                                                                                                                          |
 | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
