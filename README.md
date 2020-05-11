@@ -171,11 +171,11 @@ Some dates are missing because the state did not publish a press release for tha
 | `healthcare_worker_deaths`            | integer | The total number of healthcare workers who have died from COVID-19.                                                                                                                                          |
 | `source_url`                          | string  | The URL to the state press release.                                                                                                                                                                          |
 
-### [cdph-nursing-homes.csv](./cdph-nursing-homes.csv)
+### [cdph-skilled-nursing-facilities.csv](./cdph-skilled-nursing-facilities.csv)
 
-California's Department of Public Health is [listing the nursing homes](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks.
+California's Department of Public Health is [listing the skilled-nursing facilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks.
 
-In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the `staff` or `patients` field and an accompanying `note` field includes the set of possible values.
+In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the staff or patients field and an accompanying `note` field includes the set of possible values.
 
 | field                           | type    | description                                                                                                                                                                          |
 | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -191,7 +191,27 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | `patients_deaths`               | integer | The cumulative number of deaths case amoung patients at that time.                                                                                                                   |
 | `staff_deaths_note`             | string  | In cases where the `staff_deaths` are obscured, this explains the range of possible values.                                                                                          |
 | `patients_deaths_note`          | string  | In cases where the `patients_deaths` are obscured, this explains the range of possible values.                                                                                       |
-| `type`                          | string  | What type of nursing home is being reported, either `assisted living` or `skilled nursing`.                                                                                          |
+
+### [cdph-adult-and-senior-care-facilities.csv](./cdph-residential-care-facilities.csv)
+
+California's Department of Public Health is [listing the adult and senior care facilities](https://www.cdss.ca.gov/#covid19) across the state with COVID-19 outbreaks.
+
+In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the staff or patients field and an accompanying `note` field includes the set of possible values.
+
+| field                           | type    | description                                                                                                                                                                          |
+| ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `name`                          | string  | The name of the nursing home.                                                                                                                                                        |
+| `county`                        | string  | The name of the county where the city is located.                                                                                                                                    |
+| `fips`                          | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `staff_confirmed_cases`         | integer | The current number of confirmed coronavirus case amoung staff at that time.                                                                                                          |
+| `patients_confirmed_cases`      | integer | The current number of confirmed coronavirus case amoung patients at that time.                                                                                                       |
+| `staff_confirmed_cases_note`    | string  | In cases where the `staff_confirmed_cases` are obscured, this explains the range of possible values.                                                                                 |
+| `patients_confirmed_cases_note` | string  | In cases where the `patients_confirmed_cases` are obscured, this explains the range of possible values.                                                                              |
+| `staff_deaths`                  | integer | The cumulative number of deaths case amoung staff at that time.                                                                                                                      |
+| `patients_deaths`               | integer | The cumulative number of deaths case amoung patients at that time.                                                                                                                   |
+| `staff_deaths_note`             | string  | In cases where the `staff_deaths` are obscured, this explains the range of possible values.                                                                                          |
+| `patients_deaths_note`          | string  | In cases where the `patients_deaths` are obscured, this explains the range of possible values.                                                                                       |
 
 ### [cdph-hospital-patient-county-totals.csv](./cdph-hospital-patient-county-totals.csv)
 
