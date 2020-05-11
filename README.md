@@ -5,6 +5,23 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb)
 ![Jupyer Notebook tests](https://github.com/datadesk/california-coronavirus-data/workflows/Jupyer%20Notebook%20tests/badge.svg)
 
+## Table of contents
+
+- [latimes-agency-totals.csv](#latimes-agency-totalscsv)
+- [latimes-county-totals.csv](#latimes-county-totalscsv)
+- [latimes-state-totals.csv](#latimes-state-totalscsv)
+- [latimes-agency-websites.csv](#latimes-agency-websitescsv)
+- [latimes-place-totals.csv](#latimes-place-totalscsv)
+- [cdph-state-totals.csv](#cdph-state-totalscsv)
+- [cdph-skilled-nursing-totals.csv](#cdph-skilled-nursing-totalscsv)
+- [cdph-adult-and-senior-care-totals.csv](#cdph-skilled-nursing-totalscsv)
+- [cdph-skilled-nursing-facilities.csv](#cdph-skilled-nursing-facilitiescsv)
+- [cdph-adult-and-senior-care-facilities.csv](#cdph-adult-and-senior-care-facilitiescsv)
+- [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
+- [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
+- [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
+- [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
+
 ## About the data
 
 These files come from a continual Times survey of California's 58 county health agencies and three city agencies. Updated numbers are published throughout the day at [latimes.com/coronavirustracker](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/). This repository will periodically update with an extract of that data.
