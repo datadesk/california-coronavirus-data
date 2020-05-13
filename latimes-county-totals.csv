@@ -1015,7 +1015,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-25,Monterey,53,24,1,0,0
 2020-03-25,Napa,55,6,0,3,0
 2020-03-25,Nevada,57,7,0,3,0
-2020-03-25,Orange,59,184,1,37,0
+2020-03-25,Orange,59,183,1,36,0
 2020-03-25,Placer,61,30,1,4,0
 2020-03-25,Riverside,65,107,8,48,2
 2020-03-25,Sacramento,67,113,5,25,1
@@ -1059,7 +1059,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-26,Monterey,53,27,1,3,0
 2020-03-26,Napa,55,7,0,1,0
 2020-03-26,Nevada,57,8,0,1,0
-2020-03-26,Orange,59,248,1,64,0
+2020-03-26,Orange,59,247,1,64,0
 2020-03-26,Placer,61,30,1,0,0
 2020-03-26,Riverside,65,107,8,0,0
 2020-03-26,Sacramento,67,113,5,0,0
@@ -1106,7 +1106,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-27,Monterey,53,27,1,0,0
 2020-03-27,Napa,55,8,0,1,0
 2020-03-27,Nevada,57,8,0,0,0
-2020-03-27,Orange,59,316,3,68,2
+2020-03-27,Orange,59,315,3,68,2
 2020-03-27,Placer,61,41,1,11,0
 2020-03-27,Riverside,65,185,8,78,0
 2020-03-27,Sacramento,67,164,6,51,1
@@ -1153,7 +1153,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-28,Monterey,53,34,1,7,0
 2020-03-28,Napa,55,10,0,2,0
 2020-03-28,Nevada,57,12,0,4,0
-2020-03-28,Orange,59,395,4,79,1
+2020-03-28,Orange,59,394,4,79,1
 2020-03-28,Placer,61,44,1,3,0
 2020-03-28,Riverside,65,195,8,10,0
 2020-03-28,Sacramento,67,164,6,0,0
@@ -1200,7 +1200,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-29,Monterey,53,36,1,2,0
 2020-03-29,Napa,55,14,0,4,0
 2020-03-29,Nevada,57,17,0,5,0
-2020-03-29,Orange,59,420,4,25,0
+2020-03-29,Orange,59,419,4,25,0
 2020-03-29,Placer,61,53,2,9,1
 2020-03-29,Riverside,65,233,8,38,0
 2020-03-29,Sacramento,67,164,6,0,0
@@ -1248,7 +1248,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-30,Monterey,53,40,1,4,0
 2020-03-30,Napa,55,14,0,0,0
 2020-03-30,Nevada,57,21,0,4,0
-2020-03-30,Orange,59,455,4,35,0
+2020-03-30,Orange,59,452,4,33,0
 2020-03-30,Placer,61,57,2,4,0
 2020-03-30,Riverside,65,291,9,58,1
 2020-03-30,Sacramento,67,224,7,60,1
@@ -1297,7 +1297,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-31,Monterey,53,42,2,2,1
 2020-03-31,Napa,55,15,1,1,1
 2020-03-31,Nevada,57,26,0,5,0
-2020-03-31,Orange,59,494,7,39,3
+2020-03-31,Orange,59,490,7,38,3
 2020-03-31,Placer,61,67,2,10,0
 2020-03-31,Plumas,63,1,0,,
 2020-03-31,Riverside,65,371,13,80,4
@@ -1347,7 +1347,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-01,Monterey,53,48,2,6,0
 2020-04-01,Napa,55,18,1,3,0
 2020-04-01,Nevada,57,26,0,0,0
-2020-04-01,Orange,59,598,10,104,3
+2020-04-01,Orange,59,594,10,104,3
 2020-04-01,Placer,61,78,2,11,0
 2020-04-01,Plumas,63,1,0,0,0
 2020-04-01,Riverside,65,429,13,58,0
@@ -1399,7 +1399,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-02,Monterey,53,53,2,5,0
 2020-04-02,Napa,55,18,1,0,0
 2020-04-02,Nevada,57,30,0,4,0
-2020-04-02,Orange,59,653,13,55,3
+2020-04-02,Orange,59,648,13,54,3
 2020-04-02,Placer,61,90,2,12,0
 2020-04-02,Plumas,63,2,0,1,0
 2020-04-02,Riverside,65,493,14,64,1
@@ -1451,7 +1451,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-03,Monterey,53,57,2,4,0
 2020-04-03,Napa,55,20,2,2,1
 2020-04-03,Nevada,57,31,1,1,1
-2020-04-03,Orange,59,710,13,57,0
+2020-04-03,Orange,59,703,13,55,0
 2020-04-03,Placer,61,97,2,7,0
 2020-04-03,Plumas,63,2,0,0,0
 2020-04-03,Riverside,65,638,15,145,1
@@ -1503,7 +1503,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-04,Monterey,53,62,2,5,0
 2020-04-04,Napa,55,20,2,0,0
 2020-04-04,Nevada,57,31,1,0,0
-2020-04-04,Orange,59,782,14,72,1
+2020-04-04,Orange,59,773,14,70,1
 2020-04-04,Placer,61,101,2,4,0
 2020-04-04,Plumas,63,3,0,1,0
 2020-04-04,Riverside,65,665,18,27,3
@@ -1556,7 +1556,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-05,Monterey,53,62,2,0,0
 2020-04-05,Napa,55,20,2,0,0
 2020-04-05,Nevada,57,31,1,0,0
-2020-04-05,Orange,59,831,14,49,0
+2020-04-05,Orange,59,820,14,47,0
 2020-04-05,Placer,61,103,3,2,1
 2020-04-05,Plumas,63,3,0,0,0
 2020-04-05,Riverside,65,799,19,134,1
@@ -1609,7 +1609,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-06,Monterey,53,63,2,1,0
 2020-04-06,Napa,55,22,2,2,0
 2020-04-06,Nevada,57,32,1,1,0
-2020-04-06,Orange,59,881,14,50,0
+2020-04-06,Orange,59,869,14,49,0
 2020-04-06,Placer,61,106,3,3,0
 2020-04-06,Plumas,63,3,0,0,0
 2020-04-06,Riverside,65,946,25,147,6
@@ -1662,7 +1662,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-07,Monterey,53,64,2,1,0
 2020-04-07,Napa,55,23,2,1,0
 2020-04-07,Nevada,57,34,1,2,0
-2020-04-07,Orange,59,931,15,50,1
+2020-04-07,Orange,59,909,15,40,1
 2020-04-07,Placer,61,115,3,9,0
 2020-04-07,Plumas,63,3,0,0,0
 2020-04-07,Riverside,65,1016,28,70,3
@@ -1715,7 +1715,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-08,Monterey,53,69,3,5,1
 2020-04-08,Napa,55,25,2,2,0
 2020-04-08,Nevada,57,34,1,0,0
-2020-04-08,Orange,59,1016,17,85,2
+2020-04-08,Orange,59,998,17,89,2
 2020-04-08,Placer,61,117,4,2,1
 2020-04-08,Plumas,63,3,0,0,0
 2020-04-08,Riverside,65,1179,32,163,4
@@ -1768,7 +1768,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-09,Monterey,53,71,3,2,0
 2020-04-09,Napa,55,28,2,3,0
 2020-04-09,Nevada,57,34,1,0,0
-2020-04-09,Orange,59,1079,17,63,0
+2020-04-09,Orange,59,1061,17,63,0
 2020-04-09,Placer,61,120,4,3,0
 2020-04-09,Plumas,63,3,0,0,0
 2020-04-09,Riverside,65,1280,33,101,1
@@ -1821,7 +1821,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-10,Monterey,53,79,3,8,0
 2020-04-10,Napa,55,32,2,4,0
 2020-04-10,Nevada,57,34,1,0,0
-2020-04-10,Orange,59,1138,17,59,0
+2020-04-10,Orange,59,1120,17,59,0
 2020-04-10,Placer,61,123,4,3,0
 2020-04-10,Plumas,63,4,0,1,0
 2020-04-10,Riverside,65,1350,39,70,6
@@ -1874,7 +1874,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-11,Monterey,53,82,3,3,0
 2020-04-11,Napa,55,34,2,2,0
 2020-04-11,Nevada,57,34,1,0,0
-2020-04-11,Orange,59,1221,18,83,1
+2020-04-11,Orange,59,1201,18,81,1
 2020-04-11,Placer,61,124,4,1,0
 2020-04-11,Plumas,63,4,0,0,0
 2020-04-11,Riverside,65,1431,41,81,2
@@ -1927,7 +1927,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-12,Monterey,53,87,3,5,0
 2020-04-12,Napa,55,34,2,0,0
 2020-04-12,Nevada,57,34,1,0,0
-2020-04-12,Orange,59,1277,19,56,1
+2020-04-12,Orange,59,1250,19,49,1
 2020-04-12,Placer,61,124,4,0,0
 2020-04-12,Plumas,63,4,0,0,0
 2020-04-12,Riverside,65,1619,41,188,0
@@ -1980,7 +1980,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-13,Monterey,53,87,3,0,0
 2020-04-13,Napa,55,34,2,0,0
 2020-04-13,Nevada,57,34,1,0,0
-2020-04-13,Orange,59,1283,19,6,0
+2020-04-13,Orange,59,1257,19,7,0
 2020-04-13,Placer,61,127,5,3,1
 2020-04-13,Plumas,63,4,0,0,0
 2020-04-13,Riverside,65,1751,50,132,9
@@ -2033,7 +2033,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-14,Monterey,53,100,3,13,0
 2020-04-14,Napa,55,38,2,4,0
 2020-04-14,Nevada,57,34,1,0,0
-2020-04-14,Orange,59,1299,19,16,0
+2020-04-14,Orange,59,1278,19,21,0
 2020-04-14,Placer,61,128,5,1,0
 2020-04-14,Plumas,63,4,0,0,0
 2020-04-14,Riverside,65,1961,50,210,0
@@ -2086,7 +2086,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-15,Monterey,53,103,3,3,0
 2020-04-15,Napa,55,38,2,0,0
 2020-04-15,Nevada,57,34,1,0,0
-2020-04-15,Orange,59,1376,22,77,3
+2020-04-15,Orange,59,1361,22,83,3
 2020-04-15,Placer,61,129,7,1,2
 2020-04-15,Plumas,63,4,0,0,0
 2020-04-15,Riverside,65,2105,54,144,4
@@ -2139,7 +2139,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-16,Monterey,53,119,3,16,0
 2020-04-16,Napa,55,39,2,1,0
 2020-04-16,Nevada,57,34,1,0,0
-2020-04-16,Orange,59,1425,25,49,3
+2020-04-16,Orange,59,1411,25,50,3
 2020-04-16,Placer,61,130,8,1,1
 2020-04-16,Plumas,63,4,0,0,0
 2020-04-16,Riverside,65,2264,59,159,5
@@ -2192,7 +2192,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-17,Monterey,53,119,3,0,0
 2020-04-17,Napa,55,44,2,5,0
 2020-04-17,Nevada,57,36,1,2,0
-2020-04-17,Orange,59,1501,28,76,3
+2020-04-17,Orange,59,1483,28,72,3
 2020-04-17,Placer,61,130,8,0,0
 2020-04-17,Plumas,63,4,0,0,0
 2020-04-17,Riverside,65,2457,69,193,10
@@ -2245,7 +2245,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,Monterey,53,136,3,17,0
 2020-04-18,Napa,55,47,2,3,0
 2020-04-18,Nevada,57,36,1,0,0
-2020-04-18,Orange,59,1556,32,55,4
+2020-04-18,Orange,59,1540,32,57,4
 2020-04-18,Placer,61,131,8,1,0
 2020-04-18,Plumas,63,4,0,0,0
 2020-04-18,Riverside,65,2602,74,145,5
@@ -2298,7 +2298,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-19,Monterey,53,141,4,5,1
 2020-04-19,Napa,55,47,2,0,0
 2020-04-19,Nevada,57,36,1,0,0
-2020-04-19,Orange,59,1636,32,80,0
+2020-04-19,Orange,59,1610,32,70,0
 2020-04-19,Placer,61,132,8,1,0
 2020-04-19,Plumas,63,4,0,0,0
 2020-04-19,Riverside,65,2638,75,36,1
@@ -2351,7 +2351,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-20,Monterey,53,148,4,7,0
 2020-04-20,Napa,55,48,2,1,0
 2020-04-20,Nevada,57,38,1,2,0
-2020-04-20,Orange,59,1676,33,40,1
+2020-04-20,Orange,59,1646,33,36,1
 2020-04-20,Placer,61,132,8,0,0
 2020-04-20,Plumas,63,4,0,0,0
 2020-04-20,Riverside,65,2847,85,209,10
@@ -2404,7 +2404,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-21,Monterey,53,150,4,2,0
 2020-04-21,Napa,55,54,2,6,0
 2020-04-21,Nevada,57,38,1,0,0
-2020-04-21,Orange,59,1691,33,15,0
+2020-04-21,Orange,59,1670,33,24,0
 2020-04-21,Placer,61,133,8,1,0
 2020-04-21,Plumas,63,4,0,0,0
 2020-04-21,Riverside,65,2960,93,113,8
@@ -2457,7 +2457,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-22,Monterey,53,154,4,4,0
 2020-04-22,Napa,55,57,2,3,0
 2020-04-22,Nevada,57,36,1,-2,0
-2020-04-22,Orange,59,1753,34,62,1
+2020-04-22,Orange,59,1736,34,66,1
 2020-04-22,Placer,61,133,8,0,0
 2020-04-22,Plumas,63,4,0,0,0
 2020-04-22,Riverside,65,3084,99,124,6
@@ -2510,7 +2510,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-23,Monterey,53,164,4,10,0
 2020-04-23,Napa,55,57,2,0,0
 2020-04-23,Nevada,57,36,1,0,0
-2020-04-23,Orange,59,1827,36,74,2
+2020-04-23,Orange,59,1803,36,67,2
 2020-04-23,Placer,61,136,8,3,0
 2020-04-23,Plumas,63,4,0,0,0
 2020-04-23,Riverside,65,3218,100,134,1
@@ -2563,7 +2563,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-24,Monterey,53,169,4,5,0
 2020-04-24,Napa,55,58,2,1,0
 2020-04-24,Nevada,57,37,1,1,0
-2020-04-24,Orange,59,1845,36,18,0
+2020-04-24,Orange,59,1834,36,31,0
 2020-04-24,Placer,61,139,8,3,0
 2020-04-24,Plumas,63,4,0,0,0
 2020-04-24,Riverside,65,3315,112,97,12
@@ -2616,7 +2616,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-25,Monterey,53,176,4,7,0
 2020-04-25,Napa,55,60,2,2,0
 2020-04-25,Nevada,57,37,1,0,0
-2020-04-25,Orange,59,1969,38,124,2
+2020-04-25,Orange,59,1952,38,118,2
 2020-04-25,Placer,61,139,8,0,0
 2020-04-25,Plumas,63,4,0,0,0
 2020-04-25,Riverside,65,3409,117,94,5
@@ -2669,7 +2669,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-26,Monterey,53,183,4,7,0
 2020-04-26,Napa,55,60,2,0,0
 2020-04-26,Nevada,57,37,1,0,0
-2020-04-26,Orange,59,2074,39,105,1
+2020-04-26,Orange,59,2051,39,99,1
 2020-04-26,Placer,61,141,8,2,0
 2020-04-26,Plumas,63,4,0,0,0
 2020-04-26,Riverside,65,3563,118,154,1
@@ -2722,7 +2722,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-27,Monterey,53,185,4,2,0
 2020-04-27,Napa,55,64,2,4,0
 2020-04-27,Nevada,57,39,1,2,0
-2020-04-27,Orange,59,2126,39,52,0
+2020-04-27,Orange,59,2099,39,48,0
 2020-04-27,Placer,61,143,8,2,0
 2020-04-27,Plumas,63,4,0,0,0
 2020-04-27,Riverside,65,3643,141,80,23
@@ -2776,7 +2776,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-28,Monterey,53,191,5,6,1
 2020-04-28,Napa,55,66,2,2,0
 2020-04-28,Nevada,57,41,1,2,0
-2020-04-28,Orange,59,2151,42,25,3
+2020-04-28,Orange,59,2131,42,32,3
 2020-04-28,Placer,61,145,8,2,0
 2020-04-28,Plumas,63,4,0,0,0
 2020-04-28,Riverside,65,3735,141,92,0
@@ -2832,7 +2832,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-29,Monterey,53,206,5,15,0
 2020-04-29,Napa,55,67,2,1,0
 2020-04-29,Nevada,57,41,1,0,0
-2020-04-29,Orange,59,2252,44,101,2
+2020-04-29,Orange,59,2232,44,101,2
 2020-04-29,Placer,61,145,8,0,0
 2020-04-29,Plumas,63,4,0,0,0
 2020-04-29,Riverside,65,3942,143,207,2
@@ -2890,7 +2890,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-30,Monterey,53,213,5,7,0
 2020-04-30,Napa,55,67,2,0,0
 2020-04-30,Nevada,57,41,1,0,0
-2020-04-30,Orange,59,2393,45,141,1
+2020-04-30,Orange,59,2360,45,128,1
 2020-04-30,Placer,61,147,8,2,0
 2020-04-30,Plumas,63,4,0,0,0
 2020-04-30,Riverside,65,4031,149,89,6
@@ -2948,7 +2948,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,Monterey,53,222,5,9,0
 2020-05-01,Napa,55,68,2,1,0
 2020-05-01,Nevada,57,41,1,0,0
-2020-05-01,Orange,59,2537,50,144,5
+2020-05-01,Orange,59,2520,50,160,5
 2020-05-01,Placer,61,150,8,3,0
 2020-05-01,Plumas,63,4,0,0,0
 2020-05-01,Riverside,65,4079,156,48,7
@@ -3006,7 +3006,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-02,Monterey,53,226,6,4,1
 2020-05-02,Napa,55,70,2,2,0
 2020-05-02,Nevada,57,41,1,0,0
-2020-05-02,Orange,59,2636,52,99,2
+2020-05-02,Orange,59,2612,52,92,2
 2020-05-02,Placer,61,159,8,9,0
 2020-05-02,Plumas,63,4,0,0,0
 2020-05-02,Riverside,65,4164,161,85,5
@@ -3064,7 +3064,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-03,Monterey,53,235,6,9,0
 2020-05-03,Napa,55,70,2,0,0
 2020-05-03,Nevada,57,41,1,0,0
-2020-05-03,Orange,59,2743,52,107,0
+2020-05-03,Orange,59,2715,52,103,0
 2020-05-03,Placer,61,159,8,0,0
 2020-05-03,Plumas,63,4,0,0,0
 2020-05-03,Riverside,65,4180,161,16,0
@@ -3122,7 +3122,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-04,Monterey,53,237,6,2,0
 2020-05-04,Napa,55,74,2,4,0
 2020-05-04,Nevada,57,41,1,0,0
-2020-05-04,Orange,59,2819,57,76,5
+2020-05-04,Orange,59,2799,57,84,5
 2020-05-04,Placer,61,162,8,3,0
 2020-05-04,Plumas,63,4,0,0,0
 2020-05-04,Riverside,65,4354,181,174,20
@@ -3180,7 +3180,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-05,Monterey,53,241,6,4,0
 2020-05-05,Napa,55,75,2,1,0
 2020-05-05,Nevada,57,41,1,0,0
-2020-05-05,Orange,59,2873,61,54,4
+2020-05-05,Orange,59,2865,61,66,4
 2020-05-05,Placer,61,162,8,0,0
 2020-05-05,Plumas,63,4,0,0,0
 2020-05-05,Riverside,65,4454,184,100,3
@@ -3238,7 +3238,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-06,Monterey,53,247,6,6,0
 2020-05-06,Napa,55,78,2,3,0
 2020-05-06,Nevada,57,41,1,0,0
-2020-05-06,Orange,59,3004,65,131,4
+2020-05-06,Orange,59,2992,65,127,4
 2020-05-06,Placer,61,163,8,1,0
 2020-05-06,Plumas,63,4,0,0,0
 2020-05-06,Riverside,65,4672,186,218,2
@@ -3296,7 +3296,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-07,Monterey,53,250,6,3,0
 2020-05-07,Napa,55,78,2,0,0
 2020-05-07,Nevada,57,41,1,0,0
-2020-05-07,Orange,59,3092,66,88,1
+2020-05-07,Orange,59,3084,66,92,1
 2020-05-07,Placer,61,165,8,2,0
 2020-05-07,Plumas,63,4,0,0,0
 2020-05-07,Riverside,65,4756,192,84,6
@@ -3354,7 +3354,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-08,Monterey,53,267,6,17,0
 2020-05-08,Napa,55,78,2,0,0
 2020-05-08,Nevada,57,41,1,0,0
-2020-05-08,Orange,59,3240,71,148,5
+2020-05-08,Orange,59,3234,71,150,5
 2020-05-08,Placer,61,165,8,0,0
 2020-05-08,Plumas,63,4,0,0,0
 2020-05-08,Riverside,65,4817,204,61,12
@@ -3412,7 +3412,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-09,Monterey,53,277,6,10,0
 2020-05-09,Napa,55,79,2,1,0
 2020-05-09,Nevada,57,41,1,0,0
-2020-05-09,Orange,59,3380,74,140,3
+2020-05-09,Orange,59,3380,74,146,3
 2020-05-09,Placer,61,168,8,3,0
 2020-05-09,Plumas,63,4,0,0,0
 2020-05-09,Riverside,65,4992,204,175,0
@@ -3557,3 +3557,61 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-11,Ventura,111,678,19,12,0
 2020-05-11,Yolo,113,174,20,1,0
 2020-05-11,Yuba,115,21,1,1,0
+2020-05-12,Alameda,1,2133,74,32,3
+2020-05-12,Alpine,3,1,0,0,0
+2020-05-12,Amador,5,9,0,1,0
+2020-05-12,Butte,7,20,0,0,0
+2020-05-12,Calaveras,9,13,0,0,0
+2020-05-12,Colusa,11,3,0,0,0
+2020-05-12,Contra Costa,13,1066,32,18,0
+2020-05-12,Del Norte,15,3,0,0,0
+2020-05-12,El Dorado,17,60,0,4,0
+2020-05-12,Fresno,19,984,10,39,1
+2020-05-12,Glenn,21,6,0,0,0
+2020-05-12,Humboldt,23,64,0,3,0
+2020-05-12,Imperial,25,603,13,39,1
+2020-05-12,Inyo,27,19,1,0,0
+2020-05-12,Kern,29,1316,17,30,2
+2020-05-12,Kings,31,325,1,6,0
+2020-05-12,Lake,33,8,0,0,0
+2020-05-12,Lassen,35,0,0,0,0
+2020-05-12,Los Angeles,37,33247,1617,978,47
+2020-05-12,Madera,39,69,2,2,0
+2020-05-12,Marin,41,271,14,6,0
+2020-05-12,Mariposa,43,15,0,0,0
+2020-05-12,Mendocino,45,12,0,0,0
+2020-05-12,Merced,47,177,4,4,1
+2020-05-12,Modoc,49,0,0,0,0
+2020-05-12,Mono,51,32,1,0,0
+2020-05-12,Monterey,53,299,6,11,0
+2020-05-12,Napa,55,81,3,2,0
+2020-05-12,Nevada,57,41,1,0,0
+2020-05-12,Orange,59,3602,77,45,1
+2020-05-12,Placer,61,170,8,0,0
+2020-05-12,Plumas,63,4,0,0,0
+2020-05-12,Riverside,65,5248,225,59,8
+2020-05-12,Sacramento,67,1181,50,8,0
+2020-05-12,San Benito,69,58,2,2,0
+2020-05-12,San Bernardino,71,3078,120,63,5
+2020-05-12,San Diego,73,5161,190,96,15
+2020-05-12,San Francisco,75,1977,35,23,0
+2020-05-12,San Joaquin,77,629,30,8,1
+2020-05-12,San Luis Obispo,79,227,1,1,0
+2020-05-12,San Mateo,81,1497,65,33,9
+2020-05-12,Santa Barbara,83,1371,11,9,0
+2020-05-12,Santa Clara,85,2364,130,23,1
+2020-05-12,Santa Cruz,87,146,2,5,0
+2020-05-12,Shasta,89,32,4,0,0
+2020-05-12,Sierra,91,0,0,0,0
+2020-05-12,Siskiyou,93,5,0,0,0
+2020-05-12,Solano,95,388,11,9,1
+2020-05-12,Sonoma,97,333,4,21,0
+2020-05-12,Stanislaus,99,517,22,9,1
+2020-05-12,Sutter,101,35,2,1,0
+2020-05-12,Tehama,103,1,1,0,0
+2020-05-12,Trinity,105,2,0,1,0
+2020-05-12,Tulare,107,1241,52,82,2
+2020-05-12,Tuolumne,109,2,0,0,0
+2020-05-12,Ventura,111,700,21,22,2
+2020-05-12,Yolo,113,177,22,3,2
+2020-05-12,Yuba,115,23,1,2,0
