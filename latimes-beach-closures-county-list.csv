@@ -1,7 +1,7 @@
 county,fips,status,restriction
 Del Norte,015,Some restrictions,County parks closed to camping except for people authorized by the county for stays of 30 days or longer.
 Humboldt,023,Some restrictions,All parks in the county except for Redwood National Park are open for day use.
-Los Angeles,037,Some restrictions,County beaches expected to reopen May 13 for active recreation.
+Los Angeles,037,Some restrictions,"All beach parking lots, bike paths on the sand, piers, boardwalks, walkways and beach accessways in the county are closed."
 Marin,041,Some restrictions,"County health officials ordered all federal, state and local parks and park facilities to be closed to motorized access, except for vehicles with disabled person placards/plates. The county may restrict the number of entrants or close public access points to a beach to reduce crowding."
 Mendocino,045,Some restrictions,"All county beaches, parks, parking lots and access ways are closed with some exceptions."
 Monterey,053,Some restrictions,Some parks and beaches may have restrictions on access or parking depending on crowding.
@@ -12,5 +12,5 @@ San Luis Obispo,079,Some restrictions,
 San Mateo,081,Some restrictions,
 Santa Barbara,083,Some restrictions,
 Santa Cruz,087,Some restrictions,"All beaches closed for all activities except traversing the sand to enter the ocean between 11 a.m. and 5 p.m. No umbrellas, barbecues, coolers, beach chairs, shade structures, tents or other equipment will be allowed at any time. Water-based activities such as surfing, paddleboarding, boogie boarding, swimming, snorkeling and kayaking are allowed. Facilities adjacent to beaches such as parkways, sidewalks and trails will remain open."
-Sonoma,097,Closed,"All beaches, parks and open spaces closed in the county."
+Sonoma,097,Some restrictions,"All parks, trails and beaches in the coastal zone are closed daily from 11 a.m. to 5 p.m. Active recreation is allowed on beaches only if following physical distancing guidelines. All coastal parks and beach parking lots remain closed and access may be restricted."
 Ventura,111,Some restrictions,Parking restricted in certain areas along Highway 101. Pacific Coast Highway from Point Mugu State Beach south to the Los Angeles County line will be closed for all parking. Pacific Coast Highway from Emma Wood State Beach north to the Santa Barbara County line will also be closed for all parking.
