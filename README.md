@@ -13,6 +13,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-agency-websites.csv](#latimes-agency-websitescsv)
 - [latimes-place-totals.csv](#latimes-place-totalscsv)
 - [cdph-state-totals.csv](#cdph-state-totalscsv)
+- [cdph-race-ethnicity-csv](#cdph-race-ethnicitycsv)
 - [cdph-skilled-nursing-totals.csv](#cdph-skilled-nursing-totalscsv)
 - [cdph-adult-and-senior-care-totals.csv](#cdph-skilled-nursing-totalscsv)
 - [cdph-skilled-nursing-facilities.csv](#cdph-skilled-nursing-facilitiescsv)
@@ -170,6 +171,23 @@ Some dates are missing because the state did not publish a press release for tha
 | `healthcare_worker_infections` | integer | The total number of healthcare workers who have tested positive for COVID-19.                                                                                                                                |
 | `healthcare_worker_deaths`     | integer | The total number of healthcare workers who have died from COVID-19.                                                                                                                                          |
 | `source_url`                   | string  | The URL to the state press release.                                                                                                                                                                          |
+
+### [cdph-race-ethnicity.csv](./cdph-race-ethnicity.csv)
+
+Statewide demographic data tallying race and ethncity totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Race-Ethnicity.aspx).
+
+The original race categories published by the state have been grouped and aggregated to match the five race categories traditionally published by the Los Angeles Times.
+
+| field                           | type    | description                                                                                             |
+| ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
+| `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.     |
+| `race`                          | string  | The race being tallied.                                                                                 |
+| `age`                           | string  | The age bracket being tallied                                                                           |
+| `confirmed_cases_total`         | integer | The cumulative number of confirmed coronavirus case amoung this race and age at that time.              |
+| `confirmed_cases_percent`       | string  | The case totals percentage of the total in this age bracket                                             |
+| `deaths_total`                  | string  | The cumulative number of deaths case amoung this race and age at that time.                             |
+| `deaths_percent`                | integer | The death totals percentage of the total in this age bracket.                                           |
+| `population_percent`            | integer | The race's percentage of the overall state population in this age bracket.                              |
 
 ### [cdph-skilled-nursing-totals.csv](./cdph-skilled-nursing-totals.csv)
 
