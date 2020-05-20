@@ -174,7 +174,7 @@ Some dates are missing because the state did not publish a press release for tha
 
 ### [cdph-race-ethnicity.csv](./cdph-race-ethnicity.csv)
 
-Statewide demographic data tallying race and ethncity totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Race-Ethnicity.aspx).
+Statewide demographic data tallying race totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Race-Ethnicity.aspx).
 
 The original race categories published by the state have been grouped and aggregated to match the five race categories traditionally published by the Los Angeles Times.
 
