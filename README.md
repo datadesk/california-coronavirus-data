@@ -184,10 +184,10 @@ The original race categories published by the state have been grouped and aggreg
 | `race`                          | string  | The race being tallied.                                                                                 |
 | `age`                           | string  | The age bracket being tallied                                                                           |
 | `confirmed_cases_total`         | integer | The cumulative number of confirmed coronavirus case amoung this race and age at that time.              |
-| `confirmed_cases_percent`       | string  | The case totals percentage of the total in this age bracket                                             |
-| `deaths_total`                  | string  | The cumulative number of deaths case amoung this race and age at that time.                             |
-| `deaths_percent`                | integer | The death totals percentage of the total in this age bracket.                                           |
-| `population_percent`            | integer | The race's percentage of the overall state population in this age bracket.                              |
+| `confirmed_cases_percent`       | float   | The case totals percentage of the total in this age bracket                                             |
+| `deaths_total`                  | integer | The cumulative number of deaths case amoung this race and age at that time.                             |
+| `deaths_percent`                | float   | The death totals percentage of the total in this age bracket.                                           |
+| `population_percent`            | float   | The race's percentage of the overall state population in this age bracket.                              |
 
 ### [cdph-skilled-nursing-totals.csv](./cdph-skilled-nursing-totals.csv)
 
