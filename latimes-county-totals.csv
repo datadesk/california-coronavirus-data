@@ -95,59 +95,59 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-06,Los Angeles,37,1,0,0,0
 2020-02-06,Orange,59,1,0,0,0
 2020-02-06,San Benito,69,2,0,0,0
-2020-02-06,Santa Clara,85,2,1,0,1
+2020-02-06,Santa Clara,85,2,0,0,0
 2020-02-07,Los Angeles,37,1,0,0,0
 2020-02-07,Orange,59,1,0,0,0
 2020-02-07,San Benito,69,2,0,0,0
-2020-02-07,Santa Clara,85,2,1,0,0
+2020-02-07,Santa Clara,85,2,0,0,0
 2020-02-08,Los Angeles,37,1,0,0,0
 2020-02-08,Orange,59,1,0,0,0
 2020-02-08,San Benito,69,2,0,0,0
-2020-02-08,Santa Clara,85,2,1,0,0
+2020-02-08,Santa Clara,85,2,0,0,0
 2020-02-09,Los Angeles,37,1,0,0,0
 2020-02-09,Orange,59,1,0,0,0
 2020-02-09,San Benito,69,2,0,0,0
-2020-02-09,Santa Clara,85,2,1,0,0
+2020-02-09,Santa Clara,85,2,0,0,0
 2020-02-10,Los Angeles,37,1,0,0,0
 2020-02-10,Orange,59,1,0,0,0
 2020-02-10,San Benito,69,2,0,0,0
-2020-02-10,Santa Clara,85,2,1,0,0
+2020-02-10,Santa Clara,85,2,0,0,0
 2020-02-11,Los Angeles,37,1,0,0,0
 2020-02-11,Orange,59,1,0,0,0
 2020-02-11,San Benito,69,2,0,0,0
-2020-02-11,Santa Clara,85,2,1,0,0
+2020-02-11,Santa Clara,85,2,0,0,0
 2020-02-12,Los Angeles,37,1,0,0,0
 2020-02-12,Orange,59,1,0,0,0
 2020-02-12,San Benito,69,2,0,0,0
-2020-02-12,Santa Clara,85,2,1,0,0
+2020-02-12,Santa Clara,85,2,0,0,0
 2020-02-13,Los Angeles,37,1,0,0,0
 2020-02-13,Orange,59,1,0,0,0
 2020-02-13,San Benito,69,2,0,0,0
-2020-02-13,Santa Clara,85,2,1,0,0
+2020-02-13,Santa Clara,85,2,0,0,0
 2020-02-14,Los Angeles,37,1,0,0,0
 2020-02-14,Orange,59,1,0,0,0
 2020-02-14,San Benito,69,2,0,0,0
-2020-02-14,Santa Clara,85,2,1,0,0
+2020-02-14,Santa Clara,85,2,0,0,0
 2020-02-15,Los Angeles,37,1,0,0,0
 2020-02-15,Orange,59,1,0,0,0
 2020-02-15,San Benito,69,2,0,0,0
-2020-02-15,Santa Clara,85,2,1,0,0
+2020-02-15,Santa Clara,85,2,0,0,0
 2020-02-16,Los Angeles,37,1,0,0,0
 2020-02-16,Orange,59,1,0,0,0
 2020-02-16,San Benito,69,2,0,0,0
-2020-02-16,Santa Clara,85,2,1,0,0
+2020-02-16,Santa Clara,85,2,0,0,0
 2020-02-17,Los Angeles,37,1,0,0,0
 2020-02-17,Orange,59,1,0,0,0
 2020-02-17,San Benito,69,2,0,0,0
-2020-02-17,Santa Clara,85,3,2,1,1
+2020-02-17,Santa Clara,85,3,0,1,0
 2020-02-18,Los Angeles,37,1,0,0,0
 2020-02-18,Orange,59,1,0,0,0
 2020-02-18,San Benito,69,2,0,0,0
-2020-02-18,Santa Clara,85,3,2,0,0
+2020-02-18,Santa Clara,85,3,0,0,0
 2020-02-19,Los Angeles,37,1,0,0,0
 2020-02-19,Orange,59,1,0,0,0
 2020-02-19,San Benito,69,2,0,0,0
-2020-02-19,Santa Clara,85,3,2,0,0
+2020-02-19,Santa Clara,85,3,0,0,0
 2020-02-20,Alameda,1,0,0,0,0
 2020-02-20,Calaveras,9,0,0,0,0
 2020-02-20,Contra Costa,13,0,0,0,0
@@ -162,7 +162,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-20,San Diego,73,0,0,0,0
 2020-02-20,San Francisco,75,0,0,0,0
 2020-02-20,San Mateo,81,0,0,0,0
-2020-02-20,Santa Clara,85,3,2,0,0
+2020-02-20,Santa Clara,85,3,0,0,0
 2020-02-20,Santa Cruz,87,0,0,0,0
 2020-02-20,Shasta,89,0,0,0,0
 2020-02-20,Solano,95,0,0,0,0
@@ -184,7 +184,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-21,San Diego,73,0,0,0,0
 2020-02-21,San Francisco,75,0,0,0,0
 2020-02-21,San Mateo,81,0,0,0,0
-2020-02-21,Santa Clara,85,4,2,1,0
+2020-02-21,Santa Clara,85,4,0,1,0
 2020-02-21,Santa Cruz,87,0,0,0,0
 2020-02-21,Shasta,89,0,0,0,0
 2020-02-21,Solano,95,0,0,0,0
@@ -197,25 +197,25 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-22,Orange,59,1,0,0,0
 2020-02-22,Sacramento,67,1,0,0,0
 2020-02-22,San Benito,69,2,0,0,0
-2020-02-22,Santa Clara,85,4,2,0,0
+2020-02-22,Santa Clara,85,4,0,0,0
 2020-02-23,Humboldt,23,1,0,0,0
 2020-02-23,Los Angeles,37,1,0,0,0
 2020-02-23,Orange,59,1,0,0,0
 2020-02-23,Sacramento,67,1,0,0,0
 2020-02-23,San Benito,69,2,0,0,0
-2020-02-23,Santa Clara,85,4,2,0,0
+2020-02-23,Santa Clara,85,4,0,0,0
 2020-02-24,Humboldt,23,1,0,0,0
 2020-02-24,Los Angeles,37,1,0,0,0
 2020-02-24,Orange,59,1,0,0,0
 2020-02-24,Sacramento,67,1,0,0,0
 2020-02-24,San Benito,69,2,0,0,0
-2020-02-24,Santa Clara,85,5,2,1,0
+2020-02-24,Santa Clara,85,5,0,1,0
 2020-02-25,Humboldt,23,1,0,0,0
 2020-02-25,Los Angeles,37,1,0,0,0
 2020-02-25,Orange,59,1,0,0,0
 2020-02-25,Sacramento,67,1,0,0,0
 2020-02-25,San Benito,69,2,0,0,0
-2020-02-25,Santa Clara,85,5,2,0,0
+2020-02-25,Santa Clara,85,5,0,0,0
 2020-02-26,Alameda,1,0,0,0,0
 2020-02-26,Calaveras,9,0,0,0,0
 2020-02-26,Contra Costa,13,0,0,0,0
@@ -230,7 +230,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-26,San Diego,73,0,0,0,0
 2020-02-26,San Francisco,75,0,0,0,0
 2020-02-26,San Mateo,81,0,0,0,0
-2020-02-26,Santa Clara,85,7,2,2,0
+2020-02-26,Santa Clara,85,7,0,2,0
 2020-02-26,Santa Cruz,87,0,0,0,0
 2020-02-26,Shasta,89,0,0,0,0
 2020-02-26,Solano,95,1,0,1,0
@@ -243,7 +243,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-27,Orange,59,1,0,0,0
 2020-02-27,Sacramento,67,1,0,0,0
 2020-02-27,San Benito,69,2,0,0,0
-2020-02-27,Santa Clara,85,7,2,0,0
+2020-02-27,Santa Clara,85,7,0,0,0
 2020-02-27,Solano,95,1,0,0,0
 2020-02-28,Alameda,1,0,0,0,0
 2020-02-28,Calaveras,9,0,0,0,0
@@ -259,7 +259,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-28,San Diego,73,0,0,0,0
 2020-02-28,San Francisco,75,0,0,0,0
 2020-02-28,San Mateo,81,0,0,0,0
-2020-02-28,Santa Clara,85,9,2,2,0
+2020-02-28,Santa Clara,85,9,0,2,0
 2020-02-28,Santa Cruz,87,0,0,0,0
 2020-02-28,Shasta,89,0,0,0,0
 2020-02-28,Solano,95,2,0,1,0
@@ -281,7 +281,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-02-29,San Diego,73,0,0,0,0
 2020-02-29,San Francisco,75,0,0,0,0
 2020-02-29,San Mateo,81,1,0,1,0
-2020-02-29,Santa Clara,85,13,2,4,0
+2020-02-29,Santa Clara,85,13,0,4,0
 2020-02-29,Santa Cruz,87,0,0,0,0
 2020-02-29,Shasta,89,0,0,0,0
 2020-02-29,Solano,95,2,0,0,0
@@ -303,7 +303,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-01,San Diego,73,0,0,0,0
 2020-03-01,San Francisco,75,0,0,0,0
 2020-03-01,San Mateo,81,1,0,0,0
-2020-03-01,Santa Clara,85,13,2,0,0
+2020-03-01,Santa Clara,85,13,0,0,0
 2020-03-01,Santa Cruz,87,0,0,0,0
 2020-03-01,Shasta,89,0,0,0,0
 2020-03-01,Solano,95,3,0,1,0
@@ -325,7 +325,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-02,San Diego,73,0,0,0,0
 2020-03-02,San Francisco,75,0,0,0,0
 2020-03-02,San Mateo,81,2,0,1,0
-2020-03-02,Santa Clara,85,18,2,5,0
+2020-03-02,Santa Clara,85,18,0,5,0
 2020-03-02,Santa Cruz,87,0,0,0,0
 2020-03-02,Shasta,89,0,0,0,0
 2020-03-02,Solano,95,3,0,0,0
@@ -347,7 +347,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-03,San Diego,73,0,0,0,0
 2020-03-03,San Francisco,75,0,0,0,0
 2020-03-03,San Mateo,81,2,0,0,0
-2020-03-03,Santa Clara,85,20,2,2,0
+2020-03-03,Santa Clara,85,20,0,2,0
 2020-03-03,Santa Cruz,87,0,0,0,0
 2020-03-03,Shasta,89,0,0,0,0
 2020-03-03,Solano,95,3,0,0,0
@@ -369,7 +369,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-04,San Diego,73,0,0,0,0
 2020-03-04,San Francisco,75,0,0,0,0
 2020-03-04,San Mateo,81,2,0,0,0
-2020-03-04,Santa Clara,85,24,2,4,0
+2020-03-04,Santa Clara,85,24,0,4,0
 2020-03-04,Santa Cruz,87,0,0,0,0
 2020-03-04,Shasta,89,0,0,0,0
 2020-03-04,Solano,95,3,0,0,0
@@ -391,7 +391,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-05,San Diego,73,0,0,0,0
 2020-03-05,San Francisco,75,2,0,2,0
 2020-03-05,San Mateo,81,2,0,0,0
-2020-03-05,Santa Clara,85,31,2,7,0
+2020-03-05,Santa Clara,85,31,0,7,0
 2020-03-05,Santa Cruz,87,0,0,0,0
 2020-03-05,Shasta,89,0,0,0,0
 2020-03-05,Solano,95,3,0,0,0
@@ -413,7 +413,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-06,San Diego,73,0,0,0,0
 2020-03-06,San Francisco,75,2,0,0,0
 2020-03-06,San Mateo,81,2,0,0,0
-2020-03-06,Santa Clara,85,40,3,9,1
+2020-03-06,Santa Clara,85,40,0,9,0
 2020-03-06,Santa Cruz,87,0,0,0,0
 2020-03-06,Shasta,89,0,0,0,0
 2020-03-06,Solano,95,3,0,0,0
@@ -437,7 +437,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-07,San Diego,73,0,0,0,0
 2020-03-07,San Francisco,75,8,0,6,0
 2020-03-07,San Mateo,81,2,0,0,0
-2020-03-07,Santa Clara,85,49,3,9,0
+2020-03-07,Santa Clara,85,49,0,9,0
 2020-03-07,Santa Cruz,87,1,0,1,0
 2020-03-07,Shasta,89,0,0,0,0
 2020-03-07,Solano,95,3,0,0,0
@@ -461,7 +461,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-08,San Diego,73,1,0,1,0
 2020-03-08,San Francisco,75,8,0,0,0
 2020-03-08,San Mateo,81,2,0,0,0
-2020-03-08,Santa Clara,85,53,3,4,0
+2020-03-08,Santa Clara,85,53,0,4,0
 2020-03-08,Santa Cruz,87,1,0,0,0
 2020-03-08,Shasta,89,1,0,1,0
 2020-03-08,Solano,95,3,0,0,0
@@ -485,7 +485,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-09,San Diego,73,2,0,1,0
 2020-03-09,San Francisco,75,13,0,5,0
 2020-03-09,San Mateo,81,9,0,7,0
-2020-03-09,Santa Clara,85,70,4,17,1
+2020-03-09,Santa Clara,85,70,1,17,1
 2020-03-09,Santa Cruz,87,2,0,1,0
 2020-03-09,Shasta,89,1,0,0,0
 2020-03-09,Solano,95,6,0,3,0
@@ -509,7 +509,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-10,San Diego,73,2,0,0,0
 2020-03-10,San Francisco,75,14,0,1,0
 2020-03-10,San Mateo,81,9,0,0,0
-2020-03-10,Santa Clara,85,85,4,15,0
+2020-03-10,Santa Clara,85,85,1,15,0
 2020-03-10,Santa Cruz,87,2,0,0,0
 2020-03-10,Shasta,89,1,0,0,0
 2020-03-10,Solano,95,6,0,0,0
@@ -534,7 +534,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-11,San Diego,73,4,0,2,0
 2020-03-11,San Francisco,75,14,0,0,0
 2020-03-11,San Mateo,81,15,0,6,0
-2020-03-11,Santa Clara,85,111,4,26,0
+2020-03-11,Santa Clara,85,111,1,26,0
 2020-03-11,Santa Cruz,87,4,0,2,0
 2020-03-11,Shasta,89,1,0,0,0
 2020-03-11,Solano,95,6,0,0,0
@@ -560,7 +560,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-12,San Diego,73,5,0,1,0
 2020-03-12,San Francisco,75,18,0,4,0
 2020-03-12,San Mateo,81,20,0,5,0
-2020-03-12,Santa Clara,85,134,4,23,0
+2020-03-12,Santa Clara,85,134,1,23,0
 2020-03-12,Santa Cruz,87,4,0,0,0
 2020-03-12,Shasta,89,1,0,0,0
 2020-03-12,Solano,95,6,0,0,0
@@ -588,7 +588,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-13,San Francisco,75,23,0,5,0
 2020-03-13,San Joaquin,77,8,0,,
 2020-03-13,San Mateo,81,20,0,0,0
-2020-03-13,Santa Clara,85,180,5,46,1
+2020-03-13,Santa Clara,85,180,2,46,1
 2020-03-13,Santa Cruz,87,7,0,3,0
 2020-03-13,Shasta,89,1,0,0,0
 2020-03-13,Solano,95,6,0,0,0
@@ -617,7 +617,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-14,San Joaquin,77,8,0,0,0
 2020-03-14,San Luis Obispo,79,1,0,,
 2020-03-14,San Mateo,81,32,0,12,0
-2020-03-14,Santa Clara,85,223,5,43,0
+2020-03-14,Santa Clara,85,223,2,43,0
 2020-03-14,Santa Cruz,87,7,0,0,0
 2020-03-14,Shasta,89,1,0,0,0
 2020-03-14,Solano,95,6,0,0,0
@@ -648,7 +648,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-15,San Luis Obispo,79,2,0,1,0
 2020-03-15,San Mateo,81,32,1,0,1
 2020-03-15,Santa Barbara,83,1,0,,
-2020-03-15,Santa Clara,85,255,7,32,2
+2020-03-15,Santa Clara,85,255,2,32,0
 2020-03-15,Santa Cruz,87,7,0,0,0
 2020-03-15,Shasta,89,1,0,0,0
 2020-03-15,Solano,95,6,0,0,0
@@ -680,7 +680,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-16,San Luis Obispo,79,3,0,1,0
 2020-03-16,San Mateo,81,42,1,10,0
 2020-03-16,Santa Barbara,83,1,0,0,0
-2020-03-16,Santa Clara,85,290,7,35,0
+2020-03-16,Santa Clara,85,290,4,35,2
 2020-03-16,Santa Cruz,87,9,0,2,0
 2020-03-16,Shasta,89,1,0,0,0
 2020-03-16,Solano,95,9,0,3,0
@@ -714,7 +714,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-17,San Luis Obispo,79,6,0,3,0
 2020-03-17,San Mateo,81,64,1,22,0
 2020-03-17,Santa Barbara,83,2,0,1,0
-2020-03-17,Santa Clara,85,337,10,47,3
+2020-03-17,Santa Clara,85,337,5,47,1
 2020-03-17,Santa Cruz,87,13,0,4,0
 2020-03-17,Shasta,89,1,0,0,0
 2020-03-17,Solano,95,8,0,-1,0
@@ -749,7 +749,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-18,San Luis Obispo,79,7,0,1,0
 2020-03-18,San Mateo,81,80,1,16,0
 2020-03-18,Santa Barbara,83,3,0,1,0
-2020-03-18,Santa Clara,85,390,10,53,0
+2020-03-18,Santa Clara,85,390,6,53,1
 2020-03-18,Santa Cruz,87,13,0,0,0
 2020-03-18,Shasta,89,1,0,0,0
 2020-03-18,Solano,95,8,0,0,0
@@ -784,7 +784,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-19,San Luis Obispo,79,13,0,6,0
 2020-03-19,San Mateo,81,89,1,9,0
 2020-03-19,Santa Barbara,83,8,0,5,0
-2020-03-19,Santa Clara,85,442,10,52,0
+2020-03-19,Santa Clara,85,442,6,52,0
 2020-03-19,Santa Cruz,87,14,0,1,0
 2020-03-19,Shasta,89,1,0,0,0
 2020-03-19,Solano,95,10,0,2,0
@@ -820,7 +820,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-20,San Luis Obispo,79,16,0,3,0
 2020-03-20,San Mateo,81,100,1,11,0
 2020-03-20,Santa Barbara,83,9,0,1,0
-2020-03-20,Santa Clara,85,504,12,62,2
+2020-03-20,Santa Clara,85,504,8,62,2
 2020-03-20,Santa Cruz,87,15,0,1,0
 2020-03-20,Shasta,89,1,0,0,0
 2020-03-20,Solano,95,13,0,3,0
@@ -858,7 +858,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-21,San Luis Obispo,79,21,0,5,0
 2020-03-21,San Mateo,81,110,1,10,0
 2020-03-21,Santa Barbara,83,13,0,4,0
-2020-03-21,Santa Clara,85,543,14,39,2
+2020-03-21,Santa Clara,85,543,8,39,0
 2020-03-21,Santa Cruz,87,15,0,0,0
 2020-03-21,Shasta,89,1,0,0,0
 2020-03-21,Siskiyou,93,2,0,,
@@ -900,7 +900,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-22,San Luis Obispo,79,27,0,6,0
 2020-03-22,San Mateo,81,117,1,7,0
 2020-03-22,Santa Barbara,83,18,0,5,0
-2020-03-22,Santa Clara,85,581,16,38,2
+2020-03-22,Santa Clara,85,581,10,38,2
 2020-03-22,Santa Cruz,87,15,0,0,0
 2020-03-22,Shasta,89,2,0,1,0
 2020-03-22,Siskiyou,93,2,0,0,0
@@ -942,7 +942,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-23,San Luis Obispo,79,33,0,6,0
 2020-03-23,San Mateo,81,142,1,25,0
 2020-03-23,Santa Barbara,83,18,0,0,0
-2020-03-23,Santa Clara,85,655,20,74,4
+2020-03-23,Santa Clara,85,655,13,74,3
 2020-03-23,Santa Cruz,87,22,0,7,0
 2020-03-23,Shasta,89,3,0,1,0
 2020-03-23,Siskiyou,93,3,0,1,0
@@ -984,7 +984,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-24,San Luis Obispo,79,42,0,9,0
 2020-03-24,San Mateo,81,161,2,19,1
 2020-03-24,Santa Barbara,83,24,0,6,0
-2020-03-24,Santa Clara,85,724,21,69,1
+2020-03-24,Santa Clara,85,724,16,69,3
 2020-03-24,Santa Cruz,87,24,0,2,0
 2020-03-24,Shasta,89,3,0,0,0
 2020-03-24,Siskiyou,93,3,0,0,0
@@ -1027,7 +1027,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-25,San Luis Obispo,79,46,0,4,0
 2020-03-25,San Mateo,81,165,5,4,3
 2020-03-25,Santa Barbara,83,26,0,2,0
-2020-03-25,Santa Clara,85,801,28,77,7
+2020-03-25,Santa Clara,85,801,19,77,3
 2020-03-25,Santa Cruz,87,25,0,1,0
 2020-03-25,Shasta,89,3,1,0,1
 2020-03-25,Siskiyou,93,3,0,0,0
@@ -1071,7 +1071,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-26,San Luis Obispo,79,54,0,8,0
 2020-03-26,San Mateo,81,195,5,30,0
 2020-03-26,Santa Barbara,83,32,0,6,0
-2020-03-26,Santa Clara,85,875,28,74,0
+2020-03-26,Santa Clara,85,875,19,74,0
 2020-03-26,Santa Cruz,87,32,0,7,0
 2020-03-26,Shasta,89,3,1,0,0
 2020-03-26,Siskiyou,93,3,0,0,0
@@ -1118,7 +1118,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-27,San Luis Obispo,79,59,0,5,0
 2020-03-27,San Mateo,81,239,6,44,1
 2020-03-27,Santa Barbara,83,47,0,15,0
-2020-03-27,Santa Clara,85,937,29,62,1
+2020-03-27,Santa Clara,85,937,20,62,1
 2020-03-27,Santa Cruz,87,34,0,2,0
 2020-03-27,Shasta,89,3,1,0,0
 2020-03-27,Siskiyou,93,3,0,0,0
@@ -1165,7 +1165,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-28,San Luis Obispo,79,67,0,8,0
 2020-03-28,San Mateo,81,274,6,35,0
 2020-03-28,Santa Barbara,83,64,0,17,0
-2020-03-28,Santa Clara,85,978,31,41,2
+2020-03-28,Santa Clara,85,978,25,41,5
 2020-03-28,Santa Cruz,87,39,0,5,0
 2020-03-28,Shasta,89,4,1,1,0
 2020-03-28,Siskiyou,93,3,0,0,0
@@ -1212,7 +1212,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-29,San Luis Obispo,79,71,0,4,0
 2020-03-29,San Mateo,81,277,6,3,0
 2020-03-29,Santa Barbara,83,68,0,4,0
-2020-03-29,Santa Clara,85,1001,33,23,2
+2020-03-29,Santa Clara,85,1001,25,23,0
 2020-03-29,Santa Cruz,87,44,1,5,1
 2020-03-29,Shasta,89,4,1,0,0
 2020-03-29,Siskiyou,93,3,0,0,0
@@ -1260,7 +1260,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-30,San Luis Obispo,79,77,0,6,0
 2020-03-30,San Mateo,81,309,10,32,4
 2020-03-30,Santa Barbara,83,88,0,20,0
-2020-03-30,Santa Clara,85,1079,35,78,2
+2020-03-30,Santa Clara,85,1079,28,78,3
 2020-03-30,Santa Cruz,87,45,1,1,0
 2020-03-30,Shasta,89,6,1,2,0
 2020-03-30,Siskiyou,93,3,0,0,0
@@ -1310,7 +1310,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-31,San Luis Obispo,79,80,0,3,0
 2020-03-31,San Mateo,81,388,10,79,0
 2020-03-31,Santa Barbara,83,99,0,11,0
-2020-03-31,Santa Clara,85,1135,36,56,1
+2020-03-31,Santa Clara,85,1135,30,56,2
 2020-03-31,Santa Cruz,87,49,1,4,0
 2020-03-31,Shasta,89,7,1,1,0
 2020-03-31,Siskiyou,93,3,0,0,0
@@ -1360,7 +1360,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-01,San Luis Obispo,79,83,0,3,0
 2020-04-01,San Mateo,81,388,10,0,0
 2020-04-01,Santa Barbara,83,111,1,12,1
-2020-04-01,Santa Clara,85,1189,39,54,3
+2020-04-01,Santa Clara,85,1189,32,54,2
 2020-04-01,Santa Cruz,87,54,1,5,0
 2020-04-01,Shasta,89,7,1,0,0
 2020-04-01,Siskiyou,93,3,0,0,0
@@ -1412,7 +1412,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-02,San Luis Obispo,79,89,0,6,0
 2020-04-02,San Mateo,81,453,10,65,0
 2020-04-02,Santa Barbara,83,139,1,28,0
-2020-04-02,Santa Clara,85,1246,41,57,2
+2020-04-02,Santa Clara,85,1246,36,57,4
 2020-04-02,Santa Cruz,87,57,1,3,0
 2020-04-02,Shasta,89,11,1,4,0
 2020-04-02,Siskiyou,93,3,0,0,0
@@ -1464,7 +1464,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-03,San Luis Obispo,79,93,0,4,0
 2020-04-03,San Mateo,81,486,13,33,3
 2020-04-03,Santa Barbara,83,152,1,13,0
-2020-04-03,Santa Clara,85,1286,42,40,1
+2020-04-03,Santa Clara,85,1286,38,40,2
 2020-04-03,Santa Cruz,87,59,1,2,0
 2020-04-03,Shasta,89,12,2,1,1
 2020-04-03,Siskiyou,93,3,0,0,0
@@ -1516,7 +1516,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-04,San Luis Obispo,79,93,0,0,0
 2020-04-04,San Mateo,81,538,13,52,0
 2020-04-04,Santa Barbara,83,168,1,16,0
-2020-04-04,Santa Clara,85,1317,42,31,0
+2020-04-04,Santa Clara,85,1317,39,31,1
 2020-04-04,Santa Cruz,87,62,1,3,0
 2020-04-04,Shasta,89,17,2,5,0
 2020-04-04,Siskiyou,93,3,0,0,0
@@ -1569,7 +1569,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-05,San Luis Obispo,79,95,1,2,1
 2020-04-05,San Mateo,81,555,13,17,0
 2020-04-05,Santa Barbara,83,174,2,6,1
-2020-04-05,Santa Clara,85,1359,45,42,3
+2020-04-05,Santa Clara,85,1359,39,42,0
 2020-04-05,Santa Cruz,87,69,1,7,0
 2020-04-05,Shasta,89,20,3,3,1
 2020-04-05,Siskiyou,93,3,0,0,0
@@ -1622,7 +1622,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-06,San Luis Obispo,79,95,1,0,0
 2020-04-06,San Mateo,81,579,13,24,0
 2020-04-06,Santa Barbara,83,192,2,18,0
-2020-04-06,Santa Clara,85,1413,46,54,1
+2020-04-06,Santa Clara,85,1413,42,54,3
 2020-04-06,Santa Cruz,87,71,1,2,0
 2020-04-06,Shasta,89,21,3,1,0
 2020-04-06,Siskiyou,93,4,0,1,0
@@ -1675,7 +1675,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-07,San Luis Obispo,79,99,1,4,0
 2020-04-07,San Mateo,81,589,21,10,8
 2020-04-07,Santa Barbara,83,218,2,26,0
-2020-04-07,Santa Clara,85,1453,48,40,2
+2020-04-07,Santa Clara,85,1453,43,40,1
 2020-04-07,Santa Cruz,87,76,1,5,0
 2020-04-07,Shasta,89,23,3,2,0
 2020-04-07,Siskiyou,93,4,0,0,0
@@ -1728,7 +1728,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-08,San Luis Obispo,79,102,1,3,0
 2020-04-08,San Mateo,81,617,21,28,0
 2020-04-08,Santa Barbara,83,228,2,10,0
-2020-04-08,Santa Clara,85,1528,50,75,2
+2020-04-08,Santa Clara,85,1528,46,75,3
 2020-04-08,Santa Cruz,87,76,1,0,0
 2020-04-08,Shasta,89,24,3,1,0
 2020-04-08,Siskiyou,93,4,0,0,0
@@ -1781,7 +1781,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-09,San Luis Obispo,79,104,1,2,0
 2020-04-09,San Mateo,81,633,21,16,0
 2020-04-09,Santa Barbara,83,243,2,15,0
-2020-04-09,Santa Clara,85,1595,54,67,4
+2020-04-09,Santa Clara,85,1595,47,67,1
 2020-04-09,Santa Cruz,87,80,1,4,0
 2020-04-09,Shasta,89,24,3,0,0
 2020-04-09,Siskiyou,93,4,0,0,0
@@ -1834,7 +1834,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-10,San Luis Obispo,79,107,1,3,0
 2020-04-10,San Mateo,81,638,21,5,0
 2020-04-10,Santa Barbara,83,260,2,17,0
-2020-04-10,Santa Clara,85,1674,55,79,1
+2020-04-10,Santa Clara,85,1674,50,79,3
 2020-04-10,Santa Cruz,87,82,1,2,0
 2020-04-10,Shasta,89,24,3,0,0
 2020-04-10,Siskiyou,93,5,0,1,0
@@ -1887,7 +1887,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-11,San Luis Obispo,79,110,1,3,0
 2020-04-11,San Mateo,81,652,21,14,0
 2020-04-11,Santa Barbara,83,264,2,4,0
-2020-04-11,Santa Clara,85,1715,61,41,6
+2020-04-11,Santa Clara,85,1715,51,41,1
 2020-04-11,Santa Cruz,87,82,1,0,0
 2020-04-11,Shasta,89,24,3,0,0
 2020-04-11,Siskiyou,93,5,0,0,0
@@ -1940,7 +1940,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-12,San Luis Obispo,79,114,1,4,0
 2020-04-12,San Mateo,81,652,21,0,0
 2020-04-12,Santa Barbara,83,267,2,3,0
-2020-04-12,Santa Clara,85,1741,67,26,6
+2020-04-12,Santa Clara,85,1741,54,26,3
 2020-04-12,Santa Cruz,87,88,1,6,0
 2020-04-12,Shasta,89,24,3,0,0
 2020-04-12,Siskiyou,93,5,0,0,0
@@ -1993,7 +1993,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-13,San Luis Obispo,79,117,1,3,0
 2020-04-13,San Mateo,81,701,21,49,0
 2020-04-13,Santa Barbara,83,284,2,17,0
-2020-04-13,Santa Clara,85,1779,68,38,1
+2020-04-13,Santa Clara,85,1779,60,38,6
 2020-04-13,Santa Cruz,87,91,1,3,0
 2020-04-13,Shasta,89,25,3,1,0
 2020-04-13,Siskiyou,93,5,0,0,0
@@ -2046,7 +2046,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-14,San Luis Obispo,79,120,1,3,0
 2020-04-14,San Mateo,81,747,21,46,0
 2020-04-14,Santa Barbara,83,313,2,29,0
-2020-04-14,Santa Clara,85,1820,70,41,2
+2020-04-14,Santa Clara,85,1820,60,41,0
 2020-04-14,Santa Cruz,87,91,2,0,1
 2020-04-14,Shasta,89,25,3,0,0
 2020-04-14,Siskiyou,93,5,0,0,0
@@ -2099,7 +2099,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-15,San Luis Obispo,79,124,1,4,0
 2020-04-15,San Mateo,81,767,28,20,7
 2020-04-15,Santa Barbara,83,334,2,21,0
-2020-04-15,Santa Clara,85,1843,74,23,4
+2020-04-15,Santa Clara,85,1843,65,23,5
 2020-04-15,Santa Cruz,87,96,2,5,0
 2020-04-15,Shasta,89,25,3,0,0
 2020-04-15,Siskiyou,93,5,0,0,0
@@ -2152,7 +2152,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-16,San Luis Obispo,79,125,1,1,0
 2020-04-16,San Mateo,81,797,28,30,0
 2020-04-16,Santa Barbara,83,354,3,20,1
-2020-04-16,Santa Clara,85,1863,77,20,3
+2020-04-16,Santa Clara,85,1863,69,20,4
 2020-04-16,Santa Cruz,87,96,2,0,0
 2020-04-16,Shasta,89,26,3,1,0
 2020-04-16,Siskiyou,93,5,0,0,0
@@ -2205,7 +2205,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-17,San Luis Obispo,79,127,1,2,0
 2020-04-17,San Mateo,81,838,28,41,0
 2020-04-17,Santa Barbara,83,373,3,19,0
-2020-04-17,Santa Clara,85,1899,82,36,5
+2020-04-17,Santa Clara,85,1899,73,36,4
 2020-04-17,Santa Cruz,87,98,2,2,0
 2020-04-17,Shasta,89,26,3,0,0
 2020-04-17,Siskiyou,93,5,0,0,0
@@ -2258,7 +2258,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Luis Obispo,79,131,1,4,0
 2020-04-18,San Mateo,81,838,28,0,0
 2020-04-18,Santa Barbara,83,385,4,12,1
-2020-04-18,Santa Clara,85,1909,86,10,4
+2020-04-18,Santa Clara,85,1909,73,10,0
 2020-04-18,Santa Cruz,87,101,2,3,0
 2020-04-18,Shasta,89,26,3,0,0
 2020-04-18,Siskiyou,93,5,0,0,0
@@ -2311,7 +2311,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-19,San Luis Obispo,79,132,1,1,0
 2020-04-19,San Mateo,81,838,28,0,0
 2020-04-19,Santa Barbara,83,394,4,9,0
-2020-04-19,Santa Clara,85,1921,88,12,2
+2020-04-19,Santa Clara,85,1921,73,12,0
 2020-04-19,Santa Cruz,87,104,2,3,0
 2020-04-19,Shasta,89,26,3,0,0
 2020-04-19,Siskiyou,93,5,0,0,0
@@ -2364,7 +2364,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-20,San Luis Obispo,79,132,1,0,0
 2020-04-20,San Mateo,81,920,28,82,0
 2020-04-20,Santa Barbara,83,416,4,22,0
-2020-04-20,Santa Clara,85,1932,93,11,5
+2020-04-20,Santa Clara,85,1932,83,11,10
 2020-04-20,Santa Cruz,87,106,2,2,0
 2020-04-20,Shasta,89,26,3,0,0
 2020-04-20,Siskiyou,93,5,0,0,0
@@ -2417,7 +2417,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-21,San Luis Obispo,79,134,1,2,0
 2020-04-21,San Mateo,81,935,28,15,0
 2020-04-21,Santa Barbara,83,429,5,13,1
-2020-04-21,Santa Clara,85,1934,96,2,3
+2020-04-21,Santa Clara,85,1934,88,2,5
 2020-04-21,Santa Cruz,87,108,2,2,0
 2020-04-21,Shasta,89,26,3,0,0
 2020-04-21,Siskiyou,93,5,0,0,0
@@ -2470,7 +2470,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-22,San Luis Obispo,79,142,1,8,0
 2020-04-22,San Mateo,81,958,39,23,11
 2020-04-22,Santa Barbara,83,440,5,11,0
-2020-04-22,Santa Clara,85,1962,99,28,3
+2020-04-22,Santa Clara,85,1962,94,28,6
 2020-04-22,Santa Cruz,87,111,2,3,0
 2020-04-22,Shasta,89,27,3,1,0
 2020-04-22,Siskiyou,93,5,0,0,0
@@ -2523,7 +2523,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-23,San Luis Obispo,79,149,1,7,0
 2020-04-23,San Mateo,81,966,39,8,0
 2020-04-23,Santa Barbara,83,451,5,11,0
-2020-04-23,Santa Clara,85,1987,100,25,1
+2020-04-23,Santa Clara,85,1987,95,25,1
 2020-04-23,Santa Cruz,87,114,2,3,0
 2020-04-23,Shasta,89,28,3,1,0
 2020-04-23,Siskiyou,93,5,0,0,0
@@ -2576,7 +2576,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-24,San Luis Obispo,79,163,1,14,0
 2020-04-24,San Mateo,81,989,41,23,2
 2020-04-24,Santa Barbara,83,460,6,9,1
-2020-04-24,Santa Clara,85,2018,101,31,1
+2020-04-24,Santa Clara,85,2018,98,31,3
 2020-04-24,Santa Cruz,87,115,2,1,0
 2020-04-24,Shasta,89,30,4,2,1
 2020-04-24,Siskiyou,93,5,0,0,0
@@ -2629,7 +2629,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-25,San Luis Obispo,79,165,1,2,0
 2020-04-25,San Mateo,81,1019,41,30,0
 2020-04-25,Santa Barbara,83,469,7,9,1
-2020-04-25,Santa Clara,85,2040,102,22,1
+2020-04-25,Santa Clara,85,2040,99,22,1
 2020-04-25,Santa Cruz,87,115,2,0,0
 2020-04-25,Shasta,89,30,4,0,0
 2020-04-25,Siskiyou,93,5,0,0,0
@@ -2682,7 +2682,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-26,San Luis Obispo,79,166,1,1,0
 2020-04-26,San Mateo,81,1019,41,0,0
 2020-04-26,Santa Barbara,83,471,7,2,0
-2020-04-26,Santa Clara,85,2084,105,44,3
+2020-04-26,Santa Clara,85,2084,100,44,1
 2020-04-26,Santa Cruz,87,120,2,5,0
 2020-04-26,Shasta,89,30,4,0,0
 2020-04-26,Siskiyou,93,5,0,0,0
@@ -2735,7 +2735,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-27,San Luis Obispo,79,169,1,3,0
 2020-04-27,San Mateo,81,1080,41,61,0
 2020-04-27,Santa Barbara,83,473,7,2,0
-2020-04-27,Santa Clara,85,2105,107,21,2
+2020-04-27,Santa Clara,85,2105,103,21,3
 2020-04-27,Santa Cruz,87,124,2,4,0
 2020-04-27,Shasta,89,30,4,0,0
 2020-04-27,Siskiyou,93,5,0,0,0
@@ -2789,7 +2789,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-28,San Luis Obispo,79,173,1,4,0
 2020-04-28,San Mateo,81,1099,48,19,7
 2020-04-28,Santa Barbara,83,477,7,4,0
-2020-04-28,Santa Clara,85,2122,109,17,2
+2020-04-28,Santa Clara,85,2122,106,17,3
 2020-04-28,Santa Cruz,87,125,2,1,0
 2020-04-28,Shasta,89,31,4,1,0
 2020-04-28,Siskiyou,93,5,0,0,0
@@ -2845,7 +2845,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-29,San Luis Obispo,79,181,1,8,0
 2020-04-29,San Mateo,81,1136,48,37,0
 2020-04-29,Santa Barbara,83,485,8,8,1
-2020-04-29,Santa Clara,85,2134,111,12,2
+2020-04-29,Santa Clara,85,2134,107,12,1
 2020-04-29,Santa Cruz,87,127,2,2,0
 2020-04-29,Shasta,89,31,4,0,0
 2020-04-29,Sierra,91,0,0,,
@@ -2903,7 +2903,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-30,San Luis Obispo,79,184,1,3,0
 2020-04-30,San Mateo,81,1177,48,41,0
 2020-04-30,Santa Barbara,83,496,8,11,0
-2020-04-30,Santa Clara,85,2163,113,29,2
+2020-04-30,Santa Clara,85,2163,111,29,4
 2020-04-30,Santa Cruz,87,131,2,4,0
 2020-04-30,Shasta,89,31,4,0,0
 2020-04-30,Sierra,91,0,0,0,0
@@ -2961,7 +2961,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,San Luis Obispo,79,188,1,4,0
 2020-05-01,San Mateo,81,1197,51,20,3
 2020-05-01,Santa Barbara,83,506,8,10,0
-2020-05-01,Santa Clara,85,2179,115,16,2
+2020-05-01,Santa Clara,85,2179,113,16,2
 2020-05-01,Santa Cruz,87,132,2,1,0
 2020-05-01,Shasta,89,31,4,0,0
 2020-05-01,Sierra,91,0,0,0,0
@@ -3019,7 +3019,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-02,San Luis Obispo,79,196,1,8,0
 2020-05-02,San Mateo,81,1233,51,36,0
 2020-05-02,Santa Barbara,83,508,8,2,0
-2020-05-02,Santa Clara,85,2204,118,25,3
+2020-05-02,Santa Clara,85,2204,114,25,1
 2020-05-02,Santa Cruz,87,134,2,2,0
 2020-05-02,Shasta,89,31,4,0,0
 2020-05-02,Sierra,91,0,0,0,0
@@ -3077,7 +3077,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-03,San Luis Obispo,79,201,1,5,0
 2020-05-03,San Mateo,81,1233,51,0,0
 2020-05-03,Santa Barbara,83,514,8,6,0
-2020-05-03,Santa Clara,85,2231,120,27,2
+2020-05-03,Santa Clara,85,2231,115,27,1
 2020-05-03,Santa Cruz,87,137,2,3,0
 2020-05-03,Shasta,89,31,4,0,0
 2020-05-03,Sierra,91,0,0,0,0
@@ -3135,7 +3135,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-04,San Luis Obispo,79,202,1,1,0
 2020-05-04,San Mateo,81,1281,51,48,0
 2020-05-04,Santa Barbara,83,526,8,12,0
-2020-05-04,Santa Clara,85,2244,124,13,4
+2020-05-04,Santa Clara,85,2244,117,13,2
 2020-05-04,Santa Cruz,87,137,2,0,0
 2020-05-04,Shasta,89,31,4,0,0
 2020-05-04,Sierra,91,0,0,0,0
@@ -3193,7 +3193,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-05,San Luis Obispo,79,204,1,2,0
 2020-05-05,San Mateo,81,1315,56,34,5
 2020-05-05,Santa Barbara,83,544,9,18,1
-2020-05-05,Santa Clara,85,2255,124,11,0
+2020-05-05,Santa Clara,85,2255,121,11,4
 2020-05-05,Santa Cruz,87,138,2,1,0
 2020-05-05,Shasta,89,31,4,0,0
 2020-05-05,Sierra,91,0,0,0,0
@@ -3251,7 +3251,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-06,San Luis Obispo,79,208,1,4,0
 2020-05-06,San Mateo,81,1341,56,26,0
 2020-05-06,Santa Barbara,83,613,9,69,0
-2020-05-06,Santa Clara,85,2268,126,13,2
+2020-05-06,Santa Clara,85,2268,126,13,5
 2020-05-06,Santa Cruz,87,138,2,0,0
 2020-05-06,Shasta,89,31,4,0,0
 2020-05-06,Sierra,91,0,0,0,0
@@ -3309,7 +3309,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-07,San Luis Obispo,79,211,1,3,0
 2020-05-07,San Mateo,81,1377,56,36,0
 2020-05-07,Santa Barbara,83,722,10,109,1
-2020-05-07,Santa Clara,85,2281,126,13,0
+2020-05-07,Santa Clara,85,2281,127,13,1
 2020-05-07,Santa Cruz,87,139,2,1,0
 2020-05-07,Shasta,89,31,4,0,0
 2020-05-07,Sierra,91,0,0,0,0
@@ -3367,7 +3367,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-08,San Luis Obispo,79,212,1,1,0
 2020-05-08,San Mateo,81,1397,56,20,0
 2020-05-08,Santa Barbara,83,1032,11,310,1
-2020-05-08,Santa Clara,85,2290,127,9,1
+2020-05-08,Santa Clara,85,2290,128,9,1
 2020-05-08,Santa Cruz,87,140,2,1,0
 2020-05-08,Shasta,89,31,4,0,0
 2020-05-08,Sierra,91,0,0,0,0
@@ -3425,7 +3425,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-09,San Luis Obispo,79,214,1,2,0
 2020-05-09,San Mateo,81,1425,56,28,0
 2020-05-09,Santa Barbara,83,1250,11,218,0
-2020-05-09,Santa Clara,85,2307,128,17,1
+2020-05-09,Santa Clara,85,2307,128,17,0
 2020-05-09,Santa Cruz,87,141,2,1,0
 2020-05-09,Shasta,89,31,4,0,0
 2020-05-09,Sierra,91,0,0,0,0
@@ -3483,7 +3483,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-10,San Luis Obispo,79,220,1,6,0
 2020-05-10,San Mateo,81,1425,56,0,0
 2020-05-10,Santa Barbara,83,1308,11,58,0
-2020-05-10,Santa Clara,85,2339,128,32,0
+2020-05-10,Santa Clara,85,2339,129,32,1
 2020-05-10,Santa Cruz,87,141,2,0,0
 2020-05-10,Shasta,89,31,4,0,0
 2020-05-10,Sierra,91,0,0,0,0
@@ -3541,7 +3541,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-11,San Luis Obispo,79,226,1,6,0
 2020-05-11,San Mateo,81,1464,56,39,0
 2020-05-11,Santa Barbara,83,1362,11,54,0
-2020-05-11,Santa Clara,85,2341,130,2,2
+2020-05-11,Santa Clara,85,2341,129,2,0
 2020-05-11,Santa Cruz,87,141,2,0,0
 2020-05-11,Shasta,89,32,4,1,0
 2020-05-11,Sierra,91,0,0,0,0
@@ -3599,7 +3599,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-12,San Luis Obispo,79,227,1,1,0
 2020-05-12,San Mateo,81,1497,65,33,9
 2020-05-12,Santa Barbara,83,1371,11,9,0
-2020-05-12,Santa Clara,85,2364,131,23,1
+2020-05-12,Santa Clara,85,2364,130,23,1
 2020-05-12,Santa Cruz,87,146,2,5,0
 2020-05-12,Shasta,89,32,4,0,0
 2020-05-12,Sierra,91,0,0,0,0
@@ -3657,7 +3657,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-13,San Luis Obispo,79,232,1,5,0
 2020-05-13,San Mateo,81,1515,65,18,0
 2020-05-13,Santa Barbara,83,1376,11,5,0
-2020-05-13,Santa Clara,85,2381,132,17,1
+2020-05-13,Santa Clara,85,2381,132,17,2
 2020-05-13,Santa Cruz,87,146,2,0,0
 2020-05-13,Shasta,89,32,4,0,0
 2020-05-13,Sierra,91,0,0,0,0
@@ -3715,7 +3715,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-14,San Luis Obispo,79,237,1,5,0
 2020-05-14,San Mateo,81,1536,65,21,0
 2020-05-14,Santa Barbara,83,1387,11,11,0
-2020-05-14,Santa Clara,85,2391,133,10,1
+2020-05-14,Santa Clara,85,2391,134,10,2
 2020-05-14,Santa Cruz,87,149,2,3,0
 2020-05-14,Shasta,89,33,4,1,0
 2020-05-14,Sierra,91,0,0,0,0
@@ -3773,7 +3773,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-15,San Luis Obispo,79,240,1,3,0
 2020-05-15,San Mateo,81,1575,66,39,1
 2020-05-15,Santa Barbara,83,1402,11,15,0
-2020-05-15,Santa Clara,85,2403,134,12,1
+2020-05-15,Santa Clara,85,2403,135,12,1
 2020-05-15,Santa Cruz,87,149,2,0,0
 2020-05-15,Shasta,89,33,4,0,0
 2020-05-15,Sierra,91,0,0,0,0
@@ -3831,7 +3831,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-16,San Luis Obispo,79,243,1,3,0
 2020-05-16,San Mateo,81,1602,66,27,0
 2020-05-16,Santa Barbara,83,1418,11,16,0
-2020-05-16,Santa Clara,85,2418,135,15,1
+2020-05-16,Santa Clara,85,2418,135,15,0
 2020-05-16,Santa Cruz,87,157,2,8,0
 2020-05-16,Shasta,89,34,4,1,0
 2020-05-16,Sierra,91,0,0,0,0
@@ -4210,7 +4210,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-23,Imperial,25,1145,23,0,0
 2020-05-23,Inyo,27,19,1,0,0
 2020-05-23,Kern,29,1757,29,62,2
-2020-05-23,Kings,31,517,2,11,0
+2020-05-23,Kings,31,506,2,0,0
 2020-05-23,Lake,33,12,0,0,0
 2020-05-23,Lassen,35,2,0,0,0
 2020-05-23,Los Angeles,37,44121,2092,1036,41
@@ -4234,16 +4234,16 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-23,San Diego,73,6559,249,125,7
 2020-05-23,San Francisco,75,2350,40,30,0
 2020-05-23,San Joaquin,77,752,33,0,0
-2020-05-23,San Luis Obispo,79,258,1,5,0
+2020-05-23,San Luis Obispo,79,259,1,6,0
 2020-05-23,San Mateo,81,1833,76,50,0
 2020-05-23,Santa Barbara,83,1551,12,0,0
 2020-05-23,Santa Clara,85,2571,139,25,1
 2020-05-23,Santa Cruz,87,192,2,6,0
 2020-05-23,Shasta,89,36,4,0,0
-2020-05-23,Sierra,91,1,0,0,0
+2020-05-23,Sierra,91,0,0,-1,0
 2020-05-23,Siskiyou,93,6,0,0,0
 2020-05-23,Solano,95,455,20,0,0
-2020-05-23,Sonoma,97,482,4,15,0
+2020-05-23,Sonoma,97,467,4,0,0
 2020-05-23,Stanislaus,99,629,28,8,0
 2020-05-23,Sutter,101,40,2,0,0
 2020-05-23,Tehama,103,3,1,0,0
@@ -4253,119 +4253,3 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-23,Ventura,111,912,30,0,0
 2020-05-23,Yolo,113,190,22,2,0
 2020-05-23,Yuba,115,28,1,0,0
-2020-05-24,Alameda,1,2847,93,80,1
-2020-05-24,Alpine,3,1,0,0,0
-2020-05-24,Amador,5,10,0,0,0
-2020-05-24,Butte,7,34,0,0,0
-2020-05-24,Calaveras,9,13,0,0,0
-2020-05-24,Colusa,11,5,0,0,0
-2020-05-24,Contra Costa,13,1321,36,25,0
-2020-05-24,Del Norte,15,23,0,0,0
-2020-05-24,El Dorado,17,74,0,0,0
-2020-05-24,Fresno,19,1482,22,34,0
-2020-05-24,Glenn,21,12,0,0,0
-2020-05-24,Humboldt,23,93,2,0,0
-2020-05-24,Imperial,25,1145,23,0,0
-2020-05-24,Inyo,27,19,1,0,0
-2020-05-24,Kern,29,1824,29,67,0
-2020-05-24,Kings,31,647,2,130,0
-2020-05-24,Lake,33,12,0,0,0
-2020-05-24,Lassen,35,4,0,2,0
-2020-05-24,Los Angeles,37,45034,2108,913,16
-2020-05-24,Madera,39,84,2,0,0
-2020-05-24,Marin,41,403,14,15,0
-2020-05-24,Mariposa,43,15,1,0,0
-2020-05-24,Mendocino,45,21,0,0,0
-2020-05-24,Merced,47,261,6,10,0
-2020-05-24,Modoc,49,0,0,0,0
-2020-05-24,Mono,51,34,1,0,0
-2020-05-24,Monterey,53,403,8,8,0
-2020-05-24,Napa,55,101,3,0,0
-2020-05-24,Nevada,57,41,1,0,0
-2020-05-24,Orange,59,5336,131,179,1
-2020-05-24,Placer,61,184,9,-1,0
-2020-05-24,Plumas,63,4,0,0,0
-2020-05-24,Riverside,65,6464,290,0,0
-2020-05-24,Sacramento,67,1293,56,4,0
-2020-05-24,San Benito,69,70,2,1,0
-2020-05-24,San Bernardino,71,4365,176,50,0
-2020-05-24,San Diego,73,6701,249,142,0
-2020-05-24,San Francisco,75,2367,40,17,0
-2020-05-24,San Joaquin,77,752,33,0,0
-2020-05-24,San Luis Obispo,79,258,1,0,0
-2020-05-24,San Mateo,81,1833,76,0,0
-2020-05-24,Santa Barbara,83,1551,12,0,0
-2020-05-24,Santa Clara,85,2617,139,46,0
-2020-05-24,Santa Cruz,87,192,2,0,0
-2020-05-24,Shasta,89,36,4,0,0
-2020-05-24,Sierra,91,1,0,0,0
-2020-05-24,Siskiyou,93,6,0,0,0
-2020-05-24,Solano,95,455,20,0,0
-2020-05-24,Sonoma,97,500,4,18,0
-2020-05-24,Stanislaus,99,646,28,17,0
-2020-05-24,Sutter,101,40,2,0,0
-2020-05-24,Tehama,103,3,1,0,0
-2020-05-24,Trinity,105,1,0,0,0
-2020-05-24,Tulare,107,1641,75,0,0
-2020-05-24,Tuolumne,109,3,0,0,0
-2020-05-24,Ventura,111,912,30,0,0
-2020-05-24,Yolo,113,194,22,4,0
-2020-05-24,Yuba,115,28,1,0,0
-2020-05-25,Alameda,1,2874,93,27,0
-2020-05-25,Alpine,3,1,0,0,0
-2020-05-25,Amador,5,10,0,0,0
-2020-05-25,Butte,7,34,0,0,0
-2020-05-25,Calaveras,9,13,0,0,0
-2020-05-25,Colusa,11,5,0,0,0
-2020-05-25,Contra Costa,13,1336,37,15,1
-2020-05-25,Del Norte,15,37,0,14,0
-2020-05-25,El Dorado,17,78,0,4,0
-2020-05-25,Fresno,19,1482,22,0,0
-2020-05-25,Glenn,21,12,0,0,0
-2020-05-25,Humboldt,23,94,2,1,0
-2020-05-25,Imperial,25,1274,23,129,0
-2020-05-25,Inyo,27,19,1,0,0
-2020-05-25,Kern,29,1871,29,47,0
-2020-05-25,Kings,31,688,2,41,0
-2020-05-25,Lake,33,12,0,0,0
-2020-05-25,Lassen,35,4,0,0,0
-2020-05-25,Los Angeles,37,46023,2116,989,8
-2020-05-25,Madera,39,85,2,1,0
-2020-05-25,Marin,41,417,14,14,0
-2020-05-25,Mariposa,43,15,1,0,0
-2020-05-25,Mendocino,45,22,0,1,0
-2020-05-25,Merced,47,268,7,7,1
-2020-05-25,Modoc,49,0,0,0,0
-2020-05-25,Mono,51,34,1,0,0
-2020-05-25,Monterey,53,413,8,10,0
-2020-05-25,Napa,55,101,3,0,0
-2020-05-25,Nevada,57,41,1,0,0
-2020-05-25,Orange,59,5469,131,133,0
-2020-05-25,Placer,61,185,9,1,0
-2020-05-25,Plumas,63,4,0,0,0
-2020-05-25,Riverside,65,7004,292,540,2
-2020-05-25,Sacramento,67,1302,56,9,0
-2020-05-25,San Benito,69,72,2,2,0
-2020-05-25,San Bernardino,71,4365,176,0,0
-2020-05-25,San Diego,73,6797,249,96,0
-2020-05-25,San Francisco,75,2386,40,19,0
-2020-05-25,San Joaquin,77,752,33,0,0
-2020-05-25,San Luis Obispo,79,259,1,1,0
-2020-05-25,San Mateo,81,1833,76,0,0
-2020-05-25,Santa Barbara,83,1551,12,0,0
-2020-05-25,Santa Clara,85,2652,139,35,0
-2020-05-25,Santa Cruz,87,200,2,8,0
-2020-05-25,Shasta,89,36,4,0,0
-2020-05-25,Sierra,91,1,0,0,0
-2020-05-25,Siskiyou,93,6,0,0,0
-2020-05-25,Solano,95,455,20,0,0
-2020-05-25,Sonoma,97,515,4,15,0
-2020-05-25,Stanislaus,99,659,28,13,0
-2020-05-25,Sutter,101,42,2,2,0
-2020-05-25,Tehama,103,3,1,0,0
-2020-05-25,Trinity,105,1,0,0,0
-2020-05-25,Tulare,107,1641,75,0,0
-2020-05-25,Tuolumne,109,3,0,0,0
-2020-05-25,Ventura,111,912,30,0,0
-2020-05-25,Yolo,113,198,22,4,0
-2020-05-25,Yuba,115,28,1,0,0
