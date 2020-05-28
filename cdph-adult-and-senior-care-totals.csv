@@ -1,5 +1,4 @@
 date,confirmed_cases,deaths,source_url
-2002-05-26,2134,303,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-05-25.pdf
 2020-04-27,1179,146,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-4-26_V2.pdf
 2020-04-28,1198,147,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-4-27.pdf
 2020-04-29,1267,155,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-4-28.pdf
@@ -27,4 +26,5 @@ date,confirmed_cases,deaths,source_url
 2020-05-22,2036,295,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-05-21.pdf
 2020-05-24,2104,300,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-05-23.pdf
 2020-05-25,2122,302,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-05-24.pdf
-2020-05-28,2143,305,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-05-26.pdf
+2020-05-26,2134,303,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-05-25.pdf
+2020-05-27,2143,305,https://www.cdss.ca.gov/Portals/9/Additional-Resources/Research-and-Data/DSSDS/RCFE-05-26.pdf
