@@ -2,75 +2,76 @@ county,fips,area,state_park,restriction
 Del Norte,015,Clifford Kamp Memorial Park,False,Unable to accept drive-ins or reservations for less than 30 days until May 1 or further notice
 Del Norte,015,"Hotels, motels, RV parks and private campgrounds",False,Prohibited from housing anyone for less than 30 days
 Del Norte,015,Kamp Klamath RV Park and Campground,False,Unable to accept drive-ins or reservations for less than 30 days until May 1 or further notice
-Del Norte,015,Redwood National Park,False,"Many facilities are closed, including parking lots, campgrounds, visitor centers, day-use areas and restrooms"
 Del Norte,015,Redwood National Park,False,"The parks remain open to day-use walkers, hikers and bicyclists, though visitor services are extremely limited"
+Del Norte,015,Redwood National Park,False,Parking lots open
+Del Norte,015,Redwood National Park,False,"Many facilities are closed, including campgrounds, visitor centers and day-use areas"
 Del Norte,015,Yurok Tribal Lands,False,"Yurok Tribal lands, parks, preserves, beaches and boat launches, including all camping and overnight stays, are closed to the public"
 Humboldt,023,Campgrounds,False,"All campgrounds in the county are closed (Big Lagoon, Clam Beach, Samoa, Van Duzen, A.W. Way)"
 Humboldt,023,King Range National Conservation Area,False,"Public lands in this area are closed to all forms of public access and uses (Lost Coast Trail, Paradise Royale Mountain Bike trail, trailheads at Mattole River Campground and Black Sands Beach)"
-Humboldt,023,Redwood National Park,False,"Many facilities are closed, including parking lots, campgrounds, visitor centers, day-use areas and restrooms"
-Humboldt,023,Redwood National Park,False,"The parks remain open to day-use walkers, hikers and bicyclists, though visitor services are extremely limited"
+Humboldt,023,Redwood National Park,False,"Many facilities are closed, including campgrounds, visitor centers and day-use areas"
+Humboldt,023,Redwood National Park,False,Parking lots open
+Los Angeles,037,City of Avalon,False,Beach open only for active recreation that follows physical distancing guidelines
 Los Angeles,037,City of Avalon,False,Piers and trails are closed to the public
 Los Angeles,037,City of Avalon,False,"Avalon Harbor, Santa Catalina Island, consisting of all moorings within the city of Avalon waters, are closed"
-Los Angeles,037,City of Avalon,False,Beach open only for active recreation that follows physical distancing guidelines
 Los Angeles,037,City of El Segundo,False,Beach and bike path closed
-Los Angeles,037,City of Hermosa Beach,False,Beach open only for active recreation that follows physical distancing guidelines
 Los Angeles,037,City of Hermosa Beach,False,Downtown parking structure closed; other city parking lots may be closed or restricted to 15 mins
-Los Angeles,037,City of Hermosa Beach,False,"Hermosa Beach Pier, Hermosa Beach Strand bike and walking path are closed"
+Los Angeles,037,City of Hermosa Beach,False,Hermosa Beach Pier closed
+Los Angeles,037,City of Hermosa Beach,False,Beach open only for active recreation that follows physical distancing guidelines
 Los Angeles,037,City of Long Beach,False,"Beaches, beach bikes paths and pedestrian paths open only for active recreation that follows physical distancing guidelines"
 Los Angeles,037,City of Long Beach,False,All beach parking lots closed
 Los Angeles,037,City of Los Angeles,False,Beaches open for active recreation only that follows distancing guidelines
-Los Angeles,037,City of Los Angeles,False,Beach open only for active recreation that follows physical distancing guidelines
-Los Angeles,037,City of Malibu,False,Beach access ways managed by Los Angeles County Department of Beaches and Harbors remain closed
-Los Angeles,037,City of Malibu,False,"No parking at various locations along Pacific Coast Highway, Westward Beach road parking, Point Dume Headlands parking on Cliffside Drive, west of 25442 Malibu Road to end of the street and Malibu Bluffs parking lot"
-Los Angeles,037,City of Malibu,False,Beach open only for active recreation that follows physical distancing guidelines
+Los Angeles,037,City of Los Angeles,False,Some parking lots restricted
 Los Angeles,037,City of Malibu,False,Malibu Bluffs Park parking lot closed
-Los Angeles,037,City of Malibu,False,Trancas Canyon Park parking lot closed
+Los Angeles,037,City of Malibu,False,Malibu pier closed
+Los Angeles,037,City of Malibu,False,"No parking at various locations along Pacific Coast Highway, Westward Beach road parking, Point Dume Headlands parking on Cliffside Drive, west of 25442 Malibu Road to end of the street and Malibu Bluffs parking lot"
+Los Angeles,037,City of Malibu,False,Beach access ways managed by Los Angeles County Department of Beaches and Harbors remain closed
 Los Angeles,037,City of Malibu,False,Las Flores Creek Park parking lot closed
 Los Angeles,037,City of Malibu,False,Legacy Park parking lot closed
-Los Angeles,037,City of Malibu,False,Malibu pier closed
 Los Angeles,037,City of Malibu,False,Zuma Beach parking lot open at partial capacity
 Los Angeles,037,City of Malibu,False,Surfrider Beach parking lot open at partial capacity
+Los Angeles,037,City of Malibu,False,Beach open only for active recreation that follows physical distancing guidelines
+Los Angeles,037,City of Malibu,False,Trancas Canyon Park parking lot closed
 Los Angeles,037,City of Manhattan Beach,False,Beach open only for active recreation that follows physical distancing guidelines
-Los Angeles,037,City of Palos Verdes Estates,False,Parking closed at lot in 300 block of Paseo del Mar and in turnout at 1300 Palos Verdes Drive West
 Los Angeles,037,City of Palos Verdes Estates,False,No parking signs on west side of 700 block of Paseo Del Mar
-Los Angeles,037,City of Ranchos Palos Verdes,False,Beaches open only for active recreation that follows physical distancing guidelines
-Los Angeles,037,City of Ranchos Palos Verdes,False,Public trails and public parking lots at Terranea Resort and Trump National Golf Club closed
+Los Angeles,037,City of Palos Verdes Estates,False,Parking closed at lot in 300 block of Paseo del Mar and in turnout at 1300 Palos Verdes Drive West
 Los Angeles,037,City of Ranchos Palos Verdes,False,"City parks, nature preserves, community centers, amenities and trails closed"
+Los Angeles,037,City of Ranchos Palos Verdes,False,Public trails and public parking lots at Terranea Resort and Trump National Golf Club closed
 Los Angeles,037,City of Ranchos Palos Verdes,False,Parking restrictions at various city parking lots and public streets
+Los Angeles,037,City of Ranchos Palos Verdes,False,Beaches open only for active recreation that follows physical distancing guidelines
 Los Angeles,037,City of Redondo Beach,False,Stairs at Avenue C access way closed
-Los Angeles,037,City of Redondo Beach,False,Redondo Beach Pier closed except at designated food pick up locations
-Los Angeles,037,City of Redondo Beach,False,Beaches open only for active recreation that follows physical distancing guidelines
-Los Angeles,037,City of Redondo Beach,False,"Harbor Drive Bike Lane and North Redondo Beach Bike Path, from Robinson Street to Felton Lane, are open except for the segments impacted by construction near Artesia Boulevard"
 Los Angeles,037,City of Redondo Beach,False,Coastal parking remains restricted
-Los Angeles,037,City of Santa Monica,False,Palisades Park closed
-Los Angeles,037,City of Santa Monica,False,Beach bike path closed
-Los Angeles,037,City of Santa Monica,False,Santa Monica Pier closed
-Los Angeles,037,City of Santa Monica,False,Beaches open only for active recreation that follows physical distancing guidelines
-Los Angeles,037,City of Santa Monica,False,Beach parking closed
+Los Angeles,037,City of Redondo Beach,False,Redondo Beach Pier closed except at designated food pick up locations
+Los Angeles,037,City of Redondo Beach,False,"Harbor Drive Bike Lane and North Redondo Beach Bike Path, from Robinson Street to Felton Lane, are open except for the segments impacted by construction near Artesia Boulevard"
+Los Angeles,037,City of Redondo Beach,False,Beaches open only for active recreation that follows physical distancing guidelines
 Los Angeles,037,City of Santa Monica,False,Muscle Beach closed
-Los Angeles,037,City of Torrance,False,Beaches open only for active recreation that follows physical distancing guidelines
+Los Angeles,037,City of Santa Monica,False,Beaches open only for active recreation that follows physical distancing guidelines
+Los Angeles,037,City of Santa Monica,False,Palisades Park closed
+Los Angeles,037,City of Santa Monica,False,Santa Monica Pier closed
+Los Angeles,037,City of Santa Monica,False,Beach parking closed
+Los Angeles,037,City of Santa Monica,False,Beach bike path closed
 Los Angeles,037,City of Torrance,False,All beach parking lots closed
+Los Angeles,037,City of Torrance,False,Beaches open only for active recreation that follows physical distancing guidelines
 Los Angeles,037,Dockweiler State Beach,False,Parking lots open at partial capacity
-Los Angeles,037,Mountains Recreation and Conservation Authority,False,"All parks, trails and building facilities, including restrooms, are closed, as are all parks owned by the Santa Monica Mountains Conservancy"
+Los Angeles,037,Mountains Recreation and Conservation Authority,False,"Most parks, trails and building facilities, including restrooms, are open for active recreation that follows physical distancing guidelines, as are all parks owned by the Santa Monica Mountains Conservancy"
 Los Angeles,037,Port of Los Angeles,False,"Restricted access to 22nd Street Park, Banning’s Landing, Bloch Field, Cabrillo Beach (beach, aquarium, boat ramp and fishing pier) and Harbor Boulevard Parkway Promenade (berths 84-94)"
 Los Angeles,037,Santa Monica Mountains National Recreation Area (Los Angeles County portion),False,"Visitor centers, parking lots and trails closed"
 Los Angeles,037,Will Rogers State Beach,False,Parking lots open at partial capacity
 Marin,041,Golden Gate National Recreation Area,False,Nike Missile Site closed
-Marin,041,Golden Gate National Recreation Area,False,Tennessee Valley parking closed
 Marin,041,Golden Gate National Recreation Area,False,Point Bonita Lighthouse closed
-Marin,041,Golden Gate National Recreation Area,False,Rodeo Beach parking closed
 Marin,041,Golden Gate National Recreation Area,False,Upper Conzelman Road (scenic overlook road from Golden Gate Bridge views to Point Bonita area) closed
 Marin,041,Golden Gate National Recreation Area,False,Stinson Beach parking closed
-Marin,041,Golden Gate National Recreation Area,False,Marin Headlands Visitor Center closed
-Marin,041,Golden Gate National Recreation Area,False,Kirby Cove and Bicentennial campgrounds closed
-Marin,041,Golden Gate National Recreation Area,False,Muir Beach Overlook parking closed
+Marin,041,Golden Gate National Recreation Area,False,Tennessee Valley parking closed
 Marin,041,Golden Gate National Recreation Area,False,Muir Beach parking closed
+Marin,041,Golden Gate National Recreation Area,False,Muir Beach Overlook parking closed
+Marin,041,Golden Gate National Recreation Area,False,Rodeo Beach parking closed
+Marin,041,Golden Gate National Recreation Area,False,Marin Headlands Visitor Center closed
 Marin,041,Golden Gate National Recreation Area,False,Muir Woods National Monument closed
-Marin,041,Point Reyes National Seashore,False,Visitor centers and campgrounds closed through May 3. Ranger-led and volunteer activities closed
-Marin,041,Point Reyes National Seashore,False,"Access roads and parking are closed at: Bear Valley, Palomarin trailhead, Five Brooks, Abbots Lagoon, Tomales Point, North and South Beach, Chimney Rock and Lighthouse; Restrooms and trails in these areas remain open"
-Marin,041,Point Reyes National Seashore,False,"Trails, beaches and restrooms (excluding Bear Valley Visitor Center) are available if accessible by nonmotorized means for essential activities"
+Marin,041,Golden Gate National Recreation Area,False,Kirby Cove and Bicentennial campgrounds closed
 Marin,041,Point Reyes National Seashore,False,Camping or beach fire permits will not be issued during the shelter-in-place order
 Marin,041,Point Reyes National Seashore,False,"Limantour access road, Drakes Beach, Drakes Estero and Mt. Vision Road are closed"
+Marin,041,Point Reyes National Seashore,False,"Access roads and parking are closed at: Bear Valley, Palomarin trailhead, Five Brooks, Abbots Lagoon, Tomales Point, North and South Beach, Chimney Rock and Lighthouse; Restrooms and trails in these areas remain open"
+Marin,041,Point Reyes National Seashore,False,Visitor centers and campgrounds closed through May 3. Ranger-led and volunteer activities closed
+Marin,041,Point Reyes National Seashore,False,"Trails, beaches and restrooms (excluding Bear Valley Visitor Center) are available if accessible by nonmotorized means for essential activities"
 Mendocino,045,Fort Bragg,False,"City parks, recreational sites, playgrounds, beaches and navigable waterways for recreational purposes are closed with the following exceptions for limited recreational usage: Trails in Pomo Bluffs Park and the coastal trail in Noyo Headlands Park. Note: Parking lots are closed, so access to trails should be via bicycle or foot"
 Mendocino,045,Moat Creek Beach,False,Access point reopened on trial basis
 Mendocino,045,Point Arena,False,Point Arena Pier closed
@@ -81,8 +82,8 @@ Monterey,053,City of Carmel-by-the-Sea,False,Beaches open for active use
 Monterey,053,City of Carmel-by-the-Sea,False,Parking restricted at Del Mar parking lot and along Scenic Avenue and San Antonio Avenue
 Monterey,053,City of Marina,False,Street parking near beaches restricted
 Monterey,053,City of Monterey,False,"Parking prohibited from 7 a.m. to 10 p.m. daily in the following locations: Tide Avenue, Beach Way between Tide Avenue and Dunecrest Avenue, Surf Way between Tide Avenue and  Dunecrest Avenue, Sand Dunes Drive between Canyon Del Rey Blvd (Humboldt Street) to Houghton M. Roberts Beach parking lot"
-Monterey,053,City of Monterey,False,City launch ramps closed
 Monterey,053,City of Monterey,False,Beaches open for active use
+Monterey,053,City of Monterey,False,City launch ramps closed
 Monterey,053,City of Pacific Grove,False,Lovers Point Beach open for active use
 Monterey,053,City of Sand City,False,Street parking near beaches restricted
 Monterey,053,John Little State Natural Reserve,True,Closed to the public
@@ -91,120 +92,120 @@ Monterey,053,Los Padres National Forest,False,"Trail system and general forest a
 Monterey,053,Moss Landing Harbor District,False,"Access to Moss Landing North Harbor launch ramps temporarily restricted to the public, allowed use only by commercial fishing vessels"
 Monterey,053,Point Lobos State Natural Reserve,True,Closed to the public
 Monterey,053,Point Sur State Historic Park,True,Closed to the public
-Orange,059,City of Dana Point,False,Ocean open for all recreational uses
-Orange,059,City of Dana Point,False,"Dana Cove Beach, Doheny State Beach and tide pools are open for active recreation only"
 Orange,059,City of Dana Point,False,Salt Creek and Strands beaches open 5 a.m. to 12 a.m. daily
 Orange,059,City of Dana Point,False,Beach parking restricted; check city website for latest details
-Orange,059,City of Dana Point,False,Baby Beach open 5 a.m. to 10 p.m. daily
+Orange,059,City of Dana Point,False,"Dana Cove Beach, Doheny State Beach and tide pools are open for active recreation only"
+Orange,059,City of Dana Point,False,Ocean open for all recreational uses
 Orange,059,City of Dana Point,False,Capistrano Beach open 6 a.m. to 10 p.m. daily
-Orange,059,City of Huntington Beach,False,Beaches and bike pathway open from 5 a.m. to 10 p.m. for active recreation only and must follow physical distancing requirements
-Orange,059,City of Huntington Beach,False,"Within Huntington Harbor and all connected channels, active ocean recreation such as kayaking, boating and paddleboarding is allowed"
-Orange,059,City of Huntington Beach,False,Beaches in Huntington Harbor closed
-Orange,059,City of Huntington Beach,False,All harbor beaches along Pacific Coast Highway in Sunset Beach closed
-Orange,059,City of Huntington Beach,False,Beach playground closed
-Orange,059,City of Huntington Beach,False,Humboldt Beach closed
-Orange,059,City of Huntington Beach,False,Coastal parking lots open at partial capacity with some restrictions
-Orange,059,City of Huntington Beach,False,Open grass and picnic areas adjacent to beach bike path closed
-Orange,059,City of Huntington Beach,False,Davenport Beach closed
-Orange,059,City of Huntington Beach,False,Trinidad Beach closed
-Orange,059,City of Huntington Beach,False,Huntington Beach Pier closed
+Orange,059,City of Dana Point,False,Baby Beach open 5 a.m. to 10 p.m. daily
 Orange,059,City of Huntington Beach,False,Seabridge Park Beach closed
 Orange,059,City of Huntington Beach,False,"Fishing allowed from the beach and other ocean access locations where fishing is normally allowed, as long as physical distancing requirements are followed"
+Orange,059,City of Huntington Beach,False,Beaches in Huntington Harbor closed
+Orange,059,City of Huntington Beach,False,Coastal parking lots open at partial capacity with some restrictions
+Orange,059,City of Huntington Beach,False,Davenport Beach closed
+Orange,059,City of Huntington Beach,False,All harbor beaches along Pacific Coast Highway in Sunset Beach closed
+Orange,059,City of Huntington Beach,False,"Within Huntington Harbor and all connected channels, active ocean recreation such as kayaking, boating and paddleboarding is allowed"
+Orange,059,City of Huntington Beach,False,Beach playground closed
+Orange,059,City of Huntington Beach,False,Open grass and picnic areas adjacent to beach bike path closed
+Orange,059,City of Huntington Beach,False,Huntington Beach Pier is open for active uses such as walking and jogging
+Orange,059,City of Huntington Beach,False,Trinidad Beach closed
+Orange,059,City of Huntington Beach,False,Humboldt Beach closed
+Orange,059,City of Huntington Beach,False,Beaches and bike pathway open from 5 a.m. to 10 p.m. for active recreation only and must follow physical distancing requirements
+Orange,059,City of Laguna Beach,False,"County-operated beaches in South Laguna Beach (Aliso, Table Rock, West, Camel Point and Treasure Island) open for active recreation on weekdays 6 a.m to 10 a.m.; closed on weekends"
+Orange,059,City of Laguna Beach,False,South Laguna beaches operated by county closed
 Orange,059,City of Laguna Beach,False,City beaches open weekdays from 6 a.m. to 10 p.m. and weekends from 6 a.m. to 12 p.m. for active recreation only
 Orange,059,City of Laguna Beach,False,Thousand Steps Beach remains closed
-Orange,059,City of Laguna Beach,False,South Laguna beaches operated by county closed
-Orange,059,City of Laguna Beach,False,"County-operated beaches in South Laguna Beach (Aliso, Table Rock, West, Camel Point and Treasure Island) open for active recreation on weekdays 6 a.m to 10 a.m.; closed on weekends"
-Orange,059,City of Newport Beach,False,Balboa Pier closed
-Orange,059,City of Newport Beach,False,Newport Harbor open for all normally allowed water activities
-Orange,059,City of Newport Beach,False,Newport Beach Pier closed
-Orange,059,City of Newport Beach,False,Bayside Beach open 6 a.m. to 10 p.m. daily
 Orange,059,City of Newport Beach,False,Some beach parking lots open with restrictions
-Orange,059,City of Newport Beach,False,"Beaches open for activities such as walking, running, hiking, biking, swimming, surfing and fishing from 6 a.m. to 10 p.m.; no loitering or sunbathing"
-Orange,059,City of Newport Beach,False,Beach area from M Street to West Channel Jetty (the Wedge) closed
+Orange,059,City of Newport Beach,False,Balboa Pier closed
 Orange,059,City of Newport Beach,False,Back Bay Drive closed to vehicular traffic
+Orange,059,City of Newport Beach,False,Beach area from M Street to West Channel Jetty (the Wedge) closed
+Orange,059,City of Newport Beach,False,"Beaches open for activities such as walking, running, hiking, biking, swimming, surfing and fishing from 6 a.m. to 10 p.m.; no loitering or sunbathing"
+Orange,059,City of Newport Beach,False,Newport Harbor open for all normally allowed water activities
+Orange,059,City of Newport Beach,False,Bayside Beach open 6 a.m. to 10 p.m. daily
 Orange,059,City of Newport Beach,False,Beachgoers must avoid gatherings with people they do not live with
+Orange,059,City of Newport Beach,False,Newport Beach Pier closed
 Orange,059,City of San Clemente,False,Poche Beach open 6 a.m. to 10 p.m. daily
-Orange,059,City of San Clemente,False,Beaches and coastal trail open only for active use that follows physical distancing requirements
-Orange,059,City of San Clemente,False,All beach restrooms closed
-Orange,059,City of San Clemente,False,Municipal pier open only for active use that follows physical distancing requirements; fishing is prohibited; avoid stopping along rails and benches
 Orange,059,City of San Clemente,False,Permitted activities include walking/running and ocean recreation
+Orange,059,City of San Clemente,False,Beaches and coastal trail open only for active use that follows physical distancing requirements
 Orange,059,City of San Clemente,False,Most beach parking lots open with some restrictions
-Orange,059,City of Seal Beach,False,Implementing four-phase reopening plan; currently in Phases 2 and 3
-Orange,059,City of Seal Beach,False,Parking with vessel trailer/rack in boat launch lots only (Sunset Aquatic Park)
+Orange,059,City of San Clemente,False,Municipal pier open only for active use that follows physical distancing requirements; fishing is prohibited; avoid stopping along rails and benches
+Orange,059,City of San Clemente,False,All beach restrooms closed
 Orange,059,City of Seal Beach,False,"The 1st, 8th and 10th Street beach parking lots are open with 50% capacity; visitors must park in every other parking stall"
 Orange,059,City of Seal Beach,False,Beaches open 4:30 a.m. to 10:00 p.m. for active use
+Orange,059,City of Seal Beach,False,Parking with vessel trailer/rack in boat launch lots only (Sunset Aquatic Park)
+Orange,059,City of Seal Beach,False,Implementing four-phase reopening plan; currently in Phases 2 and 3
 San Diego,073,Border Field State Park,True,Closed to the public
 San Diego,073,Border Field State Park,True,Closed to the public
-San Diego,073,Cabrillo National Monument,False,Indoor areas closed
 San Diego,073,Cabrillo National Monument,False,Outdoor areas and restrooms open 9 a.m. to 5 p.m. daily
-San Diego,073,City of Carlsbad,False,Fishing only allowed from a kayak or boat
+San Diego,073,Cabrillo National Monument,False,Indoor areas closed
 San Diego,073,City of Carlsbad,False,Parking lots closed; parking along Carlsbad Boulevard prohibited
-San Diego,073,City of Carlsbad,False,Agua Hedionda Lagoon inner basin and launching area closed
+San Diego,073,City of Carlsbad,False,Fishing only allowed from a kayak or boat
 San Diego,073,City of Carlsbad,False,"Beaches open for individual active exercising, running/walking/swimming, surfing/paddling and kayaking"
+San Diego,073,City of Carlsbad,False,Agua Hedionda Lagoon inner basin and launching area closed
 San Diego,073,City of Carlsbad,False,"Sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
 San Diego,073,City of Chula Vista,False,All parks and park parking lots open
 San Diego,073,City of Chula Vista,False,Restrooms remain closed
 San Diego,073,City of Coronado,False,"Beaches open for individual active exercising, running/walking/swimming, surfing/paddling and kayaking from 6 a.m. to 6 pm."
 San Diego,073,City of Coronado,False,Parking restricted around the beach and parks and now includes no parking on both sides of Ocean Boulevard
-San Diego,073,City of Coronado,False,The bay and Glorietta Bay Boat Launch Ramp remain closed
-San Diego,073,City of Coronado,False,"Coronado Dog Beach, nearby fire pits and Sunset Park closed"
 San Diego,073,City of Coronado,False,"Sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
+San Diego,073,City of Coronado,False,"Coronado Dog Beach, nearby fire pits and Sunset Park closed"
+San Diego,073,City of Coronado,False,The bay and Glorietta Bay Boat Launch Ramp remain closed
 San Diego,073,City of Del Mar,False,"Beaches open for individual active exercising, running/walking/swimming, surfing/paddling and kayaking"
 San Diego,073,City of Del Mar,False,"Sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
-San Diego,073,City of Encinitas,True,Leucadia State Beach closed
-San Diego,073,City of Encinitas,False,Moonlight Beach closes at 10 p.m.
-San Diego,073,City of Encinitas,False,"Moonlight Beach open to walking, running, surfing and swimming"
 San Diego,073,City of Encinitas,False,All beach parking closed
-San Diego,073,City of Encinitas,False,"Beach access stairways located at Swami’s, D Street, Stonesteps and Grandview open; facial coverings are mandatory while using the narrow staircases"
-San Diego,073,City of Encinitas,False,Coastal Rail Trail and the pedestrian portion of South Highway 101 from Swami's Beach to the Seaside parking lot open
+San Diego,073,City of Encinitas,True,Leucadia State Beach closed
 San Diego,073,City of Encinitas,False,"Public gatherings, stopping/standing/lying down, chairs/blankets/coolers and sports equipment prohibited"
+San Diego,073,City of Encinitas,False,Moonlight Beach closes at 10 p.m.
+San Diego,073,City of Encinitas,False,Coastal Rail Trail and the pedestrian portion of South Highway 101 from Swami's Beach to the Seaside parking lot open
+San Diego,073,City of Encinitas,False,"Moonlight Beach open to walking, running, surfing and swimming"
+San Diego,073,City of Encinitas,False,"Beach access stairways located at Swami’s, D Street, Stonesteps and Grandview open; facial coverings are mandatory while using the narrow staircases"
 San Diego,073,City of Imperial Beach,False,"Municipal pier, public parks and beach area parking lots closed"
 San Diego,073,City of Imperial Beach,False,Beach open to individual active exercising and running/walking
 San Diego,073,City of National City,False,"All parks closed to gatherings and organized sports, open walking/running/biking"
-San Diego,073,City of Oceanside,False,Oceanside pier closed
 San Diego,073,City of Oceanside,False,Beach parking lots closed
+San Diego,073,City of Oceanside,False,Access to all Oceanside Harbor boat slips restricted
 San Diego,073,City of Oceanside,False,The Strand closed to vehicular and pedestrian traffic
 San Diego,073,City of Oceanside,False,"Beaches open for individual active exercising, running/walking/swimming, surfing/paddling and kayaking; sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
-San Diego,073,City of Oceanside,False,Access to all Oceanside Harbor boat slips restricted
-San Diego,073,City of San Diego,False,"Beaches open for individual active exercising, running/walking/swimming, surfing/paddling and kayaking; sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
+San Diego,073,City of Oceanside,False,Oceanside pier closed
 San Diego,073,City of San Diego,False,"Boardwalks, piers, parking lots and Fiesta Island closed"
 San Diego,073,City of San Diego,False,"Bays open to single-person kayaking and paddle boarding, no swimming allowed; sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
+San Diego,073,City of San Diego,False,"Beaches open for individual active exercising, running/walking/swimming, surfing/paddling and kayaking; sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
+San Diego,073,City of Solana Beach,False,Fletcher Cove open for access to and from the beach
 San Diego,073,City of Solana Beach,False,Seascape Stairs open for one-way entry to the beach
 San Diego,073,City of Solana Beach,False,Tide Park and Del Mar Shores Stairs open only for one-way exiting from the beach
-San Diego,073,City of Solana Beach,False,Fletcher Cove open for access to and from the beach
-San Diego,073,City of Solana Beach,False,"Sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
-San Diego,073,City of Solana Beach,False,Parking lots closed
 San Diego,073,City of Solana Beach,False,"Beaches open for individual active exercising, running/walking/swimming, surfing/paddling and kayaking"
-San Diego,073,Port of San Diego,False,Shelter Island and National City boat launches open
-San Diego,073,Port of San Diego,False,"Beaches open for walking and running (no stopping, sitting or lying down)"
+San Diego,073,City of Solana Beach,False,Parking lots closed
+San Diego,073,City of Solana Beach,False,"Sunbathing, picnics/gatherings, group exercising, group games, standing/sitting around prohibited"
 San Diego,073,Port of San Diego,False,"Parking lots at Shelter Island, Spanish Landing, Tuna Harbor, Ruocco Park, Cesar Chavez Park, Pepper Park, Bayfront Park, Bayside Park, Marina View Park and Tidelands Park are all partially open."
-San Diego,073,Port of San Diego,False,Parks and piers around San Diego Bay remain closed
 San Diego,073,Port of San Diego,False,Many park and pier restrooms closed
+San Diego,073,Port of San Diego,False,"Beaches open for walking and running (no stopping, sitting or lying down)"
+San Diego,073,Port of San Diego,False,Shelter Island and National City boat launches open
 San Diego,073,Port of San Diego,False,"Recreational boating, for members of the same household, allowed on San Diego Bay"
+San Diego,073,Port of San Diego,False,Parks and piers around San Diego Bay remain closed
 San Diego,073,Port of San Diego,False,"Walkways, sidewalks and promenades open for walking, running and bicycling (no stopping, sitting or lying down)"
 San Diego,073,San Diego County Parks,False,All San Diego County Parks-managed parking lots and sports courts closed
 San Diego,073,Tijuana River National Estuarine Research Reserve,False,Tijuana Estuary Visitor Center closed
 San Diego,073,Torrey Pines State Natural Reserve,True,Closed to the public
+San Francisco,075,Golden Gate National Recreation Area,False,Fort Point National Historic Site closed
+San Francisco,075,Golden Gate National Recreation Area,False,Alcatraz Island closed
+San Francisco,075,Golden Gate National Recreation Area,False,Fort Funston parking closed
 San Francisco,075,Golden Gate National Recreation Area,False,West Bluff parking closed
-San Francisco,075,Golden Gate National Recreation Area,False,Sloat Boulevard parking at Ocean Beach closed
+San Francisco,075,Golden Gate National Recreation Area,False,Presidio Visitor Center closed
 San Francisco,075,Golden Gate National Recreation Area,False,Crissy Field — East Beach parking closed
 San Francisco,075,Golden Gate National Recreation Area,False,Baker Beach parking closed
-San Francisco,075,Golden Gate National Recreation Area,False,Merrie Way parking closed
-San Francisco,075,Golden Gate National Recreation Area,False,Fort Funston parking closed
-San Francisco,075,Golden Gate National Recreation Area,False,Long Avenue parking closed
-San Francisco,075,Golden Gate National Recreation Area,False,Fort Point National Historic Site closed
 San Francisco,075,Golden Gate National Recreation Area,False,Navy Memorial parking closed
-San Francisco,075,Golden Gate National Recreation Area,False,Lands End Lookout closed
-San Francisco,075,Golden Gate National Recreation Area,False,Presidio Visitor Center closed
-San Francisco,075,Golden Gate National Recreation Area,False,Langdon Court parking closed
-San Francisco,075,Golden Gate National Recreation Area,False,Alcatraz Island closed
-San Francisco,075,Golden Gate National Recreation Area,False,Battery East parking closed
 San Francisco,075,Golden Gate National Recreation Area,False,Golden Gate Bridge Welcome Center closed
-San Francisco,075,San Francisco Recreation and Park District,False,Ocean Beach parking lots closed
+San Francisco,075,Golden Gate National Recreation Area,False,Long Avenue parking closed
+San Francisco,075,Golden Gate National Recreation Area,False,Sloat Boulevard parking at Ocean Beach closed
+San Francisco,075,Golden Gate National Recreation Area,False,Lands End Lookout closed
+San Francisco,075,Golden Gate National Recreation Area,False,Langdon Court parking closed
+San Francisco,075,Golden Gate National Recreation Area,False,Merrie Way parking closed
+San Francisco,075,Golden Gate National Recreation Area,False,Battery East parking closed
 San Francisco,075,San Francisco Recreation and Park District,False,Sports courts and picnic areas closed
-San Luis Obispo,079,Avila Beach,False,Use of fire pits temporarily banned
+San Francisco,075,San Francisco Recreation and Park District,False,Ocean Beach parking lots closed
 San Luis Obispo,079,Avila Beach,False,Avila parking lot closed during the day until 5 p.m.
 San Luis Obispo,079,Avila Beach,False,Pier closed
+San Luis Obispo,079,Avila Beach,False,Use of fire pits temporarily banned
 San Luis Obispo,079,Avila Beach,False,Beach remains open when distancing rules are followed
 San Luis Obispo,079,Cave Landing,False,Access road and parking lot closed
 San Luis Obispo,079,City of Grover Beach,False,"Park facilities such as playgrounds, sports courts and skate park are closed"
@@ -217,77 +218,70 @@ San Luis Obispo,079,Olde Port Beach,False,Beach remains open when distancing rul
 San Luis Obispo,079,PG&E Diablo Canyon,False,Point Buchon and Pecho Coast trails closed
 San Luis Obispo,079,Shamel Park,False,Parking lot closed
 San Mateo,081,Bean Hollow State Beach,True,Closed to the public
-San Mateo,081,City of Half Moon Bay,False,Parking lot closed at Poplar Beach
-San Mateo,081,City of Half Moon Bay,False,Parking lot closed at Redondo Beach
-San Mateo,081,City of Half Moon Bay,False,Parking lot closed at 1 Miramontes Point Road
-San Mateo,081,City of Pacifica,False,Rockaway Beach north and south parking lots closed
-San Mateo,081,City of Pacifica,False,Council Chambers parking lot on Beach Boulevard closed
-San Mateo,081,City of Pacifica,False,Pacifica State Beach (Linda Mar Beach) north and south lots closed
-San Mateo,081,City of Pacifica,False,Parking lots in front of and behind the Pacifica Community Center closed
-San Mateo,081,City of Pacifica,False,Fisherman’s Lot in the 800 block of Palmetto Avenue closed
-San Mateo,081,City of Pacifica,False,Beach Boulevard parking south of the Council Chambers closed
+San Mateo,081,City of Half Moon Bay,False,Beach parking lots and restrooms open beginning May 30
+San Mateo,081,City of Half Moon Bay,False,Beachgoers should follow physical distancing guidelines
+San Mateo,081,City of Pacifica,False,Beachgoers should follow physical distancing guidelines
+San Mateo,081,City of Pacifica,False,Beach parking lots open beginning May 30
 San Mateo,081,Ritz-Carlton Half Moon Bay,False,Public access parking spots closed
 San Mateo,081,San Gregorio State Beach,True,Closed to the public
-San Mateo,081,San Mateo County Department of Parks,False,"Between the hours of 11 a.m. and 5 p.m., all public access to parks, trails and beaches west of Highway 1 may not involve the use of a motor vehicle to travel to any such recreational area"
 San Mateo,081,San Mateo County Department of Parks,False,Beachgoers must follow county orders on physical distancing; beach use restricted to active recreation only
 San Mateo,081,San Mateo County Department of Parks,False,The county may restrict the number of entrants or close public access points to a beach to reduce crowding
 San Mateo,081,San Mateo County Department of Parks,False,"The following items are prohibited for use or possession on a beach: umbrellas, shade structures, tents, BBQs and grills, coolers, chairs, hammocks and other conveyances designed to sit or lounge upon"
-San Mateo,081,San Mateo County Harbor District,False,Oyster Point Marina Fishing Pier closed
+San Mateo,081,San Mateo County Department of Parks,False,"Between the hours of 11 a.m. and 5 p.m., all public access to parks, trails and beaches west of Highway 1 may not involve the use of a motor vehicle to travel to any such recreational area"
+San Mateo,081,San Mateo County Harbor District,False,"Oyster Point Marina Fishing Pier launch ramp, fishing pier, public restroom and all public parking are open; boat wash and picnic areas are closed"
 San Mateo,081,San Mateo County Harbor District,False,Pedestrian access not restricted. Vessel owners/harbor tenants allowed to use parking lots
-San Mateo,081,San Mateo County Harbor District,False,"Parking areas and boat launch ramps closed at Pillar Point Harbor and Oyster Point Marina, as well as public parking under the jurisdiction of the Harbor District at Surfers Beach and the West Trail Entrance"
-Santa Barbara,083,City of Carpinteria,False,"Playgrounds, playing fields and barbecue areas are closed"
-Santa Barbara,083,City of Carpinteria,False,Bluffs Nature Preserve parking lot at Carpinteria Avenue and Bailard closed
-Santa Barbara,083,City of Carpinteria,False,"Parking at Viola Fields, 6145 Carpinteria Ave., closed"
-Santa Barbara,083,City of Carpinteria,False,"No parking on some portions of downtown streets that are heavily used for beach access, including Linden Avenue, Fifth Street, Palm Avenue, Walnut Avenue and Sixth Street"
+San Mateo,081,San Mateo County Harbor District,False,"Parking areas, boat launch ramps and Johnson Pier closed at Pillar Point"
 Santa Barbara,083,City of Carpinteria,False,"Street parking along the east side of Linden Avenue, south of UPPR, closed"
-Santa Barbara,083,City of Carpinteria,False,Street parking at the easterly terminus of Carpinteria Avenue closed
-Santa Barbara,083,City of Carpinteria,False,"The city is enforcing two-hour parking limits on specific streets every Friday, Saturday and Sunday; limits will apply to streets within the beach neighborhood and portions of the Concha Loma neighborhood"
 Santa Barbara,083,City of Carpinteria,False,"Linden, Elm, Holly and Ash streets' street-end parking lots closed"
-Santa Barbara,083,City of Goleta,False,Beaches remain open
+Santa Barbara,083,City of Carpinteria,False,"No parking on some portions of downtown streets that are heavily used for beach access, including Linden Avenue, Fifth Street, Palm Avenue, Walnut Avenue and Sixth Street"
+Santa Barbara,083,City of Carpinteria,False,"The city is enforcing two-hour parking limits on specific streets every Friday, Saturday and Sunday; limits will apply to streets within the beach neighborhood and portions of the Concha Loma neighborhood"
+Santa Barbara,083,City of Carpinteria,False,"Parking at Viola Fields, 6145 Carpinteria Ave., closed"
+Santa Barbara,083,City of Carpinteria,False,"Playgrounds, playing fields and barbecue areas are closed"
+Santa Barbara,083,City of Carpinteria,False,Street parking at the easterly terminus of Carpinteria Avenue closed
+Santa Barbara,083,City of Carpinteria,False,Bluffs Nature Preserve parking lot at Carpinteria Avenue and Bailard closed
 Santa Barbara,083,City of Goleta,False,"Certain parking lots may have restricted access or reduced number of parking spots, such as Sperling/Ellwood Mesa parking lot"
+Santa Barbara,083,City of Goleta,False,Beaches remain open
+Santa Barbara,083,City of Santa Barbara,False,"All recreation centers, playgrounds, outdoor exercise equipment tennis courts and beach volleyball courts, picnic sites, Skater’s Point skatepark, Franceschi Park, Hilda Ray Park and Skofield Park closed"
+Santa Barbara,083,City of Santa Barbara,False,Most parks remain open during normal hours; certain parking lots may have restricted access
+Santa Barbara,083,City of Santa Barbara,False,Leadbetter Beach open
 Santa Barbara,083,City of Santa Barbara,False,Santa Barbara Harbor boat launch ramp closed for recreational vessels
 Santa Barbara,083,City of Santa Barbara,False,West Beach open
 Santa Barbara,083,City of Santa Barbara,False,East Beach open
-Santa Barbara,083,City of Santa Barbara,False,Most parks remain open during normal hours; certain parking lots may have restricted access
-Santa Barbara,083,City of Santa Barbara,False,"All recreation centers, playgrounds, outdoor exercise equipment tennis courts and beach volleyball courts, picnic sites, Skater’s Point skatepark, Franceschi Park, Hilda Ray Park and Skofield Park closed"
-Santa Barbara,083,City of Santa Barbara,False,Leadbetter Beach open
 Santa Barbara,083,Goleta Beach Pier,False,Boat launch closed
 Santa Barbara,083,Jalama Beach,False,Closed to overnight camping only; Day use still allowed
 Santa Cruz,087,City of Capitola,False,76 parking spaces closed along Cliff Drive west of the Village
-Santa Cruz,087,City of Capitola,False,"All temporary large shade structures (pop-ups, tents and umbrellas) banned on Capitola Beach"
 Santa Cruz,087,City of Capitola,False,Maximum allowed time to park in the Capitola Village is now one hour (reduced from three hours)
-Santa Cruz,087,City of Capitola,False,Upper Lot open to permit parking and city employee parking only
+Santa Cruz,087,City of Capitola,False,"All temporary large shade structures (pop-ups, tents and umbrellas) banned on Capitola Beach"
 Santa Cruz,087,City of Capitola,False,Upper and Lower Beach and Village Cove parking lots closed to the public
-Santa Cruz,087,City of Santa Cruz,False,East Cliff parking areas closed
-Santa Cruz,087,City of Santa Cruz,False,Santa Cruz Wharf restrooms closed
+Santa Cruz,087,City of Capitola,False,Upper Lot open to permit parking and city employee parking only
 Santa Cruz,087,City of Santa Cruz,False,Beach volleyball courts on Main Beach closed
-Santa Cruz,087,City of Santa Cruz,False,West Cliff parking lots closed
+Santa Cruz,087,City of Santa Cruz,False,Santa Cruz Wharf restrooms closed
 Santa Cruz,087,City of Santa Cruz,False,Parking along Swanton Drive near Natural Bridges State Beach closed
+Santa Cruz,087,City of Santa Cruz,False,East Cliff parking areas closed
+Santa Cruz,087,City of Santa Cruz,False,West Cliff parking lots closed
 Santa Cruz,087,Santa Cruz Port District,False,Partial closure of Port District’s launch ramp
 Sonoma,097,Bodega Bay coastal boat launch,False,"Each vehicle and boat shall include only members of the same household; vehicles and trailers may travel the limited extent necessary to the boat launch facility for fishing; participants shall comply with existing health orders, including physical distancing requirements; all other licensing or other applicable regulatory requirements must be met"
 Sonoma,097,Bodega Bay coastal boat launch,False,Ramps and trailer parking areas may be opened by owners for recreational fishing to provide food for participants
 Sonoma,097,Sonoma Coast State Park (and associated sub-units),True,Closed to the public
 Ventura,111,"All beaches south of Naval Base Ventura County at Point Mugu, extending to the Los Angeles County line",False,Completely closed
-Ventura,111,Channel Islands Harbor,False,"Launch ramp open; each vehicle/vessel limited to members of the same household; when parking a vehicle after launch, maintain as much space as possible between other parked vehicles; comply with the launch lane and vessel wash lane restrictions posted on signage in the launch ramp area; masks are recommended at all times when out of your vehicle/vessel in the launch ramp area"
 Ventura,111,Channel Islands Harbor,False,"Parking lots to Silver Strand, Hollywood and Kiddie Beach remain closed"
-Ventura,111,Channel Islands National Park,False,Mainland Visitor Center and restrooms closed
+Ventura,111,Channel Islands Harbor,False,"Launch ramp open; each vehicle/vessel limited to members of the same household; when parking a vehicle after launch, maintain as much space as possible between other parked vehicles; comply with the launch lane and vessel wash lane restrictions posted on signage in the launch ramp area; masks are recommended at all times when out of your vehicle/vessel in the launch ramp area"
 Ventura,111,Channel Islands National Park,False,Ferry service suspended until further notice
-Ventura,111,City of Oxnard,False,"No extended stays at beaches are allowed, including setting up blankets and umbrellas; gathering and distancing requirements enforced"
-Ventura,111,City of Oxnard,False,Beach parking lots closed; street parking limited
-Ventura,111,City of Oxnard,False,"Beaches open for active uses such as walking, jogging, swimming and surfing"
+Ventura,111,Channel Islands National Park,False,Mainland Visitor Center and restrooms closed
+Ventura,111,City of Oxnard,False,Beaches open for active and passive uses
 Ventura,111,City of Oxnard,False,"Park restrooms, sports parks, playgrounds and reservation areas closed"
-Ventura,111,City of Port Hueneme,False,Lounging and sunbathing allowed if physical distancing guidelines are followed
+Ventura,111,City of Oxnard,False,Beach parking lots closed; street parking limited
 Ventura,111,City of Port Hueneme,False,"Pier, restrooms and street parking are closed; recreational and picnic equipment not allowed"
-Ventura,111,City of Port Hueneme,False,Parking Lot A and walkways open
+Ventura,111,City of Port Hueneme,False,Lounging and sunbathing allowed if physical distancing guidelines are followed
 Ventura,111,City of Port Hueneme,False,"Active uses such as walking, running, surfing and swimming allowed"
-Ventura,111,City of Port Hueneme,False,No contact sports allowed; no congregating in large groups with people from other households
 Ventura,111,City of Port Hueneme,False,Solo water activities and beach cleanups allowed
-Ventura,111,City of Ventura,False,"No extended stays at beaches are allowed, including setting up blankets and umbrellas"
+Ventura,111,City of Port Hueneme,False,No contact sports allowed; no congregating in large groups with people from other households
+Ventura,111,City of Port Hueneme,False,Parking Lot A and walkways open
 Ventura,111,City of Ventura,False,Gathering and distancing requirements enforced
-Ventura,111,City of Ventura,False,"Walking, jogging, biking and surfing allowed if following distancing guidelines at city beaches, the promenade and the pier"
-Ventura,111,City of Ventura,False,Beach parking lots remain closed
-Ventura,111,Santa Monica Mountains National Recreation Area (Ventura County portion),False,Trails in Ventura County closed weekly from 2 p.m. Friday to 6 a.m. Monday
+Ventura,111,City of Ventura,False,"Active and passive uses allowed if following physical distancing guidelines at city beaches, the promenade and the pier"
+Ventura,111,City of Ventura,False,Beach parking will gradually reopen
 Ventura,111,Santa Monica Mountains National Recreation Area (Ventura County portion),False,Parking lots closed; areas closed weekly from 2 p.m. Friday to 6 a.m. Monday
+Ventura,111,Santa Monica Mountains National Recreation Area (Ventura County portion),False,Trails in Ventura County closed weekly from 2 p.m. Friday to 6 a.m. Monday
 Ventura,111,Ventura Port District,False,Ventura Harbor public launch ramp closed
-Ventura,111,Ventura Port District,False,"Walking, jogging, biking and surfing allowed if following distancing guidelines at Surfer’s Knoll and Harbor Cove beaches"
+Ventura,111,Ventura Port District,False,Active and passive uses allowed if following physical distancing guidelines at Surfer’s Knoll and Harbor Cove beaches
 Ventura,111,Ventura Port District,False,Beach parking lots closed
