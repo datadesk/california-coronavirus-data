@@ -22,6 +22,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
+- [los-angeles-countywide-statistical-areas.json](#los-angeles-countywide-statistical-areas.json)
 
 ## About the data
 
@@ -312,6 +313,19 @@ The subcounty-level restrictions on beach access, compiled by the Los Angeles Ti
 | `area`        | string  | The name of the sub-county area being tracked.                                                                                                                                         |
 | `state_park`  | boolean | An indicator if this area is a state park.                                                                                                                                             |
 | `restriction` | string  | A description of the current level of restriction in this area.                                                                                                                        |
+
+### [los-angeles-countywide-statistical-areas.json](./los-angeles-countywide-statistical-areas.json)
+
+A GeoJSON file mapping out statistical tabulation areas created by the Los Angeles County Department of Public Health. Place-level data released by Los Angeles County correspond to these areas. Acquired via a California Public Records Act request.
+
+| field         | type    | description                                                            |
+| ------------- | ------- | -----------------------------------------------------------------------|
+| `type`        | string  | The type of area being mapped. Options are `City` and`Unincorporated`  |
+| `city`        | string  | The name of the area's municipal parent, if it has one.                |
+| `community`   | string  | The name of the area.                                                  |
+| `label`       | boolean | A combination of the area's name and city. Creates a unique string.    |
+| `centroid_x`  | string  | The longitude of the area's centroid.                                  |
+| `centroid_y`  | string  | The latitude of the area's centroid.                                   |
 
 ## Getting started
 
