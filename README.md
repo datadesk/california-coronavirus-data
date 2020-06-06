@@ -22,7 +22,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
-- [los-angeles-countywide-statistical-areas.json](#los-angeles-countywide-statistical-areas.json)
+- [los-angeles-countywide-statistical-areas.json](#los-angeles-countywide-statistical-areasjson)
 
 ## About the data
 
