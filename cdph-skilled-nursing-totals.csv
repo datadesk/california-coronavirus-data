@@ -1,38 +1,38 @@
-date,staff_confirmed_cases,patients_confirmed_cases,staff_confirmed_cases_note,patients_confirmed_cases_note,staff_deaths,patients_deaths,staff_deaths_note,patients_deaths_note,staff_deaths_note,source_url
-2020-04-19,1279,1721,,,0,0,,,,https://web.archive.org/web/20200419200914/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-04-24,2099,3141,,,1,486,10 or fewer,,10 or fewer,https://web.archive.org/web/20200425013213/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-04-25,2329,3441,,,1,545,10 or fewer,,10 or fewer,https://web.archive.org/web/20200427163603/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-04-28,2323,3515,,,1,578,10 or fewer,,10 or fewer,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-04-29,2594,3923,,,19,618,,,,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-04-30,2697,4711,,,11,663,,,,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-01,2775,4189,,,1,658,10 or fewer,,10 or fewer,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-02,2723,4569,,,11,644,,,,https://web.archive.org/web/20200503030616/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-04,3299,4782,,,15,733,,,,https://web.archive.org/web/20200505050408/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-05,3091,4909,,,15,748,,,,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-06,3349,5604,,,17,929,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-07,3545,5709,,,19,979,,,,https://web.archive.org/web/20200508055458/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-08,3682,6045,,,19,1033,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-09,3665,6060,,,18,1020,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-10,3684,6025,,,19,977,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-11,3684,6025,,,19,977,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-12,3658,6250,,,23,1058,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-14,3492,5971,,,21,1150,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-15,2886,4856,,,26,848,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-18,2886,4856,,,26,848,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-20,0,7908,,,0,1434,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-21,0,7908,,,0,1434,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-22,0,7908,,,0,1434,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-27,5245,9028,,,61,1632,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-28,5429,9209,,,64,1701,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-05-29,5490,9273,,,45,1735,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-01,5702,9718,,,49,1807,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-02,5746,9749,,,52,1835,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-03,5825,9903,,,54,1874,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-04,5895,10012,,,55,1908,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-05,5981,10151,,,56,1933,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-06,6099,10308,,,57,1958,,,,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-115.aspx
-2020-06-07,6204,10480,,,60,1972,,,,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-115.aspx
-2020-06-08,6265,10579,,,62,1985,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-09,6381,10716,,,64,2003,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-10,6499,10841,,,67,2041,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
-2020-06-11,6584,11010,,,67,2068,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+date,staff_active_cases,patients_active_cases,staff_confirmed_cases,patients_confirmed_cases,staff_confirmed_cases_note,patients_confirmed_cases_note,staff_deaths,patients_deaths,staff_deaths_note,patients_deaths_note,staff_deaths_note,source_url
+2020-04-19,0,0,1279,1721,,,0,0,,,,https://web.archive.org/web/20200419200914/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-04-24,0,0,2099,3141,,,1,486,10 or fewer,,10 or fewer,https://web.archive.org/web/20200425013213/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-04-25,0,0,2329,3441,,,1,545,10 or fewer,,10 or fewer,https://web.archive.org/web/20200427163603/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-04-28,0,0,2323,3515,,,1,578,10 or fewer,,10 or fewer,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-04-29,0,0,2594,3923,,,19,618,,,,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-04-30,0,0,2697,4711,,,11,663,,,,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-01,0,0,2775,4189,,,1,658,10 or fewer,,10 or fewer,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-02,0,0,2723,4569,,,11,644,,,,https://web.archive.org/web/20200503030616/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-04,0,0,3299,4782,,,15,733,,,,https://web.archive.org/web/20200505050408/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-05,0,0,3091,4909,,,15,748,,,,https://web.archive.org/save/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-06,0,0,3349,5604,,,17,929,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-07,0,0,3545,5709,,,19,979,,,,https://web.archive.org/web/20200508055458/https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-08,0,0,3682,6045,,,19,1033,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-09,0,0,3665,6060,,,18,1020,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-10,0,0,3684,6025,,,19,977,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-11,0,0,3684,6025,,,19,977,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-12,0,0,3658,6250,,,23,1058,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-14,0,0,3492,5971,,,21,1150,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-15,0,0,2886,4856,,,26,848,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-18,0,0,2886,4856,,,26,848,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-20,0,0,0,7908,,,0,1434,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-21,0,0,0,7908,,,0,1434,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-22,0,0,0,7908,,,0,1434,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-27,0,0,5245,9028,,,61,1632,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-28,0,0,5429,9209,,,64,1701,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-05-29,64,2930,5490,9273,,,45,1735,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-01,47,2676,5702,9718,,,49,1807,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-02,61,2662,5746,9749,,,52,1835,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-03,69,2644,5825,9903,,,54,1874,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-04,78,2697,5895,10012,,,55,1908,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-05,66,2701,5981,10151,,,56,1933,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-06,66,2612,6099,10308,,,57,1958,,,,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-115.aspx
+2020-06-07,64,2635,6204,10480,,,60,1972,,,,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-115.aspx
+2020-06-08,74,2639,6265,10579,,,62,1985,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-09,60,2157,6381,10716,,,64,2003,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-10,60,2659,6499,10841,,,67,2041,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-06-11,54,2378,6584,11010,,,67,2068,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx

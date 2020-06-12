@@ -595,7 +595,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-13,Sonoma,097,2,0,0,0
 2020-03-13,Stanislaus,099,2,0,0,0
 2020-03-13,Tulare,107,1,0,0,0
-2020-03-13,Ventura,111,5,0,2,0
+2020-03-13,Ventura,111,4,0,1,0
 2020-03-13,Yolo,113,2,0,1,0
 2020-03-14,Alameda,001,10,0,1,0
 2020-03-14,Amador,005,1,0,0,0
@@ -624,7 +624,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-14,Sonoma,097,4,0,2,0
 2020-03-14,Stanislaus,099,2,0,0,0
 2020-03-14,Tulare,107,2,0,1,0
-2020-03-14,Ventura,111,4,0,-1,0
+2020-03-14,Ventura,111,4,0,0,0
 2020-03-14,Yolo,113,2,0,0,0
 2020-03-15,Alameda,001,18,0,8,0
 2020-03-15,Amador,005,1,0,0,0
@@ -683,7 +683,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-16,Santa Clara,085,290,7,35,0
 2020-03-16,Santa Cruz,087,9,0,2,0
 2020-03-16,Shasta,089,1,0,0,0
-2020-03-16,Solano,095,9,0,3,0
+2020-03-16,Solano,095,8,0,2,0
 2020-03-16,Sonoma,097,7,0,3,0
 2020-03-16,Stanislaus,099,3,0,1,0
 2020-03-16,Tulare,107,3,0,0,0
@@ -717,7 +717,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-17,Santa Clara,085,337,10,47,3
 2020-03-17,Santa Cruz,087,13,0,4,0
 2020-03-17,Shasta,089,1,0,0,0
-2020-03-17,Solano,095,8,0,-1,0
+2020-03-17,Solano,095,8,0,0,0
 2020-03-17,Sonoma,097,9,0,2,0
 2020-03-17,Stanislaus,099,3,0,0,0
 2020-03-17,Tulare,107,3,0,0,0
@@ -730,7 +730,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-18,Fresno,019,3,0,1,0
 2020-03-18,Humboldt,023,1,0,0,0
 2020-03-18,Imperial,025,2,0,0,0
-2020-03-18,Kern,029,0,0,-1,0
+2020-03-18,Kern,029,1,0,0,0
 2020-03-18,Los Angeles,037,192,1,45,0
 2020-03-18,Madera,039,1,0,0,0
 2020-03-18,Marin,041,15,0,0,0
@@ -765,7 +765,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-19,Fresno,019,3,0,0,0
 2020-03-19,Humboldt,023,1,0,0,0
 2020-03-19,Imperial,025,4,0,2,0
-2020-03-19,Kern,029,3,0,3,0
+2020-03-19,Kern,029,3,0,2,0
 2020-03-19,Los Angeles,037,231,2,39,1
 2020-03-19,Madera,039,2,0,1,0
 2020-03-19,Marin,041,25,0,10,0
@@ -1761,7 +1761,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-09,Lake,033,3,0,0,0
 2020-04-09,Los Angeles,037,7984,225,411,25
 2020-04-09,Madera,039,30,2,2,1
-2020-04-09,Marin,041,154,10,5,0
+2020-04-09,Marin,041,153,10,4,0
 2020-04-09,Mendocino,045,4,0,0,0
 2020-04-09,Merced,047,52,3,12,0
 2020-04-09,Mono,051,20,1,0,0
@@ -1814,7 +1814,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-10,Lake,033,4,0,1,0
 2020-04-10,Los Angeles,037,8453,244,469,19
 2020-04-10,Madera,039,32,2,2,0
-2020-04-10,Marin,041,153,10,-1,0
+2020-04-10,Marin,041,153,10,0,0
 2020-04-10,Mendocino,045,4,0,0,0
 2020-04-10,Merced,047,59,3,7,0
 2020-04-10,Mono,051,21,1,1,0
