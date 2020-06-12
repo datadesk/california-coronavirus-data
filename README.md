@@ -52,6 +52,7 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 - [Race Counts: "How race, class and place fuel a pandemic"](https://www.racecounts.org/covid/)
 - [covid-19-datasette](https://covid-19.datasettes.com/covid)
 - [KQED: "How Many Coronavirus Cases Are in California? See Latest Numbers by County"](https://www.kqed.org/news/11809760/how-many-california-coronavirus-cases-see-latest-numbers-by-county)
+- [KQED: "Here Are the Trendlines for COVID-19 Deaths and Hospitalizations in Each Bay Area County"](https://www.kqed.org/science/1964968/charts-the-bay-area-is-opening-up-again-heres-tracking-data-for-each-county-to-see-how-its-going)
 
 ## Data dictionary
 
