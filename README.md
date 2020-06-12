@@ -51,6 +51,7 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 - [Capradio: "Track COVID-19 Cases In California By County"](https://www.capradio.org/articles/2020/03/31/track-covid-19-cases-in-california-by-county/)
 - [Race Counts: "How race, class and place fuel a pandemic"](https://www.racecounts.org/covid/)
 - [covid-19-datasette](https://covid-19.datasettes.com/covid)
+- [KQED: "How Many Coronavirus Cases Are in California? See Latest Numbers by County"](https://www.kqed.org/news/11809760/how-many-california-coronavirus-cases-see-latest-numbers-by-county)
 
 ## Data dictionary
 
