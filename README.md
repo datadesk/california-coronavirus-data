@@ -68,6 +68,7 @@ Most counties have only one agency except for Alameda and Los Angeles counties, 
 | `date`            | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                                                                 |
 | `confirmed_cases` | integer | The cumulative number of confirmed coronavirus cases as of this `date`.                                                                                                                                                             |
 | `deaths`          | integer | The cumulative number of deaths attributed to coronavirus as of this `date`.                                                                                                                                                        |
+| `recoveries`      | integer | The cumulative number of recovered cases as of this `date`. Only some agencies provide this data.                                                                                                                                   |
 | `did_not_update`  | boolean | Indicates if the agency did not provide an update on this date. If this is `true` and the case and death totals are unchanged from the previous day, this means they were holdovers. Use this flag omit these records when desired. |
 
 ### [latimes-county-totals.csv](./latimes-county-totals.csv)
