@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-06-14,4207,111,,
+Berkeley,Alameda,001,2020-06-14,113,1,,
+Alpine,Alpine,003,2020-06-14,1,0,1,True
+Amador,Amador,005,2020-06-14,10,0,10,
+Butte,Butte,007,2020-06-14,74,1,51,True
+Calaveras,Calaveras,009,2020-06-14,26,0,15,True
+Colusa,Colusa,011,2020-06-14,7,0,,True
+Contra Costa,Contra Costa,013,2020-06-14,1959,44,1523,
+Del Norte,Del Norte,015,2020-06-14,47,0,47,True
+El Dorado,El Dorado,017,2020-06-14,113,0,91,True
+Fresno,Fresno,019,2020-06-14,2547,52,764,True
+Glenn,Glenn,021,2020-06-14,24,0,20,True
+Humboldt,Humboldt,023,2020-06-14,106,4,95,True
+Imperial,Imperial,025,2020-06-14,4157,43,2961,True
+Inyo,Inyo,027,2020-06-14,22,1,18,True
+Kern,Kern,029,2020-06-14,3281,53,2167,
+Kings,Kings,031,2020-06-14,1805,6,649,
+Lake,Lake,033,2020-06-14,32,0,28,True
+Lassen,Lassen,035,2020-06-14,9,0,2,True
+Long Beach,Los Angeles,037,2020-06-14,2599,114,1970,True
+Los Angeles,Los Angeles,037,2020-06-14,69382,2709,,
+Pasadena,Los Angeles,037,2020-06-14,1042,84,,
+Madera,Madera,039,2020-06-14,198,3,134,True
+Marin,Marin,041,2020-06-14,730,17,490,
+Mariposa,Mariposa,043,2020-06-14,16,1,15,True
+Mendocino,Mendocino,045,2020-06-14,38,0,32,True
+Merced,Merced,047,2020-06-14,409,7,286,True
+Modoc,Modoc,049,2020-06-14,0,0,,True
+Mono,Mono,051,2020-06-14,37,1,,True
+Monterey,Monterey,053,2020-06-14,949,12,569,
+Napa,Napa,055,2020-06-14,183,3,105,True
+Nevada,Nevada,057,2020-06-14,52,1,48,True
+Orange,Orange,059,2020-06-14,8573,221,4091,
+Placer,Placer,061,2020-06-14,372,9,220,
+Plumas,Plumas,063,2020-06-14,4,0,4,True
+Riverside,Riverside,065,2020-06-14,10490,383,5896,True
+Sacramento,Sacramento,067,2020-06-14,1753,63,1288,
+San Benito,San Benito,069,2020-06-14,125,2,105,
+San Bernardino,San Bernardino,071,2020-06-14,7359,228,4492,
+San Diego,San Diego,073,2020-06-14,9440,319,,
+San Francisco,San Francisco,075,2020-06-14,2928,45,,
+San Joaquin,San Joaquin,077,2020-06-14,1652,42,919,
+San Luis Obispo,San Luis Obispo,079,2020-06-14,324,1,285,True
+San Mateo,San Mateo,081,2020-06-14,2553,99,,True
+Santa Barbara,Santa Barbara,083,2020-06-14,1971,18,1664,True
+Santa Clara,Santa Clara,085,2020-06-14,3197,151,,
+Santa Cruz,Santa Cruz,087,2020-06-14,257,2,202,
+Shasta,Shasta,089,2020-06-14,50,4,,
+Sierra,Sierra,091,2020-06-14,1,0,1,True
+Siskiyou,Siskiyou,093,2020-06-14,16,0,7,
+Solano,Solano,095,2020-06-14,657,23,546,True
+Sonoma,Sonoma,097,2020-06-14,758,4,422,
+Stanislaus,Stanislaus,099,2020-06-14,1212,34,858,
+Sutter,Sutter,101,2020-06-14,86,2,59,
+Tehama,Tehama,103,2020-06-14,21,1,6,True
+Trinity,Trinity,105,2020-06-14,2,0,1,True
+Tulare,Tulare,107,2020-06-14,2564,98,1780,True
+Tuolumne,Tuolumne,109,2020-06-14,9,0,5,
+Ventura,Ventura,111,2020-06-14,1518,40,1102,True
+Yolo,Yolo,113,2020-06-14,253,24,,
+Yuba,Yuba,115,2020-06-14,35,1,30,
 Alameda,Alameda,001,2020-06-13,4104,108,,
 Berkeley,Alameda,001,2020-06-13,113,1,,
 Alpine,Alpine,003,2020-06-13,1,0,1,True
@@ -37,7 +98,7 @@ Plumas,Plumas,063,2020-06-13,4,0,4,True
 Riverside,Riverside,065,2020-06-13,10490,383,5896,True
 Sacramento,Sacramento,067,2020-06-13,1716,63,1288,
 San Benito,San Benito,069,2020-06-13,121,2,105,
-San Bernardino,San Bernardino,071,2020-06-13,7161,229,4444,
+San Bernardino,San Bernardino,071,2020-06-13,7161,228,4444,
 San Diego,San Diego,073,2020-06-13,9314,319,,
 San Francisco,San Francisco,075,2020-06-13,2906,44,,
 San Joaquin,San Joaquin,077,2020-06-13,1547,42,907,
