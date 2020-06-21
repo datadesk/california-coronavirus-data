@@ -1,4 +1,62 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
+2020-06-20,Alameda,001,4805,119,103,1
+2020-06-20,Alpine,003,1,0,0,0
+2020-06-20,Amador,005,13,0,1,0
+2020-06-20,Butte,007,94,1,0,0
+2020-06-20,Calaveras,009,28,0,0,0
+2020-06-20,Colusa,011,7,0,0,0
+2020-06-20,Contra Costa,013,2240,56,92,0
+2020-06-20,Del Norte,015,48,0,0,0
+2020-06-20,El Dorado,017,130,0,0,0
+2020-06-20,Fresno,019,3245,66,58,0
+2020-06-20,Glenn,021,42,0,0,0
+2020-06-20,Humboldt,023,110,4,0,0
+2020-06-20,Imperial,025,4800,64,56,0
+2020-06-20,Inyo,027,24,1,0,0
+2020-06-20,Kern,029,3793,60,87,2
+2020-06-20,Kings,031,2091,15,34,3
+2020-06-20,Lake,033,35,0,1,0
+2020-06-20,Lassen,035,9,0,0,0
+2020-06-20,Los Angeles,037,81709,3112,2033,46
+2020-06-20,Madera,039,314,4,0,0
+2020-06-20,Marin,041,1030,18,113,0
+2020-06-20,Mariposa,043,18,1,0,0
+2020-06-20,Mendocino,045,54,0,0,0
+2020-06-20,Merced,047,564,8,0,0
+2020-06-20,Modoc,049,0,0,0,0
+2020-06-20,Mono,051,37,1,0,0
+2020-06-20,Monterey,053,1181,12,25,0
+2020-06-20,Napa,055,224,4,8,0
+2020-06-20,Nevada,057,75,1,0,0
+2020-06-20,Orange,059,9988,267,412,10
+2020-06-20,Placer,061,490,9,14,0
+2020-06-20,Plumas,063,6,0,0,0
+2020-06-20,Riverside,065,12778,410,0,0
+2020-06-20,Sacramento,067,2069,67,93,0
+2020-06-20,San Benito,069,164,2,3,0
+2020-06-20,San Bernardino,071,8959,233,245,3
+2020-06-20,San Diego,073,10484,338,134,6
+2020-06-20,San Francisco,075,3058,47,1,0
+2020-06-20,San Joaquin,077,2177,48,43,0
+2020-06-20,San Luis Obispo,079,404,1,0,0
+2020-06-20,San Mateo,081,2721,103,0,0
+2020-06-20,Santa Barbara,083,2319,22,0,0
+2020-06-20,Santa Clara,085,3458,152,60,0
+2020-06-20,Santa Cruz,087,286,2,3,0
+2020-06-20,Shasta,089,80,4,4,0
+2020-06-20,Sierra,091,1,0,0,0
+2020-06-20,Siskiyou,093,22,0,1,0
+2020-06-20,Solano,095,860,23,0,0
+2020-06-20,Sonoma,097,835,4,0,0
+2020-06-20,Stanislaus,099,1514,35,41,0
+2020-06-20,Sutter,101,101,3,2,0
+2020-06-20,Tehama,103,34,1,0,0
+2020-06-20,Trinity,105,2,0,0,0
+2020-06-20,Tulare,107,3046,111,0,0
+2020-06-20,Tuolumne,109,10,0,1,0
+2020-06-20,Ventura,111,1835,42,0,0
+2020-06-20,Yolo,113,321,24,11,0
+2020-06-20,Yuba,115,42,1,1,0
 2020-06-19,Alameda,001,4702,118,64,1
 2020-06-19,Alpine,003,1,0,0,0
 2020-06-19,Amador,005,12,0,0,0
@@ -37,7 +95,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-19,San Bernardino,071,8714,230,260,0
 2020-06-19,San Diego,073,10350,332,258,1
 2020-06-19,San Francisco,075,3057,47,37,0
-2020-06-19,San Joaquin,077,1926,48,0,1
+2020-06-19,San Joaquin,077,2134,48,64,1
 2020-06-19,San Luis Obispo,079,404,1,15,0
 2020-06-19,San Mateo,081,2721,103,43,4
 2020-06-19,Santa Barbara,083,2319,22,66,0
@@ -95,7 +153,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-18,San Bernardino,071,8454,230,440,1
 2020-06-18,San Diego,073,10092,331,238,4
 2020-06-18,San Francisco,075,3020,47,38,0
-2020-06-18,San Joaquin,077,1926,47,38,1
+2020-06-18,San Joaquin,077,2070,47,122,1
 2020-06-18,San Luis Obispo,079,389,1,13,0
 2020-06-18,San Mateo,081,2678,99,25,0
 2020-06-18,Santa Barbara,083,2253,22,82,0
@@ -153,7 +211,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-17,San Bernardino,071,8014,229,218,1
 2020-06-17,San Diego,073,9854,327,124,4
 2020-06-17,San Francisco,075,2982,47,11,1
-2020-06-17,San Joaquin,077,1888,46,139,0
+2020-06-17,San Joaquin,077,1948,46,162,0
 2020-06-17,San Luis Obispo,079,376,1,20,0
 2020-06-17,San Mateo,081,2653,99,28,0
 2020-06-17,Santa Barbara,083,2171,22,56,0
@@ -211,7 +269,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-16,San Bernardino,071,7796,228,281,0
 2020-06-16,San Diego,073,9730,323,120,3
 2020-06-16,San Francisco,075,2971,46,19,1
-2020-06-16,San Joaquin,077,1749,46,33,4
+2020-06-16,San Joaquin,077,1786,46,66,4
 2020-06-16,San Luis Obispo,079,356,1,9,0
 2020-06-16,San Mateo,081,2625,99,31,0
 2020-06-16,Santa Barbara,083,2115,22,46,4
@@ -269,7 +327,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-15,San Bernardino,071,7515,228,156,0
 2020-06-15,San Diego,073,9610,320,170,1
 2020-06-15,San Francisco,075,2952,45,24,0
-2020-06-15,San Joaquin,077,1716,42,64,0
+2020-06-15,San Joaquin,077,1720,42,31,0
 2020-06-15,San Luis Obispo,079,347,1,23,0
 2020-06-15,San Mateo,081,2594,99,41,0
 2020-06-15,Santa Barbara,083,2069,18,98,0
@@ -327,7 +385,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-14,San Bernardino,071,7359,228,198,0
 2020-06-14,San Diego,073,9440,319,126,0
 2020-06-14,San Francisco,075,2928,45,22,1
-2020-06-14,San Joaquin,077,1652,42,105,0
+2020-06-14,San Joaquin,077,1689,42,101,0
 2020-06-14,San Luis Obispo,079,324,1,0,0
 2020-06-14,San Mateo,081,2553,99,20,0
 2020-06-14,Santa Barbara,083,1971,18,0,0
@@ -385,7 +443,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-13,San Bernardino,071,7161,228,185,0
 2020-06-13,San Diego,073,9314,319,184,6
 2020-06-13,San Francisco,075,2906,44,29,0
-2020-06-13,San Joaquin,077,1547,42,103,0
+2020-06-13,San Joaquin,077,1588,42,143,0
 2020-06-13,San Luis Obispo,079,324,1,0,0
 2020-06-13,San Mateo,081,2533,99,0,0
 2020-06-13,Santa Barbara,083,1971,18,0,0
@@ -443,7 +501,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-12,San Bernardino,071,6976,228,234,1
 2020-06-12,San Diego,073,9130,313,132,5
 2020-06-12,San Francisco,075,2877,44,37,0
-2020-06-12,San Joaquin,077,1444,42,56,0
+2020-06-12,San Joaquin,077,1445,42,48,0
 2020-06-12,San Luis Obispo,079,324,1,7,0
 2020-06-12,San Mateo,081,2533,99,39,6
 2020-06-12,Santa Barbara,083,1971,18,61,2
@@ -501,7 +559,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-11,San Bernardino,071,6742,227,149,2
 2020-06-11,San Diego,073,8998,308,161,3
 2020-06-11,San Francisco,075,2840,44,31,0
-2020-06-11,San Joaquin,077,1388,42,79,2
+2020-06-11,San Joaquin,077,1397,42,86,2
 2020-06-11,San Luis Obispo,079,317,1,11,0
 2020-06-11,San Mateo,081,2494,93,19,0
 2020-06-11,Santa Barbara,083,1910,16,46,0
@@ -559,7 +617,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-10,San Bernardino,071,6593,225,176,4
 2020-06-10,San Diego,073,8837,305,108,4
 2020-06-10,San Francisco,075,2809,44,16,0
-2020-06-10,San Joaquin,077,1309,40,50,1
+2020-06-10,San Joaquin,077,1311,40,54,1
 2020-06-10,San Luis Obispo,079,306,1,4,0
 2020-06-10,San Mateo,081,2475,93,38,0
 2020-06-10,Santa Barbara,083,1864,16,17,1
@@ -617,7 +675,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-09,San Bernardino,071,6417,221,170,0
 2020-06-09,San Diego,073,8729,301,110,5
 2020-06-09,San Francisco,075,2793,44,14,1
-2020-06-09,San Joaquin,077,1259,39,64,2
+2020-06-09,San Joaquin,077,1257,39,62,2
 2020-06-09,San Luis Obispo,079,302,1,3,0
 2020-06-09,San Mateo,081,2437,93,43,5
 2020-06-09,Santa Barbara,083,1847,15,30,0
@@ -675,7 +733,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-08,San Bernardino,071,6247,221,207,0
 2020-06-08,San Diego,073,8619,296,143,0
 2020-06-08,San Francisco,075,2779,43,32,0
-2020-06-08,San Joaquin,077,1195,37,34,0
+2020-06-08,San Joaquin,077,1195,37,28,0
 2020-06-08,San Luis Obispo,079,299,1,8,0
 2020-06-08,San Mateo,081,2394,88,64,0
 2020-06-08,Santa Barbara,083,1817,15,30,0
@@ -733,7 +791,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-07,San Bernardino,071,6040,221,0,0
 2020-06-07,San Diego,073,8476,296,131,0
 2020-06-07,San Francisco,075,2747,43,35,0
-2020-06-07,San Joaquin,077,1161,37,43,0
+2020-06-07,San Joaquin,077,1167,37,46,0
 2020-06-07,San Luis Obispo,079,291,1,0,0
 2020-06-07,San Mateo,081,2330,88,0,0
 2020-06-07,Santa Barbara,083,1787,15,0,0
@@ -791,7 +849,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-06,San Bernardino,071,6040,221,110,4
 2020-06-06,San Diego,073,8345,296,165,2
 2020-06-06,San Francisco,075,2712,43,14,0
-2020-06-06,San Joaquin,077,1118,37,68,1
+2020-06-06,San Joaquin,077,1121,37,65,1
 2020-06-06,San Luis Obispo,079,291,1,0,0
 2020-06-06,San Mateo,081,2330,88,31,0
 2020-06-06,Santa Barbara,083,1787,15,0,0
@@ -849,7 +907,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-05,San Bernardino,071,5930,217,137,7
 2020-06-05,San Diego,073,8180,294,240,6
 2020-06-05,San Francisco,075,2698,43,54,0
-2020-06-05,San Joaquin,077,1050,36,26,0
+2020-06-05,San Joaquin,077,1056,36,29,0
 2020-06-05,San Luis Obispo,079,291,1,3,0
 2020-06-05,San Mateo,081,2299,88,55,4
 2020-06-05,Santa Barbara,083,1787,15,50,1
@@ -907,7 +965,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-04,San Bernardino,071,5793,210,143,1
 2020-06-04,San Diego,073,7940,288,142,5
 2020-06-04,San Francisco,075,2644,43,31,0
-2020-06-04,San Joaquin,077,1024,36,16,1
+2020-06-04,San Joaquin,077,1027,36,20,1
 2020-06-04,San Luis Obispo,079,288,1,9,0
 2020-06-04,San Mateo,081,2244,84,32,0
 2020-06-04,Santa Barbara,083,1737,14,23,0
@@ -965,7 +1023,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-03,San Bernardino,071,5650,209,149,1
 2020-06-03,San Diego,073,7798,283,124,7
 2020-06-03,San Francisco,075,2613,43,26,0
-2020-06-03,San Joaquin,077,1008,35,26,0
+2020-06-03,San Joaquin,077,1007,35,27,0
 2020-06-03,San Luis Obispo,079,279,1,1,0
 2020-06-03,San Mateo,081,2212,84,24,0
 2020-06-03,Santa Barbara,083,1714,14,17,0
@@ -1023,7 +1081,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-02,San Bernardino,071,5501,208,146,4
 2020-06-02,San Diego,073,7674,276,120,7
 2020-06-02,San Francisco,075,2587,43,17,0
-2020-06-02,San Joaquin,077,982,35,74,1
+2020-06-02,San Joaquin,077,980,35,32,1
 2020-06-02,San Luis Obispo,079,278,1,7,0
 2020-06-02,San Mateo,081,2188,84,23,0
 2020-06-02,Santa Barbara,083,1697,14,28,2
@@ -1081,7 +1139,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-06-01,San Bernardino,071,5355,204,109,0
 2020-06-01,San Diego,073,7554,269,73,0
 2020-06-01,San Francisco,075,2570,43,12,1
-2020-06-01,San Joaquin,077,908,34,50,0
+2020-06-01,San Joaquin,077,948,34,21,0
 2020-06-01,San Luis Obispo,079,271,1,2,0
 2020-06-01,San Mateo,081,2165,84,61,0
 2020-06-01,Santa Barbara,083,1669,12,20,0
@@ -1139,7 +1197,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-31,San Bernardino,071,5246,204,46,0
 2020-05-31,San Diego,073,7481,269,96,0
 2020-05-31,San Francisco,075,2558,42,26,1
-2020-05-31,San Joaquin,077,858,34,0,0
+2020-05-31,San Joaquin,077,927,34,17,0
 2020-05-31,San Luis Obispo,079,269,1,0,0
 2020-05-31,San Mateo,081,2104,84,0,0
 2020-05-31,Santa Barbara,083,1649,12,0,0
@@ -1197,7 +1255,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-30,San Bernardino,071,5200,204,166,5
 2020-05-30,San Diego,073,7385,269,145,3
 2020-05-30,San Francisco,075,2532,41,59,0
-2020-05-30,San Joaquin,077,858,34,0,0
+2020-05-30,San Joaquin,077,910,34,44,0
 2020-05-30,San Luis Obispo,079,269,1,0,0
 2020-05-30,San Mateo,081,2104,84,43,0
 2020-05-30,Santa Barbara,083,1649,12,0,0
@@ -1255,7 +1313,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-29,San Bernardino,071,5034,199,120,9
 2020-05-29,San Diego,073,7240,266,140,6
 2020-05-29,San Francisco,075,2473,41,36,1
-2020-05-29,San Joaquin,077,858,34,16,0
+2020-05-29,San Joaquin,077,866,34,22,0
 2020-05-29,San Luis Obispo,079,269,1,1,0
 2020-05-29,San Mateo,081,2061,84,39,2
 2020-05-29,Santa Barbara,083,1649,12,13,0
@@ -1313,7 +1371,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-28,San Bernardino,071,4914,190,137,7
 2020-05-28,San Diego,073,7100,260,117,5
 2020-05-28,San Francisco,075,2437,40,29,0
-2020-05-28,San Joaquin,077,842,34,8,0
+2020-05-28,San Joaquin,077,844,34,12,0
 2020-05-28,San Luis Obispo,079,268,1,2,0
 2020-05-28,San Mateo,081,2022,82,59,0
 2020-05-28,Santa Barbara,083,1636,12,12,0
@@ -1371,7 +1429,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-27,San Bernardino,071,4777,183,210,7
 2020-05-27,San Diego,073,6983,255,101,6
 2020-05-27,San Francisco,075,2408,40,9,0
-2020-05-27,San Joaquin,077,834,34,63,1
+2020-05-27,San Joaquin,077,832,34,20,1
 2020-05-27,San Luis Obispo,079,266,1,3,0
 2020-05-27,San Mateo,081,1963,82,59,0
 2020-05-27,Santa Barbara,083,1624,12,20,0
@@ -1429,7 +1487,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-26,San Bernardino,071,4567,176,202,0
 2020-05-26,San Diego,073,6882,249,85,0
 2020-05-26,San Francisco,075,2399,40,13,0
-2020-05-26,San Joaquin,077,771,33,19,0
+2020-05-26,San Joaquin,077,812,33,3,0
 2020-05-26,San Luis Obispo,079,263,1,4,0
 2020-05-26,San Mateo,081,1904,82,71,6
 2020-05-26,Santa Barbara,083,1604,12,53,0
@@ -1487,7 +1545,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-25,San Bernardino,071,4365,176,0,0
 2020-05-25,San Diego,073,6797,249,96,0
 2020-05-25,San Francisco,075,2386,40,19,0
-2020-05-25,San Joaquin,077,752,33,0,0
+2020-05-25,San Joaquin,077,809,33,32,0
 2020-05-25,San Luis Obispo,079,259,1,1,0
 2020-05-25,San Mateo,081,1833,76,0,0
 2020-05-25,Santa Barbara,083,1551,12,0,0
@@ -1545,7 +1603,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-24,San Bernardino,071,4365,176,50,0
 2020-05-24,San Diego,073,6701,249,142,0
 2020-05-24,San Francisco,075,2367,40,17,0
-2020-05-24,San Joaquin,077,752,33,0,0
+2020-05-24,San Joaquin,077,777,33,5,0
 2020-05-24,San Luis Obispo,079,258,1,0,0
 2020-05-24,San Mateo,081,1833,76,0,0
 2020-05-24,Santa Barbara,083,1551,12,0,0
@@ -1603,7 +1661,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-23,San Bernardino,071,4315,176,169,3
 2020-05-23,San Diego,073,6559,249,125,7
 2020-05-23,San Francisco,075,2350,40,30,0
-2020-05-23,San Joaquin,077,752,33,0,0
+2020-05-23,San Joaquin,077,772,33,20,0
 2020-05-23,San Luis Obispo,079,258,1,5,0
 2020-05-23,San Mateo,081,1833,76,50,0
 2020-05-23,Santa Barbara,083,1551,12,0,0
@@ -1777,7 +1835,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-20,San Bernardino,071,3795,158,88,1
 2020-05-20,San Diego,073,6140,230,114,8
 2020-05-20,San Francisco,075,2185,37,6,1
-2020-05-20,San Joaquin,077,716,33,7,0
+2020-05-20,San Joaquin,077,716,33,9,0
 2020-05-20,San Luis Obispo,079,249,1,2,0
 2020-05-20,San Mateo,081,1697,75,10,0
 2020-05-20,Santa Barbara,083,1520,11,3,0
@@ -1835,7 +1893,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-19,San Bernardino,071,3707,157,114,2
 2020-05-19,San Diego,073,6026,222,80,11
 2020-05-19,San Francisco,075,2179,36,48,0
-2020-05-19,San Joaquin,077,709,33,10,1
+2020-05-19,San Joaquin,077,707,33,10,1
 2020-05-19,San Luis Obispo,079,247,1,1,0
 2020-05-19,San Mateo,081,1687,75,16,9
 2020-05-19,Santa Barbara,083,1517,11,21,0
@@ -1893,7 +1951,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-18,San Bernardino,071,3593,155,82,0
 2020-05-18,San Diego,073,5946,211,110,2
 2020-05-18,San Francisco,075,2131,36,40,0
-2020-05-18,San Joaquin,077,699,32,10,0
+2020-05-18,San Joaquin,077,697,32,10,0
 2020-05-18,San Luis Obispo,079,246,1,3,0
 2020-05-18,San Mateo,081,1671,66,69,0
 2020-05-18,Santa Barbara,083,1496,11,22,0
@@ -1951,7 +2009,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-17,San Bernardino,071,3511,155,48,0
 2020-05-17,San Diego,073,5836,209,174,0
 2020-05-17,San Francisco,075,2091,36,37,0
-2020-05-17,San Joaquin,077,689,32,19,1
+2020-05-17,San Joaquin,077,687,32,19,1
 2020-05-17,San Luis Obispo,079,243,1,0,0
 2020-05-17,San Mateo,081,1602,66,0,0
 2020-05-17,Santa Barbara,083,1474,11,56,0
@@ -2009,7 +2067,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-16,San Bernardino,071,3463,155,152,5
 2020-05-16,San Diego,073,5662,209,139,1
 2020-05-16,San Francisco,075,2054,36,28,0
-2020-05-16,San Joaquin,077,670,31,11,0
+2020-05-16,San Joaquin,077,668,31,12,0
 2020-05-16,San Luis Obispo,079,243,1,3,0
 2020-05-16,San Mateo,081,1602,66,27,0
 2020-05-16,Santa Barbara,083,1418,11,16,0
@@ -2067,7 +2125,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-15,San Bernardino,071,3311,150,113,11
 2020-05-15,San Diego,073,5523,208,132,8
 2020-05-15,San Francisco,075,2026,36,27,1
-2020-05-15,San Joaquin,077,659,31,15,0
+2020-05-15,San Joaquin,077,656,31,13,0
 2020-05-15,San Luis Obispo,079,240,1,3,0
 2020-05-15,San Mateo,081,1575,66,39,1
 2020-05-15,Santa Barbara,083,1402,11,15,0
@@ -2125,7 +2183,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-14,San Bernardino,071,3198,139,45,1
 2020-05-14,San Diego,073,5391,200,113,6
 2020-05-14,San Francisco,075,1999,35,5,0
-2020-05-14,San Joaquin,077,644,31,6,0
+2020-05-14,San Joaquin,077,643,31,7,0
 2020-05-14,San Luis Obispo,079,237,1,5,0
 2020-05-14,San Mateo,081,1536,65,21,0
 2020-05-14,Santa Barbara,083,1387,11,11,0
@@ -2183,7 +2241,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-13,San Bernardino,071,3153,138,75,18
 2020-05-13,San Diego,073,5278,194,117,4
 2020-05-13,San Francisco,075,1994,35,17,0
-2020-05-13,San Joaquin,077,638,31,9,1
+2020-05-13,San Joaquin,077,636,31,8,1
 2020-05-13,San Luis Obispo,079,232,1,5,0
 2020-05-13,San Mateo,081,1515,65,18,0
 2020-05-13,Santa Barbara,083,1376,11,5,0
@@ -2241,7 +2299,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-12,San Bernardino,071,3078,120,63,5
 2020-05-12,San Diego,073,5161,190,96,15
 2020-05-12,San Francisco,075,1977,35,23,0
-2020-05-12,San Joaquin,077,629,30,8,1
+2020-05-12,San Joaquin,077,628,30,8,1
 2020-05-12,San Luis Obispo,079,227,1,1,0
 2020-05-12,San Mateo,081,1497,65,33,9
 2020-05-12,Santa Barbara,083,1371,11,9,0
@@ -2299,7 +2357,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-11,San Bernardino,071,3015,115,51,1
 2020-05-11,San Diego,073,5065,175,139,0
 2020-05-11,San Francisco,075,1954,35,11,1
-2020-05-11,San Joaquin,077,621,29,9,0
+2020-05-11,San Joaquin,077,620,29,7,0
 2020-05-11,San Luis Obispo,079,226,1,6,0
 2020-05-11,San Mateo,081,1464,56,39,0
 2020-05-11,Santa Barbara,083,1362,11,54,0
@@ -2357,7 +2415,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-10,San Bernardino,071,2964,114,62,0
 2020-05-10,San Diego,073,4926,175,150,0
 2020-05-10,San Francisco,075,1943,34,52,1
-2020-05-10,San Joaquin,077,612,29,7,1
+2020-05-10,San Joaquin,077,613,29,9,1
 2020-05-10,San Luis Obispo,079,220,1,6,0
 2020-05-10,San Mateo,081,1425,56,0,0
 2020-05-10,Santa Barbara,083,1308,11,58,0
@@ -2415,7 +2473,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-09,San Bernardino,071,2902,114,273,3
 2020-05-09,San Diego,073,4776,175,114,6
 2020-05-09,San Francisco,075,1891,33,38,0
-2020-05-09,San Joaquin,077,605,28,8,0
+2020-05-09,San Joaquin,077,604,28,6,0
 2020-05-09,San Luis Obispo,079,214,1,2,0
 2020-05-09,San Mateo,081,1425,56,28,0
 2020-05-09,Santa Barbara,083,1250,11,218,0
@@ -2473,7 +2531,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-08,San Bernardino,071,2629,111,67,3
 2020-05-08,San Diego,073,4662,169,233,4
 2020-05-08,San Francisco,075,1853,33,47,1
-2020-05-08,San Joaquin,077,597,28,16,0
+2020-05-08,San Joaquin,077,598,28,15,0
 2020-05-08,San Luis Obispo,079,212,1,1,0
 2020-05-08,San Mateo,081,1397,56,20,0
 2020-05-08,Santa Barbara,083,1032,11,310,1
@@ -2531,7 +2589,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-07,San Bernardino,071,2562,108,130,4
 2020-05-07,San Diego,073,4429,165,110,7
 2020-05-07,San Francisco,075,1806,32,52,1
-2020-05-07,San Joaquin,077,581,28,2,1
+2020-05-07,San Joaquin,077,583,28,3,1
 2020-05-07,San Luis Obispo,079,211,1,3,0
 2020-05-07,San Mateo,081,1377,56,36,0
 2020-05-07,Santa Barbara,083,722,10,109,1
@@ -2589,7 +2647,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-06,San Bernardino,071,2432,104,103,3
 2020-05-06,San Diego,073,4319,158,159,8
 2020-05-06,San Francisco,075,1754,31,26,0
-2020-05-06,San Joaquin,077,579,27,1,1
+2020-05-06,San Joaquin,077,580,27,3,1
 2020-05-06,San Luis Obispo,079,208,1,4,0
 2020-05-06,San Mateo,081,1341,56,26,0
 2020-05-06,Santa Barbara,083,613,9,69,0
@@ -2647,7 +2705,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-05,San Bernardino,071,2329,101,147,4
 2020-05-05,San Diego,073,4160,150,140,6
 2020-05-05,San Francisco,075,1728,31,104,2
-2020-05-05,San Joaquin,077,578,26,4,0
+2020-05-05,San Joaquin,077,577,26,4,0
 2020-05-05,San Luis Obispo,079,204,1,2,0
 2020-05-05,San Mateo,081,1315,56,34,5
 2020-05-05,Santa Barbara,083,544,9,18,1
@@ -2705,7 +2763,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-04,San Bernardino,071,2182,97,0,0
 2020-05-04,San Diego,073,4020,144,93,5
 2020-05-04,San Francisco,075,1624,29,22,0
-2020-05-04,San Joaquin,077,574,26,4,1
+2020-05-04,San Joaquin,077,573,26,4,1
 2020-05-04,San Luis Obispo,079,202,1,1,0
 2020-05-04,San Mateo,081,1281,51,48,0
 2020-05-04,Santa Barbara,083,526,8,12,0
@@ -2763,7 +2821,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-03,San Bernardino,071,2182,97,0,0
 2020-05-03,San Diego,073,3927,139,85,1
 2020-05-03,San Francisco,075,1602,29,59,0
-2020-05-03,San Joaquin,077,570,25,10,0
+2020-05-03,San Joaquin,077,569,25,11,0
 2020-05-03,San Luis Obispo,079,201,1,5,0
 2020-05-03,San Mateo,081,1233,51,0,0
 2020-05-03,Santa Barbara,083,514,8,6,0
@@ -2821,7 +2879,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-02,San Bernardino,071,2182,97,69,3
 2020-05-02,San Diego,073,3842,138,131,4
 2020-05-02,San Francisco,075,1543,29,20,1
-2020-05-02,San Joaquin,077,560,25,3,0
+2020-05-02,San Joaquin,077,558,25,3,0
 2020-05-02,San Luis Obispo,079,196,1,8,0
 2020-05-02,San Mateo,081,1233,51,36,0
 2020-05-02,Santa Barbara,083,508,8,2,0
@@ -2879,7 +2937,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,San Bernardino,071,2113,94,55,1
 2020-05-01,San Diego,073,3711,134,147,10
 2020-05-01,San Francisco,075,1523,28,24,3
-2020-05-01,San Joaquin,077,557,25,14,0
+2020-05-01,San Joaquin,077,555,25,13,0
 2020-05-01,San Luis Obispo,079,188,1,4,0
 2020-05-01,San Mateo,081,1197,51,20,3
 2020-05-01,Santa Barbara,083,506,8,10,0
@@ -2937,7 +2995,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-30,San Bernardino,071,2058,93,130,4
 2020-04-30,San Diego,073,3564,124,132,4
 2020-04-30,San Francisco,075,1499,25,9,2
-2020-04-30,San Joaquin,077,543,25,3,0
+2020-04-30,San Joaquin,077,542,25,6,0
 2020-04-30,San Luis Obispo,079,184,1,3,0
 2020-04-30,San Mateo,081,1177,48,41,0
 2020-04-30,Santa Barbara,083,496,8,11,0
@@ -2995,7 +3053,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-29,San Bernardino,071,1928,89,101,4
 2020-04-29,San Diego,073,3432,120,118,2
 2020-04-29,San Francisco,075,1490,23,22,0
-2020-04-29,San Joaquin,077,540,25,11,0
+2020-04-29,San Joaquin,077,536,25,11,0
 2020-04-29,San Luis Obispo,079,181,1,8,0
 2020-04-29,San Mateo,081,1136,48,37,0
 2020-04-29,Santa Barbara,083,485,8,8,1
@@ -3051,7 +3109,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-28,San Bernardino,071,1827,85,55,3
 2020-04-28,San Diego,073,3314,118,173,5
 2020-04-28,San Francisco,075,1468,23,44,0
-2020-04-28,San Joaquin,077,529,25,2,0
+2020-04-28,San Joaquin,077,525,25,6,0
 2020-04-28,San Luis Obispo,079,173,1,4,0
 2020-04-28,San Mateo,081,1099,48,19,7
 2020-04-28,Santa Barbara,083,477,7,4,0
@@ -3104,7 +3162,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-27,San Bernardino,071,1772,82,21,0
 2020-04-27,San Diego,073,3141,113,98,2
 2020-04-27,San Francisco,075,1424,23,16,1
-2020-04-27,San Joaquin,077,527,25,4,0
+2020-04-27,San Joaquin,077,519,25,15,0
 2020-04-27,San Luis Obispo,079,169,1,3,0
 2020-04-27,San Mateo,081,1080,41,61,0
 2020-04-27,Santa Barbara,083,473,7,2,0
@@ -3157,7 +3215,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-26,San Bernardino,071,1751,82,19,0
 2020-04-26,San Diego,073,3043,111,100,0
 2020-04-26,San Francisco,075,1408,22,54,0
-2020-04-26,San Joaquin,077,523,25,16,0
+2020-04-26,San Joaquin,077,504,25,12,0
 2020-04-26,San Luis Obispo,079,166,1,1,0
 2020-04-26,San Mateo,081,1019,41,0,0
 2020-04-26,Santa Barbara,083,471,7,2,0
@@ -3210,7 +3268,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-25,San Bernardino,071,1732,82,66,2
 2020-04-25,San Diego,073,2943,111,117,9
 2020-04-25,San Francisco,075,1354,22,14,0
-2020-04-25,San Joaquin,077,507,25,12,1
+2020-04-25,San Joaquin,077,492,25,7,1
 2020-04-25,San Luis Obispo,079,165,1,2,0
 2020-04-25,San Mateo,081,1019,41,30,0
 2020-04-25,Santa Barbara,083,469,7,9,1
@@ -3263,7 +3321,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-24,San Bernardino,071,1666,80,58,3
 2020-04-24,San Diego,073,2826,102,183,2
 2020-04-24,San Francisco,075,1340,22,38,1
-2020-04-24,San Joaquin,077,495,24,8,2
+2020-04-24,San Joaquin,077,485,24,16,2
 2020-04-24,San Luis Obispo,079,163,1,14,0
 2020-04-24,San Mateo,081,989,41,23,2
 2020-04-24,Santa Barbara,083,460,6,9,1
@@ -3316,7 +3374,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-23,San Bernardino,071,1608,77,30,5
 2020-04-23,San Diego,073,2643,100,152,4
 2020-04-23,San Francisco,075,1302,21,69,0
-2020-04-23,San Joaquin,077,487,22,15,2
+2020-04-23,San Joaquin,077,469,22,14,2
 2020-04-23,San Luis Obispo,079,149,1,7,0
 2020-04-23,San Mateo,081,966,39,8,0
 2020-04-23,Santa Barbara,083,451,5,11,0
@@ -3369,7 +3427,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-22,San Bernardino,071,1578,72,89,5
 2020-04-22,San Diego,073,2491,96,57,9
 2020-04-22,San Francisco,075,1233,21,2,1
-2020-04-22,San Joaquin,077,472,20,16,0
+2020-04-22,San Joaquin,077,455,20,11,0
 2020-04-22,San Luis Obispo,079,142,1,8,0
 2020-04-22,San Mateo,081,958,39,23,11
 2020-04-22,Santa Barbara,083,440,5,11,0
@@ -3422,7 +3480,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-21,San Bernardino,071,1489,67,83,7
 2020-04-21,San Diego,073,2434,87,109,15
 2020-04-21,San Francisco,075,1231,20,15,0
-2020-04-21,San Joaquin,077,456,20,10,2
+2020-04-21,San Joaquin,077,444,20,26,2
 2020-04-21,San Luis Obispo,079,134,1,2,0
 2020-04-21,San Mateo,081,935,28,15,0
 2020-04-21,Santa Barbara,083,429,5,13,1
@@ -3475,7 +3533,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-20,San Bernardino,071,1406,60,120,3
 2020-04-20,San Diego,073,2325,72,57,1
 2020-04-20,San Francisco,075,1216,20,59,0
-2020-04-20,San Joaquin,077,446,18,28,1
+2020-04-20,San Joaquin,077,418,18,10,1
 2020-04-20,San Luis Obispo,079,132,1,0,0
 2020-04-20,San Mateo,081,920,28,82,0
 2020-04-20,Santa Barbara,083,416,4,22,0
@@ -3528,7 +3586,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-19,San Bernardino,071,1286,57,67,0
 2020-04-19,San Diego,073,2268,71,55,0
 2020-04-19,San Francisco,075,1157,20,20,0
-2020-04-19,San Joaquin,077,418,17,8,0
+2020-04-19,San Joaquin,077,408,17,14,0
 2020-04-19,San Luis Obispo,079,132,1,1,0
 2020-04-19,San Mateo,081,838,28,0,0
 2020-04-19,Santa Barbara,083,394,4,9,0
@@ -3581,7 +3639,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-18,San Bernardino,071,1219,57,123,2
 2020-04-18,San Diego,073,2213,71,55,1
 2020-04-18,San Francisco,075,1137,20,79,0
-2020-04-18,San Joaquin,077,410,17,12,0
+2020-04-18,San Joaquin,077,394,17,25,0
 2020-04-18,San Luis Obispo,079,131,1,4,0
 2020-04-18,San Mateo,081,838,28,0,0
 2020-04-18,Santa Barbara,083,385,4,12,1
@@ -3634,7 +3692,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-17,San Bernardino,071,1096,55,64,8
 2020-04-17,San Diego,073,2158,70,71,7
 2020-04-17,San Francisco,075,1058,20,39,3
-2020-04-17,San Joaquin,077,398,17,29,0
+2020-04-17,San Joaquin,077,369,17,8,0
 2020-04-17,San Luis Obispo,079,127,1,2,0
 2020-04-17,San Mateo,081,838,28,41,0
 2020-04-17,Santa Barbara,083,373,3,19,0
@@ -3687,7 +3745,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-16,San Bernardino,071,1032,47,36,8
 2020-04-16,San Diego,073,2087,63,75,3
 2020-04-16,San Francisco,075,1019,17,6,0
-2020-04-16,San Joaquin,077,369,17,5,0
+2020-04-16,San Joaquin,077,361,17,25,0
 2020-04-16,San Luis Obispo,079,125,1,1,0
 2020-04-16,San Mateo,081,797,28,30,0
 2020-04-16,Santa Barbara,083,354,3,20,1
@@ -3740,7 +3798,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-15,San Bernardino,071,996,39,19,8
 2020-04-15,San Diego,073,2012,60,82,7
 2020-04-15,San Francisco,075,1013,17,26,2
-2020-04-15,San Joaquin,077,364,17,29,0
+2020-04-15,San Joaquin,077,336,17,24,0
 2020-04-15,San Luis Obispo,079,124,1,4,0
 2020-04-15,San Mateo,081,767,28,20,7
 2020-04-15,Santa Barbara,083,334,2,21,0
@@ -3793,7 +3851,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-14,San Bernardino,071,977,31,0,0
 2020-04-14,San Diego,073,1930,53,83,6
 2020-04-14,San Francisco,075,987,15,30,0
-2020-04-14,San Joaquin,077,335,17,26,0
+2020-04-14,San Joaquin,077,312,17,39,0
 2020-04-14,San Luis Obispo,079,120,1,3,0
 2020-04-14,San Mateo,081,747,21,46,0
 2020-04-14,Santa Barbara,083,313,2,29,0
@@ -3846,7 +3904,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-13,San Bernardino,071,977,31,90,0
 2020-04-13,San Diego,073,1847,47,43,2
 2020-04-13,San Francisco,075,957,15,85,1
-2020-04-13,San Joaquin,077,309,17,36,1
+2020-04-13,San Joaquin,077,273,17,12,1
 2020-04-13,San Luis Obispo,079,117,1,3,0
 2020-04-13,San Mateo,081,701,21,49,0
 2020-04-13,Santa Barbara,083,284,2,17,0
@@ -3899,7 +3957,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-12,San Bernardino,071,887,31,77,6
 2020-04-12,San Diego,073,1804,45,43,0
 2020-04-12,San Francisco,075,872,14,15,1
-2020-04-12,San Joaquin,077,273,16,13,1
+2020-04-12,San Joaquin,077,261,16,1,1
 2020-04-12,San Luis Obispo,079,114,1,4,0
 2020-04-12,San Mateo,081,652,21,0,0
 2020-04-12,Santa Barbara,083,267,2,3,0
@@ -3952,7 +4010,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-11,San Bernardino,071,810,25,0,0
 2020-04-11,San Diego,073,1761,45,68,1
 2020-04-11,San Francisco,075,857,13,60,0
-2020-04-11,San Joaquin,077,260,15,3,1
+2020-04-11,San Joaquin,077,260,15,11,1
 2020-04-11,San Luis Obispo,079,110,1,3,0
 2020-04-11,San Mateo,081,652,21,14,0
 2020-04-11,Santa Barbara,083,264,2,4,0
@@ -4005,7 +4063,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-10,San Bernardino,071,810,25,81,1
 2020-04-10,San Diego,073,1693,44,65,4
 2020-04-10,San Francisco,075,797,13,73,3
-2020-04-10,San Joaquin,077,257,14,12,0
+2020-04-10,San Joaquin,077,249,14,12,0
 2020-04-10,San Luis Obispo,079,107,1,3,0
 2020-04-10,San Mateo,081,638,21,5,0
 2020-04-10,Santa Barbara,083,260,2,17,0
@@ -4058,7 +4116,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-09,San Bernardino,071,729,24,88,4
 2020-04-09,San Diego,073,1628,40,98,4
 2020-04-09,San Francisco,075,724,10,48,0
-2020-04-09,San Joaquin,077,245,14,8,0
+2020-04-09,San Joaquin,077,237,14,13,0
 2020-04-09,San Luis Obispo,079,104,1,2,0
 2020-04-09,San Mateo,081,633,21,16,0
 2020-04-09,Santa Barbara,083,243,2,15,0
@@ -4111,7 +4169,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-08,San Bernardino,071,641,20,94,3
 2020-04-08,San Diego,073,1530,36,76,5
 2020-04-08,San Francisco,075,676,10,54,1
-2020-04-08,San Joaquin,077,237,14,14,1
+2020-04-08,San Joaquin,077,224,14,8,1
 2020-04-08,San Luis Obispo,079,102,1,3,0
 2020-04-08,San Mateo,081,617,21,28,0
 2020-04-08,Santa Barbara,083,228,2,10,0
@@ -4164,7 +4222,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-07,San Bernardino,071,547,17,17,1
 2020-04-07,San Diego,073,1454,31,50,12
 2020-04-07,San Francisco,075,622,9,39,0
-2020-04-07,San Joaquin,077,223,13,11,2
+2020-04-07,San Joaquin,077,216,13,12,2
 2020-04-07,San Luis Obispo,079,99,1,4,0
 2020-04-07,San Mateo,081,589,21,10,8
 2020-04-07,Santa Barbara,083,218,2,26,0
@@ -4217,7 +4275,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-06,San Bernardino,071,530,16,157,3
 2020-04-06,San Diego,073,1404,19,78,0
 2020-04-06,San Francisco,075,583,9,15,1
-2020-04-06,San Joaquin,077,212,11,9,0
+2020-04-06,San Joaquin,077,204,11,8,0
 2020-04-06,San Luis Obispo,079,95,1,0,0
 2020-04-06,San Mateo,081,579,13,24,0
 2020-04-06,Santa Barbara,083,192,2,18,0
@@ -4270,7 +4328,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-05,San Bernardino,071,373,13,1,0
 2020-04-05,San Diego,073,1326,19,117,1
 2020-04-05,San Francisco,075,568,8,39,0
-2020-04-05,San Joaquin,077,203,11,12,0
+2020-04-05,San Joaquin,077,196,11,10,0
 2020-04-05,San Luis Obispo,079,95,1,2,1
 2020-04-05,San Mateo,081,555,13,17,0
 2020-04-05,Santa Barbara,083,174,2,6,1
@@ -4322,7 +4380,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-04,San Bernardino,071,372,13,19,0
 2020-04-04,San Diego,073,1209,18,97,1
 2020-04-04,San Francisco,075,529,8,32,1
-2020-04-04,San Joaquin,077,191,11,6,0
+2020-04-04,San Joaquin,077,186,11,6,0
 2020-04-04,San Luis Obispo,079,93,0,0,0
 2020-04-04,San Mateo,081,538,13,52,0
 2020-04-04,Santa Barbara,083,168,1,16,0
@@ -4374,7 +4432,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-03,San Bernardino,071,353,13,49,5
 2020-04-03,San Diego,073,1112,17,146,1
 2020-04-03,San Francisco,075,497,7,47,0
-2020-04-03,San Joaquin,077,185,11,7,1
+2020-04-03,San Joaquin,077,180,11,16,1
 2020-04-03,San Luis Obispo,079,93,0,4,0
 2020-04-03,San Mateo,081,486,13,33,3
 2020-04-03,Santa Barbara,083,152,1,13,0
@@ -4426,7 +4484,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-02,San Bernardino,071,304,8,50,2
 2020-04-02,San Diego,073,966,16,117,1
 2020-04-02,San Francisco,075,450,7,16,0
-2020-04-02,San Joaquin,077,178,10,17,2
+2020-04-02,San Joaquin,077,164,10,13,2
 2020-04-02,San Luis Obispo,079,89,0,6,0
 2020-04-02,San Mateo,081,453,10,65,0
 2020-04-02,Santa Barbara,083,139,1,28,0
@@ -4477,7 +4535,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-01,San Bernardino,071,254,6,71,0
 2020-04-01,San Diego,073,849,15,115,6
 2020-04-01,San Francisco,075,434,7,37,1
-2020-04-01,San Joaquin,077,161,8,10,0
+2020-04-01,San Joaquin,077,151,8,14,0
 2020-04-01,San Luis Obispo,079,83,0,3,0
 2020-04-01,San Mateo,081,388,10,0,0
 2020-04-01,Santa Barbara,083,111,1,12,1
@@ -4528,7 +4586,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-31,San Bernardino,071,183,6,72,3
 2020-03-31,San Diego,073,734,9,131,2
 2020-03-31,San Francisco,075,397,6,23,0
-2020-03-31,San Joaquin,077,151,8,15,2
+2020-03-31,San Joaquin,077,137,8,14,2
 2020-03-31,San Luis Obispo,079,80,0,3,0
 2020-03-31,San Mateo,081,388,10,79,0
 2020-03-31,Santa Barbara,083,99,0,11,0
@@ -4577,7 +4635,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-30,San Bernardino,071,111,3,0,0
 2020-03-30,San Diego,073,603,7,84,0
 2020-03-30,San Francisco,075,374,6,34,1
-2020-03-30,San Joaquin,077,136,6,15,1
+2020-03-30,San Joaquin,077,123,6,15,1
 2020-03-30,San Luis Obispo,079,77,0,6,0
 2020-03-30,San Mateo,081,309,10,32,4
 2020-03-30,Santa Barbara,083,88,0,20,0
@@ -4625,7 +4683,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-29,San Bernardino,071,111,3,35,0
 2020-03-29,San Diego,073,519,7,31,0
 2020-03-29,San Francisco,075,340,5,32,1
-2020-03-29,San Joaquin,077,121,5,13,1
+2020-03-29,San Joaquin,077,108,5,13,1
 2020-03-29,San Luis Obispo,079,71,0,4,0
 2020-03-29,San Mateo,081,277,6,3,0
 2020-03-29,Santa Barbara,083,68,0,4,0
@@ -4672,7 +4730,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-28,San Bernardino,071,76,3,12,0
 2020-03-28,San Diego,073,488,7,71,1
 2020-03-28,San Francisco,075,308,4,29,1
-2020-03-28,San Joaquin,077,108,4,15,0
+2020-03-28,San Joaquin,077,95,4,9,0
 2020-03-28,San Luis Obispo,079,67,0,8,0
 2020-03-28,San Mateo,081,274,6,35,0
 2020-03-28,Santa Barbara,083,64,0,17,0
@@ -4719,7 +4777,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-27,San Bernardino,071,64,3,9,0
 2020-03-27,San Diego,073,417,6,76,3
 2020-03-27,San Francisco,075,279,3,56,1
-2020-03-27,San Joaquin,077,93,4,10,1
+2020-03-27,San Joaquin,077,86,4,11,1
 2020-03-27,San Luis Obispo,079,59,0,5,0
 2020-03-27,San Mateo,081,239,6,44,1
 2020-03-27,Santa Barbara,083,47,0,15,0
@@ -4763,7 +4821,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-26,San Bernardino,071,55,3,1,1
 2020-03-26,San Diego,073,341,3,58,1
 2020-03-26,San Francisco,075,223,2,45,1
-2020-03-26,San Joaquin,077,83,3,12,0
+2020-03-26,San Joaquin,077,75,3,14,0
 2020-03-26,San Luis Obispo,079,54,0,8,0
 2020-03-26,San Mateo,081,195,5,30,0
 2020-03-26,Santa Barbara,083,32,0,6,0
@@ -4807,7 +4865,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-25,San Bernardino,071,54,2,16,1
 2020-03-25,San Diego,073,283,2,51,0
 2020-03-25,San Francisco,075,178,1,26,0
-2020-03-25,San Joaquin,077,71,3,11,1
+2020-03-25,San Joaquin,077,61,3,0,1
 2020-03-25,San Luis Obispo,079,46,0,4,0
 2020-03-25,San Mateo,081,165,5,4,3
 2020-03-25,Santa Barbara,083,26,0,2,0
@@ -4850,7 +4908,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-24,San Bernardino,071,38,1,21,1
 2020-03-24,San Diego,073,232,2,35,1
 2020-03-24,San Francisco,075,152,1,21,1
-2020-03-24,San Joaquin,077,60,2,9,0
+2020-03-24,San Joaquin,077,61,2,9,0
 2020-03-24,San Luis Obispo,079,42,0,9,0
 2020-03-24,San Mateo,081,161,2,19,1
 2020-03-24,Santa Barbara,083,24,0,6,0
@@ -4892,7 +4950,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-23,San Bernardino,071,17,0,0,0
 2020-03-23,San Diego,073,197,1,54,0
 2020-03-23,San Francisco,075,131,0,23,0
-2020-03-23,San Joaquin,077,51,2,10,0
+2020-03-23,San Joaquin,077,52,2,16,0
 2020-03-23,San Luis Obispo,079,33,0,6,0
 2020-03-23,San Mateo,081,142,1,25,0
 2020-03-23,Santa Barbara,083,18,0,0,0
@@ -4934,7 +4992,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-22,San Bernardino,071,17,0,7,0
 2020-03-22,San Diego,073,143,1,25,1
 2020-03-22,San Francisco,075,108,0,24,0
-2020-03-22,San Joaquin,077,41,2,10,0
+2020-03-22,San Joaquin,077,36,2,5,0
 2020-03-22,San Luis Obispo,079,27,0,6,0
 2020-03-22,San Mateo,081,117,1,7,0
 2020-03-22,Santa Barbara,083,18,0,5,0
@@ -4974,7 +5032,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-21,San Bernardino,071,10,0,1,0
 2020-03-21,San Diego,073,118,0,18,0
 2020-03-21,San Francisco,075,84,0,8,0
-2020-03-21,San Joaquin,077,31,2,11,0
+2020-03-21,San Joaquin,077,31,2,2,0
 2020-03-21,San Luis Obispo,079,21,0,5,0
 2020-03-21,San Mateo,081,110,1,10,0
 2020-03-21,Santa Barbara,083,13,0,4,0
@@ -5012,7 +5070,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-20,San Bernardino,071,9,0,4,0
 2020-03-20,San Diego,073,100,0,30,0
 2020-03-20,San Francisco,075,76,0,6,0
-2020-03-20,San Joaquin,077,20,2,3,0
+2020-03-20,San Joaquin,077,29,2,5,0
 2020-03-20,San Luis Obispo,079,16,0,3,0
 2020-03-20,San Mateo,081,100,1,11,0
 2020-03-20,Santa Barbara,083,9,0,1,0
@@ -5047,7 +5105,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-19,San Bernardino,071,5,0,0,0
 2020-03-19,San Diego,073,70,0,11,0
 2020-03-19,San Francisco,075,70,0,19,0
-2020-03-19,San Joaquin,077,17,2,3,0
+2020-03-19,San Joaquin,077,24,2,7,0
 2020-03-19,San Luis Obispo,079,13,0,6,0
 2020-03-19,San Mateo,081,89,1,9,0
 2020-03-19,Santa Barbara,083,8,0,5,0
@@ -5082,7 +5140,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-18,San Bernardino,071,5,0,2,0
 2020-03-18,San Diego,073,59,0,9,0
 2020-03-18,San Francisco,075,51,0,8,0
-2020-03-18,San Joaquin,077,14,2,1,2
+2020-03-18,San Joaquin,077,17,2,3,2
 2020-03-18,San Luis Obispo,079,7,0,1,0
 2020-03-18,San Mateo,081,80,1,16,0
 2020-03-18,Santa Barbara,083,3,0,1,0
@@ -5116,7 +5174,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-17,San Bernardino,071,3,0,1,0
 2020-03-17,San Diego,073,50,0,13,0
 2020-03-17,San Francisco,075,43,0,3,0
-2020-03-17,San Joaquin,077,13,0,4,0
+2020-03-17,San Joaquin,077,14,0,1,0
 2020-03-17,San Luis Obispo,079,6,0,3,0
 2020-03-17,San Mateo,081,64,1,22,0
 2020-03-17,Santa Barbara,083,2,0,1,0
@@ -5148,7 +5206,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-16,San Bernardino,071,2,0,1,0
 2020-03-16,San Diego,073,37,0,12,0
 2020-03-16,San Francisco,075,40,0,3,0
-2020-03-16,San Joaquin,077,9,0,1,0
+2020-03-16,San Joaquin,077,13,0,4,0
 2020-03-16,San Luis Obispo,079,3,0,1,0
 2020-03-16,San Mateo,081,42,1,10,0
 2020-03-16,Santa Barbara,083,1,0,0,0
@@ -5179,7 +5237,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-15,San Bernardino,071,1,0,,
 2020-03-15,San Diego,073,25,0,6,0
 2020-03-15,San Francisco,075,37,0,9,0
-2020-03-15,San Joaquin,077,8,0,0,0
+2020-03-15,San Joaquin,077,9,0,3,0
 2020-03-15,San Luis Obispo,079,2,0,1,0
 2020-03-15,San Mateo,081,32,1,0,1
 2020-03-15,Santa Barbara,083,1,0,,
@@ -5209,7 +5267,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-14,San Benito,069,3,0,0,0
 2020-03-14,San Diego,073,19,0,9,0
 2020-03-14,San Francisco,075,28,0,5,0
-2020-03-14,San Joaquin,077,8,0,0,0
+2020-03-14,San Joaquin,077,6,0,0,0
 2020-03-14,San Luis Obispo,079,1,0,,
 2020-03-14,San Mateo,081,32,0,12,0
 2020-03-14,Santa Clara,085,223,5,43,0
@@ -5238,7 +5296,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-13,San Benito,069,3,0,1,0
 2020-03-13,San Diego,073,10,0,5,0
 2020-03-13,San Francisco,075,23,0,5,0
-2020-03-13,San Joaquin,077,8,0,,
+2020-03-13,San Joaquin,077,6,0,0,0
 2020-03-13,San Mateo,081,20,0,0,0
 2020-03-13,Santa Clara,085,180,5,46,1
 2020-03-13,Santa Cruz,087,7,0,3,0
@@ -5265,6 +5323,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-12,San Benito,069,2,0,0,0
 2020-03-12,San Diego,073,5,0,1,0
 2020-03-12,San Francisco,075,18,0,4,0
+2020-03-12,San Joaquin,077,6,0,2,0
 2020-03-12,San Mateo,081,20,0,5,0
 2020-03-12,Santa Clara,085,134,4,23,0
 2020-03-12,Santa Cruz,087,4,0,0,0
@@ -5291,6 +5350,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-11,San Benito,069,2,0,0,0
 2020-03-11,San Diego,073,4,0,2,0
 2020-03-11,San Francisco,075,14,0,0,0
+2020-03-11,San Joaquin,077,4,0,1,0
 2020-03-11,San Mateo,081,15,0,6,0
 2020-03-11,Santa Clara,085,111,4,26,0
 2020-03-11,Santa Cruz,087,4,0,2,0
@@ -5316,6 +5376,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-10,San Benito,069,2,0,0,0
 2020-03-10,San Diego,073,2,0,0,0
 2020-03-10,San Francisco,075,14,0,1,0
+2020-03-10,San Joaquin,077,3,0,0,0
 2020-03-10,San Mateo,081,9,0,0,0
 2020-03-10,Santa Clara,085,85,4,15,0
 2020-03-10,Santa Cruz,087,2,0,0,0
@@ -5340,6 +5401,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-09,San Benito,069,2,0,0,0
 2020-03-09,San Diego,073,2,0,1,0
 2020-03-09,San Francisco,075,13,0,5,0
+2020-03-09,San Joaquin,077,3,0,1,0
 2020-03-09,San Mateo,081,9,0,7,0
 2020-03-09,Santa Clara,085,70,4,17,1
 2020-03-09,Santa Cruz,087,2,0,1,0
@@ -5364,6 +5426,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-08,San Benito,069,2,0,0,0
 2020-03-08,San Diego,073,1,0,1,0
 2020-03-08,San Francisco,075,8,0,0,0
+2020-03-08,San Joaquin,077,2,0,1,0
 2020-03-08,San Mateo,081,2,0,0,0
 2020-03-08,Santa Clara,085,53,3,4,0
 2020-03-08,Santa Cruz,087,1,0,0,0
@@ -5388,6 +5451,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-07,San Benito,069,2,0,0,0
 2020-03-07,San Diego,073,0,0,0,0
 2020-03-07,San Francisco,075,8,0,6,0
+2020-03-07,San Joaquin,077,1,0,0,0
 2020-03-07,San Mateo,081,2,0,0,0
 2020-03-07,Santa Clara,085,49,3,9,0
 2020-03-07,Santa Cruz,087,1,0,1,0
@@ -5410,6 +5474,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-06,San Benito,069,2,0,0,0
 2020-03-06,San Diego,073,0,0,0,0
 2020-03-06,San Francisco,075,2,0,0,0
+2020-03-06,San Joaquin,077,1,0,0,0
 2020-03-06,San Mateo,081,2,0,0,0
 2020-03-06,Santa Clara,085,40,3,9,1
 2020-03-06,Santa Cruz,087,0,0,0,0
@@ -5432,6 +5497,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-05,San Benito,069,2,0,0,0
 2020-03-05,San Diego,073,0,0,0,0
 2020-03-05,San Francisco,075,2,0,2,0
+2020-03-05,San Joaquin,077,1,0,1,0
 2020-03-05,San Mateo,081,2,0,0,0
 2020-03-05,Santa Clara,085,31,2,7,0
 2020-03-05,Santa Cruz,087,0,0,0,0
@@ -5454,6 +5520,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-04,San Benito,069,2,0,0,0
 2020-03-04,San Diego,073,0,0,0,0
 2020-03-04,San Francisco,075,0,0,0,0
+2020-03-04,San Joaquin,077,0,0,0,0
 2020-03-04,San Mateo,081,2,0,0,0
 2020-03-04,Santa Clara,085,24,2,4,0
 2020-03-04,Santa Cruz,087,0,0,0,0
@@ -5476,6 +5543,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-03,San Benito,069,2,0,0,0
 2020-03-03,San Diego,073,0,0,0,0
 2020-03-03,San Francisco,075,0,0,0,0
+2020-03-03,San Joaquin,077,0,0,0,0
 2020-03-03,San Mateo,081,2,0,0,0
 2020-03-03,Santa Clara,085,20,2,2,0
 2020-03-03,Santa Cruz,087,0,0,0,0
@@ -5498,6 +5566,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-02,San Benito,069,2,0,0,0
 2020-03-02,San Diego,073,0,0,0,0
 2020-03-02,San Francisco,075,0,0,0,0
+2020-03-02,San Joaquin,077,0,0,0,0
 2020-03-02,San Mateo,081,2,0,1,0
 2020-03-02,Santa Clara,085,18,2,5,0
 2020-03-02,Santa Cruz,087,0,0,0,0
@@ -5520,6 +5589,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-01,San Benito,069,2,0,0,0
 2020-03-01,San Diego,073,0,0,0,0
 2020-03-01,San Francisco,075,0,0,0,0
+2020-03-01,San Joaquin,077,0,0,,
 2020-03-01,San Mateo,081,1,0,0,0
 2020-03-01,Santa Clara,085,13,2,0,0
 2020-03-01,Santa Cruz,087,0,0,0,0
