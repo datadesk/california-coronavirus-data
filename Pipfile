@@ -10,6 +10,7 @@ altair = "*"
 altair-latimes = "*"
 nbclient = "*"
 click = "*"
+nb-black = "*"
 
 [requires]
 python_version = "3.6"
