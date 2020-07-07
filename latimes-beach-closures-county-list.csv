@@ -1,16 +1,16 @@
 county,fips,status,restriction
 Del Norte,015,Some restrictions,County parks closed to camping except for people authorized by the county for stays of 30 days or longer.
 Humboldt,023,Some restrictions,All parks in the county except for Redwood National Park are open for day use.
-Los Angeles,037,Some restrictions,"All county-operated beaches, piers, public beach parking lots, beach bike paths that traverse the sanded portion of the beach, and beach access points will be temporarily closed to the public beginning July 3 at 12:01 a.m. until July 6 at 5 a.m."
-Marin,041,Open,"All parking at state beaches closed July 3 to 5. Beaches, parks and parking lots are generally open. Beachgoers must follow county orders on physical distancing. The county may restrict the number of entrants or close public access points to a beach to reduce crowding."
+Los Angeles,037,Some restrictions,
+Marin,041,Open,"Beaches, parks and parking lots are generally open. Beachgoers must follow county orders on physical distancing. The county may restrict the number of entrants or close public access points to a beach to reduce crowding."
 Mendocino,045,Some restrictions,"All county beaches, parks and access ways are open for active use. Most beach parking lots and restrooms are partially open."
-Monterey,053,Some restrictions,All parking at state beaches closed July 3 to 5. Other parks and beaches may have restrictions on access or parking depending on crowding.
-Orange,059,Some restrictions,All parking at state beaches closed July 3 to 5. County-operated beaches and associated parking lots are closed July 4 and July 5.
-San Diego,073,Some restrictions,All parking at state beaches closed July 3 to 5. Recreational boating is allowed only if participants are members of the same household. All sports courts managed by San Diego County Parks are open only to visitors who are members of the same household.
-San Francisco,075,Some restrictions,All beach parking closed on July 4 and 5. Beachgoers must follow county orders on physical distancing. The county may restrict the number of entrants or close public access points to a beach to reduce crowding.
+Monterey,053,Some restrictions,Some parks and beaches may have restrictions on access or parking depending on crowding.
+Orange,059,Open,Beach parking and restrooms are generally open at all Orange County beaches.
+San Diego,073,Some restrictions,Recreational boating is allowed only if participants are members of the same household. All sports courts managed by San Diego County Parks are open only to visitors who are members of the same household.
+San Francisco,075,Some restrictions,Beachgoers must follow county orders on physical distancing. The county may restrict the number of entrants or close public access points to a beach to reduce crowding.
 San Luis Obispo,079,Some restrictions,
-San Mateo,081,Open,"Beaches and parking lots have reopened, but some state parks and beach parking lots remain closed."
-Santa Barbara,083,Some restrictions,"From July 3 until July 5 at 11:59 p.m., all beaches in the county are closed. Piers remain open, and active beach use and water sports in the ocean are still allowed."
-Santa Cruz,087,Open,"All parking at state beaches closed July 3 to 5. Beaches reopened. All relevant health orders, such as using physical distancing and wearing masks, are still in effect."
-Sonoma,097,Some restrictions,All parking at state beaches closed July 3 to 5. All other coastal parks and beach parking lots are open with some restrictions.
-Ventura,111,Some restrictions,All beaches in the county will be closed beginning July 3 at 5 a.m. until July 6 at 5 a.m. This includes parking lots and restrooms.
+San Mateo,081,Open,"Beachgoers must adhere to physical distancing guidelines, and the county may restrict access if beaches become too crowded."
+Santa Barbara,083,Some restrictions,
+Santa Cruz,087,Open,"Beaches reopened. All relevant health orders, such as using physical distancing and wearing masks, are still in effect."
+Sonoma,097,Some restrictions,All other coastal parks and beach parking lots are open with some restrictions.
+Ventura,111,Some restrictions,
