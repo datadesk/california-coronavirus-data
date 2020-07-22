@@ -7,7 +7,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-07-20,Colusa,011,223,0,50,0
 2020-07-20,Contra Costa,013,5731,99,125,1
 2020-07-20,Del Norte,015,66,0,0,0
-2020-07-20,El Dorado,017,443,1,49,1
+2020-07-20,El Dorado,017,443,1,49,0
 2020-07-20,Fresno,019,10639,100,685,0
 2020-07-20,Glenn,021,219,1,5,0
 2020-07-20,Humboldt,023,189,4,8,0
@@ -43,11 +43,11 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-07-20,Santa Barbara,083,4991,32,232,0
 2020-07-20,Santa Clara,085,7795,178,339,1
 2020-07-20,Santa Cruz,087,772,3,0,0
-2020-07-20,Shasta,089,242,7,0,0
+2020-07-20,Shasta,089,250,7,8,0
 2020-07-20,Sierra,091,1,0,0,0
 2020-07-20,Siskiyou,093,51,0,7,0
 2020-07-20,Solano,095,2759,34,205,3
-2020-07-20,Sonoma,097,2169,20,0,0
+2020-07-20,Sonoma,097,2212,20,43,0
 2020-07-20,Stanislaus,099,6508,71,164,8
 2020-07-20,Sutter,101,539,4,19,0
 2020-07-20,Tehama,103,151,1,17,0
@@ -65,7 +65,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-07-19,Colusa,011,173,0,0,0
 2020-07-19,Contra Costa,013,5606,98,68,0
 2020-07-19,Del Norte,015,66,0,0,0
-2020-07-19,El Dorado,017,394,0,0,0
+2020-07-19,El Dorado,017,394,1,0,0
 2020-07-19,Fresno,019,9954,100,0,0
 2020-07-19,Glenn,021,214,1,0,0
 2020-07-19,Humboldt,023,181,4,0,0
@@ -123,7 +123,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-07-18,Colusa,011,173,0,0,0
 2020-07-18,Contra Costa,013,5538,98,160,2
 2020-07-18,Del Norte,015,66,0,4,0
-2020-07-18,El Dorado,017,394,0,0,0
+2020-07-18,El Dorado,017,394,1,0,1
 2020-07-18,Fresno,019,9954,100,389,0
 2020-07-18,Glenn,021,214,1,0,0
 2020-07-18,Humboldt,023,181,4,0,0

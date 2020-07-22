@@ -46,11 +46,11 @@ San Mateo,San Mateo,081,2020-07-20,4551,114,,
 Santa Barbara,Santa Barbara,083,2020-07-20,4991,32,4685,
 Santa Clara,Santa Clara,085,2020-07-20,7795,178,,
 Santa Cruz,Santa Cruz,087,2020-07-20,772,3,321,True
-Shasta,Shasta,089,2020-07-20,242,7,,True
+Shasta,Shasta,089,2020-07-20,250,7,213,
 Sierra,Sierra,091,2020-07-20,1,0,1,
 Siskiyou,Siskiyou,093,2020-07-20,51,0,42,
 Solano,Solano,095,2020-07-20,2759,34,2425,
-Sonoma,Sonoma,097,2020-07-20,2169,20,1229,True
+Sonoma,Sonoma,097,2020-07-20,2212,20,1229,
 Stanislaus,Stanislaus,099,2020-07-20,6508,71,3130,
 Sutter,Sutter,101,2020-07-20,539,4,254,
 Tehama,Tehama,103,2020-07-20,151,1,121,
@@ -69,7 +69,7 @@ Calaveras,Calaveras,009,2020-07-19,87,0,34,True
 Colusa,Colusa,011,2020-07-19,173,0,107,True
 Contra Costa,Contra Costa,013,2020-07-19,5606,98,4401,
 Del Norte,Del Norte,015,2020-07-19,66,0,62,True
-El Dorado,El Dorado,017,2020-07-19,394,0,220,True
+El Dorado,El Dorado,017,2020-07-19,394,1,220,True
 Fresno,Fresno,019,2020-07-19,9954,100,2332,True
 Glenn,Glenn,021,2020-07-19,214,1,165,True
 Humboldt,Humboldt,023,2020-07-19,181,4,146,True
@@ -130,7 +130,7 @@ Calaveras,Calaveras,009,2020-07-18,87,0,34,True
 Colusa,Colusa,011,2020-07-18,173,0,107,True
 Contra Costa,Contra Costa,013,2020-07-18,5538,98,4295,
 Del Norte,Del Norte,015,2020-07-18,66,0,62,
-El Dorado,El Dorado,017,2020-07-18,394,0,220,True
+El Dorado,El Dorado,017,2020-07-18,394,1,220,True
 Fresno,Fresno,019,2020-07-18,9954,100,2332,
 Glenn,Glenn,021,2020-07-18,214,1,165,True
 Humboldt,Humboldt,023,2020-07-18,181,4,146,True
