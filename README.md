@@ -183,16 +183,16 @@ Statewide demographic data tallying race totals by age for both cases and deaths
 
 The original race categories published by the state have been grouped and aggregated to match the five race categories traditionally published by the Los Angeles Times.
 
-| field                           | type    | description                                                                                             |
-| ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
-| `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.     |
-| `race`                          | string  | The race being tallied.                                                                                 |
-| `age`                           | string  | The age bracket being tallied                                                                           |
-| `confirmed_cases_total`         | integer | The cumulative number of confirmed coronavirus case amoung this race and age at that time.              |
-| `confirmed_cases_percent`       | float   | The case totals percentage of the total in this age bracket                                             |
-| `deaths_total`                  | integer | The cumulative number of deaths case amoung this race and age at that time.                             |
-| `deaths_percent`                | float   | The death totals percentage of the total in this age bracket.                                           |
-| `population_percent`            | float   | The race's percentage of the overall state population in this age bracket.                              |
+| field                     | type    | description                                                                                         |
+| ------------------------- | ------- | --------------------------------------------------------------------------------------------------- |
+| `date`                    | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
+| `race`                    | string  | The race being tallied.                                                                             |
+| `age`                     | string  | The age bracket being tallied                                                                       |
+| `confirmed_cases_total`   | integer | The cumulative number of confirmed coronavirus case amoung this race and age at that time.          |
+| `confirmed_cases_percent` | float   | The case totals percentage of the total in this age bracket                                         |
+| `deaths_total`            | integer | The cumulative number of deaths case amoung this race and age at that time.                         |
+| `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
+| `population_percent`      | float   | The race's percentage of the overall state population in this age bracket.                          |
 
 ### [cdph-skilled-nursing-totals.csv](./cdph-skilled-nursing-totals.csv)
 
@@ -203,14 +203,14 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | field                           | type    | description                                                                                             |
 | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
 | `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.     |
-| `staff_active_cases`            | integer | The current number of active coronavirus case among staff at that time.                          |
-| `patients_active_cases`          | integer | The current number of active coronavirus case among patients at that time.                       |
-| `staff_confirmed_cases`         | integer | The cumulative number of confirmed coronavirus case among staff at that time.                          |
-| `patients_confirmed_cases`      | integer | The cumulative number of confirmed coronavirus case among patients at that time.                       |
+| `staff_active_cases`            | integer | The current number of active coronavirus case among staff at that time.                                 |
+| `patients_active_cases`         | integer | The current number of active coronavirus case among patients at that time.                              |
+| `staff_confirmed_cases`         | integer | The cumulative number of confirmed coronavirus case among staff at that time.                           |
+| `patients_confirmed_cases`      | integer | The cumulative number of confirmed coronavirus case among patients at that time.                        |
 | `staff_confirmed_cases_note`    | string  | In cases where the `staff_confirmed_cases` are obscured, this explains the range of possible values.    |
 | `patients_confirmed_cases_note` | string  | In cases where the `patients_confirmed_cases` are obscured, this explains the range of possible values. |
-| `staff_deaths`                  | integer | The cumulative number of deaths case among staff at that time.                                         |
-| `patients_deaths`               | integer | The cumulative number of deaths case among patients at that time.                                      |
+| `staff_deaths`                  | integer | The cumulative number of deaths case among staff at that time.                                          |
+| `patients_deaths`               | integer | The cumulative number of deaths case among patients at that time.                                       |
 | `staff_deaths_note`             | string  | In cases where the `staff_deaths` are obscured, this explains the range of possible values.             |
 | `patients_deaths_note`          | string  | In cases where the `patients_deaths` are obscured, this explains the range of possible values.          |
 | `source_url`                    | string  | The URL to the state data release.                                                                      |
@@ -237,8 +237,8 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | field                           | type    | description                                                                                                                                                                          |
 | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
-| `id`                            | string  | The facility's unique identifier with the state.                                                                                                                                    |
-| `name`                          | string  | The name of the skilled-nursing facility.                                                                                                                                                        |
+| `id`                            | string  | The facility's unique identifier with the state.                                                                                                                                     |
+| `name`                          | string  | The name of the skilled-nursing facility.                                                                                                                                            |
 | `county`                        | string  | The name of the county where the city is located.                                                                                                                                    |
 | `fips`                          | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `staff_active_cases`            | integer | The current number of active coronavirus case among staff at that time.                                                                                                              |
@@ -288,6 +288,7 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `suspected_patients`     | integer | The current number suspected coronavirus cases in hospitals on this `date`.                                                                                                          |
 | `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
+| `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
 
 ### [latimes-project-roomkey-totals.csv](./latimes-project-roomkey-totals.csv)
 
@@ -329,14 +330,14 @@ The subcounty-level restrictions on beach access, compiled by the Los Angeles Ti
 
 A GeoJSON file mapping out statistical tabulation areas created by the Los Angeles County Department of Public Health. Place-level data released by Los Angeles County correspond to these areas. Acquired via a California Public Records Act request.
 
-| field         | type    | description                                                            |
-| ------------- | ------- | -----------------------------------------------------------------------|
-| `type`        | string  | The type of area being mapped. Options are `City` and`Unincorporated`  |
-| `city`        | string  | The name of the area's municipal parent, if it has one.                |
-| `community`   | string  | The name of the area.                                                  |
-| `label`       | boolean | A combination of the area's name and city. Creates a unique string.    |
-| `centroid_x`  | string  | The longitude of the area's centroid.                                  |
-| `centroid_y`  | string  | The latitude of the area's centroid.                                   |
+| field        | type    | description                                                           |
+| ------------ | ------- | --------------------------------------------------------------------- |
+| `type`       | string  | The type of area being mapped. Options are `City` and`Unincorporated` |
+| `city`       | string  | The name of the area's municipal parent, if it has one.               |
+| `community`  | string  | The name of the area.                                                 |
+| `label`      | boolean | A combination of the area's name and city. Creates a unique string.   |
+| `centroid_x` | string  | The longitude of the area's centroid.                                 |
+| `centroid_y` | string  | The latitude of the area's centroid.                                  |
 
 ## Getting started
 
