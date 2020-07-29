@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-07-28,10259,178,,
+Berkeley,Alameda,001,2020-07-28,374,3,,
+Alpine,Alpine,003,2020-07-28,2,0,2,True
+Amador,Amador,005,2020-07-28,89,0,60,
+Butte,Butte,007,2020-07-28,866,7,692,
+Calaveras,Calaveras,009,2020-07-28,108,1,80,
+Colusa,Colusa,011,2020-07-28,292,2,209,
+Contra Costa,Contra Costa,013,2020-07-28,7304,108,6100,
+Del Norte,Del Norte,015,2020-07-28,88,0,87,
+El Dorado,El Dorado,017,2020-07-28,579,1,370,
+Fresno,Fresno,019,2020-07-28,13336,120,3880,
+Glenn,Glenn,021,2020-07-28,303,1,256,
+Humboldt,Humboldt,023,2020-07-28,221,4,184,
+Imperial,Imperial,025,2020-07-28,9189,188,7959,
+Inyo,Inyo,027,2020-07-28,46,1,39,
+Kern,Kern,029,2020-07-28,16896,135,5399,
+Kings,Kings,031,2020-07-28,4036,50,2449,
+Lake,Lake,033,2020-07-28,180,1,162,
+Lassen,Lassen,035,2020-07-28,558,0,283,True
+Long Beach,Los Angeles,037,2020-07-28,7582,163,5994,True
+Los Angeles,Los Angeles,037,2020-07-28,169158,4159,,
+Pasadena,Los Angeles,037,2020-07-28,1923,105,,
+Madera,Madera,039,2020-07-28,1841,23,925,
+Marin,Marin,041,2020-07-28,4815,61,3813,
+Mariposa,Mariposa,043,2020-07-28,51,2,37,
+Mendocino,Mendocino,045,2020-07-28,280,6,132,
+Merced,Merced,047,2020-07-28,3763,29,2082,
+Modoc,Modoc,049,2020-07-28,0,0,,True
+Mono,Mono,051,2020-07-28,125,1,,
+Monterey,Monterey,053,2020-07-28,4140,24,2543,
+Napa,Napa,055,2020-07-28,806,8,233,
+Nevada,Nevada,057,2020-07-28,285,1,243,
+Orange,Orange,059,2020-07-28,34833,581,21066,
+Placer,Placer,061,2020-07-28,1753,15,1342,
+Plumas,Plumas,063,2020-07-28,29,0,25,True
+Riverside,Riverside,065,2020-07-28,35910,672,12489,
+Sacramento,Sacramento,067,2020-07-28,9418,121,5377,
+San Benito,San Benito,069,2020-07-28,584,3,514,
+San Bernardino,San Bernardino,071,2020-07-28,29962,395,20044,
+San Diego,San Diego,073,2020-07-28,28005,547,,
+San Francisco,San Francisco,075,2020-07-28,6065,56,,
+San Joaquin,San Joaquin,077,2020-07-28,10923,133,4035,
+San Luis Obispo,San Luis Obispo,079,2020-07-28,1689,11,1261,
+San Mateo,San Mateo,081,2020-07-28,5198,118,,
+Santa Barbara,Santa Barbara,083,2020-07-28,5931,32,5566,
+Santa Clara,Santa Clara,085,2020-07-28,9359,185,,
+Santa Cruz,Santa Cruz,087,2020-07-28,980,4,354,
+Shasta,Shasta,089,2020-07-28,339,8,276,
+Sierra,Sierra,091,2020-07-28,2,0,1,
+Siskiyou,Siskiyou,093,2020-07-28,66,0,57,
+Solano,Solano,095,2020-07-28,3388,36,3079,
+Sonoma,Sonoma,097,2020-07-28,2617,24,1437,True
+Stanislaus,Stanislaus,099,2020-07-28,8288,98,7054,
+Sutter,Sutter,101,2020-07-28,701,6,345,
+Tehama,Tehama,103,2020-07-28,214,1,153,True
+Trinity,Trinity,105,2020-07-28,4,0,3,
+Tulare,Tulare,107,2020-07-28,8862,173,5080,
+Tuolumne,Tuolumne,109,2020-07-28,131,2,112,
+Ventura,Ventura,111,2020-07-28,6893,71,3675,
+Yolo,Yolo,113,2020-07-28,1446,39,,
+Yuba,Yuba,115,2020-07-28,415,3,179,
 Alameda,Alameda,001,2020-07-27,10075,175,,
 Berkeley,Alameda,001,2020-07-27,363,3,,
 Alpine,Alpine,003,2020-07-27,2,0,2,True
@@ -25,7 +86,7 @@ Madera,Madera,039,2020-07-27,1723,21,867,
 Marin,Marin,041,2020-07-27,4769,59,3716,
 Mariposa,Mariposa,043,2020-07-27,48,2,36,
 Mendocino,Mendocino,045,2020-07-27,274,6,125,
-Merced,Merced,047,2020-07-27,3510,29,2082,
+Merced,Merced,047,2020-07-27,3510,29,1987,
 Modoc,Modoc,049,2020-07-27,0,0,,True
 Mono,Mono,051,2020-07-27,118,1,,
 Monterey,Monterey,053,2020-07-27,4082,23,2463,
@@ -46,7 +107,7 @@ San Mateo,San Mateo,081,2020-07-27,5124,117,,
 Santa Barbara,Santa Barbara,083,2020-07-27,5633,32,5496,
 Santa Clara,Santa Clara,085,2020-07-27,9215,184,,
 Santa Cruz,Santa Cruz,087,2020-07-27,920,4,343,
-Shasta,Shasta,089,2020-07-27,323,8,296,
+Shasta,Shasta,089,2020-07-27,323,8,268,
 Sierra,Sierra,091,2020-07-27,2,0,1,
 Siskiyou,Siskiyou,093,2020-07-27,66,0,56,
 Solano,Solano,095,2020-07-27,3283,36,3048,
@@ -107,7 +168,7 @@ San Mateo,San Mateo,081,2020-07-26,5022,117,,True
 Santa Barbara,Santa Barbara,083,2020-07-26,5576,32,5175,True
 Santa Clara,Santa Clara,085,2020-07-26,9041,184,,
 Santa Cruz,Santa Cruz,087,2020-07-26,907,4,343,
-Shasta,Shasta,089,2020-07-26,311,8,274,
+Shasta,Shasta,089,2020-07-26,311,8,259,
 Sierra,Sierra,091,2020-07-26,1,0,1,True
 Siskiyou,Siskiyou,093,2020-07-26,61,0,53,True
 Solano,Solano,095,2020-07-26,3129,35,2805,True
@@ -168,7 +229,7 @@ San Mateo,San Mateo,081,2020-07-25,5022,117,,
 Santa Barbara,Santa Barbara,083,2020-07-25,5576,32,5175,True
 Santa Clara,Santa Clara,085,2020-07-25,8833,184,,
 Santa Cruz,Santa Cruz,087,2020-07-25,898,4,343,
-Shasta,Shasta,089,2020-07-25,291,8,242,True
+Shasta,Shasta,089,2020-07-25,291,8,246,True
 Sierra,Sierra,091,2020-07-25,1,0,1,True
 Siskiyou,Siskiyou,093,2020-07-25,61,0,53,True
 Solano,Solano,095,2020-07-25,3129,35,2805,True
