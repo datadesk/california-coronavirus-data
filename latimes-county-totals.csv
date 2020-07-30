@@ -23,7 +23,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-07-28,Mariposa,043,51,2,3,0
 2020-07-28,Mendocino,045,280,6,6,0
 2020-07-28,Merced,047,3763,29,253,0
-2020-07-28,Modoc,049,0,0,0,0
+2020-07-28,Modoc,049,2,0,2,0
 2020-07-28,Mono,051,125,1,7,0
 2020-07-28,Monterey,053,4140,24,58,1
 2020-07-28,Napa,055,806,8,40,0
@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-07-28,Sierra,091,2,0,0,0
 2020-07-28,Siskiyou,093,66,0,0,0
 2020-07-28,Solano,095,3388,36,105,0
-2020-07-28,Sonoma,097,2617,24,0,0
+2020-07-28,Sonoma,097,2662,31,45,7
 2020-07-28,Stanislaus,099,8288,98,60,3
 2020-07-28,Sutter,101,701,6,31,0
 2020-07-28,Tehama,103,214,1,0,0
