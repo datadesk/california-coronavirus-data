@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-07-31,10745,179,,True
+Berkeley,Alameda,001,2020-07-31,394,3,,
+Alpine,Alpine,003,2020-07-31,2,0,2,True
+Amador,Amador,005,2020-07-31,125,0,71,
+Butte,Butte,007,2020-07-31,941,7,757,
+Calaveras,Calaveras,009,2020-07-31,125,1,96,
+Colusa,Colusa,011,2020-07-31,323,4,241,
+Contra Costa,Contra Costa,013,2020-07-31,7670,119,6747,
+Del Norte,Del Norte,015,2020-07-31,88,0,88,
+El Dorado,El Dorado,017,2020-07-31,637,1,426,
+Fresno,Fresno,019,2020-07-31,14439,138,4852,
+Glenn,Glenn,021,2020-07-31,325,1,287,
+Humboldt,Humboldt,023,2020-07-31,233,4,184,
+Imperial,Imperial,025,2020-07-31,9366,210,8173,
+Inyo,Inyo,027,2020-07-31,51,1,44,
+Kern,Kern,029,2020-07-31,19335,140,5593,
+Kings,Kings,031,2020-07-31,4380,56,2525,
+Lake,Lake,033,2020-07-31,195,1,173,
+Lassen,Lassen,035,2020-07-31,594,0,451,
+Long Beach,Los Angeles,037,2020-07-31,8142,177,6650,
+Los Angeles,Los Angeles,037,2020-07-31,178426,4339,,
+Pasadena,Los Angeles,037,2020-07-31,1973,108,,
+Madera,Madera,039,2020-07-31,1943,30,1056,
+Marin,Marin,041,2020-07-31,4989,70,4314,
+Mariposa,Mariposa,043,2020-07-31,54,2,44,
+Mendocino,Mendocino,045,2020-07-31,312,9,226,
+Merced,Merced,047,2020-07-31,4285,50,2273,
+Modoc,Modoc,049,2020-07-31,2,0,,True
+Mono,Mono,051,2020-07-31,141,1,,
+Monterey,Monterey,053,2020-07-31,4542,26,2780,
+Napa,Napa,055,2020-07-31,888,8,393,
+Nevada,Nevada,057,2020-07-31,299,1,254,
+Orange,Orange,059,2020-07-31,36196,618,23499,
+Placer,Placer,061,2020-07-31,1876,15,1506,
+Plumas,Plumas,063,2020-07-31,33,0,28,
+Riverside,Riverside,065,2020-07-31,37011,695,13050,
+Sacramento,Sacramento,067,2020-07-31,9820,133,6410,
+San Benito,San Benito,069,2020-07-31,622,4,563,
+San Bernardino,San Bernardino,071,2020-07-31,32230,409,22615,
+San Diego,San Diego,073,2020-07-31,29048,561,,
+San Francisco,San Francisco,075,2020-07-31,6575,59,,
+San Joaquin,San Joaquin,077,2020-07-31,11483,168,10172,
+San Luis Obispo,San Luis Obispo,079,2020-07-31,1783,15,1369,
+San Mateo,San Mateo,081,2020-07-31,5469,119,,
+Santa Barbara,Santa Barbara,083,2020-07-31,6167,60,5858,
+Santa Clara,Santa Clara,085,2020-07-31,9913,191,178,
+Santa Cruz,Santa Cruz,087,2020-07-31,1109,4,365,
+Shasta,Shasta,089,2020-07-31,369,9,307,
+Sierra,Sierra,091,2020-07-31,2,0,1,
+Siskiyou,Siskiyou,093,2020-07-31,73,0,64,
+Solano,Solano,095,2020-07-31,3611,37,3294,
+Sonoma,Sonoma,097,2020-07-31,2944,36,1437,
+Stanislaus,Stanislaus,099,2020-07-31,8890,104,7742,
+Sutter,Sutter,101,2020-07-31,768,6,395,
+Tehama,Tehama,103,2020-07-31,226,1,178,
+Trinity,Trinity,105,2020-07-31,5,0,4,
+Tulare,Tulare,107,2020-07-31,9454,178,6511,
+Tuolumne,Tuolumne,109,2020-07-31,141,2,121,
+Ventura,Ventura,111,2020-07-31,7344,76,4037,
+Yolo,Yolo,113,2020-07-31,1510,41,,
+Yuba,Yuba,115,2020-07-31,471,4,216,
 Alameda,Alameda,001,2020-07-30,10745,179,,
 Berkeley,Alameda,001,2020-07-30,386,3,,
 Alpine,Alpine,003,2020-07-30,2,0,2,True
@@ -17,14 +78,14 @@ Inyo,Inyo,027,2020-07-30,50,1,44,
 Kern,Kern,029,2020-07-30,18411,139,5527,
 Kings,Kings,031,2020-07-30,4146,54,2508,
 Lake,Lake,033,2020-07-30,183,1,171,
-Lassen,Lassen,035,2020-07-30,631,0,433,True
+Lassen,Lassen,035,2020-07-30,594,0,433,True
 Long Beach,Los Angeles,037,2020-07-30,8099,176,6415,
 Los Angeles,Los Angeles,037,2020-07-30,175981,4277,,
 Pasadena,Los Angeles,037,2020-07-30,1956,106,,
 Madera,Madera,039,2020-07-30,1886,28,1023,
 Marin,Marin,041,2020-07-30,4934,64,4212,
 Mariposa,Mariposa,043,2020-07-30,53,2,44,
-Mendocino,Mendocino,045,2020-07-30,299,8,226,
+Mendocino,Mendocino,045,2020-07-30,299,9,226,
 Merced,Merced,047,2020-07-30,4065,39,2194,
 Modoc,Modoc,049,2020-07-30,2,0,,True
 Mono,Mono,051,2020-07-30,141,1,,
@@ -53,7 +114,7 @@ Solano,Solano,095,2020-07-30,3520,37,3193,
 Sonoma,Sonoma,097,2020-07-30,2842,32,1437,True
 Stanislaus,Stanislaus,099,2020-07-30,8745,104,7535,
 Sutter,Sutter,101,2020-07-30,755,6,376,
-Tehama,Tehama,103,2020-07-30,227,1,172,
+Tehama,Tehama,103,2020-07-30,226,1,172,
 Trinity,Trinity,105,2020-07-30,5,0,4,
 Tulare,Tulare,107,2020-07-30,9241,173,6358,
 Tuolumne,Tuolumne,109,2020-07-30,134,2,118,
@@ -67,7 +128,7 @@ Amador,Amador,005,2020-07-29,110,0,61,
 Butte,Butte,007,2020-07-29,883,7,709,
 Calaveras,Calaveras,009,2020-07-29,108,1,80,True
 Colusa,Colusa,011,2020-07-29,304,3,214,
-Contra Costa,Contra Costa,013,2020-07-29,7577,116,6580,
+Contra Costa,Contra Costa,013,2020-07-29,7491,116,6580,
 Del Norte,Del Norte,015,2020-07-29,88,0,88,
 El Dorado,El Dorado,017,2020-07-29,589,1,386,
 Fresno,Fresno,019,2020-07-29,13933,120,3880,
@@ -78,7 +139,7 @@ Inyo,Inyo,027,2020-07-29,47,1,40,
 Kern,Kern,029,2020-07-29,17344,135,5466,
 Kings,Kings,031,2020-07-29,4106,51,2491,
 Lake,Lake,033,2020-07-29,181,1,167,
-Lassen,Lassen,035,2020-07-29,631,0,433,
+Lassen,Lassen,035,2020-07-29,594,0,433,
 Long Beach,Los Angeles,037,2020-07-29,7948,170,6299,
 Los Angeles,Los Angeles,037,2020-07-29,173565,4243,,
 Pasadena,Los Angeles,037,2020-07-29,1943,105,,
@@ -128,7 +189,7 @@ Amador,Amador,005,2020-07-28,89,0,60,
 Butte,Butte,007,2020-07-28,866,7,692,
 Calaveras,Calaveras,009,2020-07-28,108,1,80,
 Colusa,Colusa,011,2020-07-28,292,2,209,
-Contra Costa,Contra Costa,013,2020-07-28,7304,108,6100,
+Contra Costa,Contra Costa,013,2020-07-28,7402,108,6100,
 Del Norte,Del Norte,015,2020-07-28,88,0,87,
 El Dorado,El Dorado,017,2020-07-28,579,1,370,
 Fresno,Fresno,019,2020-07-28,13336,120,3880,
@@ -189,7 +250,7 @@ Amador,Amador,005,2020-07-27,84,0,55,
 Butte,Butte,007,2020-07-27,820,7,644,
 Calaveras,Calaveras,009,2020-07-27,99,1,44,True
 Colusa,Colusa,011,2020-07-27,273,2,189,
-Contra Costa,Contra Costa,013,2020-07-27,7073,104,5860,
+Contra Costa,Contra Costa,013,2020-07-27,7239,104,5860,
 Del Norte,Del Norte,015,2020-07-27,88,0,86,
 El Dorado,El Dorado,017,2020-07-27,555,1,350,
 Fresno,Fresno,019,2020-07-27,13209,112,3314,
@@ -250,7 +311,7 @@ Amador,Amador,005,2020-07-26,81,0,49,
 Butte,Butte,007,2020-07-26,758,5,571,True
 Calaveras,Calaveras,009,2020-07-26,99,1,44,True
 Colusa,Colusa,011,2020-07-26,263,2,182,True
-Contra Costa,Contra Costa,013,2020-07-26,6933,104,5760,
+Contra Costa,Contra Costa,013,2020-07-26,7075,104,5760,
 Del Norte,Del Norte,015,2020-07-26,87,0,74,True
 El Dorado,El Dorado,017,2020-07-26,513,1,309,True
 Fresno,Fresno,019,2020-07-26,12564,112,3314,True
@@ -311,7 +372,7 @@ Amador,Amador,005,2020-07-25,76,0,43,
 Butte,Butte,007,2020-07-25,758,5,571,True
 Calaveras,Calaveras,009,2020-07-25,99,1,44,True
 Colusa,Colusa,011,2020-07-25,263,2,182,True
-Contra Costa,Contra Costa,013,2020-07-25,6770,104,5613,
+Contra Costa,Contra Costa,013,2020-07-25,6895,104,5613,
 Del Norte,Del Norte,015,2020-07-25,87,0,74,True
 El Dorado,El Dorado,017,2020-07-25,513,1,309,True
 Fresno,Fresno,019,2020-07-25,12564,112,3314,
@@ -372,7 +433,7 @@ Amador,Amador,005,2020-07-24,71,0,42,
 Butte,Butte,007,2020-07-24,758,5,571,
 Calaveras,Calaveras,009,2020-07-24,99,1,44,
 Colusa,Colusa,011,2020-07-24,263,2,182,
-Contra Costa,Contra Costa,013,2020-07-24,6627,103,5388,
+Contra Costa,Contra Costa,013,2020-07-24,6792,103,5388,
 Del Norte,Del Norte,015,2020-07-24,87,0,74,
 El Dorado,El Dorado,017,2020-07-24,513,1,309,
 Fresno,Fresno,019,2020-07-24,12148,112,3314,
@@ -433,7 +494,7 @@ Amador,Amador,005,2020-07-23,67,0,38,
 Butte,Butte,007,2020-07-23,722,5,526,
 Calaveras,Calaveras,009,2020-07-23,94,1,44,
 Colusa,Colusa,011,2020-07-23,250,2,164,
-Contra Costa,Contra Costa,013,2020-07-23,6425,102,5153,
+Contra Costa,Contra Costa,013,2020-07-23,6588,102,5153,
 Del Norte,Del Norte,015,2020-07-23,84,0,62,
 El Dorado,El Dorado,017,2020-07-23,508,1,283,
 Fresno,Fresno,019,2020-07-23,11756,104,2706,
@@ -494,7 +555,7 @@ Amador,Amador,005,2020-07-22,65,0,37,
 Butte,Butte,007,2020-07-22,683,5,488,
 Calaveras,Calaveras,009,2020-07-22,94,1,44,True
 Colusa,Colusa,011,2020-07-22,242,2,156,
-Contra Costa,Contra Costa,013,2020-07-22,6202,102,4919,
+Contra Costa,Contra Costa,013,2020-07-22,6372,102,4919,
 Del Norte,Del Norte,015,2020-07-22,79,0,62,
 El Dorado,El Dorado,017,2020-07-22,486,1,270,
 Fresno,Fresno,019,2020-07-22,11412,104,2706,
@@ -555,7 +616,7 @@ Amador,Amador,005,2020-07-21,62,0,35,
 Butte,Butte,007,2020-07-21,658,5,458,
 Calaveras,Calaveras,009,2020-07-21,94,1,44,
 Colusa,Colusa,011,2020-07-21,234,1,139,
-Contra Costa,Contra Costa,013,2020-07-21,5931,102,4717,
+Contra Costa,Contra Costa,013,2020-07-21,6188,102,4717,
 Del Norte,Del Norte,015,2020-07-21,68,0,62,
 El Dorado,El Dorado,017,2020-07-21,464,1,257,
 Fresno,Fresno,019,2020-07-21,10970,104,2706,
@@ -616,7 +677,7 @@ Amador,Amador,005,2020-07-20,57,0,35,
 Butte,Butte,007,2020-07-20,640,5,408,
 Calaveras,Calaveras,009,2020-07-20,87,0,34,True
 Colusa,Colusa,011,2020-07-20,223,0,110,
-Contra Costa,Contra Costa,013,2020-07-20,5731,99,4539,
+Contra Costa,Contra Costa,013,2020-07-20,5815,99,4539,
 Del Norte,Del Norte,015,2020-07-20,66,0,62,True
 El Dorado,El Dorado,017,2020-07-20,443,1,243,
 Fresno,Fresno,019,2020-07-20,10639,100,2332,
@@ -677,7 +738,7 @@ Amador,Amador,005,2020-07-19,54,0,31,
 Butte,Butte,007,2020-07-19,522,4,315,True
 Calaveras,Calaveras,009,2020-07-19,87,0,34,True
 Colusa,Colusa,011,2020-07-19,173,0,107,True
-Contra Costa,Contra Costa,013,2020-07-19,5606,98,4401,
+Contra Costa,Contra Costa,013,2020-07-19,5681,98,4401,
 Del Norte,Del Norte,015,2020-07-19,66,0,62,True
 El Dorado,El Dorado,017,2020-07-19,394,1,220,True
 Fresno,Fresno,019,2020-07-19,9954,100,2332,True
@@ -738,7 +799,7 @@ Amador,Amador,005,2020-07-18,51,0,31,True
 Butte,Butte,007,2020-07-18,522,4,315,True
 Calaveras,Calaveras,009,2020-07-18,87,0,34,True
 Colusa,Colusa,011,2020-07-18,173,0,107,True
-Contra Costa,Contra Costa,013,2020-07-18,5538,98,4295,
+Contra Costa,Contra Costa,013,2020-07-18,5619,98,4295,
 Del Norte,Del Norte,015,2020-07-18,66,0,62,
 El Dorado,El Dorado,017,2020-07-18,394,1,220,True
 Fresno,Fresno,019,2020-07-18,9954,100,2332,
@@ -799,7 +860,7 @@ Amador,Amador,005,2020-07-17,51,0,31,
 Butte,Butte,007,2020-07-17,522,4,315,
 Calaveras,Calaveras,009,2020-07-17,87,0,34,
 Colusa,Colusa,011,2020-07-17,173,0,107,
-Contra Costa,Contra Costa,013,2020-07-17,5378,96,4148,
+Contra Costa,Contra Costa,013,2020-07-17,5478,96,4148,
 Del Norte,Del Norte,015,2020-07-17,62,0,61,True
 El Dorado,El Dorado,017,2020-07-17,394,0,220,
 Fresno,Fresno,019,2020-07-17,9565,100,2332,
@@ -860,7 +921,7 @@ Amador,Amador,005,2020-07-16,49,0,31,
 Butte,Butte,007,2020-07-16,487,4,301,
 Calaveras,Calaveras,009,2020-07-16,75,0,24,True
 Colusa,Colusa,011,2020-07-16,147,0,98,
-Contra Costa,Contra Costa,013,2020-07-16,5233,93,3942,
+Contra Costa,Contra Costa,013,2020-07-16,5324,93,3942,
 Del Norte,Del Norte,015,2020-07-16,62,0,61,
 El Dorado,El Dorado,017,2020-07-16,381,0,210,
 Fresno,Fresno,019,2020-07-16,9124,91,2183,
@@ -921,7 +982,7 @@ Amador,Amador,005,2020-07-15,48,0,31,
 Butte,Butte,007,2020-07-15,437,4,288,
 Calaveras,Calaveras,009,2020-07-15,75,0,24,True
 Colusa,Colusa,011,2020-07-15,140,0,94,
-Contra Costa,Contra Costa,013,2020-07-15,5140,92,3764,
+Contra Costa,Contra Costa,013,2020-07-15,5235,92,3764,
 Del Norte,Del Norte,015,2020-07-15,61,0,61,True
 El Dorado,El Dorado,017,2020-07-15,363,0,202,
 Fresno,Fresno,019,2020-07-15,8941,91,2183,
@@ -982,7 +1043,7 @@ Amador,Amador,005,2020-07-14,45,0,29,
 Butte,Butte,007,2020-07-14,416,4,278,
 Calaveras,Calaveras,009,2020-07-14,75,0,24,
 Colusa,Colusa,011,2020-07-14,135,0,78,
-Contra Costa,Contra Costa,013,2020-07-14,5023,92,3628,
+Contra Costa,Contra Costa,013,2020-07-14,5104,92,3628,
 Del Norte,Del Norte,015,2020-07-14,61,0,61,
 El Dorado,El Dorado,017,2020-07-14,350,0,194,
 Fresno,Fresno,019,2020-07-14,8756,91,2183,
@@ -1043,7 +1104,7 @@ Amador,Amador,005,2020-07-13,40,0,24,
 Butte,Butte,007,2020-07-13,376,4,263,
 Calaveras,Calaveras,009,2020-07-13,67,0,21,True
 Colusa,Colusa,011,2020-07-13,129,0,74,
-Contra Costa,Contra Costa,013,2020-07-13,4852,90,3460,
+Contra Costa,Contra Costa,013,2020-07-13,4886,90,3460,
 Del Norte,Del Norte,015,2020-07-13,61,0,61,
 El Dorado,El Dorado,017,2020-07-13,337,0,186,
 Fresno,Fresno,019,2020-07-13,8282,88,1871,True
@@ -1104,7 +1165,7 @@ Amador,Amador,005,2020-07-12,40,0,22,True
 Butte,Butte,007,2020-07-12,338,4,197,True
 Calaveras,Calaveras,009,2020-07-12,67,0,21,True
 Colusa,Colusa,011,2020-07-12,113,0,64,True
-Contra Costa,Contra Costa,013,2020-07-12,4661,90,3382,
+Contra Costa,Contra Costa,013,2020-07-12,4714,90,3382,
 Del Norte,Del Norte,015,2020-07-12,60,0,53,True
 El Dorado,El Dorado,017,2020-07-12,307,0,164,True
 Fresno,Fresno,019,2020-07-12,8282,88,1871,True
@@ -1165,7 +1226,7 @@ Amador,Amador,005,2020-07-11,40,0,22,
 Butte,Butte,007,2020-07-11,338,4,197,True
 Calaveras,Calaveras,009,2020-07-11,67,0,21,True
 Colusa,Colusa,011,2020-07-11,113,0,64,True
-Contra Costa,Contra Costa,013,2020-07-11,4605,89,3278,
+Contra Costa,Contra Costa,013,2020-07-11,4652,89,3278,
 Del Norte,Del Norte,015,2020-07-11,60,0,53,True
 El Dorado,El Dorado,017,2020-07-11,307,0,164,True
 Fresno,Fresno,019,2020-07-11,8282,88,1871,
@@ -1226,7 +1287,7 @@ Amador,Amador,005,2020-07-10,37,0,22,
 Butte,Butte,007,2020-07-10,338,4,197,
 Calaveras,Calaveras,009,2020-07-10,67,0,21,
 Colusa,Colusa,011,2020-07-10,113,0,64,
-Contra Costa,Contra Costa,013,2020-07-10,4460,88,3105,
+Contra Costa,Contra Costa,013,2020-07-10,4483,88,3105,
 Del Norte,Del Norte,015,2020-07-10,60,0,53,
 El Dorado,El Dorado,017,2020-07-10,307,0,164,
 Fresno,Fresno,019,2020-07-10,7906,87,1779,
@@ -1287,7 +1348,7 @@ Amador,Amador,005,2020-07-09,36,0,20,
 Butte,Butte,007,2020-07-09,319,4,186,
 Calaveras,Calaveras,009,2020-07-09,61,0,19,True
 Colusa,Colusa,011,2020-07-09,103,0,56,
-Contra Costa,Contra Costa,013,2020-07-09,4357,88,2983,
+Contra Costa,Contra Costa,013,2020-07-09,4376,88,2983,
 Del Norte,Del Norte,015,2020-07-09,58,0,51,
 El Dorado,El Dorado,017,2020-07-09,292,0,158,
 Fresno,Fresno,019,2020-07-09,7627,87,1686,
@@ -1348,7 +1409,7 @@ Amador,Amador,005,2020-07-08,35,0,20,
 Butte,Butte,007,2020-07-08,295,4,182,
 Calaveras,Calaveras,009,2020-07-08,61,0,19,True
 Colusa,Colusa,011,2020-07-08,98,0,52,
-Contra Costa,Contra Costa,013,2020-07-08,4241,86,2841,
+Contra Costa,Contra Costa,013,2020-07-08,4267,86,2841,
 Del Norte,Del Norte,015,2020-07-08,58,0,50,
 El Dorado,El Dorado,017,2020-07-08,280,0,151,
 Fresno,Fresno,019,2020-07-08,7281,84,1529,
@@ -1409,7 +1470,7 @@ Amador,Amador,005,2020-07-07,34,0,20,
 Butte,Butte,007,2020-07-07,275,3,176,
 Calaveras,Calaveras,009,2020-07-07,61,0,19,
 Colusa,Colusa,011,2020-07-07,86,0,40,
-Contra Costa,Contra Costa,013,2020-07-07,4092,86,2728,
+Contra Costa,Contra Costa,013,2020-07-07,4131,86,2728,
 Del Norte,Del Norte,015,2020-07-07,58,0,49,
 El Dorado,El Dorado,017,2020-07-07,264,0,145,
 Fresno,Fresno,019,2020-07-07,6924,81,1454,
@@ -1470,7 +1531,7 @@ Amador,Amador,005,2020-07-06,33,0,20,
 Butte,Butte,007,2020-07-06,268,3,157,
 Calaveras,Calaveras,009,2020-07-06,53,0,18,True
 Colusa,Colusa,011,2020-07-06,83,0,23,
-Contra Costa,Contra Costa,013,2020-07-06,3878,85,2608,
+Contra Costa,Contra Costa,013,2020-07-06,3909,85,2608,
 Del Norte,Del Norte,015,2020-07-06,58,0,49,True
 El Dorado,El Dorado,017,2020-07-06,262,0,142,
 Fresno,Fresno,019,2020-07-06,6599,78,1401,
@@ -1531,7 +1592,7 @@ Amador,Amador,005,2020-07-05,33,0,18,
 Butte,Butte,007,2020-07-05,206,3,132,True
 Calaveras,Calaveras,009,2020-07-05,53,0,18,True
 Colusa,Colusa,011,2020-07-05,70,0,13,True
-Contra Costa,Contra Costa,013,2020-07-05,3662,81,2559,
+Contra Costa,Contra Costa,013,2020-07-05,3684,81,2559,
 Del Norte,Del Norte,015,2020-07-05,58,0,49,True
 El Dorado,El Dorado,017,2020-07-05,226,0,131,True
 Fresno,Fresno,019,2020-07-05,6297,77,1369,
@@ -1592,7 +1653,7 @@ Amador,Amador,005,2020-07-04,31,0,18,
 Butte,Butte,007,2020-07-04,206,3,132,True
 Calaveras,Calaveras,009,2020-07-04,53,0,18,True
 Colusa,Colusa,011,2020-07-04,70,0,13,True
-Contra Costa,Contra Costa,013,2020-07-04,3564,81,2493,
+Contra Costa,Contra Costa,013,2020-07-04,3581,81,2493,
 Del Norte,Del Norte,015,2020-07-04,58,0,49,
 El Dorado,El Dorado,017,2020-07-04,226,0,131,True
 Fresno,Fresno,019,2020-07-04,6110,77,1369,
@@ -1653,7 +1714,7 @@ Amador,Amador,005,2020-07-03,31,0,18,
 Butte,Butte,007,2020-07-03,206,3,132,True
 Calaveras,Calaveras,009,2020-07-03,53,0,18,True
 Colusa,Colusa,011,2020-07-03,70,0,13,True
-Contra Costa,Contra Costa,013,2020-07-03,3432,79,2399,
+Contra Costa,Contra Costa,013,2020-07-03,3439,79,2399,
 Del Norte,Del Norte,015,2020-07-03,55,0,49,
 El Dorado,El Dorado,017,2020-07-03,226,0,131,
 Fresno,Fresno,019,2020-07-03,5851,77,1352,
@@ -1714,7 +1775,7 @@ Amador,Amador,005,2020-07-02,26,0,12,
 Butte,Butte,007,2020-07-02,206,3,132,
 Calaveras,Calaveras,009,2020-07-02,53,0,18,
 Colusa,Colusa,011,2020-07-02,70,0,13,
-Contra Costa,Contra Costa,013,2020-07-02,3326,78,2311,
+Contra Costa,Contra Costa,013,2020-07-02,3333,78,2311,
 Del Norte,Del Norte,015,2020-07-02,51,0,48,
 El Dorado,El Dorado,017,2020-07-02,206,0,128,
 Fresno,Fresno,019,2020-07-02,5626,77,1305,
@@ -1775,7 +1836,7 @@ Amador,Amador,005,2020-07-01,24,0,12,
 Butte,Butte,007,2020-07-01,189,2,,
 Calaveras,Calaveras,009,2020-07-01,40,0,17,True
 Colusa,Colusa,011,2020-07-01,59,0,10,
-Contra Costa,Contra Costa,013,2020-07-01,3248,77,2227,
+Contra Costa,Contra Costa,013,2020-07-01,3246,77,2227,
 Del Norte,Del Norte,015,2020-07-01,51,0,38,
 El Dorado,El Dorado,017,2020-07-01,198,0,125,
 Fresno,Fresno,019,2020-07-01,5289,75,1253,
@@ -1897,7 +1958,7 @@ Amador,Amador,005,2020-06-29,22,0,12,
 Butte,Butte,007,2020-06-29,168,2,95,
 Calaveras,Calaveras,009,2020-06-29,32,0,16,True
 Colusa,Colusa,011,2020-06-29,35,0,,
-Contra Costa,Contra Costa,013,2020-06-29,2971,76,2075,
+Contra Costa,Contra Costa,013,2020-06-29,2973,76,2075,
 Del Norte,Del Norte,015,2020-06-29,50,0,48,True
 El Dorado,El Dorado,017,2020-06-29,178,0,122,
 Fresno,Fresno,019,2020-06-29,4811,72,1166,
@@ -1958,7 +2019,7 @@ Amador,Amador,005,2020-06-28,21,0,12,
 Butte,Butte,007,2020-06-28,143,2,94,True
 Calaveras,Calaveras,009,2020-06-28,32,0,16,True
 Colusa,Colusa,011,2020-06-28,17,0,,True
-Contra Costa,Contra Costa,013,2020-06-28,2802,74,2038,
+Contra Costa,Contra Costa,013,2020-06-28,2808,74,2038,
 Del Norte,Del Norte,015,2020-06-28,50,0,48,True
 El Dorado,El Dorado,017,2020-06-28,158,0,117,True
 Fresno,Fresno,019,2020-06-28,4474,72,1138,True
@@ -2019,7 +2080,7 @@ Amador,Amador,005,2020-06-27,20,0,12,
 Butte,Butte,007,2020-06-27,143,2,94,True
 Calaveras,Calaveras,009,2020-06-27,32,0,16,True
 Colusa,Colusa,011,2020-06-27,17,0,,True
-Contra Costa,Contra Costa,013,2020-06-27,2688,73,2005,
+Contra Costa,Contra Costa,013,2020-06-27,2726,73,2005,
 Del Norte,Del Norte,015,2020-06-27,50,0,48,
 El Dorado,El Dorado,017,2020-06-27,158,0,117,True
 Fresno,Fresno,019,2020-06-27,4474,72,1138,
@@ -2080,7 +2141,7 @@ Amador,Amador,005,2020-06-26,20,0,12,
 Butte,Butte,007,2020-06-26,143,2,94,
 Calaveras,Calaveras,009,2020-06-26,32,0,16,
 Colusa,Colusa,011,2020-06-26,17,0,,
-Contra Costa,Contra Costa,013,2020-06-26,2676,73,1954,
+Contra Costa,Contra Costa,013,2020-06-26,2684,73,1954,
 Del Norte,Del Norte,015,2020-06-26,49,0,48,
 El Dorado,El Dorado,017,2020-06-26,158,0,117,True
 Fresno,Fresno,019,2020-06-26,4374,72,1135,
@@ -2141,7 +2202,7 @@ Amador,Amador,005,2020-06-25,20,0,10,
 Butte,Butte,007,2020-06-25,133,2,89,
 Calaveras,Calaveras,009,2020-06-25,29,0,16,True
 Colusa,Colusa,011,2020-06-25,16,0,,
-Contra Costa,Contra Costa,013,2020-06-25,2576,72,1922,
+Contra Costa,Contra Costa,013,2020-06-25,2592,72,1922,
 Del Norte,Del Norte,015,2020-06-25,49,0,48,
 El Dorado,El Dorado,017,2020-06-25,158,0,117,
 Fresno,Fresno,019,2020-06-25,4053,71,1066,
@@ -2263,7 +2324,7 @@ Amador,Amador,005,2020-06-23,16,0,10,
 Butte,Butte,007,2020-06-23,119,1,75,
 Calaveras,Calaveras,009,2020-06-23,29,0,16,
 Colusa,Colusa,011,2020-06-23,11,0,,
-Contra Costa,Contra Costa,013,2020-06-23,2454,62,1816,
+Contra Costa,Contra Costa,013,2020-06-23,2453,62,1816,
 Del Norte,Del Norte,015,2020-06-23,49,0,47,
 El Dorado,El Dorado,017,2020-06-23,150,0,109,
 Fresno,Fresno,019,2020-06-23,3672,70,1011,
@@ -2324,7 +2385,7 @@ Amador,Amador,005,2020-06-22,14,0,10,
 Butte,Butte,007,2020-06-22,111,1,73,
 Calaveras,Calaveras,009,2020-06-22,28,0,15,True
 Colusa,Colusa,011,2020-06-22,7,0,,
-Contra Costa,Contra Costa,013,2020-06-22,2369,62,1756,
+Contra Costa,Contra Costa,013,2020-06-22,2368,62,1756,
 Del Norte,Del Norte,015,2020-06-22,48,0,47,
 El Dorado,El Dorado,017,2020-06-22,145,0,106,
 Fresno,Fresno,019,2020-06-22,3485,67,970,
@@ -2385,7 +2446,7 @@ Amador,Amador,005,2020-06-21,13,0,10,
 Butte,Butte,007,2020-06-21,94,1,72,True
 Calaveras,Calaveras,009,2020-06-21,28,0,15,True
 Colusa,Colusa,011,2020-06-21,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-21,2294,62,1734,
+Contra Costa,Contra Costa,013,2020-06-21,2289,62,1734,
 Del Norte,Del Norte,015,2020-06-21,48,0,47,True
 El Dorado,El Dorado,017,2020-06-21,130,0,100,True
 Fresno,Fresno,019,2020-06-21,3245,66,938,True
@@ -2446,7 +2507,7 @@ Amador,Amador,005,2020-06-20,13,0,10,
 Butte,Butte,007,2020-06-20,94,1,72,True
 Calaveras,Calaveras,009,2020-06-20,28,0,15,True
 Colusa,Colusa,011,2020-06-20,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-20,2240,56,1710,
+Contra Costa,Contra Costa,013,2020-06-20,2241,56,1710,
 Del Norte,Del Norte,015,2020-06-20,48,0,47,True
 El Dorado,El Dorado,017,2020-06-20,130,0,100,True
 Fresno,Fresno,019,2020-06-20,3245,66,938,
@@ -2507,7 +2568,7 @@ Amador,Amador,005,2020-06-19,12,0,10,
 Butte,Butte,007,2020-06-19,94,1,72,
 Calaveras,Calaveras,009,2020-06-19,28,0,15,
 Colusa,Colusa,011,2020-06-19,7,0,,
-Contra Costa,Contra Costa,013,2020-06-19,2148,56,1657,
+Contra Costa,Contra Costa,013,2020-06-19,2141,56,1657,
 Del Norte,Del Norte,015,2020-06-19,48,0,47,
 El Dorado,El Dorado,017,2020-06-19,130,0,100,
 Fresno,Fresno,019,2020-06-19,3187,66,921,
@@ -2568,7 +2629,7 @@ Amador,Amador,005,2020-06-18,12,0,10,
 Butte,Butte,007,2020-06-18,90,1,69,
 Calaveras,Calaveras,009,2020-06-18,26,0,15,True
 Colusa,Colusa,011,2020-06-18,7,0,,
-Contra Costa,Contra Costa,013,2020-06-18,2111,55,1606,
+Contra Costa,Contra Costa,013,2020-06-18,2105,55,1606,
 Del Norte,Del Norte,015,2020-06-18,48,0,47,
 El Dorado,El Dorado,017,2020-06-18,125,0,100,
 Fresno,Fresno,019,2020-06-18,3058,62,872,
@@ -2629,7 +2690,7 @@ Amador,Amador,005,2020-06-17,12,0,10,
 Butte,Butte,007,2020-06-17,90,1,67,
 Calaveras,Calaveras,009,2020-06-17,26,0,15,True
 Colusa,Colusa,011,2020-06-17,7,0,,
-Contra Costa,Contra Costa,013,2020-06-17,2071,50,1576,
+Contra Costa,Contra Costa,013,2020-06-17,2069,50,1576,
 Del Norte,Del Norte,015,2020-06-17,48,0,47,
 El Dorado,El Dorado,017,2020-06-17,121,0,99,
 Fresno,Fresno,019,2020-06-17,2900,61,839,
@@ -2690,7 +2751,7 @@ Amador,Amador,005,2020-06-16,12,0,10,
 Butte,Butte,007,2020-06-16,88,1,64,
 Calaveras,Calaveras,009,2020-06-16,26,0,15,True
 Colusa,Colusa,011,2020-06-16,7,0,,
-Contra Costa,Contra Costa,013,2020-06-16,2026,49,1555,
+Contra Costa,Contra Costa,013,2020-06-16,2022,49,1555,
 Del Norte,Del Norte,015,2020-06-16,48,0,47,
 El Dorado,El Dorado,017,2020-06-16,118,0,99,
 Fresno,Fresno,019,2020-06-16,2788,57,810,
@@ -2751,7 +2812,7 @@ Amador,Amador,005,2020-06-15,11,0,10,
 Butte,Butte,007,2020-06-15,82,1,60,
 Calaveras,Calaveras,009,2020-06-15,26,0,15,True
 Colusa,Colusa,011,2020-06-15,7,0,,
-Contra Costa,Contra Costa,013,2020-06-15,1983,44,1526,
+Contra Costa,Contra Costa,013,2020-06-15,1976,44,1526,
 Del Norte,Del Norte,015,2020-06-15,47,0,47,
 El Dorado,El Dorado,017,2020-06-15,117,0,95,
 Fresno,Fresno,019,2020-06-15,2706,55,786,
@@ -2812,7 +2873,7 @@ Amador,Amador,005,2020-06-14,10,0,10,
 Butte,Butte,007,2020-06-14,74,1,51,True
 Calaveras,Calaveras,009,2020-06-14,26,0,15,True
 Colusa,Colusa,011,2020-06-14,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-14,1959,44,1523,
+Contra Costa,Contra Costa,013,2020-06-14,1948,44,1523,
 Del Norte,Del Norte,015,2020-06-14,47,0,47,True
 El Dorado,El Dorado,017,2020-06-14,113,0,91,True
 Fresno,Fresno,019,2020-06-14,2547,52,764,True
@@ -2873,7 +2934,7 @@ Amador,Amador,005,2020-06-13,10,0,10,True
 Butte,Butte,007,2020-06-13,74,1,51,True
 Calaveras,Calaveras,009,2020-06-13,26,0,15,True
 Colusa,Colusa,011,2020-06-13,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-13,1921,44,1517,
+Contra Costa,Contra Costa,013,2020-06-13,1903,44,1517,
 Del Norte,Del Norte,015,2020-06-13,47,0,47,True
 El Dorado,El Dorado,017,2020-06-13,113,0,91,True
 Fresno,Fresno,019,2020-06-13,2547,52,764,
@@ -2934,7 +2995,7 @@ Amador,Amador,005,2020-06-12,10,0,10,
 Butte,Butte,007,2020-06-12,74,1,51,
 Calaveras,Calaveras,009,2020-06-12,26,0,15,
 Colusa,Colusa,011,2020-06-12,7,0,,
-Contra Costa,Contra Costa,013,2020-06-12,1877,44,1476,
+Contra Costa,Contra Costa,013,2020-06-12,1863,44,1476,
 Del Norte,Del Norte,015,2020-06-12,47,0,47,
 El Dorado,El Dorado,017,2020-06-12,113,0,91,
 Fresno,Fresno,019,2020-06-12,2478,52,758,
@@ -3056,7 +3117,7 @@ Amador,Amador,005,2020-06-10,10,0,10,
 Butte,Butte,007,2020-06-10,73,1,48,
 Calaveras,Calaveras,009,2020-06-10,21,0,15,
 Colusa,Colusa,011,2020-06-10,7,0,,
-Contra Costa,Contra Costa,013,2020-06-10,1798,43,1402,
+Contra Costa,Contra Costa,013,2020-06-10,1796,43,1402,
 Del Norte,Del Norte,015,2020-06-10,47,0,47,
 El Dorado,El Dorado,017,2020-06-10,111,0,87,
 Fresno,Fresno,019,2020-06-10,2318,49,685,
@@ -3117,7 +3178,7 @@ Amador,Amador,005,2020-06-09,10,0,10,
 Butte,Butte,007,2020-06-09,71,1,46,
 Calaveras,Calaveras,009,2020-06-09,21,0,15,
 Colusa,Colusa,011,2020-06-09,7,0,,
-Contra Costa,Contra Costa,013,2020-06-09,1774,43,1360,
+Contra Costa,Contra Costa,013,2020-06-09,1775,43,1360,
 Del Norte,Del Norte,015,2020-06-09,47,0,47,
 El Dorado,El Dorado,017,2020-06-09,111,0,87,
 Fresno,Fresno,019,2020-06-09,2286,48,666,
@@ -3178,7 +3239,7 @@ Amador,Amador,005,2020-06-08,10,0,10,
 Butte,Butte,007,2020-06-08,68,1,41,
 Calaveras,Calaveras,009,2020-06-08,19,0,13,True
 Colusa,Colusa,011,2020-06-08,7,0,,
-Contra Costa,Contra Costa,013,2020-06-08,1706,40,,
+Contra Costa,Contra Costa,013,2020-06-08,1707,40,,
 Del Norte,Del Norte,015,2020-06-08,47,0,45,
 El Dorado,El Dorado,017,2020-06-08,109,0,87,
 Fresno,Fresno,019,2020-06-08,2216,46,629,
@@ -3239,7 +3300,7 @@ Amador,Amador,005,2020-06-07,10,0,9,True
 Butte,Butte,007,2020-06-07,65,1,37,True
 Calaveras,Calaveras,009,2020-06-07,19,0,13,True
 Colusa,Colusa,011,2020-06-07,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-07,1668,39,1345,
+Contra Costa,Contra Costa,013,2020-06-07,1667,39,1345,
 Del Norte,Del Norte,015,2020-06-07,47,0,44,True
 El Dorado,El Dorado,017,2020-06-07,106,0,72,True
 Fresno,Fresno,019,2020-06-07,2122,43,616,True
@@ -3247,243 +3308,243 @@ Glenn,Glenn,021,2020-06-07,18,0,15,True
 Humboldt,Humboldt,023,2020-06-07,104,4,86,True
 Imperial,Imperial,025,2020-06-07,2568,33,1560,True
 Inyo,Inyo,027,2020-06-07,22,1,18,True
-Kern,Kern,029,2020-06-07,2720,45,1815,
-Kings,Kings,031,2020-06-07,1538,6,490,
+Kern,Kern,029,2020-06-07,2650,45,1815,
+Kings,Kings,031,2020-06-07,1492,6,490,
 Lake,Lake,033,2020-06-07,30,0,21,True
 Lassen,Lassen,035,2020-06-07,6,0,,True
 Long Beach,Los Angeles,037,2020-06-07,2227,99,1583,
-Los Angeles,Los Angeles,037,2020-06-07,60636,2463,,
-Pasadena,Los Angeles,037,2020-06-07,987,84,,
+Los Angeles,Los Angeles,037,2020-06-07,59181,2463,,
+Pasadena,Los Angeles,037,2020-06-07,981,84,,
 Madera,Madera,039,2020-06-07,163,3,94,
-Marin,Marin,041,2020-06-07,589,17,405,
+Marin,Marin,041,2020-06-07,571,17,405,
 Mariposa,Mariposa,043,2020-06-07,16,1,15,True
 Mendocino,Mendocino,045,2020-06-07,33,0,23,True
 Merced,Merced,047,2020-06-07,334,7,245,True
 Modoc,Modoc,049,2020-06-07,0,0,,True
 Mono,Mono,051,2020-06-07,37,1,,True
-Monterey,Monterey,053,2020-06-07,732,10,424,
+Monterey,Monterey,053,2020-06-07,667,10,424,
 Napa,Napa,055,2020-06-07,141,3,99,True
 Nevada,Nevada,057,2020-06-07,50,1,42,True
-Orange,Orange,059,2020-06-07,7440,177,3273,
-Placer,Placer,061,2020-06-07,284,9,181,
+Orange,Orange,059,2020-06-07,7321,177,3273,
+Placer,Placer,061,2020-06-07,275,9,181,
 Plumas,Plumas,063,2020-06-07,4,0,4,True
 Riverside,Riverside,065,2020-06-07,8777,355,5161,True
-Sacramento,Sacramento,067,2020-06-07,1569,59,1224,
-San Benito,San Benito,069,2020-06-07,107,2,88,
+Sacramento,Sacramento,067,2020-06-07,1537,59,1224,
+San Benito,San Benito,069,2020-06-07,105,2,88,
 San Bernardino,San Bernardino,071,2020-06-07,6040,221,3553,True
-San Diego,San Diego,073,2020-06-07,8476,296,,
-San Francisco,San Francisco,075,2020-06-07,2747,43,,
-San Joaquin,San Joaquin,077,2020-06-07,1170,37,794,
+San Diego,San Diego,073,2020-06-07,8345,296,,
+San Francisco,San Francisco,075,2020-06-07,2712,43,,
+San Joaquin,San Joaquin,077,2020-06-07,1125,37,794,
 San Luis Obispo,San Luis Obispo,079,2020-06-07,291,1,262,True
 San Mateo,San Mateo,081,2020-06-07,2330,88,,True
 Santa Barbara,Santa Barbara,083,2020-06-07,1787,15,1594,True
-Santa Clara,Santa Clara,085,2020-06-07,2942,144,,
-Santa Cruz,Santa Cruz,087,2020-06-07,231,2,183,
-Shasta,Shasta,089,2020-06-07,44,4,32,
+Santa Clara,Santa Clara,085,2020-06-07,2920,144,,
+Santa Cruz,Santa Cruz,087,2020-06-07,226,2,183,
+Shasta,Shasta,089,2020-06-07,42,4,32,
 Sierra,Sierra,091,2020-06-07,1,0,1,True
-Siskiyou,Siskiyou,093,2020-06-07,12,0,7,
+Siskiyou,Siskiyou,093,2020-06-07,9,0,7,
 Solano,Solano,095,2020-06-07,566,23,482,True
-Sonoma,Sonoma,097,2020-06-07,642,4,304,
-Stanislaus,Stanislaus,099,2020-06-07,901,33,682,
-Sutter,Sutter,101,2020-06-07,58,2,40,
-Tehama,Tehama,103,2020-06-07,9,1,3,
+Sonoma,Sonoma,097,2020-06-07,624,4,304,
+Stanislaus,Stanislaus,099,2020-06-07,865,33,682,
+Sutter,Sutter,101,2020-06-07,55,2,40,
+Tehama,Tehama,103,2020-06-07,8,1,3,
 Trinity,Trinity,105,2020-06-07,2,0,1,True
 Tulare,Tulare,107,2020-06-07,2116,92,1370,True
 Tuolumne,Tuolumne,109,2020-06-07,7,0,4,True
 Ventura,Ventura,111,2020-06-07,1261,35,971,True
-Yolo,Yolo,113,2020-06-07,223,24,,
+Yolo,Yolo,113,2020-06-07,221,24,,
 Yuba,Yuba,115,2020-06-07,32,1,29,
-Alameda,Alameda,001,2020-06-06,3701,100,,
-Berkeley,Alameda,001,2020-06-06,104,1,,
+Alameda,Alameda,001,2020-06-06,3626,100,,
+Berkeley,Alameda,001,2020-06-06,99,1,,
 Alpine,Alpine,003,2020-06-06,1,0,1,True
 Amador,Amador,005,2020-06-06,10,0,9,
 Butte,Butte,007,2020-06-06,65,1,37,True
 Calaveras,Calaveras,009,2020-06-06,19,0,13,True
 Colusa,Colusa,011,2020-06-06,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-06,1633,38,1335,
+Contra Costa,Contra Costa,013,2020-06-06,1630,38,1335,
 Del Norte,Del Norte,015,2020-06-06,47,0,44,True
 El Dorado,El Dorado,017,2020-06-06,106,0,72,True
-Fresno,Fresno,019,2020-06-06,2122,43,616,
+Fresno,Fresno,019,2020-06-06,2080,43,616,
 Glenn,Glenn,021,2020-06-06,18,0,15,True
 Humboldt,Humboldt,023,2020-06-06,104,4,86,
 Imperial,Imperial,025,2020-06-06,2568,33,1560,True
-Inyo,Inyo,027,2020-06-06,22,1,18,
-Kern,Kern,029,2020-06-06,2650,45,1809,
-Kings,Kings,031,2020-06-06,1492,6,490,
+Inyo,Inyo,027,2020-06-06,20,1,18,
+Kern,Kern,029,2020-06-06,2534,45,1809,
+Kings,Kings,031,2020-06-06,1483,6,490,
 Lake,Lake,033,2020-06-06,30,0,21,True
 Lassen,Lassen,035,2020-06-06,6,0,,True
-Long Beach,Los Angeles,037,2020-06-06,2227,99,1583,
-Los Angeles,Los Angeles,037,2020-06-06,59181,2442,,
-Pasadena,Los Angeles,037,2020-06-06,981,83,,
-Madera,Madera,039,2020-06-06,163,3,94,
-Marin,Marin,041,2020-06-06,571,17,405,
+Long Beach,Los Angeles,037,2020-06-06,2183,99,1583,
+Los Angeles,Los Angeles,037,2020-06-06,57917,2442,,
+Pasadena,Los Angeles,037,2020-06-06,974,83,,
+Madera,Madera,039,2020-06-06,155,3,94,
+Marin,Marin,041,2020-06-06,551,17,405,
 Mariposa,Mariposa,043,2020-06-06,16,1,15,True
 Mendocino,Mendocino,045,2020-06-06,33,0,23,True
 Merced,Merced,047,2020-06-06,334,7,245,True
 Modoc,Modoc,049,2020-06-06,0,0,,True
 Mono,Mono,051,2020-06-06,37,1,,True
-Monterey,Monterey,053,2020-06-06,667,10,410,
-Napa,Napa,055,2020-06-06,141,3,99,
+Monterey,Monterey,053,2020-06-06,640,10,410,
+Napa,Napa,055,2020-06-06,129,3,99,
 Nevada,Nevada,057,2020-06-06,50,1,42,True
-Orange,Orange,059,2020-06-06,7321,176,3156,
-Placer,Placer,061,2020-06-06,275,9,179,
+Orange,Orange,059,2020-06-06,7064,176,3156,
+Placer,Placer,061,2020-06-06,265,9,179,
 Plumas,Plumas,063,2020-06-06,4,0,4,True
 Riverside,Riverside,065,2020-06-06,8777,355,5161,True
-Sacramento,Sacramento,067,2020-06-06,1537,59,1224,
+Sacramento,Sacramento,067,2020-06-06,1519,59,1224,
 San Benito,San Benito,069,2020-06-06,105,2,88,
-San Bernardino,San Bernardino,071,2020-06-06,6040,221,3553,
-San Diego,San Diego,073,2020-06-06,8345,296,,
-San Francisco,San Francisco,075,2020-06-06,2712,43,,
-San Joaquin,San Joaquin,077,2020-06-06,1125,37,791,
+San Bernardino,San Bernardino,071,2020-06-06,5930,221,3553,
+San Diego,San Diego,073,2020-06-06,8180,296,,
+San Francisco,San Francisco,075,2020-06-06,2698,43,,
+San Joaquin,San Joaquin,077,2020-06-06,1059,37,791,
 San Luis Obispo,San Luis Obispo,079,2020-06-06,291,1,262,True
-San Mateo,San Mateo,081,2020-06-06,2330,88,,
+San Mateo,San Mateo,081,2020-06-06,2299,88,,
 Santa Barbara,Santa Barbara,083,2020-06-06,1787,15,1594,True
-Santa Clara,Santa Clara,085,2020-06-06,2920,143,,
-Santa Cruz,Santa Cruz,087,2020-06-06,226,2,181,
+Santa Clara,Santa Clara,085,2020-06-06,2892,143,,
+Santa Cruz,Santa Cruz,087,2020-06-06,221,2,181,
 Shasta,Shasta,089,2020-06-06,42,4,32,
 Sierra,Sierra,091,2020-06-06,1,0,1,True
 Siskiyou,Siskiyou,093,2020-06-06,9,0,7,
 Solano,Solano,095,2020-06-06,566,23,482,True
 Sonoma,Sonoma,097,2020-06-06,624,4,304,True
-Stanislaus,Stanislaus,099,2020-06-06,865,33,670,
-Sutter,Sutter,101,2020-06-06,55,2,40,
+Stanislaus,Stanislaus,099,2020-06-06,840,33,670,
+Sutter,Sutter,101,2020-06-06,52,2,40,
 Tehama,Tehama,103,2020-06-06,8,1,3,True
 Trinity,Trinity,105,2020-06-06,2,0,1,True
 Tulare,Tulare,107,2020-06-06,2116,92,1370,True
 Tuolumne,Tuolumne,109,2020-06-06,7,0,4,True
 Ventura,Ventura,111,2020-06-06,1261,35,971,True
-Yolo,Yolo,113,2020-06-06,221,24,,
+Yolo,Yolo,113,2020-06-06,218,24,,
 Yuba,Yuba,115,2020-06-06,32,1,28,
-Alameda,Alameda,001,2020-06-05,3626,100,,
+Alameda,Alameda,001,2020-06-05,3542,100,,
 Berkeley,Alameda,001,2020-06-05,99,1,,
 Alpine,Alpine,003,2020-06-05,1,0,1,
 Amador,Amador,005,2020-06-05,10,0,9,
-Butte,Butte,007,2020-06-05,65,1,37,
-Calaveras,Calaveras,009,2020-06-05,19,0,13,
+Butte,Butte,007,2020-06-05,60,1,37,
+Calaveras,Calaveras,009,2020-06-05,16,0,13,
 Colusa,Colusa,011,2020-06-05,7,0,,
-Contra Costa,Contra Costa,013,2020-06-05,1577,38,1293,
+Contra Costa,Contra Costa,013,2020-06-05,1592,38,1293,
 Del Norte,Del Norte,015,2020-06-05,47,0,44,
-El Dorado,El Dorado,017,2020-06-05,106,0,72,
-Fresno,Fresno,019,2020-06-05,2080,43,610,
-Glenn,Glenn,021,2020-06-05,18,0,15,
+El Dorado,El Dorado,017,2020-06-05,102,0,72,
+Fresno,Fresno,019,2020-06-05,2014,43,610,
+Glenn,Glenn,021,2020-06-05,17,0,15,
 Humboldt,Humboldt,023,2020-06-05,104,4,86,
-Imperial,Imperial,025,2020-06-05,2568,33,1560,
+Imperial,Imperial,025,2020-06-05,2493,33,1560,
 Inyo,Inyo,027,2020-06-05,20,1,18,
-Kern,Kern,029,2020-06-05,2534,45,1729,
-Kings,Kings,031,2020-06-05,1483,6,489,
+Kern,Kern,029,2020-06-05,2462,45,1729,
+Kings,Kings,031,2020-06-05,1452,6,489,
 Lake,Lake,033,2020-06-05,30,0,21,
 Lassen,Lassen,035,2020-06-05,6,0,,
-Long Beach,Los Angeles,037,2020-06-05,2183,95,1541,
-Los Angeles,Los Angeles,037,2020-06-05,57917,2389,,
-Pasadena,Los Angeles,037,2020-06-05,974,83,,
-Madera,Madera,039,2020-06-05,155,3,94,
-Marin,Marin,041,2020-06-05,551,17,401,
+Long Beach,Los Angeles,037,2020-06-05,2160,95,1541,
+Los Angeles,Los Angeles,037,2020-06-05,56589,2389,,
+Pasadena,Los Angeles,037,2020-06-05,968,83,,
+Madera,Madera,039,2020-06-05,141,3,94,
+Marin,Marin,041,2020-06-05,530,17,401,
 Mariposa,Mariposa,043,2020-06-05,16,1,15,
 Mendocino,Mendocino,045,2020-06-05,33,0,23,
-Merced,Merced,047,2020-06-05,334,7,245,
+Merced,Merced,047,2020-06-05,320,7,245,
 Modoc,Modoc,049,2020-06-05,0,0,,True
 Mono,Mono,051,2020-06-05,37,1,,
-Monterey,Monterey,053,2020-06-05,640,10,384,
-Napa,Napa,055,2020-06-05,129,3,94,
-Nevada,Nevada,057,2020-06-05,50,1,42,
-Orange,Orange,059,2020-06-05,7064,174,3021,
-Placer,Placer,061,2020-06-05,265,9,172,
+Monterey,Monterey,053,2020-06-05,621,10,384,
+Napa,Napa,055,2020-06-05,126,3,94,
+Nevada,Nevada,057,2020-06-05,49,1,42,
+Orange,Orange,059,2020-06-05,6783,174,3021,
+Placer,Placer,061,2020-06-05,259,9,172,
 Plumas,Plumas,063,2020-06-05,4,0,4,
-Riverside,Riverside,065,2020-06-05,8777,355,5161,
-Sacramento,Sacramento,067,2020-06-05,1519,59,1224,
-San Benito,San Benito,069,2020-06-05,105,2,84,
-San Bernardino,San Bernardino,071,2020-06-05,5930,217,3497,
-San Diego,San Diego,073,2020-06-05,8180,294,,
-San Francisco,San Francisco,075,2020-06-05,2698,43,,
-San Joaquin,San Joaquin,077,2020-06-05,1059,36,767,
-San Luis Obispo,San Luis Obispo,079,2020-06-05,291,1,262,
-San Mateo,San Mateo,081,2020-06-05,2299,88,,
-Santa Barbara,Santa Barbara,083,2020-06-05,1787,15,1594,
-Santa Clara,Santa Clara,085,2020-06-05,2892,143,,
-Santa Cruz,Santa Cruz,087,2020-06-05,221,2,177,
+Riverside,Riverside,065,2020-06-05,8303,355,5161,
+Sacramento,Sacramento,067,2020-06-05,1490,59,1224,
+San Benito,San Benito,069,2020-06-05,102,2,84,
+San Bernardino,San Bernardino,071,2020-06-05,5793,217,3497,
+San Diego,San Diego,073,2020-06-05,7940,294,,
+San Francisco,San Francisco,075,2020-06-05,2644,43,,
+San Joaquin,San Joaquin,077,2020-06-05,1030,36,767,
+San Luis Obispo,San Luis Obispo,079,2020-06-05,288,1,262,
+San Mateo,San Mateo,081,2020-06-05,2244,88,,
+Santa Barbara,Santa Barbara,083,2020-06-05,1737,15,1594,
+Santa Clara,Santa Clara,085,2020-06-05,2850,143,,
+Santa Cruz,Santa Cruz,087,2020-06-05,219,2,177,
 Shasta,Shasta,089,2020-06-05,42,4,30,
 Sierra,Sierra,091,2020-06-05,1,0,1,
 Siskiyou,Siskiyou,093,2020-06-05,9,0,7,
-Solano,Solano,095,2020-06-05,566,23,482,
-Sonoma,Sonoma,097,2020-06-05,624,4,304,
-Stanislaus,Stanislaus,099,2020-06-05,840,31,639,
-Sutter,Sutter,101,2020-06-05,52,2,40,
-Tehama,Tehama,103,2020-06-05,8,1,3,
-Trinity,Trinity,105,2020-06-05,2,0,1,
-Tulare,Tulare,107,2020-06-05,2116,92,1370,
-Tuolumne,Tuolumne,109,2020-06-05,7,0,4,
-Ventura,Ventura,111,2020-06-05,1261,35,971,
-Yolo,Yolo,113,2020-06-05,218,24,,
-Yuba,Yuba,115,2020-06-05,32,1,28,
-Alameda,Alameda,001,2020-06-04,3542,96,,
-Berkeley,Alameda,001,2020-06-04,99,1,,
+Solano,Solano,095,2020-06-05,565,23,482,
+Sonoma,Sonoma,097,2020-06-05,610,4,304,
+Stanislaus,Stanislaus,099,2020-06-05,816,31,639,
+Sutter,Sutter,101,2020-06-05,51,2,40,
+Tehama,Tehama,103,2020-06-05,7,1,3,
+Trinity,Trinity,105,2020-06-05,1,0,1,
+Tulare,Tulare,107,2020-06-05,2083,92,1370,
+Tuolumne,Tuolumne,109,2020-06-05,5,0,4,
+Ventura,Ventura,111,2020-06-05,1216,35,971,
+Yolo,Yolo,113,2020-06-05,216,24,,
+Yuba,Yuba,115,2020-06-05,31,1,28,
+Alameda,Alameda,001,2020-06-04,3450,96,,
+Berkeley,Alameda,001,2020-06-04,98,1,,
 Alpine,Alpine,003,2020-06-04,1,0,1,True
 Amador,Amador,005,2020-06-04,10,0,9,
-Butte,Butte,007,2020-06-04,60,1,37,
-Calaveras,Calaveras,009,2020-06-04,16,0,13,
+Butte,Butte,007,2020-06-04,55,1,37,
+Calaveras,Calaveras,009,2020-06-04,15,0,13,
 Colusa,Colusa,011,2020-06-04,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-04,1547,38,1277,
-Del Norte,Del Norte,015,2020-06-04,47,0,44,
-El Dorado,El Dorado,017,2020-06-04,102,0,68,
-Fresno,Fresno,019,2020-06-04,2014,40,595,
-Glenn,Glenn,021,2020-06-04,17,0,15,
-Humboldt,Humboldt,023,2020-06-04,104,4,83,
-Imperial,Imperial,025,2020-06-04,2493,30,1262,
-Inyo,Inyo,027,2020-06-04,20,1,18,
-Kern,Kern,029,2020-06-04,2462,45,1664,
-Kings,Kings,031,2020-06-04,1452,6,363,
-Lake,Lake,033,2020-06-04,30,0,21,
-Lassen,Lassen,035,2020-06-04,6,0,,
-Long Beach,Los Angeles,037,2020-06-04,2160,93,1510,
-Los Angeles,Los Angeles,037,2020-06-04,56589,2356,,
-Pasadena,Los Angeles,037,2020-06-04,968,83,,
-Madera,Madera,039,2020-06-04,141,3,89,
-Marin,Marin,041,2020-06-04,530,17,392,
-Mariposa,Mariposa,043,2020-06-04,16,1,15,
-Mendocino,Mendocino,045,2020-06-04,33,0,17,True
-Merced,Merced,047,2020-06-04,320,7,239,
-Modoc,Modoc,049,2020-06-04,0,0,,
-Mono,Mono,051,2020-06-04,37,1,,
-Monterey,Monterey,053,2020-06-04,621,10,371,
-Napa,Napa,055,2020-06-04,126,3,94,
-Nevada,Nevada,057,2020-06-04,49,1,42,
-Orange,Orange,059,2020-06-04,6783,165,2890,
-Placer,Placer,061,2020-06-04,259,9,172,
-Plumas,Plumas,063,2020-06-04,4,0,4,
-Riverside,Riverside,065,2020-06-04,8303,345,4897,True
-Sacramento,Sacramento,067,2020-06-04,1490,58,1189,
-San Benito,San Benito,069,2020-06-04,102,2,83,
-San Bernardino,San Bernardino,071,2020-06-04,5793,210,3343,
-San Diego,San Diego,073,2020-06-04,7940,288,,
-San Francisco,San Francisco,075,2020-06-04,2644,43,,
-San Joaquin,San Joaquin,077,2020-06-04,1030,36,753,
-San Luis Obispo,San Luis Obispo,079,2020-06-04,288,1,259,
-San Mateo,San Mateo,081,2020-06-04,2244,84,,
-Santa Barbara,Santa Barbara,083,2020-06-04,1737,14,1581,
-Santa Clara,Santa Clara,085,2020-06-04,2850,143,,
-Santa Cruz,Santa Cruz,087,2020-06-04,219,2,175,
-Shasta,Shasta,089,2020-06-04,42,4,30,
-Sierra,Sierra,091,2020-06-04,1,0,1,
-Siskiyou,Siskiyou,093,2020-06-04,9,0,7,
-Solano,Solano,095,2020-06-04,565,22,480,
-Sonoma,Sonoma,097,2020-06-04,610,4,304,
-Stanislaus,Stanislaus,099,2020-06-04,816,31,623,
-Sutter,Sutter,101,2020-06-04,51,2,40,
-Tehama,Tehama,103,2020-06-04,7,1,2,
-Trinity,Trinity,105,2020-06-04,1,0,1,True
-Tulare,Tulare,107,2020-06-04,2083,92,1226,
-Tuolumne,Tuolumne,109,2020-06-04,5,0,4,
-Ventura,Ventura,111,2020-06-04,1216,35,952,
-Yolo,Yolo,113,2020-06-04,216,24,,
-Yuba,Yuba,115,2020-06-04,31,1,28,
-Alameda,Alameda,001,2020-06-03,3450,96,,
-Berkeley,Alameda,001,2020-06-03,98,1,,
-Alpine,Alpine,003,2020-06-03,1,0,1,True
-Amador,Amador,005,2020-06-03,10,0,9,
-Butte,Butte,007,2020-06-03,55,1,19,
-Calaveras,Calaveras,009,2020-06-03,15,0,13,True
-Colusa,Colusa,011,2020-06-03,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-03,1513,38,1265,
+Contra Costa,Contra Costa,013,2020-06-04,1559,38,1277,
+Del Norte,Del Norte,015,2020-06-04,,0,44,
+El Dorado,El Dorado,017,2020-06-04,,0,68,
+Fresno,Fresno,019,2020-06-04,,40,595,
+Glenn,Glenn,021,2020-06-04,,0,15,
+Humboldt,Humboldt,023,2020-06-04,,4,83,
+Imperial,Imperial,025,2020-06-04,,30,1262,
+Inyo,Inyo,027,2020-06-04,,1,18,
+Kern,Kern,029,2020-06-04,,45,1664,
+Kings,Kings,031,2020-06-04,,6,363,
+Lake,Lake,033,2020-06-04,,0,21,
+Lassen,Lassen,035,2020-06-04,,0,,
+Long Beach,Los Angeles,037,2020-06-04,,93,1510,
+Los Angeles,Los Angeles,037,2020-06-04,,2356,,
+Pasadena,Los Angeles,037,2020-06-04,,83,,
+Madera,Madera,039,2020-06-04,,3,89,
+Marin,Marin,041,2020-06-04,,17,392,
+Mariposa,Mariposa,043,2020-06-04,,1,15,
+Mendocino,Mendocino,045,2020-06-04,,0,17,True
+Merced,Merced,047,2020-06-04,,7,239,
+Modoc,Modoc,049,2020-06-04,,0,,
+Mono,Mono,051,2020-06-04,,1,,
+Monterey,Monterey,053,2020-06-04,,10,371,
+Napa,Napa,055,2020-06-04,,3,94,
+Nevada,Nevada,057,2020-06-04,,1,42,
+Orange,Orange,059,2020-06-04,,165,2890,
+Placer,Placer,061,2020-06-04,,9,172,
+Plumas,Plumas,063,2020-06-04,,0,4,
+Riverside,Riverside,065,2020-06-04,,345,4897,True
+Sacramento,Sacramento,067,2020-06-04,,58,1189,
+San Benito,San Benito,069,2020-06-04,,2,83,
+San Bernardino,San Bernardino,071,2020-06-04,,210,3343,
+San Diego,San Diego,073,2020-06-04,,288,,
+San Francisco,San Francisco,075,2020-06-04,,43,,
+San Joaquin,San Joaquin,077,2020-06-04,,36,753,
+San Luis Obispo,San Luis Obispo,079,2020-06-04,,1,259,
+San Mateo,San Mateo,081,2020-06-04,,84,,
+Santa Barbara,Santa Barbara,083,2020-06-04,,14,1581,
+Santa Clara,Santa Clara,085,2020-06-04,,143,,
+Santa Cruz,Santa Cruz,087,2020-06-04,,2,175,
+Shasta,Shasta,089,2020-06-04,,4,30,
+Sierra,Sierra,091,2020-06-04,,0,1,
+Siskiyou,Siskiyou,093,2020-06-04,,0,7,
+Solano,Solano,095,2020-06-04,,22,480,
+Sonoma,Sonoma,097,2020-06-04,,4,304,
+Stanislaus,Stanislaus,099,2020-06-04,,31,623,
+Sutter,Sutter,101,2020-06-04,,2,40,
+Tehama,Tehama,103,2020-06-04,,1,2,
+Trinity,Trinity,105,2020-06-04,,0,1,True
+Tulare,Tulare,107,2020-06-04,,92,1226,
+Tuolumne,Tuolumne,109,2020-06-04,,0,4,
+Ventura,Ventura,111,2020-06-04,,35,952,
+Yolo,Yolo,113,2020-06-04,,24,,
+Yuba,Yuba,115,2020-06-04,,1,28,
+Alameda,Alameda,001,2020-06-03,,96,,
+Berkeley,Alameda,001,2020-06-03,,1,,
+Alpine,Alpine,003,2020-06-03,,0,1,True
+Amador,Amador,005,2020-06-03,,0,9,
+Butte,Butte,007,2020-06-03,,1,19,
+Calaveras,Calaveras,009,2020-06-03,,0,13,True
+Colusa,Colusa,011,2020-06-03,,0,,True
+Contra Costa,Contra Costa,013,2020-06-03,1512,38,1265,
 Del Norte,Del Norte,015,2020-06-03,47,0,26,
 El Dorado,El Dorado,017,2020-06-03,98,0,68,
 Fresno,Fresno,019,2020-06-03,1944,37,575,
@@ -3544,7 +3605,7 @@ Amador,Amador,005,2020-06-02,10,0,9,
 Butte,Butte,007,2020-06-02,51,1,33,
 Calaveras,Calaveras,009,2020-06-02,15,0,13,True
 Colusa,Colusa,011,2020-06-02,7,0,,True
-Contra Costa,Contra Costa,013,2020-06-02,1506,37,1239,
+Contra Costa,Contra Costa,013,2020-06-02,1508,37,1239,
 Del Norte,Del Norte,015,2020-06-02,47,0,26,
 El Dorado,El Dorado,017,2020-06-02,96,0,68,
 Fresno,Fresno,019,2020-06-02,1914,37,563,
@@ -3605,7 +3666,7 @@ Amador,Amador,005,2020-06-01,10,0,9,
 Butte,Butte,007,2020-06-01,51,1,30,
 Calaveras,Calaveras,009,2020-06-01,15,0,13,True
 Colusa,Colusa,011,2020-06-01,7,0,,
-Contra Costa,Contra Costa,013,2020-06-01,1468,37,1207,
+Contra Costa,Contra Costa,013,2020-06-01,1469,37,1207,
 Del Norte,Del Norte,015,2020-06-01,46,0,26,
 El Dorado,El Dorado,017,2020-06-01,96,0,67,
 Fresno,Fresno,019,2020-06-01,1882,36,543,
@@ -3666,7 +3727,7 @@ Amador,Amador,005,2020-05-31,10,0,8,True
 Butte,Butte,007,2020-05-31,44,0,27,True
 Calaveras,Calaveras,009,2020-05-31,15,0,13,True
 Colusa,Colusa,011,2020-05-31,5,0,,True
-Contra Costa,Contra Costa,013,2020-05-31,1450,37,1196,
+Contra Costa,Contra Costa,013,2020-05-31,1447,37,1196,
 Del Norte,Del Norte,015,2020-05-31,45,0,19,True
 El Dorado,El Dorado,017,2020-05-31,90,0,65,True
 Fresno,Fresno,019,2020-05-31,1743,35,542,True
@@ -3727,7 +3788,7 @@ Amador,Amador,005,2020-05-30,10,0,8,True
 Butte,Butte,007,2020-05-30,44,0,27,True
 Calaveras,Calaveras,009,2020-05-30,15,0,13,True
 Colusa,Colusa,011,2020-05-30,5,0,,True
-Contra Costa,Contra Costa,013,2020-05-30,1426,37,1181,
+Contra Costa,Contra Costa,013,2020-05-30,1421,37,1181,
 Del Norte,Del Norte,015,2020-05-30,45,0,19,True
 El Dorado,El Dorado,017,2020-05-30,90,0,65,True
 Fresno,Fresno,019,2020-05-30,1743,35,542,
@@ -3788,7 +3849,7 @@ Amador,Amador,005,2020-05-29,10,0,8,
 Butte,Butte,007,2020-05-29,44,0,,
 Calaveras,Calaveras,009,2020-05-29,15,0,13,True
 Colusa,Colusa,011,2020-05-29,5,0,,True
-Contra Costa,Contra Costa,013,2020-05-29,1404,37,1156,
+Contra Costa,Contra Costa,013,2020-05-29,1399,37,1156,
 Del Norte,Del Norte,015,2020-05-29,45,0,19,
 El Dorado,El Dorado,017,2020-05-29,90,0,65,
 Fresno,Fresno,019,2020-05-29,1714,35,542,
@@ -3849,7 +3910,7 @@ Amador,Amador,005,2020-05-28,10,0,8,
 Butte,Butte,007,2020-05-28,40,0,,
 Calaveras,Calaveras,009,2020-05-28,15,0,13,True
 Colusa,Colusa,011,2020-05-28,5,0,,
-Contra Costa,Contra Costa,013,2020-05-28,1384,37,,
+Contra Costa,Contra Costa,013,2020-05-28,1373,37,,
 Del Norte,Del Norte,015,2020-05-28,44,0,18,
 El Dorado,El Dorado,017,2020-05-28,84,0,61,
 Fresno,Fresno,019,2020-05-28,1658,32,536,
@@ -3910,7 +3971,7 @@ Amador,Amador,005,2020-05-27,10,0,8,
 Butte,Butte,007,2020-05-27,40,0,25,
 Calaveras,Calaveras,009,2020-05-27,15,0,13,True
 Colusa,Colusa,011,2020-05-27,5,0,,
-Contra Costa,Contra Costa,013,2020-05-27,1375,37,1116,
+Contra Costa,Contra Costa,013,2020-05-27,1362,37,1116,
 Del Norte,Del Norte,015,2020-05-27,43,0,14,
 El Dorado,El Dorado,017,2020-05-27,81,0,59,
 Fresno,Fresno,019,2020-05-27,1631,30,519,
@@ -3971,7 +4032,7 @@ Amador,Amador,005,2020-05-26,10,0,8,
 Butte,Butte,007,2020-05-26,40,0,21,
 Calaveras,Calaveras,009,2020-05-26,15,0,13,
 Colusa,Colusa,011,2020-05-26,5,0,,
-Contra Costa,Contra Costa,013,2020-05-26,1353,37,1104,
+Contra Costa,Contra Costa,013,2020-05-26,1340,37,1104,
 Del Norte,Del Norte,015,2020-05-26,40,0,7,
 El Dorado,El Dorado,017,2020-05-26,80,0,57,
 Fresno,Fresno,019,2020-05-26,1535,26,507,
@@ -4032,7 +4093,7 @@ Amador,Amador,005,2020-05-25,10,0,8,True
 Butte,Butte,007,2020-05-25,34,0,,True
 Calaveras,Calaveras,009,2020-05-25,13,0,13,True
 Colusa,Colusa,011,2020-05-25,5,0,,True
-Contra Costa,Contra Costa,013,2020-05-25,1336,37,,
+Contra Costa,Contra Costa,013,2020-05-25,1325,37,,
 Del Norte,Del Norte,015,2020-05-25,37,0,7,
 El Dorado,El Dorado,017,2020-05-25,78,0,57,
 Fresno,Fresno,019,2020-05-25,1482,22,441,True
@@ -4093,7 +4154,7 @@ Amador,Amador,005,2020-05-24,10,0,8,
 Butte,Butte,007,2020-05-24,34,0,20,True
 Calaveras,Calaveras,009,2020-05-24,13,0,13,True
 Colusa,Colusa,011,2020-05-24,5,0,,True
-Contra Costa,Contra Costa,013,2020-05-24,1321,36,1084,
+Contra Costa,Contra Costa,013,2020-05-24,1309,36,1084,
 Del Norte,Del Norte,015,2020-05-24,23,0,4,True
 El Dorado,El Dorado,017,2020-05-24,74,0,57,True
 Fresno,Fresno,019,2020-05-24,1482,22,441,
@@ -4154,7 +4215,7 @@ Amador,Amador,005,2020-05-23,10,0,8,True
 Butte,Butte,007,2020-05-23,34,0,20,True
 Calaveras,Calaveras,009,2020-05-23,13,0,13,True
 Colusa,Colusa,011,2020-05-23,5,0,,True
-Contra Costa,Contra Costa,013,2020-05-23,1296,36,1073,
+Contra Costa,Contra Costa,013,2020-05-23,1287,36,1073,
 Del Norte,Del Norte,015,2020-05-23,23,0,4,True
 El Dorado,El Dorado,017,2020-05-23,74,0,57,True
 Fresno,Fresno,019,2020-05-23,1448,22,441,
@@ -4215,7 +4276,7 @@ Amador,Amador,005,2020-05-22,10,0,8,
 Butte,Butte,007,2020-05-22,34,0,20,
 Calaveras,Calaveras,009,2020-05-22,13,0,13,
 Colusa,Colusa,011,2020-05-22,5,0,,
-Contra Costa,Contra Costa,013,2020-05-22,1259,36,1056,
+Contra Costa,Contra Costa,013,2020-05-22,1245,36,1056,
 Del Norte,Del Norte,015,2020-05-22,23,0,4,
 El Dorado,El Dorado,017,2020-05-22,74,0,57,
 Fresno,Fresno,019,2020-05-22,1417,22,437,
@@ -4276,7 +4337,7 @@ Amador,Amador,005,2020-05-21,10,0,8,
 Butte,Butte,007,2020-05-21,31,0,20,
 Calaveras,Calaveras,009,2020-05-21,13,0,13,True
 Colusa,Colusa,011,2020-05-21,4,0,,
-Contra Costa,Contra Costa,013,2020-05-21,1234,36,1034,
+Contra Costa,Contra Costa,013,2020-05-21,1220,36,1034,
 Del Norte,Del Norte,015,2020-05-21,20,0,4,
 El Dorado,El Dorado,017,2020-05-21,67,0,55,
 Fresno,Fresno,019,2020-05-21,1372,22,426,
@@ -4337,7 +4398,7 @@ Amador,Amador,005,2020-05-20,10,0,8,
 Butte,Butte,007,2020-05-20,30,0,20,
 Calaveras,Calaveras,009,2020-05-20,13,0,13,True
 Colusa,Colusa,011,2020-05-20,4,0,0,
-Contra Costa,Contra Costa,013,2020-05-20,1209,33,1016,
+Contra Costa,Contra Costa,013,2020-05-20,1194,33,1016,
 Del Norte,Del Norte,015,2020-05-20,15,0,4,
 El Dorado,El Dorado,017,2020-05-20,67,0,53,
 Fresno,Fresno,019,2020-05-20,1338,20,416,
@@ -4398,7 +4459,7 @@ Amador,Amador,005,2020-05-19,10,0,8,
 Butte,Butte,007,2020-05-19,26,0,20,
 Calaveras,Calaveras,009,2020-05-19,13,0,13,
 Colusa,Colusa,011,2020-05-19,3,0,,
-Contra Costa,Contra Costa,013,2020-05-19,1192,33,1002,
+Contra Costa,Contra Costa,013,2020-05-19,1180,33,1002,
 Del Norte,Del Norte,015,2020-05-19,14,0,4,
 El Dorado,El Dorado,017,2020-05-19,67,0,53,
 Fresno,Fresno,019,2020-05-19,1287,17,399,
@@ -4459,7 +4520,7 @@ Amador,Amador,005,2020-05-18,10,0,8,
 Butte,Butte,007,2020-05-18,24,0,20,
 Calaveras,Calaveras,009,2020-05-18,13,0,13,True
 Colusa,Colusa,011,2020-05-18,3,,,
-Contra Costa,Contra Costa,013,2020-05-18,1155,33,988,
+Contra Costa,Contra Costa,013,2020-05-18,1143,33,988,
 Del Norte,Del Norte,015,2020-05-18,12,0,4,
 El Dorado,El Dorado,017,2020-05-18,67,0,52,
 Fresno,Fresno,019,2020-05-18,1263,17,383,
@@ -4520,7 +4581,7 @@ Amador,Amador,005,2020-05-17,9,0,8,
 Butte,Butte,007,2020-05-17,22,0,18,True
 Calaveras,Calaveras,009,2020-05-17,13,0,13,True
 Colusa,Colusa,011,2020-05-17,3,0,,True
-Contra Costa,Contra Costa,013,2020-05-17,1146,33,969,
+Contra Costa,Contra Costa,013,2020-05-17,1133,33,969,
 Del Norte,Del Norte,015,2020-05-17,8,0,4,
 El Dorado,El Dorado,017,2020-05-17,64,0,52,True
 Fresno,Fresno,019,2020-05-17,1192,16,379,True
@@ -4581,7 +4642,7 @@ Amador,Amador,005,2020-05-16,9,0,8,True
 Butte,Butte,007,2020-05-16,22,0,18,True
 Calaveras,Calaveras,009,2020-05-16,13,0,13,True
 Colusa,Colusa,011,2020-05-16,3,0,,True
-Contra Costa,Contra Costa,013,2020-05-16,1121,33,957,
+Contra Costa,Contra Costa,013,2020-05-16,1112,33,957,
 Del Norte,Del Norte,015,2020-05-16,5,0,4,
 El Dorado,El Dorado,017,2020-05-16,64,0,52,True
 Fresno,Fresno,019,2020-05-16,1192,16,379,
@@ -4642,7 +4703,7 @@ Amador,Amador,005,2020-05-15,9,0,8,
 Butte,Butte,007,2020-05-15,22,0,18,
 Calaveras,Calaveras,009,2020-05-15,13,0,13,
 Colusa,Colusa,011,2020-05-15,3,0,,
-Contra Costa,Contra Costa,013,2020-05-15,1100,33,935,
+Contra Costa,Contra Costa,013,2020-05-15,1091,33,935,
 Del Norte,Del Norte,015,2020-05-15,4,0,4,
 El Dorado,El Dorado,017,2020-05-15,64,0,52,
 Fresno,Fresno,019,2020-05-15,1156,16,376,
@@ -4703,7 +4764,7 @@ Amador,Amador,005,2020-05-14,9,0,8,
 Butte,Butte,007,2020-05-14,22,0,18,
 Calaveras,Calaveras,009,2020-05-14,13,0,13,True
 Colusa,Colusa,011,2020-05-14,3,0,,
-Contra Costa,Contra Costa,013,2020-05-14,1089,33,919,
+Contra Costa,Contra Costa,013,2020-05-14,1079,33,919,
 Del Norte,Del Norte,015,2020-05-14,4,0,3,
 El Dorado,El Dorado,017,2020-05-14,62,0,51,
 Fresno,Fresno,019,2020-05-14,1074,13,365,
@@ -4764,7 +4825,7 @@ Amador,Amador,005,2020-05-13,9,0,8,
 Butte,Butte,007,2020-05-13,20,0,18,
 Calaveras,Calaveras,009,2020-05-13,13,0,13,
 Colusa,Colusa,011,2020-05-13,3,0,,
-Contra Costa,Contra Costa,013,2020-05-13,1080,33,910,
+Contra Costa,Contra Costa,013,2020-05-13,1072,33,910,
 Del Norte,Del Norte,015,2020-05-13,4,0,3,
 El Dorado,El Dorado,017,2020-05-13,60,0,51,
 Fresno,Fresno,019,2020-05-13,1014,13,349,
@@ -4825,7 +4886,7 @@ Amador,Amador,005,2020-05-12,9,0,8,
 Butte,Butte,007,2020-05-12,20,0,,
 Calaveras,Calaveras,009,2020-05-12,13,0,13,True
 Colusa,Colusa,011,2020-05-12,3,0,,
-Contra Costa,Contra Costa,013,2020-05-12,1066,32,,
+Contra Costa,Contra Costa,013,2020-05-12,1057,32,,
 Del Norte,Del Norte,015,2020-05-12,3,0,3,
 El Dorado,El Dorado,017,2020-05-12,60,0,50,
 Fresno,Fresno,019,2020-05-12,984,10,333,
@@ -4886,7 +4947,7 @@ Amador,Amador,005,2020-05-11,8,0,8,True
 Butte,Butte,007,2020-05-11,20,0,,
 Calaveras,Calaveras,009,2020-05-11,13,0,13,True
 Colusa,Colusa,011,2020-05-11,3,0,,
-Contra Costa,Contra Costa,013,2020-05-11,1048,32,,
+Contra Costa,Contra Costa,013,2020-05-11,1045,32,,
 Del Norte,Del Norte,015,2020-05-11,3,0,3,
 El Dorado,El Dorado,017,2020-05-11,56,0,48,
 Fresno,Fresno,019,2020-05-11,945,9,319,
@@ -4947,7 +5008,7 @@ Amador,Amador,005,2020-05-10,8,0,8,
 Butte,Butte,007,2020-05-10,18,0,,True
 Calaveras,Calaveras,009,2020-05-10,13,0,13,True
 Colusa,Colusa,011,2020-05-10,3,0,,True
-Contra Costa,Contra Costa,013,2020-05-10,1048,31,,
+Contra Costa,Contra Costa,013,2020-05-10,1042,31,,
 Del Norte,Del Norte,015,2020-05-10,3,0,3,True
 El Dorado,El Dorado,017,2020-05-10,54,0,45,True
 Fresno,Fresno,019,2020-05-10,885,9,313,True
@@ -5008,7 +5069,7 @@ Amador,Amador,005,2020-05-09,8,0,8,True
 Butte,Butte,007,2020-05-09,18,0,,True
 Calaveras,Calaveras,009,2020-05-09,13,0,13,True
 Colusa,Colusa,011,2020-05-09,3,0,,True
-Contra Costa,Contra Costa,013,2020-05-09,1036,31,,
+Contra Costa,Contra Costa,013,2020-05-09,1031,31,,
 Del Norte,Del Norte,015,2020-05-09,3,0,3,True
 El Dorado,El Dorado,017,2020-05-09,54,0,45,True
 Fresno,Fresno,019,2020-05-09,885,9,313,
@@ -5069,7 +5130,7 @@ Amador,Amador,005,2020-05-08,8,0,8,
 Butte,Butte,007,2020-05-08,18,0,,
 Calaveras,Calaveras,009,2020-05-08,13,0,13,
 Colusa,Colusa,011,2020-05-08,3,0,,
-Contra Costa,Contra Costa,013,2020-05-08,1014,29,,
+Contra Costa,Contra Costa,013,2020-05-08,1006,29,,
 Del Norte,Del Norte,015,2020-05-08,3,0,3,
 El Dorado,El Dorado,017,2020-05-08,54,0,45,
 Fresno,Fresno,019,2020-05-08,841,9,307,
@@ -5130,7 +5191,7 @@ Amador,Amador,005,2020-05-07,8,0,8,True
 Butte,Butte,007,2020-05-07,18,0,,
 Calaveras,Calaveras,009,2020-05-07,13,0,13,True
 Colusa,Colusa,011,2020-05-07,3,0,,
-Contra Costa,Contra Costa,013,2020-05-07,999,29,,
+Contra Costa,Contra Costa,013,2020-05-07,990,29,,
 Del Norte,Del Norte,015,2020-05-07,3,0,3,
 El Dorado,El Dorado,017,2020-05-07,54,0,45,
 Fresno,Fresno,019,2020-05-07,813,9,279,
@@ -5191,7 +5252,7 @@ Amador,Amador,005,2020-05-06,8,0,8,
 Butte,Butte,007,2020-05-06,18,0,,
 Calaveras,Calaveras,009,2020-05-06,13,0,13,True
 Colusa,Colusa,011,2020-05-06,3,0,,
-Contra Costa,Contra Costa,013,2020-05-06,985,29,,
+Contra Costa,Contra Costa,013,2020-05-06,978,29,,
 Del Norte,Del Norte,015,2020-05-06,3,0,3,
 El Dorado,El Dorado,017,2020-05-06,54,0,45,
 Fresno,Fresno,019,2020-05-06,777,9,263,
@@ -5252,7 +5313,7 @@ Amador,Amador,005,2020-05-05,8,0,,
 Butte,Butte,007,2020-05-05,18,0,,
 Calaveras,Calaveras,009,2020-05-05,13,0,,True
 Colusa,Colusa,011,2020-05-05,3,0,,
-Contra Costa,Contra Costa,013,2020-05-05,969,29,,
+Contra Costa,Contra Costa,013,2020-05-05,961,29,,
 Del Norte,Del Norte,015,2020-05-05,3,0,,
 El Dorado,El Dorado,017,2020-05-05,53,0,,
 Fresno,Fresno,019,2020-05-05,724,9,,
@@ -5313,7 +5374,7 @@ Amador,Amador,005,2020-05-04,8,0,,
 Butte,Butte,007,2020-05-04,17,0,,
 Calaveras,Calaveras,009,2020-05-04,13,0,,True
 Colusa,Colusa,011,2020-05-04,3,0,,
-Contra Costa,Contra Costa,013,2020-05-04,947,28,,
+Contra Costa,Contra Costa,013,2020-05-04,941,28,,
 Del Norte,Del Norte,015,2020-05-04,3,0,,
 El Dorado,El Dorado,017,2020-05-04,53,0,,
 Fresno,Fresno,019,2020-05-04,672,9,,
@@ -5374,7 +5435,7 @@ Amador,Amador,005,2020-05-03,8,0,,True
 Butte,Butte,007,2020-05-03,16,0,,True
 Calaveras,Calaveras,009,2020-05-03,13,0,,True
 Colusa,Colusa,011,2020-05-03,3,0,,True
-Contra Costa,Contra Costa,013,2020-05-03,945,28,,
+Contra Costa,Contra Costa,013,2020-05-03,936,28,,
 Del Norte,Del Norte,015,2020-05-03,3,0,,True
 El Dorado,El Dorado,017,2020-05-03,47,0,,True
 Fresno,Fresno,019,2020-05-03,633,8,,True
@@ -5435,7 +5496,7 @@ Amador,Amador,005,2020-05-02,8,0,,
 Butte,Butte,007,2020-05-02,16,0,,True
 Calaveras,Calaveras,009,2020-05-02,13,0,,True
 Colusa,Colusa,011,2020-05-02,3,0,,True
-Contra Costa,Contra Costa,013,2020-05-02,934,28,,
+Contra Costa,Contra Costa,013,2020-05-02,923,28,,
 Del Norte,Del Norte,015,2020-05-02,3,0,,True
 El Dorado,El Dorado,017,2020-05-02,47,0,,True
 Fresno,Fresno,019,2020-05-02,633,8,,
@@ -5496,7 +5557,7 @@ Amador,Amador,005,2020-05-01,8,0,,
 Butte,Butte,007,2020-05-01,16,0,,
 Calaveras,Calaveras,009,2020-05-01,13,0,,True
 Colusa,Colusa,011,2020-05-01,3,0,,
-Contra Costa,Contra Costa,013,2020-05-01,907,28,,
+Contra Costa,Contra Costa,013,2020-05-01,899,28,,
 Del Norte,Del Norte,015,2020-05-01,3,0,,
 El Dorado,El Dorado,017,2020-05-01,47,0,,
 Fresno,Fresno,019,2020-05-01,615,8,,
@@ -5557,7 +5618,7 @@ Amador,Amador,005,2020-04-30,8,0,,
 Butte,Butte,007,2020-04-30,16,0,,
 Calaveras,Calaveras,009,2020-04-30,13,0,,True
 Colusa,Colusa,011,2020-04-30,3,0,,
-Contra Costa,Contra Costa,013,2020-04-30,891,27,,
+Contra Costa,Contra Costa,013,2020-04-30,888,27,,
 Del Norte,Del Norte,015,2020-04-30,3,0,,True
 El Dorado,El Dorado,017,2020-04-30,44,0,,
 Fresno,Fresno,019,2020-04-30,564,7,,
@@ -5618,7 +5679,7 @@ Amador,Amador,005,2020-04-29,8,0,,
 Butte,Butte,007,2020-04-29,16,0,,
 Calaveras,Calaveras,009,2020-04-29,13,0,,
 Colusa,Colusa,011,2020-04-29,3,0,,
-Contra Costa,Contra Costa,013,2020-04-29,862,25,,
+Contra Costa,Contra Costa,013,2020-04-29,872,25,,
 Del Norte,Del Norte,015,2020-04-29,3,0,,
 El Dorado,El Dorado,017,2020-04-29,44,0,,
 Fresno,Fresno,019,2020-04-29,538,7,,
@@ -5679,7 +5740,7 @@ Amador,Amador,005,2020-04-28,8,0,,
 Butte,Butte,007,2020-04-28,16,0,,
 Calaveras,Calaveras,009,2020-04-28,13,0,,True
 Colusa,Colusa,011,2020-04-28,3,0,,
-Contra Costa,Contra Costa,013,2020-04-28,842,25,,
+Contra Costa,Contra Costa,013,2020-04-28,849,25,,
 Del Norte,Del Norte,015,2020-04-28,3,0,,
 El Dorado,El Dorado,017,2020-04-28,44,0,,
 Fresno,Fresno,019,2020-04-28,521,7,,
@@ -5736,7 +5797,7 @@ Amador,Amador,005,2020-04-27,8,0,,True
 Butte,Butte,007,2020-04-27,16,0,,
 Calaveras,Calaveras,009,2020-04-27,13,0,,True
 Colusa,Colusa,011,2020-04-27,3,0,,
-Contra Costa,Contra Costa,013,2020-04-27,820,25,,
+Contra Costa,Contra Costa,013,2020-04-27,827,25,,
 Del Norte,Del Norte,015,2020-04-27,3,0,,
 El Dorado,El Dorado,017,2020-04-27,43,0,,
 Fresno,Fresno,019,2020-04-27,498,7,,
@@ -5792,7 +5853,7 @@ Amador,Amador,005,2020-04-26,8,0,,True
 Butte,Butte,007,2020-04-26,16,0,,True
 Calaveras,Calaveras,009,2020-04-26,13,0,,True
 Colusa,Colusa,011,2020-04-26,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-26,817,25,,
+Contra Costa,Contra Costa,013,2020-04-26,822,25,,
 Del Norte,Del Norte,015,2020-04-26,3,0,,
 El Dorado,El Dorado,017,2020-04-26,42,0,,True
 Fresno,Fresno,019,2020-04-26,458,7,,True
@@ -5848,7 +5909,7 @@ Amador,Amador,005,2020-04-25,8,0,,True
 Butte,Butte,007,2020-04-25,16,0,,True
 Calaveras,Calaveras,009,2020-04-25,13,0,,True
 Colusa,Colusa,011,2020-04-25,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-25,805,25,,
+Contra Costa,Contra Costa,013,2020-04-25,812,25,,
 Del Norte,Del Norte,015,2020-04-25,2,0,,True
 El Dorado,El Dorado,017,2020-04-25,42,0,,True
 Fresno,Fresno,019,2020-04-25,458,7,,
@@ -5904,7 +5965,7 @@ Amador,Amador,005,2020-04-24,8,0,,
 Butte,Butte,007,2020-04-24,16,0,,
 Calaveras,Calaveras,009,2020-04-24,13,0,,True
 Colusa,Colusa,011,2020-04-24,3,0,,
-Contra Costa,Contra Costa,013,2020-04-24,786,23,,
+Contra Costa,Contra Costa,013,2020-04-24,798,23,,
 Del Norte,Del Norte,015,2020-04-24,2,0,,
 El Dorado,El Dorado,017,2020-04-24,42,0,,
 Fresno,Fresno,019,2020-04-24,443,7,,
@@ -5960,7 +6021,7 @@ Amador,Amador,005,2020-04-23,8,0,,
 Butte,Butte,007,2020-04-23,16,0,,
 Calaveras,Calaveras,009,2020-04-23,13,0,,
 Colusa,Colusa,011,2020-04-23,3,0,,
-Contra Costa,Contra Costa,013,2020-04-23,770,23,,
+Contra Costa,Contra Costa,013,2020-04-23,779,23,,
 Del Norte,Del Norte,015,2020-04-23,2,0,,
 El Dorado,El Dorado,017,2020-04-23,40,0,,
 Fresno,Fresno,019,2020-04-23,419,7,,
@@ -6016,7 +6077,7 @@ Amador,Amador,005,2020-04-22,8,0,,
 Butte,Butte,007,2020-04-22,16,0,,
 Calaveras,Calaveras,009,2020-04-22,12,0,,True
 Colusa,Colusa,011,2020-04-22,3,0,,
-Contra Costa,Contra Costa,013,2020-04-22,763,22,,
+Contra Costa,Contra Costa,013,2020-04-22,775,22,,
 Del Norte,Del Norte,015,2020-04-22,2,0,,
 El Dorado,El Dorado,017,2020-04-22,39,0,,
 Fresno,Fresno,019,2020-04-22,384,7,,
@@ -6072,7 +6133,7 @@ Amador,Amador,005,2020-04-21,8,0,,
 Butte,Butte,007,2020-04-21,16,0,,
 Calaveras,Calaveras,009,2020-04-21,12,0,,True
 Colusa,Colusa,011,2020-04-21,3,0,,
-Contra Costa,Contra Costa,013,2020-04-21,749,22,,
+Contra Costa,Contra Costa,013,2020-04-21,759,22,,
 Del Norte,Del Norte,015,2020-04-21,2,0,,
 El Dorado,El Dorado,017,2020-04-21,39,0,,
 Fresno,Fresno,019,2020-04-21,371,7,,
@@ -6128,7 +6189,7 @@ Amador,Amador,005,2020-04-20,7,0,,
 Butte,Butte,007,2020-04-20,16,0,,
 Calaveras,Calaveras,009,2020-04-20,12,0,,True
 Colusa,Colusa,011,2020-04-20,3,0,,
-Contra Costa,Contra Costa,013,2020-04-20,707,22,,
+Contra Costa,Contra Costa,013,2020-04-20,749,22,,
 Del Norte,Del Norte,015,2020-04-20,2,0,,
 El Dorado,El Dorado,017,2020-04-20,38,0,,
 Fresno,Fresno,019,2020-04-20,351,7,,
@@ -6184,7 +6245,7 @@ Amador,Amador,005,2020-04-19,7,0,,True
 Butte,Butte,007,2020-04-19,16,0,,True
 Calaveras,Calaveras,009,2020-04-19,12,0,,True
 Colusa,Colusa,011,2020-04-19,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-19,693,20,,
+Contra Costa,Contra Costa,013,2020-04-19,731,20,,
 Del Norte,Del Norte,015,2020-04-19,2,0,,True
 El Dorado,El Dorado,017,2020-04-19,36,0,,True
 Fresno,Fresno,019,2020-04-19,315,7,,True
@@ -6240,7 +6301,7 @@ Amador,Amador,005,2020-04-18,7,0,,True
 Butte,Butte,007,2020-04-18,16,0,,True
 Calaveras,Calaveras,009,2020-04-18,12,0,,True
 Colusa,Colusa,011,2020-04-18,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-18,685,19,,
+Contra Costa,Contra Costa,013,2020-04-18,723,19,,
 Del Norte,Del Norte,015,2020-04-18,2,0,,True
 El Dorado,El Dorado,017,2020-04-18,36,0,,True
 Fresno,Fresno,019,2020-04-18,315,7,,
@@ -6296,7 +6357,7 @@ Amador,Amador,005,2020-04-17,7,0,,
 Butte,Butte,007,2020-04-17,16,0,,
 Calaveras,Calaveras,009,2020-04-17,12,0,,
 Colusa,Colusa,011,2020-04-17,3,0,,
-Contra Costa,Contra Costa,013,2020-04-17,648,19,,
+Contra Costa,Contra Costa,013,2020-04-17,685,19,,
 Del Norte,Del Norte,015,2020-04-17,2,0,,
 El Dorado,El Dorado,017,2020-04-17,36,0,,
 Fresno,Fresno,019,2020-04-17,311,7,,
@@ -6352,7 +6413,7 @@ Amador,Amador,005,2020-04-16,7,0,,
 Butte,Butte,007,2020-04-16,16,0,,True
 Calaveras,Calaveras,009,2020-04-16,11,0,,
 Colusa,Colusa,011,2020-04-16,3,0,,
-Contra Costa,Contra Costa,013,2020-04-16,631,16,,
+Contra Costa,Contra Costa,013,2020-04-16,670,16,,
 Del Norte,Del Norte,015,2020-04-16,2,0,,
 El Dorado,El Dorado,017,2020-04-16,35,0,,
 Fresno,Fresno,019,2020-04-16,295,7,,
@@ -6408,7 +6469,7 @@ Amador,Amador,005,2020-04-15,7,0,,
 Butte,Butte,007,2020-04-15,16,0,,True
 Calaveras,Calaveras,009,2020-04-15,11,0,,
 Colusa,Colusa,011,2020-04-15,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-15,615,14,,
+Contra Costa,Contra Costa,013,2020-04-15,650,14,,
 Del Norte,Del Norte,015,2020-04-15,2,0,,
 El Dorado,El Dorado,017,2020-04-15,35,0,,
 Fresno,Fresno,019,2020-04-15,265,7,,
@@ -6464,7 +6525,7 @@ Amador,Amador,005,2020-04-14,7,0,,
 Butte,Butte,007,2020-04-14,16,0,,
 Calaveras,Calaveras,009,2020-04-14,9,0,,
 Colusa,Colusa,011,2020-04-14,3,0,,
-Contra Costa,Contra Costa,013,2020-04-14,600,12,,
+Contra Costa,Contra Costa,013,2020-04-14,628,12,,
 Del Norte,Del Norte,015,2020-04-14,2,0,,
 El Dorado,El Dorado,017,2020-04-14,35,0,,
 Fresno,Fresno,019,2020-04-14,251,7,,
@@ -6520,7 +6581,7 @@ Amador,Amador,005,2020-04-13,7,0,,
 Butte,Butte,007,2020-04-13,15,0,,
 Calaveras,Calaveras,009,2020-04-13,9,0,,
 Colusa,Colusa,011,2020-04-13,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-13,552,11,,
+Contra Costa,Contra Costa,013,2020-04-13,585,11,,
 Del Norte,Del Norte,015,2020-04-13,2,0,,
 El Dorado,El Dorado,017,2020-04-13,34,0,,
 Fresno,Fresno,019,2020-04-13,222,5,,
@@ -6576,7 +6637,7 @@ Amador,Amador,005,2020-04-12,7,0,,True
 Butte,Butte,007,2020-04-12,14,0,,True
 Calaveras,Calaveras,009,2020-04-12,8,0,,True
 Colusa,Colusa,011,2020-04-12,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-12,539,11,,
+Contra Costa,Contra Costa,013,2020-04-12,565,11,,
 Del Norte,Del Norte,015,2020-04-12,2,0,,True
 El Dorado,El Dorado,017,2020-04-12,32,0,,True
 Fresno,Fresno,019,2020-04-12,201,5,,True
@@ -6632,7 +6693,7 @@ Amador,Amador,005,2020-04-11,7,0,,True
 Butte,Butte,007,2020-04-11,14,0,,True
 Calaveras,Calaveras,009,2020-04-11,8,0,,True
 Colusa,Colusa,011,2020-04-11,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-11,530,11,,
+Contra Costa,Contra Costa,013,2020-04-11,556,11,,
 Del Norte,Del Norte,015,2020-04-11,2,0,,
 El Dorado,El Dorado,017,2020-04-11,32,0,,True
 Fresno,Fresno,019,2020-04-11,201,5,,
@@ -6688,7 +6749,7 @@ Amador,Amador,005,2020-04-10,7,0,,
 Butte,Butte,007,2020-04-10,14,0,,
 Calaveras,Calaveras,009,2020-04-10,8,0,,
 Colusa,Colusa,011,2020-04-10,3,0,,
-Contra Costa,Contra Costa,013,2020-04-10,511,9,,
+Contra Costa,Contra Costa,013,2020-04-10,532,9,,
 Del Norte,Del Norte,015,2020-04-10,2,0,,
 El Dorado,El Dorado,017,2020-04-10,32,0,,
 Fresno,Fresno,019,2020-04-10,191,5,,
@@ -6744,7 +6805,7 @@ Amador,Amador,005,2020-04-09,7,0,,
 Butte,Butte,007,2020-04-09,13,0,,
 Calaveras,Calaveras,009,2020-04-09,8,0,,
 Colusa,Colusa,011,2020-04-09,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-09,484,8,,
+Contra Costa,Contra Costa,013,2020-04-09,504,8,,
 Del Norte,Del Norte,015,2020-04-09,2,0,,
 El Dorado,El Dorado,017,2020-04-09,30,0,,
 Fresno,Fresno,019,2020-04-09,173,3,,
@@ -6800,7 +6861,7 @@ Amador,Amador,005,2020-04-08,3,0,,
 Butte,Butte,007,2020-04-08,13,0,,
 Calaveras,Calaveras,009,2020-04-08,5,0,,
 Colusa,Colusa,011,2020-04-08,3,0,,
-Contra Costa,Contra Costa,013,2020-04-08,462,7,,
+Contra Costa,Contra Costa,013,2020-04-08,482,7,,
 Del Norte,Del Norte,015,2020-04-08,2,0,,
 El Dorado,El Dorado,017,2020-04-08,29,0,,
 Fresno,Fresno,019,2020-04-08,156,3,,
@@ -6856,7 +6917,7 @@ Amador,Amador,005,2020-04-07,3,0,,
 Butte,Butte,007,2020-04-07,13,0,,
 Calaveras,Calaveras,009,2020-04-07,5,0,,
 Colusa,Colusa,011,2020-04-07,3,0,,True
-Contra Costa,Contra Costa,013,2020-04-07,442,7,,
+Contra Costa,Contra Costa,013,2020-04-07,461,7,,
 Del Norte,Del Norte,015,2020-04-07,2,0,,
 El Dorado,El Dorado,017,2020-04-07,28,0,,
 Fresno,Fresno,019,2020-04-07,146,3,,
@@ -6912,7 +6973,7 @@ Amador,Amador,005,2020-04-06,3,0,,
 Butte,Butte,007,2020-04-06,12,0,,
 Calaveras,Calaveras,009,2020-04-06,5,0,,
 Colusa,Colusa,011,2020-04-06,3,0,,
-Contra Costa,Contra Costa,013,2020-04-06,417,7,,
+Contra Costa,Contra Costa,013,2020-04-06,435,7,,
 Del Norte,Del Norte,015,2020-04-06,2,0,,
 El Dorado,El Dorado,017,2020-04-06,25,0,,
 Fresno,Fresno,019,2020-04-06,124,2,,
@@ -6968,7 +7029,7 @@ Amador,Amador,005,2020-04-05,3,0,,
 Butte,Butte,007,2020-04-05,11,0,,True
 Calaveras,Calaveras,009,2020-04-05,4,0,,True
 Colusa,Colusa,011,2020-04-05,2,0,,True
-Contra Costa,Contra Costa,013,2020-04-05,386,6,,
+Contra Costa,Contra Costa,013,2020-04-05,409,6,,
 Del Norte,Del Norte,015,2020-04-05,2,0,,
 El Dorado,El Dorado,017,2020-04-05,22,0,,True
 Fresno,Fresno,019,2020-04-05,108,1,,
@@ -7024,7 +7085,7 @@ Amador,Amador,005,2020-04-04,3,0,,True
 Butte,Butte,007,2020-04-04,11,0,,True
 Calaveras,Calaveras,009,2020-04-04,4,0,,True
 Colusa,Colusa,011,2020-04-04,2,0,,True
-Contra Costa,Contra Costa,013,2020-04-04,353,5,,
+Contra Costa,Contra Costa,013,2020-04-04,376,5,,
 Del Norte,Del Norte,015,2020-04-04,2,0,,
 El Dorado,El Dorado,017,2020-04-04,22,0,,True
 Fresno,Fresno,019,2020-04-04,103,1,,
@@ -7079,7 +7140,7 @@ Amador,Amador,005,2020-04-03,3,0,,
 Butte,Butte,007,2020-04-03,11,0,,
 Calaveras,Calaveras,009,2020-04-03,4,0,,
 Colusa,Colusa,011,2020-04-03,2,0,,
-Contra Costa,Contra Costa,013,2020-04-03,307,5,,
+Contra Costa,Contra Costa,013,2020-04-03,324,5,,
 Del Norte,Del Norte,015,2020-04-03,1,0,,
 El Dorado,El Dorado,017,2020-04-03,22,0,,
 Fresno,Fresno,019,2020-04-03,100,1,,
@@ -7134,7 +7195,7 @@ Amador,Amador,005,2020-04-02,3,0,,
 Butte,Butte,007,2020-04-02,10,0,,
 Calaveras,Calaveras,009,2020-04-02,3,0,,
 Colusa,Colusa,011,2020-04-02,1,0,,
-Contra Costa,Contra Costa,013,2020-04-02,276,3,,
+Contra Costa,Contra Costa,013,2020-04-02,294,3,,
 Del Norte,Del Norte,015,2020-04-02,1,0,,
 El Dorado,El Dorado,017,2020-04-02,19,0,,
 Fresno,Fresno,019,2020-04-02,94,0,,
@@ -7189,7 +7250,7 @@ Amador,Amador,005,2020-04-01,3,0,,
 Butte,Butte,007,2020-04-01,9,0,,
 Calaveras,Calaveras,009,2020-04-01,3,0,,
 Colusa,Colusa,011,2020-04-01,1,0,,
-Contra Costa,Contra Costa,013,2020-04-01,250,3,,
+Contra Costa,Contra Costa,013,2020-04-01,270,3,,
 El Dorado,El Dorado,017,2020-04-01,18,0,,
 Fresno,Fresno,019,2020-04-01,82,0,,
 Glenn,Glenn,021,2020-04-01,2,0,,
@@ -7243,7 +7304,7 @@ Amador,Amador,005,2020-03-31,2,0,,
 Butte,Butte,007,2020-03-31,8,0,,
 Calaveras,Calaveras,009,2020-03-31,3,0,,
 Colusa,Colusa,011,2020-03-31,1,0,,
-Contra Costa,Contra Costa,013,2020-03-31,222,3,,
+Contra Costa,Contra Costa,013,2020-03-31,240,3,,
 El Dorado,El Dorado,017,2020-03-31,18,0,,
 Fresno,Fresno,019,2020-03-31,68,0,,
 Glenn,Glenn,021,2020-03-31,2,0,,
@@ -7296,7 +7357,7 @@ Amador,Amador,005,2020-03-30,2,0,,
 Butte,Butte,007,2020-03-30,8,0,,
 Calaveras,Calaveras,009,2020-03-30,3,0,,
 Colusa,Colusa,011,2020-03-30,1,0,,True
-Contra Costa,Contra Costa,013,2020-03-30,187,3,,
+Contra Costa,Contra Costa,013,2020-03-30,217,3,,
 El Dorado,El Dorado,017,2020-03-30,15,0,,
 Fresno,Fresno,019,2020-03-30,53,0,,
 Glenn,Glenn,021,2020-03-30,2,0,,
@@ -7347,7 +7408,7 @@ Amador,Amador,005,2020-03-29,2,0,,
 Butte,Butte,007,2020-03-29,5,0,,True
 Calaveras,Calaveras,009,2020-03-29,3,0,,True
 Colusa,Colusa,011,2020-03-29,1,0,,True
-Contra Costa,Contra Costa,013,2020-03-29,175,3,,
+Contra Costa,Contra Costa,013,2020-03-29,197,3,,
 El Dorado,El Dorado,017,2020-03-29,12,0,,True
 Fresno,Fresno,019,2020-03-29,43,0,,True
 Glenn,Glenn,021,2020-03-29,1,0,,True
@@ -7397,7 +7458,7 @@ Amador,Amador,005,2020-03-28,2,0,,
 Butte,Butte,007,2020-03-28,5,0,,True
 Calaveras,Calaveras,009,2020-03-28,3,0,,True
 Colusa,Colusa,011,2020-03-28,1,0,,True
-Contra Costa,Contra Costa,013,2020-03-28,168,3,,
+Contra Costa,Contra Costa,013,2020-03-28,181,3,,
 El Dorado,El Dorado,017,2020-03-28,12,0,,True
 Fresno,Fresno,019,2020-03-28,43,0,,
 Glenn,Glenn,021,2020-03-28,1,0,,True
@@ -7447,7 +7508,7 @@ Amador,Amador,005,2020-03-27,2,0,,
 Butte,Butte,007,2020-03-27,5,0,,
 Calaveras,Calaveras,009,2020-03-27,3,0,,
 Colusa,Colusa,011,2020-03-27,1,0,,
-Contra Costa,Contra Costa,013,2020-03-27,151,2,,
+Contra Costa,Contra Costa,013,2020-03-27,158,2,,
 El Dorado,El Dorado,017,2020-03-27,12,0,,
 Fresno,Fresno,019,2020-03-27,31,0,,
 Glenn,Glenn,021,2020-03-27,1,0,,
@@ -7496,7 +7557,7 @@ Berkeley,Alameda,001,2020-03-26,14,0,,
 Amador,Amador,005,2020-03-26,2,0,,True
 Butte,Butte,007,2020-03-26,5,0,,
 Calaveras,Calaveras,009,2020-03-26,3,0,,
-Contra Costa,Contra Costa,013,2020-03-26,131,1,,
+Contra Costa,Contra Costa,013,2020-03-26,142,1,,
 El Dorado,El Dorado,017,2020-03-26,9,0,,
 Fresno,Fresno,019,2020-03-26,27,0,,
 Humboldt,Humboldt,023,2020-03-26,12,0,,
@@ -7543,7 +7604,7 @@ Berkeley,Alameda,001,2020-03-25,11,0,,
 Amador,Amador,005,2020-03-25,2,0,,
 Butte,Butte,007,2020-03-25,4,0,,
 Calaveras,Calaveras,009,2020-03-25,2,0,,
-Contra Costa,Contra Costa,013,2020-03-25,108,1,,
+Contra Costa,Contra Costa,013,2020-03-25,117,1,,
 El Dorado,El Dorado,017,2020-03-25,3,0,,
 Fresno,Fresno,019,2020-03-25,19,0,,
 Humboldt,Humboldt,023,2020-03-25,10,0,,
@@ -7590,7 +7651,7 @@ Berkeley,Alameda,001,2020-03-24,11,0,,
 Amador,Amador,005,2020-03-24,2,0,,
 Butte,Butte,007,2020-03-24,4,0,,
 Calaveras,Calaveras,009,2020-03-24,2,0,,
-Contra Costa,Contra Costa,013,2020-03-24,86,1,,
+Contra Costa,Contra Costa,013,2020-03-24,91,1,,
 El Dorado,El Dorado,017,2020-03-24,3,0,,
 Fresno,Fresno,019,2020-03-24,18,0,,
 Humboldt,Humboldt,023,2020-03-24,5,0,,
@@ -7635,7 +7696,7 @@ Berkeley,Alameda,001,2020-03-23,10,0,,
 Amador,Amador,005,2020-03-23,2,0,,
 Butte,Butte,007,2020-03-23,3,0,,
 Calaveras,Calaveras,009,2020-03-23,2,0,,
-Contra Costa,Contra Costa,013,2020-03-23,71,1,,
+Contra Costa,Contra Costa,013,2020-03-23,76,1,,
 El Dorado,El Dorado,017,2020-03-23,2,0,,
 Fresno,Fresno,019,2020-03-23,13,0,,
 Humboldt,Humboldt,023,2020-03-23,2,0,,
@@ -7680,7 +7741,7 @@ Berkeley,Alameda,001,2020-03-22,5,0,,True
 Amador,Amador,005,2020-03-22,2,0,,
 Butte,Butte,007,2020-03-22,2,0,,
 Calaveras,Calaveras,009,2020-03-22,2,0,,True
-Contra Costa,Contra Costa,013,2020-03-22,61,1,,
+Contra Costa,Contra Costa,013,2020-03-22,64,1,,
 El Dorado,El Dorado,017,2020-03-22,2,0,,True
 Fresno,Fresno,019,2020-03-22,6,0,,True
 Humboldt,Humboldt,023,2020-03-22,2,0,,True
@@ -7725,7 +7786,7 @@ Berkeley,Alameda,001,2020-03-21,6,0,,
 Amador,Amador,005,2020-03-21,2,0,,
 Butte,Butte,007,2020-03-21,1,0,,
 Calaveras,Calaveras,009,2020-03-21,2,0,,True
-Contra Costa,Contra Costa,013,2020-03-21,51,1,,
+Contra Costa,Contra Costa,013,2020-03-21,53,1,,
 El Dorado,El Dorado,017,2020-03-21,2,0,,True
 Fresno,Fresno,019,2020-03-21,6,0,,
 Humboldt,Humboldt,023,2020-03-21,2,0,,
@@ -7767,7 +7828,7 @@ Alameda,Alameda,001,2020-03-20,45,0,,
 Berkeley,Alameda,001,2020-03-20,5,0,,
 Amador,Amador,005,2020-03-20,1,0,,
 Calaveras,Calaveras,009,2020-03-20,2,0,,
-Contra Costa,Contra Costa,013,2020-03-20,46,1,,
+Contra Costa,Contra Costa,013,2020-03-20,47,1,,
 El Dorado,El Dorado,017,2020-03-20,2,0,,
 Fresno,Fresno,019,2020-03-20,6,0,,
 Humboldt,Humboldt,023,2020-03-20,2,0,,
@@ -7806,7 +7867,7 @@ Alameda,Alameda,001,2020-03-19,35,0,,
 Berkeley,Alameda,001,2020-03-19,3,0,,
 Amador,Amador,005,2020-03-19,1,0,,
 Calaveras,Calaveras,009,2020-03-19,2,0,,
-Contra Costa,Contra Costa,013,2020-03-19,42,0,,
+Contra Costa,Contra Costa,013,2020-03-19,46,0,,
 Fresno,Fresno,019,2020-03-19,3,0,,
 Humboldt,Humboldt,023,2020-03-19,1,0,,
 Imperial,Imperial,025,2020-03-19,4,0,,
@@ -7844,7 +7905,7 @@ Alameda,Alameda,001,2020-03-18,31,0,,
 Berkeley,Alameda,001,2020-03-18,3,0,,
 Amador,Amador,005,2020-03-18,1,0,,
 Calaveras,Calaveras,009,2020-03-18,2,0,,
-Contra Costa,Contra Costa,013,2020-03-18,41,0,,
+Contra Costa,Contra Costa,013,2020-03-18,44,0,,
 Fresno,Fresno,019,2020-03-18,3,0,,
 Humboldt,Humboldt,023,2020-03-18,1,0,,
 Imperial,Imperial,025,2020-03-18,2,0,,
@@ -7882,7 +7943,7 @@ Alameda,Alameda,001,2020-03-17,27,0,,
 Berkeley,Alameda,001,2020-03-17,3,0,,
 Amador,Amador,005,2020-03-17,1,0,,
 Calaveras,Calaveras,009,2020-03-17,2,0,,
-Contra Costa,Contra Costa,013,2020-03-17,39,0,,
+Contra Costa,Contra Costa,013,2020-03-17,37,0,,
 Fresno,Fresno,019,2020-03-17,2,0,,
 Humboldt,Humboldt,023,2020-03-17,1,0,,
 Imperial,Imperial,025,2020-03-17,2,0,,
@@ -7954,7 +8015,7 @@ Alameda,Alameda,001,2020-03-15,15,0,,
 Berkeley,Alameda,001,2020-03-15,3,0,,
 Amador,Amador,005,2020-03-15,1,0,,
 Calaveras,Calaveras,009,2020-03-15,2,0,,
-Contra Costa,Contra Costa,013,2020-03-15,29,0,,
+Contra Costa,Contra Costa,013,2020-03-15,32,0,,
 Fresno,Fresno,019,2020-03-15,2,0,,
 Humboldt,Humboldt,023,2020-03-15,1,0,,
 Imperial,Imperial,025,2020-03-15,2,0,,
@@ -8020,7 +8081,7 @@ Alameda,Alameda,001,2020-03-13,7,0,,
 Berkeley,Alameda,001,2020-03-13,2,0,,
 Amador,Amador,005,2020-03-13,1,0,,
 Calaveras,Calaveras,009,2020-03-13,2,0,,
-Contra Costa,Contra Costa,013,2020-03-13,25,0,,
+Contra Costa,Contra Costa,013,2020-03-13,24,0,,
 Fresno,Fresno,019,2020-03-13,1,0,,
 Humboldt,Humboldt,023,2020-03-13,1,0,,
 Imperial,Imperial,025,2020-03-13,2,0,,
@@ -8050,7 +8111,7 @@ Yolo,Yolo,113,2020-03-13,2,0,,
 Alameda,Alameda,001,2020-03-12,7,0,,
 Berkeley,Alameda,001,2020-03-12,2,0,,
 Calaveras,Calaveras,009,2020-03-12,2,0,,
-Contra Costa,Contra Costa,013,2020-03-12,17,0,,
+Contra Costa,Contra Costa,013,2020-03-12,15,0,,
 Fresno,Fresno,019,2020-03-12,1,0,,
 Humboldt,Humboldt,023,2020-03-12,1,0,,
 Imperial,Imperial,025,2020-03-12,2,0,,
@@ -8080,7 +8141,7 @@ Yolo,Yolo,113,2020-03-12,1,0,,
 Alameda,Alameda,001,2020-03-11,3,0,,
 Berkeley,Alameda,001,2020-03-11,2,0,,
 Calaveras,Calaveras,009,2020-03-11,2,0,,
-Contra Costa,Contra Costa,013,2020-03-11,10,0,,
+Contra Costa,Contra Costa,013,2020-03-11,14,0,,
 Fresno,Fresno,019,2020-03-11,1,0,,
 Humboldt,Humboldt,023,2020-03-11,1,0,,
 Imperial,Imperial,025,2020-03-11,2,0,,
@@ -8110,7 +8171,7 @@ Yolo,Yolo,113,2020-03-11,1,0,,
 Alameda,Alameda,001,2020-03-10,3,0,,
 Berkeley,Alameda,001,2020-03-10,2,0,,
 Calaveras,Calaveras,009,2020-03-10,2,0,,
-Contra Costa,Contra Costa,013,2020-03-10,10,0,,
+Contra Costa,Contra Costa,013,2020-03-10,11,0,,
 Fresno,Fresno,019,2020-03-10,1,0,,
 Humboldt,Humboldt,023,2020-03-10,1,0,,
 Long Beach,Los Angeles,037,2020-03-10,3,0,,
@@ -8137,7 +8198,7 @@ Yolo,Yolo,113,2020-03-10,1,0,,
 Alameda,Alameda,001,2020-03-09,2,0,,
 Berkeley,Alameda,001,2020-03-09,1,0,,
 Calaveras,Calaveras,009,2020-03-09,0,0,,
-Contra Costa,Contra Costa,013,2020-03-09,9,0,,
+Contra Costa,Contra Costa,013,2020-03-09,10,0,,
 Fresno,Fresno,019,2020-03-09,1,0,,
 Humboldt,Humboldt,023,2020-03-09,1,0,,
 Long Beach,Los Angeles,037,2020-03-09,3,0,,
@@ -8164,7 +8225,7 @@ Yolo,Yolo,113,2020-03-09,1,0,,
 Alameda,Alameda,001,2020-03-08,2,0,,
 Berkeley,Alameda,001,2020-03-08,1,0,,
 Calaveras,Calaveras,009,2020-03-08,0,0,,
-Contra Costa,Contra Costa,013,2020-03-08,9,0,,
+Contra Costa,Contra Costa,013,2020-03-08,8,0,,
 Fresno,Fresno,019,2020-03-08,1,0,,
 Humboldt,Humboldt,023,2020-03-08,1,0,,
 Long Beach,Los Angeles,037,2020-03-08,0,0,,
@@ -8191,7 +8252,7 @@ Yolo,Yolo,113,2020-03-08,1,0,,
 Alameda,Alameda,001,2020-03-07,2,0,,
 Berkeley,Alameda,001,2020-03-07,1,0,,
 Calaveras,Calaveras,009,2020-03-07,0,0,,
-Contra Costa,Contra Costa,013,2020-03-07,4,0,,
+Contra Costa,Contra Costa,013,2020-03-07,8,0,,
 Fresno,Fresno,019,2020-03-07,1,0,,
 Humboldt,Humboldt,023,2020-03-07,1,0,,
 Long Beach,Los Angeles,037,2020-03-07,0,0,,
@@ -8243,7 +8304,7 @@ Yolo,Yolo,113,2020-03-06,1,0,,
 Alameda,Alameda,001,2020-03-05,1,0,,
 Berkeley,Alameda,001,2020-03-05,1,0,,
 Calaveras,Calaveras,009,2020-03-05,0,0,,
-Contra Costa,Contra Costa,013,2020-03-05,1,0,,
+Contra Costa,Contra Costa,013,2020-03-05,3,0,,
 Humboldt,Humboldt,023,2020-03-05,1,0,,
 Long Beach,Los Angeles,037,2020-03-05,0,0,,
 Los Angeles,Los Angeles,037,2020-03-05,11,0,,
@@ -8318,7 +8379,7 @@ Yolo,Yolo,113,2020-03-03,0,0,,
 Alameda,Alameda,001,2020-03-02,1,0,,
 Berkeley,Alameda,001,2020-03-02,0,0,,
 Calaveras,Calaveras,009,2020-03-02,0,0,,
-Contra Costa,Contra Costa,013,2020-03-02,0,0,,
+Contra Costa,Contra Costa,013,2020-03-02,1,0,,
 Humboldt,Humboldt,023,2020-03-02,1,0,,
 Long Beach,Los Angeles,037,2020-03-02,0,0,,
 Los Angeles,Los Angeles,037,2020-03-02,1,0,,
