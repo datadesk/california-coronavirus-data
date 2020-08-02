@@ -13,6 +13,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-agency-websites.csv](#latimes-agency-websitescsv)
 - [latimes-place-totals.csv](#latimes-place-totalscsv)
 - [cdph-state-totals.csv](#cdph-state-totalscsv)
+- [cdph-age.csv](#cdph-agecsv)
 - [cdph-race-ethnicity.csv](#cdph-race-ethnicitycsv)
 - [cdph-skilled-nursing-totals.csv](#cdph-skilled-nursing-totalscsv)
 - [cdph-adult-and-senior-care-totals.csv](#cdph-skilled-nursing-totalscsv)
