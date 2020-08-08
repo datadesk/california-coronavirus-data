@@ -183,16 +183,16 @@ Some dates are missing because the state did not publish a press release for tha
 
 All of the data used by The Times to estimate how many recent tests have come back positive. The daily tallies of new cases and tests are drawn from [cdph-state-totals.csv](./cdph-state-totals.csv).
 
-| field                                 | type    | description                                                                                                                                            |
-| ------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `date`                                | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                    |
-| `confirmed_cases`                     | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                      |
-| `total_tests`                         | integer | The total number of tests conducted.                                                                                                                   |
-| `new_confirmed_cases`                 | integer | The number of new confirmed cases compared to the previous date.                                                                                       |
-| `new_tests`                           | integer | The number of new tests compared to the previous date.                                                                                                 |
-| `new_confirmed_cases_seven_day_total` | integer | The total number of new confirmed cases in the previous seven days.                                                                                    |
-| `new_tests_seven_day_total`           | integer | The total number of new tests in the previous seven days.                                                                                              |
-| `positive_test_rate_seven_day_total`  | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
+| field                                  | type    | description                                                                                                                                            |
+| -------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                                 | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                    |
+| `confirmed_cases`                      | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                      |
+| `total_tests`                          | integer | The total number of tests conducted.                                                                                                                   |
+| `new_confirmed_cases`                  | integer | The number of new confirmed cases compared to the previous date.                                                                                       |
+| `new_tests`                            | integer | The number of new tests compared to the previous date.                                                                                                 |
+| `new_confirmed_cases_seven_day_total`  | integer | The total number of new confirmed cases in the previous seven days.                                                                                    |
+| `new_tests_seven_day_total`            | integer | The total number of new tests in the previous seven days.                                                                                              |
+| `positive_test_rate_seven_day_percent` | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
 
 ### [cdph-age.csv](./cdph-age.csv)
 
