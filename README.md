@@ -231,7 +231,7 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 
 ### [cdph-adult-and-senior-care-totals.csv](./cdph-adult-and-senior-care-totals.csv)
 
-California's Department of Public Health is releasing totals tracking the cumulative number of cases and deaths at the state's residential care facilities for the elderly and adult residential facilities.
+California's Department of Social Services is releasing totals tracking the cumulative number of cases and deaths at the state's residential care facilities for the elderly and adult residential facilities. The source documents are available in the [pdf/adult-and-senior-care/] directory of this repository.
 
 These are also sometimes known as assisted-living facilities. Counts for staff and patients are combined in this dataset into a single total.
 
@@ -244,7 +244,7 @@ These are also sometimes known as assisted-living facilities. Counts for staff a
 
 ### [cdph-skilled-nursing-facilities.csv](./cdph-skilled-nursing-facilities.csv)
 
-California's Department of Public Health is [listing the skilled-nursing facilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks.
+California's Department of Social Services is [listing the skilled-nursing facilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks. The source documents are available in the [pdf/adult-and-senior-care/] directory of this repository.
 
 In some circumstances the true total of cases is obscured. The lowest number in the range is entered into the record in the staff or patients field and an accompanying `note` field includes the set of possible values.
 
