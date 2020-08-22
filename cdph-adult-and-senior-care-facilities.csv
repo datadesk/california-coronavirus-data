@@ -1,4 +1,295 @@
 date,id,name,county,fips,staff_confirmed_cases,patients_confirmed_cases,staff_confirmed_cases_note,patients_confirmed_cases_note,staff_deaths,patients_deaths,staff_deaths_note,patients_deaths_note
+2020-08-21,,Brookdale North Fremont,Alameda,001,21,21,,,0,1,,10 or fewer
+2020-08-21,,Carlton Plaza Of San Leandro,Alameda,001,15,1,,10 or fewer,1,0,10 or fewer,
+2020-08-21,,Fremont Village,Alameda,001,28,48,,,1,12,10 or fewer,
+2020-08-21,,Lakeside Park,Alameda,001,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Lincoln Villa,Alameda,001,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Marymount Villa Retirement Center,Alameda,001,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,"Point At Rockridge, The",Alameda,001,1,14,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,"St. Regis Retirement Center, Inc.",Alameda,001,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Watermark By The Bay, The",Alameda,001,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Amador Residential Care Facility,Amador,005,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Compass Rose,Butte,007,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Windchime Of Chico,Butte,007,1,1,10 or fewer,10 or fewer,1,0,10 or fewer,
+2020-08-21,,Byron Park,Contra Costa,013,14,14,,,0,1,,10 or fewer
+2020-08-21,,Chateau At Poets Corner,Contra Costa,013,20,21,,,0,1,,10 or fewer
+2020-08-21,,Chateau III,Contra Costa,013,36,39,,,0,1,,10 or fewer
+2020-08-21,,Greenridge Senior Care,Contra Costa,013,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Fresno,Fresno,019,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Autumn Ridge Assisted Living,Fresno,019,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Belmar Villa,Fresno,019,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Carmel Village Memory Care,Fresno,019,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Fairwinds - Woodward Park,Fresno,019,20,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Gettysburg Christian Home,Fresno,019,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Kingston Bay Senior Living,Fresno,019,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Palm Village Retirement Community,Fresno,019,11,1,,10 or fewer,0,0,,
+2020-08-21,,Alder Bay Assisted Living,Humboldt,023,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Blossom Valley Inn,Imperial,025,1,55,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Centre Village,Kern,029,17,1,,10 or fewer,0,0,,
+2020-08-21,,Hallmark Of Bakersfield,Kern,029,1,13,10 or fewer,,0,0,,
+2020-08-21,,Jasmin Terrace At Bakersfield,Kern,029,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Pacifica Of Bakersfield,Kern,029,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Rosewood Retirement Community,Kern,029,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Abbey Road Villa,Los Angeles,037,1,19,10 or fewer,,0,0,,
+2020-08-21,,Aegis Of Granada Hills,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Alta Vista Gardens,Los Angeles,037,1,15,10 or fewer,,0,0,,
+2020-08-21,,Ararat Home Of Los Angeles,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Arbor Vista,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Park Of Pacific Palisades,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Rancho Park,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Avantgarde Senior Living Of Tarzana,Los Angeles,037,22,17,,,0,1,,10 or fewer
+2020-08-21,,Belmont Village Encino,Los Angeles,037,24,26,,,0,1,,10 or fewer
+2020-08-21,,Belmont Village Hollywood,Los Angeles,037,20,18,,,0,1,,10 or fewer
+2020-08-21,,Belmont Village Rancho Palos Verdes,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Belmont Village Westwood,Los Angeles,037,11,1,,10 or fewer,0,0,,
+2020-08-21,,Beverly Hills Carmel Retirement Hotel,Los Angeles,037,1,15,10 or fewer,,1,1,10 or fewer,10 or fewer
+2020-08-21,,Beverly Hills Gardens Care Center,Los Angeles,037,1,12,10 or fewer,,1,1,10 or fewer,10 or fewer
+2020-08-21,,Brookdale Central Whittier,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Brookdale Gardens Of Tarzana,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale Monrovia,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale Northridge,Los Angeles,037,11,23,,,0,13,,
+2020-08-21,,Canyon Trails At Topanga Senior Living,Los Angeles,037,11,35,,,0,1,,10 or fewer
+2020-08-21,,Carson Senior Assisted Living,Los Angeles,037,1,24,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,"Cedars Assisted Living, The",Los Angeles,037,13,39,,,0,1,,10 or fewer
+2020-08-21,,Charlie's Residential Care,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"City View La, LLC",Los Angeles,037,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Claremont Manor,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Commons At Woodland Hills, The",Los Angeles,037,20,29,,,0,1,,10 or fewer
+2020-08-21,,Crofton Manor Inn,Los Angeles,037,22,32,,,0,1,,10 or fewer
+2020-08-21,,Fallbrook Glen Of West Hills,Los Angeles,037,1,19,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Glen Park At Glendale - Boynton St,Los Angeles,037,11,21,,,0,1,,10 or fewer
+2020-08-21,,Golden Assisted Living,Los Angeles,037,1,12,10 or fewer,,0,0,,
+2020-08-21,,"Grandview, The",Los Angeles,037,1,18,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,"Grove At Cerritos, The",Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Heights At Burbank, The",Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Hollenbeck Palms,Los Angeles,037,12,1,,10 or fewer,0,0,,
+2020-08-21,,Inn At The Park Ventura,Los Angeles,037,1,29,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Jasmin Terrace At El Molino,Los Angeles,037,26,66,,,0,19,,
+2020-08-21,,"Kensington Redondo Beach, The",Los Angeles,037,22,22,,,1,1,10 or fewer,10 or fewer
+2020-08-21,,"Kensington Sierra Madre, The",Los Angeles,037,17,12,,,0,1,,10 or fewer
+2020-08-21,,Kingsley Manor,Los Angeles,037,1,0,10 or fewer,,1,0,10 or fewer,
+2020-08-21,,Lakewood Park Manor,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Lucerne One Llc,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Meadowbrook At Agoura Hills,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Mgh Corporation, The",Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Mountain View Center,Los Angeles,037,1,12,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Mugungwha Silver Town,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Oakmont Of Santa Clarita,Los Angeles,037,1,14,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Oakmont Of Valencia,Los Angeles,037,1,15,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Pacifica Senior Living Northridge,Los Angeles,037,26,42,,,0,16,,
+2020-08-21,,Palmcrest Grand Residence,Los Angeles,037,1,15,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Regency Palms Long Beach,Los Angeles,037,20,1,,10 or fewer,0,0,,
+2020-08-21,,Regency Park Astoria,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Rosecrans Villa Residential Care,Los Angeles,037,1,14,10 or fewer,,0,0,,
+2020-08-21,,Royal Oaks,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Royal Vista San Gabriel,Los Angeles,037,1,30,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Royalty Assisted Living,Los Angeles,037,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Silverado Senior Living - Calabasas,Los Angeles,037,17,49,,,0,13,,
+2020-08-21,,Silverado Senior Living – Beverly Place,Los Angeles,037,33,57,,,1,13,10 or fewer,
+2020-08-21,,Solheim Senior Community,Los Angeles,037,11,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Spring Senior Assisted Living,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Sunrise Assisted Living Of Studio City,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Sunrise At Sterling Canyon,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Sunrise Of Beverly Hills,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Sunrise Of Westlake Village,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Sunrise Villa Culver City,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Veterans Home Of California – West Los Angeles,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Villa Gardens,Los Angeles,037,43,17,,,0,1,,10 or fewer
+2020-08-21,,"Village At Sherman Oaks, The",Los Angeles,037,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Vista Del Mar Senior Living,Los Angeles,037,13,29,,,0,1,,10 or fewer
+2020-08-21,,"Watermark At Beverly Hills, The",Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,West Valley Assisted Living,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Western Assemblies Home,Los Angeles,037,11,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Whittier Place Senior Living,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Windsor Hall Care Home Inc.,Los Angeles,037,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Cedar Creek Senior Living,Madera,039,1,21,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Aegis Assisted Living Of Corte Madera,Marin,041,20,13,,,0,0,,
+2020-08-21,,Atria Tamalpais Creek,Marin,041,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Drake Terrace,Marin,041,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Golden Home Extended Care, Inc.",Marin,041,1,13,10 or fewer,,0,0,,
+2020-08-21,,"Nazareth House Of San Rafael, Inc.",Marin,041,17,19,,,0,1,,10 or fewer
+2020-08-21,,Windchime Of Marin,Marin,041,1,11,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Sunrise Assisted Living Of Monterey,Monterey,053,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Grass Valley,Nevada,057,1,12,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Acacia Villas,Orange,059,1,15,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Activcare At Yorba Linda,Orange,059,11,17,,,1,1,10 or fewer,10 or fewer
+2020-08-21,,Anaheim Crown Plaza,Orange,059,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Ardent Care,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria San Juan,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale Anaheim,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale Nohl Ranch,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale Yorba Linda,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Cambridge Court,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Capriana,Orange,059,12,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Carmel Village Retirement Community,Orange,059,12,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Covington, The",Orange,059,11,1,,10 or fewer,0,0,,
+2020-08-21,,Harbor Heights Assisted Living & Memory Care,Orange,059,11,0,,,0,0,,
+2020-08-21,,Harvest Retirement,Orange,059,1,18,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,"Heathers - Wintergreen, The",Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Heritage Pointe,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Hollybrook Senior Living Of Orange,Orange,059,14,15,,,0,1,,10 or fewer
+2020-08-21,,Huntington Terrace,Orange,059,1,24,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Karlton Residential Care Center,Orange,059,1,16,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,"Meridian At Anaheim Hills, The",Orange,059,1,12,10 or fewer,,0,0,,
+2020-08-21,,Merrill Gardens At Huntington Beach,Orange,059,12,1,,10 or fewer,0,0,,
+2020-08-21,,"New Horizon Lodge, Inc.",Orange,059,1,1,10 or fewer,10 or fewer,1,0,10 or fewer,
+2020-08-21,,Park Regency Retirement Center,Orange,059,12,27,,,0,1,,10 or fewer
+2020-08-21,,Park Terrace,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Regency, The",Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Rowntree Gardens,Orange,059,15,1,,10 or fewer,0,0,,
+2020-08-21,,San Clemente Villas By The Sea,Orange,059,12,13,,,0,1,,10 or fewer
+2020-08-21,,Sea Cliff Assisted Living,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Seaside Terrace Retirement Community,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Silverado Senior Living - San Juan Capistrano,Orange,059,19,25,,,0,1,,10 or fewer
+2020-08-21,,Silverado Senior Living – Newport Mesa,Orange,059,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Silverado Senior Living – Tustin Hacienda,Orange,059,14,16,,,0,1,,10 or fewer
+2020-08-21,,St. Francis Home,Orange,059,1,13,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Sunflower Gardens,Orange,059,21,38,,,0,1,,10 or fewer
+2020-08-21,,Valley View Gardens,Orange,059,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Vivante On The Coast,Orange,059,17,31,,,0,1,,10 or fewer
+2020-08-21,,Walnut Village,Orange,059,17,1,,10 or fewer,0,0,,
+2020-08-21,,Whitten Heights Assisted Living And Memory Care,Orange,059,17,23,,,1,1,10 or fewer,10 or fewer
+2020-08-21,,Atria Rocklin,Placer,061,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Gladding Ridge,Placer,061,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Hacienda,Riverside,065,11,1,,10 or fewer,0,0,,
+2020-08-21,,Bella Villaggio,Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale Mirage Inn,Riverside,065,1,19,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Brookdale North Euclid,Riverside,065,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Caleo Bay Alzheimer's Special Care Center,Riverside,065,14,33,,,1,1,10 or fewer,10 or fewer
+2020-08-21,,"Fountains At The Carlotta, The",Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Gardens Of Riverside, The",Riverside,065,19,30,,,0,1,,10 or fewer
+2020-08-21,,Gladwell Rancho Mirage,Riverside,065,11,13,,,0,1,,10 or fewer
+2020-08-21,,Kenneth Slaman,Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Lakes, The",Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Our Countryside Resort,Riverside,065,1,16,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Pacifica Senior Living Riverside,Riverside,065,18,32,,,0,1,,10 or fewer
+2020-08-21,,"Palms At La Quinta, The",Riverside,065,1,19,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Pico De Loro,Riverside,065,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Raincross At Riverside,Riverside,065,1,14,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Renaissance Village Murrieta,Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Renaissance Village Rancho Belago,Riverside,065,12,11,,,0,1,,10 or fewer
+2020-08-21,,Segovia Of Palm Desert,Riverside,065,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,The Lakes,Riverside,065,13,13,,,0,1,,10 or fewer
+2020-08-21,,Valencia Terrace,Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Vineyard Ranch At Temecula,Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Vista Cove At Rancho Mirage,Riverside,065,14,29,,,0,1,,10 or fewer
+2020-08-21,,Welbrook Senior Living Arlington,Riverside,065,17,11,,,1,1,10 or fewer,10 or fewer
+2020-08-21,,Westmont Village,Riverside,065,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Wildomar Senior Assisted Living,Riverside,065,14,1,,10 or fewer,0,0,,
+2020-08-21,,Windsor Court Assisted Living,Riverside,065,1,11,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Yorkshire Village,Riverside,065,1,36,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Atria Carmichael Oaks,Sacramento,067,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Carlton Plaza Of Elk Grove,Sacramento,067,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,City Creek Assisted Living,Sacramento,067,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Eskaton Gold River Lodge,Sacramento,067,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Eskaton Village,Sacramento,067,11,1,,10 or fewer,1,1,10 or fewer,10 or fewer
+2020-08-21,,Fruitridge Villa,Sacramento,067,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Greenhaven Estates,Sacramento,067,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Oakmont Of Folsom,Sacramento,067,1,22,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Sky Park Gardens,Sacramento,067,16,23,,,0,1,,10 or fewer
+2020-08-21,,Summerset Assisted Living,Sacramento,067,1,22,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Sunrise Assisted Living Of Fair Oaks,Sacramento,067,1,17,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Sunrise Assisted Living Of Sacramento,Sacramento,067,24,25,,,0,1,,10 or fewer
+2020-08-21,,"Waterleaf At Land Park, The",Sacramento,067,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Abria Del Cielo,San Bernardino,071,1,48,10 or fewer,,0,0,,
+2020-08-21,,Blossom Grove Alzheimer's Special Care Center,San Bernardino,071,1,16,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Hamilton Home,San Bernardino,071,1,12,10 or fewer,,0,0,,
+2020-08-21,,Linda Valley Assisted Living,San Bernardino,071,14,11,,,0,1,,10 or fewer
+2020-08-21,,Lotus Villa And Memory Care,San Bernardino,071,1,15,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Mission Commons,San Bernardino,071,12,14,,,0,1,,10 or fewer
+2020-08-21,,Montclair Royale Senior Living,San Bernardino,071,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Oakmont Of San Antonio Heights,San Bernardino,071,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Pacifica Senior Living Hillsborough,San Bernardino,071,1,16,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Plymouth Village Of Redlands,San Bernardino,071,15,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Rose Garden Residential Care,San Bernardino,071,1,43,10 or fewer,,0,13,,
+2020-08-21,,Skyline Villa,San Bernardino,071,1,0,10 or fewer,,1,0,10 or fewer,
+2020-08-21,,Sterling Commons,San Bernardino,071,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Sterling Inn,San Bernardino,071,1,1,10 or fewer,10 or fewer,1,0,10 or fewer,
+2020-08-21,,Villas At San Bernardino,San Bernardino,071,1,1,10 or fewer,10 or fewer,1,0,10 or fewer,
+2020-08-21,,Activcare At Mission Bay,San Diego,073,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Activcare At Rolling Hills Ranch,San Diego,073,1,21,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Aegis Assisted Living At Shadowridge,San Diego,073,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Atria Collwood,San Diego,073,1,0,10 or fewer,,1,0,10 or fewer,
+2020-08-21,,Atria Rancho Penasquitos,San Diego,073,1,25,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Brookdale Clairemont,San Diego,073,1,1,10 or fewer,10 or fewer,1,0,10 or fewer,
+2020-08-21,,Cedars @ Paradise Village,San Diego,073,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Cloisters Of The Valley, LLC",San Diego,073,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Elmcroft Of La Mesa,San Diego,073,18,34,,,0,14,,
+2020-08-21,,Fredericka Manor,San Diego,073,14,1,,10 or fewer,0,0,,
+2020-08-21,,"Golden Living Health Management, Inc.",San Diego,073,12,1,,10 or fewer,0,0,,
+2020-08-21,,Kasitz Kastle,San Diego,073,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,La Vida Real,San Diego,073,22,13,,,0,1,,10 or fewer
+2020-08-21,,Leichtag Family Assisted Living Residence,San Diego,073,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Oakmont Of Escondido Hills,San Diego,073,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Pacifica Senior Living Escondido,San Diego,073,11,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Pacifica Senior Living Vista,San Diego,073,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Plaza Village Senior Living,San Diego,073,1,15,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Silverado Senior Living - Escondido,San Diego,073,1,17,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,St. Paul's Plaza,San Diego,073,12,0,,,0,0,,
+2020-08-21,,Stellar Care,San Diego,073,1,13,10 or fewer,,1,1,10 or fewer,10 or fewer
+2020-08-21,,Sun And Sea Assisted Living,San Diego,073,1,12,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Wesley Palms,San Diego,073,12,0,,,0,0,,
+2020-08-21,,Buena Vista Manor House,San Francisco,075,13,22,,,0,0,,
+2020-08-21,,Portola Gardens,San Francisco,075,1,13,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,San Francisco Towers,San Francisco,075,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale Tracy,San Joaquin,077,11,23,,,0,1,,10 or fewer
+2020-08-21,,Camlu Assisted Living,San Joaquin,077,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,"Commons On Thornton, The",San Joaquin,077,12,1,,10 or fewer,1,0,10 or fewer,
+2020-08-21,,O'connor Woods Assisted Living,San Joaquin,077,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Oakmont Of Brookside,San Joaquin,077,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Plymouth Square,San Joaquin,077,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Prestige Assisted Living At Manteca,San Joaquin,077,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Rose Place Memory Care,San Joaquin,077,14,34,,,0,1,,10 or fewer
+2020-08-21,,Ingleside Park Assisted Living Llc,San Luis Obispo,079,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Paradise Valley Care,San Luis Obispo,079,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Vista Rosa Elder Care,San Luis Obispo,079,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Abigail Complete Care, Inc",San Mateo,081,1,20,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Aegis Assisted Living Of San Francisco,San Mateo,081,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Burlingame,San Mateo,081,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Daly City,San Mateo,081,13,16,,,0,1,,10 or fewer
+2020-08-21,,Gordon Manor,San Mateo,081,1,23,10 or fewer,,0,12,,
+2020-08-21,,Peninsula Regent (The),San Mateo,081,14,1,,10 or fewer,1,0,10 or fewer,
+2020-08-21,,San Carlos Elms,San Mateo,081,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Sterling Court,San Mateo,081,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Sunrise Of Burlingame,San Mateo,081,13,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Vista Terrace Of Belmont,San Mateo,081,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Westborough Royale,San Mateo,081,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Casa Dorinda,Santa Barbara,083,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Granvida Senior Living And Memory Care,Santa Barbara,083,1,18,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Maravilla,Santa Barbara,083,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Pacifica Senior Living Santa Barbara,Santa Barbara,083,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Santa Maria Terrace,Santa Barbara,083,1,12,10 or fewer,,0,0,,
+2020-08-21,,Villa Alamar,Santa Barbara,083,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Brookdale San Jose,Santa Clara,085,11,1,,10 or fewer,0,0,,
+2020-08-21,,Pacific Gardens,Santa Clara,085,20,13,,,0,1,,10 or fewer
+2020-08-21,,Sunny View Retirement Community,Santa Clara,085,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Terraces Of Los Gatos, The",Santa Clara,085,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Vi At Palo Alto,Santa Clara,085,1,11,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Vila Monte,Santa Clara,085,1,1,10 or fewer,10 or fewer,1,0,10 or fewer,
+2020-08-21,,Villa Fontana,Santa Clara,085,25,35,,,0,1,,10 or fewer
+2020-08-21,,Ocean View Home,Santa Cruz,087,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Cornerstone Assisted Living,Solano,095,1,13,10 or fewer,,0,0,,
+2020-08-21,,Magnolia Court,Solano,095,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Mirabel Lodge,Sonoma,097,1,14,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,Oakmont Gardens,Sonoma,097,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,Primrose Alzheimer's Living Inc,Sonoma,097,16,31,,,0,1,,10 or fewer
+2020-08-21,,Sunrise Of Petaluma,Sonoma,097,14,18,,,0,1,,10 or fewer
+2020-08-21,,Bethel Assisted Living,Stanislaus,099,1,13,10 or fewer,,0,1,,10 or fewer
+2020-08-21,,El Rio Memory Care Community,Stanislaus,099,19,44,,,1,16,10 or fewer,
+2020-08-21,,Hospitality House,Stanislaus,099,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,St. Thomas Retirement Center,Stanislaus,099,0,1,,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Casa Grande Senior Care Home #2,Tulare,107,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Atria Grand Oaks,Ventura,111,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Lexington Assisted Living,Ventura,111,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Pacifica Senior Living Oxnard,Ventura,111,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,"Reserve At Thousand Oaks, The",Ventura,111,12,1,,10 or fewer,0,0,,
+2020-08-21,,Sunrise At Wood Ranch,Ventura,111,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,University Village Thousand Oaks,Ventura,111,1,1,10 or fewer,10 or fewer,0,1,,10 or fewer
+2020-08-21,,Ventura Townehouse,Ventura,111,23,32,,,0,1,,10 or fewer
+2020-08-21,,Wellness Care Senior Living,Ventura,111,1,14,10 or fewer,,0,0,,
+2020-08-21,,Gloria's Country Care,Yolo,113,1,1,10 or fewer,10 or fewer,0,0,,
+2020-08-21,,St. John's Retirement Village/Manor,Yolo,113,14,0,,,0,0,,
+2020-08-21,,University Retirement Community At Davis,Yolo,113,12,1,,10 or fewer,0,0,,
 2020-08-19,,Brookdale North Fremont,Alameda,001,21,21,,,0,1,,10 or fewer
 2020-08-19,,Carlton Plaza Of San Leandro,Alameda,001,15,1,,10 or fewer,1,0,10 or fewer,
 2020-08-19,,Fremont Village,Alameda,001,28,48,,,1,12,10 or fewer,
