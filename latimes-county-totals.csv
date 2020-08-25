@@ -20,7 +20,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-24,Los Angeles,037,232937,5560,1234,15
 2020-08-24,Madera,039,3484,50,145,1
 2020-08-24,Marin,041,5942,94,12,8
-2020-08-24,Mariposa,043,69,2,0,0
+2020-08-24,Mariposa,043,70,2,1,0
 2020-08-24,Mendocino,045,645,16,16,0
 2020-08-24,Merced,047,7653,106,225,7
 2020-08-24,Modoc,049,5,0,0,0
