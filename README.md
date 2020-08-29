@@ -21,6 +21,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-skilled-nursing-facilities.csv](#cdph-skilled-nursing-facilitiescsv)
 - [cdph-adult-and-senior-care-facilities.csv](#cdph-adult-and-senior-care-facilitiescsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
+- [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
@@ -320,6 +321,19 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
+
+### [cdph-reopening-tiers.csv](./cdph-reopening-tiers.csv)
+
+In August 2020, the state introduced a new framework for deciding when and how counties can reopen. Under the regime, each county is assigned to one of four tiers based on a set of metrics developed by state officials.
+
+This file records the current tier of each county by day. The definition for each group can be found on the [state's website](https://web.archive.org/web/20200829140027/https://covid19.ca.gov/safer-economy/).
+
+| field    | type    | description                                                                                                                                                                          |
+| -------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`   | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `county` | string  | The name of the county.                                                                                                                                                              |
+| `fips`   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `tier`   | integer | The tier the county was classified in on this `date`. There are four possible values on an ordinal scale with one being the most restrictive and four the least restrictive.         |
 
 ### [latimes-project-roomkey-totals.csv](./latimes-project-roomkey-totals.csv)
 
