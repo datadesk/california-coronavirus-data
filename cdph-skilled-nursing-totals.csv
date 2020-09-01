@@ -1,5 +1,6 @@
 date,staff_active_cases,patients_active_cases,staff_confirmed_cases,patients_confirmed_cases,staff_confirmed_cases_note,patients_confirmed_cases_note,staff_deaths,patients_deaths,staff_deaths_note,patients_deaths_note,staff_deaths_note,source_url
-2020-08-30,49,2006,1727,0,,,0,0,,,,0
+2020-08-31,44,2019,17788,23986,,,139,4078,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
+2020-08-30,49,2006,17727,23904,,,139,4065,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
 2020-08-29,57,2010,17632,23816,,,139,4048,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
 2020-08-28,53,2025,17498,23670,,,141,4028,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
 2020-08-27,64,2131,17381,23541,,,139,4000,,,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx

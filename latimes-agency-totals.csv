@@ -1,8 +1,69 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
-Alameda,Alameda,001,2020-08-30,17509,252,,
+Alameda,Alameda,001,2020-08-31,17655,251,,
+Berkeley,Alameda,001,2020-08-31,532,6,,
+Alpine,Alpine,003,2020-08-31,2,0,2,True
+Amador,Amador,005,2020-08-31,236,13,209,
+Butte,Butte,007,2020-08-31,2026,23,1626,
+Calaveras,Calaveras,009,2020-08-31,236,2,203,True
+Colusa,Colusa,011,2020-08-31,445,6,426,
+Contra Costa,Contra Costa,013,2020-08-31,13938,175,12472,
+Del Norte,Del Norte,015,2020-08-31,123,1,119,
+El Dorado,El Dorado,017,2020-08-31,967,2,851,
+Fresno,Fresno,019,2020-08-31,24963,263,11906,
+Glenn,Glenn,021,2020-08-31,453,3,429,
+Humboldt,Humboldt,023,2020-08-31,388,4,341,
+Imperial,Imperial,025,2020-08-31,10719,293,9651,
+Inyo,Inyo,027,2020-08-31,179,13,88,
+Kern,Kern,029,2020-08-31,29324,286,11732,
+Kings,Kings,031,2020-08-31,6340,72,3781,
+Lake,Lake,033,2020-08-31,345,4,305,
+Lassen,Lassen,035,2020-08-31,715,0,697,
+Long Beach,Los Angeles,037,2020-08-31,10524,216,9525,
+Los Angeles,Los Angeles,037,2020-08-31,228908,5457,,
+Pasadena,Los Angeles,037,2020-08-31,2376,111,,
+Madera,Madera,039,2020-08-31,3783,54,3196,
+Marin,Marin,041,2020-08-31,6164,96,5699,
+Mariposa,Mariposa,043,2020-08-31,71,2,67,True
+Mendocino,Mendocino,045,2020-08-31,704,17,617,
+Merced,Merced,047,2020-08-31,8032,117,6924,
+Modoc,Modoc,049,2020-08-31,12,0,5,
+Mono,Mono,051,2020-08-31,162,2,,
+Monterey,Monterey,053,2020-08-31,7980,58,5059,
+Napa,Napa,055,2020-08-31,1431,12,1090,
+Nevada,Nevada,057,2020-08-31,446,5,380,
+Orange,Orange,059,2020-08-31,48538,980,41286,
+Placer,Placer,061,2020-08-31,3003,33,2626,
+Plumas,Plumas,063,2020-08-31,41,0,40,
+Riverside,Riverside,065,2020-08-31,52909,1019,43387,
+Sacramento,Sacramento,067,2020-08-31,18052,293,14271,
+San Benito,San Benito,069,2020-08-31,1097,8,972,
+San Bernardino,San Bernardino,071,2020-08-31,47642,716,41163,
+San Diego,San Diego,073,2020-08-31,38604,682,,
+San Francisco,San Francisco,075,2020-08-31,9494,83,,
+San Joaquin,San Joaquin,077,2020-08-31,17497,328,15832,
+San Luis Obispo,San Luis Obispo,079,2020-08-31,2981,20,2541,
+San Mateo,San Mateo,081,2020-08-31,8169,131,,
+Santa Barbara,Santa Barbara,083,2020-08-31,8143,93,7822,
+Santa Clara,Santa Clara,085,2020-08-31,17349,244,,
+Santa Cruz,Santa Cruz,087,2020-08-31,1744,7,1517,
+Shasta,Shasta,089,2020-08-31,570,12,539,
+Sierra,Sierra,091,2020-08-31,6,0,6,
+Siskiyou,Siskiyou,093,2020-08-31,137,0,125,
+Solano,Solano,095,2020-08-31,5512,47,5127,
+Sonoma,Sonoma,097,2020-08-31,5800,80,3689,
+Stanislaus,Stanislaus,099,2020-08-31,14710,258,13593,
+Sutter,Sutter,101,2020-08-31,1409,10,827,
+Tehama,Tehama,103,2020-08-31,412,1,355,
+Trinity,Trinity,105,2020-08-31,13,0,11,
+Tulare,Tulare,107,2020-08-31,14079,233,13145,
+Tuolumne,Tuolumne,109,2020-08-31,182,2,170,
+Ventura,Ventura,111,2020-08-31,10653,116,9326,
+Yolo,Yolo,113,2020-08-31,2424,52,,
+Yuba,Yuba,115,2020-08-31,927,6,545,
+Alameda,Alameda,001,2020-08-30,17509,251,,
 Berkeley,Alameda,001,2020-08-30,531,6,,
 Alpine,Alpine,003,2020-08-30,2,0,2,True
-Amador,Amador,005,2020-08-30,234,14,206,True
+Amador,Amador,005,2020-08-30,234,13,206,True
 Butte,Butte,007,2020-08-30,1848,23,1530,True
 Calaveras,Calaveras,009,2020-08-30,236,2,203,True
 Colusa,Colusa,011,2020-08-30,441,6,419,True
@@ -41,7 +102,7 @@ San Bernardino,San Bernardino,071,2020-08-30,47373,716,40582,
 San Diego,San Diego,073,2020-08-30,38300,682,,
 San Francisco,San Francisco,075,2020-08-30,9428,83,,
 San Joaquin,San Joaquin,077,2020-08-30,16913,307,15259,True
-San Luis Obispo,San Luis Obispo,079,2020-08-30,2882,21,2413,True
+San Luis Obispo,San Luis Obispo,079,2020-08-30,2882,20,2413,True
 San Mateo,San Mateo,081,2020-08-30,8074,131,,True
 Santa Barbara,Santa Barbara,083,2020-08-30,8014,92,7676,True
 Santa Clara,Santa Clara,085,2020-08-30,17013,244,,True
@@ -52,18 +113,18 @@ Siskiyou,Siskiyou,093,2020-08-30,128,0,117,True
 Solano,Solano,095,2020-08-30,5388,46,4983,True
 Sonoma,Sonoma,097,2020-08-30,5654,78,3035,
 Stanislaus,Stanislaus,099,2020-08-30,14544,255,13435,
-Sutter,Sutter,101,2020-08-30,1368,10,768,True
+Sutter,Sutter,101,2020-08-30,1400,10,802,
 Tehama,Tehama,103,2020-08-30,412,1,355,True
 Trinity,Trinity,105,2020-08-30,13,0,11,True
 Tulare,Tulare,107,2020-08-30,13884,232,13060,True
 Tuolumne,Tuolumne,109,2020-08-30,181,2,169,True
 Ventura,Ventura,111,2020-08-30,10346,115,9135,True
 Yolo,Yolo,113,2020-08-30,2386,52,,
-Yuba,Yuba,115,2020-08-30,909,6,518,True
+Yuba,Yuba,115,2020-08-30,915,6,536,
 Alameda,Alameda,001,2020-08-29,17321,241,,True
 Berkeley,Alameda,001,2020-08-29,526,6,,True
 Alpine,Alpine,003,2020-08-29,2,0,2,True
-Amador,Amador,005,2020-08-29,234,14,206,True
+Amador,Amador,005,2020-08-29,234,13,206,True
 Butte,Butte,007,2020-08-29,1848,23,1530,True
 Calaveras,Calaveras,009,2020-08-29,236,2,203,True
 Colusa,Colusa,011,2020-08-29,441,6,419,True
@@ -102,7 +163,7 @@ San Bernardino,San Bernardino,071,2020-08-29,47145,716,40386,
 San Diego,San Diego,073,2020-08-29,38047,679,,
 San Francisco,San Francisco,075,2020-08-29,9349,83,,
 San Joaquin,San Joaquin,077,2020-08-29,16913,307,15259,True
-San Luis Obispo,San Luis Obispo,079,2020-08-29,2882,21,2413,True
+San Luis Obispo,San Luis Obispo,079,2020-08-29,2882,20,2413,True
 San Mateo,San Mateo,081,2020-08-29,8074,131,,
 Santa Barbara,Santa Barbara,083,2020-08-29,8014,92,7676,True
 Santa Clara,Santa Clara,085,2020-08-29,17013,244,,
@@ -113,18 +174,18 @@ Siskiyou,Siskiyou,093,2020-08-29,128,0,117,True
 Solano,Solano,095,2020-08-29,5388,46,4983,True
 Sonoma,Sonoma,097,2020-08-29,5588,78,3035,True
 Stanislaus,Stanislaus,099,2020-08-29,14482,255,13379,
-Sutter,Sutter,101,2020-08-29,1368,10,768,True
+Sutter,Sutter,101,2020-08-29,1368,10,768,
 Tehama,Tehama,103,2020-08-29,412,1,355,
 Trinity,Trinity,105,2020-08-29,13,0,11,
 Tulare,Tulare,107,2020-08-29,13884,232,13060,True
 Tuolumne,Tuolumne,109,2020-08-29,181,2,169,True
 Ventura,Ventura,111,2020-08-29,10346,115,9135,True
 Yolo,Yolo,113,2020-08-29,2335,51,,
-Yuba,Yuba,115,2020-08-29,909,6,518,True
+Yuba,Yuba,115,2020-08-29,915,6,518,
 Alameda,Alameda,001,2020-08-28,17321,241,,
 Berkeley,Alameda,001,2020-08-28,526,6,,
 Alpine,Alpine,003,2020-08-28,2,0,2,True
-Amador,Amador,005,2020-08-28,234,14,206,
+Amador,Amador,005,2020-08-28,234,13,206,
 Butte,Butte,007,2020-08-28,1848,23,1530,
 Calaveras,Calaveras,009,2020-08-28,236,2,203,
 Colusa,Colusa,011,2020-08-28,441,6,419,
@@ -163,7 +224,7 @@ San Bernardino,San Bernardino,071,2020-08-28,46892,716,39694,
 San Diego,San Diego,073,2020-08-28,37784,676,,
 San Francisco,San Francisco,075,2020-08-28,9215,83,,
 San Joaquin,San Joaquin,077,2020-08-28,16913,307,15259,
-San Luis Obispo,San Luis Obispo,079,2020-08-28,2882,21,2413,
+San Luis Obispo,San Luis Obispo,079,2020-08-28,2882,20,2413,
 San Mateo,San Mateo,081,2020-08-28,7978,131,,
 Santa Barbara,Santa Barbara,083,2020-08-28,8014,92,7676,
 Santa Clara,Santa Clara,085,2020-08-28,16814,244,,
@@ -185,7 +246,7 @@ Yuba,Yuba,115,2020-08-28,909,6,518,
 Alameda,Alameda,001,2020-08-27,17099,238,,
 Berkeley,Alameda,001,2020-08-27,522,6,,
 Alpine,Alpine,003,2020-08-27,2,0,2,True
-Amador,Amador,005,2020-08-27,232,14,201,
+Amador,Amador,005,2020-08-27,232,13,201,
 Butte,Butte,007,2020-08-27,1815,21,1491,
 Calaveras,Calaveras,009,2020-08-27,223,2,186,True
 Colusa,Colusa,011,2020-08-27,439,6,416,
@@ -224,7 +285,7 @@ San Bernardino,San Bernardino,071,2020-08-27,46407,715,39032,
 San Diego,San Diego,073,2020-08-27,37499,673,,
 San Francisco,San Francisco,075,2020-08-27,9149,82,,
 San Joaquin,San Joaquin,077,2020-08-27,16773,305,15092,
-San Luis Obispo,San Luis Obispo,079,2020-08-27,2842,21,2364,
+San Luis Obispo,San Luis Obispo,079,2020-08-27,2842,20,2364,
 San Mateo,San Mateo,081,2020-08-27,7911,130,,
 Santa Barbara,Santa Barbara,083,2020-08-27,7951,91,7632,
 Santa Clara,Santa Clara,085,2020-08-27,16607,240,,
@@ -246,7 +307,7 @@ Yuba,Yuba,115,2020-08-27,900,6,513,
 Alameda,Alameda,001,2020-08-26,16870,237,,
 Berkeley,Alameda,001,2020-08-26,515,6,,
 Alpine,Alpine,003,2020-08-26,2,0,2,True
-Amador,Amador,005,2020-08-26,231,14,198,
+Amador,Amador,005,2020-08-26,231,13,198,
 Butte,Butte,007,2020-08-26,1744,21,1458,
 Calaveras,Calaveras,009,2020-08-26,223,2,186,True
 Colusa,Colusa,011,2020-08-26,434,6,411,
@@ -285,7 +346,7 @@ San Bernardino,San Bernardino,071,2020-08-26,46051,709,38364,
 San Diego,San Diego,073,2020-08-26,37222,668,,
 San Francisco,San Francisco,075,2020-08-26,9060,80,,
 San Joaquin,San Joaquin,077,2020-08-26,16615,297,14921,
-San Luis Obispo,San Luis Obispo,079,2020-08-26,2792,21,2332,
+San Luis Obispo,San Luis Obispo,079,2020-08-26,2792,20,2332,
 San Mateo,San Mateo,081,2020-08-26,7849,130,,
 Santa Barbara,Santa Barbara,083,2020-08-26,7916,90,7585,
 Santa Clara,Santa Clara,085,2020-08-26,16393,237,,
@@ -307,7 +368,7 @@ Yuba,Yuba,115,2020-08-26,893,6,493,
 Alameda,Alameda,001,2020-08-25,16761,234,,
 Berkeley,Alameda,001,2020-08-25,514,6,,
 Alpine,Alpine,003,2020-08-25,2,0,2,True
-Amador,Amador,005,2020-08-25,226,14,197,
+Amador,Amador,005,2020-08-25,226,13,197,
 Butte,Butte,007,2020-08-25,1699,18,1431,
 Calaveras,Calaveras,009,2020-08-25,223,2,186,
 Colusa,Colusa,011,2020-08-25,429,5,409,
@@ -346,7 +407,7 @@ San Bernardino,San Bernardino,071,2020-08-25,45666,695,37701,
 San Diego,San Diego,073,2020-08-25,36994,665,,
 San Francisco,San Francisco,075,2020-08-25,8981,77,,
 San Joaquin,San Joaquin,077,2020-08-25,16545,297,14727,
-San Luis Obispo,San Luis Obispo,079,2020-08-25,2769,21,2306,
+San Luis Obispo,San Luis Obispo,079,2020-08-25,2769,20,2306,
 San Mateo,San Mateo,081,2020-08-25,7788,130,,
 Santa Barbara,Santa Barbara,083,2020-08-25,7869,89,7551,
 Santa Clara,Santa Clara,085,2020-08-25,16306,233,,
@@ -368,7 +429,7 @@ Yuba,Yuba,115,2020-08-25,883,5,467,
 Alameda,Alameda,001,2020-08-24,16224,228,,
 Berkeley,Alameda,001,2020-08-24,509,6,,
 Alpine,Alpine,003,2020-08-24,2,0,2,True
-Amador,Amador,005,2020-08-24,224,14,194,
+Amador,Amador,005,2020-08-24,224,13,194,
 Butte,Butte,007,2020-08-24,1664,18,,
 Calaveras,Calaveras,009,2020-08-24,197,2,168,True
 Colusa,Colusa,011,2020-08-24,426,5,405,
@@ -407,7 +468,7 @@ San Bernardino,San Bernardino,071,2020-08-24,45246,692,37002,
 San Diego,San Diego,073,2020-08-24,36727,660,,
 San Francisco,San Francisco,075,2020-08-24,8936,77,,
 San Joaquin,San Joaquin,077,2020-08-24,16131,297,14399,
-San Luis Obispo,San Luis Obispo,079,2020-08-24,2735,21,2282,
+San Luis Obispo,San Luis Obispo,079,2020-08-24,2735,20,2282,
 San Mateo,San Mateo,081,2020-08-24,7670,128,,
 Santa Barbara,Santa Barbara,083,2020-08-24,7800,88,7479,
 Santa Clara,Santa Clara,085,2020-08-24,16151,224,,
@@ -429,7 +490,7 @@ Yuba,Yuba,115,2020-08-24,880,4,460,
 Alameda,Alameda,001,2020-08-23,16219,228,,
 Berkeley,Alameda,001,2020-08-23,504,6,,
 Alpine,Alpine,003,2020-08-23,2,0,2,True
-Amador,Amador,005,2020-08-23,221,14,176,True
+Amador,Amador,005,2020-08-23,221,13,176,True
 Butte,Butte,007,2020-08-23,1555,17,1350,True
 Calaveras,Calaveras,009,2020-08-23,197,2,168,True
 Colusa,Colusa,011,2020-08-23,419,5,395,True
@@ -468,7 +529,7 @@ San Bernardino,San Bernardino,071,2020-08-23,45035,691,36474,
 San Diego,San Diego,073,2020-08-23,36540,660,,
 San Francisco,San Francisco,075,2020-08-23,8871,77,,
 San Joaquin,San Joaquin,077,2020-08-23,15622,294,13859,True
-San Luis Obispo,San Luis Obispo,079,2020-08-23,2665,21,2183,True
+San Luis Obispo,San Luis Obispo,079,2020-08-23,2665,20,2183,True
 San Mateo,San Mateo,081,2020-08-23,7535,128,,True
 Santa Barbara,Santa Barbara,083,2020-08-23,7653,87,7312,True
 Santa Clara,Santa Clara,085,2020-08-23,16011,224,,
@@ -490,7 +551,7 @@ Yuba,Yuba,115,2020-08-23,859,4,449,
 Alameda,Alameda,001,2020-08-22,16212,228,,
 Berkeley,Alameda,001,2020-08-22,484,6,,True
 Alpine,Alpine,003,2020-08-22,2,0,2,True
-Amador,Amador,005,2020-08-22,221,14,176,True
+Amador,Amador,005,2020-08-22,221,13,176,True
 Butte,Butte,007,2020-08-22,1555,17,1350,True
 Calaveras,Calaveras,009,2020-08-22,197,2,168,True
 Colusa,Colusa,011,2020-08-22,419,5,395,True
@@ -529,7 +590,7 @@ San Bernardino,San Bernardino,071,2020-08-22,44603,691,36152,
 San Diego,San Diego,073,2020-08-22,36203,660,,
 San Francisco,San Francisco,075,2020-08-22,8791,74,,
 San Joaquin,San Joaquin,077,2020-08-22,15622,294,13859,True
-San Luis Obispo,San Luis Obispo,079,2020-08-22,2665,21,2183,True
+San Luis Obispo,San Luis Obispo,079,2020-08-22,2665,20,2183,True
 San Mateo,San Mateo,081,2020-08-22,7535,128,,
 Santa Barbara,Santa Barbara,083,2020-08-22,7653,87,7312,True
 Santa Clara,Santa Clara,085,2020-08-22,15688,224,,
@@ -551,7 +612,7 @@ Yuba,Yuba,115,2020-08-22,844,4,433,True
 Alameda,Alameda,001,2020-08-21,15985,228,,
 Berkeley,Alameda,001,2020-08-21,484,6,,
 Alpine,Alpine,003,2020-08-21,2,0,2,True
-Amador,Amador,005,2020-08-21,221,14,176,
+Amador,Amador,005,2020-08-21,221,13,176,
 Butte,Butte,007,2020-08-21,1555,17,1350,
 Calaveras,Calaveras,009,2020-08-21,197,2,168,
 Colusa,Colusa,011,2020-08-21,419,5,395,
@@ -590,7 +651,7 @@ San Bernardino,San Bernardino,071,2020-08-21,43943,629,35704,
 San Diego,San Diego,073,2020-08-21,35912,652,,
 San Francisco,San Francisco,075,2020-08-21,8702,72,,
 San Joaquin,San Joaquin,077,2020-08-21,15622,294,13859,
-San Luis Obispo,San Luis Obispo,079,2020-08-21,2665,21,2183,
+San Luis Obispo,San Luis Obispo,079,2020-08-21,2665,20,2183,
 San Mateo,San Mateo,081,2020-08-21,7472,128,,
 Santa Barbara,Santa Barbara,083,2020-08-21,7653,87,7312,
 Santa Clara,Santa Clara,085,2020-08-21,15496,222,,

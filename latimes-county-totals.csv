@@ -1,7 +1,65 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2020-08-30,Alameda,001,18040,258,193,11
+2020-08-31,Alameda,001,18187,257,147,0
+2020-08-31,Alpine,003,2,0,0,0
+2020-08-31,Amador,005,236,13,2,0
+2020-08-31,Butte,007,2026,23,178,0
+2020-08-31,Calaveras,009,236,2,0,0
+2020-08-31,Colusa,011,445,6,4,0
+2020-08-31,Contra Costa,013,13938,175,136,0
+2020-08-31,Del Norte,015,123,1,1,0
+2020-08-31,El Dorado,017,967,2,16,0
+2020-08-31,Fresno,019,24963,263,351,0
+2020-08-31,Glenn,021,453,3,13,0
+2020-08-31,Humboldt,023,388,4,20,0
+2020-08-31,Imperial,025,10719,293,52,0
+2020-08-31,Inyo,027,179,13,5,0
+2020-08-31,Kern,029,29324,286,94,0
+2020-08-31,Kings,031,6340,72,56,0
+2020-08-31,Lake,033,345,4,13,0
+2020-08-31,Lassen,035,715,0,0,0
+2020-08-31,Los Angeles,037,241808,5784,1053,15
+2020-08-31,Madera,039,3783,54,109,0
+2020-08-31,Marin,041,6164,96,24,1
+2020-08-31,Mariposa,043,71,2,0,0
+2020-08-31,Mendocino,045,704,17,8,0
+2020-08-31,Merced,047,8032,117,142,2
+2020-08-31,Modoc,049,12,0,2,0
+2020-08-31,Mono,051,162,2,0,0
+2020-08-31,Monterey,053,7980,58,130,2
+2020-08-31,Napa,055,1431,12,34,0
+2020-08-31,Nevada,057,446,5,11,0
+2020-08-31,Orange,059,48538,980,94,1
+2020-08-31,Placer,061,3003,33,30,1
+2020-08-31,Plumas,063,41,0,1,0
+2020-08-31,Riverside,065,52909,1019,1049,12
+2020-08-31,Sacramento,067,18052,293,902,19
+2020-08-31,San Benito,069,1097,8,7,0
+2020-08-31,San Bernardino,071,47642,716,269,0
+2020-08-31,San Diego,073,38604,682,304,0
+2020-08-31,San Francisco,075,9494,83,66,0
+2020-08-31,San Joaquin,077,17497,328,584,21
+2020-08-31,San Luis Obispo,079,2981,20,99,0
+2020-08-31,San Mateo,081,8169,131,95,0
+2020-08-31,Santa Barbara,083,8143,93,129,1
+2020-08-31,Santa Clara,085,17349,244,336,0
+2020-08-31,Santa Cruz,087,1744,7,8,0
+2020-08-31,Shasta,089,570,12,8,0
+2020-08-31,Sierra,091,6,0,0,0
+2020-08-31,Siskiyou,093,137,0,9,0
+2020-08-31,Solano,095,5512,47,124,1
+2020-08-31,Sonoma,097,5800,80,146,2
+2020-08-31,Stanislaus,099,14710,258,166,3
+2020-08-31,Sutter,101,1409,10,9,0
+2020-08-31,Tehama,103,412,1,0,0
+2020-08-31,Trinity,105,13,0,0,0
+2020-08-31,Tulare,107,14079,233,195,1
+2020-08-31,Tuolumne,109,182,2,1,0
+2020-08-31,Ventura,111,10653,116,307,1
+2020-08-31,Yolo,113,2424,52,38,0
+2020-08-31,Yuba,115,927,6,12,0
+2020-08-30,Alameda,001,18040,257,193,10
 2020-08-30,Alpine,003,2,0,0,0
-2020-08-30,Amador,005,234,14,0,0
+2020-08-30,Amador,005,234,13,0,0
 2020-08-30,Butte,007,1848,23,0,0
 2020-08-30,Calaveras,009,236,2,0,0
 2020-08-30,Colusa,011,441,6,0,0
@@ -38,7 +96,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-30,San Diego,073,38300,682,253,3
 2020-08-30,San Francisco,075,9428,83,79,0
 2020-08-30,San Joaquin,077,16913,307,0,0
-2020-08-30,San Luis Obispo,079,2882,21,0,0
+2020-08-30,San Luis Obispo,079,2882,20,0,0
 2020-08-30,San Mateo,081,8074,131,0,0
 2020-08-30,Santa Barbara,083,8014,92,0,0
 2020-08-30,Santa Clara,085,17013,244,0,0
@@ -49,17 +107,17 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-30,Solano,095,5388,46,0,0
 2020-08-30,Sonoma,097,5654,78,66,0
 2020-08-30,Stanislaus,099,14544,255,62,0
-2020-08-30,Sutter,101,1368,10,0,0
+2020-08-30,Sutter,101,1400,10,32,0
 2020-08-30,Tehama,103,412,1,0,0
 2020-08-30,Trinity,105,13,0,0,0
 2020-08-30,Tulare,107,13884,232,0,0
 2020-08-30,Tuolumne,109,181,2,0,0
 2020-08-30,Ventura,111,10346,115,0,0
 2020-08-30,Yolo,113,2386,52,51,1
-2020-08-30,Yuba,115,909,6,0,0
+2020-08-30,Yuba,115,915,6,0,0
 2020-08-29,Alameda,001,17847,247,0,0
 2020-08-29,Alpine,003,2,0,0,0
-2020-08-29,Amador,005,234,14,0,0
+2020-08-29,Amador,005,234,13,0,0
 2020-08-29,Butte,007,1848,23,0,0
 2020-08-29,Calaveras,009,236,2,0,0
 2020-08-29,Colusa,011,441,6,0,0
@@ -96,7 +154,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-29,San Diego,073,38047,679,263,3
 2020-08-29,San Francisco,075,9349,83,134,0
 2020-08-29,San Joaquin,077,16913,307,0,0
-2020-08-29,San Luis Obispo,079,2882,21,0,0
+2020-08-29,San Luis Obispo,079,2882,20,0,0
 2020-08-29,San Mateo,081,8074,131,96,0
 2020-08-29,Santa Barbara,083,8014,92,0,0
 2020-08-29,Santa Clara,085,17013,244,199,0
@@ -114,10 +172,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-29,Tuolumne,109,181,2,0,0
 2020-08-29,Ventura,111,10346,115,0,0
 2020-08-29,Yolo,113,2335,51,25,0
-2020-08-29,Yuba,115,909,6,0,0
+2020-08-29,Yuba,115,915,6,6,0
 2020-08-28,Alameda,001,17847,247,226,3
 2020-08-28,Alpine,003,2,0,0,0
-2020-08-28,Amador,005,234,14,2,0
+2020-08-28,Amador,005,234,13,2,0
 2020-08-28,Butte,007,1848,23,33,2
 2020-08-28,Calaveras,009,236,2,13,0
 2020-08-28,Colusa,011,441,6,2,0
@@ -154,7 +212,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-28,San Diego,073,37784,676,285,3
 2020-08-28,San Francisco,075,9215,83,66,1
 2020-08-28,San Joaquin,077,16913,307,140,2
-2020-08-28,San Luis Obispo,079,2882,21,40,0
+2020-08-28,San Luis Obispo,079,2882,20,40,0
 2020-08-28,San Mateo,081,7978,131,67,1
 2020-08-28,Santa Barbara,083,8014,92,63,1
 2020-08-28,Santa Clara,085,16814,244,207,4
@@ -175,7 +233,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-28,Yuba,115,909,6,9,0
 2020-08-27,Alameda,001,17621,244,236,1
 2020-08-27,Alpine,003,2,0,0,0
-2020-08-27,Amador,005,232,14,1,0
+2020-08-27,Amador,005,232,13,1,0
 2020-08-27,Butte,007,1815,21,71,0
 2020-08-27,Calaveras,009,223,2,0,0
 2020-08-27,Colusa,011,439,6,5,0
@@ -212,7 +270,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-27,San Diego,073,37499,673,277,5
 2020-08-27,San Francisco,075,9149,82,89,2
 2020-08-27,San Joaquin,077,16773,305,158,8
-2020-08-27,San Luis Obispo,079,2842,21,50,0
+2020-08-27,San Luis Obispo,079,2842,20,50,0
 2020-08-27,San Mateo,081,7911,130,62,0
 2020-08-27,Santa Barbara,083,7951,91,35,1
 2020-08-27,Santa Clara,085,16607,240,214,3
@@ -233,7 +291,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-27,Yuba,115,900,6,7,0
 2020-08-26,Alameda,001,17385,243,110,3
 2020-08-26,Alpine,003,2,0,0,0
-2020-08-26,Amador,005,231,14,5,0
+2020-08-26,Amador,005,231,13,5,0
 2020-08-26,Butte,007,1744,21,45,3
 2020-08-26,Calaveras,009,223,2,0,0
 2020-08-26,Colusa,011,434,6,5,1
@@ -270,7 +328,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-26,San Diego,073,37222,668,228,3
 2020-08-26,San Francisco,075,9060,80,79,3
 2020-08-26,San Joaquin,077,16615,297,70,0
-2020-08-26,San Luis Obispo,079,2792,21,23,0
+2020-08-26,San Luis Obispo,079,2792,20,23,0
 2020-08-26,San Mateo,081,7849,130,61,0
 2020-08-26,Santa Barbara,083,7916,90,47,1
 2020-08-26,Santa Clara,085,16393,237,87,4
@@ -291,7 +349,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-26,Yuba,115,893,6,10,1
 2020-08-25,Alameda,001,17275,240,542,6
 2020-08-25,Alpine,003,2,0,0,0
-2020-08-25,Amador,005,226,14,2,0
+2020-08-25,Amador,005,226,13,2,0
 2020-08-25,Butte,007,1699,18,35,0
 2020-08-25,Calaveras,009,223,2,26,0
 2020-08-25,Colusa,011,429,5,3,0
@@ -328,7 +386,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-25,San Diego,073,36994,665,267,5
 2020-08-25,San Francisco,075,8981,77,45,0
 2020-08-25,San Joaquin,077,16545,297,414,0
-2020-08-25,San Luis Obispo,079,2769,21,34,0
+2020-08-25,San Luis Obispo,079,2769,20,34,0
 2020-08-25,San Mateo,081,7788,130,118,2
 2020-08-25,Santa Barbara,083,7869,89,69,1
 2020-08-25,Santa Clara,085,16306,233,155,9
@@ -349,7 +407,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-25,Yuba,115,883,5,3,1
 2020-08-24,Alameda,001,16733,234,10,0
 2020-08-24,Alpine,003,2,0,0,0
-2020-08-24,Amador,005,224,14,3,0
+2020-08-24,Amador,005,224,13,3,0
 2020-08-24,Butte,007,1664,18,109,1
 2020-08-24,Calaveras,009,197,2,0,0
 2020-08-24,Colusa,011,426,5,7,0
@@ -386,7 +444,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-24,San Diego,073,36727,660,187,0
 2020-08-24,San Francisco,075,8936,77,65,0
 2020-08-24,San Joaquin,077,16131,297,509,3
-2020-08-24,San Luis Obispo,079,2735,21,70,0
+2020-08-24,San Luis Obispo,079,2735,20,70,0
 2020-08-24,San Mateo,081,7670,128,135,0
 2020-08-24,Santa Barbara,083,7800,88,147,1
 2020-08-24,Santa Clara,085,16151,224,140,0
@@ -407,7 +465,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-24,Yuba,115,880,4,21,0
 2020-08-23,Alameda,001,16723,234,27,0
 2020-08-23,Alpine,003,2,0,0,0
-2020-08-23,Amador,005,221,14,0,0
+2020-08-23,Amador,005,221,13,0,0
 2020-08-23,Butte,007,1555,17,0,0
 2020-08-23,Calaveras,009,197,2,0,0
 2020-08-23,Colusa,011,419,5,0,0
@@ -444,7 +502,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-23,San Diego,073,36540,660,337,0
 2020-08-23,San Francisco,075,8871,77,80,3
 2020-08-23,San Joaquin,077,15622,294,0,0
-2020-08-23,San Luis Obispo,079,2665,21,0,0
+2020-08-23,San Luis Obispo,079,2665,20,0,0
 2020-08-23,San Mateo,081,7535,128,0,0
 2020-08-23,Santa Barbara,083,7653,87,0,0
 2020-08-23,Santa Clara,085,16011,224,323,0
@@ -465,7 +523,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-23,Yuba,115,859,4,15,0
 2020-08-22,Alameda,001,16696,234,227,0
 2020-08-22,Alpine,003,2,0,0,0
-2020-08-22,Amador,005,221,14,0,0
+2020-08-22,Amador,005,221,13,0,0
 2020-08-22,Butte,007,1555,17,0,0
 2020-08-22,Calaveras,009,197,2,0,0
 2020-08-22,Colusa,011,419,5,0,0
@@ -502,7 +560,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-22,San Diego,073,36203,660,291,8
 2020-08-22,San Francisco,075,8791,74,89,2
 2020-08-22,San Joaquin,077,15622,294,0,0
-2020-08-22,San Luis Obispo,079,2665,21,0,0
+2020-08-22,San Luis Obispo,079,2665,20,0,0
 2020-08-22,San Mateo,081,7535,128,63,0
 2020-08-22,Santa Barbara,083,7653,87,0,0
 2020-08-22,Santa Clara,085,15688,224,192,2
@@ -523,7 +581,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-22,Yuba,115,844,4,0,0
 2020-08-21,Alameda,001,16469,234,285,0
 2020-08-21,Alpine,003,2,0,0,0
-2020-08-21,Amador,005,221,14,1,1
+2020-08-21,Amador,005,221,13,1,0
 2020-08-21,Butte,007,1555,17,18,0
 2020-08-21,Calaveras,009,197,2,16,1
 2020-08-21,Colusa,011,419,5,1,0
@@ -560,7 +618,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-21,San Diego,073,35912,652,304,8
 2020-08-21,San Francisco,075,8702,72,91,0
 2020-08-21,San Joaquin,077,15622,294,130,6
-2020-08-21,San Luis Obispo,079,2665,21,52,1
+2020-08-21,San Luis Obispo,079,2665,20,52,0
 2020-08-21,San Mateo,081,7472,128,90,1
 2020-08-21,Santa Barbara,083,7653,87,75,3
 2020-08-21,Santa Clara,085,15496,222,238,5
