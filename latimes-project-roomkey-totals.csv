@@ -1,4 +1,5 @@
 date,people_housed,leased_rooms,rooms_ready_to_occupy,rooms_occupied,homeless_confirmed_cases
+2020-09-01,4318,4117,4177,3728,1589
 2020-08-31,4309,4117,4117,3732,1583
 2020-08-30,4282,4117,4117,3723,1564
 2020-08-29,4282,4117,4117,3723,1564
@@ -151,4 +152,3 @@ date,people_housed,leased_rooms,rooms_ready_to_occupy,rooms_occupied,homeless_co
 2020-04-04,0,732,136,0,
 2020-04-03,0,732,136,0,
 2020-04-02,,515,,,
-,,,,,
