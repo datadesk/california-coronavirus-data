@@ -22,6 +22,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-adult-and-senior-care-facilities.csv](#cdph-adult-and-senior-care-facilitiescsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
+- [cdcr-state_totals.csv](#cdcr-state-totalscsv)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
@@ -334,6 +335,16 @@ This file records the current tier of each county by day. The definition for eac
 | `county` | string  | The name of the county.                                                                                                                                                              |
 | `fips`   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `tier`   | integer | The tier the county was classified in on this `date`. There are four possible values on an ordinal scale with one being the most restrictive and four the least restrictive.         |
+
+### [cdcr-state_totals.csv](./cdcr-state_totals.csv)
+
+| field                 | type    | description                                                                                                                                                                          |
+| --------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                                                    |
+| `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                                                                                                          |
+| `active_cases`        | integer | The number of active coronavirus case at that time.                                                                                                                      |
+
 
 ### [latimes-project-roomkey-totals.csv](./latimes-project-roomkey-totals.csv)
 
