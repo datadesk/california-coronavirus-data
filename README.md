@@ -23,6 +23,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
 - [cdcr-state-totals.csv](#cdcr-state-totalscsv)
+- [cdcr-prison-totals.csv](#cdcr-prison-totalscsv)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
@@ -338,13 +339,37 @@ This file records the current tier of each county by day. The definition for eac
 
 ### [cdcr-state-totals.csv](./cdcr-state-totals.csv)
 
+The total number of cases amoung inmates at prisons run by the California Department of Corrections and Rehabiliation.
+
+| field                 | type    | description                                                                                         |
+| --------------------- | ------- | --------------------------------------------------------------------------------------------------- |
+| `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
+| `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                   |
+| `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                         |
+| `active_cases`        | integer | The number of active coronavirus case at that time.                                                 |
+
+### [cdcr-prison-totals.csv](./cdcr-prison-totals.csv)
+
+The cases, resolutions and deaths among inmates at the individual prison facilities operated by the California Department of Corrections and Rehabilitation.
+
 | field                 | type    | description                                                                                                                                                                          |
 | --------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `code`                | string  | The unique identifier of the prison institution.                                                                                                                                     |
+| `name`                | string  | The name of the prison institution.                                                                                                                                                  |
+| `city`                | string  | The city where the prison institution is located.                                                                                                                                    |
+| `county`              | string  | The county where the prison institution is located.                                                                                                                                  |
+| `fips`                | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `zipcode`             | string  | The [ZIP Code](https://en.wikipedia.org/wiki/ZIP_Code) where the agency is located.                                                                  |
+| `x`                   | float   | The longitude of the area's centroid.                                                                                                                                                |
+| `y`                   | float   | The latitude of the area's centroid.                                                                                                                                                 |
 | `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                                                    |
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                                                                                                          |
-| `active_cases`        | integer | The number of active coronavirus case at that time.                                                                                                                      |
-
+| `active_cases`        | integer | The number of active coronavirus case at that time.                                                                                                                                  |
+| `released_cases`      | integer | The number of active coronavirus cases released from the prison at that time.                                                                                                        |
+| `resolved_cases`      | integer | The number of coronavirus case where the patient ultimately recovered or had their cases otherwise resolved at that time.                                                            |
+| `deaths`              | integer | The cumulative number of deaths at that time.                                                                                                                                        |
+| `new_deaths`          | integer | The net change in deaths over the previous `date`.                                                                                                                                   |
 
 ### [latimes-project-roomkey-totals.csv](./latimes-project-roomkey-totals.csv)
 
@@ -392,8 +417,8 @@ A GeoJSON file mapping out statistical tabulation areas created by the Los Angel
 | `city`       | string  | The name of the area's municipal parent, if it has one.               |
 | `community`  | string  | The name of the area.                                                 |
 | `label`      | boolean | A combination of the area's name and city. Creates a unique string.   |
-| `centroid_x` | string  | The longitude of the area's centroid.                                 |
-| `centroid_y` | string  | The latitude of the area's centroid.                                  |
+| `centroid_x` | float   | The longitude of the area's centroid.                                 |
+| `centroid_y` | float   | The latitude of the area's centroid.                                  |
 
 ## Getting started
 
