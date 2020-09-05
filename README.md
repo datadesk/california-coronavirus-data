@@ -352,6 +352,8 @@ The total number of cases amoung inmates at prisons run by the California Depart
 
 The cases, resolutions and deaths among inmates at the individual prison facilities operated by the California Department of Corrections and Rehabilitation.
 
+The data is currently limited to July 22, 2020, forward.
+
 | field                 | type    | description                                                                                                                                                                          |
 | --------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
