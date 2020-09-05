@@ -22,7 +22,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-adult-and-senior-care-facilities.csv](#cdph-adult-and-senior-care-facilitiescsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
-- [cdcr-state_totals.csv](#cdcr-state-totalscsv)
+- [cdcr-state-totals.csv](#cdcr-state-totalscsv)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
@@ -336,7 +336,7 @@ This file records the current tier of each county by day. The definition for eac
 | `fips`   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `tier`   | integer | The tier the county was classified in on this `date`. There are four possible values on an ordinal scale with one being the most restrictive and four the least restrictive.         |
 
-### [cdcr-state_totals.csv](./cdcr-state_totals.csv)
+### [cdcr-state-totals.csv](./cdcr-state-totals.csv)
 
 | field                 | type    | description                                                                                                                                                                          |
 | --------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
