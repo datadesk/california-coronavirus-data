@@ -1,0 +1,1576 @@
+date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,active_cases,released_cases,resolved_cases,deaths,new_deaths
+2020-07-22,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1064,,116,38,906,4,
+2020-07-23,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1065,1,115,39,907,4,0
+2020-07-24,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1090,25,137,39,910,4,0
+2020-07-25,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1090,0,137,39,910,4,0
+2020-07-26,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1090,0,137,39,910,4,0
+2020-07-27,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1159,69,203,39,912,5,1
+2020-07-28,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1159,0,202,40,912,5,0
+2020-07-29,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1159,0,202,40,912,5,0
+2020-07-30,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1352,193,381,52,914,5,0
+2020-07-31,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1354,2,379,53,917,5,0
+2020-08-01,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1354,0,379,53,917,5,0
+2020-08-02,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1354,0,379,53,917,5,0
+2020-08-03,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1402,48,355,53,989,5,0
+2020-08-04,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1412,10,341,53,1013,5,0
+2020-08-05,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1429,17,337,53,1034,5,0
+2020-08-06,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1480,51,383,53,1039,5,0
+2020-08-07,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1482,2,384,54,1039,5,0
+2020-08-08,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1483,1,378,54,1046,5,0
+2020-08-09,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1483,0,360,54,1064,5,0
+2020-08-10,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1493,10,338,55,1095,5,0
+2020-08-11,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1499,6,337,55,1102,5,0
+2020-08-12,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1508,9,174,55,1274,5,0
+2020-08-13,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1508,0,156,56,1291,5,0
+2020-08-14,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1509,1,157,56,1291,5,0
+2020-08-15,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1572,63,215,56,1296,5,0
+2020-08-16,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1602,30,201,56,1340,5,0
+2020-08-17,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1602,0,201,56,1340,5,0
+2020-08-18,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1602,0,191,56,1350,5,0
+2020-08-19,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1603,1,189,58,1351,5,0
+2020-08-20,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1605,2,130,58,1412,5,0
+2020-08-21,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1605,0,123,59,1418,5,0
+2020-08-22,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1752,147,251,59,1437,5,0
+2020-08-23,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1752,0,249,59,1439,5,0
+2020-08-24,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1758,6,255,59,1439,5,0
+2020-08-25,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1760,2,256,59,1440,5,0
+2020-08-26,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1768,8,184,59,1520,5,0
+2020-08-27,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1769,1,184,59,1521,5,0
+2020-08-28,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1799,30,214,59,1521,5,0
+2020-08-29,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1867,68,280,59,1523,5,0
+2020-08-30,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1867,0,267,60,1535,5,0
+2020-08-31,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1875,8,275,60,1535,5,0
+2020-09-01,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1917,42,316,61,1535,5,0
+2020-09-02,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1926,9,321,61,1539,5,0
+2020-09-03,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,1927,1,321,61,1540,5,0
+2020-09-04,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,2078,151,472,61,1540,5,0
+2020-07-22,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,,0,0,1,0,
+2020-07-23,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-24,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-25,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-26,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-27,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-28,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-29,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-30,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-07-31,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-01,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-02,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-03,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-04,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-05,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-06,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-07,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-08,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-09,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-10,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-12,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-13,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-14,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-15,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-16,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-17,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1,0,0,0,1,0,0
+2020-08-18,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,2,2,0,1,0,0
+2020-08-19,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,0,2,0,1,0,0
+2020-08-20,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,0,2,0,1,0,0
+2020-08-21,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,0,2,0,1,0,0
+2020-08-22,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,0,2,0,1,0,0
+2020-08-23,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,0,2,0,1,0,0
+2020-08-24,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,0,2,0,1,0,0
+2020-08-25,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,3,0,2,0,1,0,0
+2020-08-26,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,1,2,0,2,0,0
+2020-08-27,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,2,0,2,0,0
+2020-08-28,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,2,0,2,0,0
+2020-08-29,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,2,0,2,0,0
+2020-08-30,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,2,0,2,0,0
+2020-08-31,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,2,0,2,0,0
+2020-09-01,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,0,0,4,0,0
+2020-09-02,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,0,0,4,0,0
+2020-09-03,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,0,0,4,0,0
+2020-09-04,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,4,0,0,0,4,0,0
+2020-07-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,495,,264,17,214,0,
+2020-07-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,498,3,266,17,215,0,0
+2020-07-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,511,13,263,17,231,0,0
+2020-07-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,511,0,263,17,231,0,0
+2020-07-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,511,0,263,17,231,0,0
+2020-07-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,519,8,251,18,250,0,0
+2020-07-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,523,4,197,19,307,0,0
+2020-07-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,523,0,164,19,340,0,0
+2020-07-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,556,33,144,28,384,0,0
+2020-07-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,560,4,129,29,402,0,0
+2020-08-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,560,0,129,29,402,0,0
+2020-08-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,560,0,129,29,402,0,0
+2020-08-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,585,25,154,29,402,0,0
+2020-08-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,592,7,141,30,421,0,0
+2020-08-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,592,0,121,30,441,0,0
+2020-08-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,593,1,119,30,444,0,0
+2020-08-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,596,3,122,30,444,0,0
+2020-08-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,597,1,99,31,467,0,0
+2020-08-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,622,25,123,32,467,0,0
+2020-08-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,637,15,138,32,467,0,0
+2020-08-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,637,0,92,31,514,0,0
+2020-08-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,645,8,80,33,532,0,0
+2020-08-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,644,-1,60,32,552,0,0
+2020-08-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,644,0,60,32,552,0,0
+2020-08-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,650,6,57,32,561,0,0
+2020-08-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,1,58,32,561,0,0
+2020-08-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,58,32,561,0,0
+2020-08-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,58,32,561,0,0
+2020-08-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,58,32,561,0,0
+2020-08-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,58,32,561,0,0
+2020-08-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,41,32,578,0,0
+2020-08-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,657,6,22,32,603,0,0
+2020-08-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,2,23,33,603,0,0
+2020-08-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,23,33,603,0,0
+2020-08-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,23,33,603,0,0
+2020-08-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,18,33,608,0,0
+2020-08-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,660,1,13,33,614,0,0
+2020-08-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,-1,12,33,614,0,0
+2020-08-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,11,33,615,0,0
+2020-08-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,11,33,615,0,0
+2020-08-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,11,33,615,0,0
+2020-09-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,11,33,615,0,0
+2020-09-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,8,33,618,0,0
+2020-09-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,8,33,618,0,0
+2020-09-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,0,33,626,0,0
+2020-07-22,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,329,,239,23,67,0,
+2020-07-23,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,372,43,274,23,75,0,0
+2020-07-24,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,408,36,300,24,84,0,0
+2020-07-25,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,408,0,300,24,84,0,0
+2020-07-26,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,408,0,300,24,84,0,0
+2020-07-27,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,442,34,254,24,164,0,0
+2020-07-28,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,442,0,238,24,180,0,0
+2020-07-29,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,446,4,204,25,217,0,0
+2020-07-30,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,454,8,190,26,238,0,0
+2020-07-31,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,552,98,231,43,278,0,0
+2020-08-01,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,552,0,231,43,278,0,0
+2020-08-02,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,552,0,231,43,278,0,0
+2020-08-03,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,570,18,245,43,282,0,0
+2020-08-04,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,572,2,154,45,373,0,0
+2020-08-05,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,574,2,151,45,378,0,0
+2020-08-06,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,600,26,156,45,399,0,0
+2020-08-07,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,622,22,178,45,399,0,0
+2020-08-08,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,630,8,186,45,399,0,0
+2020-08-09,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,630,0,186,45,399,0,0
+2020-08-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,632,2,188,45,399,0,0
+2020-08-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,632,0,182,45,405,0,0
+2020-08-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,634,2,85,45,504,0,0
+2020-08-13,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,672,38,122,46,504,0,0
+2020-08-14,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,753,81,203,46,504,0,0
+2020-08-15,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,763,10,213,46,504,0,0
+2020-08-16,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,779,16,227,48,504,0,0
+2020-08-17,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,779,0,216,48,515,0,0
+2020-08-18,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,779,0,209,48,522,0,0
+2020-08-19,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,779,0,208,48,523,0,0
+2020-08-20,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,778,-1,160,48,570,0,0
+2020-08-21,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,779,1,153,49,577,0,0
+2020-08-22,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,787,8,161,49,577,0,0
+2020-08-23,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,793,6,167,49,577,0,0
+2020-08-24,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,793,0,166,50,577,0,0
+2020-08-25,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,793,0,163,50,580,0,0
+2020-08-26,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,793,0,162,51,580,0,0
+2020-08-27,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,793,0,50,51,692,0,0
+2020-08-28,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,795,2,32,51,712,0,0
+2020-08-29,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,795,0,28,51,716,0,0
+2020-08-30,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,795,0,28,51,716,0,0
+2020-08-31,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,797,2,30,51,716,0,0
+2020-09-01,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,797,0,22,51,724,0,0
+2020-09-02,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,797,0,22,51,724,0,0
+2020-09-03,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,797,0,19,51,727,0,0
+2020-09-04,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,798,1,9,51,738,0,0
+2020-07-22,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,,3,0,0,0,
+2020-07-23,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-24,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-25,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-26,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-27,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-28,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-29,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-30,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-07-31,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-08-01,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-08-02,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-08-03,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,3,0,0,0,0
+2020-08-04,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,1,0,2,0,0
+2020-08-05,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,1,0,2,0,0
+2020-08-06,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,3,0,1,0,2,0,0
+2020-08-07,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,1,2,0,2,0,0
+2020-08-08,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,2,0,2,0,0
+2020-08-09,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,2,0,2,0,0
+2020-08-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,2,0,2,0,0
+2020-08-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,2,0,2,0,0
+2020-08-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-13,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-14,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-15,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-16,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-17,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-18,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-19,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-20,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-21,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,1,0,3,0,0
+2020-08-22,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,0,0,4,0,0
+2020-08-23,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,0,0,4,0,0
+2020-08-24,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,0,0,4,0,0
+2020-08-25,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,4,0,0,0,4,0,0
+2020-08-26,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,1,1,0,4,0,0
+2020-08-27,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-08-28,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-08-29,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-08-30,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-08-31,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-09-01,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-09-02,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-09-03,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,5,0,1,0,4,0,0
+2020-09-04,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,6,1,2,0,4,0,0
+2020-07-22,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1021,,84,31,887,19,
+2020-07-23,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1022,1,80,31,892,19,0
+2020-07-24,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1027,5,82,31,895,19,0
+2020-07-25,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1027,0,82,31,895,19,0
+2020-07-26,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1027,0,82,31,895,19,0
+2020-07-27,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1045,18,99,31,896,19,0
+2020-07-28,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1047,2,81,32,915,19,0
+2020-07-29,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1050,3,36,33,962,19,0
+2020-07-30,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1067,17,53,33,962,19,0
+2020-07-31,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1068,1,34,33,982,19,0
+2020-08-01,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1068,0,34,33,982,19,0
+2020-08-02,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1068,0,34,33,982,19,0
+2020-08-03,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1072,4,38,33,982,19,0
+2020-08-04,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1073,1,23,32,999,19,0
+2020-08-05,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1081,8,31,32,999,19,0
+2020-08-06,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1085,4,35,32,999,19,0
+2020-08-07,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1085,0,35,32,999,19,0
+2020-08-08,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1095,10,44,32,1000,19,0
+2020-08-09,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1096,1,45,32,1000,19,0
+2020-08-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1096,0,45,32,1000,19,0
+2020-08-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1096,0,39,32,1006,19,0
+2020-08-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1103,7,42,32,1010,19,0
+2020-08-13,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1103,0,40,32,1012,19,0
+2020-08-14,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1104,1,41,32,1012,19,0
+2020-08-15,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1104,0,40,32,1012,20,1
+2020-08-16,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1104,0,40,32,1012,20,0
+2020-08-17,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1104,0,40,32,1012,20,0
+2020-08-18,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1104,0,40,32,1012,20,0
+2020-08-19,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1105,1,29,32,1024,20,0
+2020-08-20,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1106,1,30,32,1024,20,0
+2020-08-21,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1106,0,30,32,1024,20,0
+2020-08-22,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1106,0,18,32,1036,20,0
+2020-08-23,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1106,0,17,32,1036,21,1
+2020-08-24,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1106,0,17,32,1036,21,0
+2020-08-25,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1106,0,10,32,1043,21,0
+2020-08-26,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1109,3,12,32,1044,21,0
+2020-08-27,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1110,1,13,32,1044,21,0
+2020-08-28,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1110,0,13,32,1044,21,0
+2020-08-29,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1110,0,13,32,1044,21,0
+2020-08-30,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1110,0,13,32,1044,21,0
+2020-08-31,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1110,0,13,32,1044,21,0
+2020-09-01,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1109,-1,12,32,1044,21,0
+2020-09-02,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1113,4,14,32,1046,21,0
+2020-09-03,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1113,0,14,32,1046,21,0
+2020-09-04,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1114,1,15,32,1046,21,0
+2020-07-22,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,181,,17,0,163,1,
+2020-07-23,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,246,65,82,0,163,1,0
+2020-07-24,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,281,35,117,0,163,1,0
+2020-07-25,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,281,0,117,0,163,1,0
+2020-07-26,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,281,0,117,0,163,1,0
+2020-07-27,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,290,9,126,0,163,1,0
+2020-07-28,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,290,0,125,1,163,1,0
+2020-07-29,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,291,1,124,3,163,1,0
+2020-07-30,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,325,34,149,9,166,1,0
+2020-07-31,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,325,0,147,9,168,1,0
+2020-08-01,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,325,0,147,9,168,1,0
+2020-08-02,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,325,0,147,9,168,1,0
+2020-08-03,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,328,3,149,9,169,1,0
+2020-08-04,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,328,0,149,10,168,1,0
+2020-08-05,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,341,13,163,10,167,1,0
+2020-08-06,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,343,2,157,10,175,1,0
+2020-08-07,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,344,1,158,10,175,1,0
+2020-08-08,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,344,0,147,10,186,1,0
+2020-08-09,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,344,0,147,10,186,1,0
+2020-08-10,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,345,1,148,10,186,1,0
+2020-08-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,345,0,115,10,219,1,0
+2020-08-12,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,343,-2,57,11,274,1,0
+2020-08-13,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,349,6,51,11,286,1,0
+2020-08-14,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,349,0,51,11,286,1,0
+2020-08-15,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,349,0,46,11,291,1,0
+2020-08-16,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,349,0,46,11,291,1,0
+2020-08-17,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,349,0,45,11,292,1,0
+2020-08-18,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,349,0,44,10,294,1,0
+2020-08-19,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,351,2,29,10,311,1,0
+2020-08-20,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,2,29,10,313,1,0
+2020-08-21,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,29,10,313,1,0
+2020-08-22,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,24,10,318,1,0
+2020-08-23,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,24,10,318,1,0
+2020-08-24,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,24,10,318,1,0
+2020-08-25,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,23,10,319,1,0
+2020-08-26,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,12,10,330,1,0
+2020-08-27,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,12,10,330,1,0
+2020-08-28,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,4,10,338,1,0
+2020-08-29,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,4,10,338,1,0
+2020-08-30,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,4,10,338,1,0
+2020-08-31,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,4,10,338,1,0
+2020-09-01,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,4,10,338,1,0
+2020-09-02,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,4,10,338,1,0
+2020-09-03,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,353,0,2,10,340,1,0
+2020-09-04,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,351,-2,0,10,340,1,0
+2020-07-22,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,,3,0,0,0,
+2020-07-23,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-24,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-25,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-26,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-27,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-28,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-29,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-30,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-07-31,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-08-01,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-08-02,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-08-03,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-08-04,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,3,0,3,0,0,0,0
+2020-08-05,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,5,2,5,0,0,0,0
+2020-08-06,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,5,0,5,0,0,0,0
+2020-08-07,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,5,0,5,0,0,0,0
+2020-08-08,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,5,0,5,0,0,0,0
+2020-08-09,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,5,0,5,0,0,0,0
+2020-08-10,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,5,0,5,0,0,0,0
+2020-08-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,1,6,0,0,0,0
+2020-08-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,5,0,1,0,0
+2020-08-13,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,5,0,1,0,0
+2020-08-14,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,5,0,1,0,0
+2020-08-15,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,2,0,4,0,0
+2020-08-16,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,2,0,4,0,0
+2020-08-17,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,2,0,4,0,0
+2020-08-18,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-19,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-20,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-21,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-22,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-23,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-24,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-25,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,6,0,1,0,5,0,0
+2020-08-26,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,7,1,2,0,5,0,0
+2020-08-27,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,7,0,2,0,5,0,0
+2020-08-28,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,1,2,0,6,0,0
+2020-08-29,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,0,2,0,6,0,0
+2020-08-30,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,0,2,0,6,0,0
+2020-08-31,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,0,2,0,6,0,0
+2020-09-01,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,0,2,0,6,0,0
+2020-09-02,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,0,2,0,6,0,0
+2020-09-03,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,0,2,0,6,0,0
+2020-09-04,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,8,0,2,0,6,0,0
+2020-07-22,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,,0,0,11,0,
+2020-07-23,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-24,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-25,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-26,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-27,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-28,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-29,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-30,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,11,0,0,0,11,0,0
+2020-07-31,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,12,1,1,0,11,0,0
+2020-08-01,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,12,0,1,0,11,0,0
+2020-08-02,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,12,0,1,0,11,0,0
+2020-08-03,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,52,40,41,0,11,0,0
+2020-08-04,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,58,6,47,0,11,0,0
+2020-08-05,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,88,30,77,0,11,0,0
+2020-08-06,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,98,10,87,0,11,0,0
+2020-08-07,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,109,11,97,1,11,0,0
+2020-08-08,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,111,2,99,1,11,0,0
+2020-08-09,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,113,2,101,1,11,0,0
+2020-08-10,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,117,4,104,2,11,0,0
+2020-08-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,117,0,104,2,11,0,0
+2020-08-12,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,121,4,108,2,11,0,0
+2020-08-13,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,194,73,181,2,11,0,0
+2020-08-14,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,196,2,183,2,11,0,0
+2020-08-15,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,221,25,207,3,11,0,0
+2020-08-16,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,225,4,211,3,11,0,0
+2020-08-17,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,225,0,211,3,11,0,0
+2020-08-18,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,224,-1,210,3,11,0,0
+2020-08-19,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,225,1,210,3,12,0,0
+2020-08-20,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,234,9,219,3,12,0,0
+2020-08-21,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,240,6,225,3,12,0,0
+2020-08-22,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,244,4,227,5,12,0,0
+2020-08-23,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,244,0,227,5,12,0,0
+2020-08-24,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,244,0,227,5,12,0,0
+2020-08-25,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,244,0,164,5,75,0,0
+2020-08-26,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,244,0,163,6,75,0,0
+2020-08-27,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,244,0,156,6,82,0,0
+2020-08-28,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,271,27,166,6,99,0,0
+2020-08-29,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,271,0,164,6,101,0,0
+2020-08-30,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,271,0,164,6,101,0,0
+2020-08-31,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,271,0,164,6,101,0,0
+2020-09-01,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,271,0,148,6,117,0,0
+2020-09-02,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,271,0,110,6,155,0,0
+2020-09-03,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,271,0,103,6,161,1,1
+2020-09-04,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,274,3,64,6,203,1,0
+2020-07-22,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,323,,99,9,215,0,
+2020-07-23,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,331,8,63,9,259,0,0
+2020-07-24,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,367,36,97,9,261,0,0
+2020-07-25,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,367,0,97,9,261,0,0
+2020-07-26,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,367,0,97,9,261,0,0
+2020-07-27,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,369,2,97,9,263,0,0
+2020-07-28,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,370,1,63,9,298,0,0
+2020-07-29,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,380,10,73,9,298,0,0
+2020-07-30,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,381,1,73,9,299,0,0
+2020-07-31,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,385,4,64,9,312,0,0
+2020-08-01,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,385,0,64,9,312,0,0
+2020-08-02,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,385,0,64,9,312,0,0
+2020-08-03,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,385,0,60,11,314,0,0
+2020-08-04,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,385,0,53,11,321,0,0
+2020-08-05,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,391,6,25,11,355,0,0
+2020-08-06,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,396,5,30,11,355,0,0
+2020-08-07,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,396,0,30,11,355,0,0
+2020-08-08,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,396,0,30,11,355,0,0
+2020-08-09,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,396,0,30,11,355,0,0
+2020-08-10,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,397,1,31,11,355,0,0
+2020-08-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,397,0,17,11,369,0,0
+2020-08-12,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,404,7,20,11,373,0,0
+2020-08-13,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,429,25,44,12,373,0,0
+2020-08-14,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,442,13,57,12,373,0,0
+2020-08-15,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,447,5,60,13,374,0,0
+2020-08-16,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,452,5,65,13,374,0,0
+2020-08-17,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,452,0,65,13,374,0,0
+2020-08-18,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,454,2,62,13,379,0,0
+2020-08-19,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,470,16,74,14,382,0,0
+2020-08-20,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,470,0,71,14,385,0,0
+2020-08-21,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,476,6,77,14,385,0,0
+2020-08-22,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,481,5,82,14,385,0,0
+2020-08-23,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,481,0,82,14,385,0,0
+2020-08-24,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,481,0,81,15,385,0,0
+2020-08-25,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,482,1,78,15,389,0,0
+2020-08-26,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,514,32,105,15,394,0,0
+2020-08-27,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,522,8,72,15,435,0,0
+2020-08-28,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,553,31,103,15,435,0,0
+2020-08-29,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,578,25,126,16,436,0,0
+2020-08-30,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,578,0,126,16,436,0,0
+2020-08-31,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,582,4,129,17,436,0,0
+2020-09-01,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,597,15,128,17,452,0,0
+2020-09-02,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,600,3,130,17,453,0,0
+2020-09-03,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,611,11,135,17,459,0,0
+2020-09-04,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,620,9,137,20,463,0,0
+2020-07-22,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,32,,18,0,14,0,
+2020-07-23,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,33,1,19,0,14,0,0
+2020-07-24,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,36,3,20,0,16,0,0
+2020-07-25,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,36,0,20,0,16,0,0
+2020-07-26,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,36,0,20,0,16,0,0
+2020-07-27,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,36,0,19,0,17,0,0
+2020-07-28,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,36,0,19,0,17,0,0
+2020-07-29,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,37,1,20,0,17,0,0
+2020-07-30,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,2,22,0,17,0,0
+2020-07-31,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,21,0,18,0,0
+2020-08-01,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,21,0,18,0,0
+2020-08-02,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,21,0,18,0,0
+2020-08-03,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,21,0,18,0,0
+2020-08-04,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,17,0,22,0,0
+2020-08-05,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,14,0,25,0,0
+2020-08-06,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,14,0,25,0,0
+2020-08-07,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,14,0,25,0,0
+2020-08-08,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,14,0,25,0,0
+2020-08-09,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,14,0,25,0,0
+2020-08-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,13,1,25,0,0
+2020-08-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,11,1,27,0,0
+2020-08-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,10,1,28,0,0
+2020-08-13,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,10,1,28,0,0
+2020-08-14,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,10,1,28,0,0
+2020-08-15,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,39,0,10,1,28,0,0
+2020-08-16,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,17,25,2,29,0,0
+2020-08-17,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,58,2,25,2,31,0,0
+2020-08-18,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,-2,23,2,31,0,0
+2020-08-19,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,0,23,2,31,0,0
+2020-08-20,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,0,21,2,33,0,0
+2020-08-21,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,0,21,2,33,0,0
+2020-08-22,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,0,21,2,33,0,0
+2020-08-23,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,0,18,2,36,0,0
+2020-08-24,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,0,18,2,36,0,0
+2020-08-25,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,56,0,18,2,36,0,0
+2020-08-26,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,57,1,19,2,36,0,0
+2020-08-27,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,57,0,17,2,38,0,0
+2020-08-28,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,57,0,17,2,38,0,0
+2020-08-29,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,61,4,21,2,38,0,0
+2020-08-30,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,61,0,21,2,38,0,0
+2020-08-31,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,61,0,20,3,38,0,0
+2020-09-01,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,61,0,20,3,38,0,0
+2020-09-02,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,61,0,20,3,38,0,0
+2020-09-03,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,61,0,18,3,40,0,0
+2020-09-04,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,61,0,18,3,40,0,0
+2020-07-22,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,164,,9,0,154,1,
+2020-07-23,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,164,0,9,0,154,1,0
+2020-07-24,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,164,0,9,0,154,1,0
+2020-07-25,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,164,0,9,0,154,1,0
+2020-07-26,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,164,0,9,0,154,1,0
+2020-07-27,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,173,9,17,0,155,1,0
+2020-07-28,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,173,0,17,0,155,1,0
+2020-07-29,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,173,0,16,0,156,1,0
+2020-07-30,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,180,7,23,0,156,1,0
+2020-07-31,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,182,2,21,0,160,1,0
+2020-08-01,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,182,0,21,0,160,1,0
+2020-08-02,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,182,0,21,0,160,1,0
+2020-08-03,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,186,4,22,2,161,1,0
+2020-08-04,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,186,0,21,2,162,1,0
+2020-08-05,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,197,11,32,2,162,1,0
+2020-08-06,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,202,5,37,2,162,1,0
+2020-08-07,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,208,6,43,2,162,1,0
+2020-08-08,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,212,4,47,2,162,1,0
+2020-08-09,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,212,0,47,2,162,1,0
+2020-08-10,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,212,0,47,2,162,1,0
+2020-08-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,215,3,50,2,162,1,0
+2020-08-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,218,3,45,2,170,1,0
+2020-08-13,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,263,45,90,2,170,1,0
+2020-08-14,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,277,14,104,2,170,1,0
+2020-08-15,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,289,12,113,2,173,1,0
+2020-08-16,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,328,39,152,2,173,1,0
+2020-08-17,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,330,2,154,2,173,1,0
+2020-08-18,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,335,5,156,2,176,1,0
+2020-08-19,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,339,4,155,2,181,1,0
+2020-08-20,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,340,1,156,2,181,1,0
+2020-08-21,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,345,5,160,2,182,1,0
+2020-08-22,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,348,3,141,2,204,1,0
+2020-08-23,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,348,0,141,2,204,1,0
+2020-08-24,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,349,1,142,2,204,1,0
+2020-08-25,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,349,0,131,2,215,1,0
+2020-08-26,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,352,3,124,2,225,1,0
+2020-08-27,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,1,121,2,229,1,0
+2020-08-28,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,0,35,2,315,1,0
+2020-08-29,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,0,35,2,315,1,0
+2020-08-30,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,0,35,2,315,1,0
+2020-08-31,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,0,35,2,315,1,0
+2020-09-01,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,0,9,2,341,1,0
+2020-09-02,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,0,9,2,341,1,0
+2020-09-03,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,353,0,7,2,343,1,0
+2020-09-04,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,354,1,8,2,343,1,0
+2020-07-22,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,,7,1,127,0,
+2020-07-23,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,7,1,127,0,0
+2020-07-24,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,7,1,127,0,0
+2020-07-25,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,7,1,127,0,0
+2020-07-26,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,7,1,127,0,0
+2020-07-27,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,5,1,129,0,0
+2020-07-28,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,5,1,129,0,0
+2020-07-29,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,5,1,129,0,0
+2020-07-30,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,5,1,129,0,0
+2020-07-31,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,2,1,132,0,0
+2020-08-01,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,2,1,132,0,0
+2020-08-02,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,135,0,2,1,132,0,0
+2020-08-03,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,1,3,1,132,0,0
+2020-08-04,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,2,1,133,0,0
+2020-08-05,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,2,1,133,0,0
+2020-08-06,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,2,1,133,0,0
+2020-08-07,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,2,1,133,0,0
+2020-08-08,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,1,1,134,0,0
+2020-08-09,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,1,1,134,0,0
+2020-08-10,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,1,1,134,0,0
+2020-08-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,1,1,134,0,0
+2020-08-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,136,0,0,1,135,0,0
+2020-08-13,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,137,1,1,1,135,0,0
+2020-08-14,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,137,0,1,1,135,0,0
+2020-08-15,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,138,1,2,1,135,0,0
+2020-08-16,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,138,0,2,1,135,0,0
+2020-08-17,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,138,0,2,1,135,0,0
+2020-08-18,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,145,7,9,1,135,0,0
+2020-08-19,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,146,1,10,1,135,0,0
+2020-08-20,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,147,1,11,1,135,0,0
+2020-08-21,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,148,1,12,1,135,0,0
+2020-08-22,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,154,6,18,1,135,0,0
+2020-08-23,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,168,14,32,1,135,0,0
+2020-08-24,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,168,0,32,1,135,0,0
+2020-08-25,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,168,0,32,1,135,0,0
+2020-08-26,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,169,1,33,1,135,0,0
+2020-08-27,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,169,0,32,1,136,0,0
+2020-08-28,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,174,5,37,1,136,0,0
+2020-08-29,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,177,3,40,1,136,0,0
+2020-08-30,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,178,1,34,1,143,0,0
+2020-08-31,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,182,4,38,1,143,0,0
+2020-09-01,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,182,0,38,1,143,0,0
+2020-09-02,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,182,0,35,1,146,0,0
+2020-09-03,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,182,0,33,1,148,0,0
+2020-09-04,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,184,2,35,1,148,0,0
+2020-07-22,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,,1,0,4,0,
+2020-07-23,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-24,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-25,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-26,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-27,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-28,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-29,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-30,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-07-31,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-08-01,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-08-02,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-08-03,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-08-04,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,5,0,1,0,4,0,0
+2020-08-05,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,7,2,2,1,4,0,0
+2020-08-06,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,8,1,3,1,4,0,0
+2020-08-07,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,8,0,3,1,4,0,0
+2020-08-08,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,8,0,3,1,4,0,0
+2020-08-09,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,8,0,1,3,4,0,0
+2020-08-10,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,8,0,1,3,4,0,0
+2020-08-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,8,0,1,3,4,0,0
+2020-08-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,8,0,1,3,4,0,0
+2020-08-13,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,9,1,1,3,5,0,0
+2020-08-14,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,9,0,1,3,5,0,0
+2020-08-15,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,9,0,1,3,5,0,0
+2020-08-16,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,2,3,3,5,0,0
+2020-08-17,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-18,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,10,-1,2,3,5,0,0
+2020-08-19,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,10,0,2,3,5,0,0
+2020-08-20,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,10,0,2,3,5,0,0
+2020-08-21,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,10,0,2,3,5,0,0
+2020-08-22,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,1,3,3,5,0,0
+2020-08-23,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-24,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-25,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-26,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-27,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-28,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-29,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-30,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-08-31,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-09-01,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-09-02,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,11,0,3,3,5,0,0
+2020-09-03,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,14,3,1,3,10,0,0
+2020-09-04,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,14,0,1,3,10,0,0
+2020-07-22,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,,1,0,1,0,
+2020-07-23,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,1,0,1,0,0
+2020-07-24,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,1,0,1,0,0
+2020-07-25,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,1,0,1,0,0
+2020-07-26,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,1,0,1,0,0
+2020-07-27,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-07-28,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-07-29,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-07-30,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-07-31,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-01,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-02,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-03,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-04,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-05,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-06,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-07,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-08,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-09,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-12,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-13,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-14,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-15,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-16,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-17,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-18,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-19,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-20,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-21,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-22,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-23,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-24,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-25,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-26,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-27,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-28,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-29,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,2,0,0,0,2,0,0
+2020-08-30,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,3,1,1,0,2,0,0
+2020-08-31,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,3,0,1,0,2,0,0
+2020-09-01,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,4,1,2,0,2,0,0
+2020-09-02,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,4,0,2,0,2,0,0
+2020-09-03,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,4,0,2,0,2,0,0
+2020-09-04,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,4,0,2,0,2,0,0
+2020-07-22,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,2,,1,0,1,0,
+2020-07-23,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,2,0,1,0,1,0,0
+2020-07-24,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3,1,2,0,1,0,0
+2020-07-25,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3,0,2,0,1,0,0
+2020-07-26,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3,0,2,0,1,0,0
+2020-07-27,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,6,8,0,1,0,0
+2020-07-28,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,7,-2,6,0,1,0,0
+2020-07-29,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,7,0,6,0,1,0,0
+2020-07-30,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,7,0,6,0,1,0,0
+2020-07-31,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,7,0,5,0,2,0,0
+2020-08-01,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,7,0,5,0,2,0,0
+2020-08-02,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,7,0,5,0,2,0,0
+2020-08-03,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,7,0,5,0,2,0,0
+2020-08-04,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,2,7,0,2,0,0
+2020-08-05,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,4,0,5,0,0
+2020-08-06,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,3,1,5,0,0
+2020-08-07,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,3,1,5,0,0
+2020-08-08,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,3,1,5,0,0
+2020-08-09,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,3,1,5,0,0
+2020-08-10,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,3,1,5,0,0
+2020-08-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,2,1,6,0,0
+2020-08-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,0,1,8,0,0
+2020-08-13,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,0,1,8,0,0
+2020-08-14,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,9,0,0,1,8,0,0
+2020-08-15,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,1,1,1,8,0,0
+2020-08-16,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,0,1,1,8,0,0
+2020-08-17,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,0,1,1,8,0,0
+2020-08-18,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,0,1,1,8,0,0
+2020-08-19,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,0,1,1,8,0,0
+2020-08-20,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,0,1,1,8,0,0
+2020-08-21,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,0,1,1,8,0,0
+2020-08-22,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,10,0,1,1,8,0,0
+2020-08-23,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,11,1,2,1,8,0,0
+2020-08-24,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,12,1,3,1,8,0,0
+2020-08-25,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,13,1,4,1,8,0,0
+2020-08-26,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,13,0,4,1,8,0,0
+2020-08-27,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,21,8,11,1,9,0,0
+2020-08-28,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,53,32,43,1,9,0,0
+2020-08-29,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,60,7,50,1,9,0,0
+2020-08-30,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,61,1,51,1,9,0,0
+2020-08-31,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,62,1,52,1,9,0,0
+2020-09-01,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,62,0,52,1,9,0,0
+2020-09-02,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,62,0,52,1,9,0,0
+2020-09-03,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,74,12,64,1,9,0,0
+2020-09-04,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,147,73,137,1,9,0,0
+2020-07-22,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,24,,21,2,1,0,
+2020-07-23,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,24,0,20,3,1,0,0
+2020-07-24,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,24,0,20,3,1,0,0
+2020-07-25,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,24,0,20,3,1,0,0
+2020-07-26,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,24,0,20,3,1,0,0
+2020-07-27,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,1,21,3,1,0,0
+2020-07-28,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,21,3,1,0,0
+2020-07-29,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,21,3,1,0,0
+2020-07-30,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,21,3,1,0,0
+2020-07-31,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,13,7,5,0,0
+2020-08-01,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,13,7,5,0,0
+2020-08-02,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,13,7,5,0,0
+2020-08-03,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,12,8,5,0,0
+2020-08-04,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,4,8,13,0,0
+2020-08-05,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,2,8,15,0,0
+2020-08-06,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,2,8,15,0,0
+2020-08-07,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,25,0,2,8,15,0,0
+2020-08-08,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,1,3,8,15,0,0
+2020-08-09,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,3,8,15,0,0
+2020-08-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,2,9,15,0,0
+2020-08-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-13,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-14,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-15,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-16,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-17,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-18,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-19,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-20,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-21,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-22,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-23,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-24,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-25,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-26,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-27,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,1,9,16,0,0
+2020-08-28,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-08-29,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-08-30,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-08-31,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-09-01,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-09-02,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-09-03,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-09-04,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,26,0,0,9,17,0,0
+2020-07-22,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1,,1,0,0,0,
+2020-07-23,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2,1,2,0,0,0,0
+2020-07-24,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2,0,2,0,0,0,0
+2020-07-25,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2,0,2,0,0,0,0
+2020-07-26,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2,0,2,0,0,0,0
+2020-07-27,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,6,4,6,0,0,0,0
+2020-07-28,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,8,2,8,0,0,0,0
+2020-07-29,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,12,4,12,0,0,0,0
+2020-07-30,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,12,0,12,0,0,0,0
+2020-07-31,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,12,0,12,0,0,0,0
+2020-08-01,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,12,0,12,0,0,0,0
+2020-08-02,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,12,0,12,0,0,0,0
+2020-08-03,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,13,1,13,0,0,0,0
+2020-08-04,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,13,0,13,0,0,0,0
+2020-08-05,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,15,2,14,0,1,0,0
+2020-08-06,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,1,15,0,1,0,0
+2020-08-07,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,15,0,1,0,0
+2020-08-08,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,14,0,2,0,0
+2020-08-09,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,14,0,2,0,0
+2020-08-10,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,14,0,2,0,0
+2020-08-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,14,0,2,0,0
+2020-08-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,13,0,3,0,0
+2020-08-13,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,13,0,3,0,0
+2020-08-14,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,6,0,10,0,0
+2020-08-15,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,6,0,10,0,0
+2020-08-16,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,6,0,10,0,0
+2020-08-17,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,6,0,10,0,0
+2020-08-18,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,5,0,11,0,0
+2020-08-19,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,1,0,15,0,0
+2020-08-20,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-21,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-22,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-23,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-24,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-25,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-26,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-27,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-28,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-29,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-30,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-08-31,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-09-01,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-09-02,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-09-03,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-09-04,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,16,0,0,0,16,0,0
+2020-07-22,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1050,,50,17,981,2,
+2020-07-23,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1051,1,50,17,982,2,0
+2020-07-24,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,3,6,17,1029,2,0
+2020-07-25,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,6,17,1029,2,0
+2020-07-26,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,6,17,1029,2,0
+2020-07-27,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,5,17,1030,2,0
+2020-07-28,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,4,17,1031,2,0
+2020-07-29,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,4,17,1031,2,0
+2020-07-30,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,4,17,1031,2,0
+2020-07-31,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,1,17,1034,2,0
+2020-08-01,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,1,17,1034,2,0
+2020-08-02,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,1,17,1034,2,0
+2020-08-03,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,1,17,1034,2,0
+2020-08-04,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,1,17,1034,2,0
+2020-08-05,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,1,17,1034,2,0
+2020-08-06,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-07,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-08,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-09,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-13,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-14,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-15,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-16,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-17,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-18,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-19,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-20,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-21,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-22,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-23,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-24,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-25,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-26,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-27,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-28,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-29,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-30,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-08-31,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-09-01,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-09-02,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-09-03,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-09-04,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1054,0,0,17,1035,2,0
+2020-07-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,,0,0,0,0,
+2020-07-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-07-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-08-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-08-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0,0,0,0
+2020-08-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3,3,2,1,0,0,0
+2020-08-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,4,1,3,1,0,0,0
+2020-08-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,4,0,3,1,0,0,0
+2020-08-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,4,0,3,1,0,0,0
+2020-08-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,4,0,3,1,0,0,0
+2020-08-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,7,3,6,1,0,0,0
+2020-08-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,10,3,9,1,0,0,0
+2020-08-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,12,2,11,1,0,0,0
+2020-08-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,12,0,11,1,0,0,0
+2020-08-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,12,0,11,1,0,0,0
+2020-08-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,13,1,11,2,0,0,0
+2020-08-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,13,0,11,2,0,0,0
+2020-08-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,21,8,19,2,0,0,0
+2020-08-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,24,3,22,2,0,0,0
+2020-08-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,33,9,31,2,0,0,0
+2020-08-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,33,0,31,2,0,0,0
+2020-08-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,33,0,31,2,0,0,0
+2020-08-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,33,0,29,2,2,0,0
+2020-08-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,34,1,30,2,2,0,0
+2020-08-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,42,8,32,2,8,0,0
+2020-08-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,69,27,59,2,8,0,0
+2020-08-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,69,0,59,2,8,0,0
+2020-08-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,69,0,58,2,9,0,0
+2020-08-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,70,1,59,2,9,0,0
+2020-08-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,72,2,61,2,9,0,0
+2020-08-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,79,7,63,2,14,0,0
+2020-08-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,80,1,64,2,14,0,0
+2020-08-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,85,5,68,3,14,0,0
+2020-08-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,93,8,69,3,21,0,0
+2020-09-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,95,2,66,3,25,1,1
+2020-09-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,95,0,64,3,27,1,0
+2020-09-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,97,2,61,3,32,1,0
+2020-09-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,100,3,64,3,32,1,0
+2020-07-22,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,,0,0,0,0,
+2020-07-23,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-24,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-25,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-26,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-27,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-28,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-29,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-30,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-31,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-01,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-02,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-03,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-04,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-05,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-06,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-07,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-08,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-09,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-10,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-12,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-13,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-14,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-15,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-16,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-17,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-18,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-19,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-20,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-21,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-22,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-23,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-24,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-25,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-26,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-27,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-28,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-29,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-30,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-08-31,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-09-01,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-09-02,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-09-03,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-09-04,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0,0,0,0
+2020-07-22,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,,0,0,0,0,
+2020-07-23,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2,2,1,0,1,0,0
+2020-07-24,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2,0,1,0,1,0,0
+2020-07-25,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2,0,1,0,1,0,0
+2020-07-26,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2,0,1,0,1,0,0
+2020-07-27,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2,0,1,0,1,0,0
+2020-07-28,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,3,1,2,0,1,0,0
+2020-07-29,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,5,2,4,0,1,0,0
+2020-07-30,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,5,0,3,1,1,0,0
+2020-07-31,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,5,0,3,1,1,0,0
+2020-08-01,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,5,0,3,1,1,0,0
+2020-08-02,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,5,0,3,1,1,0,0
+2020-08-03,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,5,0,3,1,1,0,0
+2020-08-04,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,6,1,4,1,1,0,0
+2020-08-05,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,6,0,4,1,1,0,0
+2020-08-06,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,6,0,4,1,1,0,0
+2020-08-07,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,6,0,4,1,1,0,0
+2020-08-08,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,7,1,4,2,1,0,0
+2020-08-09,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,9,2,6,2,1,0,0
+2020-08-10,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,24,15,21,2,1,0,0
+2020-08-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,29,5,26,2,1,0,0
+2020-08-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,115,86,108,3,4,0,0
+2020-08-13,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,117,2,110,3,4,0,0
+2020-08-14,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,127,10,120,3,4,0,0
+2020-08-15,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,129,2,122,3,4,0,0
+2020-08-16,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,129,0,122,3,4,0,0
+2020-08-17,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,129,0,121,4,4,0,0
+2020-08-18,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,134,5,126,4,4,0,0
+2020-08-19,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,231,97,223,4,4,0,0
+2020-08-20,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,233,2,224,4,5,0,0
+2020-08-21,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,234,1,225,4,5,0,0
+2020-08-22,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,236,2,224,4,8,0,0
+2020-08-23,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,240,4,224,4,12,0,0
+2020-08-24,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,292,52,273,4,15,0,0
+2020-08-25,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,292,0,225,4,63,0,0
+2020-08-26,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,293,1,193,4,96,0,0
+2020-08-27,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,301,8,188,4,109,0,0
+2020-08-28,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,311,10,195,5,111,0,0
+2020-08-29,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,311,0,192,5,114,0,0
+2020-08-30,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,311,0,187,5,119,0,0
+2020-08-31,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,328,17,204,5,119,0,0
+2020-09-01,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,349,21,219,5,125,0,0
+2020-09-02,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,345,-4,126,5,214,0,0
+2020-09-03,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,357,12,132,5,220,0,0
+2020-09-04,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,394,37,169,5,220,0,0
+2020-07-22,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,,4,0,0,0,
+2020-07-23,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,4,0,0,0,0
+2020-07-24,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,4,0,0,0,0
+2020-07-25,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,4,0,0,0,0
+2020-07-26,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,4,0,0,0,0
+2020-07-27,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,4,0,0,0,0
+2020-07-28,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,4,0,0,0,0
+2020-07-29,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,2,0,2,0,0
+2020-07-30,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-07-31,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-08-01,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-08-02,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-08-03,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-08-04,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-08-05,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-08-06,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,4,0,0,0,4,0,0
+2020-08-07,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,1,1,0,4,0,0
+2020-08-08,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,1,0,4,0,0
+2020-08-09,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,1,0,4,0,0
+2020-08-10,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,1,0,4,0,0
+2020-08-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,1,0,4,0,0
+2020-08-12,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-13,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-14,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-15,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-16,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-17,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-18,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-19,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-20,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-21,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-22,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-23,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-24,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-25,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-26,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-27,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-28,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-29,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-30,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-08-31,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-09-01,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-09-02,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,5,0,0,0,5,0,0
+2020-09-03,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,6,1,1,0,5,0,0
+2020-09-04,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,6,0,1,0,5,0,0
+2020-07-22,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,47,,34,2,11,0,
+2020-07-23,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,48,1,31,2,15,0,0
+2020-07-24,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,49,1,30,3,16,0,0
+2020-07-25,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,49,0,30,3,16,0,0
+2020-07-26,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,49,0,30,3,16,0,0
+2020-07-27,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,54,5,33,4,17,0,0
+2020-07-28,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,54,0,28,4,22,0,0
+2020-07-29,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,54,0,28,4,22,0,0
+2020-07-30,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,55,1,27,4,24,0,0
+2020-07-31,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,55,0,23,4,28,0,0
+2020-08-01,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,55,0,23,4,28,0,0
+2020-08-02,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,55,0,23,4,28,0,0
+2020-08-03,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,55,0,19,4,32,0,0
+2020-08-04,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,55,0,18,4,33,0,0
+2020-08-05,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,55,0,16,4,35,0,0
+2020-08-06,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,59,4,20,4,35,0,0
+2020-08-07,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,60,1,21,4,35,0,0
+2020-08-08,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,61,1,22,4,35,0,0
+2020-08-09,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,61,0,22,4,35,0,0
+2020-08-10,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,61,0,22,4,35,0,0
+2020-08-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,61,0,21,5,35,0,0
+2020-08-12,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,61,0,16,5,40,0,0
+2020-08-13,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,61,0,12,5,44,0,0
+2020-08-14,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,61,0,12,5,44,0,0
+2020-08-15,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,62,1,13,5,44,0,0
+2020-08-16,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,62,0,13,5,44,0,0
+2020-08-17,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,63,1,14,5,44,0,0
+2020-08-18,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,63,0,13,5,45,0,0
+2020-08-19,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,63,0,13,5,45,0,0
+2020-08-20,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,63,0,13,5,45,0,0
+2020-08-21,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,80,17,30,5,45,0,0
+2020-08-22,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,1,31,5,45,0,0
+2020-08-23,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,31,5,45,0,0
+2020-08-24,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,31,5,45,0,0
+2020-08-25,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,28,5,48,0,0
+2020-08-26,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,27,5,49,0,0
+2020-08-27,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,25,5,51,0,0
+2020-08-28,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,24,5,52,0,0
+2020-08-29,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,23,5,53,0,0
+2020-08-30,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,23,5,53,0,0
+2020-08-31,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,23,5,53,0,0
+2020-09-01,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,22,5,54,0,0
+2020-09-02,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,22,5,54,0,0
+2020-09-03,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,22,5,54,0,0
+2020-09-04,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,81,0,22,5,54,0,0
+2020-07-22,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,3,,3,0,0,0,
+2020-07-23,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,3,0,3,0,0,0,0
+2020-07-24,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,3,0,3,0,0,0,0
+2020-07-25,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,3,0,3,0,0,0,0
+2020-07-26,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,3,0,3,0,0,0,0
+2020-07-27,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,4,1,4,0,0,0,0
+2020-07-28,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,1,5,0,0,0,0
+2020-07-29,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-07-30,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-07-31,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-01,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-02,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-03,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-04,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-05,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-06,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-07,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-08,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-09,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-10,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,5,0,0,0,0
+2020-08-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,4,0,1,0,0
+2020-08-12,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,5,0,3,0,2,0,0
+2020-08-13,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,8,3,6,0,2,0,0
+2020-08-14,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,8,0,6,0,2,0,0
+2020-08-15,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,8,0,5,0,3,0,0
+2020-08-16,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,10,2,7,0,3,0,0
+2020-08-17,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,10,0,6,0,4,0,0
+2020-08-18,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,1,7,0,4,0,0
+2020-08-19,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,0,7,0,4,0,0
+2020-08-20,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,0,7,0,4,0,0
+2020-08-21,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,0,7,0,4,0,0
+2020-08-22,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,0,7,0,4,0,0
+2020-08-23,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,0,7,0,4,0,0
+2020-08-24,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,0,7,0,4,0,0
+2020-08-25,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,11,0,7,0,4,0,0
+2020-08-26,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,1,8,0,4,0,0
+2020-08-27,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,8,0,4,0,0
+2020-08-28,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,8,0,4,0,0
+2020-08-29,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,7,0,5,0,0
+2020-08-30,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,7,0,5,0,0
+2020-08-31,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,7,0,5,0,0
+2020-09-01,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,7,0,5,0,0
+2020-09-02,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,5,0,7,0,0
+2020-09-03,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,5,0,7,0,0
+2020-09-04,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,12,0,4,0,8,0,0
+2020-07-22,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,,0,0,0,0,
+2020-07-23,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0,0,0,0
+2020-07-24,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0,0,0,0
+2020-07-25,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0,0,0,0
+2020-07-26,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0,0,0,0
+2020-07-27,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0,0,0,0
+2020-07-28,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1,1,1,0,0,0,0
+2020-07-29,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2,1,2,0,0,0,0
+2020-07-30,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3,1,3,0,0,0,0
+2020-07-31,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,4,1,4,0,0,0,0
+2020-08-01,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,4,0,4,0,0,0,0
+2020-08-02,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,4,0,4,0,0,0,0
+2020-08-03,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,12,8,12,0,0,0,0
+2020-08-04,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,22,10,22,0,0,0,0
+2020-08-05,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,22,0,22,0,0,0,0
+2020-08-06,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,22,0,22,0,0,0,0
+2020-08-07,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,22,0,22,0,0,0,0
+2020-08-08,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,35,13,34,1,0,0,0
+2020-08-09,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,37,2,36,1,0,0,0
+2020-08-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,39,2,38,1,0,0,0
+2020-08-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,39,0,38,1,0,0,0
+2020-08-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,39,0,38,1,0,0,0
+2020-08-13,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,39,0,28,1,10,0,0
+2020-08-14,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,39,0,28,1,10,0,0
+2020-08-15,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,43,4,32,1,10,0,0
+2020-08-16,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,43,0,32,1,10,0,0
+2020-08-17,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,43,0,32,1,10,0,0
+2020-08-18,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,43,0,32,1,10,0,0
+2020-08-19,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,1,32,1,10,1,1
+2020-08-20,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,9,1,33,1,0
+2020-08-21,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,8,1,34,1,0
+2020-08-22,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,6,1,36,1,0
+2020-08-23,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,5,1,37,1,0
+2020-08-24,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,5,1,37,1,0
+2020-08-25,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,5,1,37,1,0
+2020-08-26,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,5,1,37,1,0
+2020-08-27,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,2,1,40,1,0
+2020-08-28,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,2,1,40,1,0
+2020-08-29,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,1,1,41,1,0
+2020-08-30,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,1,1,41,1,0
+2020-08-31,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,1,1,41,1,0
+2020-09-01,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,0,1,42,1,0
+2020-09-02,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,0,1,42,1,0
+2020-09-03,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,0,1,42,1,0
+2020-09-04,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,44,0,0,1,42,1,0
+2020-07-22,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,,7,0,3,0,
+2020-07-23,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,7,0,3,0,0
+2020-07-24,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,7,0,3,0,0
+2020-07-25,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,7,0,3,0,0
+2020-07-26,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,7,0,3,0,0
+2020-07-27,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,7,0,3,0,0
+2020-07-28,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,7,0,3,0,0
+2020-07-29,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,7,0,3,0,0
+2020-07-30,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,4,0,6,0,0
+2020-07-31,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,4,0,6,0,0
+2020-08-01,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,4,0,6,0,0
+2020-08-02,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,4,0,6,0,0
+2020-08-03,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,4,0,6,0,0
+2020-08-04,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,3,0,7,0,0
+2020-08-05,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,2,1,7,0,0
+2020-08-06,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,1,1,8,0,0
+2020-08-07,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,1,1,8,0,0
+2020-08-08,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,1,1,8,0,0
+2020-08-09,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,1,1,8,0,0
+2020-08-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,1,1,8,0,0
+2020-08-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,1,1,8,0,0
+2020-08-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,1,1,8,0,0
+2020-08-13,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,0,1,9,0,0
+2020-08-14,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,0,1,9,0,0
+2020-08-15,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,0,1,9,0,0
+2020-08-16,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,0,1,9,0,0
+2020-08-17,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,10,0,0,1,9,0,0
+2020-08-18,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,11,1,1,1,9,0,0
+2020-08-19,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,13,2,3,1,9,0,0
+2020-08-20,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,13,0,3,1,9,0,0
+2020-08-21,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,18,5,8,1,9,0,0
+2020-08-22,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,18,0,8,1,9,0,0
+2020-08-23,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,25,7,15,1,9,0,0
+2020-08-24,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,25,0,15,1,9,0,0
+2020-08-25,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,25,0,14,2,9,0,0
+2020-08-26,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,25,0,14,2,9,0,0
+2020-08-27,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,23,-2,13,1,9,0,0
+2020-08-28,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,23,0,13,1,9,0,0
+2020-08-29,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,41,18,31,1,9,0,0
+2020-08-30,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,41,0,31,1,9,0,0
+2020-08-31,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,42,1,32,1,9,0,0
+2020-09-01,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,42,0,32,1,9,0,0
+2020-09-02,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,42,0,32,1,9,0,0
+2020-09-03,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,43,1,33,1,9,0,0
+2020-09-04,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,43,0,33,1,9,0,0
+2020-07-22,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,,0,0,0,0,
+2020-07-23,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-24,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-25,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-26,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-27,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-28,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-29,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-30,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-31,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-01,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-02,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-03,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-04,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-05,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-06,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-07,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-08,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-09,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-10,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-13,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-14,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-15,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-16,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-17,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-18,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-19,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-20,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-21,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-22,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-23,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-24,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-25,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-26,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-27,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-28,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-29,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-30,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-08-31,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-09-01,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-09-02,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-09-03,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-09-04,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0,0,0,0
+2020-07-22,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,,1,0,0,0,
+2020-07-23,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-24,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-25,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-26,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-27,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-28,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-29,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-30,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-07-31,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-01,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-02,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-03,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-04,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-05,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-06,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-07,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,1,0,0,0,0
+2020-08-08,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,0,0,1,0,0
+2020-08-09,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,0,0,1,0,0
+2020-08-10,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,0,0,1,0,0
+2020-08-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1,0,0,0,1,0,0
+2020-08-12,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,1,1,0,1,0,0
+2020-08-13,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-14,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-15,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-16,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-17,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-18,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-19,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-20,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-21,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-22,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-23,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-24,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-25,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-26,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-27,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-28,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-29,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-30,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-08-31,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-09-01,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-09-02,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-09-03,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-09-04,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2,0,1,0,1,0,0
+2020-07-22,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,,1,0,0,0,
+2020-07-23,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-24,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-25,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-26,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-27,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-28,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-29,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-30,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1,0,1,0,0,0,0
+2020-07-31,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,2,1,1,0,1,0,0
+2020-08-01,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,2,0,1,0,1,0,0
+2020-08-02,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,2,0,1,0,1,0,0
+2020-08-03,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,2,0,1,0,1,0,0
+2020-08-04,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,1,2,0,1,0,0
+2020-08-05,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-06,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-07,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-08,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-09,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,2,0,1,0,0
+2020-08-13,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,1,0,2,0,0
+2020-08-14,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,1,0,2,0,0
+2020-08-15,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,4,1,2,0,2,0,0
+2020-08-16,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,-1,1,0,2,0,0
+2020-08-17,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,1,0,2,0,0
+2020-08-18,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,1,0,2,0,0
+2020-08-19,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,1,0,2,0,0
+2020-08-20,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-21,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-22,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-23,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-24,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-25,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-26,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-27,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-28,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-29,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-30,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-08-31,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-09-01,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-09-02,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-09-03,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-09-04,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,3,0,0,0,3,0,0
+2020-07-22,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,,0,0,3,0,
+2020-07-23,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-24,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-25,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-26,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-27,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-28,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-29,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-30,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-07-31,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-01,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-02,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-03,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-04,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-05,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-06,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-07,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-08,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-09,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-10,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,3,0,0,0,3,0,0
+2020-08-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,4,1,1,0,3,0,0
+2020-08-13,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,5,1,2,0,3,0,0
+2020-08-14,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,5,0,2,0,3,0,0
+2020-08-15,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,5,0,2,0,3,0,0
+2020-08-16,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,1,3,0,3,0,0
+2020-08-17,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-18,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-19,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-20,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-21,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-22,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-23,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-24,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-25,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,3,0,3,0,0
+2020-08-26,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,2,0,4,0,0
+2020-08-27,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,2,0,4,0,0
+2020-08-28,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,6,0,2,0,4,0,0
+2020-08-29,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,7,1,3,0,4,0,0
+2020-08-30,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,7,0,3,0,4,0,0
+2020-08-31,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,7,0,3,0,4,0,0
+2020-09-01,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,10,3,6,0,4,0,0
+2020-09-02,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,10,0,6,0,4,0,0
+2020-09-03,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,11,1,7,0,4,0,0
+2020-09-04,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,37,26,33,0,4,0,0
+2020-07-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2092,,857,39,1182,14,
+2020-07-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2106,14,864,42,1185,15,1
+2020-07-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2129,23,865,44,1205,15,0
+2020-07-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2129,0,865,44,1205,15,0
+2020-07-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2129,0,865,44,1205,15,0
+2020-07-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2158,29,539,49,1551,19,4
+2020-07-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2166,8,502,50,1595,19,0
+2020-07-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2168,2,414,53,1682,19,0
+2020-07-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2168,0,383,53,1713,19,0
+2020-07-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2172,4,229,52,1872,19,0
+2020-08-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2172,0,229,52,1872,19,0
+2020-08-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2172,0,229,52,1872,19,0
+2020-08-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2184,12,145,53,1965,21,2
+2020-08-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2210,26,166,55,1967,22,1
+2020-08-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2215,5,169,55,1968,23,1
+2020-08-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2221,6,172,58,1968,23,0
+2020-08-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2224,3,175,58,1968,23,0
+2020-08-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2226,2,166,58,1978,24,1
+2020-08-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2227,1,166,59,1978,24,0
+2020-08-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2232,5,135,57,2016,24,0
+2020-08-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2232,0,127,54,2026,25,1
+2020-08-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2232,0,104,54,2049,25,0
+2020-08-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,1,80,54,2074,25,0
+2020-08-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,80,54,2074,25,0
+2020-08-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,3,77,54,2080,25,0
+2020-08-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,77,54,2080,25,0
+2020-08-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,77,54,2080,25,0
+2020-08-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,76,54,2081,25,0
+2020-08-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,65,54,2092,25,0
+2020-08-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,61,54,2096,25,0
+2020-08-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,37,53,2121,25,0
+2020-08-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,35,53,2123,25,0
+2020-08-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,34,53,2123,26,1
+2020-08-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,34,53,2123,26,0
+2020-08-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,34,53,2123,26,0
+2020-08-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,32,53,2125,26,0
+2020-08-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,24,53,2133,26,0
+2020-08-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,3,24,53,2136,26,0
+2020-08-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,-3,19,54,2137,26,0
+2020-08-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,19,54,2137,26,0
+2020-08-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,1,18,53,2140,26,0
+2020-09-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,16,53,2142,26,0
+2020-09-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,15,53,2143,26,0
+2020-09-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,13,54,2144,26,0
+2020-09-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,11,54,2146,26,0
+2020-07-22,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,,0,0,1,0,
+2020-07-23,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-24,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-25,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-26,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-27,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-28,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-29,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-30,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-07-31,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-08-01,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-08-02,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-08-03,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1,0,0,0,1,0,0
+2020-08-04,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,-1,0,0,0,0,0
+2020-08-05,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0,0,0,0
+2020-08-06,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0,0,0,0
+2020-08-07,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0,0,0,0
+2020-08-08,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0,0,0,0
+2020-08-09,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0,0,0,0
+2020-08-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0,0,0,0
+2020-08-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,3,3,3,0,0,0,0
+2020-08-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,3,0,3,0,0,0,0
+2020-08-13,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,4,1,3,0,1,0,0
+2020-08-14,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,4,0,3,0,1,0,0
+2020-08-15,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,4,0,3,0,1,0,0
+2020-08-16,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,4,0,3,0,1,0,0
+2020-08-17,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,4,0,3,0,1,0,0
+2020-08-18,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,5,1,3,1,1,0,0
+2020-08-19,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,5,0,3,1,1,0,0
+2020-08-20,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,5,0,3,1,1,0,0
+2020-08-21,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,5,0,3,1,1,0,0
+2020-08-22,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,6,1,4,1,1,0,0
+2020-08-23,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,13,7,11,1,1,0,0
+2020-08-24,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,13,0,11,1,1,0,0
+2020-08-25,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,14,1,12,1,1,0,0
+2020-08-26,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,15,1,11,1,3,0,0
+2020-08-27,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,16,1,12,1,3,0,0
+2020-08-28,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,16,0,12,1,3,0,0
+2020-08-29,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,16,0,12,1,3,0,0
+2020-08-30,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,16,0,12,1,3,0,0
+2020-08-31,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,17,1,13,1,3,0,0
+2020-09-01,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,18,1,13,2,3,0,0
+2020-09-02,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,18,0,13,2,3,0,0
+2020-09-03,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,18,0,13,2,3,0,0
+2020-09-04,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,18,0,13,2,3,0,0
+2020-07-22,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,,0,0,0,0,
+2020-07-23,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-24,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-25,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-26,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-27,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-28,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-29,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-30,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-07-31,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-01,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-02,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-03,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-04,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-05,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-06,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-07,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-08,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-09,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-10,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0,0,0,0
+2020-08-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1,1,1,0,0,0,0
+2020-08-12,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1,0,1,0,0,0,0
+2020-08-13,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1,0,1,0,0,0,0
+2020-08-14,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1,0,1,0,0,0,0
+2020-08-15,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1,0,1,0,0,0,0
+2020-08-16,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1,0,1,0,0,0,0
+2020-08-17,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,2,1,2,0,0,0,0
+2020-08-18,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,1,3,0,0,0,0
+2020-08-19,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-20,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-21,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-22,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-23,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-24,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-25,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-26,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-27,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-28,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-29,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,3,0,3,0,0,0,0
+2020-08-30,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,4,1,4,0,0,0,0
+2020-08-31,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,4,0,4,0,0,0,0
+2020-09-01,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,4,0,4,0,0,0,0
+2020-09-02,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,6,2,6,0,0,0,0
+2020-09-03,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,6,0,6,0,0,0,0
+2020-09-04,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,6,0,6,0,0,0,0
+2020-07-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,121,,81,16,24,0,
+2020-07-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,128,7,87,17,24,0,0
+2020-07-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,151,23,103,17,31,0,0
+2020-07-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,151,0,103,17,31,0,0
+2020-07-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,151,0,103,17,31,0,0
+2020-07-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,162,11,111,17,34,0,0
+2020-07-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,162,0,105,19,38,0,0
+2020-07-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,162,0,105,19,38,0,0
+2020-07-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,162,0,90,19,53,0,0
+2020-07-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,163,1,85,20,58,0,0
+2020-08-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,163,0,85,20,58,0,0
+2020-08-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,163,0,85,20,58,0,0
+2020-08-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,166,3,82,20,64,0,0
+2020-08-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,166,0,44,20,102,0,0
+2020-08-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,167,1,45,20,102,0,0
+2020-08-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,168,1,27,20,121,0,0
+2020-08-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,168,0,27,20,121,0,0
+2020-08-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,169,1,26,20,123,0,0
+2020-08-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,169,0,16,27,126,0,0
+2020-08-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,169,0,16,27,126,0,0
+2020-08-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,169,0,15,28,126,0,0
+2020-08-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,169,0,5,28,136,0,0
+2020-08-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,169,0,5,28,136,0,0
+2020-08-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,169,0,5,28,136,0,0
+2020-08-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,176,7,11,28,137,0,0
+2020-08-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,206,30,41,28,137,0,0
+2020-08-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,206,0,41,28,137,0,0
+2020-08-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,206,0,40,29,137,0,0
+2020-08-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,208,2,42,29,137,0,0
+2020-08-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,208,0,42,29,137,0,0
+2020-08-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,208,0,42,29,137,0,0
+2020-08-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,208,0,42,29,137,0,0
+2020-08-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,235,27,69,29,137,0,0
+2020-08-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,239,4,72,30,137,0,0
+2020-08-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,239,0,72,30,137,0,0
+2020-08-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,239,0,70,30,139,0,0
+2020-08-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,1,71,30,139,0,0
+2020-08-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,0,70,30,140,0,0
+2020-08-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,27,97,30,140,0,0
+2020-08-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,97,30,140,0,0
+2020-08-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,97,30,140,0,0
+2020-09-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,97,30,140,0,0
+2020-09-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,97,30,140,0,0
+2020-09-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,97,30,140,0,0
+2020-09-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,269,2,98,31,140,0,0

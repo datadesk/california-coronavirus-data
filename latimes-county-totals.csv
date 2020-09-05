@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-09-04,Sierra,091,6,0,0,0
 2020-09-04,Siskiyou,093,144,0,1,0
 2020-09-04,Solano,095,5671,48,40,1
-2020-09-04,Sonoma,097,0,0,-6142,-93
+2020-09-04,Sonoma,097,6142,93,0,0
 2020-09-04,Stanislaus,099,15162,282,141,9
 2020-09-04,Sutter,101,1465,10,4,0
 2020-09-04,Tehama,103,436,1,6,0
