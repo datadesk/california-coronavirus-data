@@ -1,16 +1,16 @@
 county,fips,status,restriction
 Del Norte,015,Some restrictions,
-Humboldt,023,Some restrictions,"All parks in the county, except for some restrictions at Redwood National Park, are open for day use."
+Humboldt,023,Some restrictions,
 Los Angeles,037,Some restrictions,
-Marin,041,Open,"Beaches, parks and parking lots are generally open. Beachgoers must follow county orders on physical distancing. The county may restrict the number of entrants or close public access points to a beach to reduce crowding."
-Mendocino,045,Some restrictions,"All county beaches, parks and access ways are open for active and passive uses that follow distancing guidelines. Most beach parking lots and restrooms are partially open."
-Monterey,053,Some restrictions,Beaches will be closed Labor Day weekend.
-Orange,059,Open,Beach parking and restrooms are generally open at all Orange County beaches.
-San Diego,073,Some restrictions,Recreational boating is allowed only if participants are members of the same household. All sports courts managed by San Diego County Parks are open only to visitors who are members of the same household.
-San Francisco,075,Some restrictions,Beachgoers must follow county orders on physical distancing. The county may restrict the number of entrants or close public access points to a beach to reduce crowding.
+Marin,041,Some restrictions,
+Mendocino,045,Some restrictions,
+Monterey,053,Some restrictions,
+Orange,059,Open,
+San Diego,073,Some restrictions,
+San Francisco,075,Some restrictions,
 San Luis Obispo,079,Some restrictions,
-San Mateo,081,Open,"Due to the rapidly changing conditions of wildfires in the area, please check with local authorities (City of Pacifica, City of Half Moon Bay, San Mateo Harbor District, San Mateo County Parks, State Parks) about the status of beaches in the county."
-Santa Barbara,083,Some restrictions,"All beaches in the county will be closed for stationary activities (such as sunbathing, sitting, etc) over Labor Day weekend, from Friday through Monday."
-Santa Cruz,087,Open,"Beach use will be restricted over Labor Day weekend, beginning Saturday at 5 a.m. through Monday at 5 p.m. Beaches will be open for active public use Saturday and Sunday afternoon between 4 p.m. and 8 p.m. Crossing the beach is permissable to access the ocean for activities such as surfing, paddle-boarding, boogie-boarding, swimming, snorkeling and kayaking."
-Sonoma,097,Some restrictions,All coastal parks and beach parking lots are open with some restrictions.
+San Mateo,081,Some restrictions,"Due to the rapidly changing conditions of wildfires in the area, please check with local authorities (City of Pacifica, City of Half Moon Bay, San Mateo Harbor District, San Mateo County Parks, State Parks) about the status of beaches in the county."
+Santa Barbara,083,Open,Beaches are open.
+Santa Cruz,087,Some restrictions,"Due to the rapidly changing conditions of wildfires in the area, please check with local authorities (City of Santa Cruz, City of Capitola, Santa Cruz County, State Parks) about the status of beaches in the county."
+Sonoma,097,Open,Beaches are open.
 Ventura,111,Some restrictions,
