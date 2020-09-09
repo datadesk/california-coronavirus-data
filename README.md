@@ -237,8 +237,6 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | field                           | type    | description                                                                                             |
 | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
 | `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.     |
-| `staff_active_cases`            | integer | The current number of active coronavirus case among staff at that time.                                 |
-| `patients_active_cases`         | integer | The current number of active coronavirus case among patients at that time.                              |
 | `staff_confirmed_cases`         | integer | The cumulative number of confirmed coronavirus case among staff at that time.                           |
 | `patients_confirmed_cases`      | integer | The cumulative number of confirmed coronavirus case among patients at that time.                        |
 | `staff_confirmed_cases_note`    | string  | In cases where the `staff_confirmed_cases` are obscured, this explains the range of possible values.    |
@@ -275,10 +273,6 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | `name`                          | string  | The name of the skilled-nursing facility.                                                                                                                                            |
 | `county`                        | string  | The name of the county where the city is located.                                                                                                                                    |
 | `fips`                          | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
-| `staff_active_cases`            | integer | The current number of active coronavirus case among staff at that time.                                                                                                              |
-| `patients_active_cases`         | integer | The current number of active coronavirus case among patients at that time.                                                                                                           |
-| `staff_active_cases_note`       | string  | In cases where the `staff_active_cases` are obscured, this explains the range of possible values.                                                                                    |
-| `patients_active_cases_note`    | string  | In cases where the `patients_active_cases` are obscured, this explains the range of possible values.                                                                                 |
 | `staff_confirmed_cases`         | integer | The current number of confirmed coronavirus case amoung staff at that time.                                                                                                          |
 | `patients_confirmed_cases`      | integer | The current number of confirmed coronavirus case amoung patients at that time.                                                                                                       |
 | `staff_confirmed_cases_note`    | string  | In cases where the `staff_confirmed_cases` are obscured, this explains the range of possible values.                                                                                 |
