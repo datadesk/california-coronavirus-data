@@ -239,12 +239,9 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.     |
 | `staff_confirmed_cases`         | integer | The cumulative number of confirmed coronavirus case among staff at that time.                           |
 | `patients_confirmed_cases`      | integer | The cumulative number of confirmed coronavirus case among patients at that time.                        |
-| `staff_confirmed_cases_note`    | string  | In cases where the `staff_confirmed_cases` are obscured, this explains the range of possible values.    |
-| `patients_confirmed_cases_note` | string  | In cases where the `patients_confirmed_cases` are obscured, this explains the range of possible values. |
 | `staff_deaths`                  | integer | The cumulative number of deaths case among staff at that time.                                          |
 | `patients_deaths`               | integer | The cumulative number of deaths case among patients at that time.                                       |
 | `staff_deaths_note`             | string  | In cases where the `staff_deaths` are obscured, this explains the range of possible values.             |
-| `patients_deaths_note`          | string  | In cases where the `patients_deaths` are obscured, this explains the range of possible values.          |
 | `source_url`                    | string  | The URL to the state data release.                                                                      |
 
 ### [cdph-adult-and-senior-care-totals.csv](./cdph-adult-and-senior-care-totals.csv)
