@@ -1,6 +1,6 @@
 county,fips,area,state_park,restriction
 Del Norte,015,Redwood National Park,False,"Many facilities are closed, including campgrounds, visitor centers and day-use areas"
-Del Norte,015,Yurok Tribal Lands,False,"Yurok Tribal lands, parks, preserves, beaches and boat launches, including all camping and overnight stays, are closed to the public"
+Del Norte,015,Yurok Tribal Lands,False,Beaches may be closed to the public; please check with the Yurok Tribe for the most up-to-date information
 Humboldt,023,Redwood National Park,False,Crescent City Information Center and Jedidiah Smith Visitor Center closed
 Los Angeles,037,City of Hermosa Beach,False,Parking in Lot A open; Lot B open for 15-minute use; Lot C closed
 Los Angeles,037,City of Los Angeles,False,Venice and Cabrillo fishing piers remain closed
@@ -9,26 +9,26 @@ Los Angeles,037,City of Malibu,False,"At Malibu Beach, Malibu Road East stairway
 Los Angeles,037,City of Malibu,False,"At Lechuza Beach, Bunnie Lane beach accessway is closed; East and West Sea Level Drive accessways are open"
 Los Angeles,037,City of Malibu,False,"At Escondido Beach, Geoffrey’s and Seacliff beach accessways are closed; Escondido Creek beach accessway is open"
 Los Angeles,037,City of Malibu,False,Trancas Canyon Park parking lot closed
-Los Angeles,037,City of Malibu,False,"At Big Rock, Dolphin View coastal overlook and Maritime Rocks beach access are closed; Big Rock stairway is open"
+Los Angeles,037,City of Malibu,False,"At Big Rock, Maritime Rocks beach access is closed; the Dolphin View coastal overlook and Big Rock stairway are open"
 Los Angeles,037,City of Malibu,False,Legacy Park parking lot closed
-Los Angeles,037,City of Malibu,False,Malibu Bluffs Park parking lot closed
 Los Angeles,037,City of Malibu,False,Malibu pier is open 8 a.m. to 8 p.m.; the parking lot is open at reduced capacity for beachside parking
+Los Angeles,037,City of Malibu,False,Malibu Bluffs Park parking lot closed
 Los Angeles,037,City of Malibu,False,Las Flores Creek Park parking lot closed
 Los Angeles,037,City of Redondo Beach,False,Stairs at Avenue C access way closed
 Los Angeles,037,City of Santa Monica,False,"Beach parking lots on Pier Deck, Lot 1 North (1550 Pacific Coast Highway) and Lot 3 North (1150 Pacific Coast Highway) are closed"
-Los Angeles,037,City of Santa Monica,False,"Santa Monica Pier has begun phased reopening, with restrictions on the number of visitors and some facilities remaining closed; the pier bridge at Ocean and Colorado avenues and all beach stairs remain closed (the pier entrance and exit ramps are on Ocean Front Walk on the beach level)"
 Los Angeles,037,City of Santa Monica,False,Muscle Beach is closed
+Los Angeles,037,City of Santa Monica,False,"Santa Monica Pier has begun phased reopening, with restrictions on the number of visitors and some facilities remaining closed; the pier bridge at Ocean and Colorado avenues and all beach stairs remain closed (the pier entrance and exit ramps are on Ocean Front Walk on the beach level)"
 Los Angeles,037,Santa Monica Mountains National Recreation Area (Los Angeles County portion),False,Visitor centers remain closed
-Marin,041,Golden Gate National Recreation Area,False,Kirby Cove day-use area closed
-Marin,041,Golden Gate National Recreation Area,False,Nike Missile Site closed
 Marin,041,Golden Gate National Recreation Area,False,Battery Townsley interior is closed and no ranger-led tours are occurring
-Marin,041,Golden Gate National Recreation Area,False,Point Bonita Lighthouse closed
+Marin,041,Golden Gate National Recreation Area,False,Nike Missile Site closed
+Marin,041,Golden Gate National Recreation Area,False,Kirby Cove day-use area closed
 Marin,041,Golden Gate National Recreation Area,False,Marin Headlands Visitor Center closed
-Marin,041,Point Reyes National Seashore,False,Mt. Vision Road closed
+Marin,041,Golden Gate National Recreation Area,False,Point Bonita Lighthouse closed
 Marin,041,Point Reyes National Seashore,False,"There are several beach, trail and road closures not related to COVID-19; check the park website for the latest details"
 Marin,041,Point Reyes National Seashore,False,Visitor centers remain closed
-Mendocino,045,Point Arena,False,Point Arena Pier closed
+Marin,041,Point Reyes National Seashore,False,Mt. Vision Road closed
 Mendocino,045,Point Arena,False,Parking lot closed with exception for commercial fishermen or businesses/vessels with paid parking privileges
+Mendocino,045,Point Arena,False,Point Arena Pier closed
 Monterey,053,City of Carmel-by-the-Sea,False,"Umbrellas, shade structures, tents, beach equipment, BBQ’s, tables, fireworks, propane or other fuel tanks are prohibited at beaches in the city until October 7."
 Monterey,053,City of Monterey,False,McAbee and San Carlos beaches are closed through Sept. 22; ocean activities are still allowed
 Monterey,053,Julia Pfeiffer Burns State Park,True,Closed to the public
