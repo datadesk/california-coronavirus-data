@@ -1,62 +1,62 @@
-agency,url
-Alameda,https://covid-19.acgov.org/data.page
-Alpine,http://alpinecountyca.gov/Index.aspx?NID=516
-Amador,https://www.amadorgov.org/services/covid-19/-fsiteid-1
-Berkeley,https://www.cityofberkeley.info/covid19-data/
-Butte,https://infogram.com/1pe66wmyjnmvkrhm66x9362kp3al60r57ex
-Calaveras,https://covid19.calaverasgov.us/
-Colusa,http://www.countyofcolusa.org/771/COVID19
-Contra Costa,https://www.coronavirus.cchealth.org/dashboard
-Del Norte,https://www.covid19.dnco.org/
-El Dorado,http://eldoradocounty.maps.arcgis.com/apps/opsdashboard/index.html#/b5315baf88c34be996a16c6f0b8fdcfb
-Fresno,https://www.co.fresno.ca.us/departments/public-health/covid-19
-Glenn,https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19
-Humboldt,https://docs.google.com/spreadsheets/d/e/2PACX-1vRumJLxZ2OIN9TBV14uUbtdhxLDxddnDh0J3ASGUHMYvoS_dyal8OW2xOkbspt_hx3gj2tM5ByyVfTK/pubhtml?gid=2002140219&single=true
-Imperial,http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/
-Inyo,https://www.inyocounty.us/covid-19
-Kern,https://kernpublichealth.com/covid-19_dashboard/
-Kings,https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1
-Lake,https://lake-co-ca-coronavirus-response-lakecoca.hub.arcgis.com/
-Lassen,https://lassencares.org/status
-Long Beach,http://www.longbeach.gov/health/diseases-and-condition/information-on/coronavirus/
-Los Angeles,http://publichealth.lacounty.gov/media/Coronavirus/
-Madera,https://maderacounty.maps.arcgis.com/apps/opsdashboard/index.html#/5c3f6e5ce44d4160b46233ae1fa1e919
-Marin,https://coronavirus.marinhhs.org/
-Mariposa,https://www.mariposacounty.org/1592/COVID-19-Information
-Mendocino,https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
-Merced,https://mercedcounty.maps.arcgis.com/apps/opsdashboard/index.html#/f005de09bbbe4171a8bba19d74b2347b
-Modoc,http://modochealthservices.org/corona-virus
-Mono,https://coronavirus.monocounty.ca.gov/
-Monterey,https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/2019-novel-coronavirus-2019-ncov-local-data-10219
-Napa,https://legacy.livestories.com/s/v2/coronavirus-report-for-napa-county-ca/9065d62d-f5a6-445f-b2a9-b7cf30b846dd/
-Nevada,https://www.mynevadacounty.com/2924/Coronavirus
-Orange,https://occovid19.ochealthinfo.com/coronavirus-in-oc
-Pasadena,https://www.cityofpasadena.net/public-health/news-announcements/information-on-covid-19/
-Placer,https://www.placer.ca.gov/coronavirus/cases
-Plumas,https://www.plumascounty.us/2669/Novel-Coronavirus-2019-COVID-19
-Riverside,https://www.rivcoph.org/coronavirus
-Sacramento,https://www.arcgis.com/apps/opsdashboard/index.html#/a33a1c52e7fe4252bc1f81e44d725fd1
-San Benito,https://cosb.maps.arcgis.com/apps/opsdashboard/index.html#/1b049e2ea65043baafcf5361b5b07ddd
-San Bernardino,https://sbcph.maps.arcgis.com/apps/opsdashboard/index.html#/44bb35c804c44c8281da6d82ee602dff
-San Diego,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html
-San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp
-San Joaquin,https://sjcphs.maps.arcgis.com/apps/opsdashboard/index.html#/1234d2c9d6e043709a85f6b519cc8757
-San Luis Obispo,https://www.emergencyslo.org/en/positive-case-details.aspx
-San Mateo,https://www.smchealth.org/post/san-mateo-county-covid-19-data-1
-Santa Barbara,https://publichealthsbc.org/status-reports/
-Santa Clara,https://www.sccgov.org/sites/covid19/Pages/dashboard.aspx
-Santa Cruz,https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx
-Shasta,https://www.co.shasta.ca.us/covid-19/overview
-Sierra,http://sierracounty.ca.gov/582/Coronavirus-COVID-19
-Siskiyou,https://www.co.siskiyou.ca.us/publichealth
-Solano,https://doitgis.maps.arcgis.com/apps/MapSeries/index.html?appid=055f81e9fe154da5860257e3f2489d67
-Sonoma,https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/
-Stanislaus,http://www.schsa.org/publichealth/pages/corona-virus/
-Sutter,https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus
-Tehama,https://www.tehamacohealthservices.net/services/communicable-diseases/
-Trinity,https://www.trinitycounty.org/Public-Health
-Tulare,https://tchhsa.org/eng/index.cfm/public-health/covid-19-updates-novel-coronavirus/
-Tuolumne,https://www.tuolumnecounty.ca.gov/250/Public-Health
-Ventura,https://www.vcemergency.com/
-Yolo,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/dashboard-and-documents
-Yuba,https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus
+county,fips,agency,url
+Alameda,001,Alameda,https://covid-19.acgov.org/data.page
+Alameda,001,Berkeley,https://www.cityofberkeley.info/covid19-data/
+Alpine,003,Alpine,http://alpinecountyca.gov/Index.aspx?NID=516
+Amador,005,Amador,https://www.amadorgov.org/services/covid-19/-fsiteid-1
+Butte,007,Butte,https://infogram.com/1pe66wmyjnmvkrhm66x9362kp3al60r57ex
+Calaveras,009,Calaveras,https://covid19.calaverasgov.us/
+Colusa,011,Colusa,http://www.countyofcolusa.org/771/COVID19
+Contra Costa,013,Contra Costa,https://www.coronavirus.cchealth.org/dashboard
+Del Norte,015,Del Norte,https://www.covid19.dnco.org/
+El Dorado,017,El Dorado,http://eldoradocounty.maps.arcgis.com/apps/opsdashboard/index.html#/b5315baf88c34be996a16c6f0b8fdcfb/
+Fresno,019,Fresno,https://www.co.fresno.ca.us/departments/public-health/covid-19
+Glenn,021,Glenn,https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19
+Humboldt,023,Humboldt,https://docs.google.com/spreadsheets/d/e/2PACX-1vRumJLxZ2OIN9TBV14uUbtdhxLDxddnDh0J3ASGUHMYvoS_dyal8OW2xOkbspt_hx3gj2tM5ByyVfTK/pubhtml?gid=2002140219&single=true
+Imperial,025,Imperial,http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/
+Inyo,027,Inyo,https://www.inyocounty.us/covid-19/
+Kern,029,Kern,https://kernpublichealth.com/covid-19_dashboard/
+Kings,031,Kings,https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1/
+Lake,033,Lake,http://health.co.lake.ca.us/Coronavirus/COVID-19_Data.htm
+Lassen,035,Lassen,https://lassencares.org/status
+Los Angeles,037,Long Beach,http://www.longbeach.gov/health/diseases-and-condition/information-on/coronavirus/
+Los Angeles,037,Los Angeles,http://publichealth.lacounty.gov/media/Coronavirus/locations.htm
+Los Angeles,037,Pasadena,https://www.cityofpasadena.net/public-health/news-announcements/information-on-covid-19/
+Madera,039,Madera,https://maderacounty.maps.arcgis.com/apps/opsdashboard/index.html#/5c3f6e5ce44d4160b46233ae1fa1e919
+Marin,041,Marin,https://coronavirus.marinhhs.org/
+Mariposa,043,Mariposa,https://www.mariposacounty.org/1592/COVID-19-Information
+Mendocino,045,Mendocino,https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
+Merced,047,Merced,https://mercedcounty.maps.arcgis.com/apps/opsdashboard/index.html#/f005de09bbbe4171a8bba19d74b2347b
+Modoc,049,Modoc,http://modochealthservices.org/corona-virus
+Mono,051,Mono,https://coronavirus.monocounty.ca.gov/
+Monterey,053,Monterey,https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/2019-novel-coronavirus-2019-ncov-local-data-10219
+Napa,055,Napa,https://legacy.livestories.com/s/v2/coronavirus-report-for-napa-county-ca/9065d62d-f5a6-445f-b2a9-b7cf30b846dd/
+Nevada,057,Nevada,https://www.mynevadacounty.com/2924/Coronavirus
+Orange,059,Orange,https://occovid19.ochealthinfo.com/coronavirus-in-oc
+Placer,061,Placer,https://www.placer.ca.gov/coronavirus/cases
+Plumas,063,Plumas,https://www.plumascounty.us/2669/Novel-Coronavirus-2019-COVID-19
+Riverside,065,Riverside,https://www.rivcoph.org/coronavirus
+Sacramento,067,Sacramento,https://www.arcgis.com/apps/opsdashboard/index.html#/a33a1c52e7fe4252bc1f81e44d725fd1
+San Benito,069,San Benito,https://cosb.maps.arcgis.com/apps/opsdashboard/index.html#/1b049e2ea65043baafcf5361b5b07ddd
+San Bernardino,071,San Bernardino,https://sbcph.maps.arcgis.com/apps/opsdashboard/index.html#/44bb35c804c44c8281da6d82ee602dff
+San Diego,073,San Diego,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html
+San Francisco,075,San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp
+San Joaquin,077,San Joaquin,https://sjcphs.maps.arcgis.com/apps/opsdashboard/index.html#/1234d2c9d6e043709a85f6b519cc8757
+San Luis Obispo,079,San Luis Obispo,https://www.emergencyslo.org/en/positive-case-details.aspx
+San Mateo,081,San Mateo,https://www.smchealth.org/post/san-mateo-county-covid-19-data-1
+Santa Barbara,083,Santa Barbara,https://publichealthsbc.org/status-reports/
+Santa Clara,085,Santa Clara,https://www.sccgov.org/sites/covid19/Pages/dashboard.aspx
+Santa Cruz,087,Santa Cruz,https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx
+Shasta,089,Shasta,https://www.co.shasta.ca.us/covid-19/overview
+Sierra,091,Sierra,http://sierracounty.ca.gov/582/Coronavirus-COVID-19
+Siskiyou,093,Siskiyou,https://experience.arcgis.com/experience/260818b0e9554c199bc369aa955183a9
+Solano,095,Solano,https://doitgis.maps.arcgis.com/apps/MapSeries/index.html?appid=055f81e9fe154da5860257e3f2489d67
+Sonoma,097,Sonoma,https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/
+Stanislaus,099,Stanislaus,http://www.schsa.org/publichealth/pages/corona-virus/
+Sutter,101,Sutter,https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus
+Tehama,103,Tehama,https://www.tehamacohealthservices.net/services/communicable-diseases/
+Trinity,105,Trinity,https://www.trinitycounty.org/COVID-19/
+Tulare,107,Tulare,https://tchhsa.org/eng/index.cfm/public-health/covid-19-updates-novel-coronavirus/
+Tuolumne,109,Tuolumne,https://www.tuolumnecounty.ca.gov/250/Public-Health
+Ventura,111,Ventura,https://www.venturacountyrecovers.org/
+Yolo,113,Yolo,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/dashboard-and-documents
+Yuba,115,Yuba,https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus
