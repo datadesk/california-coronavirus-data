@@ -114,10 +114,12 @@ It comes with all of the same caveats as its source. It is included here as a co
 
 The 61 local-health agency websites that the Los Angeles Times consults to conduct its survey.
 
-| field    | type   | description                                                 |
-| -------- | ------ | ----------------------------------------------------------- |
-| `agency` | string | The name of the county or city public health agency.        |
-| `url`    | string | The location of the agency's website on the World Wide Web. |
+| field    | type   | description                                                                                                                                                                                    |
+| -------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `county` | string | The name of the county where the city is located.                                                                                                                                              |
+| `fips`   | string | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources.           |
+| `agency` | string | The name of the county or city public health agency.                                                                                                                                           |
+| `url`    | string | The location of the agency's website on the World Wide Web.                                                                                                                                    |
 
 ### [latimes-place-totals.csv](./latimes-place-totals.csv)
 
