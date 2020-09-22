@@ -1,364 +1,368 @@
 date,county,name,staff_deaths,patients_deaths,staff_confirmed_cases,patients_confirmed_cases,slug,fips,staff_confirmed_cases_note,patients_confirmed_cases_note,staff_deaths_note,patients_deaths_note,confirmed_cases,deaths
-2020-09-20,Alameda,Brookdale North Fremont,0,1,21,21,brookdale-north-fremont,001,,,,,42,1
-2020-09-20,Alameda,Carlton Plaza Of San Leandro,1,0,15,1,carlton-plaza-of-san-leandro,001,,,,,16,1
-2020-09-20,Alameda,Fremont Village,1,12,28,48,fremont-village,001,,,,,76,13
-2020-09-20,Alameda,Lakeside Park,0,1,14,1,lakeside-park,001,,,,,15,1
-2020-09-20,Alameda,Lincoln Villa,0,1,1,1,lincoln-villa,001,,,,,2,1
-2020-09-20,Alameda,Marymount Villa Retirement Center,0,0,1,1,marymount-villa-retirement-center,001,,,,,2,0
-2020-09-20,Alameda,Pacifica Senior Living Oakland,0,1,1,1,pacifica-senior-living-oakland,001,,,,,2,1
-2020-09-20,Alameda,"Point At Rockridge, The",0,1,1,15,point-at-rockridge-the,001,,,,,16,1
-2020-09-20,Alameda,"St. Regis Retirement Center, Inc.",0,1,1,1,st-regis-retirement-center-inc,001,,,,,2,1
-2020-09-20,Alameda,Stoneridge Creek Pleasanton,0,0,1,1,stoneridge-creek-pleasanton,001,,,,,2,0
-2020-09-20,Alameda,"Watermark By The Bay, The",0,0,1,1,watermark-by-the-bay-the,001,,,,,2,0
-2020-09-20,Amador,Amador Residential Care Facility,0,1,1,1,amador-residential-care-facility,005,,,,,2,1
-2020-09-20,Butte,Compass Rose,0,1,1,1,compass-rose,007,,,,,2,1
-2020-09-20,Butte,Windchime Of Chico,1,1,1,16,windchime-of-chico,007,,,,,17,2
-2020-09-20,Contra Costa,Atria Valley View,0,0,1,1,atria-valley-view,013,,,,,2,0
-2020-09-20,Contra Costa,Byron Park,0,1,14,14,byron-park,013,,,,,28,1
-2020-09-20,Contra Costa,Chateau At Poets Corner,0,1,21,21,chateau-at-poets-corner,013,,,,,42,1
-2020-09-20,Contra Costa,Chateau III,0,1,36,39,chateau-iii,013,,,,,75,1
-2020-09-20,Contra Costa,Concord Royale,0,1,1,1,concord-royale,013,,,,,2,1
-2020-09-20,Contra Costa,Greenridge Senior Care,0,1,0,1,greenridge-senior-care,013,,,,,1,1
-2020-09-20,Contra Costa,Trevista Antioch,0,1,1,1,trevista-antioch,013,,,,,2,1
-2020-09-20,Contra Costa,Walnut Creek Willows,0,0,1,1,walnut-creek-willows,013,,,,,2,0
-2020-09-20,Contra Costa,Westmont Of Brentwood,0,1,1,1,westmont-of-brentwood,013,,,,,2,1
-2020-09-20,Fresno,Atria Fresno,0,1,1,1,atria-fresno,019,,,,,2,1
-2020-09-20,Fresno,Autumn Ridge Assisted Living,0,1,1,1,autumn-ridge-assisted-living,019,,,,,2,1
-2020-09-20,Fresno,Belmar Villa,0,1,1,1,belmar-villa,019,,,,,2,1
-2020-09-20,Fresno,Carmel Village Memory Care,0,1,0,1,carmel-village-memory-care,019,,,,,1,1
-2020-09-20,Fresno,Fairwinds - Woodward Park,0,1,20,1,fairwinds-woodward-park,019,,,,,21,1
-2020-09-20,Fresno,Gettysburg Christian Home,0,1,0,1,gettysburg-christian-home,019,,,,,1,1
-2020-09-20,Fresno,Kingston Bay Senior Living,0,0,1,1,kingston-bay-senior-living,019,,,,,2,0
-2020-09-20,Fresno,Orchard Park Assisted Living,0,0,1,1,orchard-park-assisted-living,019,,,,,2,0
-2020-09-20,Fresno,Paintbrush Assisted Living And Memory Care,0,0,1,11,paintbrush-assisted-living-and-memory-care,019,,,,,12,0
-2020-09-20,Fresno,Palm Village Retirement Community,0,0,11,1,palm-village-retirement-community,019,,,,,12,0
-2020-09-20,Fresno,Westmont Of Fresno,1,0,1,0,westmont-of-fresno,019,,,,,1,1
-2020-09-20,Humboldt,Alder Bay Assisted Living,0,1,1,1,alder-bay-assisted-living,023,,,,,2,1
-2020-09-20,Imperial,Blossom Valley Inn,0,1,12,55,blossom-valley-inn,025,,,,,67,1
-2020-09-20,Kern,Brookdale Riverwalk,0,0,1,12,brookdale-riverwalk,029,,,,,13,0
-2020-09-20,Kern,Centre Village,0,0,20,1,centre-village,029,,,,,21,0
-2020-09-20,Kern,Hallmark Of Bakersfield,0,0,1,13,hallmark-of-bakersfield,029,,,,,14,0
-2020-09-20,Kern,Jasmin Terrace At Bakersfield,0,1,1,1,jasmin-terrace-at-bakersfield,029,,,,,2,1
-2020-09-20,Kern,Pacifica Of Bakersfield,0,1,1,1,pacifica-of-bakersfield,029,,,,,2,1
-2020-09-20,Kern,Rosewood Retirement Community,0,1,1,1,rosewood-retirement-community,029,,,,,2,1
-2020-09-20,Los Angeles,Abbey Road Villa,0,0,1,19,abbey-road-villa,037,,,,,20,0
-2020-09-20,Los Angeles,Aegis Of Granada Hills,0,0,1,1,aegis-of-granada-hills,037,,,,,2,0
-2020-09-20,Los Angeles,Alta Vista Gardens,0,0,1,15,alta-vista-gardens,037,,,,,16,0
-2020-09-20,Los Angeles,Ararat Home Of Los Angeles,0,1,1,1,ararat-home-of-los-angeles,037,,,,,2,1
-2020-09-20,Los Angeles,Arbor Vista,0,1,1,1,arbor-vista,037,,,,,2,1
-2020-09-20,Los Angeles,Atria Park Of Pacific Palisades,0,1,1,1,atria-park-of-pacific-palisades,037,,,,,2,1
-2020-09-20,Los Angeles,Atria Rancho Park,0,1,1,1,atria-rancho-park,037,,,,,2,1
-2020-09-20,Los Angeles,Avantgarde Senior Living Of Tarzana,0,1,22,17,avantgarde-senior-living-of-tarzana,037,,,,,39,1
-2020-09-20,Los Angeles,Belmont Village Burbank,0,1,1,1,belmont-village-burbank,037,,,,,2,1
-2020-09-20,Los Angeles,Belmont Village Encino,0,1,24,26,belmont-village-encino,037,,,,,50,1
-2020-09-20,Los Angeles,Belmont Village Hollywood,0,1,20,18,belmont-village-hollywood,037,,,,,38,1
-2020-09-20,Los Angeles,Belmont Village Rancho Palos Verdes,0,1,1,1,belmont-village-rancho-palos-verdes,037,,,,,2,1
-2020-09-20,Los Angeles,Belmont Village Westwood,0,0,11,1,belmont-village-westwood,037,,,,,12,0
-2020-09-20,Los Angeles,Beverly Hills Carmel Retirement Hotel,1,1,1,15,beverly-hills-carmel-retirement-hotel,037,,,,,16,2
-2020-09-20,Los Angeles,Beverly Hills Gardens Care Center,1,1,1,12,beverly-hills-gardens-care-center,037,,,,,13,2
-2020-09-20,Los Angeles,Brittany House,0,1,1,19,brittany-house,037,,,,,20,1
-2020-09-20,Los Angeles,Brookdale Central Whittier,0,0,1,1,brookdale-central-whittier,037,,,,,2,0
-2020-09-20,Los Angeles,Brookdale Gardens Of Tarzana,0,1,1,1,brookdale-gardens-of-tarzana,037,,,,,2,1
-2020-09-20,Los Angeles,Brookdale Monrovia,0,1,1,1,brookdale-monrovia,037,,,,,2,1
-2020-09-20,Los Angeles,Brookdale Northridge,0,13,11,23,brookdale-northridge,037,,,,,34,13
-2020-09-20,Los Angeles,Canyon Trails At Topanga Senior Living,0,1,11,35,canyon-trails-at-topanga-senior-living,037,,,,,46,1
-2020-09-20,Los Angeles,Carroll Manor,0,1,1,1,carroll-manor,037,,,,,2,1
-2020-09-20,Los Angeles,Carson Senior Assisted Living,0,1,1,24,carson-senior-assisted-living,037,,,,,25,1
-2020-09-20,Los Angeles,"Cedars Assisted Living, The",0,1,13,39,cedars-assisted-living-the,037,,,,,52,1
-2020-09-20,Los Angeles,Charlie's Residential Care,0,1,1,1,charlie-s-residential-care,037,,,,,2,1
-2020-09-20,Los Angeles,"City View La, LLC",0,0,1,1,city-view-la-llc,037,,,,,2,0
-2020-09-20,Los Angeles,Claremont Manor,0,1,1,1,claremont-manor,037,,,,,2,1
-2020-09-20,Los Angeles,"Commons At Woodland Hills, The",0,1,20,29,commons-at-woodland-hills-the,037,,,,,49,1
-2020-09-20,Los Angeles,Courtyard Plaza,0,1,1,14,courtyard-plaza,037,,,,,15,1
-2020-09-20,Los Angeles,Crofton Manor Inn,0,1,22,32,crofton-manor-inn,037,,,,,54,1
-2020-09-20,Los Angeles,Fallbrook Glen Of West Hills,0,1,1,19,fallbrook-glen-of-west-hills,037,,,,,20,1
-2020-09-20,Los Angeles,Gardena Retirement Center,0,1,0,1,gardena-retirement-center,037,,,,,1,1
-2020-09-20,Los Angeles,Glen Park At Glendale - Boynton St,0,1,11,21,glen-park-at-glendale-boynton-st,037,,,,,32,1
-2020-09-20,Los Angeles,Glen Park At Long Beach,0,1,13,23,glen-park-at-long-beach,037,,,,,36,1
-2020-09-20,Los Angeles,Golden Assisted Living,0,0,1,12,golden-assisted-living,037,,,,,13,0
-2020-09-20,Los Angeles,"Grandview, The",0,1,1,18,grandview-the,037,,,,,19,1
-2020-09-20,Los Angeles,"Grove At Cerritos, The",0,1,1,1,grove-at-cerritos-the,037,,,,,2,1
-2020-09-20,Los Angeles,"Heights At Burbank, The",0,1,1,1,heights-at-burbank-the,037,,,,,2,1
-2020-09-20,Los Angeles,Hollenbeck Palms,0,0,13,1,hollenbeck-palms,037,,,,,14,0
-2020-09-20,Los Angeles,Inn At The Park Ventura,0,1,1,29,inn-at-the-park-ventura,037,,,,,30,1
-2020-09-20,Los Angeles,Jasmin Terrace At El Molino,0,19,29,66,jasmin-terrace-at-el-molino,037,,,,,95,19
-2020-09-20,Los Angeles,"Kensington Redondo Beach, The",1,1,22,22,kensington-redondo-beach-the,037,,,,,44,2
-2020-09-20,Los Angeles,"Kensington Sierra Madre, The",0,1,18,12,kensington-sierra-madre-the,037,,,,,30,1
-2020-09-20,Los Angeles,Kingsley Manor,1,0,1,0,kingsley-manor,037,,,,,1,1
-2020-09-20,Los Angeles,Lakewood Park Manor,0,1,1,1,lakewood-park-manor,037,,,,,2,1
-2020-09-20,Los Angeles,Lucerne One Llc,0,1,1,1,lucerne-one-llc,037,,,,,2,1
-2020-09-20,Los Angeles,Meadowbrook At Agoura Hills,0,1,1,1,meadowbrook-at-agoura-hills,037,,,,,2,1
-2020-09-20,Los Angeles,"Mgh Corporation, The",0,1,1,1,mgh-corporation-the,037,,,,,2,1
-2020-09-20,Los Angeles,Montecedro,0,1,1,1,montecedro,037,,,,,2,1
-2020-09-20,Los Angeles,Mountain View Center,0,1,1,15,mountain-view-center,037,,,,,16,1
-2020-09-20,Los Angeles,Mugungwha Silver Town,0,1,1,1,mugungwha-silver-town,037,,,,,2,1
-2020-09-20,Los Angeles,Oakmont Of Santa Clarita,0,1,1,14,oakmont-of-santa-clarita,037,,,,,15,1
-2020-09-20,Los Angeles,Oakmont Of Valencia,0,1,1,15,oakmont-of-valencia,037,,,,,16,1
-2020-09-20,Los Angeles,Oakview,0,1,13,1,oakview,037,,,,,14,1
-2020-09-20,Los Angeles,Pacifica Senior Living Northridge,0,16,26,42,pacifica-senior-living-northridge,037,,,,,68,16
-2020-09-20,Los Angeles,Palmcrest Grand Residence,0,1,1,15,palmcrest-grand-residence,037,,,,,16,1
-2020-09-20,Los Angeles,Regency Palms Long Beach,0,0,21,1,regency-palms-long-beach,037,,,,,22,0
-2020-09-20,Los Angeles,Regency Park Astoria,0,1,1,1,regency-park-astoria,037,,,,,2,1
-2020-09-20,Los Angeles,Rosecrans Villa Residential Care,0,0,1,14,rosecrans-villa-residential-care,037,,,,,15,0
-2020-09-20,Los Angeles,Royal Oaks,0,0,1,1,royal-oaks,037,,,,,2,0
-2020-09-20,Los Angeles,Royal Vista San Gabriel,0,1,13,39,royal-vista-san-gabriel,037,,,,,52,1
-2020-09-20,Los Angeles,Royalty Assisted Living,0,1,0,1,royalty-assisted-living,037,,,,,1,1
-2020-09-20,Los Angeles,San Dimas Retirement Center,0,1,1,1,san-dimas-retirement-center,037,,,,,2,1
-2020-09-20,Los Angeles,Silverado Senior Living - Calabasas,0,13,18,49,silverado-senior-living-calabasas,037,,,,,67,13
-2020-09-20,Los Angeles,Silverado Senior Living – Beverly Place,1,13,36,57,silverado-senior-living-beverly-place,037,,,,,93,14
-2020-09-20,Los Angeles,Solheim Senior Community,0,1,11,1,solheim-senior-community,037,,,,,12,1
-2020-09-20,Los Angeles,Spring Senior Assisted Living,0,1,1,1,spring-senior-assisted-living,037,,,,,2,1
-2020-09-20,Los Angeles,Sunrise Assisted Living Of Studio City,0,1,1,1,sunrise-assisted-living-of-studio-city,037,,,,,2,1
-2020-09-20,Los Angeles,Sunrise At Sterling Canyon,0,1,1,1,sunrise-at-sterling-canyon,037,,,,,2,1
-2020-09-20,Los Angeles,Sunrise Of Beverly Hills,0,0,1,1,sunrise-of-beverly-hills,037,,,,,2,0
-2020-09-20,Los Angeles,Sunrise Of Westlake Village,0,1,1,1,sunrise-of-westlake-village,037,,,,,2,1
-2020-09-20,Los Angeles,Sunrise Villa Culver City,0,1,1,1,sunrise-villa-culver-city,037,,,,,2,1
-2020-09-20,Los Angeles,Topanga-West Guest Home,0,0,1,11,topanga-west-guest-home,037,,,,,12,0
-2020-09-20,Los Angeles,Veterans Home Of California – West Los Angeles,0,1,1,1,veterans-home-of-california-west-los-angeles,037,,,,,2,1
-2020-09-20,Los Angeles,Villa Gardens,0,1,43,17,villa-gardens,037,,,,,60,1
-2020-09-20,Los Angeles,"Village At Sherman Oaks, The",0,0,1,1,village-at-sherman-oaks-the,037,,,,,2,0
-2020-09-20,Los Angeles,Vista Del Mar Senior Living,0,1,17,31,vista-del-mar-senior-living,037,,,,,48,1
-2020-09-20,Los Angeles,"Watermark At Beverly Hills, The",0,1,1,1,watermark-at-beverly-hills-the,037,,,,,2,1
-2020-09-20,Los Angeles,West Valley Assisted Living,0,1,1,1,west-valley-assisted-living,037,,,,,2,1
-2020-09-20,Los Angeles,Western Assemblies Home,0,1,11,1,western-assemblies-home,037,,,,,12,1
-2020-09-20,Los Angeles,Whittier Place Senior Living,0,1,1,1,whittier-place-senior-living,037,,,,,2,1
-2020-09-20,Los Angeles,Windsor Hall Care Home Inc.,0,1,1,1,windsor-hall-care-home-inc,037,,,,,2,1
-2020-09-20,Madera,Cedar Creek Senior Living,0,1,1,21,cedar-creek-senior-living,039,,,,,22,1
-2020-09-20,Marin,Aegis Assisted Living Of Corte Madera,0,1,24,20,aegis-assisted-living-of-corte-madera,041,,,,,44,1
-2020-09-20,Marin,Aegis Of Corte Madera,0,0,12,1,aegis-of-corte-madera,041,,,,,13,0
-2020-09-20,Marin,Atria Tamalpais Creek,0,1,1,1,atria-tamalpais-creek,041,,,,,2,1
-2020-09-20,Marin,Drake Terrace,0,1,13,1,drake-terrace,041,,,,,14,1
-2020-09-20,Marin,"Golden Home Extended Care, Inc.",0,0,1,13,golden-home-extended-care-inc,041,,,,,14,0
-2020-09-20,Marin,"Nazareth House Of San Rafael, Inc.",0,1,17,19,nazareth-house-of-san-rafael-inc,041,,,,,36,1
-2020-09-20,Marin,Windchime Of Marin,0,1,1,1,windchime-of-marin,041,,,,,2,1
-2020-09-20,Monterey,Sunrise Assisted Living Of Monterey,0,1,0,1,sunrise-assisted-living-of-monterey,053,,,,,1,1
-2020-09-20,Nevada,Atria Grass Valley,0,1,1,13,atria-grass-valley,057,,,,,14,1
-2020-09-20,Orange,Acacia Villas,0,1,1,15,acacia-villas,059,,,,,16,1
-2020-09-20,Orange,Activcare At Yorba Linda,0,1,11,17,activcare-at-yorba-linda,059,,,,,28,1
-2020-09-20,Orange,Anaheim Crown Plaza,0,0,1,1,anaheim-crown-plaza,059,,,,,2,0
-2020-09-20,Orange,Arbor Palms Of Anaheim,0,1,1,1,arbor-palms-of-anaheim,059,,,,,2,1
-2020-09-20,Orange,Ardent Care,0,1,1,1,ardent-care,059,,,,,2,1
-2020-09-20,Orange,Atria Del Sol,0,1,1,1,atria-del-sol,059,,,,,2,1
-2020-09-20,Orange,Atria San Juan,0,1,1,1,atria-san-juan,059,,,,,2,1
-2020-09-20,Orange,Brookdale Anaheim,0,1,1,1,brookdale-anaheim,059,,,,,2,1
-2020-09-20,Orange,Brookdale Nohl Ranch,0,1,1,1,brookdale-nohl-ranch,059,,,,,2,1
-2020-09-20,Orange,Brookdale Yorba Linda,0,1,1,1,brookdale-yorba-linda,059,,,,,2,1
-2020-09-20,Orange,Cambridge Court,0,1,1,1,cambridge-court,059,,,,,2,1
-2020-09-20,Orange,Capriana,0,1,13,1,capriana,059,,,,,14,1
-2020-09-20,Orange,Carmel Village Retirement Community,0,1,12,1,carmel-village-retirement-community,059,,,,,13,1
-2020-09-20,Orange,"Covington, The",0,0,11,1,covington-the,059,,,,,12,0
-2020-09-20,Orange,Crown Cove,0,1,1,1,crown-cove,059,,,,,2,1
-2020-09-20,Orange,"Groves Of Tustin, The",0,0,1,1,groves-of-tustin-the,059,,,,,2,0
-2020-09-20,Orange,Harbor Heights Assisted Living & Memory Care,0,0,11,0,harbor-heights-assisted-living-memory-care,059,,,,,11,0
-2020-09-20,Orange,Harvest Retirement,0,1,1,23,harvest-retirement,059,,,,,24,1
-2020-09-20,Orange,"Heathers - Wintergreen, The",0,1,1,1,heathers-wintergreen-the,059,,,,,2,1
-2020-09-20,Orange,Heritage Pointe,0,1,1,1,heritage-pointe,059,,,,,2,1
-2020-09-20,Orange,Hollybrook Senior Living Of Orange,0,1,16,17,hollybrook-senior-living-of-orange,059,,,,,33,1
-2020-09-20,Orange,Huntington Terrace,0,1,1,25,huntington-terrace,059,,,,,26,1
-2020-09-20,Orange,Karlton Residential Care Center,0,1,1,16,karlton-residential-care-center,059,,,,,17,1
-2020-09-20,Orange,"Meridian At Anaheim Hills, The",0,1,12,19,meridian-at-anaheim-hills-the,059,,,,,31,1
-2020-09-20,Orange,Merrill Gardens At Huntington Beach,0,0,12,1,merrill-gardens-at-huntington-beach,059,,,,,13,0
-2020-09-20,Orange,Morningside Of Fullerton,0,0,17,0,morningside-of-fullerton,059,,,,,17,0
-2020-09-20,Orange,"New Horizon Lodge, Inc.",0,1,1,1,new-horizon-lodge-inc,059,,,,,2,1
-2020-09-20,Orange,Pacifica Royale Assisted Living Community,0,1,1,1,pacifica-royale-assisted-living-community,059,,,,,2,1
-2020-09-20,Orange,Pacifica Senior Living South Coast,0,1,1,1,pacifica-senior-living-south-coast,059,,,,,2,1
-2020-09-20,Orange,Park Regency Retirement Center,0,1,13,32,park-regency-retirement-center,059,,,,,45,1
-2020-09-20,Orange,Park Terrace,0,1,1,1,park-terrace,059,,,,,2,1
-2020-09-20,Orange,"Regency, The",0,1,1,1,regency-the,059,,,,,2,1
-2020-09-20,Orange,Rowntree Gardens,0,0,16,1,rowntree-gardens,059,,,,,17,0
-2020-09-20,Orange,San Clemente Villas By The Sea,0,1,14,16,san-clemente-villas-by-the-sea,059,,,,,30,1
-2020-09-20,Orange,Sea Cliff Assisted Living,0,1,1,1,sea-cliff-assisted-living,059,,,,,2,1
-2020-09-20,Orange,Seaside Terrace Retirement Community,0,1,1,1,seaside-terrace-retirement-community,059,,,,,2,1
-2020-09-20,Orange,Silverado Senior Living - San Juan Capistrano,0,1,19,25,silverado-senior-living-san-juan-capistrano,059,,,,,44,1
-2020-09-20,Orange,Silverado Senior Living – Newport Mesa,0,1,1,1,silverado-senior-living-newport-mesa,059,,,,,2,1
-2020-09-20,Orange,Silverado Senior Living – Tustin Hacienda,0,1,15,18,silverado-senior-living-tustin-hacienda,059,,,,,33,1
-2020-09-20,Orange,St. Francis Home,0,1,1,13,st-francis-home,059,,,,,14,1
-2020-09-20,Orange,Sunflower Gardens,0,1,22,38,sunflower-gardens,059,,,,,60,1
-2020-09-20,Orange,Sunnycrest Senior Living,0,0,1,1,sunnycrest-senior-living,059,,,,,2,0
-2020-09-20,Orange,Valley View Gardens,0,0,1,1,valley-view-gardens,059,,,,,2,0
-2020-09-20,Orange,Vivante On The Coast,0,1,18,32,vivante-on-the-coast,059,,,,,50,1
-2020-09-20,Orange,Walnut Village,0,1,19,14,walnut-village,059,,,,,33,1
-2020-09-20,Orange,Whitten Heights Assisted Living And Memory Care,0,1,15,24,whitten-heights-assisted-living-and-memory-care,059,,,,,39,1
-2020-09-20,Placer,Atria Rocklin,0,1,0,1,atria-rocklin,061,,,,,1,1
-2020-09-20,Placer,Gladding Ridge,0,1,1,1,gladding-ridge,061,,,,,2,1
-2020-09-20,Placer,Summerset Lincoln Assisted Living And Memory Care,0,1,1,1,summerset-lincoln-assisted-living-and-memory-care,061,,,,,2,1
-2020-09-20,Placer,"Villas At Stanford Ranch, The",0,1,1,1,villas-at-stanford-ranch-the,061,,,,,2,1
-2020-09-20,Riverside,At Sunny Hills Home Care,0,1,1,1,at-sunny-hills-home-care,065,,,,,2,1
-2020-09-20,Riverside,Atria Hacienda,0,0,11,1,atria-hacienda,065,,,,,12,0
-2020-09-20,Riverside,Bella Villaggio,0,1,1,1,bella-villaggio,065,,,,,2,1
-2020-09-20,Riverside,Brookdale Mirage Inn,0,1,1,20,brookdale-mirage-inn,065,,,,,21,1
-2020-09-20,Riverside,Brookdale North Euclid,0,0,1,1,brookdale-north-euclid,065,,,,,2,0
-2020-09-20,Riverside,Caleo Bay Alzheimer's Special Care Center,1,1,14,33,caleo-bay-alzheimer-s-special-care-center,065,,,,,47,2
-2020-09-20,Riverside,"Fountains At The Carlotta, The",0,1,1,1,fountains-at-the-carlotta-the,065,,,,,2,1
-2020-09-20,Riverside,"Gardens Of Riverside, The",0,1,19,30,gardens-of-riverside-the,065,,,,,49,1
-2020-09-20,Riverside,Gladwell Rancho Mirage,0,1,11,13,gladwell-rancho-mirage,065,,,,,24,1
-2020-09-20,Riverside,Gladwell Rancho Mirage Riverside,0,1,1,14,gladwell-rancho-mirage-riverside,065,,,,,15,1
-2020-09-20,Riverside,Kenneth Slaman,0,1,1,1,kenneth-slaman,065,,,,,2,1
-2020-09-20,Riverside,"Lakes, The",0,1,18,31,lakes-the,065,,,,,49,1
-2020-09-20,Riverside,Our Countryside Resort,0,1,1,16,our-countryside-resort,065,,,,,17,1
-2020-09-20,Riverside,Pacifica Senior Living Riverside,0,1,18,32,pacifica-senior-living-riverside,065,,,,,50,1
-2020-09-20,Riverside,"Palms At La Quinta, The",1,1,1,19,palms-at-la-quinta-the,065,,,,,20,2
-2020-09-20,Riverside,Pico De Loro,0,1,0,1,pico-de-loro,065,,,,,1,1
-2020-09-20,Riverside,Raincross At Riverside,0,1,1,14,raincross-at-riverside,065,,,,,15,1
-2020-09-20,Riverside,Renaissance Village Murrieta,0,1,1,1,renaissance-village-murrieta,065,,,,,2,1
-2020-09-20,Riverside,Renaissance Village Rancho Belago,0,1,12,11,renaissance-village-rancho-belago,065,,,,,23,1
-2020-09-20,Riverside,Segovia Of Palm Desert,0,0,1,1,segovia-of-palm-desert,065,,,,,2,0
-2020-09-20,Riverside,The Lakes,0,1,15,27,the-lakes,065,,,,,42,1
-2020-09-20,Riverside,Valencia Terrace,0,1,1,1,valencia-terrace,065,,,,,2,1
-2020-09-20,Riverside,Vineyard Ranch At Temecula,0,1,1,1,vineyard-ranch-at-temecula,065,,,,,2,1
-2020-09-20,Riverside,Vista Cove At Rancho Mirage,0,1,14,29,vista-cove-at-rancho-mirage,065,,,,,43,1
-2020-09-20,Riverside,Welbrook Senior Living Arlington,1,1,18,11,welbrook-senior-living-arlington,065,,,,,29,2
-2020-09-20,Riverside,Westmont Village,0,1,1,1,westmont-village,065,,,,,2,1
-2020-09-20,Riverside,Wildomar Senior Assisted Living,0,1,16,11,wildomar-senior-assisted-living,065,,,,,27,1
-2020-09-20,Riverside,Windsor Court Assisted Living,0,1,1,15,windsor-court-assisted-living,065,,,,,16,1
-2020-09-20,Riverside,Yorkshire Village,0,1,12,36,yorkshire-village,065,,,,,48,1
-2020-09-20,Sacramento,Atria Carmichael Oaks,0,1,1,1,atria-carmichael-oaks,067,,,,,2,1
-2020-09-20,Sacramento,Carlton Plaza Of Elk Grove,0,1,1,1,carlton-plaza-of-elk-grove,067,,,,,2,1
-2020-09-20,Sacramento,Carlton Plaza Of Sacramento,0,1,18,19,carlton-plaza-of-sacramento,067,,,,,37,1
-2020-09-20,Sacramento,City Creek Assisted Living,0,0,1,1,city-creek-assisted-living,067,,,,,2,0
-2020-09-20,Sacramento,Eskaton Gold River Lodge,0,1,1,1,eskaton-gold-river-lodge,067,,,,,2,1
-2020-09-20,Sacramento,Eskaton Village,1,1,12,1,eskaton-village,067,,,,,13,2
-2020-09-20,Sacramento,Fruitridge Villa,0,1,1,1,fruitridge-villa,067,,,,,2,1
-2020-09-20,Sacramento,Greenhaven Estates,0,1,1,1,greenhaven-estates,067,,,,,2,1
-2020-09-20,Sacramento,Hospitality House,0,1,0,1,hospitality-house,067,,,,,1,1
-2020-09-20,Sacramento,"Meadows At Country Place, The",0,1,0,1,meadows-at-country-place-the,067,,,,,1,1
-2020-09-20,Sacramento,Oakmont Of Folsom,0,1,1,22,oakmont-of-folsom,067,,,,,23,1
-2020-09-20,Sacramento,Sky Park Gardens,0,1,18,28,sky-park-gardens,067,,,,,46,1
-2020-09-20,Sacramento,Summerset Assisted Living,0,1,1,22,summerset-assisted-living,067,,,,,23,1
-2020-09-20,Sacramento,Sun Oak Assisted Living,0,0,1,1,sun-oak-assisted-living,067,,,,,2,0
-2020-09-20,Sacramento,Sunrise Assisted Living Of Fair Oaks,0,1,1,17,sunrise-assisted-living-of-fair-oaks,067,,,,,18,1
-2020-09-20,Sacramento,Sunrise Assisted Living Of Sacramento,0,1,24,25,sunrise-assisted-living-of-sacramento,067,,,,,49,1
-2020-09-20,Sacramento,Walnut House,0,1,1,1,walnut-house,067,,,,,2,1
-2020-09-20,Sacramento,"Waterleaf At Land Park, The",0,1,1,12,waterleaf-at-land-park-the,067,,,,,13,1
-2020-09-20,San Bernardino,Abria Del Cielo,0,0,1,49,abria-del-cielo,071,,,,,50,0
-2020-09-20,San Bernardino,Benson House,0,0,1,1,benson-house,071,,,,,2,0
-2020-09-20,San Bernardino,Blossom Grove Alzheimer's Special Care Center,0,1,1,16,blossom-grove-alzheimer-s-special-care-center,071,,,,,17,1
-2020-09-20,San Bernardino,Brookdale North Euclid,0,0,1,1,brookdale-north-euclid,071,,,,,2,0
-2020-09-20,San Bernardino,Hamilton Home,0,0,1,12,hamilton-home,071,,,,,13,0
-2020-09-20,San Bernardino,Linda Valley Assisted Living,0,1,14,11,linda-valley-assisted-living,071,,,,,25,1
-2020-09-20,San Bernardino,Lotus Villa And Memory Care,0,1,1,16,lotus-villa-and-memory-care,071,,,,,17,1
-2020-09-20,San Bernardino,Mission Commons,0,1,12,14,mission-commons,071,,,,,26,1
-2020-09-20,San Bernardino,Montclair Royale Senior Living,0,1,1,1,montclair-royale-senior-living,071,,,,,2,1
-2020-09-20,San Bernardino,Oakmont Of San Antonio Heights,0,1,1,1,oakmont-of-san-antonio-heights,071,,,,,2,1
-2020-09-20,San Bernardino,Pacifica Senior Living Hillsborough,0,1,1,16,pacifica-senior-living-hillsborough,071,,,,,17,1
-2020-09-20,San Bernardino,Plymouth Village Of Redlands,0,1,15,1,plymouth-village-of-redlands,071,,,,,16,1
-2020-09-20,San Bernardino,Rose Garden Residential Care,0,14,1,43,rose-garden-residential-care,071,,,,,44,14
-2020-09-20,San Bernardino,Skyline Villa,1,0,1,0,skyline-villa,071,,,,,1,1
-2020-09-20,San Bernardino,Sterling Commons,0,1,1,1,sterling-commons,071,,,,,2,1
-2020-09-20,San Bernardino,Sterling Inn,1,0,1,1,sterling-inn,071,,,,,2,1
-2020-09-20,San Bernardino,Villas At San Bernardino,1,0,1,1,villas-at-san-bernardino,071,,,,,2,1
-2020-09-20,San Diego,Activcare At 4S Ranch,0,1,1,1,activcare-at-4s-ranch,073,,,,,2,1
-2020-09-20,San Diego,Activcare At Mission Bay,0,1,0,1,activcare-at-mission-bay,073,,,,,1,1
-2020-09-20,San Diego,Activcare At Rolling Hills Ranch,0,1,1,21,activcare-at-rolling-hills-ranch,073,,,,,22,1
-2020-09-20,San Diego,Aegis Assisted Living At Shadowridge,0,0,12,11,aegis-assisted-living-at-shadowridge,073,,,,,23,0
-2020-09-20,San Diego,Atria Collwood,1,0,1,0,atria-collwood,073,,,,,1,1
-2020-09-20,San Diego,Atria Rancho Penasquitos,0,1,1,25,atria-rancho-penasquitos,073,,,,,26,1
-2020-09-20,San Diego,Belmont Village Sabre Springs,0,0,1,1,belmont-village-sabre-springs,073,,,,,2,0
-2020-09-20,San Diego,Brookdale Clairemont,1,0,1,1,brookdale-clairemont,073,,,,,2,1
-2020-09-20,San Diego,Brookdale Place Of San Marcos,0,0,1,1,brookdale-place-of-san-marcos,073,,,,,2,0
-2020-09-20,San Diego,Cedars @ Paradise Village,0,1,0,1,cedars-paradise-village,073,,,,,1,1
-2020-09-20,San Diego,Cloisters Of The Valley,0,1,1,1,cloisters-of-the-valley,073,,,,,2,1
-2020-09-20,San Diego,"Cloisters Of The Valley, LLC",0,1,1,1,cloisters-of-the-valley-llc,073,,,,,2,1
-2020-09-20,San Diego,Cypress Court Escondido,0,1,1,1,cypress-court-escondido,073,,,,,2,1
-2020-09-20,San Diego,Elmcroft Of La Mesa,0,14,18,34,elmcroft-of-la-mesa,073,,,,,52,14
-2020-09-20,San Diego,Fredericka Manor,0,0,15,1,fredericka-manor,073,,,,,16,0
-2020-09-20,San Diego,"Golden Living Health Management, Inc.",0,1,14,1,golden-living-health-management-inc,073,,,,,15,1
-2020-09-20,San Diego,"Golden Living Health Mangement, Inc.",0,0,1,1,golden-living-health-mangement-inc,073,,,,,2,0
-2020-09-20,San Diego,Kasitz Kastle,0,1,1,1,kasitz-kastle,073,,,,,2,1
-2020-09-20,San Diego,La Vida Real,0,1,23,13,la-vida-real,073,,,,,36,1
-2020-09-20,San Diego,Lantern Crest,0,1,1,12,lantern-crest,073,,,,,13,1
-2020-09-20,San Diego,Leichtag Family Assisted Living Residence,0,0,1,1,leichtag-family-assisted-living-residence,073,,,,,2,0
-2020-09-20,San Diego,Mesaview Senior Assisted Living,1,0,1,0,mesaview-senior-assisted-living,073,,,,,1,1
-2020-09-20,San Diego,Nazareth House,0,0,13,0,nazareth-house,073,,,,,13,0
-2020-09-20,San Diego,Oakmont Of Escondido Hills,0,1,1,1,oakmont-of-escondido-hills,073,,,,,2,1
-2020-09-20,San Diego,Pacifica Senior Living Escondido,0,1,11,1,pacifica-senior-living-escondido,073,,,,,12,1
-2020-09-20,San Diego,Pacifica Senior Living Vista,0,1,1,1,pacifica-senior-living-vista,073,,,,,2,1
-2020-09-20,San Diego,Plaza Village Senior Living,0,1,1,15,plaza-village-senior-living,073,,,,,16,1
-2020-09-20,San Diego,Redwood Terrace,0,1,1,1,redwood-terrace,073,,,,,2,1
-2020-09-20,San Diego,Silverado Senior Living - Escondido,0,1,1,17,silverado-senior-living-escondido,073,,,,,18,1
-2020-09-20,San Diego,St. Paul's Plaza,0,0,13,0,st-paul-s-plaza,073,,,,,13,0
-2020-09-20,San Diego,St. Paul's Villa,0,0,1,1,st-paul-s-villa,073,,,,,2,0
-2020-09-20,San Diego,Stellar Care,1,1,1,13,stellar-care,073,,,,,14,2
-2020-09-20,San Diego,Sun And Sea Assisted Living,0,1,1,12,sun-and-sea-assisted-living,073,,,,,13,1
-2020-09-20,San Diego,Vi At La Jolla Village,0,0,11,0,vi-at-la-jolla-village,073,,,,,11,0
-2020-09-20,San Diego,Wesley Palms,0,0,12,0,wesley-palms,073,,,,,12,0
-2020-09-20,San Francisco,Buena Vista Manor House,0,1,13,26,buena-vista-manor-house,075,,,,,39,1
-2020-09-20,San Francisco,Coventry Place,0,1,1,1,coventry-place,075,,,,,2,1
-2020-09-20,San Francisco,Portola Gardens,0,1,1,13,portola-gardens,075,,,,,14,1
-2020-09-20,San Francisco,San Francisco Towers,0,1,1,1,san-francisco-towers,075,,,,,2,1
-2020-09-20,San Joaquin,Astoria Gardens,0,1,1,1,astoria-gardens,077,,,,,2,1
-2020-09-20,San Joaquin,Beth Haven,0,0,1,1,beth-haven,077,,,,,2,0
-2020-09-20,San Joaquin,Brookdale Tracy,0,1,19,29,brookdale-tracy,077,,,,,48,1
-2020-09-20,San Joaquin,Camlu Assisted Living,0,0,1,1,camlu-assisted-living,077,,,,,2,0
-2020-09-20,San Joaquin,"Commons On Thornton, The",0,0,12,11,commons-on-thornton-the,077,,,,,23,0
-2020-09-20,San Joaquin,Golden Haven,0,1,15,48,golden-haven,077,,,,,63,1
-2020-09-20,San Joaquin,O'connor Woods Assisted Living,0,1,1,1,o-connor-woods-assisted-living,077,,,,,2,1
-2020-09-20,San Joaquin,Oakmont Of Brookside,0,1,1,1,oakmont-of-brookside,077,,,,,2,1
-2020-09-20,San Joaquin,Plymouth Square,0,1,1,1,plymouth-square,077,,,,,2,1
-2020-09-20,San Joaquin,Prestige Assisted Living At Manteca,0,1,1,1,prestige-assisted-living-at-manteca,077,,,,,2,1
-2020-09-20,San Joaquin,Rose Place Memory Care,0,1,14,34,rose-place-memory-care,077,,,,,48,1
-2020-09-20,San Joaquin,Wagner Heights Residential,0,1,1,1,wagner-heights-residential,077,,,,,2,1
-2020-09-20,San Luis Obispo,Ingleside Park Assisted Living Llc,0,1,1,1,ingleside-park-assisted-living-llc,079,,,,,2,1
-2020-09-20,San Luis Obispo,Paradise Valley Care,0,1,1,1,paradise-valley-care,079,,,,,2,1
-2020-09-20,San Luis Obispo,Vista Rosa Elder Care,0,1,1,1,vista-rosa-elder-care,079,,,,,2,1
-2020-09-20,San Mateo,"Abigail Complete Care, Inc",0,1,1,20,abigail-complete-care-inc,081,,,,,21,1
-2020-09-20,San Mateo,Aegis Assisted Living Of San Francisco,0,1,0,1,aegis-assisted-living-of-san-francisco,081,,,,,1,1
-2020-09-20,San Mateo,Atria Burlingame,0,1,1,1,atria-burlingame,081,,,,,2,1
-2020-09-20,San Mateo,Atria Daly City,0,1,13,16,atria-daly-city,081,,,,,29,1
-2020-09-20,San Mateo,Gordon Manor,0,12,11,23,gordon-manor,081,,,,,34,12
-2020-09-20,San Mateo,Kensington Place Redwood City,0,1,1,1,kensington-place-redwood-city,081,,,,,2,1
-2020-09-20,San Mateo,Peninsula Regent (The),1,0,17,1,peninsula-regent-the,081,,,,,18,1
-2020-09-20,San Mateo,San Carlos Elms,0,1,1,1,san-carlos-elms,081,,,,,2,1
-2020-09-20,San Mateo,Silver Oaks,0,1,0,1,silver-oaks,081,,,,,1,1
-2020-09-20,San Mateo,Sterling Court,0,1,1,1,sterling-court,081,,,,,2,1
-2020-09-20,San Mateo,Sunrise Of Burlingame,0,1,13,1,sunrise-of-burlingame,081,,,,,14,1
-2020-09-20,San Mateo,Vista Terrace Of Belmont,0,1,1,1,vista-terrace-of-belmont,081,,,,,2,1
-2020-09-20,San Mateo,Westborough Royale,0,1,1,1,westborough-royale,081,,,,,2,1
-2020-09-20,Santa Barbara,Casa Dorinda,0,1,1,1,casa-dorinda,083,,,,,2,1
-2020-09-20,Santa Barbara,Granvida Senior Living And Memory Care,0,1,1,18,granvida-senior-living-and-memory-care,083,,,,,19,1
-2020-09-20,Santa Barbara,Maravilla,0,1,1,1,maravilla,083,,,,,2,1
-2020-09-20,Santa Barbara,Pacifica Senior Living Santa Barbara,0,1,1,1,pacifica-senior-living-santa-barbara,083,,,,,2,1
-2020-09-20,Santa Barbara,Santa Maria Terrace,0,0,1,12,santa-maria-terrace,083,,,,,13,0
-2020-09-20,Santa Barbara,Solvang Friendship House,0,0,1,1,solvang-friendship-house,083,,,,,2,0
-2020-09-20,Santa Barbara,Valle Verde,0,1,1,1,valle-verde,083,,,,,2,1
-2020-09-20,Santa Barbara,Villa Alamar,0,1,0,1,villa-alamar,083,,,,,1,1
-2020-09-20,Santa Clara,Brookdale San Jose,0,0,11,1,brookdale-san-jose,085,,,,,12,0
-2020-09-20,Santa Clara,Laurel Haven,0,1,0,1,laurel-haven,085,,,,,1,1
-2020-09-20,Santa Clara,Pacific Gardens,1,1,20,13,pacific-gardens,085,,,,,33,2
-2020-09-20,Santa Clara,Sunny View Retirement Community,0,1,1,1,sunny-view-retirement-community,085,,,,,2,1
-2020-09-20,Santa Clara,"Terraces Of Los Gatos, The",0,1,1,1,terraces-of-los-gatos-the,085,,,,,2,1
-2020-09-20,Santa Clara,Vi At Palo Alto,0,1,1,12,vi-at-palo-alto,085,,,,,13,1
-2020-09-20,Santa Clara,Vila Monte,1,0,1,1,vila-monte,085,,,,,2,1
-2020-09-20,Santa Clara,Villa Fontana,0,1,26,35,villa-fontana,085,,,,,61,1
-2020-09-20,Santa Cruz,Ocean View Home,0,0,1,1,ocean-view-home,087,,,,,2,0
-2020-09-20,Solano,Cornerstone Assisted Living,0,0,1,15,cornerstone-assisted-living,095,,,,,16,0
-2020-09-20,Solano,Magnolia Court,0,0,1,1,magnolia-court,095,,,,,2,0
-2020-09-20,Solano,Parkrose Gardens Of Fairfield,1,1,14,36,parkrose-gardens-of-fairfield,095,,,,,50,2
-2020-09-20,Sonoma,Brookdale Windsor,0,1,12,14,brookdale-windsor,097,,,,,26,1
-2020-09-20,Sonoma,Hanna House Ridley,0,1,1,23,hanna-house-ridley,097,,,,,24,1
-2020-09-20,Sonoma,Mirabel Lodge,0,1,1,14,mirabel-lodge,097,,,,,15,1
-2020-09-20,Sonoma,Oakmont Gardens,0,0,1,1,oakmont-gardens,097,,,,,2,0
-2020-09-20,Sonoma,Primrose Alzheimer's Living Inc,0,1,18,34,primrose-alzheimer-s-living-inc,097,,,,,52,1
-2020-09-20,Sonoma,Sunrise Of Petaluma,0,1,25,24,sunrise-of-petaluma,097,,,,,49,1
-2020-09-20,Sonoma,Sunrise Villa Santa Rosa,0,1,1,1,sunrise-villa-santa-rosa,097,,,,,2,1
-2020-09-20,Stanislaus,Bethel Assisted Living,0,1,11,16,bethel-assisted-living,099,,,,,27,1
-2020-09-20,Stanislaus,El Rio Memory Care Community,1,17,19,44,el-rio-memory-care-community,099,,,,,63,18
-2020-09-20,Stanislaus,Hospitality House,0,1,1,1,hospitality-house,099,,,,,2,1
-2020-09-20,Stanislaus,"Modesto Residential Living Center, Llc",0,0,1,1,modesto-residential-living-center-llc,099,,,,,2,0
-2020-09-20,Stanislaus,Paramount Court Senior Living,0,0,11,1,paramount-court-senior-living,099,,,,,12,0
-2020-09-20,Stanislaus,St. Thomas Retirement Center,0,1,0,1,st-thomas-retirement-center,099,,,,,1,1
-2020-09-20,Stanislaus,Vintage Faire Residential,0,1,1,13,vintage-faire-residential,099,,,,,14,1
-2020-09-20,Tulare,Casa Grande Senior Care Home #2,0,1,1,1,casa-grande-senior-care-home-2,107,,,,,2,1
-2020-09-20,Ventura,Atria Grand Oaks,0,1,1,1,atria-grand-oaks,111,,,,,2,1
-2020-09-20,Ventura,Belmont Village Thousand Oaks,0,0,1,1,belmont-village-thousand-oaks,111,,,,,2,0
-2020-09-20,Ventura,Lexington Assisted Living,0,1,1,1,lexington-assisted-living,111,,,,,2,1
-2020-09-20,Ventura,Pacifica Senior Living Oxnard,0,1,1,1,pacifica-senior-living-oxnard,111,,,,,2,1
-2020-09-20,Ventura,"Reserve At Thousand Oaks, The",0,0,12,1,reserve-at-thousand-oaks-the,111,,,,,13,0
-2020-09-20,Ventura,Sunrise At Wood Ranch,0,1,1,1,sunrise-at-wood-ranch,111,,,,,2,1
-2020-09-20,Ventura,University Village Thousand Oaks,0,1,1,1,university-village-thousand-oaks,111,,,,,2,1
-2020-09-20,Ventura,Ventura Townehouse,0,1,24,32,ventura-townehouse,111,,,,,56,1
-2020-09-20,Ventura,Wellness Care Senior Living,0,1,16,29,wellness-care-senior-living,111,,,,,45,1
-2020-09-20,Yolo,Gloria's Country Care,0,1,1,1,gloria-s-country-care,113,,,,,2,1
-2020-09-20,Yolo,St. John's Retirement Village/Manor,0,0,11,0,st-john-s-retirement-village-manor,113,,,,,11,0
-2020-09-20,Yolo,University Retirement Community At Davis,0,0,14,1,university-retirement-community-at-davis,113,,,,,15,0
-2020-09-20,Yuba,Comfort Haven For The Elderly,0,1,1,1,comfort-haven-for-the-elderly,115,,,,,2,1
+2020-09-21,Alameda,Brookdale North Fremont,0,1,21,21,brookdale-north-fremont,001,,,,,42,1
+2020-09-21,Alameda,Carlton Plaza Of San Leandro,1,0,15,1,carlton-plaza-of-san-leandro,001,,,,,16,1
+2020-09-21,Alameda,Fremont Village,1,12,28,48,fremont-village,001,,,,,76,13
+2020-09-21,Alameda,Lakeside Park,0,1,14,1,lakeside-park,001,,,,,15,1
+2020-09-21,Alameda,Lincoln Villa,0,1,1,1,lincoln-villa,001,,,,,2,1
+2020-09-21,Alameda,Marymount Villa Retirement Center,0,0,1,1,marymount-villa-retirement-center,001,,,,,2,0
+2020-09-21,Alameda,Pacifica Senior Living Oakland,0,1,1,1,pacifica-senior-living-oakland,001,,,,,2,1
+2020-09-21,Alameda,"Point At Rockridge, The",0,1,1,15,point-at-rockridge-the,001,,,,,16,1
+2020-09-21,Alameda,"St. Regis Retirement Center, Inc.",0,1,1,1,st-regis-retirement-center-inc,001,,,,,2,1
+2020-09-21,Alameda,Stoneridge Creek Pleasanton,0,0,1,1,stoneridge-creek-pleasanton,001,,,,,2,0
+2020-09-21,Alameda,"Watermark By The Bay, The",0,0,1,1,watermark-by-the-bay-the,001,,,,,2,0
+2020-09-21,Amador,Amador Residential Care Facility,0,1,1,1,amador-residential-care-facility,005,,,,,2,1
+2020-09-21,Butte,Compass Rose,0,1,1,1,compass-rose,007,,,,,2,1
+2020-09-21,Butte,Windchime Of Chico,1,1,1,16,windchime-of-chico,007,,,,,17,2
+2020-09-21,Contra Costa,Atria Valley View,0,0,1,1,atria-valley-view,013,,,,,2,0
+2020-09-21,Contra Costa,Byron Park,0,1,14,14,byron-park,013,,,,,28,1
+2020-09-21,Contra Costa,Chateau At Poets Corner,0,1,21,21,chateau-at-poets-corner,013,,,,,42,1
+2020-09-21,Contra Costa,Chateau III,0,1,36,39,chateau-iii,013,,,,,75,1
+2020-09-21,Contra Costa,Concord Royale,0,1,1,1,concord-royale,013,,,,,2,1
+2020-09-21,Contra Costa,Greenridge Senior Care,0,1,0,1,greenridge-senior-care,013,,,,,1,1
+2020-09-21,Contra Costa,Trevista Antioch,0,1,1,1,trevista-antioch,013,,,,,2,1
+2020-09-21,Contra Costa,Walnut Creek Willows,0,0,1,1,walnut-creek-willows,013,,,,,2,0
+2020-09-21,Contra Costa,Westmont Of Brentwood,0,1,1,1,westmont-of-brentwood,013,,,,,2,1
+2020-09-21,Fresno,Atria Fresno,0,1,1,1,atria-fresno,019,,,,,2,1
+2020-09-21,Fresno,Autumn Ridge Assisted Living,0,1,1,1,autumn-ridge-assisted-living,019,,,,,2,1
+2020-09-21,Fresno,Belmar Villa,0,1,1,1,belmar-villa,019,,,,,2,1
+2020-09-21,Fresno,Carmel Village Memory Care,0,1,0,1,carmel-village-memory-care,019,,,,,1,1
+2020-09-21,Fresno,Fairwinds - Woodward Park,0,1,20,1,fairwinds-woodward-park,019,,,,,21,1
+2020-09-21,Fresno,Gettysburg Christian Home,0,1,0,1,gettysburg-christian-home,019,,,,,1,1
+2020-09-21,Fresno,Kingston Bay Senior Living,0,0,1,1,kingston-bay-senior-living,019,,,,,2,0
+2020-09-21,Fresno,Orchard Park Assisted Living,0,0,1,1,orchard-park-assisted-living,019,,,,,2,0
+2020-09-21,Fresno,Paintbrush Assisted Living And Memory Care,0,0,1,11,paintbrush-assisted-living-and-memory-care,019,,,,,12,0
+2020-09-21,Fresno,Palm Village Retirement Community,0,0,11,1,palm-village-retirement-community,019,,,,,12,0
+2020-09-21,Fresno,Westmont Of Fresno,1,0,1,0,westmont-of-fresno,019,,,,,1,1
+2020-09-21,Humboldt,Alder Bay Assisted Living,0,1,1,1,alder-bay-assisted-living,023,,,,,2,1
+2020-09-21,Imperial,Blossom Valley Inn,0,1,12,56,blossom-valley-inn,025,,,,,68,1
+2020-09-21,Kern,Brookdale Riverwalk,0,0,1,12,brookdale-riverwalk,029,,,,,13,0
+2020-09-21,Kern,Centre Village,0,0,20,1,centre-village,029,,,,,21,0
+2020-09-21,Kern,Hallmark Of Bakersfield,0,0,1,13,hallmark-of-bakersfield,029,,,,,14,0
+2020-09-21,Kern,Jasmin Terrace At Bakersfield,0,1,1,1,jasmin-terrace-at-bakersfield,029,,,,,2,1
+2020-09-21,Kern,Pacifica Of Bakersfield,0,1,1,1,pacifica-of-bakersfield,029,,,,,2,1
+2020-09-21,Kern,Rosewood Retirement Community,0,1,1,1,rosewood-retirement-community,029,,,,,2,1
+2020-09-21,Los Angeles,Abbey Road Villa,0,0,1,19,abbey-road-villa,037,,,,,20,0
+2020-09-21,Los Angeles,Aegis Of Granada Hills,0,0,1,1,aegis-of-granada-hills,037,,,,,2,0
+2020-09-21,Los Angeles,Alta Vista Gardens,0,0,1,15,alta-vista-gardens,037,,,,,16,0
+2020-09-21,Los Angeles,Ararat Home Of Los Angeles,0,1,1,1,ararat-home-of-los-angeles,037,,,,,2,1
+2020-09-21,Los Angeles,Arbor Vista,0,1,1,1,arbor-vista,037,,,,,2,1
+2020-09-21,Los Angeles,Atria Park Of Pacific Palisades,0,1,1,1,atria-park-of-pacific-palisades,037,,,,,2,1
+2020-09-21,Los Angeles,Atria Rancho Park,0,1,1,1,atria-rancho-park,037,,,,,2,1
+2020-09-21,Los Angeles,Avantgarde Senior Living Of Tarzana,0,1,22,17,avantgarde-senior-living-of-tarzana,037,,,,,39,1
+2020-09-21,Los Angeles,Belmont Village Burbank,0,1,1,1,belmont-village-burbank,037,,,,,2,1
+2020-09-21,Los Angeles,Belmont Village Encino,0,1,24,26,belmont-village-encino,037,,,,,50,1
+2020-09-21,Los Angeles,Belmont Village Hollywood,0,1,20,20,belmont-village-hollywood,037,,,,,40,1
+2020-09-21,Los Angeles,Belmont Village Rancho Palos Verdes,0,1,1,1,belmont-village-rancho-palos-verdes,037,,,,,2,1
+2020-09-21,Los Angeles,Belmont Village Westwood,0,0,11,1,belmont-village-westwood,037,,,,,12,0
+2020-09-21,Los Angeles,Beverly Hills Carmel Retirement Hotel,1,1,1,15,beverly-hills-carmel-retirement-hotel,037,,,,,16,2
+2020-09-21,Los Angeles,Beverly Hills Gardens Care Center,1,1,1,12,beverly-hills-gardens-care-center,037,,,,,13,2
+2020-09-21,Los Angeles,Brittany House,0,1,1,20,brittany-house,037,,,,,21,1
+2020-09-21,Los Angeles,Brookdale Central Whittier,0,0,1,1,brookdale-central-whittier,037,,,,,2,0
+2020-09-21,Los Angeles,Brookdale Gardens Of Tarzana,0,1,1,1,brookdale-gardens-of-tarzana,037,,,,,2,1
+2020-09-21,Los Angeles,Brookdale Monrovia,0,1,1,1,brookdale-monrovia,037,,,,,2,1
+2020-09-21,Los Angeles,Brookdale Northridge,0,13,11,23,brookdale-northridge,037,,,,,34,13
+2020-09-21,Los Angeles,Canyon Trails At Topanga Senior Living,0,1,11,36,canyon-trails-at-topanga-senior-living,037,,,,,47,1
+2020-09-21,Los Angeles,Carroll Manor,0,1,1,1,carroll-manor,037,,,,,2,1
+2020-09-21,Los Angeles,Carson Senior Assisted Living,0,1,1,24,carson-senior-assisted-living,037,,,,,25,1
+2020-09-21,Los Angeles,"Cedars Assisted Living, The",0,1,13,39,cedars-assisted-living-the,037,,,,,52,1
+2020-09-21,Los Angeles,Charlie's Residential Care,0,1,1,1,charlie-s-residential-care,037,,,,,2,1
+2020-09-21,Los Angeles,"City View La, LLC",0,0,1,1,city-view-la-llc,037,,,,,2,0
+2020-09-21,Los Angeles,Claremont Manor,0,1,1,1,claremont-manor,037,,,,,2,1
+2020-09-21,Los Angeles,"Commons At Woodland Hills, The",0,1,20,29,commons-at-woodland-hills-the,037,,,,,49,1
+2020-09-21,Los Angeles,Courtyard Plaza,0,1,1,16,courtyard-plaza,037,,,,,17,1
+2020-09-21,Los Angeles,Crofton Manor Inn,0,1,22,32,crofton-manor-inn,037,,,,,54,1
+2020-09-21,Los Angeles,Fallbrook Glen Of West Hills,0,1,1,19,fallbrook-glen-of-west-hills,037,,,,,20,1
+2020-09-21,Los Angeles,Gardena Retirement Center,0,1,0,1,gardena-retirement-center,037,,,,,1,1
+2020-09-21,Los Angeles,Glen Park At Glendale - Boynton St,0,1,11,21,glen-park-at-glendale-boynton-st,037,,,,,32,1
+2020-09-21,Los Angeles,Glen Park At Long Beach,0,1,13,23,glen-park-at-long-beach,037,,,,,36,1
+2020-09-21,Los Angeles,Golden Assisted Living,0,0,1,12,golden-assisted-living,037,,,,,13,0
+2020-09-21,Los Angeles,"Grandview, The",0,1,1,18,grandview-the,037,,,,,19,1
+2020-09-21,Los Angeles,"Grove At Cerritos, The",0,1,1,1,grove-at-cerritos-the,037,,,,,2,1
+2020-09-21,Los Angeles,"Heights At Burbank, The",0,1,1,1,heights-at-burbank-the,037,,,,,2,1
+2020-09-21,Los Angeles,Hollenbeck Palms,0,0,13,1,hollenbeck-palms,037,,,,,14,0
+2020-09-21,Los Angeles,Inn At The Park Ventura,0,1,1,29,inn-at-the-park-ventura,037,,,,,30,1
+2020-09-21,Los Angeles,Jasmin Terrace At El Molino,0,19,29,66,jasmin-terrace-at-el-molino,037,,,,,95,19
+2020-09-21,Los Angeles,"Kensington Redondo Beach, The",1,1,22,23,kensington-redondo-beach-the,037,,,,,45,2
+2020-09-21,Los Angeles,"Kensington Sierra Madre, The",0,1,18,12,kensington-sierra-madre-the,037,,,,,30,1
+2020-09-21,Los Angeles,Kingsley Manor,1,0,1,0,kingsley-manor,037,,,,,1,1
+2020-09-21,Los Angeles,Lakewood Park Manor,0,1,1,1,lakewood-park-manor,037,,,,,2,1
+2020-09-21,Los Angeles,Lucerne One Llc,0,1,1,1,lucerne-one-llc,037,,,,,2,1
+2020-09-21,Los Angeles,Meadowbrook At Agoura Hills,0,1,15,20,meadowbrook-at-agoura-hills,037,,,,,35,1
+2020-09-21,Los Angeles,"Mgh Corporation, The",0,1,1,1,mgh-corporation-the,037,,,,,2,1
+2020-09-21,Los Angeles,Montecedro,0,1,1,1,montecedro,037,,,,,2,1
+2020-09-21,Los Angeles,Mountain View Center,0,1,1,15,mountain-view-center,037,,,,,16,1
+2020-09-21,Los Angeles,Mugungwha Silver Town,0,1,1,1,mugungwha-silver-town,037,,,,,2,1
+2020-09-21,Los Angeles,Oakmont Of Santa Clarita,0,1,1,14,oakmont-of-santa-clarita,037,,,,,15,1
+2020-09-21,Los Angeles,Oakmont Of Valencia,0,1,1,15,oakmont-of-valencia,037,,,,,16,1
+2020-09-21,Los Angeles,Oakview,1,1,13,1,oakview,037,,,,,14,2
+2020-09-21,Los Angeles,Pacifica Senior Living Northridge,0,16,26,42,pacifica-senior-living-northridge,037,,,,,68,16
+2020-09-21,Los Angeles,Palmcrest Grand Residence,0,1,1,15,palmcrest-grand-residence,037,,,,,16,1
+2020-09-21,Los Angeles,Regency Palms Long Beach,0,0,21,1,regency-palms-long-beach,037,,,,,22,0
+2020-09-21,Los Angeles,Regency Park Astoria,0,1,1,1,regency-park-astoria,037,,,,,2,1
+2020-09-21,Los Angeles,Rosecrans Villa Residential Care,0,0,1,14,rosecrans-villa-residential-care,037,,,,,15,0
+2020-09-21,Los Angeles,Royal Oaks,0,0,11,1,royal-oaks,037,,,,,12,0
+2020-09-21,Los Angeles,Royal Vista San Gabriel,0,1,13,39,royal-vista-san-gabriel,037,,,,,52,1
+2020-09-21,Los Angeles,Royalty Assisted Living,0,1,0,1,royalty-assisted-living,037,,,,,1,1
+2020-09-21,Los Angeles,San Dimas Retirement Center,0,1,1,1,san-dimas-retirement-center,037,,,,,2,1
+2020-09-21,Los Angeles,Silverado Senior Living - Calabasas,0,13,18,49,silverado-senior-living-calabasas,037,,,,,67,13
+2020-09-21,Los Angeles,Silverado Senior Living – Beverly Place,1,13,36,57,silverado-senior-living-beverly-place,037,,,,,93,14
+2020-09-21,Los Angeles,Solheim Senior Community,0,1,11,1,solheim-senior-community,037,,,,,12,1
+2020-09-21,Los Angeles,Spring Senior Assisted Living,0,1,1,1,spring-senior-assisted-living,037,,,,,2,1
+2020-09-21,Los Angeles,Sunrise Assisted Living Of Studio City,0,1,1,1,sunrise-assisted-living-of-studio-city,037,,,,,2,1
+2020-09-21,Los Angeles,Sunrise At Sterling Canyon,0,1,1,1,sunrise-at-sterling-canyon,037,,,,,2,1
+2020-09-21,Los Angeles,Sunrise Of Beverly Hills,0,0,1,1,sunrise-of-beverly-hills,037,,,,,2,0
+2020-09-21,Los Angeles,Sunrise Of Westlake Village,0,1,1,1,sunrise-of-westlake-village,037,,,,,2,1
+2020-09-21,Los Angeles,Sunrise Villa Culver City,0,1,1,1,sunrise-villa-culver-city,037,,,,,2,1
+2020-09-21,Los Angeles,Topanga-West Guest Home,0,0,1,11,topanga-west-guest-home,037,,,,,12,0
+2020-09-21,Los Angeles,Veterans Home Of California – West Los Angeles,0,1,1,1,veterans-home-of-california-west-los-angeles,037,,,,,2,1
+2020-09-21,Los Angeles,Villa Gardens,0,1,45,17,villa-gardens,037,,,,,62,1
+2020-09-21,Los Angeles,"Village At Sherman Oaks, The",0,0,1,1,village-at-sherman-oaks-the,037,,,,,2,0
+2020-09-21,Los Angeles,Vista Del Mar Senior Living,0,1,17,31,vista-del-mar-senior-living,037,,,,,48,1
+2020-09-21,Los Angeles,"Watermark At Beverly Hills, The",0,1,1,1,watermark-at-beverly-hills-the,037,,,,,2,1
+2020-09-21,Los Angeles,West Valley Assisted Living,0,1,1,1,west-valley-assisted-living,037,,,,,2,1
+2020-09-21,Los Angeles,Western Assemblies Home,0,1,11,1,western-assemblies-home,037,,,,,12,1
+2020-09-21,Los Angeles,Whittier Place Senior Living,0,1,1,1,whittier-place-senior-living,037,,,,,2,1
+2020-09-21,Los Angeles,Windsor Hall Care Home Inc.,0,1,1,1,windsor-hall-care-home-inc,037,,,,,2,1
+2020-09-21,Madera,Cedar Creek Senior Living,0,1,1,21,cedar-creek-senior-living,039,,,,,22,1
+2020-09-21,Marin,Aegis Assisted Living Of Corte Madera,0,1,24,20,aegis-assisted-living-of-corte-madera,041,,,,,44,1
+2020-09-21,Marin,Aegis Of Corte Madera,0,0,12,1,aegis-of-corte-madera,041,,,,,13,0
+2020-09-21,Marin,Atria Tamalpais Creek,0,1,1,1,atria-tamalpais-creek,041,,,,,2,1
+2020-09-21,Marin,Drake Terrace,0,1,13,1,drake-terrace,041,,,,,14,1
+2020-09-21,Marin,"Golden Home Extended Care, Inc.",0,0,1,13,golden-home-extended-care-inc,041,,,,,14,0
+2020-09-21,Marin,"Nazareth House Of San Rafael, Inc.",0,1,17,19,nazareth-house-of-san-rafael-inc,041,,,,,36,1
+2020-09-21,Marin,Windchime Of Marin,0,1,1,1,windchime-of-marin,041,,,,,2,1
+2020-09-21,Monterey,Sunrise Assisted Living Of Monterey,0,1,1,1,sunrise-assisted-living-of-monterey,053,,,,,2,1
+2020-09-21,Nevada,Atria Grass Valley,0,1,1,13,atria-grass-valley,057,,,,,14,1
+2020-09-21,Nevada,Eskaton Village Grass Valley,0,0,1,1,eskaton-village-grass-valley,057,,,,,2,0
+2020-09-21,Orange,Acacia Villas,0,1,1,15,acacia-villas,059,,,,,16,1
+2020-09-21,Orange,Activcare At Yorba Linda,0,1,11,17,activcare-at-yorba-linda,059,,,,,28,1
+2020-09-21,Orange,Anaheim Crown Plaza,0,0,1,1,anaheim-crown-plaza,059,,,,,2,0
+2020-09-21,Orange,Arbor Palms Of Anaheim,0,1,1,1,arbor-palms-of-anaheim,059,,,,,2,1
+2020-09-21,Orange,Ardent Care,0,1,1,1,ardent-care,059,,,,,2,1
+2020-09-21,Orange,Atria Del Sol,0,1,11,1,atria-del-sol,059,,,,,12,1
+2020-09-21,Orange,Atria San Juan,0,1,1,1,atria-san-juan,059,,,,,2,1
+2020-09-21,Orange,Brookdale Anaheim,0,1,1,1,brookdale-anaheim,059,,,,,2,1
+2020-09-21,Orange,Brookdale Nohl Ranch,0,1,1,1,brookdale-nohl-ranch,059,,,,,2,1
+2020-09-21,Orange,Brookdale Yorba Linda,0,1,1,1,brookdale-yorba-linda,059,,,,,2,1
+2020-09-21,Orange,Cambridge Court,0,1,1,1,cambridge-court,059,,,,,2,1
+2020-09-21,Orange,Capriana,0,1,13,1,capriana,059,,,,,14,1
+2020-09-21,Orange,Carmel Village Retirement Community,0,1,12,1,carmel-village-retirement-community,059,,,,,13,1
+2020-09-21,Orange,"Covington, The",0,0,11,1,covington-the,059,,,,,12,0
+2020-09-21,Orange,Crown Cove,0,1,1,1,crown-cove,059,,,,,2,1
+2020-09-21,Orange,"Groves Of Tustin, The",0,0,1,1,groves-of-tustin-the,059,,,,,2,0
+2020-09-21,Orange,Harbor Heights Assisted Living & Memory Care,0,0,11,0,harbor-heights-assisted-living-memory-care,059,,,,,11,0
+2020-09-21,Orange,Harvest Retirement,0,1,1,23,harvest-retirement,059,,,,,24,1
+2020-09-21,Orange,"Heathers - Wintergreen, The",0,1,1,1,heathers-wintergreen-the,059,,,,,2,1
+2020-09-21,Orange,Heritage Pointe,0,1,1,1,heritage-pointe,059,,,,,2,1
+2020-09-21,Orange,Hollybrook Senior Living Of Orange,0,1,16,17,hollybrook-senior-living-of-orange,059,,,,,33,1
+2020-09-21,Orange,Huntington Terrace,0,1,1,25,huntington-terrace,059,,,,,26,1
+2020-09-21,Orange,Karlton Residential Care Center,0,1,1,16,karlton-residential-care-center,059,,,,,17,1
+2020-09-21,Orange,"Meridian At Anaheim Hills, The",0,1,12,19,meridian-at-anaheim-hills-the,059,,,,,31,1
+2020-09-21,Orange,Merrill Gardens At Huntington Beach,0,0,12,1,merrill-gardens-at-huntington-beach,059,,,,,13,0
+2020-09-21,Orange,Morningside Of Fullerton,0,0,17,0,morningside-of-fullerton,059,,,,,17,0
+2020-09-21,Orange,"New Horizon Lodge, Inc.",0,1,1,1,new-horizon-lodge-inc,059,,,,,2,1
+2020-09-21,Orange,Pacifica Royale Assisted Living Community,0,1,1,1,pacifica-royale-assisted-living-community,059,,,,,2,1
+2020-09-21,Orange,Pacifica Senior Living South Coast,0,1,1,1,pacifica-senior-living-south-coast,059,,,,,2,1
+2020-09-21,Orange,Park Regency Retirement Center,0,1,13,32,park-regency-retirement-center,059,,,,,45,1
+2020-09-21,Orange,Park Terrace,0,1,1,1,park-terrace,059,,,,,2,1
+2020-09-21,Orange,"Regency, The",0,1,1,1,regency-the,059,,,,,2,1
+2020-09-21,Orange,Rowntree Gardens,0,0,16,1,rowntree-gardens,059,,,,,17,0
+2020-09-21,Orange,San Clemente Villas By The Sea,0,1,14,16,san-clemente-villas-by-the-sea,059,,,,,30,1
+2020-09-21,Orange,Sea Cliff Assisted Living,0,1,1,1,sea-cliff-assisted-living,059,,,,,2,1
+2020-09-21,Orange,Seaside Terrace Retirement Community,0,1,1,1,seaside-terrace-retirement-community,059,,,,,2,1
+2020-09-21,Orange,Silverado Senior Living - San Juan Capistrano,0,1,19,25,silverado-senior-living-san-juan-capistrano,059,,,,,44,1
+2020-09-21,Orange,Silverado Senior Living – Newport Mesa,0,1,1,1,silverado-senior-living-newport-mesa,059,,,,,2,1
+2020-09-21,Orange,Silverado Senior Living – Tustin Hacienda,0,1,15,18,silverado-senior-living-tustin-hacienda,059,,,,,33,1
+2020-09-21,Orange,St. Francis Home,0,1,1,13,st-francis-home,059,,,,,14,1
+2020-09-21,Orange,Sunflower Gardens,0,1,22,39,sunflower-gardens,059,,,,,61,1
+2020-09-21,Orange,Sunnycrest Senior Living,0,0,1,1,sunnycrest-senior-living,059,,,,,2,0
+2020-09-21,Orange,Valley View Gardens,0,0,1,1,valley-view-gardens,059,,,,,2,0
+2020-09-21,Orange,Vivante On The Coast,0,1,18,32,vivante-on-the-coast,059,,,,,50,1
+2020-09-21,Orange,Walnut Village,0,1,19,14,walnut-village,059,,,,,33,1
+2020-09-21,Orange,Whitten Heights Assisted Living And Memory Care,0,1,15,24,whitten-heights-assisted-living-and-memory-care,059,,,,,39,1
+2020-09-21,Placer,Atria Rocklin,0,1,0,1,atria-rocklin,061,,,,,1,1
+2020-09-21,Placer,Gladding Ridge,0,1,1,1,gladding-ridge,061,,,,,2,1
+2020-09-21,Placer,Summerset Lincoln Assisted Living And Memory Care,0,1,1,1,summerset-lincoln-assisted-living-and-memory-care,061,,,,,2,1
+2020-09-21,Placer,"Villas At Stanford Ranch, The",0,1,1,1,villas-at-stanford-ranch-the,061,,,,,2,1
+2020-09-21,Riverside,At Sunny Hills Home Care,0,1,1,1,at-sunny-hills-home-care,065,,,,,2,1
+2020-09-21,Riverside,Atria Hacienda,0,0,11,1,atria-hacienda,065,,,,,12,0
+2020-09-21,Riverside,Bella Villaggio,0,1,1,1,bella-villaggio,065,,,,,2,1
+2020-09-21,Riverside,Brookdale Mirage Inn,0,1,1,20,brookdale-mirage-inn,065,,,,,21,1
+2020-09-21,Riverside,Brookdale North Euclid,0,0,1,1,brookdale-north-euclid,065,,,,,2,0
+2020-09-21,Riverside,Caleo Bay Alzheimer's Special Care Center,1,1,14,33,caleo-bay-alzheimer-s-special-care-center,065,,,,,47,2
+2020-09-21,Riverside,"Fountains At The Carlotta, The",0,1,1,1,fountains-at-the-carlotta-the,065,,,,,2,1
+2020-09-21,Riverside,"Gardens Of Riverside, The",0,1,19,30,gardens-of-riverside-the,065,,,,,49,1
+2020-09-21,Riverside,Gladwell Rancho Mirage,0,1,11,13,gladwell-rancho-mirage,065,,,,,24,1
+2020-09-21,Riverside,Gladwell Rancho Mirage Riverside,0,1,1,14,gladwell-rancho-mirage-riverside,065,,,,,15,1
+2020-09-21,Riverside,Kenneth Slaman,0,1,1,1,kenneth-slaman,065,,,,,2,1
+2020-09-21,Riverside,"Lakes, The",0,1,18,31,lakes-the,065,,,,,49,1
+2020-09-21,Riverside,Our Countryside Resort,0,1,1,16,our-countryside-resort,065,,,,,17,1
+2020-09-21,Riverside,Pacifica Senior Living Riverside,0,1,18,32,pacifica-senior-living-riverside,065,,,,,50,1
+2020-09-21,Riverside,"Palms At La Quinta, The",1,1,1,19,palms-at-la-quinta-the,065,,,,,20,2
+2020-09-21,Riverside,Pico De Loro,0,1,0,1,pico-de-loro,065,,,,,1,1
+2020-09-21,Riverside,Raincross At Riverside,0,1,1,14,raincross-at-riverside,065,,,,,15,1
+2020-09-21,Riverside,Renaissance Village Murrieta,0,1,1,1,renaissance-village-murrieta,065,,,,,2,1
+2020-09-21,Riverside,Renaissance Village Rancho Belago,0,1,12,11,renaissance-village-rancho-belago,065,,,,,23,1
+2020-09-21,Riverside,Segovia Of Palm Desert,0,0,1,1,segovia-of-palm-desert,065,,,,,2,0
+2020-09-21,Riverside,The Lakes,0,1,15,27,the-lakes,065,,,,,42,1
+2020-09-21,Riverside,Valencia Terrace,0,1,1,1,valencia-terrace,065,,,,,2,1
+2020-09-21,Riverside,Vineyard Ranch At Temecula,0,1,1,1,vineyard-ranch-at-temecula,065,,,,,2,1
+2020-09-21,Riverside,Vista Cove At Rancho Mirage,0,1,14,29,vista-cove-at-rancho-mirage,065,,,,,43,1
+2020-09-21,Riverside,Welbrook Senior Living Arlington,1,1,18,11,welbrook-senior-living-arlington,065,,,,,29,2
+2020-09-21,Riverside,Westmont Village,0,1,1,1,westmont-village,065,,,,,2,1
+2020-09-21,Riverside,Wildomar Senior Assisted Living,0,1,16,11,wildomar-senior-assisted-living,065,,,,,27,1
+2020-09-21,Riverside,Windsor Court Assisted Living,0,1,1,15,windsor-court-assisted-living,065,,,,,16,1
+2020-09-21,Riverside,Yorkshire Village,0,1,12,36,yorkshire-village,065,,,,,48,1
+2020-09-21,Sacramento,Atria Carmichael Oaks,0,1,1,1,atria-carmichael-oaks,067,,,,,2,1
+2020-09-21,Sacramento,Carlton Plaza Of Elk Grove,0,1,1,1,carlton-plaza-of-elk-grove,067,,,,,2,1
+2020-09-21,Sacramento,Carlton Plaza Of Sacramento,0,1,18,19,carlton-plaza-of-sacramento,067,,,,,37,1
+2020-09-21,Sacramento,City Creek Assisted Living,0,0,1,1,city-creek-assisted-living,067,,,,,2,0
+2020-09-21,Sacramento,Eskaton Gold River Lodge,0,1,1,1,eskaton-gold-river-lodge,067,,,,,2,1
+2020-09-21,Sacramento,Eskaton Village,1,1,12,1,eskaton-village,067,,,,,13,2
+2020-09-21,Sacramento,Fruitridge Villa,0,1,1,1,fruitridge-villa,067,,,,,2,1
+2020-09-21,Sacramento,Greenhaven Estates,0,1,1,1,greenhaven-estates,067,,,,,2,1
+2020-09-21,Sacramento,Hospitality House,0,1,0,1,hospitality-house,067,,,,,1,1
+2020-09-21,Sacramento,"Meadows At Country Place, The",0,1,0,1,meadows-at-country-place-the,067,,,,,1,1
+2020-09-21,Sacramento,Oakmont Of Folsom,0,1,1,22,oakmont-of-folsom,067,,,,,23,1
+2020-09-21,Sacramento,Sky Park Gardens,0,1,18,28,sky-park-gardens,067,,,,,46,1
+2020-09-21,Sacramento,Summerset Assisted Living,0,1,1,22,summerset-assisted-living,067,,,,,23,1
+2020-09-21,Sacramento,Sun Oak Assisted Living,0,0,1,1,sun-oak-assisted-living,067,,,,,2,0
+2020-09-21,Sacramento,Sunrise Assisted Living Of Fair Oaks,0,1,1,17,sunrise-assisted-living-of-fair-oaks,067,,,,,18,1
+2020-09-21,Sacramento,Sunrise Assisted Living Of Sacramento,0,1,24,25,sunrise-assisted-living-of-sacramento,067,,,,,49,1
+2020-09-21,Sacramento,Walnut House,0,1,1,1,walnut-house,067,,,,,2,1
+2020-09-21,Sacramento,"Waterleaf At Land Park, The",0,1,1,12,waterleaf-at-land-park-the,067,,,,,13,1
+2020-09-21,San Bernardino,Abria Del Cielo,0,0,1,49,abria-del-cielo,071,,,,,50,0
+2020-09-21,San Bernardino,Benson House,0,0,1,1,benson-house,071,,,,,2,0
+2020-09-21,San Bernardino,Blossom Grove Alzheimer's Special Care Center,0,1,1,16,blossom-grove-alzheimer-s-special-care-center,071,,,,,17,1
+2020-09-21,San Bernardino,Brookdale North Euclid,0,0,1,1,brookdale-north-euclid,071,,,,,2,0
+2020-09-21,San Bernardino,Hamilton Home,0,0,1,12,hamilton-home,071,,,,,13,0
+2020-09-21,San Bernardino,Linda Valley Assisted Living,0,1,14,11,linda-valley-assisted-living,071,,,,,25,1
+2020-09-21,San Bernardino,Lotus Villa And Memory Care,0,1,1,17,lotus-villa-and-memory-care,071,,,,,18,1
+2020-09-21,San Bernardino,Mission Commons,0,1,12,14,mission-commons,071,,,,,26,1
+2020-09-21,San Bernardino,Montclair Royale Senior Living,0,1,1,1,montclair-royale-senior-living,071,,,,,2,1
+2020-09-21,San Bernardino,Oakmont Of San Antonio Heights,0,1,1,1,oakmont-of-san-antonio-heights,071,,,,,2,1
+2020-09-21,San Bernardino,Pacifica Senior Living Hillsborough,0,1,1,16,pacifica-senior-living-hillsborough,071,,,,,17,1
+2020-09-21,San Bernardino,Plymouth Village Of Redlands,0,1,16,1,plymouth-village-of-redlands,071,,,,,17,1
+2020-09-21,San Bernardino,Rose Garden Residential Care,0,14,1,43,rose-garden-residential-care,071,,,,,44,14
+2020-09-21,San Bernardino,Skyline Villa,1,0,1,0,skyline-villa,071,,,,,1,1
+2020-09-21,San Bernardino,Sterling Commons,0,1,1,1,sterling-commons,071,,,,,2,1
+2020-09-21,San Bernardino,Sterling Inn,1,0,1,1,sterling-inn,071,,,,,2,1
+2020-09-21,San Bernardino,Villas At San Bernardino,1,0,1,1,villas-at-san-bernardino,071,,,,,2,1
+2020-09-21,San Diego,Activcare At 4S Ranch,0,1,1,1,activcare-at-4s-ranch,073,,,,,2,1
+2020-09-21,San Diego,Activcare At Mission Bay,0,1,0,1,activcare-at-mission-bay,073,,,,,1,1
+2020-09-21,San Diego,Activcare At Rolling Hills Ranch,0,1,1,21,activcare-at-rolling-hills-ranch,073,,,,,22,1
+2020-09-21,San Diego,Aegis Assisted Living At Shadowridge,0,0,12,11,aegis-assisted-living-at-shadowridge,073,,,,,23,0
+2020-09-21,San Diego,Atria Collwood,1,0,1,0,atria-collwood,073,,,,,1,1
+2020-09-21,San Diego,Atria Rancho Penasquitos,0,1,1,25,atria-rancho-penasquitos,073,,,,,26,1
+2020-09-21,San Diego,Belmont Village Sabre Springs,0,0,1,11,belmont-village-sabre-springs,073,,,,,12,0
+2020-09-21,San Diego,Brookdale Clairemont,0,0,1,1,brookdale-clairemont,073,,,,,2,0
+2020-09-21,San Diego,Brookdale Place Of San Marcos,0,0,1,1,brookdale-place-of-san-marcos,073,,,,,2,0
+2020-09-21,San Diego,Cedars @ Paradise Village,0,1,0,1,cedars-paradise-village,073,,,,,1,1
+2020-09-21,San Diego,Cloisters Of The Valley,0,1,1,1,cloisters-of-the-valley,073,,,,,2,1
+2020-09-21,San Diego,"Cloisters Of The Valley, LLC",0,1,1,1,cloisters-of-the-valley-llc,073,,,,,2,1
+2020-09-21,San Diego,Cypress Court Escondido,0,1,1,1,cypress-court-escondido,073,,,,,2,1
+2020-09-21,San Diego,Elmcroft Of La Mesa,0,14,18,34,elmcroft-of-la-mesa,073,,,,,52,14
+2020-09-21,San Diego,Fredericka Manor,0,0,15,1,fredericka-manor,073,,,,,16,0
+2020-09-21,San Diego,"Golden Living Health Management, Inc.",0,1,14,1,golden-living-health-management-inc,073,,,,,15,1
+2020-09-21,San Diego,"Golden Living Health Mangement, Inc.",0,0,1,1,golden-living-health-mangement-inc,073,,,,,2,0
+2020-09-21,San Diego,Kasitz Kastle,0,1,1,1,kasitz-kastle,073,,,,,2,1
+2020-09-21,San Diego,La Vida Real,0,1,23,13,la-vida-real,073,,,,,36,1
+2020-09-21,San Diego,Lantern Crest,0,1,1,12,lantern-crest,073,,,,,13,1
+2020-09-21,San Diego,Leichtag Family Assisted Living Residence,0,0,1,1,leichtag-family-assisted-living-residence,073,,,,,2,0
+2020-09-21,San Diego,Mesaview Senior Assisted Living,1,0,1,0,mesaview-senior-assisted-living,073,,,,,1,1
+2020-09-21,San Diego,Nazareth House,0,0,13,0,nazareth-house,073,,,,,13,0
+2020-09-21,San Diego,Oakmont Of Escondido Hills,0,1,1,1,oakmont-of-escondido-hills,073,,,,,2,1
+2020-09-21,San Diego,Oakmont Of Pacific Beach,0,1,1,1,oakmont-of-pacific-beach,073,,,,,2,1
+2020-09-21,San Diego,Pacifica Senior Living Escondido,0,1,11,1,pacifica-senior-living-escondido,073,,,,,12,1
+2020-09-21,San Diego,Pacifica Senior Living Vista,0,1,1,1,pacifica-senior-living-vista,073,,,,,2,1
+2020-09-21,San Diego,Plaza Village Senior Living,0,1,1,15,plaza-village-senior-living,073,,,,,16,1
+2020-09-21,San Diego,Redwood Terrace,0,1,1,1,redwood-terrace,073,,,,,2,1
+2020-09-21,San Diego,Silverado Senior Living - Escondido,0,1,1,17,silverado-senior-living-escondido,073,,,,,18,1
+2020-09-21,San Diego,St. Paul's Plaza,0,0,13,0,st-paul-s-plaza,073,,,,,13,0
+2020-09-21,San Diego,St. Paul's Villa,0,0,1,1,st-paul-s-villa,073,,,,,2,0
+2020-09-21,San Diego,Stellar Care,1,1,1,14,stellar-care,073,,,,,15,2
+2020-09-21,San Diego,Sun And Sea Assisted Living,0,1,1,12,sun-and-sea-assisted-living,073,,,,,13,1
+2020-09-21,San Diego,Vi At La Jolla Village,0,0,11,0,vi-at-la-jolla-village,073,,,,,11,0
+2020-09-21,San Diego,Wesley Palms,0,0,13,1,wesley-palms,073,,,,,14,0
+2020-09-21,San Diego,White Sands La Jolla,0,0,1,1,white-sands-la-jolla,073,,,,,2,0
+2020-09-21,San Francisco,Buena Vista Manor House,0,1,13,25,buena-vista-manor-house,075,,,,,38,1
+2020-09-21,San Francisco,Coventry Place,0,1,1,1,coventry-place,075,,,,,2,1
+2020-09-21,San Francisco,Portola Gardens,0,1,1,13,portola-gardens,075,,,,,14,1
+2020-09-21,San Francisco,Rhoda Goldman Plaza,0,0,1,1,rhoda-goldman-plaza,075,,,,,2,0
+2020-09-21,San Francisco,San Francisco Towers,0,1,1,1,san-francisco-towers,075,,,,,2,1
+2020-09-21,San Joaquin,Astoria Gardens,0,1,1,1,astoria-gardens,077,,,,,2,1
+2020-09-21,San Joaquin,Beth Haven,0,0,1,1,beth-haven,077,,,,,2,0
+2020-09-21,San Joaquin,Brookdale Tracy,0,1,19,29,brookdale-tracy,077,,,,,48,1
+2020-09-21,San Joaquin,Camlu Assisted Living,0,0,1,1,camlu-assisted-living,077,,,,,2,0
+2020-09-21,San Joaquin,"Commons On Thornton, The",0,0,12,11,commons-on-thornton-the,077,,,,,23,0
+2020-09-21,San Joaquin,Golden Haven,0,1,15,48,golden-haven,077,,,,,63,1
+2020-09-21,San Joaquin,O'connor Woods Assisted Living,0,1,1,1,o-connor-woods-assisted-living,077,,,,,2,1
+2020-09-21,San Joaquin,Oakmont Of Brookside,0,1,1,1,oakmont-of-brookside,077,,,,,2,1
+2020-09-21,San Joaquin,Plymouth Square,0,1,1,1,plymouth-square,077,,,,,2,1
+2020-09-21,San Joaquin,Prestige Assisted Living At Manteca,0,1,1,1,prestige-assisted-living-at-manteca,077,,,,,2,1
+2020-09-21,San Joaquin,Rose Place Memory Care,0,1,14,34,rose-place-memory-care,077,,,,,48,1
+2020-09-21,San Joaquin,Wagner Heights Residential,0,1,1,1,wagner-heights-residential,077,,,,,2,1
+2020-09-21,San Luis Obispo,Ingleside Park Assisted Living Llc,0,1,1,1,ingleside-park-assisted-living-llc,079,,,,,2,1
+2020-09-21,San Luis Obispo,Paradise Valley Care,0,1,1,1,paradise-valley-care,079,,,,,2,1
+2020-09-21,San Luis Obispo,Vista Rosa Elder Care,0,1,1,1,vista-rosa-elder-care,079,,,,,2,1
+2020-09-21,San Mateo,"Abigail Complete Care, Inc",0,1,1,20,abigail-complete-care-inc,081,,,,,21,1
+2020-09-21,San Mateo,Aegis Assisted Living Of San Francisco,0,1,0,1,aegis-assisted-living-of-san-francisco,081,,,,,1,1
+2020-09-21,San Mateo,Atria Burlingame,0,1,1,1,atria-burlingame,081,,,,,2,1
+2020-09-21,San Mateo,Atria Daly City,0,1,13,16,atria-daly-city,081,,,,,29,1
+2020-09-21,San Mateo,Gordon Manor,0,12,11,23,gordon-manor,081,,,,,34,12
+2020-09-21,San Mateo,Kensington Place Redwood City,0,1,1,1,kensington-place-redwood-city,081,,,,,2,1
+2020-09-21,San Mateo,Peninsula Regent (The),1,0,17,1,peninsula-regent-the,081,,,,,18,1
+2020-09-21,San Mateo,San Carlos Elms,0,1,1,1,san-carlos-elms,081,,,,,2,1
+2020-09-21,San Mateo,Silver Oaks,0,1,0,1,silver-oaks,081,,,,,1,1
+2020-09-21,San Mateo,Sterling Court,0,1,1,1,sterling-court,081,,,,,2,1
+2020-09-21,San Mateo,Sunrise Of Burlingame,0,1,13,1,sunrise-of-burlingame,081,,,,,14,1
+2020-09-21,San Mateo,Vista Terrace Of Belmont,0,1,1,1,vista-terrace-of-belmont,081,,,,,2,1
+2020-09-21,San Mateo,Westborough Royale,0,1,1,1,westborough-royale,081,,,,,2,1
+2020-09-21,Santa Barbara,Casa Dorinda,0,1,1,1,casa-dorinda,083,,,,,2,1
+2020-09-21,Santa Barbara,Granvida Senior Living And Memory Care,0,1,1,18,granvida-senior-living-and-memory-care,083,,,,,19,1
+2020-09-21,Santa Barbara,Maravilla,0,1,1,1,maravilla,083,,,,,2,1
+2020-09-21,Santa Barbara,Pacifica Senior Living Santa Barbara,0,1,1,1,pacifica-senior-living-santa-barbara,083,,,,,2,1
+2020-09-21,Santa Barbara,Santa Maria Terrace,0,0,1,12,santa-maria-terrace,083,,,,,13,0
+2020-09-21,Santa Barbara,Solvang Friendship House,0,0,1,1,solvang-friendship-house,083,,,,,2,0
+2020-09-21,Santa Barbara,Valle Verde,0,1,1,1,valle-verde,083,,,,,2,1
+2020-09-21,Santa Barbara,Villa Alamar,0,1,0,1,villa-alamar,083,,,,,1,1
+2020-09-21,Santa Clara,Brookdale San Jose,0,0,11,1,brookdale-san-jose,085,,,,,12,0
+2020-09-21,Santa Clara,Laurel Haven,0,1,0,1,laurel-haven,085,,,,,1,1
+2020-09-21,Santa Clara,Pacific Gardens,1,1,20,13,pacific-gardens,085,,,,,33,2
+2020-09-21,Santa Clara,Sunny View Retirement Community,0,1,1,1,sunny-view-retirement-community,085,,,,,2,1
+2020-09-21,Santa Clara,"Terraces Of Los Gatos, The",0,1,1,1,terraces-of-los-gatos-the,085,,,,,2,1
+2020-09-21,Santa Clara,Vi At Palo Alto,0,1,1,12,vi-at-palo-alto,085,,,,,13,1
+2020-09-21,Santa Clara,Vila Monte,1,0,1,1,vila-monte,085,,,,,2,1
+2020-09-21,Santa Clara,Villa Fontana,0,1,26,35,villa-fontana,085,,,,,61,1
+2020-09-21,Santa Cruz,Ocean View Home,0,0,1,1,ocean-view-home,087,,,,,2,0
+2020-09-21,Solano,Cornerstone Assisted Living,0,0,1,15,cornerstone-assisted-living,095,,,,,16,0
+2020-09-21,Solano,Magnolia Court,0,0,1,1,magnolia-court,095,,,,,2,0
+2020-09-21,Solano,Parkrose Gardens Of Fairfield,1,1,14,36,parkrose-gardens-of-fairfield,095,,,,,50,2
+2020-09-21,Sonoma,Brookdale Windsor,0,1,12,14,brookdale-windsor,097,,,,,26,1
+2020-09-21,Sonoma,Hanna House Ridley,0,1,1,23,hanna-house-ridley,097,,,,,24,1
+2020-09-21,Sonoma,Mirabel Lodge,0,1,1,14,mirabel-lodge,097,,,,,15,1
+2020-09-21,Sonoma,Oakmont Gardens,0,0,1,1,oakmont-gardens,097,,,,,2,0
+2020-09-21,Sonoma,Primrose Alzheimer's Living Inc,0,1,18,34,primrose-alzheimer-s-living-inc,097,,,,,52,1
+2020-09-21,Sonoma,Sunrise Of Petaluma,0,1,25,24,sunrise-of-petaluma,097,,,,,49,1
+2020-09-21,Sonoma,Sunrise Villa Santa Rosa,0,1,1,1,sunrise-villa-santa-rosa,097,,,,,2,1
+2020-09-21,Stanislaus,Bethel Assisted Living,0,1,11,16,bethel-assisted-living,099,,,,,27,1
+2020-09-21,Stanislaus,El Rio Memory Care Community,0,18,20,45,el-rio-memory-care-community,099,,,,,65,18
+2020-09-21,Stanislaus,Hospitality House,0,1,1,1,hospitality-house,099,,,,,2,1
+2020-09-21,Stanislaus,"Modesto Residential Living Center, Llc",0,0,1,1,modesto-residential-living-center-llc,099,,,,,2,0
+2020-09-21,Stanislaus,Paramount Court Senior Living,0,0,11,1,paramount-court-senior-living,099,,,,,12,0
+2020-09-21,Stanislaus,St. Thomas Retirement Center,0,1,0,1,st-thomas-retirement-center,099,,,,,1,1
+2020-09-21,Stanislaus,Vintage Faire Residential,0,1,1,13,vintage-faire-residential,099,,,,,14,1
+2020-09-21,Tulare,Casa Grande Senior Care Home #2,0,1,1,1,casa-grande-senior-care-home-2,107,,,,,2,1
+2020-09-21,Ventura,Atria Grand Oaks,0,1,1,1,atria-grand-oaks,111,,,,,2,1
+2020-09-21,Ventura,Belmont Village Thousand Oaks,0,0,1,12,belmont-village-thousand-oaks,111,,,,,13,0
+2020-09-21,Ventura,Lexington Assisted Living,0,1,1,1,lexington-assisted-living,111,,,,,2,1
+2020-09-21,Ventura,Pacifica Senior Living Oxnard,0,1,1,1,pacifica-senior-living-oxnard,111,,,,,2,1
+2020-09-21,Ventura,"Reserve At Thousand Oaks, The",0,0,12,1,reserve-at-thousand-oaks-the,111,,,,,13,0
+2020-09-21,Ventura,Sunrise At Wood Ranch,0,1,1,1,sunrise-at-wood-ranch,111,,,,,2,1
+2020-09-21,Ventura,University Village Thousand Oaks,0,1,1,1,university-village-thousand-oaks,111,,,,,2,1
+2020-09-21,Ventura,Ventura Townehouse,0,1,24,32,ventura-townehouse,111,,,,,56,1
+2020-09-21,Ventura,Wellness Care Senior Living,0,1,16,29,wellness-care-senior-living,111,,,,,45,1
+2020-09-21,Yolo,Gloria's Country Care,0,1,1,1,gloria-s-country-care,113,,,,,2,1
+2020-09-21,Yolo,St. John's Retirement Village/Manor,0,0,11,0,st-john-s-retirement-village-manor,113,,,,,11,0
+2020-09-21,Yolo,University Retirement Community At Davis,0,0,14,1,university-retirement-community-at-davis,113,,,,,15,0
+2020-09-21,Yuba,Comfort Haven For The Elderly,0,1,1,1,comfort-haven-for-the-elderly,115,,,,,2,1
