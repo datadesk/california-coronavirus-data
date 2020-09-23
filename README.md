@@ -61,7 +61,6 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 - [KQED: "Here Are the Trendlines for COVID-19 Deaths and Hospitalizations in Each Bay Area County"](https://www.kqed.org/science/1964968/charts-the-bay-area-is-opening-up-again-heres-tracking-data-for-each-county-to-see-how-its-going)
 - [Geography Planet: Southern California COVID trend map](https://geographyplanet.org/map-gallery/southern-california-covid-19-trend-map/)
 - [weylunlee.github.io/covidtrack](https://weylunlee.github.io/covidtrack/)
-- [bc19.live](https://bc19.live/)
 
 ## Data dictionary
 
@@ -311,7 +310,7 @@ These are also sometimes known as assisted-living facilities. In some circumstan
 
 The total number of cases and deaths in skilled-nursing facilities, residential care facilities for the elderly and adult residential facilities aggregated by county.
 
-These numbers are calculated by The Times using the facilities lists above. The state chooses not to provide precise numbers at facilities with fewer than 10 cases. When totaling by county, The Times substitutes the minimum value of one. The result is that the tallies above are likely an undercount and should be considered the minimum possible value.
+These numbers are calculated by The Times using the facilities lists above. The state chooses not to provide precise numbers at facilities with fewer than 10 cases. When totaling by county, The Times substitutes the minimum value of one. The result is that the tallies are likely an undercount and should be considered the minimum possible value.
 
 | field                                   | type    | description                                                                                                                                                                          |
 | --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
