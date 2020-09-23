@@ -20,6 +20,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-adult-and-senior-care-totals.csv](#cdph-skilled-nursing-totalscsv)
 - [cdph-skilled-nursing-facilities.csv](#cdph-skilled-nursing-facilitiescsv)
 - [cdph-adult-and-senior-care-facilities.csv](#cdph-adult-and-senior-care-facilitiescsv)
+- [cdph-nursing-home-county-totals.csv](#cdph-nursing-home-county-totalscsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
 - [cdcr-state-totals.csv](#cdcr-state-totalscsv)
@@ -296,14 +297,30 @@ These are also sometimes known as assisted-living facilities. In some circumstan
 | `name`                          | string  | The name of the nursing home.                                                                                                                                                        |
 | `county`                        | string  | The name of the county where the city is located.                                                                                                                                    |
 | `fips`                          | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
-| `staff_confirmed_cases`         | integer | The current number of confirmed coronavirus case amoung staff at that time.                                                                                                          |
-| `patients_confirmed_cases`      | integer | The current number of confirmed coronavirus case amoung patients at that time.                                                                                                       |
+| `staff_confirmed_cases`         | integer | The cumulative number of confirmed coronavirus case amoung staff at that time.                                                                                                       |
+| `patients_confirmed_cases`      | integer | The cumulative number of confirmed coronavirus case amoung patients at that time.                                                                                                    |
 | `staff_confirmed_cases_note`    | string  | In cases where the `staff_confirmed_cases` are obscured, this explains the range of possible values.                                                                                 |
 | `patients_confirmed_cases_note` | string  | In cases where the `patients_confirmed_cases` are obscured, this explains the range of possible values.                                                                              |
-| `staff_deaths`                  | integer | The cumulative number of deaths case amoung staff at that time.                                                                                                                      |
-| `patients_deaths`               | integer | The cumulative number of deaths case amoung patients at that time.                                                                                                                   |
+| `staff_deaths`                  | integer | The cumulative number of deaths amoung staff at that time.                                                                                                                      |
+| `patients_deaths`               | integer | The cumulative number of deaths amoung patients at that time.                                                                                                                   |
 | `staff_deaths_note`             | string  | In cases where the `staff_deaths` are obscured, this explains the range of possible values.                                                                                          |
 | `patients_deaths_note`          | string  | In cases where the `patients_deaths` are obscured, this explains the range of possible values.                                                                                       |
+
+### [cdph-nursing-home-county-totals.csv](./cdph-nursing-home-county-totals.csv)
+
+The total number of cases and deaths in skilled-nursing facilities, residential care facilities for the elderly and adult residential facilities aggregated by county.
+
+These numbers are calculated by The Times using the facilities lists above. The state chooses not to provide precise numbers at facilities with fewer than 10 cases. When totaling by county, The Times substitutes the minimum value of one. The result is that the tallies above are likely an undercount and should be considered the minimum possible value.
+
+| field                                   | type    | description                                                                                                                                                                          |
+| --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                                  | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `county`                                | string  | The name of the county where the city is located.                                                                                                                                    |
+| `fips`                                  | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `minimum_staff_confirmed_cases`         | integer | The minimum number of cumulative confirmed coronavirus case amoung staff at that time.                                                                                               |
+| `minimum_patients_confirmed_cases`      | integer | The minimum number of cumulative confirmed coronavirus case amoung patients at that time.                                                                                            |
+| `minimum_staff_deaths`                  | integer | The minimum number of cumulative deaths amoung staff at that time.                                                                                                                   |
+| `minimum_patients_deaths`               | integer | The minimum number of cumulative deaths amoung patients at that time.                                                                                                                |
 
 ### [cdph-hospital-patient-county-totals.csv](./cdph-hospital-patient-county-totals.csv)
 
