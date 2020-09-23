@@ -61,6 +61,7 @@ To inquire about reuse, please contact Data and Graphics Editor Ben Welsh at [be
 - [KQED: "Here Are the Trendlines for COVID-19 Deaths and Hospitalizations in Each Bay Area County"](https://www.kqed.org/science/1964968/charts-the-bay-area-is-opening-up-again-heres-tracking-data-for-each-county-to-see-how-its-going)
 - [Geography Planet: Southern California COVID trend map](https://geographyplanet.org/map-gallery/southern-california-covid-19-trend-map/)
 - [weylunlee.github.io/covidtrack](https://weylunlee.github.io/covidtrack/)
+- [bc19.live](https://bc19.live/)
 
 ## Data dictionary
 
