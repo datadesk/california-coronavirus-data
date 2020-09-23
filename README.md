@@ -239,6 +239,8 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | field                           | type    | description                                                                                             |
 | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------- |
 | `date`                          | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.     |
+| `staff_active_cases`            | integer | The number of active coronavirus case among staff at that time.                                         |
+| `patients_active_cases`         | integer | The number of active coronavirus case amoung patients at that time.                                     |
 | `staff_confirmed_cases`         | integer | The cumulative number of confirmed coronavirus case among staff at that time.                           |
 | `patients_confirmed_cases`      | integer | The cumulative number of confirmed coronavirus case among patients at that time.                        |
 | `staff_deaths`                  | integer | The cumulative number of deaths case among staff at that time.                                          |
@@ -257,6 +259,7 @@ These are also sometimes known as assisted-living facilities. Counts for staff a
 | `date`            | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
 | `confirmed_cases` | integer | The cumulative number of confirmed coronavirus case amoung staff and patients at that time.         |
 | `deaths`          | integer | The cumulative number of deaths case amoung staff and patients at that time.                        |
+| `active_cases`    | integer | The number of active coronavirus case at that time.                                                 |
 | `source_url`      | string  | The URL to the state data release.                                                                  |
 
 ### [cdph-skilled-nursing-facilities.csv](./cdph-skilled-nursing-facilities.csv)
