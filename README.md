@@ -23,6 +23,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-nursing-home-county-totals.csv](#cdph-nursing-home-county-totalscsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
+- [cdph-reopening-metrics.csv](#cdph-reopening-metricscsv)
 - [cdcr-state-totals.csv](#cdcr-state-totalscsv)
 - [cdcr-prison-totals.csv](#cdcr-prison-totalscsv)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
@@ -349,6 +350,21 @@ This file records the current tier of each county by day. The definition for eac
 | `county` | string  | The name of the county.                                                                                                                                                              |
 | `fips`   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `tier`   | integer | The tier the county was classified in on this `date`. There are four possible values on an ordinal scale with one being the most restrictive and four the least restrictive.         |
+
+### [cdph-reopening-metrics.csv](./cdph-reopening-metrics.csv)
+
+In August 2020, the state introduced a new framework for deciding when and how counties can reopen. Under the regime, each county is assigned to one of four tiers based on a set of metrics developed by state officials.
+
+This file records the metrics recorded for each county by day. Definition of the benchmarks can be found on the [state's website](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx).
+
+| field                 | type    | description                                                                                                                                                                          |
+| --------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `county`              | string  | The name of the county.                                                                                                                                                              |
+| `fips`                | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `percapita_case_rate` | float   | The number of new cases in a recent seven-day period — excluding cases at prisons and jails — adjusted for population and multiplied by 100,000.                                     |
+| `adjusted_case_rate`  | float   | The `percapita_case_rate` adjusted to account for the volume of testing in the area. Not done for all counties.                                                                      |
+| `positivity_rate`     | float   | The percentage of tests for the virus that come back positive in a recent seven-day period.                                                                                          |
 
 ### [cdcr-state-totals.csv](./cdcr-state-totals.csv)
 
