@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-10-08,21217,431,,
+Berkeley,Alameda,001,2020-10-08,721,9,,
+Alpine,Alpine,003,2020-10-08,3,0,3,True
+Amador,Amador,005,2020-10-08,266,15,243,
+Butte,Butte,007,2020-10-08,2907,45,2764,
+Calaveras,Calaveras,009,2020-10-08,329,14,306,True
+Colusa,Colusa,011,2020-10-08,541,6,532,
+Contra Costa,Contra Costa,013,2020-10-08,17478,227,16564,
+Del Norte,Del Norte,015,2020-10-08,167,1,145,
+El Dorado,El Dorado,017,2020-10-08,1232,4,1078,
+Fresno,Fresno,019,2020-10-08,29069,406,19000,
+Glenn,Glenn,021,2020-10-08,623,3,593,
+Humboldt,Humboldt,023,2020-10-08,528,8,501,
+Imperial,Imperial,025,2020-10-08,12145,329,11498,
+Inyo,Inyo,027,2020-10-08,201,15,171,
+Kern,Kern,029,2020-10-08,32741,387,16555,
+Kings,Kings,031,2020-10-08,7956,82,6352,
+Lake,Lake,033,2020-10-08,600,12,532,
+Lassen,Lassen,035,2020-10-08,748,0,735,
+Long Beach,Los Angeles,037,2020-10-08,12281,249,11510,
+Los Angeles,Los Angeles,037,2020-10-08,263812,6349,,
+Pasadena,Los Angeles,037,2020-10-08,2640,129,,
+Madera,Madera,039,2020-10-08,4739,70,4261,
+Marin,Marin,041,2020-10-08,6854,124,6516,
+Mariposa,Mariposa,043,2020-10-08,77,2,74,
+Mendocino,Mendocino,045,2020-10-08,1030,21,917,
+Merced,Merced,047,2020-10-08,9130,150,8672,
+Modoc,Modoc,049,2020-10-08,28,0,27,True
+Mono,Mono,051,2020-10-08,170,2,,
+Monterey,Monterey,053,2020-10-08,10560,78,7982,
+Napa,Napa,055,2020-10-08,1777,12,1559,
+Nevada,Nevada,057,2020-10-08,557,8,531,
+Orange,Orange,059,2020-10-08,55183,1306,49485,
+Placer,Placer,061,2020-10-08,3730,51,3453,
+Plumas,Plumas,063,2020-10-08,52,0,50,True
+Riverside,Riverside,065,2020-10-08,61416,1248,55809,
+Sacramento,Sacramento,067,2020-10-08,23523,447,21075,
+San Benito,San Benito,069,2020-10-08,1374,13,1344,
+San Bernardino,San Bernardino,071,2020-10-08,57203,974,54223,
+San Diego,San Diego,073,2020-10-08,49466,819,,
+San Francisco,San Francisco,075,2020-10-08,11549,115,,
+San Joaquin,San Joaquin,077,2020-10-08,20828,473,19566,
+San Luis Obispo,San Luis Obispo,079,2020-10-08,3815,31,3570,
+San Mateo,San Mateo,081,2020-10-08,10395,154,,
+Santa Barbara,Santa Barbara,083,2020-10-08,9387,115,9146,
+Santa Clara,Santa Clara,085,2020-10-08,22154,354,,
+Santa Cruz,Santa Cruz,087,2020-10-08,2552,19,2294,
+Shasta,Shasta,089,2020-10-08,1267,24,1112,
+Sierra,Sierra,091,2020-10-08,6,0,6,True
+Siskiyou,Siskiyou,093,2020-10-08,173,0,169,
+Solano,Solano,095,2020-10-08,6708,74,6343,
+Sonoma,Sonoma,097,2020-10-08,8155,126,6408,
+Stanislaus,Stanislaus,099,2020-10-08,16886,381,16269,
+Sutter,Sutter,101,2020-10-08,1771,12,1724,
+Tehama,Tehama,103,2020-10-08,665,7,551,
+Trinity,Trinity,105,2020-10-08,19,0,16,
+Tulare,Tulare,107,2020-10-08,16718,269,15851,
+Tuolumne,Tuolumne,109,2020-10-08,235,4,212,
+Ventura,Ventura,111,2020-10-08,13224,157,12393,
+Yolo,Yolo,113,2020-10-08,2918,56,,
+Yuba,Yuba,115,2020-10-08,1222,10,1173,
 Alameda,Alameda,001,2020-10-07,21129,431,,
 Berkeley,Alameda,001,2020-10-07,716,9,,
 Alpine,Alpine,003,2020-10-07,3,0,3,True
@@ -12,7 +73,7 @@ El Dorado,El Dorado,017,2020-10-07,1229,4,1072,
 Fresno,Fresno,019,2020-10-07,29022,406,19000,
 Glenn,Glenn,021,2020-10-07,621,3,593,
 Humboldt,Humboldt,023,2020-10-07,527,8,501,
-Imperial,Imperial,025,2020-10-07,12120,327,11501,
+Imperial,Imperial,025,2020-10-07,12120,327,11498,
 Inyo,Inyo,027,2020-10-07,199,15,171,
 Kern,Kern,029,2020-10-07,32674,387,16504,
 Kings,Kings,031,2020-10-07,7938,82,6338,
@@ -30,7 +91,7 @@ Modoc,Modoc,049,2020-10-07,28,0,27,True
 Mono,Mono,051,2020-10-07,169,2,,
 Monterey,Monterey,053,2020-10-07,10475,78,7909,
 Napa,Napa,055,2020-10-07,1770,12,1558,
-Nevada,Nevada,057,2020-10-07,554,7,532,
+Nevada,Nevada,057,2020-10-07,554,7,531,
 Orange,Orange,059,2020-10-07,55042,1292,49303,
 Placer,Placer,061,2020-10-07,3710,51,3433,
 Plumas,Plumas,063,2020-10-07,52,0,50,True
@@ -54,7 +115,7 @@ Sonoma,Sonoma,097,2020-10-07,8083,126,6408,
 Stanislaus,Stanislaus,099,2020-10-07,16804,379,16230,
 Sutter,Sutter,101,2020-10-07,1770,12,1676,
 Tehama,Tehama,103,2020-10-07,660,7,545,
-Trinity,Trinity,105,2020-10-07,26,0,16,
+Trinity,Trinity,105,2020-10-07,19,0,16,
 Tulare,Tulare,107,2020-10-07,16634,267,15820,
 Tuolumne,Tuolumne,109,2020-10-07,234,4,211,
 Ventura,Ventura,111,2020-10-07,13147,157,12330,
@@ -115,7 +176,7 @@ Sonoma,Sonoma,097,2020-10-06,8037,122,6408,
 Stanislaus,Stanislaus,099,2020-10-06,16767,377,16206,
 Sutter,Sutter,101,2020-10-06,1767,12,1620,
 Tehama,Tehama,103,2020-10-06,643,7,533,
-Trinity,Trinity,105,2020-10-06,26,0,16,
+Trinity,Trinity,105,2020-10-06,19,0,16,
 Tulare,Tulare,107,2020-10-06,16607,265,15736,
 Tuolumne,Tuolumne,109,2020-10-06,233,4,211,
 Ventura,Ventura,111,2020-10-06,13065,154,12287,
@@ -176,7 +237,7 @@ Sonoma,Sonoma,097,2020-10-05,7940,122,6408,
 Stanislaus,Stanislaus,099,2020-10-05,16759,374,16206,
 Sutter,Sutter,101,2020-10-05,1763,12,1577,
 Tehama,Tehama,103,2020-10-05,618,7,518,True
-Trinity,Trinity,105,2020-10-05,26,0,16,
+Trinity,Trinity,105,2020-10-05,19,0,16,
 Tulare,Tulare,107,2020-10-05,16490,265,15630,
 Tuolumne,Tuolumne,109,2020-10-05,233,4,211,
 Ventura,Ventura,111,2020-10-05,13045,154,12224,
@@ -192,7 +253,7 @@ Colusa,Colusa,011,2020-10-04,538,6,529,True
 Contra Costa,Contra Costa,013,2020-10-04,17263,212,16195,
 Del Norte,Del Norte,015,2020-10-04,146,1,140,True
 El Dorado,El Dorado,017,2020-10-04,1180,4,1045,True
-Fresno,Fresno,019,2020-10-04,28855,399,18869,True
+Fresno,Fresno,019,2020-10-04,28975,399,18869,True
 Glenn,Glenn,021,2020-10-04,603,3,578,True
 Humboldt,Humboldt,023,2020-10-04,518,8,483,True
 Imperial,Imperial,025,2020-10-04,12047,326,11447,True
@@ -237,7 +298,7 @@ Sonoma,Sonoma,097,2020-10-04,7861,122,6408,
 Stanislaus,Stanislaus,099,2020-10-04,16737,372,16144,
 Sutter,Sutter,101,2020-10-04,1748,11,1523,True
 Tehama,Tehama,103,2020-10-04,618,7,518,True
-Trinity,Trinity,105,2020-10-04,25,0,16,True
+Trinity,Trinity,105,2020-10-04,19,0,16,True
 Tulare,Tulare,107,2020-10-04,16399,265,15592,True
 Tuolumne,Tuolumne,109,2020-10-04,230,4,210,True
 Ventura,Ventura,111,2020-10-04,12943,153,12070,True
@@ -298,7 +359,7 @@ Sonoma,Sonoma,097,2020-10-03,7799,122,6153,True
 Stanislaus,Stanislaus,099,2020-10-03,16703,370,16103,
 Sutter,Sutter,101,2020-10-03,1748,11,1523,True
 Tehama,Tehama,103,2020-10-03,618,7,518,
-Trinity,Trinity,105,2020-10-03,25,0,16,
+Trinity,Trinity,105,2020-10-03,19,0,16,
 Tulare,Tulare,107,2020-10-03,16399,265,15592,True
 Tuolumne,Tuolumne,109,2020-10-03,230,4,210,True
 Ventura,Ventura,111,2020-10-03,12943,153,12070,True
