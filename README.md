@@ -365,6 +365,7 @@ This file records the metrics recorded for each county by day. Definition of the
 | `percapita_case_rate` | float   | The number of new cases in a recent seven-day period — excluding cases at prisons and jails — adjusted for population and multiplied by 100,000.                                     |
 | `adjusted_case_rate`  | float   | The `percapita_case_rate` adjusted to account for the volume of testing in the area. Not done for all counties.                                                                      |
 | `positivity_rate`     | float   | The percentage of tests for the virus that come back positive in a recent seven-day period.                                                                                          |
+| `equity_metric`       | float   | An index measuring disparities in disadvantaged neighborhoods compared to the county overall. Many small counties are exempted. Added Oct. 6, 2020                                   |
 
 ### [cdcr-state-totals.csv](./cdcr-state-totals.csv)
 
