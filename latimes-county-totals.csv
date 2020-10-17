@@ -1,6 +1,6 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-16,Alameda,001,22408,439,38,6
-2020-10-16,Alpine,003,0,0,-3,0
+2020-10-16,Alpine,003,3,0,0,0
 2020-10-16,Amador,005,272,15,0,0
 2020-10-16,Butte,007,2961,50,3,0
 2020-10-16,Calaveras,009,333,17,2,1
