@@ -1,5 +1,66 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
-Alameda,Alameda,001,2020-10-17,21728,433,,
+Alameda,Alameda,001,2020-10-18,21905,424,,
+Berkeley,Alameda,001,2020-10-18,731,9,,True
+Alpine,Alpine,003,2020-10-18,3,0,3,True
+Amador,Amador,005,2020-10-18,272,15,249,True
+Butte,Butte,007,2020-10-18,2961,50,2855,True
+Calaveras,Calaveras,009,2020-10-18,333,17,310,True
+Colusa,Colusa,011,2020-10-18,545,6,536,True
+Contra Costa,Contra Costa,013,2020-10-18,18157,234,17269,
+Del Norte,Del Norte,015,2020-10-18,173,1,168,True
+El Dorado,El Dorado,017,2020-10-18,1275,4,1170,True
+Fresno,Fresno,019,2020-10-18,29796,429,19612,True
+Glenn,Glenn,021,2020-10-18,639,3,621,True
+Humboldt,Humboldt,023,2020-10-18,544,8,520,True
+Imperial,Imperial,025,2020-10-18,12410,335,11740,True
+Inyo,Inyo,027,2020-10-18,212,15,172,True
+Kern,Kern,029,2020-10-18,33448,410,16933,
+Kings,Kings,031,2020-10-18,8139,83,6469,
+Lake,Lake,033,2020-10-18,658,15,588,True
+Lassen,Lassen,035,2020-10-18,752,1,741,True
+Long Beach,Los Angeles,037,2020-10-18,12612,255,11918,True
+Los Angeles,Los Angeles,037,2020-10-18,273159,6492,,
+Pasadena,Los Angeles,037,2020-10-18,2681,129,,
+Madera,Madera,039,2020-10-18,4836,73,4434,True
+Marin,Marin,041,2020-10-18,7019,124,6641,
+Mariposa,Mariposa,043,2020-10-18,78,2,74,
+Mendocino,Mendocino,045,2020-10-18,1103,21,1020,
+Merced,Merced,047,2020-10-18,9314,152,8850,True
+Modoc,Modoc,049,2020-10-18,27,0,27,True
+Mono,Mono,051,2020-10-18,175,2,,True
+Monterey,Monterey,053,2020-10-18,11091,83,8445,
+Napa,Napa,055,2020-10-18,1851,13,1602,True
+Nevada,Nevada,057,2020-10-18,581,8,546,True
+Orange,Orange,059,2020-10-18,56868,1409,50839,
+Placer,Placer,061,2020-10-18,3880,52,3561,True
+Plumas,Plumas,063,2020-10-18,54,0,53,True
+Riverside,Riverside,065,2020-10-18,63284,1269,57394,True
+Sacramento,Sacramento,067,2020-10-18,24192,468,22304,True
+San Benito,San Benito,069,2020-10-18,1401,14,1370,
+San Bernardino,San Bernardino,071,2020-10-18,59696,1021,56934,
+San Diego,San Diego,073,2020-10-18,52355,853,,
+San Francisco,San Francisco,075,2020-10-18,11865,133,,
+San Joaquin,San Joaquin,077,2020-10-18,21187,484,20008,True
+San Luis Obispo,San Luis Obispo,079,2020-10-18,3985,32,3759,True
+San Mateo,San Mateo,081,2020-10-18,10743,157,,True
+Santa Barbara,Santa Barbara,083,2020-10-18,9560,119,9329,True
+Santa Clara,Santa Clara,085,2020-10-18,23224,373,,
+Santa Cruz,Santa Cruz,087,2020-10-18,2706,23,2469,
+Shasta,Shasta,089,2020-10-18,1666,29,1499,True
+Sierra,Sierra,091,2020-10-18,6,0,6,True
+Siskiyou,Siskiyou,093,2020-10-18,184,0,179,True
+Solano,Solano,095,2020-10-18,7009,74,6613,True
+Sonoma,Sonoma,097,2020-10-18,8810,129,6891,True
+Stanislaus,Stanislaus,099,2020-10-18,17292,391,16648,
+Sutter,Sutter,101,2020-10-18,1796,12,1768,True
+Tehama,Tehama,103,2020-10-18,742,8,603,True
+Trinity,Trinity,105,2020-10-18,23,0,19,
+Tulare,Tulare,107,2020-10-18,17120,275,16274,True
+Tuolumne,Tuolumne,109,2020-10-18,249,4,219,True
+Ventura,Ventura,111,2020-10-18,13597,160,12938,True
+Yolo,Yolo,113,2020-10-18,3063,56,,
+Yuba,Yuba,115,2020-10-18,1253,10,1218,True
+Alameda,Alameda,001,2020-10-17,21728,424,,
 Berkeley,Alameda,001,2020-10-17,731,9,,
 Alpine,Alpine,003,2020-10-17,3,0,3,True
 Amador,Amador,005,2020-10-17,272,15,249,True
@@ -22,7 +83,7 @@ Long Beach,Los Angeles,037,2020-10-17,12612,255,11918,
 Los Angeles,Los Angeles,037,2020-10-17,272889,6479,,
 Pasadena,Los Angeles,037,2020-10-17,2680,129,,
 Madera,Madera,039,2020-10-17,4836,73,4434,True
-Marin,Marin,041,2020-10-17,7001,124,6643,
+Marin,Marin,041,2020-10-17,7001,124,6641,
 Mariposa,Mariposa,043,2020-10-17,78,2,73,True
 Mendocino,Mendocino,045,2020-10-17,1089,21,1015,
 Merced,Merced,047,2020-10-17,9314,152,8850,True
@@ -60,7 +121,7 @@ Tuolumne,Tuolumne,109,2020-10-17,249,4,219,True
 Ventura,Ventura,111,2020-10-17,13597,160,12938,True
 Yolo,Yolo,113,2020-10-17,3046,56,,
 Yuba,Yuba,115,2020-10-17,1253,10,1218,True
-Alameda,Alameda,001,2020-10-16,21678,430,,
+Alameda,Alameda,001,2020-10-16,21678,424,,
 Berkeley,Alameda,001,2020-10-16,730,9,,
 Alpine,Alpine,003,2020-10-16,3,0,3,True
 Amador,Amador,005,2020-10-16,272,15,249,
