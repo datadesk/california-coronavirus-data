@@ -127,7 +127,7 @@ The 61 local-health agency websites that the Los Angeles Times consults to condu
 
 Some counties, primarily in Southern California, break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
 
-The following counties currently do not report cases by locality: Alpine, Colusa, Del Norte, Glenn, Inyo, Lake, Lassen, Madera, Mariposa, Modoc, San Benito, San Mateo, Shasta, Sierra, Siskiyou, Sutter, Tehama, Trinity, Tuolumne and Yuba
+The following counties currently do not report cases by locality: Alpine, Colusa, Glenn, Inyo, Lake, Lassen, Mariposa, Modoc, San Benito, Sierra, Tehama and Tuolumne.
 
 Some counties provide data by region. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations in other counties are manually geocoded by The Times. San Francisco and Imperial counties provide data at the ZIP Code level.
 
