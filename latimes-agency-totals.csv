@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-10-19,21999,424,,
+Berkeley,Alameda,001,2020-10-19,739,9,,
+Alpine,Alpine,003,2020-10-19,3,0,3,True
+Amador,Amador,005,2020-10-19,276,15,251,
+Butte,Butte,007,2020-10-19,3002,51,2905,
+Calaveras,Calaveras,009,2020-10-19,333,17,310,True
+Colusa,Colusa,011,2020-10-19,547,6,536,
+Contra Costa,Contra Costa,013,2020-10-19,18214,236,17315,
+Del Norte,Del Norte,015,2020-10-19,175,1,167,
+El Dorado,El Dorado,017,2020-10-19,1290,4,1186,
+Fresno,Fresno,019,2020-10-19,30051,429,19612,
+Glenn,Glenn,021,2020-10-19,642,3,630,
+Humboldt,Humboldt,023,2020-10-19,554,9,525,
+Imperial,Imperial,025,2020-10-19,12475,335,11854,
+Inyo,Inyo,027,2020-10-19,218,15,179,
+Kern,Kern,029,2020-10-19,33497,410,16933,
+Kings,Kings,031,2020-10-19,8153,83,6718,
+Lake,Lake,033,2020-10-19,672,15,595,
+Lassen,Lassen,035,2020-10-19,752,1,741,True
+Long Beach,Los Angeles,037,2020-10-19,12665,255,11957,
+Los Angeles,Los Angeles,037,2020-10-19,274073,6493,,
+Pasadena,Los Angeles,037,2020-10-19,2683,129,,
+Madera,Madera,039,2020-10-19,4886,73,4497,
+Marin,Marin,041,2020-10-19,7030,127,6663,
+Mariposa,Mariposa,043,2020-10-19,78,2,73,
+Mendocino,Mendocino,045,2020-10-19,1104,21,1020,
+Merced,Merced,047,2020-10-19,9375,152,8901,
+Modoc,Modoc,049,2020-10-19,27,0,27,
+Mono,Mono,051,2020-10-19,175,2,,
+Monterey,Monterey,053,2020-10-19,11117,83,8462,
+Napa,Napa,055,2020-10-19,1888,13,1614,
+Nevada,Nevada,057,2020-10-19,590,8,547,
+Orange,Orange,059,2020-10-19,57071,1410,51018,
+Placer,Placer,061,2020-10-19,3978,52,3600,
+Plumas,Plumas,063,2020-10-19,54,0,53,True
+Riverside,Riverside,065,2020-10-19,64075,1272,57958,
+Sacramento,Sacramento,067,2020-10-19,24582,471,22556,
+San Benito,San Benito,069,2020-10-19,1403,14,1371,
+San Bernardino,San Bernardino,071,2020-10-19,59779,1021,57172,
+San Diego,San Diego,073,2020-10-19,52735,853,,
+San Francisco,San Francisco,075,2020-10-19,11901,133,,
+San Joaquin,San Joaquin,077,2020-10-19,21196,484,20128,
+San Luis Obispo,San Luis Obispo,079,2020-10-19,4049,32,3832,
+San Mateo,San Mateo,081,2020-10-19,10810,157,,
+Santa Barbara,Santa Barbara,083,2020-10-19,9641,119,9401,
+Santa Clara,Santa Clara,085,2020-10-19,23355,378,,
+Santa Cruz,Santa Cruz,087,2020-10-19,2722,23,2488,
+Shasta,Shasta,089,2020-10-19,1723,29,1541,
+Sierra,Sierra,091,2020-10-19,6,0,6,
+Siskiyou,Siskiyou,093,2020-10-19,185,0,182,
+Solano,Solano,095,2020-10-19,7117,74,6749,
+Sonoma,Sonoma,097,2020-10-19,8934,129,7404,
+Stanislaus,Stanislaus,099,2020-10-19,17341,392,16691,
+Sutter,Sutter,101,2020-10-19,1819,12,1778,
+Tehama,Tehama,103,2020-10-19,742,8,603,True
+Trinity,Trinity,105,2020-10-19,23,0,19,True
+Tulare,Tulare,107,2020-10-19,17206,276,16371,
+Tuolumne,Tuolumne,109,2020-10-19,255,4,221,
+Ventura,Ventura,111,2020-10-19,13728,160,13079,
+Yolo,Yolo,113,2020-10-19,3073,56,,
+Yuba,Yuba,115,2020-10-19,1278,10,1230,
 Alameda,Alameda,001,2020-10-18,21905,424,,
 Berkeley,Alameda,001,2020-10-18,731,9,,True
 Alpine,Alpine,003,2020-10-18,3,0,3,True
@@ -7,7 +68,7 @@ Butte,Butte,007,2020-10-18,2961,50,2855,True
 Calaveras,Calaveras,009,2020-10-18,333,17,310,True
 Colusa,Colusa,011,2020-10-18,545,6,536,True
 Contra Costa,Contra Costa,013,2020-10-18,18157,234,17269,
-Del Norte,Del Norte,015,2020-10-18,173,1,168,True
+Del Norte,Del Norte,015,2020-10-18,173,1,167,True
 El Dorado,El Dorado,017,2020-10-18,1275,4,1170,True
 Fresno,Fresno,019,2020-10-18,29796,429,19612,True
 Glenn,Glenn,021,2020-10-18,639,3,621,True
@@ -23,7 +84,7 @@ Los Angeles,Los Angeles,037,2020-10-18,273159,6492,,
 Pasadena,Los Angeles,037,2020-10-18,2681,129,,
 Madera,Madera,039,2020-10-18,4836,73,4434,True
 Marin,Marin,041,2020-10-18,7019,124,6641,
-Mariposa,Mariposa,043,2020-10-18,78,2,74,
+Mariposa,Mariposa,043,2020-10-18,78,2,73,
 Mendocino,Mendocino,045,2020-10-18,1103,21,1020,
 Merced,Merced,047,2020-10-18,9314,152,8850,True
 Modoc,Modoc,049,2020-10-18,27,0,27,True
@@ -68,7 +129,7 @@ Butte,Butte,007,2020-10-17,2961,50,2855,True
 Calaveras,Calaveras,009,2020-10-17,333,17,310,True
 Colusa,Colusa,011,2020-10-17,545,6,536,True
 Contra Costa,Contra Costa,013,2020-10-17,18054,234,17236,
-Del Norte,Del Norte,015,2020-10-17,173,1,168,True
+Del Norte,Del Norte,015,2020-10-17,173,1,167,True
 El Dorado,El Dorado,017,2020-10-17,1275,4,1170,True
 Fresno,Fresno,019,2020-10-17,29796,429,19612,
 Glenn,Glenn,021,2020-10-17,639,3,621,True
