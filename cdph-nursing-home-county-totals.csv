@@ -1754,7 +1754,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-18,Mendocino,045,2,2,1,2
 2020-07-18,Merced,047,6,2,0,0
 2020-07-18,Monterey,053,27,21,0,1
-2020-07-18,Napa,055,5,3,2,2
+2020-07-18,Napa,055,5,3,1,2
 2020-07-18,Nevada,057,1,0,0,0
 2020-07-18,Orange,059,942,1302,6,147
 2020-07-18,Placer,061,8,4,0,2
@@ -1799,7 +1799,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-19,Mendocino,045,2,2,1,2
 2020-07-19,Merced,047,6,3,0,0
 2020-07-19,Monterey,053,27,21,0,1
-2020-07-19,Napa,055,5,3,2,2
+2020-07-19,Napa,055,5,3,1,2
 2020-07-19,Nevada,057,1,0,0,0
 2020-07-19,Orange,059,958,1303,6,148
 2020-07-19,Placer,061,8,4,0,2
@@ -1844,7 +1844,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-20,Mendocino,045,2,2,1,2
 2020-07-20,Merced,047,6,3,0,0
 2020-07-20,Monterey,053,28,21,0,1
-2020-07-20,Napa,055,5,3,2,2
+2020-07-20,Napa,055,5,3,1,2
 2020-07-20,Nevada,057,1,0,0,0
 2020-07-20,Orange,059,967,1305,6,148
 2020-07-20,Placer,061,8,4,0,2
@@ -1889,7 +1889,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-21,Mendocino,045,2,2,1,2
 2020-07-21,Merced,047,6,3,0,0
 2020-07-21,Monterey,053,29,21,0,1
-2020-07-21,Napa,055,5,21,2,2
+2020-07-21,Napa,055,5,21,1,2
 2020-07-21,Nevada,057,1,0,0,0
 2020-07-21,Orange,059,985,1331,6,153
 2020-07-21,Placer,061,8,5,0,2
@@ -1934,7 +1934,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-22,Mendocino,045,2,2,1,2
 2020-07-22,Merced,047,6,4,0,1
 2020-07-22,Monterey,053,30,22,0,1
-2020-07-22,Napa,055,5,25,2,2
+2020-07-22,Napa,055,5,25,1,2
 2020-07-22,Nevada,057,2,0,0,0
 2020-07-22,Orange,059,995,1392,6,155
 2020-07-22,Placer,061,8,5,0,3
@@ -1979,7 +1979,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-23,Mendocino,045,2,2,1,2
 2020-07-23,Merced,047,6,4,0,1
 2020-07-23,Monterey,053,32,22,0,1
-2020-07-23,Napa,055,5,30,2,2
+2020-07-23,Napa,055,5,30,1,2
 2020-07-23,Nevada,057,2,0,0,0
 2020-07-23,Orange,059,1012,1410,7,158
 2020-07-23,Placer,061,8,5,0,3
@@ -2024,7 +2024,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-24,Mendocino,045,2,12,1,2
 2020-07-24,Merced,047,6,4,0,1
 2020-07-24,Monterey,053,32,22,0,2
-2020-07-24,Napa,055,5,30,2,2
+2020-07-24,Napa,055,5,30,1,2
 2020-07-24,Nevada,057,2,0,0,0
 2020-07-24,Orange,059,1029,1419,7,159
 2020-07-24,Placer,061,9,5,0,3
@@ -2069,7 +2069,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-25,Mendocino,045,2,14,1,2
 2020-07-25,Merced,047,6,4,0,1
 2020-07-25,Monterey,053,32,22,0,2
-2020-07-25,Napa,055,5,30,2,2
+2020-07-25,Napa,055,5,30,1,2
 2020-07-25,Nevada,057,2,0,0,0
 2020-07-25,Orange,059,1027,1455,7,160
 2020-07-25,Placer,061,9,5,0,3
@@ -2114,7 +2114,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-26,Mendocino,045,2,14,1,2
 2020-07-26,Merced,047,8,15,0,1
 2020-07-26,Monterey,053,32,22,0,2
-2020-07-26,Napa,055,5,37,2,2
+2020-07-26,Napa,055,5,37,1,2
 2020-07-26,Nevada,057,2,0,0,0
 2020-07-26,Orange,059,1084,1484,7,163
 2020-07-26,Placer,061,9,6,0,3
@@ -2159,7 +2159,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-27,Mendocino,045,2,14,1,2
 2020-07-27,Merced,047,9,16,0,1
 2020-07-27,Monterey,053,32,22,0,2
-2020-07-27,Napa,055,5,38,2,2
+2020-07-27,Napa,055,5,38,1,2
 2020-07-27,Nevada,057,2,0,0,0
 2020-07-27,Orange,059,1067,1501,7,163
 2020-07-27,Placer,061,9,6,0,3
@@ -2205,7 +2205,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-28,Mendocino,045,2,14,1,2
 2020-07-28,Merced,047,20,19,0,2
 2020-07-28,Monterey,053,42,23,0,2
-2020-07-28,Napa,055,5,38,2,2
+2020-07-28,Napa,055,5,38,1,2
 2020-07-28,Nevada,057,2,0,0,0
 2020-07-28,Orange,059,1095,1508,7,164
 2020-07-28,Placer,061,9,6,0,3
@@ -2251,7 +2251,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-29,Mendocino,045,3,16,1,2
 2020-07-29,Merced,047,20,20,0,2
 2020-07-29,Monterey,053,45,23,0,2
-2020-07-29,Napa,055,5,39,2,2
+2020-07-29,Napa,055,5,39,1,2
 2020-07-29,Nevada,057,2,0,0,0
 2020-07-29,Orange,059,1125,1517,7,165
 2020-07-29,Placer,061,9,6,0,3
@@ -2297,7 +2297,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-30,Mendocino,045,3,18,1,2
 2020-07-30,Merced,047,20,21,0,2
 2020-07-30,Monterey,053,45,23,0,2
-2020-07-30,Napa,055,5,41,2,2
+2020-07-30,Napa,055,5,41,1,2
 2020-07-30,Nevada,057,3,0,0,0
 2020-07-30,Orange,059,1145,1537,7,175
 2020-07-30,Placer,061,9,6,0,3
@@ -2343,7 +2343,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-31,Mendocino,045,3,19,1,2
 2020-07-31,Merced,047,21,21,0,2
 2020-07-31,Monterey,053,57,34,0,2
-2020-07-31,Napa,055,5,41,2,2
+2020-07-31,Napa,055,5,41,1,2
 2020-07-31,Nevada,057,3,0,0,0
 2020-07-31,Orange,059,1161,1560,7,176
 2020-07-31,Placer,061,9,7,0,4
@@ -2389,7 +2389,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-01,Mendocino,045,3,21,1,2
 2020-08-01,Merced,047,22,31,0,2
 2020-08-01,Monterey,053,58,35,0,2
-2020-08-01,Napa,055,5,41,2,2
+2020-08-01,Napa,055,5,41,1,2
 2020-08-01,Nevada,057,3,0,0,0
 2020-08-01,Orange,059,1234,1604,8,179
 2020-08-01,Placer,061,9,7,0,4
@@ -2435,7 +2435,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-02,Mendocino,045,3,21,1,2
 2020-08-02,Merced,047,22,32,0,2
 2020-08-02,Monterey,053,60,35,0,2
-2020-08-02,Napa,055,5,41,2,2
+2020-08-02,Napa,055,5,41,1,2
 2020-08-02,Nevada,057,3,0,0,0
 2020-08-02,Orange,059,1239,1630,8,182
 2020-08-02,Placer,061,9,7,0,4
@@ -2482,7 +2482,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-03,Mendocino,045,3,21,1,2
 2020-08-03,Merced,047,22,33,0,2
 2020-08-03,Monterey,053,60,35,0,2
-2020-08-03,Napa,055,15,41,2,2
+2020-08-03,Napa,055,15,41,1,2
 2020-08-03,Nevada,057,3,0,0,0
 2020-08-03,Orange,059,1247,1635,8,183
 2020-08-03,Placer,061,9,7,0,4
@@ -2529,7 +2529,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-04,Mendocino,045,3,23,1,2
 2020-08-04,Merced,047,22,33,0,2
 2020-08-04,Monterey,053,63,35,0,2
-2020-08-04,Napa,055,18,41,2,2
+2020-08-04,Napa,055,18,41,1,2
 2020-08-04,Nevada,057,4,1,0,0
 2020-08-04,Orange,059,1250,1640,8,197
 2020-08-04,Placer,061,10,8,0,5
@@ -2576,7 +2576,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-05,Mendocino,045,3,23,1,2
 2020-08-05,Merced,047,22,34,0,2
 2020-08-05,Monterey,053,64,36,0,2
-2020-08-05,Napa,055,19,41,2,2
+2020-08-05,Napa,055,19,41,1,2
 2020-08-05,Nevada,057,4,1,0,0
 2020-08-05,Orange,059,1270,1670,8,197
 2020-08-05,Placer,061,10,8,0,5
@@ -2623,7 +2623,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-06,Mendocino,045,3,23,1,2
 2020-08-06,Merced,047,32,50,0,2
 2020-08-06,Monterey,053,65,37,0,3
-2020-08-06,Napa,055,19,42,2,2
+2020-08-06,Napa,055,19,42,1,2
 2020-08-06,Nevada,057,4,1,0,0
 2020-08-06,Orange,059,1276,1682,8,197
 2020-08-06,Placer,061,10,8,0,5
@@ -2670,7 +2670,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-07,Mendocino,045,3,25,1,2
 2020-08-07,Merced,047,33,50,0,2
 2020-08-07,Monterey,053,68,37,0,3
-2020-08-07,Napa,055,19,43,2,2
+2020-08-07,Napa,055,19,43,1,2
 2020-08-07,Nevada,057,4,1,0,0
 2020-08-07,Orange,059,1287,1709,8,198
 2020-08-07,Placer,061,10,8,0,5
@@ -2717,7 +2717,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-08,Mendocino,045,3,25,1,2
 2020-08-08,Merced,047,36,50,0,2
 2020-08-08,Monterey,053,68,38,0,3
-2020-08-08,Napa,055,19,43,2,2
+2020-08-08,Napa,055,19,43,1,2
 2020-08-08,Nevada,057,4,1,0,0
 2020-08-08,Orange,059,1296,1749,8,200
 2020-08-08,Placer,061,10,21,0,5
@@ -2764,7 +2764,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-09,Mendocino,045,3,25,1,2
 2020-08-09,Merced,047,36,55,0,2
 2020-08-09,Monterey,053,68,38,0,3
-2020-08-09,Napa,055,19,43,2,2
+2020-08-09,Napa,055,19,43,1,2
 2020-08-09,Nevada,057,4,1,0,0
 2020-08-09,Orange,059,1299,1774,8,200
 2020-08-09,Placer,061,10,21,0,5
@@ -2811,7 +2811,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-10,Mendocino,045,3,25,1,2
 2020-08-10,Merced,047,36,56,0,2
 2020-08-10,Monterey,053,68,38,0,3
-2020-08-10,Napa,055,19,43,2,2
+2020-08-10,Napa,055,19,43,1,2
 2020-08-10,Nevada,057,4,1,0,0
 2020-08-10,Orange,059,1310,1781,8,202
 2020-08-10,Placer,061,10,21,0,5
@@ -2858,7 +2858,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-11,Mendocino,045,3,25,1,2
 2020-08-11,Merced,047,39,67,0,2
 2020-08-11,Monterey,053,68,38,0,3
-2020-08-11,Napa,055,19,46,2,2
+2020-08-11,Napa,055,19,46,1,2
 2020-08-11,Nevada,057,4,1,0,0
 2020-08-11,Orange,059,1312,1781,8,204
 2020-08-11,Placer,061,10,21,0,5
@@ -2905,7 +2905,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-12,Mendocino,045,3,25,1,2
 2020-08-12,Merced,047,39,68,0,2
 2020-08-12,Monterey,053,69,38,0,3
-2020-08-12,Napa,055,20,46,2,2
+2020-08-12,Napa,055,20,46,1,2
 2020-08-12,Nevada,057,4,1,0,0
 2020-08-12,Orange,059,1320,1794,8,205
 2020-08-12,Placer,061,10,24,0,5
@@ -2952,7 +2952,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-13,Mendocino,045,3,25,1,2
 2020-08-13,Merced,047,40,72,0,2
 2020-08-13,Monterey,053,70,39,0,3
-2020-08-13,Napa,055,21,46,2,2
+2020-08-13,Napa,055,21,46,1,2
 2020-08-13,Nevada,057,4,1,0,0
 2020-08-13,Orange,059,1334,1803,8,205
 2020-08-13,Placer,061,10,24,0,5
@@ -2999,7 +2999,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-14,Mendocino,045,3,25,1,2
 2020-08-14,Merced,047,40,72,1,2
 2020-08-14,Monterey,053,70,39,0,3
-2020-08-14,Napa,055,21,46,2,2
+2020-08-14,Napa,055,21,46,1,2
 2020-08-14,Nevada,057,4,1,0,0
 2020-08-14,Orange,059,1340,1812,9,205
 2020-08-14,Placer,061,11,24,0,5
@@ -3047,7 +3047,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-15,Mendocino,045,3,25,1,2
 2020-08-15,Merced,047,40,72,1,2
 2020-08-15,Monterey,053,70,39,0,3
-2020-08-15,Napa,055,21,46,2,2
+2020-08-15,Napa,055,21,46,1,2
 2020-08-15,Nevada,057,4,1,0,0
 2020-08-15,Orange,059,1370,1837,9,219
 2020-08-15,Placer,061,11,24,0,5
@@ -3095,7 +3095,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-16,Mendocino,045,3,25,1,2
 2020-08-16,Merced,047,40,72,1,2
 2020-08-16,Monterey,053,80,39,0,3
-2020-08-16,Napa,055,21,49,2,2
+2020-08-16,Napa,055,21,49,1,2
 2020-08-16,Nevada,057,4,1,0,0
 2020-08-16,Orange,059,1373,1887,9,219
 2020-08-16,Placer,061,11,24,0,5
@@ -3143,7 +3143,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-17,Mendocino,045,3,25,1,2
 2020-08-17,Merced,047,40,75,1,2
 2020-08-17,Monterey,053,85,39,0,3
-2020-08-17,Napa,055,21,49,2,12
+2020-08-17,Napa,055,21,49,1,12
 2020-08-17,Nevada,057,4,1,0,0
 2020-08-17,Orange,059,1383,1902,9,234
 2020-08-17,Placer,061,11,25,0,5
@@ -3191,7 +3191,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-18,Mendocino,045,3,25,1,2
 2020-08-18,Merced,047,40,75,1,2
 2020-08-18,Monterey,053,85,39,0,3
-2020-08-18,Napa,055,22,49,2,12
+2020-08-18,Napa,055,22,49,1,12
 2020-08-18,Nevada,057,4,1,0,0
 2020-08-18,Orange,059,1408,1910,9,244
 2020-08-18,Placer,061,11,25,0,5
@@ -3240,7 +3240,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-19,Mendocino,045,3,25,1,2
 2020-08-19,Merced,047,42,77,1,2
 2020-08-19,Monterey,053,85,39,0,3
-2020-08-19,Napa,055,22,49,2,12
+2020-08-19,Napa,055,22,49,1,12
 2020-08-19,Nevada,057,4,2,0,0
 2020-08-19,Orange,059,1410,1931,9,245
 2020-08-19,Placer,061,11,25,0,5
@@ -3289,7 +3289,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-20,Mendocino,045,3,25,1,2
 2020-08-20,Merced,047,42,77,1,2
 2020-08-20,Monterey,053,85,39,0,3
-2020-08-20,Napa,055,22,49,2,12
+2020-08-20,Napa,055,22,49,1,12
 2020-08-20,Nevada,057,4,2,0,0
 2020-08-20,Orange,059,1418,1946,9,249
 2020-08-20,Placer,061,11,25,0,5
@@ -3339,7 +3339,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-21,Mendocino,045,3,25,1,2
 2020-08-21,Merced,047,44,77,1,2
 2020-08-21,Monterey,053,87,39,0,3
-2020-08-21,Napa,055,22,49,2,12
+2020-08-21,Napa,055,22,49,1,12
 2020-08-21,Nevada,057,4,13,0,1
 2020-08-21,Orange,059,1466,1975,10,249
 2020-08-21,Placer,061,11,25,0,5
@@ -3389,7 +3389,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-22,Mendocino,045,3,25,1,2
 2020-08-22,Merced,047,45,83,1,2
 2020-08-22,Monterey,053,87,39,0,3
-2020-08-22,Napa,055,23,49,2,12
+2020-08-22,Napa,055,23,49,1,12
 2020-08-22,Nevada,057,4,13,0,1
 2020-08-22,Orange,059,1475,1990,10,251
 2020-08-22,Placer,061,11,25,0,5
@@ -3439,7 +3439,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-23,Mendocino,045,3,25,1,2
 2020-08-23,Merced,047,45,83,1,2
 2020-08-23,Monterey,053,88,39,0,3
-2020-08-23,Napa,055,23,50,2,12
+2020-08-23,Napa,055,23,50,1,12
 2020-08-23,Nevada,057,4,13,0,1
 2020-08-23,Orange,059,1483,2001,9,251
 2020-08-23,Placer,061,11,25,0,5
@@ -3489,7 +3489,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-24,Mendocino,045,3,26,1,2
 2020-08-24,Merced,047,45,83,1,2
 2020-08-24,Monterey,053,88,39,0,3
-2020-08-24,Napa,055,23,50,2,12
+2020-08-24,Napa,055,23,50,1,12
 2020-08-24,Nevada,057,4,13,0,1
 2020-08-24,Orange,059,1494,2014,9,251
 2020-08-24,Placer,061,11,25,0,5
@@ -3539,7 +3539,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-25,Mendocino,045,3,26,1,2
 2020-08-25,Merced,047,47,83,1,2
 2020-08-25,Monterey,053,88,39,0,3
-2020-08-25,Napa,055,23,50,2,12
+2020-08-25,Napa,055,23,50,1,12
 2020-08-25,Nevada,057,4,13,0,1
 2020-08-25,Orange,059,1493,2017,9,256
 2020-08-25,Placer,061,11,25,0,5
@@ -3589,7 +3589,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-26,Mendocino,045,3,26,1,2
 2020-08-26,Merced,047,47,83,1,2
 2020-08-26,Monterey,053,88,39,0,3
-2020-08-26,Napa,055,23,50,2,12
+2020-08-26,Napa,055,23,50,1,12
 2020-08-26,Nevada,057,4,13,0,1
 2020-08-26,Orange,059,1522,2027,9,256
 2020-08-26,Placer,061,11,25,0,5
@@ -3639,7 +3639,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-27,Mendocino,045,3,26,1,2
 2020-08-27,Merced,047,47,83,1,2
 2020-08-27,Monterey,053,88,39,0,3
-2020-08-27,Napa,055,23,50,2,12
+2020-08-27,Napa,055,23,50,1,12
 2020-08-27,Nevada,057,4,13,0,1
 2020-08-27,Orange,059,1545,2029,9,259
 2020-08-27,Placer,061,11,25,0,5
@@ -3689,7 +3689,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-28,Mendocino,045,3,26,1,2
 2020-08-28,Merced,047,47,83,1,2
 2020-08-28,Monterey,053,88,39,0,3
-2020-08-28,Napa,055,23,50,2,12
+2020-08-28,Napa,055,23,50,1,12
 2020-08-28,Nevada,057,4,13,0,1
 2020-08-28,Orange,059,1552,2037,9,259
 2020-08-28,Placer,061,12,26,0,6
@@ -3739,7 +3739,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-29,Mendocino,045,3,26,1,2
 2020-08-29,Merced,047,48,84,1,2
 2020-08-29,Monterey,053,88,40,0,3
-2020-08-29,Napa,055,23,51,2,12
+2020-08-29,Napa,055,23,51,1,12
 2020-08-29,Nevada,057,4,13,0,1
 2020-08-29,Orange,059,1555,2043,9,260
 2020-08-29,Placer,061,12,27,0,7
@@ -3789,7 +3789,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-30,Mendocino,045,4,26,1,2
 2020-08-30,Merced,047,48,84,1,2
 2020-08-30,Monterey,053,90,40,0,3
-2020-08-30,Napa,055,23,51,2,12
+2020-08-30,Napa,055,23,51,1,12
 2020-08-30,Nevada,057,4,13,0,1
 2020-08-30,Orange,059,1560,2045,9,261
 2020-08-30,Placer,061,12,27,0,7
@@ -3840,7 +3840,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-31,Merced,047,48,84,1,2
 2020-08-31,Modoc,049,1,0,0,0
 2020-08-31,Monterey,053,90,40,0,3
-2020-08-31,Napa,055,23,51,2,12
+2020-08-31,Napa,055,23,51,1,12
 2020-08-31,Nevada,057,4,13,0,1
 2020-08-31,Orange,059,1562,2047,9,261
 2020-08-31,Placer,061,12,27,0,7
@@ -3891,7 +3891,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-01,Merced,047,48,84,1,2
 2020-09-01,Modoc,049,1,0,0,0
 2020-09-01,Monterey,053,90,40,0,3
-2020-09-01,Napa,055,23,51,2,12
+2020-09-01,Napa,055,23,51,1,12
 2020-09-01,Nevada,057,4,13,0,1
 2020-09-01,Orange,059,1556,2048,9,272
 2020-09-01,Placer,061,12,27,0,7
@@ -3942,7 +3942,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-02,Merced,047,48,84,1,2
 2020-09-02,Modoc,049,1,0,0,0
 2020-09-02,Monterey,053,90,40,0,3
-2020-09-02,Napa,055,23,51,2,12
+2020-09-02,Napa,055,23,51,1,12
 2020-09-02,Nevada,057,4,13,0,1
 2020-09-02,Orange,059,1568,2052,8,274
 2020-09-02,Placer,061,12,27,0,7
@@ -3993,7 +3993,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-03,Merced,047,48,84,1,2
 2020-09-03,Modoc,049,1,0,0,0
 2020-09-03,Monterey,053,90,40,0,3
-2020-09-03,Napa,055,23,51,2,12
+2020-09-03,Napa,055,23,51,1,12
 2020-09-03,Nevada,057,4,13,0,1
 2020-09-03,Orange,059,1571,2065,9,274
 2020-09-03,Placer,061,12,27,0,7
@@ -4044,7 +4044,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-04,Merced,047,48,85,1,2
 2020-09-04,Modoc,049,1,0,0,0
 2020-09-04,Monterey,053,90,40,0,3
-2020-09-04,Napa,055,23,51,2,12
+2020-09-04,Napa,055,23,51,1,12
 2020-09-04,Nevada,057,4,13,0,1
 2020-09-04,Orange,059,1598,2068,9,275
 2020-09-04,Placer,061,22,50,0,7
@@ -4095,7 +4095,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-05,Merced,047,49,85,1,2
 2020-09-05,Modoc,049,1,0,0,0
 2020-09-05,Monterey,053,90,40,0,3
-2020-09-05,Napa,055,23,51,2,12
+2020-09-05,Napa,055,23,51,1,12
 2020-09-05,Nevada,057,4,13,0,1
 2020-09-05,Orange,059,1602,2080,9,275
 2020-09-05,Placer,061,22,50,0,7
@@ -4146,7 +4146,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-06,Merced,047,49,85,1,2
 2020-09-06,Modoc,049,1,0,0,0
 2020-09-06,Monterey,053,90,40,0,3
-2020-09-06,Napa,055,23,51,2,12
+2020-09-06,Napa,055,23,51,1,12
 2020-09-06,Nevada,057,4,13,0,1
 2020-09-06,Orange,059,1604,2081,9,276
 2020-09-06,Placer,061,22,50,0,7
@@ -4197,7 +4197,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-07,Merced,047,49,85,1,2
 2020-09-07,Modoc,049,1,0,0,0
 2020-09-07,Monterey,053,90,40,0,3
-2020-09-07,Napa,055,23,51,2,12
+2020-09-07,Napa,055,23,51,1,12
 2020-09-07,Nevada,057,4,13,0,1
 2020-09-07,Orange,059,1606,2087,9,276
 2020-09-07,Placer,061,22,50,0,7
@@ -4248,7 +4248,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-08,Merced,047,49,85,1,2
 2020-09-08,Modoc,049,1,0,0,0
 2020-09-08,Monterey,053,100,40,0,3
-2020-09-08,Napa,055,23,51,2,12
+2020-09-08,Napa,055,23,51,1,12
 2020-09-08,Nevada,057,4,13,0,1
 2020-09-08,Orange,059,1606,2091,9,278
 2020-09-08,Placer,061,22,50,0,7
@@ -4299,7 +4299,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-09,Merced,047,49,85,1,2
 2020-09-09,Modoc,049,1,0,0,0
 2020-09-09,Monterey,053,100,40,0,3
-2020-09-09,Napa,055,23,51,2,12
+2020-09-09,Napa,055,23,51,1,12
 2020-09-09,Nevada,057,4,13,0,1
 2020-09-09,Orange,059,1618,2096,7,281
 2020-09-09,Placer,061,22,50,0,7
@@ -4350,7 +4350,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-10,Merced,047,49,85,1,2
 2020-09-10,Modoc,049,1,0,0,0
 2020-09-10,Monterey,053,101,40,0,3
-2020-09-10,Napa,055,23,51,2,12
+2020-09-10,Napa,055,23,51,1,12
 2020-09-10,Nevada,057,4,13,0,1
 2020-09-10,Orange,059,1622,2108,7,283
 2020-09-10,Placer,061,23,51,0,8
@@ -4401,7 +4401,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-11,Merced,047,49,85,1,2
 2020-09-11,Modoc,049,1,0,0,0
 2020-09-11,Monterey,053,101,40,0,3
-2020-09-11,Napa,055,23,51,2,12
+2020-09-11,Napa,055,23,51,1,12
 2020-09-11,Nevada,057,4,14,0,1
 2020-09-11,Orange,059,1630,2112,7,284
 2020-09-11,Placer,061,26,56,0,8
@@ -4452,7 +4452,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-12,Merced,047,49,85,1,2
 2020-09-12,Modoc,049,1,0,0,0
 2020-09-12,Monterey,053,101,40,0,3
-2020-09-12,Napa,055,23,51,2,12
+2020-09-12,Napa,055,23,51,1,12
 2020-09-12,Nevada,057,4,14,0,1
 2020-09-12,Orange,059,1630,2119,7,284
 2020-09-12,Placer,061,27,56,0,8
@@ -4503,7 +4503,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-13,Merced,047,49,85,1,2
 2020-09-13,Modoc,049,1,0,0,0
 2020-09-13,Monterey,053,101,40,0,3
-2020-09-13,Napa,055,23,52,2,12
+2020-09-13,Napa,055,23,52,1,12
 2020-09-13,Nevada,057,4,14,0,1
 2020-09-13,Orange,059,1630,2119,7,284
 2020-09-13,Placer,061,27,56,0,8
@@ -4554,7 +4554,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-14,Merced,047,49,85,1,2
 2020-09-14,Modoc,049,1,0,0,0
 2020-09-14,Monterey,053,103,40,0,3
-2020-09-14,Napa,055,23,52,2,12
+2020-09-14,Napa,055,23,52,1,12
 2020-09-14,Nevada,057,4,14,0,1
 2020-09-14,Orange,059,1632,2129,7,284
 2020-09-14,Placer,061,27,56,0,8
@@ -4605,7 +4605,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-15,Merced,047,49,85,1,2
 2020-09-15,Modoc,049,1,0,0,0
 2020-09-15,Monterey,053,103,40,0,3
-2020-09-15,Napa,055,23,52,2,12
+2020-09-15,Napa,055,23,52,1,12
 2020-09-15,Nevada,057,4,14,0,1
 2020-09-15,Orange,059,1633,2132,7,285
 2020-09-15,Placer,061,27,56,0,8
@@ -4656,7 +4656,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-16,Merced,047,49,85,1,2
 2020-09-16,Modoc,049,1,0,0,0
 2020-09-16,Monterey,053,103,40,0,3
-2020-09-16,Napa,055,23,52,2,12
+2020-09-16,Napa,055,23,52,1,12
 2020-09-16,Nevada,057,4,14,0,1
 2020-09-16,Orange,059,1638,2151,7,286
 2020-09-16,Placer,061,27,56,0,8
@@ -4707,7 +4707,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-17,Merced,047,49,85,1,2
 2020-09-17,Modoc,049,1,0,0,0
 2020-09-17,Monterey,053,104,40,0,3
-2020-09-17,Napa,055,23,52,2,12
+2020-09-17,Napa,055,23,52,1,12
 2020-09-17,Nevada,057,4,14,0,1
 2020-09-17,Orange,059,1656,2159,7,286
 2020-09-17,Placer,061,27,56,0,8
@@ -4758,7 +4758,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-18,Merced,047,49,85,1,2
 2020-09-18,Modoc,049,1,0,0,0
 2020-09-18,Monterey,053,105,40,0,3
-2020-09-18,Napa,055,23,52,2,12
+2020-09-18,Napa,055,23,52,1,12
 2020-09-18,Nevada,057,4,14,0,1
 2020-09-18,Orange,059,1664,2164,7,289
 2020-09-18,Placer,061,27,56,0,8
@@ -4809,7 +4809,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-19,Merced,047,49,85,1,2
 2020-09-19,Modoc,049,1,0,0,0
 2020-09-19,Monterey,053,105,40,0,3
-2020-09-19,Napa,055,23,52,2,12
+2020-09-19,Napa,055,23,52,1,12
 2020-09-19,Nevada,057,5,14,0,1
 2020-09-19,Orange,059,1670,2168,7,291
 2020-09-19,Placer,061,27,56,0,8
@@ -4860,7 +4860,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-20,Merced,047,49,85,1,2
 2020-09-20,Modoc,049,1,0,0,0
 2020-09-20,Monterey,053,105,40,0,3
-2020-09-20,Napa,055,23,52,2,12
+2020-09-20,Napa,055,23,52,1,12
 2020-09-20,Nevada,057,5,14,0,1
 2020-09-20,Orange,059,1673,2171,8,292
 2020-09-20,Placer,061,27,56,0,8
@@ -4912,7 +4912,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-21,Merced,047,49,85,1,2
 2020-09-21,Modoc,049,1,0,0,0
 2020-09-21,Monterey,053,106,40,0,3
-2020-09-21,Napa,055,23,52,2,12
+2020-09-21,Napa,055,23,52,1,12
 2020-09-21,Nevada,057,6,15,0,1
 2020-09-21,Orange,059,1688,2196,8,292
 2020-09-21,Placer,061,27,56,0,8
@@ -4964,7 +4964,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-22,Merced,047,49,85,1,2
 2020-09-22,Modoc,049,1,0,0,0
 2020-09-22,Monterey,053,106,40,0,3
-2020-09-22,Napa,055,23,52,2,12
+2020-09-22,Napa,055,23,52,1,12
 2020-09-22,Nevada,057,6,15,0,2
 2020-09-22,Orange,059,1695,2209,8,294
 2020-09-22,Placer,061,27,56,0,8
@@ -5016,7 +5016,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-23,Merced,047,49,85,1,2
 2020-09-23,Modoc,049,1,0,0,0
 2020-09-23,Monterey,053,107,40,0,3
-2020-09-23,Napa,055,23,52,2,12
+2020-09-23,Napa,055,23,52,1,12
 2020-09-23,Nevada,057,6,15,0,2
 2020-09-23,Orange,059,1712,2237,8,294
 2020-09-23,Placer,061,27,56,0,8
@@ -5068,7 +5068,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-24,Merced,047,49,85,1,2
 2020-09-24,Modoc,049,1,0,0,0
 2020-09-24,Monterey,053,107,40,0,3
-2020-09-24,Napa,055,23,52,2,12
+2020-09-24,Napa,055,23,52,1,12
 2020-09-24,Nevada,057,6,15,0,2
 2020-09-24,Orange,059,1743,2253,8,294
 2020-09-24,Placer,061,27,56,0,8
@@ -5120,7 +5120,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-25,Merced,047,49,85,1,2
 2020-09-25,Modoc,049,1,0,0,0
 2020-09-25,Monterey,053,108,40,0,3
-2020-09-25,Napa,055,23,52,2,12
+2020-09-25,Napa,055,23,52,1,12
 2020-09-25,Nevada,057,6,15,0,2
 2020-09-25,Orange,059,1748,2266,8,294
 2020-09-25,Placer,061,27,56,0,8
@@ -5172,7 +5172,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-26,Merced,047,49,85,1,2
 2020-09-26,Modoc,049,1,0,0,0
 2020-09-26,Monterey,053,108,40,0,3
-2020-09-26,Napa,055,23,52,2,12
+2020-09-26,Napa,055,23,52,1,12
 2020-09-26,Nevada,057,6,15,0,2
 2020-09-26,Orange,059,1751,2270,8,295
 2020-09-26,Placer,061,27,56,0,8
@@ -5224,7 +5224,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-27,Merced,047,49,85,1,2
 2020-09-27,Modoc,049,1,0,0,0
 2020-09-27,Monterey,053,108,40,0,3
-2020-09-27,Napa,055,23,52,2,12
+2020-09-27,Napa,055,23,52,1,12
 2020-09-27,Nevada,057,6,15,0,2
 2020-09-27,Orange,059,1756,2274,8,296
 2020-09-27,Placer,061,27,56,0,8
@@ -5276,7 +5276,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-28,Merced,047,49,85,1,2
 2020-09-28,Modoc,049,1,0,0,0
 2020-09-28,Monterey,053,108,40,0,3
-2020-09-28,Napa,055,23,52,2,12
+2020-09-28,Napa,055,23,52,1,12
 2020-09-28,Nevada,057,6,15,0,2
 2020-09-28,Orange,059,1760,2275,8,297
 2020-09-28,Placer,061,27,56,0,8
@@ -5329,7 +5329,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-29,Merced,047,49,85,1,2
 2020-09-29,Modoc,049,1,0,0,0
 2020-09-29,Monterey,053,108,40,0,3
-2020-09-29,Napa,055,23,52,2,12
+2020-09-29,Napa,055,23,52,1,12
 2020-09-29,Nevada,057,6,15,0,2
 2020-09-29,Orange,059,1766,2292,9,297
 2020-09-29,Placer,061,27,56,0,8
@@ -5382,7 +5382,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Merced,047,49,85,1,2
 2020-09-30,Modoc,049,1,0,0,0
 2020-09-30,Monterey,053,108,40,0,3
-2020-09-30,Napa,055,23,52,2,12
+2020-09-30,Napa,055,23,52,1,12
 2020-09-30,Nevada,057,6,15,0,2
 2020-09-30,Orange,059,1770,2305,9,297
 2020-09-30,Placer,061,27,56,0,8
@@ -5435,7 +5435,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-01,Merced,047,49,85,1,2
 2020-10-01,Modoc,049,1,0,0,0
 2020-10-01,Monterey,053,109,40,0,3
-2020-10-01,Napa,055,23,52,2,12
+2020-10-01,Napa,055,23,52,1,12
 2020-10-01,Nevada,057,6,15,0,2
 2020-10-01,Orange,059,1790,2309,9,310
 2020-10-01,Placer,061,27,66,0,8
@@ -5488,7 +5488,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-02,Merced,047,49,85,1,2
 2020-10-02,Modoc,049,1,0,0,0
 2020-10-02,Monterey,053,109,40,0,3
-2020-10-02,Napa,055,23,52,2,12
+2020-10-02,Napa,055,23,52,1,12
 2020-10-02,Nevada,057,6,15,0,2
 2020-10-02,Orange,059,1796,2313,9,310
 2020-10-02,Placer,061,27,66,0,8
@@ -5542,7 +5542,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-03,Merced,047,49,85,1,2
 2020-10-03,Modoc,049,1,0,0,0
 2020-10-03,Monterey,053,109,40,0,3
-2020-10-03,Napa,055,23,52,2,12
+2020-10-03,Napa,055,23,52,1,12
 2020-10-03,Nevada,057,6,15,0,2
 2020-10-03,Orange,059,1797,2315,9,311
 2020-10-03,Placer,061,27,66,0,8
@@ -5596,7 +5596,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-04,Merced,047,49,85,1,2
 2020-10-04,Modoc,049,1,0,0,0
 2020-10-04,Monterey,053,109,41,0,3
-2020-10-04,Napa,055,23,52,2,12
+2020-10-04,Napa,055,23,52,1,12
 2020-10-04,Nevada,057,6,15,0,2
 2020-10-04,Orange,059,1797,2317,9,311
 2020-10-04,Placer,061,27,66,0,8
@@ -5650,7 +5650,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-05,Merced,047,49,85,1,2
 2020-10-05,Modoc,049,1,0,0,0
 2020-10-05,Monterey,053,109,41,0,3
-2020-10-05,Napa,055,23,52,2,12
+2020-10-05,Napa,055,23,52,1,12
 2020-10-05,Nevada,057,6,15,0,2
 2020-10-05,Orange,059,1810,2321,9,312
 2020-10-05,Placer,061,27,66,0,8
@@ -5704,7 +5704,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-06,Merced,047,49,85,1,2
 2020-10-06,Modoc,049,1,0,0,0
 2020-10-06,Monterey,053,109,41,0,3
-2020-10-06,Napa,055,23,52,2,12
+2020-10-06,Napa,055,23,52,1,12
 2020-10-06,Nevada,057,6,15,0,2
 2020-10-06,Orange,059,1813,2331,9,313
 2020-10-06,Placer,061,27,66,0,8
@@ -5758,7 +5758,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-07,Merced,047,49,85,1,2
 2020-10-07,Modoc,049,1,0,0,0
 2020-10-07,Monterey,053,109,41,0,3
-2020-10-07,Napa,055,23,52,2,12
+2020-10-07,Napa,055,23,52,1,12
 2020-10-07,Nevada,057,6,15,0,2
 2020-10-07,Orange,059,1817,2334,9,313
 2020-10-07,Placer,061,27,66,0,8
@@ -5812,7 +5812,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-08,Merced,047,49,85,1,2
 2020-10-08,Modoc,049,1,0,0,0
 2020-10-08,Monterey,053,109,41,0,3
-2020-10-08,Napa,055,23,52,2,12
+2020-10-08,Napa,055,23,52,1,12
 2020-10-08,Nevada,057,6,15,0,2
 2020-10-08,Orange,059,1817,2339,9,315
 2020-10-08,Placer,061,27,66,0,8
@@ -5866,7 +5866,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-09,Merced,047,49,85,1,2
 2020-10-09,Modoc,049,1,0,0,0
 2020-10-09,Monterey,053,111,41,0,3
-2020-10-09,Napa,055,23,53,2,12
+2020-10-09,Napa,055,23,53,1,12
 2020-10-09,Nevada,057,6,15,0,2
 2020-10-09,Orange,059,1819,2354,10,315
 2020-10-09,Placer,061,27,66,0,8
@@ -5920,7 +5920,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-10,Merced,047,49,85,1,2
 2020-10-10,Modoc,049,1,0,0,0
 2020-10-10,Monterey,053,111,41,0,3
-2020-10-10,Napa,055,23,53,2,12
+2020-10-10,Napa,055,23,53,1,12
 2020-10-10,Nevada,057,6,15,0,2
 2020-10-10,Orange,059,1830,2355,10,326
 2020-10-10,Placer,061,27,66,0,8
@@ -5974,7 +5974,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-11,Merced,047,49,85,1,2
 2020-10-11,Modoc,049,1,0,0,0
 2020-10-11,Monterey,053,113,41,0,3
-2020-10-11,Napa,055,23,53,2,12
+2020-10-11,Napa,055,23,53,1,12
 2020-10-11,Nevada,057,6,15,0,2
 2020-10-11,Orange,059,1832,2361,10,326
 2020-10-11,Placer,061,27,66,0,8
@@ -6028,7 +6028,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-12,Merced,047,49,85,1,2
 2020-10-12,Modoc,049,1,0,0,0
 2020-10-12,Monterey,053,114,41,0,4
-2020-10-12,Napa,055,23,53,2,12
+2020-10-12,Napa,055,23,53,1,12
 2020-10-12,Nevada,057,6,15,0,2
 2020-10-12,Orange,059,1845,2363,10,326
 2020-10-12,Placer,061,27,66,0,8
@@ -6082,7 +6082,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-13,Merced,047,49,85,1,2
 2020-10-13,Modoc,049,1,0,0,0
 2020-10-13,Monterey,053,114,41,0,4
-2020-10-13,Napa,055,23,53,2,12
+2020-10-13,Napa,055,23,53,1,12
 2020-10-13,Nevada,057,6,15,0,2
 2020-10-13,Orange,059,1847,2365,10,327
 2020-10-13,Placer,061,27,66,0,8
@@ -6136,7 +6136,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-14,Merced,047,49,85,1,2
 2020-10-14,Modoc,049,1,0,0,0
 2020-10-14,Monterey,053,114,41,0,4
-2020-10-14,Napa,055,23,53,2,12
+2020-10-14,Napa,055,23,53,1,12
 2020-10-14,Nevada,057,6,15,0,2
 2020-10-14,Orange,059,1857,2367,10,327
 2020-10-14,Placer,061,27,66,0,8
@@ -6190,7 +6190,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-15,Merced,047,49,85,1,2
 2020-10-15,Modoc,049,1,0,0,0
 2020-10-15,Monterey,053,117,42,0,4
-2020-10-15,Napa,055,23,53,2,12
+2020-10-15,Napa,055,23,53,1,12
 2020-10-15,Nevada,057,6,15,0,2
 2020-10-15,Orange,059,1863,2368,10,327
 2020-10-15,Placer,061,27,66,0,8
@@ -6244,7 +6244,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-16,Merced,047,49,85,1,2
 2020-10-16,Modoc,049,1,0,0,0
 2020-10-16,Monterey,053,117,42,0,4
-2020-10-16,Napa,055,23,53,2,12
+2020-10-16,Napa,055,23,53,1,12
 2020-10-16,Nevada,057,6,15,0,2
 2020-10-16,Orange,059,1867,2369,10,327
 2020-10-16,Placer,061,27,66,0,8
@@ -6298,7 +6298,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-17,Merced,047,49,85,1,2
 2020-10-17,Modoc,049,1,0,0,0
 2020-10-17,Monterey,053,117,42,0,4
-2020-10-17,Napa,055,23,53,2,12
+2020-10-17,Napa,055,23,53,1,12
 2020-10-17,Nevada,057,6,15,0,2
 2020-10-17,Orange,059,1868,2370,10,327
 2020-10-17,Placer,061,27,66,0,8
@@ -6352,7 +6352,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-18,Merced,047,49,85,1,2
 2020-10-18,Modoc,049,1,0,0,0
 2020-10-18,Monterey,053,117,42,0,4
-2020-10-18,Napa,055,24,53,2,12
+2020-10-18,Napa,055,24,53,1,12
 2020-10-18,Nevada,057,6,15,0,2
 2020-10-18,Orange,059,1868,2371,10,327
 2020-10-18,Placer,061,27,66,0,8
@@ -6387,52 +6387,106 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-19,Butte,007,108,161,1,8
 2020-10-19,Calaveras,009,17,51,0,1
 2020-10-19,Colusa,011,42,30,0,2
-2020-10-19,Contra Costa,013,272,454,4,56
+2020-10-19,Contra Costa,013,273,454,4,56
 2020-10-19,Del Norte,015,1,0,0,0
 2020-10-19,El Dorado,017,4,2,0,0
 2020-10-19,Fresno,019,464,515,3,66
 2020-10-19,Glenn,021,1,0,0,0
 2020-10-19,Humboldt,023,4,2,1,2
 2020-10-19,Imperial,025,125,159,1,19
-2020-10-19,Inyo,027,20,55,0,1
-2020-10-19,Kern,029,490,541,0,32
+2020-10-19,Inyo,027,20,55,0,11
+2020-10-19,Kern,029,500,541,0,32
 2020-10-19,Kings,031,79,91,0,23
 2020-10-19,Lake,033,39,83,0,2
 2020-10-19,Lassen,035,1,0,0,0
-2020-10-19,Los Angeles,037,8111,12008,65,1884
+2020-10-19,Los Angeles,037,8119,12013,65,1885
 2020-10-19,Madera,039,112,195,0,21
 2020-10-19,Marin,041,201,297,2,45
 2020-10-19,Mendocino,045,5,27,1,2
 2020-10-19,Merced,047,49,85,1,2
 2020-10-19,Modoc,049,1,0,0,0
 2020-10-19,Monterey,053,117,42,0,4
-2020-10-19,Napa,055,24,53,2,12
+2020-10-19,Napa,055,24,53,1,12
 2020-10-19,Nevada,057,6,15,0,2
-2020-10-19,Orange,059,1870,2372,10,327
+2020-10-19,Orange,059,1870,2373,10,328
 2020-10-19,Placer,061,27,66,0,8
 2020-10-19,Plumas,063,1,0,0,0
 2020-10-19,Riverside,065,1223,1781,7,146
-2020-10-19,Sacramento,067,621,900,3,81
+2020-10-19,Sacramento,067,623,903,3,81
 2020-10-19,San Benito,069,3,3,1,3
-2020-10-19,San Bernardino,071,1182,1972,10,150
-2020-10-19,San Diego,073,990,1321,5,137
+2020-10-19,San Bernardino,071,1182,1973,10,150
+2020-10-19,San Diego,073,991,1322,5,137
 2020-10-19,San Francisco,075,230,259,1,33
-2020-10-19,San Joaquin,077,743,1012,2,97
+2020-10-19,San Joaquin,077,744,1013,2,97
 2020-10-19,San Luis Obispo,079,33,29,0,4
 2020-10-19,San Mateo,081,198,344,4,48
 2020-10-19,Santa Barbara,083,158,176,1,12
-2020-10-19,Santa Clara,085,578,583,3,38
+2020-10-19,Santa Clara,085,579,583,3,38
 2020-10-19,Santa Cruz,087,29,45,0,12
-2020-10-19,Shasta,089,57,90,0,22
+2020-10-19,Shasta,089,58,90,0,22
 2020-10-19,Siskiyou,093,1,0,0,0
 2020-10-19,Solano,095,73,171,1,14
-2020-10-19,Sonoma,097,291,481,1,29
+2020-10-19,Sonoma,097,292,482,1,29
 2020-10-19,Stanislaus,099,528,835,2,104
 2020-10-19,Sutter,101,34,3,0,0
-2020-10-19,Tehama,103,12,30,0,0
+2020-10-19,Tehama,103,13,30,0,0
 2020-10-19,Trinity,105,1,0,0,0
-2020-10-19,Tulare,107,413,585,1,101
-2020-10-19,Tuolumne,109,12,0,0,0
-2020-10-19,Ventura,111,385,373,1,15
+2020-10-19,Tulare,107,413,585,1,102
+2020-10-19,Tuolumne,109,13,0,0,0
+2020-10-19,Ventura,111,386,384,1,15
 2020-10-19,Yolo,113,65,95,1,18
 2020-10-19,Yuba,115,2,1,0,1
+2020-10-20,Alameda,001,674,1120,6,96
+2020-10-20,Amador,005,23,52,0,17
+2020-10-20,Butte,007,108,161,1,8
+2020-10-20,Calaveras,009,17,51,0,1
+2020-10-20,Colusa,011,42,30,0,2
+2020-10-20,Contra Costa,013,273,454,4,56
+2020-10-20,Del Norte,015,1,0,0,0
+2020-10-20,El Dorado,017,4,2,0,0
+2020-10-20,Fresno,019,474,515,3,66
+2020-10-20,Glenn,021,1,0,0,0
+2020-10-20,Humboldt,023,4,2,1,2
+2020-10-20,Imperial,025,125,159,1,19
+2020-10-20,Inyo,027,20,55,0,11
+2020-10-20,Kern,029,500,541,0,32
+2020-10-20,Kings,031,79,91,0,23
+2020-10-20,Lake,033,39,83,0,2
+2020-10-20,Lassen,035,1,0,0,0
+2020-10-20,Los Angeles,037,8119,12013,65,1885
+2020-10-20,Madera,039,112,195,0,21
+2020-10-20,Marin,041,201,297,2,45
+2020-10-20,Mendocino,045,5,27,1,2
+2020-10-20,Merced,047,49,85,1,2
+2020-10-20,Modoc,049,1,0,0,0
+2020-10-20,Monterey,053,117,42,0,4
+2020-10-20,Napa,055,24,53,1,12
+2020-10-20,Nevada,057,6,15,0,2
+2020-10-20,Orange,059,1871,2373,10,328
+2020-10-20,Placer,061,27,66,0,8
+2020-10-20,Plumas,063,1,0,0,0
+2020-10-20,Riverside,065,1223,1781,7,146
+2020-10-20,Sacramento,067,623,903,3,81
+2020-10-20,San Benito,069,3,3,1,3
+2020-10-20,San Bernardino,071,1182,1973,10,151
+2020-10-20,San Diego,073,991,1322,5,137
+2020-10-20,San Francisco,075,230,259,1,33
+2020-10-20,San Joaquin,077,744,1013,2,97
+2020-10-20,San Luis Obispo,079,33,29,0,4
+2020-10-20,San Mateo,081,198,344,4,48
+2020-10-20,Santa Barbara,083,158,176,1,12
+2020-10-20,Santa Clara,085,580,607,3,38
+2020-10-20,Santa Cruz,087,29,45,0,12
+2020-10-20,Shasta,089,58,90,0,22
+2020-10-20,Siskiyou,093,1,0,0,0
+2020-10-20,Solano,095,73,171,1,14
+2020-10-20,Sonoma,097,292,483,1,29
+2020-10-20,Stanislaus,099,528,835,2,104
+2020-10-20,Sutter,101,34,3,0,0
+2020-10-20,Tehama,103,13,30,0,0
+2020-10-20,Trinity,105,1,0,0,0
+2020-10-20,Tulare,107,413,585,1,102
+2020-10-20,Tuolumne,109,13,0,0,0
+2020-10-20,Ventura,111,386,384,1,15
+2020-10-20,Yolo,113,65,95,1,18
+2020-10-20,Yuba,115,2,1,0,1
