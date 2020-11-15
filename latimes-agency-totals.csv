@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-11-14,24883,480,,
+Berkeley,Alameda,001,2020-11-14,877,9,,
+Alpine,Alpine,003,2020-11-14,30,0,17,True
+Amador,Amador,005,2020-11-14,368,15,317,True
+Butte,Butte,007,2020-11-14,3399,56,3164,True
+Calaveras,Calaveras,009,2020-11-14,390,21,345,True
+Colusa,Colusa,011,2020-11-14,599,6,572,True
+Contra Costa,Contra Costa,013,2020-11-14,21046,253,19305,
+Del Norte,Del Norte,015,2020-11-14,220,1,198,True
+El Dorado,El Dorado,017,2020-11-14,1637,4,1367,True
+Fresno,Fresno,019,2020-11-14,33693,460,21652,
+Glenn,Glenn,021,2020-11-14,770,6,702,True
+Humboldt,Humboldt,023,2020-11-14,658,10,591,True
+Imperial,Imperial,025,2020-11-14,13846,348,12899,True
+Inyo,Inyo,027,2020-11-14,261,16,213,True
+Kern,Kern,029,2020-11-14,36470,432,17791,
+Kings,Kings,031,2020-11-14,9434,86,7572,
+Lake,Lake,033,2020-11-14,776,17,709,True
+Lassen,Lassen,035,2020-11-14,1135,1,772,
+Long Beach,Los Angeles,037,2020-11-14,14200,266,13116,
+Los Angeles,Los Angeles,037,2020-11-14,319398,6872,,
+Pasadena,Los Angeles,037,2020-11-14,3073,129,,
+Madera,Madera,039,2020-11-14,5426,76,4890,True
+Marin,Marin,041,2020-11-14,7358,127,6980,
+Mariposa,Mariposa,043,2020-11-14,91,2,82,
+Mendocino,Mendocino,045,2020-11-14,1288,22,1195,
+Merced,Merced,047,2020-11-14,10374,169,9467,
+Modoc,Modoc,049,2020-11-14,93,0,50,
+Mono,Mono,051,2020-11-14,480,2,,True
+Monterey,Monterey,053,2020-11-14,12769,108,9702,
+Napa,Napa,055,2020-11-14,2432,16,1887,True
+Nevada,Nevada,057,2020-11-14,822,9,685,True
+Orange,Orange,059,2020-11-14,64586,1524,56154,
+Placer,Placer,061,2020-11-14,5134,63,4327,True
+Plumas,Plumas,063,2020-11-14,136,0,105,True
+Riverside,Riverside,065,2020-11-14,74180,1367,64368,True
+Sacramento,Sacramento,067,2020-11-14,29837,520,25284,True
+San Benito,San Benito,069,2020-11-14,1593,15,1496,
+San Bernardino,San Bernardino,071,2020-11-14,73915,1097,67553,
+San Diego,San Diego,073,2020-11-14,63681,926,,
+San Francisco,San Francisco,075,2020-11-14,13502,155,,
+San Joaquin,San Joaquin,077,2020-11-14,23517,501,21669,True
+San Luis Obispo,San Luis Obispo,079,2020-11-14,5038,33,4416,True
+San Mateo,San Mateo,081,2020-11-14,12465,168,,
+Santa Barbara,Santa Barbara,083,2020-11-14,10415,131,10068,True
+Santa Clara,Santa Clara,085,2020-11-14,27977,444,,
+Santa Cruz,Santa Cruz,087,2020-11-14,3356,26,2850,True
+Shasta,Shasta,089,2020-11-14,2980,36,2787,True
+Sierra,Sierra,091,2020-11-14,11,0,6,True
+Siskiyou,Siskiyou,093,2020-11-14,372,1,297,True
+Solano,Solano,095,2020-11-14,8729,79,7892,True
+Sonoma,Sonoma,097,2020-11-14,10845,149,8534,
+Stanislaus,Stanislaus,099,2020-11-14,19144,411,17851,
+Sutter,Sutter,101,2020-11-14,2185,12,1972,
+Tehama,Tehama,103,2020-11-14,1154,19,968,
+Trinity,Trinity,105,2020-11-14,68,0,44,True
+Tulare,Tulare,107,2020-11-14,18896,300,17778,True
+Tuolumne,Tuolumne,109,2020-11-14,467,8,302,True
+Ventura,Ventura,111,2020-11-14,16029,172,14548,True
+Yolo,Yolo,113,2020-11-14,3761,66,,
+Yuba,Yuba,115,2020-11-14,1549,10,1423,
 Alameda,Alameda,001,2020-11-13,24732,479,,
 Berkeley,Alameda,001,2020-11-13,867,7,,
 Alpine,Alpine,003,2020-11-13,30,0,17,True
@@ -15,7 +76,7 @@ Humboldt,Humboldt,023,2020-11-13,658,10,591,
 Imperial,Imperial,025,2020-11-13,13846,348,12899,
 Inyo,Inyo,027,2020-11-13,261,16,213,
 Kern,Kern,029,2020-11-13,36227,432,17735,
-Kings,Kings,031,2020-11-13,9372,87,7556,
+Kings,Kings,031,2020-11-13,9372,86,7556,
 Lake,Lake,033,2020-11-13,776,17,709,
 Lassen,Lassen,035,2020-11-13,1061,1,766,
 Long Beach,Los Angeles,037,2020-11-13,14097,265,13089,
@@ -25,9 +86,9 @@ Madera,Madera,039,2020-11-13,5426,76,4890,
 Marin,Marin,041,2020-11-13,7344,127,6980,
 Mariposa,Mariposa,043,2020-11-13,89,2,82,
 Mendocino,Mendocino,045,2020-11-13,1269,22,1161,True
-Merced,Merced,047,2020-11-13,10313,164,,
+Merced,Merced,047,2020-11-13,10313,164,9467,
 Modoc,Modoc,049,2020-11-13,92,0,50,
-Mono,Mono,051,2020-11-13,470,2,,
+Mono,Mono,051,2020-11-13,480,2,,
 Monterey,Monterey,053,2020-11-13,12701,107,9624,
 Napa,Napa,055,2020-11-13,2432,16,1887,
 Nevada,Nevada,057,2020-11-13,822,9,685,
@@ -50,7 +111,7 @@ Shasta,Shasta,089,2020-11-13,2980,36,2787,
 Sierra,Sierra,091,2020-11-13,11,0,6,True
 Siskiyou,Siskiyou,093,2020-11-13,372,1,297,
 Solano,Solano,095,2020-11-13,8729,79,7892,
-Sonoma,Sonoma,097,2020-11-13,10679,149,8534,True
+Sonoma,Sonoma,097,2020-11-13,10747,149,8534,
 Stanislaus,Stanislaus,099,2020-11-13,18992,411,17795,
 Sutter,Sutter,101,2020-11-13,2134,12,1962,
 Tehama,Tehama,103,2020-11-13,1111,19,968,
@@ -58,7 +119,7 @@ Trinity,Trinity,105,2020-11-13,68,0,44,
 Tulare,Tulare,107,2020-11-13,18896,300,17778,
 Tuolumne,Tuolumne,109,2020-11-13,467,8,302,
 Ventura,Ventura,111,2020-11-13,16029,172,14548,
-Yolo,Yolo,113,2020-11-13,3729,66,,
+Yolo,Yolo,113,2020-11-13,3720,66,,
 Yuba,Yuba,115,2020-11-13,1529,10,1409,
 Alameda,Alameda,001,2020-11-12,24539,477,,
 Berkeley,Alameda,001,2020-11-12,861,9,,
@@ -86,9 +147,9 @@ Madera,Madera,039,2020-11-12,5361,76,4885,
 Marin,Marin,041,2020-11-12,7326,127,6968,
 Mariposa,Mariposa,043,2020-11-12,89,2,80,
 Mendocino,Mendocino,045,2020-11-12,1269,22,1161,
-Merced,Merced,047,2020-11-12,10193,164,9572,
+Merced,Merced,047,2020-11-12,10193,164,9467,
 Modoc,Modoc,049,2020-11-12,91,0,50,
-Mono,Mono,051,2020-11-12,351,2,,
+Mono,Mono,051,2020-11-12,472,2,,
 Monterey,Monterey,053,2020-11-12,12606,103,9546,
 Napa,Napa,055,2020-11-12,2385,16,1887,
 Nevada,Nevada,057,2020-11-12,779,9,642,
@@ -149,7 +210,7 @@ Mariposa,Mariposa,043,2020-11-11,88,2,80,
 Mendocino,Mendocino,045,2020-11-11,1242,22,1152,True
 Merced,Merced,047,2020-11-11,10193,164,9375,True
 Modoc,Modoc,049,2020-11-11,86,0,46,
-Mono,Mono,051,2020-11-11,346,2,,True
+Mono,Mono,051,2020-11-11,470,2,,True
 Monterey,Monterey,053,2020-11-11,12534,103,9543,
 Napa,Napa,055,2020-11-11,2331,16,1886,True
 Nevada,Nevada,057,2020-11-11,733,9,637,True
@@ -210,7 +271,7 @@ Mariposa,Mariposa,043,2020-11-10,88,2,80,
 Mendocino,Mendocino,045,2020-11-10,1242,22,1152,
 Merced,Merced,047,2020-11-10,10193,164,9375,
 Modoc,Modoc,049,2020-11-10,86,0,46,
-Mono,Mono,051,2020-11-10,346,2,,
+Mono,Mono,051,2020-11-10,467,2,,
 Monterey,Monterey,053,2020-11-10,12463,102,9451,
 Napa,Napa,055,2020-11-10,2331,16,1886,
 Nevada,Nevada,057,2020-11-10,733,9,637,
@@ -271,7 +332,7 @@ Mariposa,Mariposa,043,2020-11-09,88,2,78,
 Mendocino,Mendocino,045,2020-11-09,1238,21,1152,
 Merced,Merced,047,2020-11-09,10140,164,9334,
 Modoc,Modoc,049,2020-11-09,79,0,46,
-Mono,Mono,051,2020-11-09,346,2,,
+Mono,Mono,051,2020-11-09,462,2,,
 Monterey,Monterey,053,2020-11-09,12366,101,9379,
 Napa,Napa,055,2020-11-09,2299,15,1886,
 Nevada,Nevada,057,2020-11-09,726,9,632,
@@ -332,7 +393,7 @@ Mariposa,Mariposa,043,2020-11-08,88,2,78,True
 Mendocino,Mendocino,045,2020-11-08,1231,21,1151,
 Merced,Merced,047,2020-11-08,9982,164,9266,True
 Modoc,Modoc,049,2020-11-08,75,0,42,True
-Mono,Mono,051,2020-11-08,346,2,,True
+Mono,Mono,051,2020-11-08,462,2,,True
 Monterey,Monterey,053,2020-11-08,12312,101,9356,
 Napa,Napa,055,2020-11-08,2181,15,1879,True
 Nevada,Nevada,057,2020-11-08,699,9,616,True
@@ -393,7 +454,7 @@ Mariposa,Mariposa,043,2020-11-07,88,2,78,
 Mendocino,Mendocino,045,2020-11-07,1228,21,1141,
 Merced,Merced,047,2020-11-07,9982,164,9266,True
 Modoc,Modoc,049,2020-11-07,75,0,42,
-Mono,Mono,051,2020-11-07,346,2,,
+Mono,Mono,051,2020-11-07,462,2,,
 Monterey,Monterey,053,2020-11-07,12242,101,9339,
 Napa,Napa,055,2020-11-07,2181,15,1879,True
 Nevada,Nevada,057,2020-11-07,699,9,616,True
@@ -454,7 +515,7 @@ Mariposa,Mariposa,043,2020-11-06,81,2,77,
 Mendocino,Mendocino,045,2020-11-06,1216,21,1126,
 Merced,Merced,047,2020-11-06,9982,164,9266,
 Modoc,Modoc,049,2020-11-06,73,0,42,
-Mono,Mono,051,2020-11-06,335,2,,
+Mono,Mono,051,2020-11-06,457,2,,
 Monterey,Monterey,053,2020-11-06,12136,99,9297,
 Napa,Napa,055,2020-11-06,2181,15,1879,
 Nevada,Nevada,057,2020-11-06,699,9,616,
@@ -515,7 +576,7 @@ Mariposa,Mariposa,043,2020-11-05,81,2,77,
 Mendocino,Mendocino,045,2020-11-05,1213,21,1121,
 Merced,Merced,047,2020-11-05,9916,163,9245,
 Modoc,Modoc,049,2020-11-05,68,0,42,
-Mono,Mono,051,2020-11-05,335,2,,
+Mono,Mono,051,2020-11-05,450,2,,
 Monterey,Monterey,053,2020-11-05,11998,99,9256,
 Napa,Napa,055,2020-11-05,2149,15,1814,
 Nevada,Nevada,057,2020-11-05,688,9,606,
@@ -576,7 +637,7 @@ Mariposa,Mariposa,043,2020-11-04,81,2,77,
 Mendocino,Mendocino,045,2020-11-04,1193,21,1113,
 Merced,Merced,047,2020-11-04,9880,161,9222,
 Modoc,Modoc,049,2020-11-04,64,0,37,
-Mono,Mono,051,2020-11-04,268,2,,
+Mono,Mono,051,2020-11-04,450,2,,
 Monterey,Monterey,053,2020-11-04,11956,99,9199,
 Napa,Napa,055,2020-11-04,2124,15,1814,
 Nevada,Nevada,057,2020-11-04,681,9,605,
@@ -637,7 +698,7 @@ Mariposa,Mariposa,043,2020-11-03,81,2,77,
 Mendocino,Mendocino,045,2020-11-03,1188,21,1110,
 Merced,Merced,047,2020-11-03,9819,160,9196,
 Modoc,Modoc,049,2020-11-03,58,0,37,
-Mono,Mono,051,2020-11-03,237,2,,
+Mono,Mono,051,2020-11-03,449,2,,
 Monterey,Monterey,053,2020-11-03,11906,97,9129,
 Napa,Napa,055,2020-11-03,2108,15,1814,
 Nevada,Nevada,057,2020-11-03,672,9,602,
@@ -698,7 +759,7 @@ Mariposa,Mariposa,043,2020-11-02,81,2,77,
 Mendocino,Mendocino,045,2020-11-02,1179,21,1107,
 Merced,Merced,047,2020-11-02,9779,158,9189,
 Modoc,Modoc,049,2020-11-02,52,0,37,
-Mono,Mono,051,2020-11-02,236,2,,
+Mono,Mono,051,2020-11-02,448,2,,
 Monterey,Monterey,053,2020-11-02,11817,96,9054,
 Napa,Napa,055,2020-11-02,2075,15,1814,
 Nevada,Nevada,057,2020-11-02,664,9,596,
@@ -759,7 +820,7 @@ Mariposa,Mariposa,043,2020-11-01,81,2,76,True
 Mendocino,Mendocino,045,2020-11-01,1176,21,1107,
 Merced,Merced,047,2020-11-01,9674,156,9131,True
 Modoc,Modoc,049,2020-11-01,51,0,34,True
-Mono,Mono,051,2020-11-01,182,2,,True
+Mono,Mono,051,2020-11-01,421,2,,True
 Monterey,Monterey,053,2020-11-01,11802,96,9034,
 Napa,Napa,055,2020-11-01,2021,15,1814,True
 Nevada,Nevada,057,2020-11-01,642,9,582,True
@@ -820,7 +881,7 @@ Mariposa,Mariposa,043,2020-10-31,81,2,76,True
 Mendocino,Mendocino,045,2020-10-31,1165,21,1097,
 Merced,Merced,047,2020-10-31,9674,156,9131,True
 Modoc,Modoc,049,2020-10-31,51,0,34,
-Mono,Mono,051,2020-10-31,182,2,,True
+Mono,Mono,051,2020-10-31,258,2,,True
 Monterey,Monterey,053,2020-10-31,11752,96,9019,
 Napa,Napa,055,2020-10-31,2021,15,1814,True
 Nevada,Nevada,057,2020-10-31,642,9,582,True
@@ -881,7 +942,7 @@ Mariposa,Mariposa,043,2020-10-30,81,2,76,
 Mendocino,Mendocino,045,2020-10-30,1165,21,1097,
 Merced,Merced,047,2020-10-30,9674,156,9131,
 Modoc,Modoc,049,2020-10-30,50,0,29,
-Mono,Mono,051,2020-10-30,182,2,,
+Mono,Mono,051,2020-10-30,258,2,,
 Monterey,Monterey,053,2020-10-30,11705,95,8978,
 Napa,Napa,055,2020-10-30,2021,15,1814,
 Nevada,Nevada,057,2020-10-30,642,9,582,
@@ -942,7 +1003,7 @@ Mariposa,Mariposa,043,2020-10-29,81,2,75,
 Mendocino,Mendocino,045,2020-10-29,1156,21,1093,
 Merced,Merced,047,2020-10-29,9623,155,9122,
 Modoc,Modoc,049,2020-10-29,48,0,29,
-Mono,Mono,051,2020-10-29,182,2,,
+Mono,Mono,051,2020-10-29,237,2,,
 Monterey,Monterey,053,2020-10-29,11616,95,8905,
 Napa,Napa,055,2020-10-29,2002,15,1760,
 Nevada,Nevada,057,2020-10-29,635,8,579,
@@ -1003,7 +1064,7 @@ Mariposa,Mariposa,043,2020-10-28,80,2,75,
 Mendocino,Mendocino,045,2020-10-28,1154,21,1080,
 Merced,Merced,047,2020-10-28,9588,155,9105,
 Modoc,Modoc,049,2020-10-28,45,0,29,
-Mono,Mono,051,2020-10-28,182,2,,
+Mono,Mono,051,2020-10-28,214,2,,
 Monterey,Monterey,053,2020-10-28,11538,92,8860,
 Napa,Napa,055,2020-10-28,1992,15,1755,
 Nevada,Nevada,057,2020-10-28,632,8,573,
@@ -1064,7 +1125,7 @@ Mariposa,Mariposa,043,2020-10-27,78,2,75,
 Mendocino,Mendocino,045,2020-10-27,1142,21,1077,
 Merced,Merced,047,2020-10-27,9572,155,9088,
 Modoc,Modoc,049,2020-10-27,43,0,29,
-Mono,Mono,051,2020-10-27,180,2,,
+Mono,Mono,051,2020-10-27,197,2,,
 Monterey,Monterey,053,2020-10-27,11472,91,8817,
 Napa,Napa,055,2020-10-27,1975,15,1706,
 Nevada,Nevada,057,2020-10-27,628,8,562,
@@ -1125,7 +1186,7 @@ Mariposa,Mariposa,043,2020-10-26,78,2,75,
 Mendocino,Mendocino,045,2020-10-26,1136,21,1070,
 Merced,Merced,047,2020-10-26,9531,155,9047,
 Modoc,Modoc,049,2020-10-26,36,0,28,
-Mono,Mono,051,2020-10-26,180,2,,
+Mono,Mono,051,2020-10-26,189,2,,
 Monterey,Monterey,053,2020-10-26,11419,90,8747,
 Napa,Napa,055,2020-10-26,1961,15,1706,
 Nevada,Nevada,057,2020-10-26,623,8,560,
@@ -1186,7 +1247,7 @@ Mariposa,Mariposa,043,2020-10-25,78,2,74,
 Mendocino,Mendocino,045,2020-10-25,1129,21,1065,
 Merced,Merced,047,2020-10-25,9465,155,8973,True
 Modoc,Modoc,049,2020-10-25,29,0,27,True
-Mono,Mono,051,2020-10-25,180,2,,
+Mono,Mono,051,2020-10-25,189,2,,
 Monterey,Monterey,053,2020-10-25,11399,90,8737,
 Napa,Napa,055,2020-10-25,1937,14,1699,True
 Nevada,Nevada,057,2020-10-25,608,8,560,True
@@ -1247,7 +1308,7 @@ Mariposa,Mariposa,043,2020-10-24,78,2,74,
 Mendocino,Mendocino,045,2020-10-24,1127,21,1058,
 Merced,Merced,047,2020-10-24,9465,155,8973,True
 Modoc,Modoc,049,2020-10-24,29,0,27,True
-Mono,Mono,051,2020-10-24,180,2,,
+Mono,Mono,051,2020-10-24,188,2,,
 Monterey,Monterey,053,2020-10-24,11372,90,8722,
 Napa,Napa,055,2020-10-24,1937,14,1699,True
 Nevada,Nevada,057,2020-10-24,608,8,554,True
@@ -1308,7 +1369,7 @@ Mariposa,Mariposa,043,2020-10-23,78,2,74,
 Mendocino,Mendocino,045,2020-10-23,1124,21,1046,
 Merced,Merced,047,2020-10-23,9465,155,8973,
 Modoc,Modoc,049,2020-10-23,29,0,27,True
-Mono,Mono,051,2020-10-23,178,2,,
+Mono,Mono,051,2020-10-23,187,2,,
 Monterey,Monterey,053,2020-10-23,11321,89,8679,
 Napa,Napa,055,2020-10-23,1937,14,1699,
 Nevada,Nevada,057,2020-10-23,608,8,554,
@@ -1369,7 +1430,7 @@ Mariposa,Mariposa,043,2020-10-22,78,2,74,
 Mendocino,Mendocino,045,2020-10-22,1121,21,1032,
 Merced,Merced,047,2020-10-22,9439,154,8954,
 Modoc,Modoc,049,2020-10-22,29,0,27,
-Mono,Mono,051,2020-10-22,176,2,,
+Mono,Mono,051,2020-10-22,181,2,,
 Monterey,Monterey,053,2020-10-22,11284,87,8625,
 Napa,Napa,055,2020-10-22,1923,14,1671,
 Nevada,Nevada,057,2020-10-22,603,8,551,
