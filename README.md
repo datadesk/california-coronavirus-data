@@ -127,9 +127,9 @@ The 61 local-health agency websites that the Los Angeles Times consults to condu
 
 Some counties, primarily in Southern California, break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
 
-The following counties currently do not report cases by locality: Alpine, Colusa, Glenn, Inyo, Lake, Lassen, Mariposa, Modoc, San Benito, Sierra, Tehama and Tuolumne.
+The following counties currently do not report cases by locality: Alpine, Colusa, Glenn, Lassen, Mariposa, Modoc, San Benito, Sierra, Tehama and Tuolumne.
 
-Some counties provide data by region. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations in other counties are manually geocoded by The Times. San Francisco and Imperial counties provide data at the ZIP Code level.
+Different counties provide different geography types. Some provide data by region, some by Census designation, some by ZIP Code. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations in many counties are manually geocoded by The Times.
 
 Be aware that some counties have shifted the place names used over time.
 
@@ -145,6 +145,7 @@ In some circumstances the true total of cases is obscured. Los Angeles and Orang
 | `note`            | string  | In cases where the `confirmed_cases` are obscured, this explains the range of possible values.                                                                                       |
 | `x`               | float   | The longitude of the `place`.                                                                                                                                                        |
 | `y`               | float   | The latitude of the `place`.                                                                                                                                                         |
+| `population`      | integer | The number of residents in the area. Not available for all places.                                                                                                                   |                                  
 
 ### [cdph-state-totals.csv](./cdph-state-totals.csv)
 
