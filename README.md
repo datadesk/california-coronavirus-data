@@ -125,7 +125,7 @@ The 61 local-health agency websites that the Los Angeles Times consults to condu
 
 ### [latimes-place-totals.csv](./latimes-place-totals.csv)
 
-Some counties, primarily in Southern California, break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
+Most counties break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
 
 The following counties currently do not report cases by locality: Alpine, Colusa, Glenn, Lassen, Mariposa, Modoc, San Benito, Sierra, Tehama and Tuolumne.
 
