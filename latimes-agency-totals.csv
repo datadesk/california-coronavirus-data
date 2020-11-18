@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-11-17,25543,484,,
+Berkeley,Alameda,001,2020-11-17,917,9,,
+Alpine,Alpine,003,2020-11-17,36,0,28,True
+Amador,Amador,005,2020-11-17,394,15,327,
+Butte,Butte,007,2020-11-17,3501,57,3238,
+Calaveras,Calaveras,009,2020-11-17,399,21,352,
+Colusa,Colusa,011,2020-11-17,608,6,575,
+Contra Costa,Contra Costa,013,2020-11-17,21630,253,19625,
+Del Norte,Del Norte,015,2020-11-17,242,1,203,
+El Dorado,El Dorado,017,2020-11-17,1798,4,1415,
+Fresno,Fresno,019,2020-11-17,34593,463,21891,
+Glenn,Glenn,021,2020-11-17,791,6,720,
+Humboldt,Humboldt,023,2020-11-17,695,9,616,
+Imperial,Imperial,025,2020-11-17,14301,351,13204,
+Inyo,Inyo,027,2020-11-17,265,16,221,
+Kern,Kern,029,2020-11-17,37141,432,17859,
+Kings,Kings,031,2020-11-17,9625,87,7764,
+Lake,Lake,033,2020-11-17,802,18,733,
+Lassen,Lassen,035,2020-11-17,1177,2,787,
+Long Beach,Los Angeles,037,2020-11-17,14487,266,13244,
+Los Angeles,Los Angeles,037,2020-11-17,327094,6904,,
+Pasadena,Los Angeles,037,2020-11-17,3160,130,,
+Madera,Madera,039,2020-11-17,5561,76,4959,
+Marin,Marin,041,2020-11-17,7448,128,7059,
+Mariposa,Mariposa,043,2020-11-17,92,2,86,
+Mendocino,Mendocino,045,2020-11-17,1311,22,1216,
+Merced,Merced,047,2020-11-17,10662,174,9606,
+Modoc,Modoc,049,2020-11-17,100,0,75,
+Mono,Mono,051,2020-11-17,493,2,,
+Monterey,Monterey,053,2020-11-17,13189,111,9853,
+Napa,Napa,055,2020-11-17,2553,16,1887,
+Nevada,Nevada,057,2020-11-17,929,9,719,
+Orange,Orange,059,2020-11-17,65957,1526,56786,
+Placer,Placer,061,2020-11-17,5489,64,4513,
+Plumas,Plumas,063,2020-11-17,153,0,109,
+Riverside,Riverside,065,2020-11-17,76724,1374,65073,
+Sacramento,Sacramento,067,2020-11-17,31387,533,25602,
+San Benito,San Benito,069,2020-11-17,1643,15,1546,
+San Bernardino,San Bernardino,071,2020-11-17,76685,1098,69803,
+San Diego,San Diego,073,2020-11-17,66319,933,,
+San Francisco,San Francisco,075,2020-11-17,13793,156,,
+San Joaquin,San Joaquin,077,2020-11-17,24171,504,22003,
+San Luis Obispo,San Luis Obispo,079,2020-11-17,5321,34,4555,
+San Mateo,San Mateo,081,2020-11-17,12684,168,,
+Santa Barbara,Santa Barbara,083,2020-11-17,10612,133,10224,
+Santa Clara,Santa Clara,085,2020-11-17,29023,447,,
+Santa Cruz,Santa Cruz,087,2020-11-17,3557,26,2935,
+Shasta,Shasta,089,2020-11-17,3483,36,3267,
+Sierra,Sierra,091,2020-11-17,15,0,9,
+Siskiyou,Siskiyou,093,2020-11-17,429,1,333,
+Solano,Solano,095,2020-11-17,9088,80,8308,
+Sonoma,Sonoma,097,2020-11-17,11133,150,9163,
+Stanislaus,Stanislaus,099,2020-11-17,19510,413,18067,
+Sutter,Sutter,101,2020-11-17,2456,13,2059,
+Tehama,Tehama,103,2020-11-17,1249,19,1000,
+Trinity,Trinity,105,2020-11-17,98,0,54,
+Tulare,Tulare,107,2020-11-17,19320,301,18029,
+Tuolumne,Tuolumne,109,2020-11-17,615,8,338,
+Ventura,Ventura,111,2020-11-17,16649,173,14868,
+Yolo,Yolo,113,2020-11-17,3892,70,,
+Yuba,Yuba,115,2020-11-17,1643,10,1489,
 Alameda,Alameda,001,2020-11-16,25149,481,,
 Berkeley,Alameda,001,2020-11-16,898,9,,
 Alpine,Alpine,003,2020-11-16,36,0,28,
@@ -11,7 +72,7 @@ Del Norte,Del Norte,015,2020-11-16,235,1,202,
 El Dorado,El Dorado,017,2020-11-16,1701,4,1402,
 Fresno,Fresno,019,2020-11-16,34297,460,21652,
 Glenn,Glenn,021,2020-11-16,782,6,715,
-Humboldt,Humboldt,023,2020-11-16,687,10,612,
+Humboldt,Humboldt,023,2020-11-16,687,9,612,
 Imperial,Imperial,025,2020-11-16,14135,351,13107,
 Inyo,Inyo,027,2020-11-16,263,16,219,
 Kern,Kern,029,2020-11-16,36919,432,17803,
@@ -72,7 +133,7 @@ Del Norte,Del Norte,015,2020-11-15,220,1,198,True
 El Dorado,El Dorado,017,2020-11-15,1637,4,1367,True
 Fresno,Fresno,019,2020-11-15,33809,460,21652,
 Glenn,Glenn,021,2020-11-15,770,6,702,True
-Humboldt,Humboldt,023,2020-11-15,658,10,591,True
+Humboldt,Humboldt,023,2020-11-15,658,9,591,True
 Imperial,Imperial,025,2020-11-15,13846,348,12899,True
 Inyo,Inyo,027,2020-11-15,261,16,213,True
 Kern,Kern,029,2020-11-15,36618,432,17803,
@@ -133,7 +194,7 @@ Del Norte,Del Norte,015,2020-11-14,220,1,198,True
 El Dorado,El Dorado,017,2020-11-14,1637,4,1367,True
 Fresno,Fresno,019,2020-11-14,33693,460,21652,
 Glenn,Glenn,021,2020-11-14,770,6,702,True
-Humboldt,Humboldt,023,2020-11-14,658,10,591,True
+Humboldt,Humboldt,023,2020-11-14,658,9,591,True
 Imperial,Imperial,025,2020-11-14,13846,348,12899,True
 Inyo,Inyo,027,2020-11-14,261,16,213,True
 Kern,Kern,029,2020-11-14,36470,432,17791,
@@ -194,7 +255,7 @@ Del Norte,Del Norte,015,2020-11-13,220,1,198,
 El Dorado,El Dorado,017,2020-11-13,1637,4,1367,
 Fresno,Fresno,019,2020-11-13,33459,460,21652,
 Glenn,Glenn,021,2020-11-13,770,6,702,
-Humboldt,Humboldt,023,2020-11-13,658,10,591,
+Humboldt,Humboldt,023,2020-11-13,658,9,591,
 Imperial,Imperial,025,2020-11-13,13846,348,12899,
 Inyo,Inyo,027,2020-11-13,261,16,213,
 Kern,Kern,029,2020-11-13,36227,432,17735,
@@ -255,7 +316,7 @@ Del Norte,Del Norte,015,2020-11-12,210,1,197,
 El Dorado,El Dorado,017,2020-11-12,1600,4,1354,
 Fresno,Fresno,019,2020-11-12,33287,456,21289,
 Glenn,Glenn,021,2020-11-12,762,6,701,
-Humboldt,Humboldt,023,2020-11-12,653,10,577,
+Humboldt,Humboldt,023,2020-11-12,653,9,577,
 Imperial,Imperial,025,2020-11-12,13789,343,12827,
 Inyo,Inyo,027,2020-11-12,258,16,210,
 Kern,Kern,029,2020-11-12,36069,430,17694,
@@ -316,7 +377,7 @@ Del Norte,Del Norte,015,2020-11-11,204,1,190,True
 El Dorado,El Dorado,017,2020-11-11,1558,4,1330,True
 Fresno,Fresno,019,2020-11-11,32755,456,21289,True
 Glenn,Glenn,021,2020-11-11,733,5,699,True
-Humboldt,Humboldt,023,2020-11-11,624,10,577,True
+Humboldt,Humboldt,023,2020-11-11,624,9,577,True
 Imperial,Imperial,025,2020-11-11,13697,341,12763,True
 Inyo,Inyo,027,2020-11-11,256,15,210,True
 Kern,Kern,029,2020-11-11,35818,429,17681,
@@ -377,7 +438,7 @@ Del Norte,Del Norte,015,2020-11-10,204,1,190,True
 El Dorado,El Dorado,017,2020-11-10,1558,4,1330,
 Fresno,Fresno,019,2020-11-10,32755,456,21289,
 Glenn,Glenn,021,2020-11-10,733,5,699,
-Humboldt,Humboldt,023,2020-11-10,624,10,577,
+Humboldt,Humboldt,023,2020-11-10,624,9,577,
 Imperial,Imperial,025,2020-11-10,13697,341,12763,
 Inyo,Inyo,027,2020-11-10,256,15,210,
 Kern,Kern,029,2020-11-10,35610,429,17635,
@@ -438,7 +499,7 @@ Del Norte,Del Norte,015,2020-11-09,204,1,190,
 El Dorado,El Dorado,017,2020-11-09,1537,4,1319,
 Fresno,Fresno,019,2020-11-09,32619,454,21142,
 Glenn,Glenn,021,2020-11-09,729,4,697,
-Humboldt,Humboldt,023,2020-11-09,621,10,575,
+Humboldt,Humboldt,023,2020-11-09,621,9,575,
 Imperial,Imperial,025,2020-11-09,13490,341,12725,
 Inyo,Inyo,027,2020-11-09,256,15,210,
 Kern,Kern,029,2020-11-09,35467,429,17598,
@@ -499,7 +560,7 @@ Del Norte,Del Norte,015,2020-11-08,203,1,184,
 El Dorado,El Dorado,017,2020-11-08,1487,4,1304,True
 Fresno,Fresno,019,2020-11-08,32430,454,21142,
 Glenn,Glenn,021,2020-11-08,716,3,683,True
-Humboldt,Humboldt,023,2020-11-08,605,10,560,True
+Humboldt,Humboldt,023,2020-11-08,605,9,560,True
 Imperial,Imperial,025,2020-11-08,13398,341,12599,True
 Inyo,Inyo,027,2020-11-08,250,15,208,True
 Kern,Kern,029,2020-11-08,35394,429,17598,
@@ -560,7 +621,7 @@ Del Norte,Del Norte,015,2020-11-07,203,1,183,True
 El Dorado,El Dorado,017,2020-11-07,1487,4,1304,True
 Fresno,Fresno,019,2020-11-07,32278,454,21142,
 Glenn,Glenn,021,2020-11-07,716,3,683,True
-Humboldt,Humboldt,023,2020-11-07,605,10,560,True
+Humboldt,Humboldt,023,2020-11-07,605,9,560,True
 Imperial,Imperial,025,2020-11-07,13398,341,12599,True
 Inyo,Inyo,027,2020-11-07,250,15,208,True
 Kern,Kern,029,2020-11-07,35205,429,17594,
@@ -621,7 +682,7 @@ Del Norte,Del Norte,015,2020-11-06,203,1,183,
 El Dorado,El Dorado,017,2020-11-06,1487,4,1304,
 Fresno,Fresno,019,2020-11-06,32056,454,21142,
 Glenn,Glenn,021,2020-11-06,716,3,683,
-Humboldt,Humboldt,023,2020-11-06,605,10,560,
+Humboldt,Humboldt,023,2020-11-06,605,9,560,
 Imperial,Imperial,025,2020-11-06,13398,341,12599,
 Inyo,Inyo,027,2020-11-06,250,15,208,
 Kern,Kern,029,2020-11-06,35063,429,17570,
@@ -682,7 +743,7 @@ Del Norte,Del Norte,015,2020-11-05,201,1,183,
 El Dorado,El Dorado,017,2020-11-05,1469,4,1299,
 Fresno,Fresno,019,2020-11-05,31952,447,20816,
 Glenn,Glenn,021,2020-11-05,714,3,681,
-Humboldt,Humboldt,023,2020-11-05,599,10,558,
+Humboldt,Humboldt,023,2020-11-05,599,9,558,
 Imperial,Imperial,025,2020-11-05,13330,340,12542,
 Inyo,Inyo,027,2020-11-05,247,15,208,
 Kern,Kern,029,2020-11-05,34973,428,17542,
@@ -743,7 +804,7 @@ Del Norte,Del Norte,015,2020-11-04,198,1,179,
 El Dorado,El Dorado,017,2020-11-04,1459,4,1291,
 Fresno,Fresno,019,2020-11-04,31856,447,20816,
 Glenn,Glenn,021,2020-11-04,710,3,679,
-Humboldt,Humboldt,023,2020-11-04,592,10,557,
+Humboldt,Humboldt,023,2020-11-04,592,9,557,
 Imperial,Imperial,025,2020-11-04,13284,338,12517,
 Inyo,Inyo,027,2020-11-04,247,15,205,True
 Kern,Kern,029,2020-11-04,34779,426,17508,
@@ -804,7 +865,7 @@ Del Norte,Del Norte,015,2020-11-03,194,1,179,
 El Dorado,El Dorado,017,2020-11-03,1444,4,1286,
 Fresno,Fresno,019,2020-11-03,31738,447,20816,
 Glenn,Glenn,021,2020-11-03,707,3,677,
-Humboldt,Humboldt,023,2020-11-03,586,10,556,
+Humboldt,Humboldt,023,2020-11-03,586,9,556,
 Imperial,Imperial,025,2020-11-03,13260,338,12501,
 Inyo,Inyo,027,2020-11-03,247,15,205,
 Kern,Kern,029,2020-11-03,34676,425,17474,
@@ -865,7 +926,7 @@ Del Norte,Del Norte,015,2020-11-02,193,1,179,
 El Dorado,El Dorado,017,2020-11-02,1429,4,1276,
 Fresno,Fresno,019,2020-11-02,31613,443,20692,
 Glenn,Glenn,021,2020-11-02,702,3,672,
-Humboldt,Humboldt,023,2020-11-02,579,10,554,
+Humboldt,Humboldt,023,2020-11-02,579,9,554,
 Imperial,Imperial,025,2020-11-02,13198,338,12425,
 Inyo,Inyo,027,2020-11-02,243,15,205,
 Kern,Kern,029,2020-11-02,34563,424,17438,
@@ -926,7 +987,7 @@ Del Norte,Del Norte,015,2020-11-01,181,1,177,True
 El Dorado,El Dorado,017,2020-11-01,1388,4,1267,True
 Fresno,Fresno,019,2020-11-01,31594,443,20692,
 Glenn,Glenn,021,2020-11-01,685,3,657,True
-Humboldt,Humboldt,023,2020-11-01,571,10,547,True
+Humboldt,Humboldt,023,2020-11-01,571,9,547,True
 Imperial,Imperial,025,2020-11-01,13038,338,12233,True
 Inyo,Inyo,027,2020-11-01,241,15,203,True
 Kern,Kern,029,2020-11-01,34457,424,17438,
@@ -987,7 +1048,7 @@ Del Norte,Del Norte,015,2020-10-31,181,1,177,True
 El Dorado,El Dorado,017,2020-10-31,1388,4,1267,True
 Fresno,Fresno,019,2020-10-31,31409,443,20692,
 Glenn,Glenn,021,2020-10-31,685,3,657,True
-Humboldt,Humboldt,023,2020-10-31,571,10,547,True
+Humboldt,Humboldt,023,2020-10-31,571,9,547,True
 Imperial,Imperial,025,2020-10-31,13038,338,12233,True
 Inyo,Inyo,027,2020-10-31,241,15,203,True
 Kern,Kern,029,2020-10-31,34378,424,17438,
@@ -1048,7 +1109,7 @@ Del Norte,Del Norte,015,2020-10-30,181,1,177,
 El Dorado,El Dorado,017,2020-10-30,1388,4,1267,
 Fresno,Fresno,019,2020-10-30,31321,443,20692,
 Glenn,Glenn,021,2020-10-30,685,3,657,
-Humboldt,Humboldt,023,2020-10-30,571,10,547,
+Humboldt,Humboldt,023,2020-10-30,571,9,547,
 Imperial,Imperial,025,2020-10-30,13038,338,12233,
 Inyo,Inyo,027,2020-10-30,241,15,203,
 Kern,Kern,029,2020-10-30,34308,423,17406,
@@ -1109,7 +1170,7 @@ Del Norte,Del Norte,015,2020-10-29,181,1,175,
 El Dorado,El Dorado,017,2020-10-29,1380,4,1260,
 Fresno,Fresno,019,2020-10-29,31195,439,20335,
 Glenn,Glenn,021,2020-10-29,682,3,656,
-Humboldt,Humboldt,023,2020-10-29,569,10,547,
+Humboldt,Humboldt,023,2020-10-29,569,9,547,
 Imperial,Imperial,025,2020-10-29,13023,338,12187,
 Inyo,Inyo,027,2020-10-29,241,15,198,
 Kern,Kern,029,2020-10-29,34154,422,17354,
@@ -1170,7 +1231,7 @@ Del Norte,Del Norte,015,2020-10-28,180,1,174,
 El Dorado,El Dorado,017,2020-10-28,1368,4,1257,
 Fresno,Fresno,019,2020-10-28,31096,439,20335,
 Glenn,Glenn,021,2020-10-28,679,3,654,
-Humboldt,Humboldt,023,2020-10-28,568,10,545,
+Humboldt,Humboldt,023,2020-10-28,568,9,545,
 Imperial,Imperial,025,2020-10-28,12983,336,12155,
 Inyo,Inyo,027,2020-10-28,240,15,198,
 Kern,Kern,029,2020-10-28,34114,420,17313,
@@ -1231,7 +1292,7 @@ Del Norte,Del Norte,015,2020-10-27,180,1,174,
 El Dorado,El Dorado,017,2020-10-27,1361,4,1252,
 Fresno,Fresno,019,2020-10-27,30969,439,20335,
 Glenn,Glenn,021,2020-10-27,678,3,646,
-Humboldt,Humboldt,023,2020-10-27,568,10,544,
+Humboldt,Humboldt,023,2020-10-27,568,9,544,
 Imperial,Imperial,025,2020-10-27,12967,336,12137,
 Inyo,Inyo,027,2020-10-27,234,15,186,
 Kern,Kern,029,2020-10-27,34027,420,17275,
@@ -1292,7 +1353,7 @@ Del Norte,Del Norte,015,2020-10-26,180,1,174,
 El Dorado,El Dorado,017,2020-10-26,1351,4,1249,
 Fresno,Fresno,019,2020-10-26,30858,436,20110,
 Glenn,Glenn,021,2020-10-26,671,3,646,
-Humboldt,Humboldt,023,2020-10-26,567,10,541,
+Humboldt,Humboldt,023,2020-10-26,567,9,541,
 Imperial,Imperial,025,2020-10-26,12882,336,12104,
 Inyo,Inyo,027,2020-10-26,231,15,186,
 Kern,Kern,029,2020-10-26,33928,416,17178,
@@ -1353,7 +1414,7 @@ Del Norte,Del Norte,015,2020-10-25,178,1,171,True
 El Dorado,El Dorado,017,2020-10-25,1315,4,1234,True
 Fresno,Fresno,019,2020-10-25,30731,436,20110,
 Glenn,Glenn,021,2020-10-25,657,3,643,True
-Humboldt,Humboldt,023,2020-10-25,567,10,541,True
+Humboldt,Humboldt,023,2020-10-25,567,9,541,True
 Imperial,Imperial,025,2020-10-25,12700,336,11993,True
 Inyo,Inyo,027,2020-10-25,227,15,179,True
 Kern,Kern,029,2020-10-25,33881,416,17176,

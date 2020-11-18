@@ -1,6 +1,6 @@
 county,fips,agency,url
 Alameda,001,Alameda,https://covid-19.acgov.org/data.page
-Alameda,001,Berkeley,https://www.cityofberkeley.info/covid19-data/
+Alameda,001,Berkeley,https://covid-19.acgov.org/data.page
 Alpine,003,Alpine,http://alpinecountyca.gov/516/COVID-19
 Amador,005,Amador,https://www.amadorgov.org/services/covid-19/-fsiteid-1
 Butte,007,Butte,https://infogram.com/1pe66wmyjnmvkrhm66x9362kp3al60r57ex
@@ -40,7 +40,7 @@ San Benito,069,San Benito,https://cosb.maps.arcgis.com/apps/opsdashboard/index.h
 San Bernardino,071,San Bernardino,https://sbcph.maps.arcgis.com/apps/opsdashboard/index.html#/44bb35c804c44c8281da6d82ee602dff
 San Diego,073,San Diego,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html
 San Francisco,075,San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp
-San Joaquin,077,San Joaquin,https://sjcphs.maps.arcgis.com/apps/opsdashboard/index.html#/1234d2c9d6e043709a85f6b519cc8757
+San Joaquin,077,San Joaquin,https://experience.arcgis.com/experience/4ec4f8e1dfd142998d1732c7f5c79e45
 San Luis Obispo,079,San Luis Obispo,https://www.emergencyslo.org/en/positive-case-details.aspx
 San Mateo,081,San Mateo,https://www.smchealth.org/post/san-mateo-county-covid-19-data-1
 Santa Barbara,083,Santa Barbara,https://publichealthsbc.org/status-reports/
