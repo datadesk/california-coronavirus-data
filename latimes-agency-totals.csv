@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-11-23,26525,490,,
+Berkeley,Alameda,001,2020-11-23,1097,9,,
+Alpine,Alpine,003,2020-11-23,42,0,33,True
+Amador,Amador,005,2020-11-23,432,15,364,
+Butte,Butte,007,2020-11-23,3762,59,3413,
+Calaveras,Calaveras,009,2020-11-23,422,21,365,True
+Colusa,Colusa,011,2020-11-23,663,6,597,
+Contra Costa,Contra Costa,013,2020-11-23,22747,258,20494,
+Del Norte,Del Norte,015,2020-11-23,273,1,219,True
+El Dorado,El Dorado,017,2020-11-23,2018,4,1500,
+Fresno,Fresno,019,2020-11-23,36315,471,22408,
+Glenn,Glenn,021,2020-11-23,848,7,791,
+Humboldt,Humboldt,023,2020-11-23,784,9,654,
+Imperial,Imperial,025,2020-11-23,15257,355,13698,
+Inyo,Inyo,027,2020-11-23,280,16,229,
+Kern,Kern,029,2020-11-23,39437,445,18143,
+Kings,Kings,031,2020-11-23,10259,87,8121,
+Lake,Lake,033,2020-11-23,845,19,759,
+Lassen,Lassen,035,2020-11-23,1715,3,812,
+Long Beach,Los Angeles,037,2020-11-23,15226,270,13705,
+Los Angeles,Los Angeles,037,2020-11-23,352138,7054,,
+Pasadena,Los Angeles,037,2020-11-23,3405,132,,
+Madera,Madera,039,2020-11-23,5885,80,5071,
+Marin,Marin,041,2020-11-23,7596,129,7168,
+Mariposa,Mariposa,043,2020-11-23,112,2,91,
+Mendocino,Mendocino,045,2020-11-23,1441,22,1280,
+Merced,Merced,047,2020-11-23,11388,179,9918,
+Modoc,Modoc,049,2020-11-23,118,0,88,
+Mono,Mono,051,2020-11-23,507,3,,
+Monterey,Monterey,053,2020-11-23,13913,115,10000,
+Napa,Napa,055,2020-11-23,2787,16,1888,
+Nevada,Nevada,057,2020-11-23,1131,9,808,
+Orange,Orange,059,2020-11-23,71116,1554,58102,
+Placer,Placer,061,2020-11-23,6071,65,5276,
+Plumas,Plumas,063,2020-11-23,181,0,143,
+Riverside,Riverside,065,2020-11-23,80011,1413,66087,
+Sacramento,Sacramento,067,2020-11-23,34186,550,26926,
+San Benito,San Benito,069,2020-11-23,1746,15,1610,
+San Bernardino,San Bernardino,071,2020-11-23,85176,1129,75158,
+San Diego,San Diego,073,2020-11-23,72815,968,,
+San Francisco,San Francisco,075,2020-11-23,14542,158,,
+San Joaquin,San Joaquin,077,2020-11-23,24804,504,22774,
+San Luis Obispo,San Luis Obispo,079,2020-11-23,5811,35,4985,
+San Mateo,San Mateo,081,2020-11-23,13334,169,,
+Santa Barbara,Santa Barbara,083,2020-11-23,10934,133,10468,
+Santa Clara,Santa Clara,085,2020-11-23,31103,464,,
+Santa Cruz,Santa Cruz,087,2020-11-23,3987,28,3106,
+Shasta,Shasta,089,2020-11-23,4147,43,3543,
+Sierra,Sierra,091,2020-11-23,19,0,15,
+Siskiyou,Siskiyou,093,2020-11-23,565,2,432,
+Solano,Solano,095,2020-11-23,9745,81,,
+Sonoma,Sonoma,097,2020-11-23,11608,155,9625,
+Stanislaus,Stanislaus,099,2020-11-23,20658,418,18749,
+Sutter,Sutter,101,2020-11-23,2948,14,2264,
+Tehama,Tehama,103,2020-11-23,1404,23,1117,True
+Trinity,Trinity,105,2020-11-23,124,0,92,
+Tulare,Tulare,107,2020-11-23,19882,304,18479,
+Tuolumne,Tuolumne,109,2020-11-23,806,8,525,
+Ventura,Ventura,111,2020-11-23,18185,175,15460,
+Yolo,Yolo,113,2020-11-23,4257,74,,
+Yuba,Yuba,115,2020-11-23,1866,10,1589,
 Alameda,Alameda,001,2020-11-22,26408,490,,
 Berkeley,Alameda,001,2020-11-22,1077,9,,
 Alpine,Alpine,003,2020-11-22,42,0,33,True
@@ -32,7 +93,7 @@ Monterey,Monterey,053,2020-11-22,13868,114,10000,
 Napa,Napa,055,2020-11-22,2695,16,1888,
 Nevada,Nevada,057,2020-11-22,1015,9,767,True
 Orange,Orange,059,2020-11-22,69694,1554,57833,
-Placer,Placer,061,2020-11-22,5687,67,4720,True
+Placer,Placer,061,2020-11-22,5687,65,4720,True
 Plumas,Plumas,063,2020-11-22,177,0,137,True
 Riverside,Riverside,065,2020-11-22,78442,1400,65613,True
 Sacramento,Sacramento,067,2020-11-22,32865,546,26380,True
@@ -46,7 +107,7 @@ San Mateo,San Mateo,081,2020-11-22,13203,169,,True
 Santa Barbara,Santa Barbara,083,2020-11-22,10839,133,10393,True
 Santa Clara,Santa Clara,085,2020-11-22,30676,463,,
 Santa Cruz,Santa Cruz,087,2020-11-22,3819,27,3009,True
-Shasta,Shasta,089,2020-11-22,3897,42,3663,True
+Shasta,Shasta,089,2020-11-22,3897,42,2787,True
 Sierra,Sierra,091,2020-11-22,17,0,14,True
 Siskiyou,Siskiyou,093,2020-11-22,495,1,389,True
 Solano,Solano,095,2020-11-22,9349,80,8500,True
@@ -58,7 +119,7 @@ Trinity,Trinity,105,2020-11-22,113,0,72,True
 Tulare,Tulare,107,2020-11-22,19673,303,18343,True
 Tuolumne,Tuolumne,109,2020-11-22,784,8,504,
 Ventura,Ventura,111,2020-11-22,17575,174,15238,True
-Yolo,Yolo,113,2020-11-22,4199,75,,
+Yolo,Yolo,113,2020-11-22,4199,74,,
 Yuba,Yuba,115,2020-11-22,1732,10,1546,True
 Alameda,Alameda,001,2020-11-21,26354,490,,
 Berkeley,Alameda,001,2020-11-21,1077,9,,
@@ -93,7 +154,7 @@ Monterey,Monterey,053,2020-11-21,13727,113,10000,
 Napa,Napa,055,2020-11-21,2695,16,1888,True
 Nevada,Nevada,057,2020-11-21,1015,9,767,True
 Orange,Orange,059,2020-11-21,69142,1551,57723,
-Placer,Placer,061,2020-11-21,5687,67,4720,True
+Placer,Placer,061,2020-11-21,5687,65,4720,True
 Plumas,Plumas,063,2020-11-21,177,0,137,
 Riverside,Riverside,065,2020-11-21,78442,1400,65613,True
 Sacramento,Sacramento,067,2020-11-21,32865,546,26380,True
@@ -107,7 +168,7 @@ San Mateo,San Mateo,081,2020-11-21,13203,169,,
 Santa Barbara,Santa Barbara,083,2020-11-21,10839,133,10393,True
 Santa Clara,Santa Clara,085,2020-11-21,30411,463,,
 Santa Cruz,Santa Cruz,087,2020-11-21,3819,27,3009,True
-Shasta,Shasta,089,2020-11-21,3897,42,3663,True
+Shasta,Shasta,089,2020-11-21,3897,42,2787,True
 Sierra,Sierra,091,2020-11-21,17,0,14,True
 Siskiyou,Siskiyou,093,2020-11-21,495,1,389,True
 Solano,Solano,095,2020-11-21,9349,80,8500,True
@@ -119,7 +180,7 @@ Trinity,Trinity,105,2020-11-21,113,0,72,True
 Tulare,Tulare,107,2020-11-21,19673,303,18343,True
 Tuolumne,Tuolumne,109,2020-11-21,708,8,408,True
 Ventura,Ventura,111,2020-11-21,17575,174,15238,True
-Yolo,Yolo,113,2020-11-21,4139,75,,
+Yolo,Yolo,113,2020-11-21,4139,74,,
 Yuba,Yuba,115,2020-11-21,1732,10,1546,True
 Alameda,Alameda,001,2020-11-20,26164,490,,
 Berkeley,Alameda,001,2020-11-20,1059,9,,
@@ -154,7 +215,7 @@ Monterey,Monterey,053,2020-11-20,13524,113,10000,
 Napa,Napa,055,2020-11-20,2695,16,1888,
 Nevada,Nevada,057,2020-11-20,1015,9,767,
 Orange,Orange,059,2020-11-20,68336,1540,57556,
-Placer,Placer,061,2020-11-20,5687,67,4720,
+Placer,Placer,061,2020-11-20,5687,65,4720,
 Plumas,Plumas,063,2020-11-20,173,0,137,
 Riverside,Riverside,065,2020-11-20,78442,1400,65613,
 Sacramento,Sacramento,067,2020-11-20,32865,546,26380,
@@ -168,7 +229,7 @@ San Mateo,San Mateo,081,2020-11-20,12988,169,,
 Santa Barbara,Santa Barbara,083,2020-11-20,10839,133,10393,
 Santa Clara,Santa Clara,085,2020-11-20,30025,463,,
 Santa Cruz,Santa Cruz,087,2020-11-20,3819,27,3009,
-Shasta,Shasta,089,2020-11-20,3897,42,3663,
+Shasta,Shasta,089,2020-11-20,3897,42,2787,
 Sierra,Sierra,091,2020-11-20,17,0,14,True
 Siskiyou,Siskiyou,093,2020-11-20,495,1,389,
 Solano,Solano,095,2020-11-20,9349,80,8500,
@@ -215,7 +276,7 @@ Monterey,Monterey,053,2020-11-19,13410,111,10000,
 Napa,Napa,055,2020-11-19,2623,16,1888,
 Nevada,Nevada,057,2020-11-19,948,9,738,
 Orange,Orange,059,2020-11-19,67167,1537,57326,
-Placer,Placer,061,2020-11-19,5642,66,4649,
+Placer,Placer,061,2020-11-19,5642,65,4649,
 Plumas,Plumas,063,2020-11-19,165,0,130,
 Riverside,Riverside,065,2020-11-19,78009,1396,65427,
 Sacramento,Sacramento,067,2020-11-19,32411,544,25993,
@@ -229,7 +290,7 @@ San Mateo,San Mateo,081,2020-11-19,12878,168,,
 Santa Barbara,Santa Barbara,083,2020-11-19,10768,133,10335,
 Santa Clara,Santa Clara,085,2020-11-19,29631,459,,
 Santa Cruz,Santa Cruz,087,2020-11-19,3685,27,2991,
-Shasta,Shasta,089,2020-11-19,3570,37,3353,
+Shasta,Shasta,089,2020-11-19,3570,37,2787,
 Sierra,Sierra,091,2020-11-19,17,0,11,
 Siskiyou,Siskiyou,093,2020-11-19,466,1,356,
 Solano,Solano,095,2020-11-19,9291,80,8371,
@@ -290,7 +351,7 @@ San Mateo,San Mateo,081,2020-11-18,12780,168,,
 Santa Barbara,Santa Barbara,083,2020-11-18,10702,133,10268,
 Santa Clara,Santa Clara,085,2020-11-18,29297,453,,
 Santa Cruz,Santa Cruz,087,2020-11-18,3628,27,2962,
-Shasta,Shasta,089,2020-11-18,3483,36,3267,True
+Shasta,Shasta,089,2020-11-18,3483,36,2787,True
 Sierra,Sierra,091,2020-11-18,15,0,9,True
 Siskiyou,Siskiyou,093,2020-11-18,436,1,341,
 Solano,Solano,095,2020-11-18,9161,80,8339,
@@ -351,7 +412,7 @@ San Mateo,San Mateo,081,2020-11-17,12684,168,,
 Santa Barbara,Santa Barbara,083,2020-11-17,10612,133,10224,
 Santa Clara,Santa Clara,085,2020-11-17,29023,447,,
 Santa Cruz,Santa Cruz,087,2020-11-17,3557,26,2935,
-Shasta,Shasta,089,2020-11-17,3483,36,3267,
+Shasta,Shasta,089,2020-11-17,3483,36,2787,
 Sierra,Sierra,091,2020-11-17,15,0,9,
 Siskiyou,Siskiyou,093,2020-11-17,429,1,333,
 Solano,Solano,095,2020-11-17,9088,80,8308,
@@ -412,7 +473,7 @@ San Mateo,San Mateo,081,2020-11-16,12565,168,,
 Santa Barbara,Santa Barbara,083,2020-11-16,10577,133,10189,
 Santa Clara,Santa Clara,085,2020-11-16,28686,445,,
 Santa Cruz,Santa Cruz,087,2020-11-16,3542,26,2912,
-Shasta,Shasta,089,2020-11-16,3298,36,3086,
+Shasta,Shasta,089,2020-11-16,3298,36,2787,
 Sierra,Sierra,091,2020-11-16,15,0,9,
 Siskiyou,Siskiyou,093,2020-11-16,403,1,306,
 Solano,Solano,095,2020-11-16,8959,79,8232,
