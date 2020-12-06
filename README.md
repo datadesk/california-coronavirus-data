@@ -371,7 +371,7 @@ This file records the metrics released for each county by day. Definition of the
 
 ### [cdph-regional-stay-home-metrics.csv](./cdph-regional-stay-home-metrics.csv)
 
-In December 2020, the state [introduced a new system](https://covid19.ca.gov/stay-home-except-for-essential-needs/) for issuing stay home orders. The state's 58 counties were grouped into six regions and each are was judged based on the percentage of available ICU beds. If the percentage available dropped below 15%, a stay home order restricting businesses and movement would be issued. 
+In December 2020, the state [introduced a new system](https://covid19.ca.gov/stay-home-except-for-essential-needs/) for issuing stay home orders. The state's 58 counties were grouped into six regions and judged based on the percentage of available ICU beds. When the percentage available beds dropped below 15%, a stay home order restricting businesses and movement would be issued. 
 
 This file records the metrics released for each region by day.
 
