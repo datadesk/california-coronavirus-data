@@ -375,12 +375,12 @@ In December 2020, the state [introduced a new system](https://covid19.ca.gov/sta
 
 This file records the metrics released for each region by day.
 
-| field                 | type    | description                                                                                                                                     |
-| --------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                             |
-| `region`              | string  | The name of the region.                                                                                                                         |
-| `icu_capacity_percent | float   | The percentage of ICU beds in the region that were available on that `date`                                                                     |
-| `stay_home_order`     | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
+| field                  | type    | description                                                                                                                                     |
+| ---------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `date`                 | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                             |
+| `region`               | string  | The name of the region.                                                                                                                         |
+| `icu_capacity_percent` | float   | The percentage of ICU beds in the region that were available on that `date`                                                                     |
+| `stay_home_order`      | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
 
 
 ### [cdcr-state-totals.csv](./cdcr-state-totals.csv)
