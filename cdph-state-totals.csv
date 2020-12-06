@@ -1,4 +1,5 @@
 date,confirmed_cases,deaths,travel,person_to_person,community_spread,under_investigation,other_causes,self_monitoring,age_0_to_17,age_18_to_49,age_50_to_64,age_65_and_up,age_18_to_64,age_unknown,gender_male,gender_female,gender_unknown,total_tests,received_tests,pending_tests,confirmed_hospitalizations,confirmed_icu,suspected_hospitalizations,suspected_icu,healthcare_worker_infections,healthcare_worker_deaths,source_url
+2020-12-05,1311625,19791,,,,,,,147807,780365,246393,135981,,1079,635029,665309,11287,24901975,,,9430,2182,843,83,55007,221,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-324.aspx
 2020-12-04,1286557,19582,,,,,,,144555,765403,241906,133635,,1058,623621,652467,10469,24675478,,,9065,2152,883,96,54711,220,
 2020-12-03,1264539,19437,,,,,,,141712,752442,237843,131495,,1047,613458,641220,9861,24474642,,,8831,2066,871,81,54020,220,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-322.aspx
 2020-12-02,1245948,19324,,,,,,,139427,741663,234277,129548,,1033,604591,631636,9721,24299126,,,8517,2006,848,115,53409,218,https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-320.aspx
