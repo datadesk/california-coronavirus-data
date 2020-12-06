@@ -24,6 +24,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
 - [cdph-reopening-metrics.csv](#cdph-reopening-metricscsv)
+- [cdph-regional-stay-home-metrics.csv](#cdph-regional-stay-home-metricscsv)
 - [cdcr-state-totals.csv](#cdcr-state-totalscsv)
 - [cdcr-prison-totals.csv](#cdcr-prison-totalscsv)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
@@ -356,7 +357,7 @@ This file records the current tier of each county by day. The definition for eac
 
 In August 2020, the state introduced a new framework for deciding when and how counties can reopen. Under the regime, each county is assigned to one of four tiers based on a set of metrics developed by state officials.
 
-This file records the metrics recorded for each county by day. Definition of the benchmarks can be found on the [state's website](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx).
+This file records the metrics released for each county by day. Definition of the benchmarks can be found on the [state's website](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx).
 
 | field                 | type    | description                                                                                                                                                                          |
 | --------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -367,6 +368,20 @@ This file records the metrics recorded for each county by day. Definition of the
 | `adjusted_case_rate`  | float   | The `percapita_case_rate` adjusted to account for the volume of testing in the area. Not done for all counties.                                                                      |
 | `positivity_rate`     | float   | The percentage of tests for the virus that come back positive in a recent seven-day period.                                                                                          |
 | `equity_metric`       | float   | An index measuring disparities in disadvantaged neighborhoods compared to the county overall. Many small counties are exempted. Added Oct. 6, 2020                                   |
+
+### [cdph-regional-stay-home-metrics.csv](./cdph-regional-stay-home-metrics.csv)
+
+In December 2020, the state [introduced a new system](https://covid19.ca.gov/stay-home-except-for-essential-needs/) for issuing stay home orders. The state's 58 counties were grouped into six regions and each are was judged based on the percentage of available ICU beds. If the percentage available dropped below 15%, a stay home order restricting businesses and movement would be issued. 
+
+This file records the metrics released for each region by day.
+
+| field                 | type    | description                                                                                                                                     |
+| --------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                             |
+| `region`              | string  | The name of the county.                                                                                                                         |
+| `icu_capacity_percent | float   | The percentage of ICU beds in the region that were available on that `date`                                                                     |
+| `stay_home_order`     | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
+
 
 ### [cdcr-state-totals.csv](./cdcr-state-totals.csv)
 
