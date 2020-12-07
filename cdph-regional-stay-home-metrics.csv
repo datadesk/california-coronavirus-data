@@ -1,4 +1,9 @@
 date,region,icu_capacity_percent,stay_home_order
+2020-12-06,Bay Area,0.24100000000000002,no
+2020-12-06,Greater Sacramento,0.182,no
+2020-12-06,Northern California,0.265,no
+2020-12-06,San Joaquin Valley,0.066,pending
+2020-12-06,Southern California,0.10300000000000001,pending
 2020-12-05,Northern California,0.24100000000000002,no
 2020-12-05,Bay Area,0.217,no
 2020-12-05,Greater Sacramento,0.214,no
