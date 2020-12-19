@@ -1,62 +1,62 @@
 county,fips,agency,url
-Alameda,001,Alameda,
-Alameda,001,Berkeley,
-Alpine,003,Alpine,
-Amador,005,Amador,
-Butte,007,Butte,
-Calaveras,009,Calaveras,
-Colusa,011,Colusa,
-Contra Costa,013,Contra Costa,
-Del Norte,015,Del Norte,
-El Dorado,017,El Dorado,
-Fresno,019,Fresno,
-Glenn,021,Glenn,
-Humboldt,023,Humboldt,
-Imperial,025,Imperial,
-Inyo,027,Inyo,
-Kern,029,Kern,
-Kings,031,Kings,
-Lake,033,Lake,
-Lassen,035,Lassen,
-Los Angeles,037,Long Beach,
-Los Angeles,037,Los Angeles,
-Los Angeles,037,Pasadena,
-Madera,039,Madera,
-Marin,041,Marin,
-Mariposa,043,Mariposa,
-Mendocino,045,Mendocino,
-Merced,047,Merced,
-Modoc,049,Modoc,
-Mono,051,Mono,
-Monterey,053,Monterey,
-Napa,055,Napa,
-Nevada,057,Nevada,
-Orange,059,Orange,
-Placer,061,Placer,
-Plumas,063,Plumas,
-Riverside,065,Riverside,
-Sacramento,067,Sacramento,
-San Benito,069,San Benito,
-San Bernardino,071,San Bernardino,
-San Diego,073,San Diego,
-San Francisco,075,San Francisco,
-San Joaquin,077,San Joaquin,
-San Luis Obispo,079,San Luis Obispo,
-San Mateo,081,San Mateo,
-Santa Barbara,083,Santa Barbara,
-Santa Clara,085,Santa Clara,
-Santa Cruz,087,Santa Cruz,
-Shasta,089,Shasta,
-Sierra,091,Sierra,
-Siskiyou,093,Siskiyou,
-Solano,095,Solano,
-Sonoma,097,Sonoma,
-Stanislaus,099,Stanislaus,
-Sutter,101,Sutter,
-Tehama,103,Tehama,
-Trinity,105,Trinity,
-Tulare,107,Tulare,
-Tuolumne,109,Tuolumne,
-Ventura,111,Ventura,
-Yolo,113,Yolo,
-Yuba,115,Yuba,
+Alameda,001,Alameda,https://covid-19.acgov.org/data.page
+Alameda,001,Berkeley,https://www.cityofberkeley.info/covid19-data/
+Alpine,003,Alpine,http://alpinecountyca.gov/516/COVID-19
+Amador,005,Amador,https://www.amadorgov.org/services/covid-19/-fsiteid-1
+Butte,007,Butte,https://infogram.com/1pe66wmyjnmvkrhm66x9362kp3al60r57ex
+Calaveras,009,Calaveras,https://covid19.calaverasgov.us/
+Colusa,011,Colusa,https://www.countyofcolusa.org/771/COVID19
+Contra Costa,013,Contra Costa,https://www.coronavirus.cchealth.org/dashboard
+Del Norte,015,Del Norte,https://www.covid19.dnco.org/
+El Dorado,017,El Dorado,http://eldoradocounty.maps.arcgis.com/apps/opsdashboard/index.html#/b5315baf88c34be996a16c6f0b8fdcfb/
+Fresno,019,Fresno,https://www.co.fresno.ca.us/departments/public-health/covid-19
+Glenn,021,Glenn,https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19
+Humboldt,023,Humboldt,https://docs.google.com/spreadsheets/d/e/2PACX-1vRumJLxZ2OIN9TBV14uUbtdhxLDxddnDh0J3ASGUHMYvoS_dyal8OW2xOkbspt_hx3gj2tM5ByyVfTK/pubhtml?gid=2002140219&single=true
+Imperial,025,Imperial,http://www.icphd.org/health-information-and-resources/healthy-facts/covid-19/
+Inyo,027,Inyo,https://www.inyocounty.us/covid-19/
+Kern,029,Kern,https://kernpublichealth.com/covid-19_dashboard/
+Kings,031,Kings,https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1/
+Lake,033,Lake,http://health.co.lake.ca.us/Coronavirus/COVID-19_Data.htm
+Lassen,035,Lassen,https://lassencares.org/covid-19-cases%2Fdashboard
+Los Angeles,037,Long Beach,http://www.longbeach.gov/health/diseases-and-condition/information-on/coronavirus/
+Los Angeles,037,Los Angeles,http://publichealth.lacounty.gov/media/Coronavirus/locations.htm
+Los Angeles,037,Pasadena,https://www.cityofpasadena.net/public-health/covid-19-dashboard/
+Madera,039,Madera,https://maderacounty.maps.arcgis.com/apps/opsdashboard/index.html#/5c3f6e5ce44d4160b46233ae1fa1e919
+Marin,041,Marin,https://coronavirus.marinhhs.org/coronavirus-marin-county
+Mariposa,043,Mariposa,https://mariposacounty.maps.arcgis.com/apps/opsdashboard/index.html#/89621bfcef274dc89c27642e9be8d28b
+Mendocino,045,Mendocino,https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
+Merced,047,Merced,https://mercedcounty.maps.arcgis.com/apps/opsdashboard/index.html#/f005de09bbbe4171a8bba19d74b2347b
+Modoc,049,Modoc,http://modochealthservices.org/corona-virus
+Mono,051,Mono,https://coronavirus.monocounty.ca.gov/
+Monterey,053,Monterey,https://www.co.monterey.ca.us/government/departments-a-h/health/diseases/2019-novel-coronavirus-covid-19/2019-novel-coronavirus-2019-ncov-local-data-10219
+Napa,055,Napa,https://legacy.livestories.com/s/v2/coronavirus-report-for-napa-county-ca/9065d62d-f5a6-445f-b2a9-b7cf30b846dd/
+Nevada,057,Nevada,https://www.mynevadacounty.com/2924/Coronavirus
+Orange,059,Orange,https://occovid19.ochealthinfo.com/coronavirus-in-oc
+Placer,061,Placer,https://www.placer.ca.gov/coronavirus/cases
+Plumas,063,Plumas,https://www.plumascounty.us/2669/Novel-Coronavirus-2019-COVID-19
+Riverside,065,Riverside,https://www.rivcoph.org/coronavirus
+Sacramento,067,Sacramento,https://sac-epidemiology.maps.arcgis.com/apps/MapSeries/index.html?appid=e11bc926165742ab99f834079f618dad
+San Benito,069,San Benito,https://cosb.maps.arcgis.com/apps/opsdashboard/index.html#/1b049e2ea65043baafcf5361b5b07ddd
+San Bernardino,071,San Bernardino,https://sbcph.maps.arcgis.com/apps/opsdashboard/index.html#/44bb35c804c44c8281da6d82ee602dff
+San Diego,073,San Diego,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html
+San Francisco,075,San Francisco,https://www.sfdph.org/dph/alerts/coronavirus.asp
+San Joaquin,077,San Joaquin,https://experience.arcgis.com/experience/4ec4f8e1dfd142998d1732c7f5c79e45
+San Luis Obispo,079,San Luis Obispo,https://www.emergencyslo.org/en/positive-case-details.aspx
+San Mateo,081,San Mateo,https://www.smchealth.org/post/san-mateo-county-covid-19-data-1
+Santa Barbara,083,Santa Barbara,https://publichealthsbc.org/status-reports/
+Santa Clara,085,Santa Clara,https://www.sccgov.org/sites/covid19/Pages/dashboard.aspx
+Santa Cruz,087,Santa Cruz,https://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/CoronavirusHome.aspx
+Shasta,089,Shasta,https://www.co.shasta.ca.us/ready/covid-19/data
+Sierra,091,Sierra,http://sierracounty.ca.gov/582/Coronavirus-COVID-19
+Siskiyou,093,Siskiyou,https://experience.arcgis.com/experience/260818b0e9554c199bc369aa955183a9
+Solano,095,Solano,https://doitgis.maps.arcgis.com/apps/MapSeries/index.html?appid=055f81e9fe154da5860257e3f2489d67
+Sonoma,097,Sonoma,https://socoemergency.org/emergency/novel-coronavirus/coronavirus-cases/
+Stanislaus,099,Stanislaus,https://experience.arcgis.com/experience/c29aa0c6a84844ceab6601da4b124c0b
+Sutter,101,Sutter,https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus
+Tehama,103,Tehama,https://www.tehamacohealthservices.net/services/communicable-diseases/
+Trinity,105,Trinity,https://www.trinitycounty.org/COVID-19/
+Tulare,107,Tulare,https://tchhsa.org/eng/index.cfm/public-health/covid-19-updates-novel-coronavirus/
+Tuolumne,109,Tuolumne,https://www.tuolumnecounty.ca.gov/250/Public-Health
+Ventura,111,Ventura,https://www.venturacountyrecovers.org/
+Yolo,113,Yolo,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019/dashboard-and-documents
+Yuba,115,Yuba,https://www.suttercounty.org/doc/government/depts/cao/em/coronavirus
