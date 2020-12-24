@@ -19,7 +19,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Lint notebooks
-        run: pipenv run jupyter nbconvert ./**/*.ipynb --to=html --stdout > /dev/null
+        run: jupyter nbconvert ./**/*.ipynb --to=html --stdout > /dev/null
 
       - name: Run notebooks
-        run: pipenv run python run.py notebooks/examples.ipynb 
+        run: python run.py notebooks/examples.ipynb 
