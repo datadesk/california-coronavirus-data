@@ -1,4 +1,4 @@
-name: Jupyer Notebook tests
+name: Notebook tests
 
 on: [push, pull_request]
 
