@@ -1,7 +1,7 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
 Alameda,Alameda,001,2020-12-22,42899,600,,
 Berkeley,Alameda,001,2020-12-22,1724,9,,
-Alpine,Alpine,003,2020-12-22,65,0,62,True
+Alpine,Alpine,003,2020-12-22,64,0,61,True
 Amador,Amador,005,2020-12-22,2115,23,1298,
 Butte,Butte,007,2020-12-22,6473,83,5536,
 Calaveras,Calaveras,009,2020-12-22,754,22,604,
@@ -62,7 +62,7 @@ Yolo,Yolo,113,2020-12-22,7234,108,4333,
 Yuba,Yuba,115,2020-12-22,3492,16,2911,
 Alameda,Alameda,001,2020-12-21,42022,579,,
 Berkeley,Alameda,001,2020-12-21,1714,9,,
-Alpine,Alpine,003,2020-12-21,65,0,62,
+Alpine,Alpine,003,2020-12-21,64,0,61,
 Amador,Amador,005,2020-12-21,2081,23,1238,
 Butte,Butte,007,2020-12-21,6344,83,5486,
 Calaveras,Calaveras,009,2020-12-21,722,22,584,True
@@ -123,7 +123,7 @@ Yolo,Yolo,113,2020-12-21,7100,104,4333,
 Yuba,Yuba,115,2020-12-21,3422,15,2852,
 Alameda,Alameda,001,2020-12-20,41022,578,,
 Berkeley,Alameda,001,2020-12-20,1633,9,,
-Alpine,Alpine,003,2020-12-20,65,0,62,
+Alpine,Alpine,003,2020-12-20,64,0,61,
 Amador,Amador,005,2020-12-20,2043,23,1183,
 Butte,Butte,007,2020-12-20,5906,78,5036,True
 Calaveras,Calaveras,009,2020-12-20,722,22,584,True
@@ -184,7 +184,7 @@ Yolo,Yolo,113,2020-12-20,7019,104,4337,
 Yuba,Yuba,115,2020-12-20,3260,15,2641,True
 Alameda,Alameda,001,2020-12-19,40396,576,,
 Berkeley,Alameda,001,2020-12-19,1631,9,,True
-Alpine,Alpine,003,2020-12-19,65,0,62,
+Alpine,Alpine,003,2020-12-19,64,0,61,
 Amador,Amador,005,2020-12-19,1943,23,1148,
 Butte,Butte,007,2020-12-19,5906,78,5036,True
 Calaveras,Calaveras,009,2020-12-19,722,22,584,True
