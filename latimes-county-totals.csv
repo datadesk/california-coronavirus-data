@@ -1,7 +1,7 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-25,Alameda,001,46583,619,0,0
 2020-12-25,Alpine,003,64,0,0,0
-2020-12-25,Amador,005,2189,23,0,0
+2020-12-25,Amador,005,2219,23,30,0
 2020-12-25,Butte,007,6584,83,0,0
 2020-12-25,Calaveras,009,754,22,0,0
 2020-12-25,Colusa,011,1214,8,0,0
@@ -12,7 +12,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-25,Glenn,021,1336,14,0,0
 2020-12-25,Humboldt,023,1539,17,0,0
 2020-12-25,Imperial,025,21241,406,0,0
-2020-12-25,Inyo,027,547,20,0,0
+2020-12-25,Inyo,027,575,20,28,0
 2020-12-25,Kern,029,63044,485,605,0
 2020-12-25,Kings,031,15491,110,249,0
 2020-12-25,Lake,033,1688,23,62,0
@@ -24,7 +24,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-25,Mendocino,045,2314,25,0,0
 2020-12-25,Merced,047,17785,232,0,0
 2020-12-25,Modoc,049,293,0,0,0
-2020-12-25,Mono,051,836,4,0,0
+2020-12-25,Mono,051,857,4,21,0
 2020-12-25,Monterey,053,24538,185,0,0
 2020-12-25,Napa,055,5091,26,0,0
 2020-12-25,Nevada,057,2415,44,0,0
@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-25,Sierra,091,34,0,0,0
 2020-12-25,Siskiyou,093,1076,8,0,0
 2020-12-25,Solano,095,17330,95,0,0
-2020-12-25,Sonoma,097,17723,181,0,0
+2020-12-25,Sonoma,097,17903,181,180,0
 2020-12-25,Stanislaus,099,31914,565,0,0
 2020-12-25,Sutter,101,6037,46,0,0
 2020-12-25,Tehama,103,3017,34,50,0
