@@ -22,7 +22,7 @@ Long Beach,Los Angeles,037,2020-12-25,28460,347,20383,True
 Los Angeles,Los Angeles,037,2020-12-25,643688,8808,,True
 Pasadena,Los Angeles,037,2020-12-25,5892,150,,True
 Madera,Madera,039,2020-12-25,9305,116,6360,True
-Marin,Marin,041,2020-12-25,9305,136,8274,True
+Marin,Marin,041,2020-12-25,9449,136,8387,
 Mariposa,Mariposa,043,2020-12-25,212,4,189,True
 Mendocino,Mendocino,045,2020-12-25,2314,25,2051,True
 Merced,Merced,047,2020-12-25,17785,232,13773,True
@@ -58,7 +58,7 @@ Trinity,Trinity,105,2020-12-25,265,2,244,True
 Tulare,Tulare,107,2020-12-25,30422,373,24622,True
 Tuolumne,Tuolumne,109,2020-12-25,2704,21,1604,True
 Ventura,Ventura,111,2020-12-25,33401,233,30099,True
-Yolo,Yolo,113,2020-12-25,7501,110,4330,True
+Yolo,Yolo,113,2020-12-25,7501,109,4330,True
 Yuba,Yuba,115,2020-12-25,3628,17,2984,True
 Alameda,Alameda,001,2020-12-24,44822,610,,
 Berkeley,Alameda,001,2020-12-24,1761,9,,
@@ -119,7 +119,7 @@ Trinity,Trinity,105,2020-12-24,265,2,244,True
 Tulare,Tulare,107,2020-12-24,30422,373,24622,True
 Tuolumne,Tuolumne,109,2020-12-24,2704,21,1604,
 Ventura,Ventura,111,2020-12-24,33401,233,30099,
-Yolo,Yolo,113,2020-12-24,7501,110,4330,
+Yolo,Yolo,113,2020-12-24,7501,109,4330,
 Yuba,Yuba,115,2020-12-24,3628,17,2984,
 Alameda,Alameda,001,2020-12-23,43586,607,,
 Berkeley,Alameda,001,2020-12-23,1745,9,,

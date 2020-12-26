@@ -19,7 +19,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-25,Lassen,035,4180,8,0,0
 2020-12-25,Los Angeles,037,678040,9305,0,0
 2020-12-25,Madera,039,9305,116,0,0
-2020-12-25,Marin,041,9305,136,0,0
+2020-12-25,Marin,041,9449,136,144,0
 2020-12-25,Mariposa,043,212,4,0,0
 2020-12-25,Mendocino,045,2314,25,0,0
 2020-12-25,Merced,047,17785,232,0,0
@@ -55,7 +55,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-25,Tulare,107,30422,373,0,0
 2020-12-25,Tuolumne,109,2704,21,0,0
 2020-12-25,Ventura,111,33401,233,0,0
-2020-12-25,Yolo,113,7501,110,0,0
+2020-12-25,Yolo,113,7501,109,0,0
 2020-12-25,Yuba,115,3628,17,0,0
 2020-12-24,Alameda,001,46583,619,1252,3
 2020-12-24,Alpine,003,64,0,0,0
@@ -113,7 +113,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-24,Tulare,107,30422,373,0,0
 2020-12-24,Tuolumne,109,2704,21,20,0
 2020-12-24,Ventura,111,33401,233,506,9
-2020-12-24,Yolo,113,7501,110,161,2
+2020-12-24,Yolo,113,7501,109,161,1
 2020-12-24,Yuba,115,3628,17,74,0
 2020-12-23,Alameda,001,45331,616,708,7
 2020-12-23,Alpine,003,64,0,0,0
