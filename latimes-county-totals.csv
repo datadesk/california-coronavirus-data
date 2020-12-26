@@ -1,6 +1,6 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-25,Alameda,001,46583,619,0,0
-2020-12-25,Alpine,003,64,0,0,0
+2020-12-25,Alpine,003,65,0,1,0
 2020-12-25,Amador,005,2219,23,30,0
 2020-12-25,Butte,007,6584,83,0,0
 2020-12-25,Calaveras,009,754,22,0,0

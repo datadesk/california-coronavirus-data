@@ -1,7 +1,7 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
 Alameda,Alameda,001,2020-12-25,44822,610,,True
 Berkeley,Alameda,001,2020-12-25,1761,9,,True
-Alpine,Alpine,003,2020-12-25,64,0,61,True
+Alpine,Alpine,003,2020-12-25,65,0,61,True
 Amador,Amador,005,2020-12-25,2219,23,1633,
 Butte,Butte,007,2020-12-25,6584,83,5582,True
 Calaveras,Calaveras,009,2020-12-25,754,22,604,True
