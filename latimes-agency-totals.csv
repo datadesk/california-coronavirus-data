@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2020-12-25,44822,610,,True
+Berkeley,Alameda,001,2020-12-25,1761,9,,True
+Alpine,Alpine,003,2020-12-25,64,0,61,True
+Amador,Amador,005,2020-12-25,2189,23,1633,True
+Butte,Butte,007,2020-12-25,6584,83,5582,True
+Calaveras,Calaveras,009,2020-12-25,754,22,604,True
+Colusa,Colusa,011,2020-12-25,1214,8,949,True
+Contra Costa,Contra Costa,013,2020-12-25,37610,321,31041,
+Del Norte,Del Norte,015,2020-12-25,695,2,584,True
+El Dorado,El Dorado,017,2020-12-25,5095,13,3366,True
+Fresno,Fresno,019,2020-12-25,60488,646,26742,True
+Glenn,Glenn,021,2020-12-25,1336,14,1188,True
+Humboldt,Humboldt,023,2020-12-25,1539,17,1056,True
+Imperial,Imperial,025,2020-12-25,21241,406,18965,True
+Inyo,Inyo,027,2020-12-25,547,20,381,True
+Kern,Kern,029,2020-12-25,63044,485,19831,
+Kings,Kings,031,2020-12-25,15491,110,9804,
+Lake,Lake,033,2020-12-25,1688,23,1399,
+Lassen,Lassen,035,2020-12-25,4180,8,3234,True
+Long Beach,Los Angeles,037,2020-12-25,28460,347,20383,True
+Los Angeles,Los Angeles,037,2020-12-25,643688,8808,,True
+Pasadena,Los Angeles,037,2020-12-25,5892,150,,True
+Madera,Madera,039,2020-12-25,9305,116,6360,True
+Marin,Marin,041,2020-12-25,9305,136,8274,True
+Mariposa,Mariposa,043,2020-12-25,212,4,189,True
+Mendocino,Mendocino,045,2020-12-25,2314,25,2051,True
+Merced,Merced,047,2020-12-25,17785,232,13773,True
+Modoc,Modoc,049,2020-12-25,293,0,219,True
+Mono,Mono,051,2020-12-25,836,4,,True
+Monterey,Monterey,053,2020-12-25,24538,185,12814,True
+Napa,Napa,055,2020-12-25,5091,26,1890,True
+Nevada,Nevada,057,2020-12-25,2415,44,1852,True
+Orange,Orange,059,2020-12-25,138310,1782,77459,True
+Placer,Placer,061,2020-12-25,12262,120,8698,True
+Plumas,Plumas,063,2020-12-25,443,2,362,True
+Riverside,Riverside,065,2020-12-25,158110,1829,74802,
+Sacramento,Sacramento,067,2020-12-25,59770,809,42934,True
+San Benito,San Benito,069,2020-12-25,3288,26,2688,
+San Bernardino,San Bernardino,071,2020-12-25,174091,1420,145276,True
+San Diego,San Diego,073,2020-12-25,139961,1402,,
+San Francisco,San Francisco,075,2020-12-25,21709,181,,
+San Joaquin,San Joaquin,077,2020-12-25,41104,618,34411,True
+San Luis Obispo,San Luis Obispo,079,2020-12-25,9471,67,7063,True
+San Mateo,San Mateo,081,2020-12-25,22241,212,,True
+Santa Barbara,Santa Barbara,083,2020-12-25,15657,151,14235,True
+Santa Clara,Santa Clara,085,2020-12-25,61090,643,,True
+Santa Cruz,Santa Cruz,087,2020-12-25,7352,76,5316,True
+Shasta,Shasta,089,2020-12-25,7567,70,6901,True
+Sierra,Sierra,091,2020-12-25,34,0,32,True
+Siskiyou,Siskiyou,093,2020-12-25,1076,8,1000,True
+Solano,Solano,095,2020-12-25,17330,95,15562,True
+Sonoma,Sonoma,097,2020-12-25,17723,181,12351,True
+Stanislaus,Stanislaus,099,2020-12-25,31914,565,27257,True
+Sutter,Sutter,101,2020-12-25,6037,46,5255,True
+Tehama,Tehama,103,2020-12-25,3017,34,1868,
+Trinity,Trinity,105,2020-12-25,265,2,244,True
+Tulare,Tulare,107,2020-12-25,30422,373,24622,True
+Tuolumne,Tuolumne,109,2020-12-25,2704,21,1604,True
+Ventura,Ventura,111,2020-12-25,33401,233,30099,True
+Yolo,Yolo,113,2020-12-25,7501,110,4330,True
+Yuba,Yuba,115,2020-12-25,3628,17,2984,True
 Alameda,Alameda,001,2020-12-24,44822,610,,
 Berkeley,Alameda,001,2020-12-24,1761,9,,
 Alpine,Alpine,003,2020-12-24,64,0,61,True
