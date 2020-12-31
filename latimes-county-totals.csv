@@ -43,7 +43,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-29,Santa Barbara,083,16732,156,256,3
 2020-12-29,Santa Clara,085,67423,673,1153,21
 2020-12-29,Santa Cruz,087,8202,83,0,0
-2020-12-29,Shasta,089,7918,73,126,3
+2020-12-29,Shasta,089,7707,73,0,3
 2020-12-29,Sierra,091,41,0,3,0
 2020-12-29,Siskiyou,093,1132,10,21,1
 2020-12-29,Solano,095,18726,98,208,3
@@ -101,7 +101,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-28,Santa Barbara,083,16476,153,211,0
 2020-12-28,Santa Clara,085,66270,652,1296,0
 2020-12-28,Santa Cruz,087,8202,83,850,7
-2020-12-28,Shasta,089,7792,70,225,0
+2020-12-28,Shasta,089,7707,70,140,0
 2020-12-28,Sierra,091,38,0,4,0
 2020-12-28,Siskiyou,093,1111,9,35,1
 2020-12-28,Solano,095,18518,95,1188,0
