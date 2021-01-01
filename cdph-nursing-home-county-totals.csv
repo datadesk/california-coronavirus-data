@@ -3,7 +3,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-05,Butte,007,1,1,0,0
 2020-06-05,Contra Costa,013,71,105,3,5
 2020-06-05,El Dorado,017,1,0,0,0
-2020-06-05,Fresno,019,42,117,1,26
+2020-06-05,Fresno,019,43,118,2,27
 2020-06-05,Humboldt,023,2,2,1,2
 2020-06-05,Imperial,025,18,3,1,1
 2020-06-05,Kern,029,80,111,0,20
@@ -32,7 +32,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-05,Shasta,089,2,1,0,1
 2020-06-05,Solano,095,35,98,0,11
 2020-06-05,Sonoma,097,3,1,1,1
-2020-06-05,Stanislaus,099,62,106,1,24
+2020-06-05,Stanislaus,099,61,105,0,23
 2020-06-05,Tulare,107,162,368,1,35
 2020-06-05,Ventura,111,33,7,0,2
 2020-06-05,Yolo,113,14,32,1,15
@@ -40,7 +40,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-06,Butte,007,1,1,0,0
 2020-06-06,Contra Costa,013,71,110,3,5
 2020-06-06,El Dorado,017,1,0,0,0
-2020-06-06,Fresno,019,42,117,1,26
+2020-06-06,Fresno,019,43,118,2,27
 2020-06-06,Humboldt,023,2,2,1,2
 2020-06-06,Imperial,025,18,3,1,1
 2020-06-06,Kern,029,81,111,0,20
@@ -69,7 +69,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-06,Shasta,089,2,1,0,1
 2020-06-06,Solano,095,35,98,0,11
 2020-06-06,Sonoma,097,4,1,1,1
-2020-06-06,Stanislaus,099,62,106,1,24
+2020-06-06,Stanislaus,099,61,105,0,23
 2020-06-06,Tulare,107,162,368,1,35
 2020-06-06,Ventura,111,33,7,0,2
 2020-06-06,Yolo,113,14,32,1,15
@@ -77,7 +77,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-07,Butte,007,1,1,0,0
 2020-06-07,Contra Costa,013,71,117,3,6
 2020-06-07,El Dorado,017,1,0,0,0
-2020-06-07,Fresno,019,43,117,2,27
+2020-06-07,Fresno,019,44,118,3,28
 2020-06-07,Humboldt,023,2,2,1,2
 2020-06-07,Imperial,025,18,3,1,1
 2020-06-07,Kern,029,83,111,0,20
@@ -106,7 +106,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-07,Shasta,089,2,1,0,1
 2020-06-07,Solano,095,35,98,0,11
 2020-06-07,Sonoma,097,4,1,1,1
-2020-06-07,Stanislaus,099,62,106,1,24
+2020-06-07,Stanislaus,099,61,105,0,23
 2020-06-07,Tulare,107,163,376,1,35
 2020-06-07,Ventura,111,34,7,0,2
 2020-06-07,Yolo,113,14,32,1,15
@@ -114,7 +114,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-08,Butte,007,2,1,0,0
 2020-06-08,Contra Costa,013,71,120,3,6
 2020-06-08,El Dorado,017,1,0,0,0
-2020-06-08,Fresno,019,43,118,2,27
+2020-06-08,Fresno,019,44,119,3,28
 2020-06-08,Humboldt,023,2,2,1,2
 2020-06-08,Imperial,025,19,3,1,1
 2020-06-08,Kern,029,83,111,0,20
@@ -143,7 +143,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-08,Shasta,089,2,1,0,1
 2020-06-08,Solano,095,35,98,0,11
 2020-06-08,Sonoma,097,4,1,1,1
-2020-06-08,Stanislaus,099,62,106,1,24
+2020-06-08,Stanislaus,099,61,105,0,23
 2020-06-08,Tulare,107,179,376,1,35
 2020-06-08,Ventura,111,35,30,0,3
 2020-06-08,Yolo,113,14,32,1,15
@@ -151,7 +151,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-09,Butte,007,2,2,0,0
 2020-06-09,Contra Costa,013,71,128,3,6
 2020-06-09,El Dorado,017,1,0,0,0
-2020-06-09,Fresno,019,43,118,2,30
+2020-06-09,Fresno,019,44,119,3,31
 2020-06-09,Humboldt,023,2,2,1,2
 2020-06-09,Imperial,025,20,3,1,1
 2020-06-09,Kern,029,84,114,0,20
@@ -180,7 +180,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-09,Shasta,089,2,2,0,1
 2020-06-09,Solano,095,35,98,0,11
 2020-06-09,Sonoma,097,4,1,1,1
-2020-06-09,Stanislaus,099,62,106,1,24
+2020-06-09,Stanislaus,099,61,105,0,23
 2020-06-09,Tulare,107,179,376,1,35
 2020-06-09,Ventura,111,35,30,0,3
 2020-06-09,Yolo,113,14,32,1,15
@@ -188,7 +188,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-10,Butte,007,2,2,0,0
 2020-06-10,Contra Costa,013,71,130,3,6
 2020-06-10,El Dorado,017,1,0,0,0
-2020-06-10,Fresno,019,43,118,2,31
+2020-06-10,Fresno,019,44,119,3,32
 2020-06-10,Humboldt,023,2,2,1,2
 2020-06-10,Imperial,025,20,3,1,1
 2020-06-10,Kern,029,84,114,0,20
@@ -217,7 +217,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-10,Shasta,089,2,2,0,1
 2020-06-10,Solano,095,35,98,0,11
 2020-06-10,Sonoma,097,5,1,1,1
-2020-06-10,Stanislaus,099,62,106,1,24
+2020-06-10,Stanislaus,099,61,105,0,23
 2020-06-10,Sutter,101,1,0,0,0
 2020-06-10,Tulare,107,179,376,1,35
 2020-06-10,Ventura,111,35,31,0,3
@@ -226,7 +226,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-11,Butte,007,2,2,0,0
 2020-06-11,Contra Costa,013,71,131,3,6
 2020-06-11,El Dorado,017,1,0,0,0
-2020-06-11,Fresno,019,43,142,2,31
+2020-06-11,Fresno,019,44,143,3,32
 2020-06-11,Humboldt,023,2,2,1,2
 2020-06-11,Imperial,025,20,3,1,1
 2020-06-11,Kern,029,84,115,0,20
@@ -255,7 +255,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-11,Shasta,089,2,2,0,1
 2020-06-11,Solano,095,36,98,0,11
 2020-06-11,Sonoma,097,6,1,1,1
-2020-06-11,Stanislaus,099,62,106,1,24
+2020-06-11,Stanislaus,099,61,105,0,23
 2020-06-11,Sutter,101,1,0,0,0
 2020-06-11,Tulare,107,182,389,1,35
 2020-06-11,Tuolumne,109,1,0,0,0
@@ -265,7 +265,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-12,Butte,007,2,2,0,0
 2020-06-12,Contra Costa,013,71,129,3,6
 2020-06-12,El Dorado,017,1,0,0,0
-2020-06-12,Fresno,019,45,143,2,32
+2020-06-12,Fresno,019,46,144,3,33
 2020-06-12,Humboldt,023,2,2,1,2
 2020-06-12,Imperial,025,20,3,1,1
 2020-06-12,Kern,029,84,115,0,20
@@ -294,7 +294,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-12,Shasta,089,2,2,0,1
 2020-06-12,Solano,095,36,98,0,11
 2020-06-12,Sonoma,097,6,1,1,1
-2020-06-12,Stanislaus,099,62,107,1,25
+2020-06-12,Stanislaus,099,61,106,0,24
 2020-06-12,Sutter,101,1,0,0,0
 2020-06-12,Tulare,107,189,389,1,35
 2020-06-12,Tuolumne,109,1,0,0,0
@@ -304,7 +304,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-13,Butte,007,2,2,0,0
 2020-06-13,Contra Costa,013,71,129,3,6
 2020-06-13,El Dorado,017,1,0,0,0
-2020-06-13,Fresno,019,47,143,2,32
+2020-06-13,Fresno,019,48,144,3,33
 2020-06-13,Humboldt,023,2,2,1,2
 2020-06-13,Imperial,025,21,3,1,1
 2020-06-13,Kern,029,85,116,0,20
@@ -333,7 +333,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-13,Shasta,089,2,2,0,1
 2020-06-13,Solano,095,36,98,0,11
 2020-06-13,Sonoma,097,6,2,1,1
-2020-06-13,Stanislaus,099,62,107,1,25
+2020-06-13,Stanislaus,099,61,106,0,24
 2020-06-13,Sutter,101,1,0,0,0
 2020-06-13,Tulare,107,193,392,1,45
 2020-06-13,Tuolumne,109,1,0,0,0
@@ -343,7 +343,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-14,Butte,007,2,2,0,0
 2020-06-14,Contra Costa,013,71,129,3,6
 2020-06-14,El Dorado,017,1,0,0,0
-2020-06-14,Fresno,019,47,143,2,32
+2020-06-14,Fresno,019,48,144,3,33
 2020-06-14,Humboldt,023,2,2,1,2
 2020-06-14,Imperial,025,21,3,1,1
 2020-06-14,Kern,029,85,116,0,21
@@ -372,7 +372,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-14,Shasta,089,2,2,0,1
 2020-06-14,Solano,095,36,98,0,11
 2020-06-14,Sonoma,097,6,2,1,1
-2020-06-14,Stanislaus,099,62,107,1,25
+2020-06-14,Stanislaus,099,61,106,0,24
 2020-06-14,Sutter,101,1,0,0,0
 2020-06-14,Tulare,107,193,392,1,45
 2020-06-14,Tuolumne,109,1,0,0,0
@@ -382,7 +382,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-15,Butte,007,2,2,0,0
 2020-06-15,Contra Costa,013,71,129,3,6
 2020-06-15,El Dorado,017,1,0,0,0
-2020-06-15,Fresno,019,47,143,2,32
+2020-06-15,Fresno,019,48,144,3,33
 2020-06-15,Humboldt,023,2,2,1,2
 2020-06-15,Imperial,025,37,3,1,1
 2020-06-15,Kern,029,85,116,0,21
@@ -411,7 +411,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-15,Shasta,089,2,2,0,1
 2020-06-15,Solano,095,36,98,0,11
 2020-06-15,Sonoma,097,6,2,1,1
-2020-06-15,Stanislaus,099,62,107,1,25
+2020-06-15,Stanislaus,099,61,106,0,24
 2020-06-15,Sutter,101,1,0,0,0
 2020-06-15,Tulare,107,194,393,1,45
 2020-06-15,Tuolumne,109,1,0,0,0
@@ -421,7 +421,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-16,Butte,007,2,2,0,0
 2020-06-16,Contra Costa,013,71,129,3,6
 2020-06-16,El Dorado,017,1,0,0,0
-2020-06-16,Fresno,019,49,143,2,33
+2020-06-16,Fresno,019,50,144,3,34
 2020-06-16,Humboldt,023,2,2,1,2
 2020-06-16,Imperial,025,46,3,1,1
 2020-06-16,Kern,029,85,116,0,21
@@ -450,7 +450,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-16,Shasta,089,2,2,0,1
 2020-06-16,Solano,095,36,98,0,11
 2020-06-16,Sonoma,097,6,2,1,1
-2020-06-16,Stanislaus,099,62,107,1,25
+2020-06-16,Stanislaus,099,61,106,0,24
 2020-06-16,Sutter,101,1,0,0,0
 2020-06-16,Tulare,107,197,394,1,45
 2020-06-16,Tuolumne,109,1,0,0,0
@@ -460,7 +460,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-17,Butte,007,2,2,0,0
 2020-06-17,Contra Costa,013,71,130,3,6
 2020-06-17,El Dorado,017,1,0,0,0
-2020-06-17,Fresno,019,49,143,2,33
+2020-06-17,Fresno,019,50,144,3,34
 2020-06-17,Humboldt,023,2,2,1,2
 2020-06-17,Imperial,025,46,3,1,2
 2020-06-17,Kern,029,85,117,0,21
@@ -489,7 +489,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-17,Shasta,089,2,2,0,1
 2020-06-17,Solano,095,36,98,0,11
 2020-06-17,Sonoma,097,6,3,1,1
-2020-06-17,Stanislaus,099,63,124,1,25
+2020-06-17,Stanislaus,099,62,123,0,24
 2020-06-17,Sutter,101,1,0,0,0
 2020-06-17,Tulare,107,197,394,1,46
 2020-06-17,Tuolumne,109,1,0,0,0
@@ -499,7 +499,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-18,Butte,007,2,2,0,0
 2020-06-18,Contra Costa,013,81,140,3,6
 2020-06-18,El Dorado,017,1,0,0,0
-2020-06-18,Fresno,019,49,143,2,35
+2020-06-18,Fresno,019,50,144,3,36
 2020-06-18,Humboldt,023,2,2,1,2
 2020-06-18,Imperial,025,48,13,1,2
 2020-06-18,Kern,029,85,140,0,21
@@ -528,7 +528,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-18,Shasta,089,2,2,0,1
 2020-06-18,Solano,095,36,98,0,11
 2020-06-18,Sonoma,097,6,3,1,1
-2020-06-18,Stanislaus,099,64,124,1,25
+2020-06-18,Stanislaus,099,63,123,0,24
 2020-06-18,Sutter,101,1,0,0,0
 2020-06-18,Tulare,107,208,395,1,47
 2020-06-18,Tuolumne,109,1,0,0,0
@@ -538,7 +538,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-19,Butte,007,3,2,0,0
 2020-06-19,Contra Costa,013,84,144,3,6
 2020-06-19,El Dorado,017,1,0,0,0
-2020-06-19,Fresno,019,51,143,2,35
+2020-06-19,Fresno,019,52,144,3,36
 2020-06-19,Humboldt,023,2,2,1,2
 2020-06-19,Imperial,025,48,13,1,2
 2020-06-19,Kern,029,85,142,0,22
@@ -567,7 +567,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-19,Shasta,089,2,2,0,1
 2020-06-19,Solano,095,36,98,0,11
 2020-06-19,Sonoma,097,6,3,1,1
-2020-06-19,Stanislaus,099,64,124,1,25
+2020-06-19,Stanislaus,099,63,123,0,24
 2020-06-19,Sutter,101,1,0,0,0
 2020-06-19,Tulare,107,217,395,1,47
 2020-06-19,Tuolumne,109,1,0,0,0
@@ -577,7 +577,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-20,Butte,007,3,2,0,0
 2020-06-20,Contra Costa,013,86,149,3,18
 2020-06-20,El Dorado,017,1,0,0,0
-2020-06-20,Fresno,019,52,143,2,36
+2020-06-20,Fresno,019,53,144,3,37
 2020-06-20,Humboldt,023,2,2,1,2
 2020-06-20,Imperial,025,48,14,1,2
 2020-06-20,Kern,029,99,144,0,22
@@ -606,7 +606,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-20,Shasta,089,2,2,0,1
 2020-06-20,Solano,095,36,98,0,11
 2020-06-20,Sonoma,097,6,3,1,1
-2020-06-20,Stanislaus,099,65,124,1,25
+2020-06-20,Stanislaus,099,64,123,0,24
 2020-06-20,Sutter,101,1,0,0,0
 2020-06-20,Tulare,107,219,399,1,48
 2020-06-20,Tuolumne,109,1,0,0,0
@@ -616,7 +616,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-21,Butte,007,3,2,0,0
 2020-06-21,Contra Costa,013,86,162,4,19
 2020-06-21,El Dorado,017,1,0,0,0
-2020-06-21,Fresno,019,52,143,2,36
+2020-06-21,Fresno,019,53,144,3,37
 2020-06-21,Humboldt,023,2,2,1,2
 2020-06-21,Imperial,025,48,14,1,2
 2020-06-21,Kern,029,99,144,0,22
@@ -645,7 +645,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-21,Shasta,089,2,3,0,1
 2020-06-21,Solano,095,36,98,0,11
 2020-06-21,Sonoma,097,6,3,1,1
-2020-06-21,Stanislaus,099,65,124,1,25
+2020-06-21,Stanislaus,099,64,123,0,24
 2020-06-21,Sutter,101,1,0,0,0
 2020-06-21,Tulare,107,219,399,1,49
 2020-06-21,Tuolumne,109,1,0,0,0
@@ -655,7 +655,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-22,Butte,007,3,2,0,0
 2020-06-22,Contra Costa,013,86,180,4,19
 2020-06-22,El Dorado,017,1,1,0,0
-2020-06-22,Fresno,019,52,143,2,36
+2020-06-22,Fresno,019,53,144,3,37
 2020-06-22,Humboldt,023,2,2,1,2
 2020-06-22,Imperial,025,48,14,1,2
 2020-06-22,Kern,029,99,165,0,22
@@ -684,7 +684,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-22,Shasta,089,2,3,0,1
 2020-06-22,Solano,095,36,98,0,11
 2020-06-22,Sonoma,097,6,3,1,2
-2020-06-22,Stanislaus,099,66,124,1,25
+2020-06-22,Stanislaus,099,65,123,0,24
 2020-06-22,Sutter,101,1,0,0,0
 2020-06-22,Tulare,107,222,399,1,59
 2020-06-22,Tuolumne,109,1,0,0,0
@@ -694,7 +694,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-23,Butte,007,3,2,0,0
 2020-06-23,Contra Costa,013,86,182,4,22
 2020-06-23,El Dorado,017,1,1,0,0
-2020-06-23,Fresno,019,52,143,2,36
+2020-06-23,Fresno,019,53,144,3,37
 2020-06-23,Humboldt,023,2,2,1,2
 2020-06-23,Imperial,025,59,17,1,2
 2020-06-23,Kern,029,99,166,0,22
@@ -724,7 +724,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-23,Shasta,089,2,3,0,1
 2020-06-23,Solano,095,36,98,0,11
 2020-06-23,Sonoma,097,6,3,1,2
-2020-06-23,Stanislaus,099,66,124,1,25
+2020-06-23,Stanislaus,099,65,123,0,24
 2020-06-23,Sutter,101,1,0,0,0
 2020-06-23,Tulare,107,223,417,1,59
 2020-06-23,Tuolumne,109,1,0,0,0
@@ -734,7 +734,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-24,Butte,007,3,2,0,0
 2020-06-24,Contra Costa,013,86,195,4,23
 2020-06-24,El Dorado,017,1,1,0,0
-2020-06-24,Fresno,019,52,145,2,36
+2020-06-24,Fresno,019,53,146,3,37
 2020-06-24,Humboldt,023,2,2,1,2
 2020-06-24,Imperial,025,60,38,1,2
 2020-06-24,Kern,029,100,167,0,22
@@ -764,7 +764,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-24,Shasta,089,2,3,0,1
 2020-06-24,Solano,095,36,98,0,11
 2020-06-24,Sonoma,097,6,13,1,2
-2020-06-24,Stanislaus,099,66,124,1,26
+2020-06-24,Stanislaus,099,65,123,0,25
 2020-06-24,Sutter,101,1,0,0,0
 2020-06-24,Tulare,107,225,419,1,60
 2020-06-24,Tuolumne,109,1,0,0,0
@@ -774,7 +774,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-25,Butte,007,3,2,0,0
 2020-06-25,Contra Costa,013,89,198,4,25
 2020-06-25,El Dorado,017,1,1,0,0
-2020-06-25,Fresno,019,52,145,2,36
+2020-06-25,Fresno,019,53,146,3,37
 2020-06-25,Humboldt,023,2,2,1,2
 2020-06-25,Imperial,025,60,39,1,2
 2020-06-25,Kern,029,114,171,0,22
@@ -804,7 +804,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-25,Shasta,089,2,3,0,1
 2020-06-25,Solano,095,36,98,0,11
 2020-06-25,Sonoma,097,6,14,1,2
-2020-06-25,Stanislaus,099,66,124,1,27
+2020-06-25,Stanislaus,099,65,123,0,26
 2020-06-25,Sutter,101,1,0,0,0
 2020-06-25,Tulare,107,242,422,1,61
 2020-06-25,Tuolumne,109,1,0,0,0
@@ -814,7 +814,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-26,Butte,007,3,2,0,0
 2020-06-26,Contra Costa,013,102,198,4,27
 2020-06-26,El Dorado,017,1,1,0,0
-2020-06-26,Fresno,019,52,145,2,36
+2020-06-26,Fresno,019,53,146,3,37
 2020-06-26,Humboldt,023,2,2,1,2
 2020-06-26,Imperial,025,61,39,1,2
 2020-06-26,Kern,029,117,174,0,22
@@ -844,7 +844,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-26,Shasta,089,3,3,0,1
 2020-06-26,Solano,095,36,98,0,11
 2020-06-26,Sonoma,097,6,14,1,2
-2020-06-26,Stanislaus,099,67,124,1,27
+2020-06-26,Stanislaus,099,66,123,0,26
 2020-06-26,Sutter,101,1,0,0,0
 2020-06-26,Tulare,107,252,422,1,61
 2020-06-26,Tuolumne,109,1,0,0,0
@@ -854,7 +854,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-27,Butte,007,3,2,0,0
 2020-06-27,Contra Costa,013,106,205,4,27
 2020-06-27,El Dorado,017,2,1,0,0
-2020-06-27,Fresno,019,53,156,2,36
+2020-06-27,Fresno,019,54,157,3,37
 2020-06-27,Humboldt,023,2,2,1,2
 2020-06-27,Imperial,025,64,47,1,2
 2020-06-27,Kern,029,124,175,0,22
@@ -884,7 +884,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-27,Shasta,089,3,3,0,1
 2020-06-27,Solano,095,36,98,0,11
 2020-06-27,Sonoma,097,6,14,1,2
-2020-06-27,Stanislaus,099,84,125,1,28
+2020-06-27,Stanislaus,099,83,124,0,27
 2020-06-27,Sutter,101,1,0,0,0
 2020-06-27,Tulare,107,257,423,1,62
 2020-06-27,Tuolumne,109,1,0,0,0
@@ -894,7 +894,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-28,Butte,007,3,2,0,0
 2020-06-28,Contra Costa,013,107,216,4,27
 2020-06-28,El Dorado,017,2,1,0,0
-2020-06-28,Fresno,019,56,158,2,36
+2020-06-28,Fresno,019,57,159,3,37
 2020-06-28,Humboldt,023,2,2,1,2
 2020-06-28,Imperial,025,70,47,1,2
 2020-06-28,Kern,029,127,176,0,22
@@ -924,7 +924,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-28,Shasta,089,3,3,0,1
 2020-06-28,Solano,095,36,98,0,11
 2020-06-28,Sonoma,097,6,19,1,2
-2020-06-28,Stanislaus,099,67,133,1,28
+2020-06-28,Stanislaus,099,66,132,0,27
 2020-06-28,Sutter,101,1,0,0,0
 2020-06-28,Tulare,107,257,424,1,62
 2020-06-28,Tuolumne,109,2,0,0,0
@@ -934,7 +934,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-29,Butte,007,3,2,0,0
 2020-06-29,Contra Costa,013,110,227,4,27
 2020-06-29,El Dorado,017,2,1,0,0
-2020-06-29,Fresno,019,56,158,2,36
+2020-06-29,Fresno,019,57,159,3,37
 2020-06-29,Humboldt,023,2,2,1,2
 2020-06-29,Imperial,025,77,60,1,2
 2020-06-29,Kern,029,128,177,0,22
@@ -964,7 +964,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-29,Shasta,089,3,3,0,1
 2020-06-29,Solano,095,36,98,0,11
 2020-06-29,Sonoma,097,6,20,1,2
-2020-06-29,Stanislaus,099,67,133,1,28
+2020-06-29,Stanislaus,099,66,132,0,27
 2020-06-29,Sutter,101,1,0,0,0
 2020-06-29,Tulare,107,258,425,1,62
 2020-06-29,Tuolumne,109,2,0,0,0
@@ -974,7 +974,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-30,Butte,007,3,2,0,0
 2020-06-30,Contra Costa,013,114,235,4,27
 2020-06-30,El Dorado,017,2,1,0,0
-2020-06-30,Fresno,019,56,158,2,36
+2020-06-30,Fresno,019,57,159,3,37
 2020-06-30,Humboldt,023,2,2,1,2
 2020-06-30,Imperial,025,84,93,1,2
 2020-06-30,Kern,029,128,199,0,22
@@ -1004,7 +1004,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-30,Shasta,089,3,3,0,1
 2020-06-30,Solano,095,36,98,0,11
 2020-06-30,Sonoma,097,6,24,1,2
-2020-06-30,Stanislaus,099,67,133,1,28
+2020-06-30,Stanislaus,099,66,132,0,27
 2020-06-30,Sutter,101,2,0,0,0
 2020-06-30,Tulare,107,260,425,1,62
 2020-06-30,Tuolumne,109,2,0,0,0
@@ -1014,7 +1014,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-01,Butte,007,3,2,0,0
 2020-07-01,Contra Costa,013,115,235,4,27
 2020-07-01,El Dorado,017,2,1,0,0
-2020-07-01,Fresno,019,58,160,2,36
+2020-07-01,Fresno,019,59,161,3,37
 2020-07-01,Humboldt,023,2,2,1,2
 2020-07-01,Imperial,025,85,96,1,2
 2020-07-01,Kern,029,128,201,0,22
@@ -1044,7 +1044,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-01,Shasta,089,3,3,0,1
 2020-07-01,Solano,095,36,98,0,11
 2020-07-01,Sonoma,097,7,24,1,2
-2020-07-01,Stanislaus,099,67,133,1,28
+2020-07-01,Stanislaus,099,66,132,0,27
 2020-07-01,Sutter,101,2,0,0,0
 2020-07-01,Tulare,107,260,470,1,62
 2020-07-01,Tuolumne,109,2,0,0,0
@@ -1054,7 +1054,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-02,Butte,007,3,2,0,0
 2020-07-02,Contra Costa,013,118,242,4,27
 2020-07-02,El Dorado,017,2,1,0,0
-2020-07-02,Fresno,019,58,160,2,36
+2020-07-02,Fresno,019,59,161,3,37
 2020-07-02,Humboldt,023,2,2,1,2
 2020-07-02,Imperial,025,86,96,1,2
 2020-07-02,Kern,029,134,217,0,22
@@ -1084,7 +1084,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-02,Shasta,089,3,3,0,1
 2020-07-02,Solano,095,36,98,0,11
 2020-07-02,Sonoma,097,7,24,1,2
-2020-07-02,Stanislaus,099,69,133,1,28
+2020-07-02,Stanislaus,099,68,132,0,27
 2020-07-02,Sutter,101,2,0,0,0
 2020-07-02,Tulare,107,262,470,1,62
 2020-07-02,Tuolumne,109,2,0,0,0
@@ -1095,7 +1095,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-03,Butte,007,3,2,0,0
 2020-07-03,Contra Costa,013,123,242,4,27
 2020-07-03,El Dorado,017,2,1,0,0
-2020-07-03,Fresno,019,58,160,2,36
+2020-07-03,Fresno,019,59,161,3,37
 2020-07-03,Humboldt,023,2,2,1,2
 2020-07-03,Imperial,025,88,96,1,2
 2020-07-03,Kern,029,135,227,0,22
@@ -1125,7 +1125,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-03,Shasta,089,3,3,0,1
 2020-07-03,Solano,095,36,98,0,11
 2020-07-03,Sonoma,097,9,25,1,2
-2020-07-03,Stanislaus,099,69,140,1,28
+2020-07-03,Stanislaus,099,68,139,0,27
 2020-07-03,Sutter,101,2,0,0,0
 2020-07-03,Tulare,107,263,470,1,62
 2020-07-03,Tuolumne,109,2,0,0,0
@@ -1137,7 +1137,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-04,Colusa,011,1,0,0,0
 2020-07-04,Contra Costa,013,124,243,4,28
 2020-07-04,El Dorado,017,2,1,0,0
-2020-07-04,Fresno,019,58,160,2,36
+2020-07-04,Fresno,019,59,161,3,37
 2020-07-04,Humboldt,023,2,2,1,2
 2020-07-04,Imperial,025,88,96,1,2
 2020-07-04,Kern,029,137,230,0,22
@@ -1167,7 +1167,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-04,Shasta,089,3,3,0,1
 2020-07-04,Solano,095,36,98,0,11
 2020-07-04,Sonoma,097,9,25,1,2
-2020-07-04,Stanislaus,099,69,143,1,28
+2020-07-04,Stanislaus,099,68,142,0,27
 2020-07-04,Sutter,101,2,0,0,0
 2020-07-04,Tulare,107,264,470,1,62
 2020-07-04,Tuolumne,109,2,0,0,0
@@ -1179,7 +1179,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-05,Colusa,011,1,0,0,0
 2020-07-05,Contra Costa,013,126,243,4,28
 2020-07-05,El Dorado,017,2,1,0,0
-2020-07-05,Fresno,019,58,160,2,36
+2020-07-05,Fresno,019,59,161,3,37
 2020-07-05,Humboldt,023,2,2,1,2
 2020-07-05,Imperial,025,88,96,1,2
 2020-07-05,Kern,029,139,248,0,22
@@ -1209,7 +1209,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-05,Shasta,089,3,3,0,1
 2020-07-05,Solano,095,36,98,0,11
 2020-07-05,Sonoma,097,10,25,1,2
-2020-07-05,Stanislaus,099,80,162,1,28
+2020-07-05,Stanislaus,099,79,161,0,27
 2020-07-05,Sutter,101,2,0,0,0
 2020-07-05,Tulare,107,264,470,1,62
 2020-07-05,Tuolumne,109,2,0,0,0
@@ -1221,7 +1221,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-06,Colusa,011,1,0,0,0
 2020-07-06,Contra Costa,013,127,243,4,28
 2020-07-06,El Dorado,017,2,1,0,0
-2020-07-06,Fresno,019,58,160,2,36
+2020-07-06,Fresno,019,59,161,3,37
 2020-07-06,Humboldt,023,2,2,1,2
 2020-07-06,Imperial,025,88,96,1,2
 2020-07-06,Kern,029,162,249,0,22
@@ -1251,7 +1251,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-06,Shasta,089,3,3,0,1
 2020-07-06,Solano,095,36,98,0,11
 2020-07-06,Sonoma,097,22,32,1,2
-2020-07-06,Stanislaus,099,81,166,1,28
+2020-07-06,Stanislaus,099,80,165,0,27
 2020-07-06,Sutter,101,2,0,0,0
 2020-07-06,Tulare,107,265,470,1,73
 2020-07-06,Tuolumne,109,2,0,0,0
@@ -1263,7 +1263,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-07,Colusa,011,1,0,0,0
 2020-07-07,Contra Costa,013,127,248,4,28
 2020-07-07,El Dorado,017,3,1,0,0
-2020-07-07,Fresno,019,58,160,2,36
+2020-07-07,Fresno,019,59,161,3,37
 2020-07-07,Humboldt,023,2,2,1,2
 2020-07-07,Imperial,025,89,100,1,2
 2020-07-07,Kern,029,162,250,0,22
@@ -1293,7 +1293,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-07,Shasta,089,3,3,0,1
 2020-07-07,Solano,095,36,98,0,11
 2020-07-07,Sonoma,097,23,32,1,2
-2020-07-07,Stanislaus,099,101,166,1,28
+2020-07-07,Stanislaus,099,100,165,0,27
 2020-07-07,Sutter,101,2,0,0,0
 2020-07-07,Tulare,107,267,470,1,73
 2020-07-07,Tuolumne,109,2,0,0,0
@@ -1305,7 +1305,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-08,Colusa,011,1,1,0,0
 2020-07-08,Contra Costa,013,128,252,4,28
 2020-07-08,El Dorado,017,3,1,0,0
-2020-07-08,Fresno,019,60,160,2,37
+2020-07-08,Fresno,019,61,161,3,38
 2020-07-08,Humboldt,023,2,2,1,2
 2020-07-08,Imperial,025,90,100,1,2
 2020-07-08,Kern,029,167,268,0,22
@@ -1335,7 +1335,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-08,Shasta,089,3,3,0,1
 2020-07-08,Solano,095,36,98,0,11
 2020-07-08,Sonoma,097,23,32,1,2
-2020-07-08,Stanislaus,099,101,167,1,28
+2020-07-08,Stanislaus,099,100,166,0,27
 2020-07-08,Sutter,101,2,0,0,0
 2020-07-08,Tulare,107,267,492,1,73
 2020-07-08,Tuolumne,109,2,0,0,0
@@ -1347,7 +1347,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-09,Colusa,011,1,1,0,0
 2020-07-09,Contra Costa,013,130,253,4,28
 2020-07-09,El Dorado,017,3,1,0,0
-2020-07-09,Fresno,019,62,172,2,37
+2020-07-09,Fresno,019,63,173,3,38
 2020-07-09,Humboldt,023,2,2,1,2
 2020-07-09,Imperial,025,90,101,1,2
 2020-07-09,Kern,029,170,269,0,22
@@ -1378,7 +1378,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-09,Shasta,089,3,3,0,1
 2020-07-09,Solano,095,37,98,0,11
 2020-07-09,Sonoma,097,26,34,1,2
-2020-07-09,Stanislaus,099,102,168,1,28
+2020-07-09,Stanislaus,099,101,167,0,27
 2020-07-09,Sutter,101,2,0,0,0
 2020-07-09,Tulare,107,267,493,1,73
 2020-07-09,Tuolumne,109,2,0,0,0
@@ -1390,7 +1390,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-10,Colusa,011,1,1,0,0
 2020-07-10,Contra Costa,013,130,253,4,28
 2020-07-10,El Dorado,017,3,1,0,0
-2020-07-10,Fresno,019,92,184,2,38
+2020-07-10,Fresno,019,93,185,3,39
 2020-07-10,Humboldt,023,2,2,1,2
 2020-07-10,Imperial,025,90,101,1,2
 2020-07-10,Kern,029,176,270,0,22
@@ -1421,7 +1421,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-10,Shasta,089,3,3,0,1
 2020-07-10,Solano,095,37,98,0,11
 2020-07-10,Sonoma,097,27,35,1,2
-2020-07-10,Stanislaus,099,106,170,1,38
+2020-07-10,Stanislaus,099,105,169,0,37
 2020-07-10,Sutter,101,2,0,0,0
 2020-07-10,Tulare,107,268,509,1,76
 2020-07-10,Tuolumne,109,2,0,0,0
@@ -1433,7 +1433,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-11,Colusa,011,2,1,0,0
 2020-07-11,Contra Costa,013,131,256,4,28
 2020-07-11,El Dorado,017,3,1,0,0
-2020-07-11,Fresno,019,92,184,2,38
+2020-07-11,Fresno,019,93,185,3,39
 2020-07-11,Humboldt,023,2,2,1,2
 2020-07-11,Imperial,025,92,104,1,2
 2020-07-11,Kern,029,199,280,0,22
@@ -1464,7 +1464,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-11,Shasta,089,3,3,0,1
 2020-07-11,Solano,095,38,98,0,11
 2020-07-11,Sonoma,097,28,35,1,2
-2020-07-11,Stanislaus,099,106,175,1,38
+2020-07-11,Stanislaus,099,105,174,0,37
 2020-07-11,Sutter,101,2,0,0,0
 2020-07-11,Tulare,107,268,509,1,77
 2020-07-11,Tuolumne,109,2,0,0,0
@@ -1477,7 +1477,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-12,Colusa,011,2,1,0,0
 2020-07-12,Contra Costa,013,132,256,4,28
 2020-07-12,El Dorado,017,3,1,0,0
-2020-07-12,Fresno,019,94,185,2,38
+2020-07-12,Fresno,019,95,186,3,39
 2020-07-12,Humboldt,023,2,2,1,2
 2020-07-12,Imperial,025,92,104,1,12
 2020-07-12,Kern,029,199,281,0,22
@@ -1508,7 +1508,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-12,Shasta,089,3,3,0,1
 2020-07-12,Solano,095,38,98,0,11
 2020-07-12,Sonoma,097,28,38,1,2
-2020-07-12,Stanislaus,099,106,176,1,28
+2020-07-12,Stanislaus,099,105,175,0,27
 2020-07-12,Sutter,101,2,0,0,0
 2020-07-12,Tulare,107,270,509,1,77
 2020-07-12,Tuolumne,109,2,0,0,0
@@ -1521,7 +1521,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-13,Colusa,011,2,1,0,0
 2020-07-13,Contra Costa,013,135,256,4,28
 2020-07-13,El Dorado,017,3,1,0,0
-2020-07-13,Fresno,019,98,185,2,38
+2020-07-13,Fresno,019,99,186,3,39
 2020-07-13,Humboldt,023,2,2,1,2
 2020-07-13,Imperial,025,92,104,1,15
 2020-07-13,Kern,029,209,281,0,22
@@ -1552,7 +1552,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-13,Shasta,089,3,3,0,1
 2020-07-13,Solano,095,38,98,0,11
 2020-07-13,Sonoma,097,29,42,1,2
-2020-07-13,Stanislaus,099,107,176,1,29
+2020-07-13,Stanislaus,099,106,175,0,28
 2020-07-13,Sutter,101,2,0,0,0
 2020-07-13,Tulare,107,270,509,1,78
 2020-07-13,Tuolumne,109,2,0,0,0
@@ -1565,7 +1565,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-14,Colusa,011,2,1,0,0
 2020-07-14,Contra Costa,013,135,256,4,28
 2020-07-14,El Dorado,017,3,1,0,0
-2020-07-14,Fresno,019,98,196,2,38
+2020-07-14,Fresno,019,99,197,3,39
 2020-07-14,Humboldt,023,2,2,1,2
 2020-07-14,Imperial,025,92,104,1,18
 2020-07-14,Kern,029,209,282,0,22
@@ -1596,7 +1596,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-14,Shasta,089,3,3,0,1
 2020-07-14,Solano,095,39,100,0,11
 2020-07-14,Sonoma,097,29,47,1,4
-2020-07-14,Stanislaus,099,118,211,1,29
+2020-07-14,Stanislaus,099,117,210,0,28
 2020-07-14,Sutter,101,2,0,0,0
 2020-07-14,Tulare,107,271,509,1,78
 2020-07-14,Tuolumne,109,2,0,0,0
@@ -1609,7 +1609,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-15,Colusa,011,2,1,0,0
 2020-07-15,Contra Costa,013,136,256,4,28
 2020-07-15,El Dorado,017,3,1,0,0
-2020-07-15,Fresno,019,111,196,2,38
+2020-07-15,Fresno,019,112,197,3,39
 2020-07-15,Humboldt,023,2,2,1,2
 2020-07-15,Imperial,025,92,104,1,18
 2020-07-15,Kern,029,219,282,0,23
@@ -1640,7 +1640,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-15,Shasta,089,3,3,0,1
 2020-07-15,Solano,095,39,100,0,11
 2020-07-15,Sonoma,097,29,49,1,4
-2020-07-15,Stanislaus,099,118,212,1,39
+2020-07-15,Stanislaus,099,117,211,0,38
 2020-07-15,Sutter,101,2,0,0,0
 2020-07-15,Tulare,107,274,509,1,78
 2020-07-15,Tuolumne,109,2,0,0,0
@@ -1653,7 +1653,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-16,Colusa,011,2,1,0,0
 2020-07-16,Contra Costa,013,138,258,4,39
 2020-07-16,El Dorado,017,3,1,0,0
-2020-07-16,Fresno,019,122,208,2,38
+2020-07-16,Fresno,019,123,209,3,39
 2020-07-16,Humboldt,023,2,2,1,2
 2020-07-16,Imperial,025,93,105,1,18
 2020-07-16,Kern,029,228,285,0,23
@@ -1684,7 +1684,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-16,Shasta,089,3,3,0,1
 2020-07-16,Solano,095,39,100,0,11
 2020-07-16,Sonoma,097,29,49,1,4
-2020-07-16,Stanislaus,099,119,212,1,39
+2020-07-16,Stanislaus,099,118,211,0,38
 2020-07-16,Sutter,101,2,0,0,0
 2020-07-16,Tulare,107,274,511,1,78
 2020-07-16,Tuolumne,109,2,0,0,0
@@ -1697,7 +1697,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-17,Colusa,011,2,1,0,0
 2020-07-17,Contra Costa,013,138,258,4,39
 2020-07-17,El Dorado,017,3,1,0,0
-2020-07-17,Fresno,019,124,210,2,38
+2020-07-17,Fresno,019,125,211,3,39
 2020-07-17,Glenn,021,1,0,0,0
 2020-07-17,Humboldt,023,2,2,1,2
 2020-07-17,Imperial,025,94,105,1,18
@@ -1729,7 +1729,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-17,Shasta,089,3,3,0,1
 2020-07-17,Solano,095,39,100,0,11
 2020-07-17,Sonoma,097,29,61,1,4
-2020-07-17,Stanislaus,099,119,212,1,39
+2020-07-17,Stanislaus,099,118,211,0,38
 2020-07-17,Sutter,101,2,0,0,0
 2020-07-17,Tulare,107,274,511,1,78
 2020-07-17,Tuolumne,109,2,0,0,0
@@ -1742,7 +1742,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-18,Colusa,011,20,1,0,0
 2020-07-18,Contra Costa,013,139,258,4,40
 2020-07-18,El Dorado,017,3,1,0,0
-2020-07-18,Fresno,019,141,229,2,39
+2020-07-18,Fresno,019,142,230,3,40
 2020-07-18,Glenn,021,1,0,0,0
 2020-07-18,Humboldt,023,2,2,1,2
 2020-07-18,Imperial,025,94,105,1,18
@@ -1774,7 +1774,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-18,Shasta,089,3,3,0,1
 2020-07-18,Solano,095,39,100,0,11
 2020-07-18,Sonoma,097,42,74,1,4
-2020-07-18,Stanislaus,099,131,231,1,39
+2020-07-18,Stanislaus,099,130,230,0,38
 2020-07-18,Sutter,101,2,0,0,0
 2020-07-18,Tulare,107,274,511,1,78
 2020-07-18,Tuolumne,109,2,0,0,0
@@ -1787,7 +1787,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-19,Colusa,011,20,1,0,0
 2020-07-19,Contra Costa,013,140,260,4,40
 2020-07-19,El Dorado,017,3,1,0,0
-2020-07-19,Fresno,019,143,232,2,39
+2020-07-19,Fresno,019,144,233,3,40
 2020-07-19,Glenn,021,1,0,0,0
 2020-07-19,Humboldt,023,2,2,1,2
 2020-07-19,Imperial,025,94,105,1,18
@@ -1819,7 +1819,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-19,Shasta,089,3,3,0,1
 2020-07-19,Solano,095,39,100,0,11
 2020-07-19,Sonoma,097,43,76,1,4
-2020-07-19,Stanislaus,099,135,243,1,39
+2020-07-19,Stanislaus,099,134,242,0,38
 2020-07-19,Sutter,101,2,0,0,0
 2020-07-19,Tulare,107,275,511,1,78
 2020-07-19,Tuolumne,109,2,0,0,0
@@ -1832,7 +1832,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-20,Colusa,011,31,19,0,0
 2020-07-20,Contra Costa,013,140,260,4,40
 2020-07-20,El Dorado,017,3,1,0,0
-2020-07-20,Fresno,019,143,232,2,39
+2020-07-20,Fresno,019,144,233,3,40
 2020-07-20,Glenn,021,1,0,0,0
 2020-07-20,Humboldt,023,2,2,1,2
 2020-07-20,Imperial,025,94,105,1,18
@@ -1864,7 +1864,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-20,Shasta,089,3,3,0,1
 2020-07-20,Solano,095,39,100,0,11
 2020-07-20,Sonoma,097,43,77,1,4
-2020-07-20,Stanislaus,099,146,245,1,39
+2020-07-20,Stanislaus,099,145,244,0,38
 2020-07-20,Sutter,101,2,0,0,0
 2020-07-20,Tulare,107,276,511,1,78
 2020-07-20,Tuolumne,109,2,0,0,0
@@ -1877,7 +1877,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-21,Colusa,011,31,19,0,1
 2020-07-21,Contra Costa,013,140,260,4,40
 2020-07-21,El Dorado,017,3,1,0,0
-2020-07-21,Fresno,019,159,234,2,41
+2020-07-21,Fresno,019,160,235,3,42
 2020-07-21,Glenn,021,1,0,0,0
 2020-07-21,Humboldt,023,2,2,1,2
 2020-07-21,Imperial,025,94,105,1,18
@@ -1909,7 +1909,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-21,Shasta,089,3,3,0,1
 2020-07-21,Solano,095,39,111,0,11
 2020-07-21,Sonoma,097,45,82,1,4
-2020-07-21,Stanislaus,099,147,276,1,41
+2020-07-21,Stanislaus,099,146,275,0,40
 2020-07-21,Sutter,101,2,0,0,0
 2020-07-21,Tulare,107,276,512,1,78
 2020-07-21,Tuolumne,109,2,0,0,0
@@ -1922,7 +1922,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-22,Colusa,011,31,19,0,1
 2020-07-22,Contra Costa,013,141,271,4,41
 2020-07-22,El Dorado,017,3,1,0,0
-2020-07-22,Fresno,019,172,235,2,41
+2020-07-22,Fresno,019,173,236,3,42
 2020-07-22,Glenn,021,1,0,0,0
 2020-07-22,Humboldt,023,2,2,1,2
 2020-07-22,Imperial,025,94,105,1,18
@@ -1954,7 +1954,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-22,Shasta,089,3,3,0,1
 2020-07-22,Solano,095,39,111,0,11
 2020-07-22,Sonoma,097,46,93,1,4
-2020-07-22,Stanislaus,099,147,279,1,42
+2020-07-22,Stanislaus,099,146,278,0,41
 2020-07-22,Sutter,101,3,1,0,0
 2020-07-22,Tulare,107,276,514,1,78
 2020-07-22,Tuolumne,109,2,0,0,0
@@ -1967,7 +1967,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-23,Colusa,011,31,19,0,1
 2020-07-23,Contra Costa,013,142,271,4,41
 2020-07-23,El Dorado,017,3,1,0,0
-2020-07-23,Fresno,019,180,235,2,41
+2020-07-23,Fresno,019,181,236,3,42
 2020-07-23,Glenn,021,1,0,0,0
 2020-07-23,Humboldt,023,2,2,1,2
 2020-07-23,Imperial,025,94,105,1,18
@@ -1999,7 +1999,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-23,Shasta,089,3,3,0,1
 2020-07-23,Solano,095,39,111,0,11
 2020-07-23,Sonoma,097,48,97,1,5
-2020-07-23,Stanislaus,099,145,282,1,42
+2020-07-23,Stanislaus,099,144,281,0,41
 2020-07-23,Sutter,101,3,1,0,0
 2020-07-23,Tulare,107,276,515,1,78
 2020-07-23,Tuolumne,109,2,0,0,0
@@ -2012,7 +2012,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-24,Colusa,011,31,19,0,1
 2020-07-24,Contra Costa,013,142,271,4,42
 2020-07-24,El Dorado,017,3,1,0,0
-2020-07-24,Fresno,019,194,269,2,43
+2020-07-24,Fresno,019,195,270,3,44
 2020-07-24,Glenn,021,1,0,0,0
 2020-07-24,Humboldt,023,2,2,1,2
 2020-07-24,Imperial,025,95,105,1,18
@@ -2044,7 +2044,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-24,Shasta,089,3,3,0,1
 2020-07-24,Solano,095,39,111,0,11
 2020-07-24,Sonoma,097,48,98,1,5
-2020-07-24,Stanislaus,099,146,283,1,42
+2020-07-24,Stanislaus,099,145,282,0,41
 2020-07-24,Sutter,101,3,1,0,0
 2020-07-24,Tulare,107,276,515,1,78
 2020-07-24,Tuolumne,109,2,0,0,0
@@ -2057,7 +2057,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-25,Colusa,011,31,19,0,1
 2020-07-25,Contra Costa,013,143,276,4,42
 2020-07-25,El Dorado,017,3,1,0,0
-2020-07-25,Fresno,019,202,270,2,43
+2020-07-25,Fresno,019,203,271,3,44
 2020-07-25,Glenn,021,1,0,0,0
 2020-07-25,Humboldt,023,2,2,1,2
 2020-07-25,Imperial,025,95,105,1,18
@@ -2089,7 +2089,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-25,Shasta,089,3,3,0,1
 2020-07-25,Solano,095,39,111,0,11
 2020-07-25,Sonoma,097,60,117,1,5
-2020-07-25,Stanislaus,099,160,307,1,44
+2020-07-25,Stanislaus,099,159,306,0,43
 2020-07-25,Sutter,101,3,1,0,0
 2020-07-25,Tulare,107,276,515,1,78
 2020-07-25,Tuolumne,109,2,0,0,0
@@ -2102,7 +2102,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-26,Colusa,011,39,28,0,1
 2020-07-26,Contra Costa,013,144,286,4,42
 2020-07-26,El Dorado,017,3,1,0,0
-2020-07-26,Fresno,019,214,282,2,43
+2020-07-26,Fresno,019,215,283,3,44
 2020-07-26,Glenn,021,1,0,0,0
 2020-07-26,Humboldt,023,2,2,1,2
 2020-07-26,Imperial,025,95,105,1,18
@@ -2134,7 +2134,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-26,Shasta,089,3,3,0,1
 2020-07-26,Solano,095,40,113,0,11
 2020-07-26,Sonoma,097,61,133,1,5
-2020-07-26,Stanislaus,099,170,308,1,44
+2020-07-26,Stanislaus,099,169,307,0,43
 2020-07-26,Sutter,101,3,1,0,0
 2020-07-26,Tulare,107,276,515,1,79
 2020-07-26,Tuolumne,109,2,0,0,0
@@ -2147,7 +2147,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-27,Colusa,011,39,28,0,1
 2020-07-27,Contra Costa,013,144,287,4,43
 2020-07-27,El Dorado,017,3,1,0,0
-2020-07-27,Fresno,019,218,284,2,44
+2020-07-27,Fresno,019,219,285,3,45
 2020-07-27,Glenn,021,1,0,0,0
 2020-07-27,Humboldt,023,2,2,1,2
 2020-07-27,Imperial,025,96,105,1,18
@@ -2179,7 +2179,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-27,Shasta,089,3,3,0,1
 2020-07-27,Solano,095,41,113,0,11
 2020-07-27,Sonoma,097,64,135,1,5
-2020-07-27,Stanislaus,099,183,326,1,44
+2020-07-27,Stanislaus,099,182,325,0,43
 2020-07-27,Sutter,101,3,1,0,0
 2020-07-27,Tulare,107,276,515,1,81
 2020-07-27,Tuolumne,109,2,0,0,0
@@ -2193,7 +2193,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-28,Colusa,011,40,29,0,1
 2020-07-28,Contra Costa,013,144,287,4,44
 2020-07-28,El Dorado,017,3,1,0,0
-2020-07-28,Fresno,019,227,289,2,45
+2020-07-28,Fresno,019,228,290,3,46
 2020-07-28,Glenn,021,1,0,0,0
 2020-07-28,Humboldt,023,2,2,1,2
 2020-07-28,Imperial,025,96,105,1,18
@@ -2225,7 +2225,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-28,Shasta,089,4,3,0,1
 2020-07-28,Solano,095,41,113,0,11
 2020-07-28,Sonoma,097,65,135,1,5
-2020-07-28,Stanislaus,099,184,336,1,46
+2020-07-28,Stanislaus,099,183,335,0,45
 2020-07-28,Sutter,101,3,1,0,0
 2020-07-28,Tulare,107,277,515,1,82
 2020-07-28,Tuolumne,109,2,0,0,0
@@ -2239,7 +2239,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-29,Colusa,011,40,29,0,1
 2020-07-29,Contra Costa,013,157,297,4,45
 2020-07-29,El Dorado,017,3,1,0,0
-2020-07-29,Fresno,019,231,290,2,45
+2020-07-29,Fresno,019,232,291,3,46
 2020-07-29,Glenn,021,1,0,0,0
 2020-07-29,Humboldt,023,2,2,1,2
 2020-07-29,Imperial,025,96,105,1,18
@@ -2271,7 +2271,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-29,Shasta,089,4,3,0,1
 2020-07-29,Solano,095,41,113,0,11
 2020-07-29,Sonoma,097,76,138,1,5
-2020-07-29,Stanislaus,099,198,343,1,46
+2020-07-29,Stanislaus,099,197,342,0,45
 2020-07-29,Sutter,101,3,1,0,0
 2020-07-29,Tulare,107,292,515,1,83
 2020-07-29,Tuolumne,109,2,0,0,0
@@ -2285,7 +2285,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-30,Colusa,011,40,29,0,1
 2020-07-30,Contra Costa,013,171,301,4,46
 2020-07-30,El Dorado,017,3,1,0,0
-2020-07-30,Fresno,019,233,290,2,45
+2020-07-30,Fresno,019,234,291,3,46
 2020-07-30,Glenn,021,1,0,0,0
 2020-07-30,Humboldt,023,2,2,1,2
 2020-07-30,Imperial,025,96,105,1,18
@@ -2317,7 +2317,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-30,Shasta,089,4,3,0,1
 2020-07-30,Solano,095,41,113,0,11
 2020-07-30,Sonoma,097,81,153,1,5
-2020-07-30,Stanislaus,099,211,357,1,47
+2020-07-30,Stanislaus,099,210,356,0,46
 2020-07-30,Sutter,101,3,1,0,0
 2020-07-30,Tulare,107,295,515,1,83
 2020-07-30,Tuolumne,109,2,0,0,0
@@ -2331,7 +2331,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-31,Colusa,011,40,29,0,1
 2020-07-31,Contra Costa,013,187,318,4,46
 2020-07-31,El Dorado,017,3,1,0,0
-2020-07-31,Fresno,019,247,305,2,45
+2020-07-31,Fresno,019,248,306,3,46
 2020-07-31,Glenn,021,1,0,0,0
 2020-07-31,Humboldt,023,2,2,1,2
 2020-07-31,Imperial,025,97,105,1,18
@@ -2363,7 +2363,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-31,Shasta,089,4,3,0,1
 2020-07-31,Solano,095,41,113,0,11
 2020-07-31,Sonoma,097,81,158,1,5
-2020-07-31,Stanislaus,099,216,371,1,47
+2020-07-31,Stanislaus,099,215,370,0,46
 2020-07-31,Sutter,101,3,1,0,0
 2020-07-31,Tulare,107,295,515,1,83
 2020-07-31,Tuolumne,109,2,0,0,0
@@ -2377,7 +2377,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-01,Colusa,011,40,29,0,1
 2020-08-01,Contra Costa,013,189,336,4,46
 2020-08-01,El Dorado,017,3,1,0,0
-2020-08-01,Fresno,019,264,313,2,46
+2020-08-01,Fresno,019,265,314,3,47
 2020-08-01,Glenn,021,1,0,0,0
 2020-08-01,Humboldt,023,2,2,1,2
 2020-08-01,Imperial,025,97,105,1,18
@@ -2409,7 +2409,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-01,Shasta,089,4,3,0,1
 2020-08-01,Solano,095,41,113,0,11
 2020-08-01,Sonoma,097,83,160,1,5
-2020-08-01,Stanislaus,099,217,386,2,47
+2020-08-01,Stanislaus,099,216,385,1,46
 2020-08-01,Sutter,101,3,1,0,0
 2020-08-01,Tulare,107,295,516,1,83
 2020-08-01,Tuolumne,109,2,0,0,0
@@ -2423,7 +2423,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-02,Colusa,011,40,29,0,1
 2020-08-02,Contra Costa,013,194,345,4,46
 2020-08-02,El Dorado,017,3,1,0,0
-2020-08-02,Fresno,019,266,315,2,47
+2020-08-02,Fresno,019,267,316,3,48
 2020-08-02,Glenn,021,1,0,0,0
 2020-08-02,Humboldt,023,2,2,1,2
 2020-08-02,Imperial,025,97,117,2,19
@@ -2455,7 +2455,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-02,Shasta,089,4,3,0,1
 2020-08-02,Solano,095,41,113,0,11
 2020-08-02,Sonoma,097,86,168,1,5
-2020-08-02,Stanislaus,099,233,394,2,48
+2020-08-02,Stanislaus,099,232,393,1,47
 2020-08-02,Sutter,101,3,1,0,0
 2020-08-02,Tulare,107,306,516,1,83
 2020-08-02,Tuolumne,109,2,0,0,0
@@ -2469,7 +2469,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-03,Colusa,011,40,29,0,1
 2020-08-03,Contra Costa,013,194,346,4,46
 2020-08-03,El Dorado,017,3,1,0,0
-2020-08-03,Fresno,019,268,316,2,47
+2020-08-03,Fresno,019,269,317,3,48
 2020-08-03,Glenn,021,1,0,0,0
 2020-08-03,Humboldt,023,2,2,1,2
 2020-08-03,Imperial,025,97,117,2,19
@@ -2502,7 +2502,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-03,Shasta,089,4,3,0,1
 2020-08-03,Solano,095,41,113,0,11
 2020-08-03,Sonoma,097,95,169,1,6
-2020-08-03,Stanislaus,099,235,406,2,48
+2020-08-03,Stanislaus,099,234,405,1,47
 2020-08-03,Sutter,101,3,1,0,0
 2020-08-03,Tulare,107,307,518,1,83
 2020-08-03,Tuolumne,109,2,0,0,0
@@ -2516,7 +2516,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-04,Colusa,011,40,29,0,1
 2020-08-04,Contra Costa,013,194,358,4,46
 2020-08-04,El Dorado,017,3,1,0,0
-2020-08-04,Fresno,019,269,318,2,47
+2020-08-04,Fresno,019,270,319,3,48
 2020-08-04,Glenn,021,1,0,0,0
 2020-08-04,Humboldt,023,2,2,1,2
 2020-08-04,Imperial,025,97,116,1,19
@@ -2549,7 +2549,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-04,Shasta,089,4,3,0,1
 2020-08-04,Solano,095,41,113,0,11
 2020-08-04,Sonoma,097,98,166,1,6
-2020-08-04,Stanislaus,099,236,430,2,51
+2020-08-04,Stanislaus,099,235,429,1,50
 2020-08-04,Sutter,101,3,1,0,0
 2020-08-04,Tulare,107,307,530,1,83
 2020-08-04,Tuolumne,109,2,0,0,0
@@ -2563,7 +2563,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-05,Colusa,011,40,29,0,1
 2020-08-05,Contra Costa,013,194,359,4,46
 2020-08-05,El Dorado,017,3,1,0,0
-2020-08-05,Fresno,019,270,318,2,47
+2020-08-05,Fresno,019,271,319,3,48
 2020-08-05,Glenn,021,1,0,0,0
 2020-08-05,Humboldt,023,2,2,1,2
 2020-08-05,Imperial,025,97,115,1,19
@@ -2596,7 +2596,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-05,Shasta,089,4,3,0,1
 2020-08-05,Solano,095,41,114,0,11
 2020-08-05,Sonoma,097,108,192,1,6
-2020-08-05,Stanislaus,099,237,437,2,51
+2020-08-05,Stanislaus,099,236,436,1,50
 2020-08-05,Sutter,101,3,1,0,0
 2020-08-05,Tulare,107,308,532,1,83
 2020-08-05,Tuolumne,109,2,0,0,0
@@ -2610,7 +2610,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-06,Colusa,011,40,29,0,1
 2020-08-06,Contra Costa,013,209,382,4,48
 2020-08-06,El Dorado,017,4,1,0,0
-2020-08-06,Fresno,019,282,321,2,48
+2020-08-06,Fresno,019,283,322,3,49
 2020-08-06,Glenn,021,1,0,0,0
 2020-08-06,Humboldt,023,2,2,1,2
 2020-08-06,Imperial,025,97,117,1,19
@@ -2643,7 +2643,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-06,Shasta,089,4,3,0,1
 2020-08-06,Solano,095,41,115,0,11
 2020-08-06,Sonoma,097,110,206,1,6
-2020-08-06,Stanislaus,099,275,456,2,52
+2020-08-06,Stanislaus,099,274,455,1,51
 2020-08-06,Sutter,101,16,2,0,0
 2020-08-06,Tulare,107,308,533,1,83
 2020-08-06,Tuolumne,109,2,0,0,0
@@ -2657,7 +2657,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-07,Colusa,011,40,29,0,1
 2020-08-07,Contra Costa,013,210,384,4,48
 2020-08-07,El Dorado,017,4,1,0,0
-2020-08-07,Fresno,019,282,322,2,48
+2020-08-07,Fresno,019,283,323,3,49
 2020-08-07,Glenn,021,1,0,0,0
 2020-08-07,Humboldt,023,2,2,1,2
 2020-08-07,Imperial,025,98,117,1,19
@@ -2690,7 +2690,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-07,Shasta,089,4,4,0,1
 2020-08-07,Solano,095,42,115,0,11
 2020-08-07,Sonoma,097,110,212,1,7
-2020-08-07,Stanislaus,099,279,465,2,52
+2020-08-07,Stanislaus,099,278,464,1,51
 2020-08-07,Sutter,101,16,2,0,0
 2020-08-07,Tulare,107,319,534,1,83
 2020-08-07,Tuolumne,109,2,0,0,0
@@ -2704,7 +2704,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-08,Colusa,011,40,29,0,1
 2020-08-08,Contra Costa,013,238,397,4,49
 2020-08-08,El Dorado,017,4,1,0,0
-2020-08-08,Fresno,019,286,334,2,48
+2020-08-08,Fresno,019,287,335,3,49
 2020-08-08,Glenn,021,1,0,0,0
 2020-08-08,Humboldt,023,3,2,1,2
 2020-08-08,Imperial,025,98,117,1,19
@@ -2737,7 +2737,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-08,Shasta,089,4,4,0,1
 2020-08-08,Solano,095,42,115,0,11
 2020-08-08,Sonoma,097,110,219,1,7
-2020-08-08,Stanislaus,099,280,469,2,52
+2020-08-08,Stanislaus,099,279,468,1,51
 2020-08-08,Sutter,101,16,2,0,0
 2020-08-08,Tulare,107,320,535,1,83
 2020-08-08,Tuolumne,109,2,0,0,0
@@ -2751,7 +2751,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-09,Colusa,011,40,29,0,1
 2020-08-09,Contra Costa,013,238,398,4,50
 2020-08-09,El Dorado,017,4,1,0,0
-2020-08-09,Fresno,019,291,344,2,48
+2020-08-09,Fresno,019,292,345,3,49
 2020-08-09,Glenn,021,1,0,0,0
 2020-08-09,Humboldt,023,3,2,1,2
 2020-08-09,Imperial,025,98,125,1,19
@@ -2784,7 +2784,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-09,Shasta,089,4,4,0,1
 2020-08-09,Solano,095,42,115,0,11
 2020-08-09,Sonoma,097,110,221,1,7
-2020-08-09,Stanislaus,099,286,473,2,52
+2020-08-09,Stanislaus,099,285,472,1,51
 2020-08-09,Sutter,101,16,2,0,0
 2020-08-09,Tulare,107,332,537,1,83
 2020-08-09,Tuolumne,109,2,0,0,0
@@ -2798,7 +2798,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-10,Colusa,011,40,29,0,1
 2020-08-10,Contra Costa,013,239,398,4,50
 2020-08-10,El Dorado,017,4,1,0,0
-2020-08-10,Fresno,019,294,344,2,48
+2020-08-10,Fresno,019,295,345,3,49
 2020-08-10,Glenn,021,1,0,0,0
 2020-08-10,Humboldt,023,3,2,1,2
 2020-08-10,Imperial,025,98,125,1,19
@@ -2831,7 +2831,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-10,Shasta,089,4,4,0,1
 2020-08-10,Solano,095,42,116,0,11
 2020-08-10,Sonoma,097,110,223,1,7
-2020-08-10,Stanislaus,099,312,522,2,52
+2020-08-10,Stanislaus,099,311,521,1,51
 2020-08-10,Sutter,101,16,2,0,0
 2020-08-10,Tulare,107,334,537,1,84
 2020-08-10,Tuolumne,109,2,0,0,0
@@ -2845,7 +2845,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-11,Colusa,011,40,29,0,1
 2020-08-11,Contra Costa,013,246,399,4,51
 2020-08-11,El Dorado,017,4,1,0,0
-2020-08-11,Fresno,019,295,344,2,49
+2020-08-11,Fresno,019,296,345,3,50
 2020-08-11,Glenn,021,1,0,0,0
 2020-08-11,Humboldt,023,3,2,1,2
 2020-08-11,Imperial,025,98,125,1,19
@@ -2878,7 +2878,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-11,Shasta,089,4,4,0,1
 2020-08-11,Solano,095,42,117,0,11
 2020-08-11,Sonoma,097,112,224,1,7
-2020-08-11,Stanislaus,099,315,552,2,53
+2020-08-11,Stanislaus,099,314,551,1,52
 2020-08-11,Sutter,101,17,2,0,0
 2020-08-11,Tulare,107,336,546,1,84
 2020-08-11,Tuolumne,109,2,0,0,0
@@ -2892,7 +2892,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-12,Colusa,011,40,29,0,1
 2020-08-12,Contra Costa,013,246,399,4,51
 2020-08-12,El Dorado,017,4,1,0,0
-2020-08-12,Fresno,019,319,359,2,49
+2020-08-12,Fresno,019,320,360,3,50
 2020-08-12,Glenn,021,1,0,0,0
 2020-08-12,Humboldt,023,3,2,1,2
 2020-08-12,Imperial,025,98,125,1,19
@@ -2925,7 +2925,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-12,Shasta,089,4,4,0,1
 2020-08-12,Solano,095,42,117,0,11
 2020-08-12,Sonoma,097,120,247,1,7
-2020-08-12,Stanislaus,099,323,556,2,54
+2020-08-12,Stanislaus,099,322,555,1,53
 2020-08-12,Sutter,101,17,2,0,0
 2020-08-12,Tulare,107,341,546,1,85
 2020-08-12,Tuolumne,109,2,0,0,0
@@ -2939,7 +2939,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-13,Colusa,011,40,29,0,1
 2020-08-13,Contra Costa,013,247,404,4,51
 2020-08-13,El Dorado,017,4,1,0,0
-2020-08-13,Fresno,019,332,365,2,50
+2020-08-13,Fresno,019,333,366,3,51
 2020-08-13,Glenn,021,1,0,0,0
 2020-08-13,Humboldt,023,3,2,1,2
 2020-08-13,Imperial,025,98,136,1,19
@@ -2972,7 +2972,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-13,Shasta,089,4,4,0,1
 2020-08-13,Solano,095,42,117,0,11
 2020-08-13,Sonoma,097,122,249,1,8
-2020-08-13,Stanislaus,099,328,558,2,55
+2020-08-13,Stanislaus,099,327,557,1,54
 2020-08-13,Sutter,101,17,2,0,0
 2020-08-13,Tulare,107,343,546,1,85
 2020-08-13,Tuolumne,109,2,0,0,0
@@ -2986,7 +2986,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-14,Colusa,011,40,29,0,1
 2020-08-14,Contra Costa,013,248,404,4,51
 2020-08-14,El Dorado,017,4,1,0,0
-2020-08-14,Fresno,019,345,368,2,51
+2020-08-14,Fresno,019,346,369,3,52
 2020-08-14,Glenn,021,1,0,0,0
 2020-08-14,Humboldt,023,3,2,1,2
 2020-08-14,Imperial,025,99,136,1,19
@@ -3019,7 +3019,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-14,Shasta,089,4,4,0,1
 2020-08-14,Solano,095,42,117,0,11
 2020-08-14,Sonoma,097,141,290,1,8
-2020-08-14,Stanislaus,099,336,561,2,55
+2020-08-14,Stanislaus,099,335,560,1,54
 2020-08-14,Sutter,101,17,2,0,0
 2020-08-14,Trinity,105,1,0,0,0
 2020-08-14,Tulare,107,345,546,1,85
@@ -3034,7 +3034,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-15,Colusa,011,40,29,0,1
 2020-08-15,Contra Costa,013,250,407,4,51
 2020-08-15,El Dorado,017,4,1,0,0
-2020-08-15,Fresno,019,362,370,2,51
+2020-08-15,Fresno,019,363,371,3,52
 2020-08-15,Glenn,021,1,0,0,0
 2020-08-15,Humboldt,023,3,2,1,2
 2020-08-15,Imperial,025,99,136,1,19
@@ -3067,7 +3067,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-15,Shasta,089,4,4,0,1
 2020-08-15,Solano,095,42,117,0,11
 2020-08-15,Sonoma,097,149,304,1,8
-2020-08-15,Stanislaus,099,337,564,2,55
+2020-08-15,Stanislaus,099,336,563,1,54
 2020-08-15,Sutter,101,17,3,0,0
 2020-08-15,Trinity,105,1,0,0,0
 2020-08-15,Tulare,107,349,546,1,85
@@ -3082,7 +3082,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-16,Colusa,011,40,29,0,1
 2020-08-16,Contra Costa,013,250,407,4,51
 2020-08-16,El Dorado,017,4,1,0,0
-2020-08-16,Fresno,019,365,391,2,52
+2020-08-16,Fresno,019,366,392,3,53
 2020-08-16,Glenn,021,1,0,0,0
 2020-08-16,Humboldt,023,3,2,1,2
 2020-08-16,Imperial,025,99,136,1,19
@@ -3115,7 +3115,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-16,Shasta,089,4,4,0,1
 2020-08-16,Solano,095,42,117,0,11
 2020-08-16,Sonoma,097,150,312,1,9
-2020-08-16,Stanislaus,099,341,572,2,56
+2020-08-16,Stanislaus,099,340,571,1,55
 2020-08-16,Sutter,101,17,3,0,0
 2020-08-16,Trinity,105,1,0,0,0
 2020-08-16,Tulare,107,350,547,1,86
@@ -3130,7 +3130,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-17,Colusa,011,40,29,0,1
 2020-08-17,Contra Costa,013,250,407,4,51
 2020-08-17,El Dorado,017,4,1,0,0
-2020-08-17,Fresno,019,369,396,2,52
+2020-08-17,Fresno,019,370,397,3,53
 2020-08-17,Glenn,021,1,0,0,0
 2020-08-17,Humboldt,023,3,2,1,2
 2020-08-17,Imperial,025,99,136,1,19
@@ -3163,7 +3163,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-17,Shasta,089,5,4,0,1
 2020-08-17,Solano,095,42,117,0,11
 2020-08-17,Sonoma,097,151,313,1,9
-2020-08-17,Stanislaus,099,350,585,2,57
+2020-08-17,Stanislaus,099,349,584,1,56
 2020-08-17,Sutter,101,17,3,0,0
 2020-08-17,Trinity,105,1,0,0,0
 2020-08-17,Tulare,107,350,547,1,86
@@ -3178,7 +3178,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-18,Colusa,011,40,29,0,1
 2020-08-18,Contra Costa,013,251,407,4,51
 2020-08-18,El Dorado,017,4,1,0,0
-2020-08-18,Fresno,019,371,398,2,53
+2020-08-18,Fresno,019,372,399,3,54
 2020-08-18,Glenn,021,1,0,0,0
 2020-08-18,Humboldt,023,3,2,1,2
 2020-08-18,Imperial,025,99,136,1,19
@@ -3211,7 +3211,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-18,Shasta,089,5,4,0,1
 2020-08-18,Solano,095,42,117,0,11
 2020-08-18,Sonoma,097,153,314,1,9
-2020-08-18,Stanislaus,099,361,593,2,57
+2020-08-18,Stanislaus,099,360,592,1,56
 2020-08-18,Sutter,101,17,3,0,0
 2020-08-18,Trinity,105,1,0,0,0
 2020-08-18,Tulare,107,352,557,1,86
@@ -3226,7 +3226,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-19,Colusa,011,40,29,0,1
 2020-08-19,Contra Costa,013,252,407,4,51
 2020-08-19,El Dorado,017,4,1,0,0
-2020-08-19,Fresno,019,373,402,2,54
+2020-08-19,Fresno,019,374,403,3,55
 2020-08-19,Glenn,021,1,0,0,0
 2020-08-19,Humboldt,023,3,2,1,2
 2020-08-19,Imperial,025,99,136,1,19
@@ -3260,7 +3260,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-19,Shasta,089,6,4,0,1
 2020-08-19,Solano,095,42,117,0,11
 2020-08-19,Sonoma,097,167,319,1,9
-2020-08-19,Stanislaus,099,365,599,2,56
+2020-08-19,Stanislaus,099,364,598,1,55
 2020-08-19,Sutter,101,17,3,0,0
 2020-08-19,Trinity,105,1,0,0,0
 2020-08-19,Tulare,107,352,557,1,86
@@ -3275,7 +3275,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-20,Colusa,011,40,30,0,1
 2020-08-20,Contra Costa,013,252,411,4,51
 2020-08-20,El Dorado,017,4,1,0,0
-2020-08-20,Fresno,019,379,426,2,54
+2020-08-20,Fresno,019,380,427,3,55
 2020-08-20,Glenn,021,1,0,0,0
 2020-08-20,Humboldt,023,3,2,1,2
 2020-08-20,Imperial,025,99,136,1,19
@@ -3310,7 +3310,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-20,Siskiyou,093,1,0,0,0
 2020-08-20,Solano,095,42,117,0,11
 2020-08-20,Sonoma,097,168,319,1,9
-2020-08-20,Stanislaus,099,370,618,2,57
+2020-08-20,Stanislaus,099,369,617,1,56
 2020-08-20,Sutter,101,17,3,0,0
 2020-08-20,Trinity,105,1,0,0,0
 2020-08-20,Tulare,107,355,568,1,87
@@ -3325,7 +3325,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-21,Colusa,011,40,30,0,1
 2020-08-21,Contra Costa,013,252,411,4,51
 2020-08-21,El Dorado,017,4,1,0,0
-2020-08-21,Fresno,019,381,431,2,54
+2020-08-21,Fresno,019,382,432,3,55
 2020-08-21,Glenn,021,1,0,0,0
 2020-08-21,Humboldt,023,3,2,1,2
 2020-08-21,Imperial,025,99,136,1,19
@@ -3360,7 +3360,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-21,Siskiyou,093,1,0,0,0
 2020-08-21,Solano,095,42,117,0,11
 2020-08-21,Sonoma,097,185,324,1,10
-2020-08-21,Stanislaus,099,378,632,2,57
+2020-08-21,Stanislaus,099,377,631,1,56
 2020-08-21,Sutter,101,17,3,0,0
 2020-08-21,Trinity,105,1,0,0,0
 2020-08-21,Tulare,107,355,568,1,87
@@ -3375,7 +3375,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-22,Colusa,011,40,30,0,1
 2020-08-22,Contra Costa,013,254,412,4,51
 2020-08-22,El Dorado,017,4,1,0,0
-2020-08-22,Fresno,019,393,437,2,54
+2020-08-22,Fresno,019,394,438,3,55
 2020-08-22,Glenn,021,1,0,0,0
 2020-08-22,Humboldt,023,3,2,1,2
 2020-08-22,Imperial,025,100,136,1,19
@@ -3410,7 +3410,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-22,Siskiyou,093,1,0,0,0
 2020-08-22,Solano,095,42,117,0,11
 2020-08-22,Sonoma,097,190,331,1,10
-2020-08-22,Stanislaus,099,382,646,2,57
+2020-08-22,Stanislaus,099,381,645,1,56
 2020-08-22,Sutter,101,17,3,0,0
 2020-08-22,Trinity,105,1,0,0,0
 2020-08-22,Tulare,107,355,568,1,87
@@ -3425,7 +3425,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-23,Colusa,011,40,30,0,1
 2020-08-23,Contra Costa,013,254,414,4,51
 2020-08-23,El Dorado,017,4,1,0,0
-2020-08-23,Fresno,019,393,438,2,54
+2020-08-23,Fresno,019,394,439,3,55
 2020-08-23,Glenn,021,1,0,0,0
 2020-08-23,Humboldt,023,4,2,1,2
 2020-08-23,Imperial,025,101,136,1,19
@@ -3460,7 +3460,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-23,Siskiyou,093,1,0,0,0
 2020-08-23,Solano,095,42,117,0,11
 2020-08-23,Sonoma,097,190,337,1,10
-2020-08-23,Stanislaus,099,394,661,2,57
+2020-08-23,Stanislaus,099,393,660,1,56
 2020-08-23,Sutter,101,17,3,0,0
 2020-08-23,Trinity,105,1,0,0,0
 2020-08-23,Tulare,107,355,570,1,88
@@ -3475,7 +3475,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-24,Colusa,011,40,30,0,1
 2020-08-24,Contra Costa,013,255,414,4,51
 2020-08-24,El Dorado,017,4,1,0,0
-2020-08-24,Fresno,019,395,438,2,54
+2020-08-24,Fresno,019,396,439,3,55
 2020-08-24,Glenn,021,1,0,0,0
 2020-08-24,Humboldt,023,4,2,1,2
 2020-08-24,Imperial,025,101,136,1,19
@@ -3510,7 +3510,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-24,Siskiyou,093,1,0,0,0
 2020-08-24,Solano,095,42,117,0,11
 2020-08-24,Sonoma,097,192,340,1,11
-2020-08-24,Stanislaus,099,398,666,2,57
+2020-08-24,Stanislaus,099,397,665,1,56
 2020-08-24,Sutter,101,17,3,0,0
 2020-08-24,Trinity,105,1,0,0,0
 2020-08-24,Tulare,107,355,570,1,89
@@ -3525,7 +3525,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-25,Colusa,011,41,30,0,1
 2020-08-25,Contra Costa,013,256,414,4,51
 2020-08-25,El Dorado,017,4,1,0,0
-2020-08-25,Fresno,019,396,448,3,54
+2020-08-25,Fresno,019,397,449,4,55
 2020-08-25,Glenn,021,1,0,0,0
 2020-08-25,Humboldt,023,4,2,1,2
 2020-08-25,Imperial,025,101,140,1,19
@@ -3560,7 +3560,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-25,Siskiyou,093,1,0,0,0
 2020-08-25,Solano,095,42,117,0,11
 2020-08-25,Sonoma,097,193,340,1,12
-2020-08-25,Stanislaus,099,399,680,2,57
+2020-08-25,Stanislaus,099,398,679,1,56
 2020-08-25,Sutter,101,17,3,0,0
 2020-08-25,Trinity,105,1,0,0,0
 2020-08-25,Tulare,107,355,570,1,89
@@ -3575,7 +3575,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-26,Colusa,011,41,30,0,1
 2020-08-26,Contra Costa,013,257,414,4,51
 2020-08-26,El Dorado,017,4,1,0,0
-2020-08-26,Fresno,019,399,448,3,54
+2020-08-26,Fresno,019,400,449,4,55
 2020-08-26,Glenn,021,1,0,0,0
 2020-08-26,Humboldt,023,4,2,1,2
 2020-08-26,Imperial,025,101,144,1,19
@@ -3610,7 +3610,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-26,Siskiyou,093,1,0,0,0
 2020-08-26,Solano,095,42,117,0,11
 2020-08-26,Sonoma,097,194,358,1,22
-2020-08-26,Stanislaus,099,407,685,2,57
+2020-08-26,Stanislaus,099,406,684,1,56
 2020-08-26,Sutter,101,17,3,0,0
 2020-08-26,Trinity,105,1,0,0,0
 2020-08-26,Tulare,107,356,570,1,89
@@ -3625,7 +3625,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-27,Colusa,011,42,30,0,1
 2020-08-27,Contra Costa,013,257,414,4,51
 2020-08-27,El Dorado,017,4,1,0,0
-2020-08-27,Fresno,019,399,453,3,54
+2020-08-27,Fresno,019,400,454,4,55
 2020-08-27,Glenn,021,1,0,0,0
 2020-08-27,Humboldt,023,4,2,1,2
 2020-08-27,Imperial,025,101,144,1,19
@@ -3660,7 +3660,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-27,Siskiyou,093,1,0,0,0
 2020-08-27,Solano,095,42,117,0,11
 2020-08-27,Sonoma,097,195,367,1,22
-2020-08-27,Stanislaus,099,416,694,2,57
+2020-08-27,Stanislaus,099,415,693,1,56
 2020-08-27,Sutter,101,17,3,0,0
 2020-08-27,Trinity,105,1,0,0,0
 2020-08-27,Tulare,107,359,571,1,89
@@ -3675,7 +3675,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-28,Colusa,011,42,30,0,1
 2020-08-28,Contra Costa,013,258,414,4,51
 2020-08-28,El Dorado,017,4,1,0,0
-2020-08-28,Fresno,019,399,454,3,64
+2020-08-28,Fresno,019,400,455,4,65
 2020-08-28,Glenn,021,1,0,0,0
 2020-08-28,Humboldt,023,4,2,1,2
 2020-08-28,Imperial,025,102,145,1,19
@@ -3710,7 +3710,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-28,Siskiyou,093,1,0,0,0
 2020-08-28,Solano,095,43,118,0,11
 2020-08-28,Sonoma,097,195,376,1,22
-2020-08-28,Stanislaus,099,426,697,2,57
+2020-08-28,Stanislaus,099,425,696,1,56
 2020-08-28,Sutter,101,17,3,0,0
 2020-08-28,Trinity,105,1,0,0,0
 2020-08-28,Tulare,107,360,571,1,89
@@ -3725,7 +3725,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-29,Colusa,011,42,30,0,1
 2020-08-29,Contra Costa,013,258,414,4,51
 2020-08-29,El Dorado,017,4,2,0,0
-2020-08-29,Fresno,019,413,459,3,64
+2020-08-29,Fresno,019,414,460,4,65
 2020-08-29,Glenn,021,1,0,0,0
 2020-08-29,Humboldt,023,4,2,1,2
 2020-08-29,Imperial,025,102,145,1,19
@@ -3760,7 +3760,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-29,Siskiyou,093,1,0,0,0
 2020-08-29,Solano,095,43,118,0,11
 2020-08-29,Sonoma,097,196,376,1,22
-2020-08-29,Stanislaus,099,426,699,2,57
+2020-08-29,Stanislaus,099,425,698,1,56
 2020-08-29,Sutter,101,17,3,0,0
 2020-08-29,Trinity,105,1,0,0,0
 2020-08-29,Tulare,107,362,572,1,89
@@ -3775,7 +3775,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-30,Colusa,011,42,30,0,1
 2020-08-30,Contra Costa,013,258,414,4,51
 2020-08-30,El Dorado,017,4,2,0,0
-2020-08-30,Fresno,019,414,461,3,65
+2020-08-30,Fresno,019,415,462,4,66
 2020-08-30,Glenn,021,1,0,0,0
 2020-08-30,Humboldt,023,4,2,1,2
 2020-08-30,Imperial,025,102,145,1,19
@@ -3810,7 +3810,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-30,Siskiyou,093,1,0,0,0
 2020-08-30,Solano,095,43,118,0,11
 2020-08-30,Sonoma,097,196,376,1,22
-2020-08-30,Stanislaus,099,426,699,2,58
+2020-08-30,Stanislaus,099,425,698,1,57
 2020-08-30,Sutter,101,17,3,0,0
 2020-08-30,Trinity,105,1,0,0,0
 2020-08-30,Tulare,107,362,572,1,89
@@ -3825,7 +3825,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-31,Colusa,011,42,30,0,1
 2020-08-31,Contra Costa,013,258,414,4,51
 2020-08-31,El Dorado,017,4,2,0,0
-2020-08-31,Fresno,019,417,462,3,65
+2020-08-31,Fresno,019,418,463,4,66
 2020-08-31,Glenn,021,1,0,0,0
 2020-08-31,Humboldt,023,4,2,1,2
 2020-08-31,Imperial,025,113,145,1,19
@@ -3861,7 +3861,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-31,Siskiyou,093,1,0,0,0
 2020-08-31,Solano,095,43,119,0,11
 2020-08-31,Sonoma,097,204,390,1,23
-2020-08-31,Stanislaus,099,427,713,2,70
+2020-08-31,Stanislaus,099,426,712,1,69
 2020-08-31,Sutter,101,17,3,0,0
 2020-08-31,Trinity,105,1,0,0,0
 2020-08-31,Tulare,107,362,572,1,90
@@ -3876,7 +3876,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-01,Colusa,011,42,30,0,2
 2020-09-01,Contra Costa,013,258,414,4,51
 2020-09-01,El Dorado,017,4,2,0,0
-2020-09-01,Fresno,019,418,463,3,65
+2020-09-01,Fresno,019,419,464,4,66
 2020-09-01,Glenn,021,1,0,0,0
 2020-09-01,Humboldt,023,4,2,1,2
 2020-09-01,Imperial,025,113,151,1,19
@@ -3912,7 +3912,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-01,Siskiyou,093,1,0,0,0
 2020-09-01,Solano,095,43,119,0,11
 2020-09-01,Sonoma,097,204,391,1,23
-2020-09-01,Stanislaus,099,428,729,2,72
+2020-09-01,Stanislaus,099,427,728,1,71
 2020-09-01,Sutter,101,17,3,0,0
 2020-09-01,Trinity,105,1,0,0,0
 2020-09-01,Tulare,107,362,572,1,90
@@ -3927,7 +3927,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-02,Colusa,011,42,30,0,2
 2020-09-02,Contra Costa,013,259,414,4,51
 2020-09-02,El Dorado,017,4,2,0,0
-2020-09-02,Fresno,019,419,469,3,65
+2020-09-02,Fresno,019,420,470,4,66
 2020-09-02,Glenn,021,1,0,0,0
 2020-09-02,Humboldt,023,4,2,1,2
 2020-09-02,Imperial,025,113,153,1,19
@@ -3963,7 +3963,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-02,Siskiyou,093,1,0,0,0
 2020-09-02,Solano,095,43,119,0,11
 2020-09-02,Sonoma,097,204,391,1,23
-2020-09-02,Stanislaus,099,435,741,2,74
+2020-09-02,Stanislaus,099,434,740,1,73
 2020-09-02,Sutter,101,17,3,0,0
 2020-09-02,Trinity,105,1,0,0,0
 2020-09-02,Tulare,107,362,572,1,90
@@ -3978,7 +3978,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-03,Colusa,011,42,30,0,2
 2020-09-03,Contra Costa,013,259,414,4,51
 2020-09-03,El Dorado,017,4,2,0,0
-2020-09-03,Fresno,019,420,480,3,65
+2020-09-03,Fresno,019,421,481,4,66
 2020-09-03,Glenn,021,1,0,0,0
 2020-09-03,Humboldt,023,4,2,1,2
 2020-09-03,Imperial,025,113,154,1,19
@@ -4014,7 +4014,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-03,Siskiyou,093,1,0,0,0
 2020-09-03,Solano,095,43,119,0,11
 2020-09-03,Sonoma,097,207,425,1,24
-2020-09-03,Stanislaus,099,444,746,2,76
+2020-09-03,Stanislaus,099,443,745,1,75
 2020-09-03,Sutter,101,17,3,0,0
 2020-09-03,Trinity,105,1,0,0,0
 2020-09-03,Tulare,107,362,572,1,90
@@ -4029,7 +4029,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-04,Colusa,011,42,30,0,2
 2020-09-04,Contra Costa,013,259,414,4,51
 2020-09-04,El Dorado,017,4,2,0,0
-2020-09-04,Fresno,019,421,480,3,65
+2020-09-04,Fresno,019,422,481,4,66
 2020-09-04,Glenn,021,1,0,0,0
 2020-09-04,Humboldt,023,4,2,1,2
 2020-09-04,Imperial,025,113,154,1,19
@@ -4065,7 +4065,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-04,Siskiyou,093,1,0,0,0
 2020-09-04,Solano,095,43,119,0,11
 2020-09-04,Sonoma,097,217,425,1,24
-2020-09-04,Stanislaus,099,450,747,2,77
+2020-09-04,Stanislaus,099,449,746,1,76
 2020-09-04,Sutter,101,27,3,0,0
 2020-09-04,Trinity,105,1,0,0,0
 2020-09-04,Tulare,107,362,572,1,90
@@ -4080,7 +4080,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-05,Colusa,011,42,30,0,2
 2020-09-05,Contra Costa,013,259,414,4,51
 2020-09-05,El Dorado,017,4,2,0,0
-2020-09-05,Fresno,019,427,485,3,65
+2020-09-05,Fresno,019,428,486,4,66
 2020-09-05,Glenn,021,1,0,0,0
 2020-09-05,Humboldt,023,4,2,1,2
 2020-09-05,Imperial,025,113,154,1,19
@@ -4116,7 +4116,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-05,Siskiyou,093,1,0,0,0
 2020-09-05,Solano,095,43,119,0,11
 2020-09-05,Sonoma,097,222,425,1,24
-2020-09-05,Stanislaus,099,451,747,2,77
+2020-09-05,Stanislaus,099,450,746,1,76
 2020-09-05,Sutter,101,27,3,0,0
 2020-09-05,Trinity,105,1,0,0,0
 2020-09-05,Tulare,107,362,572,1,90
@@ -4131,7 +4131,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-06,Colusa,011,42,30,0,2
 2020-09-06,Contra Costa,013,260,414,4,51
 2020-09-06,El Dorado,017,4,2,0,0
-2020-09-06,Fresno,019,427,485,3,65
+2020-09-06,Fresno,019,428,486,4,66
 2020-09-06,Glenn,021,1,0,0,0
 2020-09-06,Humboldt,023,4,2,1,2
 2020-09-06,Imperial,025,113,154,1,19
@@ -4167,7 +4167,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-06,Siskiyou,093,1,0,0,0
 2020-09-06,Solano,095,43,119,0,11
 2020-09-06,Sonoma,097,223,426,1,24
-2020-09-06,Stanislaus,099,451,754,2,77
+2020-09-06,Stanislaus,099,450,753,1,76
 2020-09-06,Sutter,101,27,3,0,0
 2020-09-06,Trinity,105,1,0,0,0
 2020-09-06,Tulare,107,362,572,1,90
@@ -4182,7 +4182,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-07,Colusa,011,42,30,0,2
 2020-09-07,Contra Costa,013,260,414,4,51
 2020-09-07,El Dorado,017,4,2,0,0
-2020-09-07,Fresno,019,427,488,3,65
+2020-09-07,Fresno,019,428,489,4,66
 2020-09-07,Glenn,021,1,0,0,0
 2020-09-07,Humboldt,023,4,2,1,2
 2020-09-07,Imperial,025,113,154,1,19
@@ -4218,7 +4218,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-07,Siskiyou,093,1,0,0,0
 2020-09-07,Solano,095,54,120,0,11
 2020-09-07,Sonoma,097,235,437,1,25
-2020-09-07,Stanislaus,099,452,754,2,78
+2020-09-07,Stanislaus,099,451,753,1,77
 2020-09-07,Sutter,101,27,3,0,0
 2020-09-07,Trinity,105,1,0,0,0
 2020-09-07,Tulare,107,362,572,1,92
@@ -4233,7 +4233,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-08,Colusa,011,42,30,0,2
 2020-09-08,Contra Costa,013,260,414,4,51
 2020-09-08,El Dorado,017,4,2,0,0
-2020-09-08,Fresno,019,427,488,3,65
+2020-09-08,Fresno,019,428,489,4,66
 2020-09-08,Glenn,021,1,0,0,0
 2020-09-08,Humboldt,023,4,2,1,2
 2020-09-08,Imperial,025,113,154,1,19
@@ -4269,7 +4269,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-08,Siskiyou,093,1,0,0,0
 2020-09-08,Solano,095,54,120,0,11
 2020-09-08,Sonoma,097,236,437,1,25
-2020-09-08,Stanislaus,099,452,754,2,78
+2020-09-08,Stanislaus,099,451,753,1,77
 2020-09-08,Sutter,101,27,3,0,0
 2020-09-08,Trinity,105,1,0,0,0
 2020-09-08,Tulare,107,362,572,1,92
@@ -4284,7 +4284,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-09,Colusa,011,42,30,0,2
 2020-09-09,Contra Costa,013,262,415,4,51
 2020-09-09,El Dorado,017,4,2,0,0
-2020-09-09,Fresno,019,429,492,3,65
+2020-09-09,Fresno,019,430,493,4,66
 2020-09-09,Glenn,021,1,0,0,0
 2020-09-09,Humboldt,023,4,2,1,2
 2020-09-09,Imperial,025,113,154,1,19
@@ -4320,7 +4320,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-09,Siskiyou,093,1,0,0,0
 2020-09-09,Solano,095,54,120,0,11
 2020-09-09,Sonoma,097,236,438,1,25
-2020-09-09,Stanislaus,099,465,761,2,78
+2020-09-09,Stanislaus,099,464,760,1,77
 2020-09-09,Sutter,101,28,3,0,0
 2020-09-09,Trinity,105,1,0,0,0
 2020-09-09,Tulare,107,362,572,1,92
@@ -4335,7 +4335,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-10,Colusa,011,42,30,0,2
 2020-09-10,Contra Costa,013,263,428,4,51
 2020-09-10,El Dorado,017,4,2,0,0
-2020-09-10,Fresno,019,430,497,3,65
+2020-09-10,Fresno,019,431,498,4,66
 2020-09-10,Glenn,021,1,0,0,0
 2020-09-10,Humboldt,023,4,2,1,2
 2020-09-10,Imperial,025,113,154,1,19
@@ -4371,7 +4371,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-10,Siskiyou,093,1,0,0,0
 2020-09-10,Solano,095,54,120,0,11
 2020-09-10,Sonoma,097,239,439,1,25
-2020-09-10,Stanislaus,099,465,762,2,78
+2020-09-10,Stanislaus,099,464,761,1,77
 2020-09-10,Sutter,101,28,3,0,0
 2020-09-10,Trinity,105,1,0,0,0
 2020-09-10,Tulare,107,362,572,1,92
@@ -4386,7 +4386,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-11,Colusa,011,42,30,0,2
 2020-09-11,Contra Costa,013,263,433,4,51
 2020-09-11,El Dorado,017,4,2,0,0
-2020-09-11,Fresno,019,430,507,3,65
+2020-09-11,Fresno,019,431,508,4,66
 2020-09-11,Glenn,021,1,0,0,0
 2020-09-11,Humboldt,023,4,2,1,2
 2020-09-11,Imperial,025,113,154,1,19
@@ -4422,7 +4422,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-11,Siskiyou,093,1,0,0,0
 2020-09-11,Solano,095,54,120,0,11
 2020-09-11,Sonoma,097,240,440,1,25
-2020-09-11,Stanislaus,099,477,765,2,78
+2020-09-11,Stanislaus,099,476,764,1,77
 2020-09-11,Sutter,101,28,3,0,0
 2020-09-11,Trinity,105,1,0,0,0
 2020-09-11,Tulare,107,362,572,1,92
@@ -4437,7 +4437,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-12,Colusa,011,42,30,0,2
 2020-09-12,Contra Costa,013,263,433,4,51
 2020-09-12,El Dorado,017,4,2,0,0
-2020-09-12,Fresno,019,431,507,3,65
+2020-09-12,Fresno,019,432,508,4,66
 2020-09-12,Glenn,021,1,0,0,0
 2020-09-12,Humboldt,023,4,2,1,2
 2020-09-12,Imperial,025,113,154,1,19
@@ -4473,7 +4473,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-12,Siskiyou,093,1,0,0,0
 2020-09-12,Solano,095,54,120,0,11
 2020-09-12,Sonoma,097,240,440,1,25
-2020-09-12,Stanislaus,099,479,765,3,78
+2020-09-12,Stanislaus,099,478,764,2,77
 2020-09-12,Sutter,101,28,3,0,0
 2020-09-12,Trinity,105,1,0,0,0
 2020-09-12,Tulare,107,363,572,1,92
@@ -4488,7 +4488,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-13,Colusa,011,42,30,0,2
 2020-09-13,Contra Costa,013,263,433,4,51
 2020-09-13,El Dorado,017,4,2,0,0
-2020-09-13,Fresno,019,431,507,3,65
+2020-09-13,Fresno,019,432,508,4,66
 2020-09-13,Glenn,021,1,0,0,0
 2020-09-13,Humboldt,023,4,2,1,2
 2020-09-13,Imperial,025,113,154,1,19
@@ -4524,7 +4524,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-13,Siskiyou,093,1,0,0,0
 2020-09-13,Solano,095,54,120,0,11
 2020-09-13,Sonoma,097,241,441,1,25
-2020-09-13,Stanislaus,099,481,765,3,78
+2020-09-13,Stanislaus,099,480,764,2,77
 2020-09-13,Sutter,101,28,3,0,0
 2020-09-13,Trinity,105,1,0,0,0
 2020-09-13,Tulare,107,363,572,1,93
@@ -4539,7 +4539,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-14,Colusa,011,42,30,0,2
 2020-09-14,Contra Costa,013,264,433,4,51
 2020-09-14,El Dorado,017,4,2,0,0
-2020-09-14,Fresno,019,433,508,3,65
+2020-09-14,Fresno,019,434,509,4,66
 2020-09-14,Glenn,021,1,0,0,0
 2020-09-14,Humboldt,023,4,2,1,2
 2020-09-14,Imperial,025,113,154,1,19
@@ -4575,7 +4575,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-14,Siskiyou,093,1,0,0,0
 2020-09-14,Solano,095,56,148,1,12
 2020-09-14,Sonoma,097,251,443,1,27
-2020-09-14,Stanislaus,099,482,765,3,78
+2020-09-14,Stanislaus,099,481,764,2,77
 2020-09-14,Sutter,101,28,3,0,0
 2020-09-14,Trinity,105,1,0,0,0
 2020-09-14,Tulare,107,363,572,1,94
@@ -4590,7 +4590,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-15,Colusa,011,42,30,0,2
 2020-09-15,Contra Costa,013,264,433,4,51
 2020-09-15,El Dorado,017,4,2,0,0
-2020-09-15,Fresno,019,433,508,3,65
+2020-09-15,Fresno,019,434,509,4,66
 2020-09-15,Glenn,021,1,0,0,0
 2020-09-15,Humboldt,023,4,2,1,2
 2020-09-15,Imperial,025,114,154,1,19
@@ -4626,7 +4626,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-15,Siskiyou,093,1,0,0,0
 2020-09-15,Solano,095,57,157,1,13
 2020-09-15,Sonoma,097,252,443,1,27
-2020-09-15,Stanislaus,099,483,771,3,78
+2020-09-15,Stanislaus,099,482,770,2,77
 2020-09-15,Sutter,101,28,3,0,0
 2020-09-15,Trinity,105,1,0,0,0
 2020-09-15,Tulare,107,363,572,1,94
@@ -4641,7 +4641,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-16,Colusa,011,42,30,0,2
 2020-09-16,Contra Costa,013,265,434,4,53
 2020-09-16,El Dorado,017,4,2,0,0
-2020-09-16,Fresno,019,434,509,3,65
+2020-09-16,Fresno,019,435,510,4,66
 2020-09-16,Glenn,021,1,0,0,0
 2020-09-16,Humboldt,023,4,2,1,2
 2020-09-16,Imperial,025,114,154,1,19
@@ -4677,7 +4677,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-16,Siskiyou,093,1,0,0,0
 2020-09-16,Solano,095,57,157,1,13
 2020-09-16,Sonoma,097,252,443,1,27
-2020-09-16,Stanislaus,099,483,772,3,79
+2020-09-16,Stanislaus,099,482,771,2,78
 2020-09-16,Sutter,101,28,3,0,0
 2020-09-16,Trinity,105,1,0,0,0
 2020-09-16,Tulare,107,363,572,1,94
@@ -4692,7 +4692,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-17,Colusa,011,42,30,0,2
 2020-09-17,Contra Costa,013,265,435,4,53
 2020-09-17,El Dorado,017,4,2,0,0
-2020-09-17,Fresno,019,437,510,3,65
+2020-09-17,Fresno,019,438,511,4,66
 2020-09-17,Glenn,021,1,0,0,0
 2020-09-17,Humboldt,023,4,2,1,2
 2020-09-17,Imperial,025,114,155,1,19
@@ -4728,7 +4728,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-17,Siskiyou,093,1,0,0,0
 2020-09-17,Solano,095,57,157,1,13
 2020-09-17,Sonoma,097,252,443,1,27
-2020-09-17,Stanislaus,099,488,772,3,79
+2020-09-17,Stanislaus,099,487,771,2,78
 2020-09-17,Sutter,101,28,3,0,0
 2020-09-17,Trinity,105,1,0,0,0
 2020-09-17,Tulare,107,363,572,1,94
@@ -4743,7 +4743,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-18,Colusa,011,42,30,0,2
 2020-09-18,Contra Costa,013,265,435,4,53
 2020-09-18,El Dorado,017,4,2,0,0
-2020-09-18,Fresno,019,438,510,3,65
+2020-09-18,Fresno,019,439,511,4,66
 2020-09-18,Glenn,021,1,0,0,0
 2020-09-18,Humboldt,023,4,2,1,2
 2020-09-18,Imperial,025,114,155,1,19
@@ -4779,7 +4779,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-18,Siskiyou,093,1,0,0,0
 2020-09-18,Solano,095,59,165,1,14
 2020-09-18,Sonoma,097,254,448,1,27
-2020-09-18,Stanislaus,099,488,772,3,79
+2020-09-18,Stanislaus,099,487,771,2,78
 2020-09-18,Sutter,101,28,3,0,0
 2020-09-18,Trinity,105,1,0,0,0
 2020-09-18,Tulare,107,365,572,1,94
@@ -4794,7 +4794,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-19,Colusa,011,42,30,0,2
 2020-09-19,Contra Costa,013,265,435,4,53
 2020-09-19,El Dorado,017,4,2,0,0
-2020-09-19,Fresno,019,438,510,3,65
+2020-09-19,Fresno,019,439,511,4,66
 2020-09-19,Glenn,021,1,0,0,0
 2020-09-19,Humboldt,023,4,2,1,2
 2020-09-19,Imperial,025,114,155,1,19
@@ -4830,7 +4830,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-19,Siskiyou,093,1,0,0,0
 2020-09-19,Solano,095,59,165,1,14
 2020-09-19,Sonoma,097,255,448,1,27
-2020-09-19,Stanislaus,099,488,777,3,79
+2020-09-19,Stanislaus,099,487,776,2,78
 2020-09-19,Sutter,101,28,3,0,0
 2020-09-19,Trinity,105,1,0,0,0
 2020-09-19,Tulare,107,385,572,1,94
@@ -4845,7 +4845,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-20,Colusa,011,42,30,0,2
 2020-09-20,Contra Costa,013,265,435,4,53
 2020-09-20,El Dorado,017,4,2,0,0
-2020-09-20,Fresno,019,440,510,3,65
+2020-09-20,Fresno,019,441,511,4,66
 2020-09-20,Glenn,021,1,0,0,0
 2020-09-20,Humboldt,023,4,2,1,2
 2020-09-20,Imperial,025,114,155,1,19
@@ -4881,7 +4881,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-20,Siskiyou,093,1,0,0,0
 2020-09-20,Solano,095,63,167,1,14
 2020-09-20,Sonoma,097,255,448,1,27
-2020-09-20,Stanislaus,099,488,777,3,79
+2020-09-20,Stanislaus,099,487,776,2,78
 2020-09-20,Sutter,101,28,3,0,0
 2020-09-20,Trinity,105,1,0,0,0
 2020-09-20,Tulare,107,385,572,1,94
@@ -4897,7 +4897,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-21,Contra Costa,013,265,435,4,53
 2020-09-21,Del Norte,015,1,0,0,0
 2020-09-21,El Dorado,017,4,2,0,0
-2020-09-21,Fresno,019,440,510,3,65
+2020-09-21,Fresno,019,441,511,4,66
 2020-09-21,Glenn,021,1,0,0,0
 2020-09-21,Humboldt,023,4,2,1,2
 2020-09-21,Imperial,025,114,156,1,19
@@ -4933,7 +4933,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-21,Siskiyou,093,1,0,0,0
 2020-09-21,Solano,095,63,167,1,14
 2020-09-21,Sonoma,097,255,448,1,27
-2020-09-21,Stanislaus,099,490,778,2,80
+2020-09-21,Stanislaus,099,489,777,1,79
 2020-09-21,Sutter,101,28,3,0,0
 2020-09-21,Trinity,105,1,0,0,0
 2020-09-21,Tulare,107,386,572,1,94
@@ -4949,7 +4949,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-22,Contra Costa,013,267,436,4,54
 2020-09-22,Del Norte,015,1,0,0,0
 2020-09-22,El Dorado,017,4,2,0,0
-2020-09-22,Fresno,019,441,511,3,66
+2020-09-22,Fresno,019,442,512,4,67
 2020-09-22,Glenn,021,1,0,0,0
 2020-09-22,Humboldt,023,4,2,1,2
 2020-09-22,Imperial,025,115,156,1,19
@@ -4985,7 +4985,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-22,Siskiyou,093,1,0,0,0
 2020-09-22,Solano,095,63,167,1,14
 2020-09-22,Sonoma,097,255,449,1,27
-2020-09-22,Stanislaus,099,496,808,2,81
+2020-09-22,Stanislaus,099,495,807,1,80
 2020-09-22,Sutter,101,28,3,0,0
 2020-09-22,Trinity,105,1,0,0,0
 2020-09-22,Tulare,107,386,572,1,94
@@ -5001,7 +5001,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-23,Contra Costa,013,267,436,4,54
 2020-09-23,Del Norte,015,1,0,0,0
 2020-09-23,El Dorado,017,4,2,0,0
-2020-09-23,Fresno,019,441,512,3,66
+2020-09-23,Fresno,019,442,513,4,67
 2020-09-23,Glenn,021,1,0,0,0
 2020-09-23,Humboldt,023,4,2,1,2
 2020-09-23,Imperial,025,116,157,1,19
@@ -5037,7 +5037,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-23,Siskiyou,093,1,0,0,0
 2020-09-23,Solano,095,63,167,1,14
 2020-09-23,Sonoma,097,256,450,1,27
-2020-09-23,Stanislaus,099,496,810,2,81
+2020-09-23,Stanislaus,099,495,809,1,80
 2020-09-23,Sutter,101,28,3,0,0
 2020-09-23,Trinity,105,1,0,0,0
 2020-09-23,Tulare,107,388,572,1,95
@@ -5053,7 +5053,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-24,Contra Costa,013,267,436,4,54
 2020-09-24,Del Norte,015,1,0,0,0
 2020-09-24,El Dorado,017,4,2,0,0
-2020-09-24,Fresno,019,441,512,3,66
+2020-09-24,Fresno,019,442,513,4,67
 2020-09-24,Glenn,021,1,0,0,0
 2020-09-24,Humboldt,023,4,2,1,2
 2020-09-24,Imperial,025,120,157,1,19
@@ -5089,7 +5089,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-24,Siskiyou,093,1,0,0,0
 2020-09-24,Solano,095,64,167,1,14
 2020-09-24,Sonoma,097,257,450,1,27
-2020-09-24,Stanislaus,099,498,810,2,81
+2020-09-24,Stanislaus,099,497,809,1,80
 2020-09-24,Sutter,101,28,3,0,0
 2020-09-24,Trinity,105,1,0,0,0
 2020-09-24,Tulare,107,388,572,1,95
@@ -5105,7 +5105,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-25,Contra Costa,013,268,436,4,54
 2020-09-25,Del Norte,015,1,0,0,0
 2020-09-25,El Dorado,017,4,2,0,0
-2020-09-25,Fresno,019,458,512,3,66
+2020-09-25,Fresno,019,459,513,4,67
 2020-09-25,Glenn,021,1,0,0,0
 2020-09-25,Humboldt,023,4,2,1,2
 2020-09-25,Imperial,025,120,157,1,19
@@ -5141,7 +5141,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-25,Siskiyou,093,1,0,0,0
 2020-09-25,Solano,095,64,167,1,14
 2020-09-25,Sonoma,097,259,460,1,27
-2020-09-25,Stanislaus,099,498,811,2,81
+2020-09-25,Stanislaus,099,497,810,1,80
 2020-09-25,Sutter,101,28,3,0,0
 2020-09-25,Trinity,105,1,0,0,0
 2020-09-25,Tulare,107,389,572,1,95
@@ -5157,7 +5157,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-26,Contra Costa,013,268,436,4,54
 2020-09-26,Del Norte,015,1,0,0,0
 2020-09-26,El Dorado,017,4,2,0,0
-2020-09-26,Fresno,019,461,512,3,66
+2020-09-26,Fresno,019,462,513,4,67
 2020-09-26,Glenn,021,1,0,0,0
 2020-09-26,Humboldt,023,4,2,1,2
 2020-09-26,Imperial,025,120,158,1,19
@@ -5193,7 +5193,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-26,Siskiyou,093,1,0,0,0
 2020-09-26,Solano,095,65,167,1,14
 2020-09-26,Sonoma,097,259,460,1,27
-2020-09-26,Stanislaus,099,499,812,2,81
+2020-09-26,Stanislaus,099,498,811,1,80
 2020-09-26,Sutter,101,28,3,0,0
 2020-09-26,Trinity,105,1,0,0,0
 2020-09-26,Tulare,107,389,572,1,96
@@ -5209,7 +5209,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-27,Contra Costa,013,268,436,4,54
 2020-09-27,Del Norte,015,1,0,0,0
 2020-09-27,El Dorado,017,4,2,0,0
-2020-09-27,Fresno,019,462,512,3,66
+2020-09-27,Fresno,019,463,513,4,67
 2020-09-27,Glenn,021,1,0,0,0
 2020-09-27,Humboldt,023,4,2,1,2
 2020-09-27,Imperial,025,120,158,1,19
@@ -5245,7 +5245,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-27,Siskiyou,093,1,0,0,0
 2020-09-27,Solano,095,68,170,1,14
 2020-09-27,Sonoma,097,259,460,1,27
-2020-09-27,Stanislaus,099,500,812,2,81
+2020-09-27,Stanislaus,099,499,811,1,80
 2020-09-27,Sutter,101,28,3,0,0
 2020-09-27,Trinity,105,1,0,0,0
 2020-09-27,Tulare,107,390,572,1,96
@@ -5261,7 +5261,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-28,Contra Costa,013,268,436,4,54
 2020-09-28,Del Norte,015,1,0,0,0
 2020-09-28,El Dorado,017,4,2,0,0
-2020-09-28,Fresno,019,462,512,3,66
+2020-09-28,Fresno,019,463,513,4,67
 2020-09-28,Glenn,021,1,0,0,0
 2020-09-28,Humboldt,023,4,2,1,2
 2020-09-28,Imperial,025,121,159,1,19
@@ -5297,7 +5297,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-28,Siskiyou,093,1,0,0,0
 2020-09-28,Solano,095,68,170,1,14
 2020-09-28,Sonoma,097,260,460,1,27
-2020-09-28,Stanislaus,099,500,812,2,81
+2020-09-28,Stanislaus,099,499,811,1,80
 2020-09-28,Sutter,101,28,3,0,0
 2020-09-28,Tehama,103,1,0,0,0
 2020-09-28,Trinity,105,1,0,0,0
@@ -5314,7 +5314,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-29,Contra Costa,013,268,436,4,54
 2020-09-29,Del Norte,015,1,0,0,0
 2020-09-29,El Dorado,017,4,2,0,0
-2020-09-29,Fresno,019,462,512,3,66
+2020-09-29,Fresno,019,463,513,4,67
 2020-09-29,Glenn,021,1,0,0,0
 2020-09-29,Humboldt,023,4,2,1,2
 2020-09-29,Imperial,025,121,159,1,19
@@ -5350,7 +5350,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-29,Siskiyou,093,1,0,0,0
 2020-09-29,Solano,095,68,170,1,14
 2020-09-29,Sonoma,097,260,460,1,27
-2020-09-29,Stanislaus,099,500,814,2,91
+2020-09-29,Stanislaus,099,499,813,1,90
 2020-09-29,Sutter,101,28,3,0,0
 2020-09-29,Tehama,103,1,0,0,0
 2020-09-29,Trinity,105,1,0,0,0
@@ -5367,7 +5367,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Contra Costa,013,268,436,4,54
 2020-09-30,Del Norte,015,1,0,0,0
 2020-09-30,El Dorado,017,4,2,0,0
-2020-09-30,Fresno,019,464,512,3,66
+2020-09-30,Fresno,019,465,513,4,67
 2020-09-30,Glenn,021,1,0,0,0
 2020-09-30,Humboldt,023,4,2,1,2
 2020-09-30,Imperial,025,121,159,1,19
@@ -5403,7 +5403,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Siskiyou,093,1,0,0,0
 2020-09-30,Solano,095,68,170,1,14
 2020-09-30,Sonoma,097,261,460,1,27
-2020-09-30,Stanislaus,099,506,814,2,91
+2020-09-30,Stanislaus,099,505,813,1,90
 2020-09-30,Sutter,101,28,3,0,0
 2020-09-30,Tehama,103,1,0,0,0
 2020-09-30,Trinity,105,1,0,0,0
@@ -5420,7 +5420,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-01,Contra Costa,013,268,436,4,54
 2020-10-01,Del Norte,015,1,0,0,0
 2020-10-01,El Dorado,017,4,2,0,0
-2020-10-01,Fresno,019,464,512,3,66
+2020-10-01,Fresno,019,465,513,4,67
 2020-10-01,Glenn,021,1,0,0,0
 2020-10-01,Humboldt,023,4,2,1,2
 2020-10-01,Imperial,025,121,159,1,19
@@ -5456,7 +5456,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-01,Siskiyou,093,1,0,0,0
 2020-10-01,Solano,095,68,170,1,14
 2020-10-01,Sonoma,097,262,460,1,27
-2020-10-01,Stanislaus,099,506,815,2,93
+2020-10-01,Stanislaus,099,505,814,1,92
 2020-10-01,Sutter,101,29,3,0,0
 2020-10-01,Tehama,103,1,0,0,0
 2020-10-01,Trinity,105,1,0,0,0
@@ -5473,7 +5473,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-02,Contra Costa,013,270,452,4,55
 2020-10-02,Del Norte,015,1,0,0,0
 2020-10-02,El Dorado,017,4,2,0,0
-2020-10-02,Fresno,019,464,512,3,66
+2020-10-02,Fresno,019,465,513,4,67
 2020-10-02,Glenn,021,1,0,0,0
 2020-10-02,Humboldt,023,4,2,1,2
 2020-10-02,Imperial,025,124,159,1,19
@@ -5509,7 +5509,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-02,Siskiyou,093,1,0,0,0
 2020-10-02,Solano,095,68,170,1,14
 2020-10-02,Sonoma,097,262,460,1,27
-2020-10-02,Stanislaus,099,506,815,2,93
+2020-10-02,Stanislaus,099,505,814,1,92
 2020-10-02,Sutter,101,31,3,0,0
 2020-10-02,Tehama,103,1,1,0,0
 2020-10-02,Trinity,105,1,0,0,0
@@ -5526,7 +5526,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-03,Contra Costa,013,270,452,4,55
 2020-10-03,Del Norte,015,1,0,0,0
 2020-10-03,El Dorado,017,4,2,0,0
-2020-10-03,Fresno,019,465,512,3,66
+2020-10-03,Fresno,019,466,513,4,67
 2020-10-03,Glenn,021,1,0,0,0
 2020-10-03,Humboldt,023,4,2,1,2
 2020-10-03,Imperial,025,124,159,1,19
@@ -5563,7 +5563,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-03,Siskiyou,093,1,0,0,0
 2020-10-03,Solano,095,68,170,1,14
 2020-10-03,Sonoma,097,262,460,1,27
-2020-10-03,Stanislaus,099,506,817,2,104
+2020-10-03,Stanislaus,099,505,816,1,103
 2020-10-03,Sutter,101,31,3,0,0
 2020-10-03,Tehama,103,1,1,0,0
 2020-10-03,Trinity,105,1,0,0,0
@@ -5580,7 +5580,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-04,Contra Costa,013,270,452,4,55
 2020-10-04,Del Norte,015,1,0,0,0
 2020-10-04,El Dorado,017,4,2,0,0
-2020-10-04,Fresno,019,465,512,3,66
+2020-10-04,Fresno,019,466,513,4,67
 2020-10-04,Glenn,021,1,0,0,0
 2020-10-04,Humboldt,023,4,2,1,2
 2020-10-04,Imperial,025,124,159,1,19
@@ -5617,7 +5617,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-04,Siskiyou,093,1,0,0,0
 2020-10-04,Solano,095,69,170,1,14
 2020-10-04,Sonoma,097,262,460,1,27
-2020-10-04,Stanislaus,099,508,817,2,104
+2020-10-04,Stanislaus,099,507,816,1,103
 2020-10-04,Sutter,101,31,3,0,0
 2020-10-04,Tehama,103,1,1,0,0
 2020-10-04,Trinity,105,1,0,0,0
@@ -5634,7 +5634,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-05,Contra Costa,013,270,452,4,55
 2020-10-05,Del Norte,015,1,0,0,0
 2020-10-05,El Dorado,017,4,2,0,0
-2020-10-05,Fresno,019,468,512,3,66
+2020-10-05,Fresno,019,469,513,4,67
 2020-10-05,Glenn,021,1,0,0,0
 2020-10-05,Humboldt,023,4,2,1,2
 2020-10-05,Imperial,025,124,159,1,19
@@ -5671,7 +5671,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-05,Siskiyou,093,1,0,0,0
 2020-10-05,Solano,095,70,170,1,14
 2020-10-05,Sonoma,097,265,460,1,27
-2020-10-05,Stanislaus,099,508,818,2,104
+2020-10-05,Stanislaus,099,507,817,1,103
 2020-10-05,Sutter,101,31,3,0,0
 2020-10-05,Tehama,103,1,1,0,0
 2020-10-05,Trinity,105,1,0,0,0
@@ -5688,7 +5688,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-06,Contra Costa,013,270,452,4,55
 2020-10-06,Del Norte,015,1,0,0,0
 2020-10-06,El Dorado,017,4,2,0,0
-2020-10-06,Fresno,019,468,512,3,66
+2020-10-06,Fresno,019,469,513,4,67
 2020-10-06,Glenn,021,1,0,0,0
 2020-10-06,Humboldt,023,4,2,1,2
 2020-10-06,Imperial,025,124,159,1,19
@@ -5725,7 +5725,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-06,Siskiyou,093,1,0,0,0
 2020-10-06,Solano,095,70,170,1,14
 2020-10-06,Sonoma,097,266,460,1,27
-2020-10-06,Stanislaus,099,509,818,2,104
+2020-10-06,Stanislaus,099,508,817,1,103
 2020-10-06,Sutter,101,31,3,0,0
 2020-10-06,Tehama,103,1,1,0,0
 2020-10-06,Trinity,105,1,0,0,0
@@ -5742,7 +5742,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-07,Contra Costa,013,270,452,4,55
 2020-10-07,Del Norte,015,1,0,0,0
 2020-10-07,El Dorado,017,4,2,0,0
-2020-10-07,Fresno,019,468,512,3,66
+2020-10-07,Fresno,019,469,513,4,67
 2020-10-07,Glenn,021,1,0,0,0
 2020-10-07,Humboldt,023,4,2,1,2
 2020-10-07,Imperial,025,124,159,1,19
@@ -5779,7 +5779,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-07,Siskiyou,093,1,0,0,0
 2020-10-07,Solano,095,70,170,1,14
 2020-10-07,Sonoma,097,266,460,1,27
-2020-10-07,Stanislaus,099,512,818,2,104
+2020-10-07,Stanislaus,099,511,817,1,103
 2020-10-07,Sutter,101,31,3,0,0
 2020-10-07,Tehama,103,1,1,0,0
 2020-10-07,Trinity,105,1,0,0,0
@@ -5796,7 +5796,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-08,Contra Costa,013,270,452,4,55
 2020-10-08,Del Norte,015,1,0,0,0
 2020-10-08,El Dorado,017,4,2,0,0
-2020-10-08,Fresno,019,468,514,3,66
+2020-10-08,Fresno,019,469,515,4,67
 2020-10-08,Glenn,021,1,0,0,0
 2020-10-08,Humboldt,023,4,2,1,2
 2020-10-08,Imperial,025,124,159,1,19
@@ -5833,7 +5833,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-08,Siskiyou,093,1,0,0,0
 2020-10-08,Solano,095,71,170,1,14
 2020-10-08,Sonoma,097,266,460,1,27
-2020-10-08,Stanislaus,099,512,818,2,104
+2020-10-08,Stanislaus,099,511,817,1,103
 2020-10-08,Sutter,101,32,3,0,0
 2020-10-08,Tehama,103,1,1,0,0
 2020-10-08,Trinity,105,1,0,0,0
@@ -5850,7 +5850,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-09,Contra Costa,013,270,452,4,55
 2020-10-09,Del Norte,015,1,0,0,0
 2020-10-09,El Dorado,017,4,2,0,0
-2020-10-09,Fresno,019,471,514,3,66
+2020-10-09,Fresno,019,472,515,4,67
 2020-10-09,Glenn,021,1,0,0,0
 2020-10-09,Humboldt,023,4,2,1,2
 2020-10-09,Imperial,025,124,159,1,19
@@ -5887,7 +5887,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-09,Siskiyou,093,1,0,0,0
 2020-10-09,Solano,095,71,170,1,14
 2020-10-09,Sonoma,097,266,460,1,27
-2020-10-09,Stanislaus,099,524,818,2,104
+2020-10-09,Stanislaus,099,523,817,1,103
 2020-10-09,Sutter,101,32,3,0,0
 2020-10-09,Tehama,103,1,1,0,0
 2020-10-09,Trinity,105,1,0,0,0
@@ -5904,7 +5904,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-10,Contra Costa,013,270,452,4,55
 2020-10-10,Del Norte,015,1,0,0,0
 2020-10-10,El Dorado,017,4,2,0,0
-2020-10-10,Fresno,019,471,514,3,66
+2020-10-10,Fresno,019,472,515,4,67
 2020-10-10,Glenn,021,1,0,0,0
 2020-10-10,Humboldt,023,4,2,1,2
 2020-10-10,Imperial,025,124,159,1,19
@@ -5941,7 +5941,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-10,Siskiyou,093,1,0,0,0
 2020-10-10,Solano,095,71,170,1,14
 2020-10-10,Sonoma,097,276,460,1,27
-2020-10-10,Stanislaus,099,524,822,2,104
+2020-10-10,Stanislaus,099,523,821,1,103
 2020-10-10,Sutter,101,32,3,0,0
 2020-10-10,Tehama,103,1,1,0,0
 2020-10-10,Trinity,105,1,0,0,0
@@ -5958,7 +5958,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-11,Contra Costa,013,270,452,4,55
 2020-10-11,Del Norte,015,1,0,0,0
 2020-10-11,El Dorado,017,4,2,0,0
-2020-10-11,Fresno,019,471,514,3,66
+2020-10-11,Fresno,019,472,515,4,67
 2020-10-11,Glenn,021,1,0,0,0
 2020-10-11,Humboldt,023,4,2,1,2
 2020-10-11,Imperial,025,124,159,1,19
@@ -5995,7 +5995,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-11,Siskiyou,093,1,0,0,0
 2020-10-11,Solano,095,72,171,1,14
 2020-10-11,Sonoma,097,276,460,1,27
-2020-10-11,Stanislaus,099,524,822,2,104
+2020-10-11,Stanislaus,099,523,821,1,103
 2020-10-11,Sutter,101,32,3,0,0
 2020-10-11,Tehama,103,1,1,0,0
 2020-10-11,Trinity,105,1,0,0,0
@@ -6012,7 +6012,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-12,Contra Costa,013,271,453,4,56
 2020-10-12,Del Norte,015,1,0,0,0
 2020-10-12,El Dorado,017,4,2,0,0
-2020-10-12,Fresno,019,472,514,3,66
+2020-10-12,Fresno,019,473,515,4,67
 2020-10-12,Glenn,021,1,0,0,0
 2020-10-12,Humboldt,023,4,2,1,2
 2020-10-12,Imperial,025,124,159,1,19
@@ -6049,7 +6049,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-12,Siskiyou,093,1,0,0,0
 2020-10-12,Solano,095,72,171,1,14
 2020-10-12,Sonoma,097,275,460,1,27
-2020-10-12,Stanislaus,099,524,823,2,104
+2020-10-12,Stanislaus,099,523,822,1,103
 2020-10-12,Sutter,101,32,3,0,0
 2020-10-12,Tehama,103,1,1,0,0
 2020-10-12,Trinity,105,1,0,0,0
@@ -6066,7 +6066,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-13,Contra Costa,013,271,454,4,56
 2020-10-13,Del Norte,015,1,0,0,0
 2020-10-13,El Dorado,017,4,2,0,0
-2020-10-13,Fresno,019,472,514,3,66
+2020-10-13,Fresno,019,473,515,4,67
 2020-10-13,Glenn,021,1,0,0,0
 2020-10-13,Humboldt,023,4,2,1,2
 2020-10-13,Imperial,025,124,159,1,19
@@ -6103,7 +6103,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-13,Siskiyou,093,1,0,0,0
 2020-10-13,Solano,095,72,171,1,14
 2020-10-13,Sonoma,097,288,475,1,27
-2020-10-13,Stanislaus,099,524,824,2,104
+2020-10-13,Stanislaus,099,523,823,1,103
 2020-10-13,Sutter,101,32,3,0,0
 2020-10-13,Tehama,103,1,1,0,0
 2020-10-13,Trinity,105,1,0,0,0
@@ -6120,7 +6120,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-14,Contra Costa,013,271,454,4,56
 2020-10-14,Del Norte,015,1,0,0,0
 2020-10-14,El Dorado,017,4,2,0,0
-2020-10-14,Fresno,019,473,514,3,66
+2020-10-14,Fresno,019,474,515,4,67
 2020-10-14,Glenn,021,1,0,0,0
 2020-10-14,Humboldt,023,4,2,1,2
 2020-10-14,Imperial,025,125,159,1,19
@@ -6157,7 +6157,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-14,Siskiyou,093,1,0,0,0
 2020-10-14,Solano,095,72,171,1,14
 2020-10-14,Sonoma,097,289,476,1,28
-2020-10-14,Stanislaus,099,525,824,2,104
+2020-10-14,Stanislaus,099,524,823,1,103
 2020-10-14,Sutter,101,32,3,0,0
 2020-10-14,Tehama,103,1,1,0,0
 2020-10-14,Trinity,105,1,0,0,0
@@ -6174,7 +6174,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-15,Contra Costa,013,271,454,4,56
 2020-10-15,Del Norte,015,1,0,0,0
 2020-10-15,El Dorado,017,4,2,0,0
-2020-10-15,Fresno,019,463,514,3,66
+2020-10-15,Fresno,019,464,515,4,67
 2020-10-15,Glenn,021,1,0,0,0
 2020-10-15,Humboldt,023,4,2,1,2
 2020-10-15,Imperial,025,125,159,1,19
@@ -6211,7 +6211,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-15,Siskiyou,093,1,0,0,0
 2020-10-15,Solano,095,72,171,1,14
 2020-10-15,Sonoma,097,289,476,1,29
-2020-10-15,Stanislaus,099,526,824,2,104
+2020-10-15,Stanislaus,099,525,823,1,103
 2020-10-15,Sutter,101,33,3,0,0
 2020-10-15,Tehama,103,1,19,0,0
 2020-10-15,Trinity,105,1,0,0,0
@@ -6228,7 +6228,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-16,Contra Costa,013,272,454,4,56
 2020-10-16,Del Norte,015,1,0,0,0
 2020-10-16,El Dorado,017,4,2,0,0
-2020-10-16,Fresno,019,464,515,3,66
+2020-10-16,Fresno,019,465,516,4,67
 2020-10-16,Glenn,021,1,0,0,0
 2020-10-16,Humboldt,023,4,2,1,2
 2020-10-16,Imperial,025,125,159,1,19
@@ -6265,7 +6265,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-16,Siskiyou,093,1,0,0,0
 2020-10-16,Solano,095,73,171,1,14
 2020-10-16,Sonoma,097,289,477,1,29
-2020-10-16,Stanislaus,099,527,827,2,104
+2020-10-16,Stanislaus,099,526,826,1,103
 2020-10-16,Sutter,101,34,3,0,0
 2020-10-16,Tehama,103,11,22,0,0
 2020-10-16,Trinity,105,1,0,0,0
@@ -6282,7 +6282,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-17,Contra Costa,013,272,454,4,56
 2020-10-17,Del Norte,015,1,0,0,0
 2020-10-17,El Dorado,017,4,2,0,0
-2020-10-17,Fresno,019,464,515,3,66
+2020-10-17,Fresno,019,465,516,4,67
 2020-10-17,Glenn,021,1,0,0,0
 2020-10-17,Humboldt,023,4,2,1,2
 2020-10-17,Imperial,025,125,159,1,19
@@ -6319,7 +6319,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-17,Siskiyou,093,1,0,0,0
 2020-10-17,Solano,095,73,171,1,14
 2020-10-17,Sonoma,097,289,477,1,29
-2020-10-17,Stanislaus,099,527,828,2,104
+2020-10-17,Stanislaus,099,526,827,1,103
 2020-10-17,Sutter,101,34,3,0,0
 2020-10-17,Tehama,103,12,30,0,0
 2020-10-17,Trinity,105,1,0,0,0
@@ -6336,7 +6336,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-18,Contra Costa,013,272,454,4,56
 2020-10-18,Del Norte,015,1,0,0,0
 2020-10-18,El Dorado,017,4,2,0,0
-2020-10-18,Fresno,019,464,515,3,66
+2020-10-18,Fresno,019,465,516,4,67
 2020-10-18,Glenn,021,1,0,0,0
 2020-10-18,Humboldt,023,4,2,1,2
 2020-10-18,Imperial,025,125,159,1,19
@@ -6373,7 +6373,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-18,Siskiyou,093,1,0,0,0
 2020-10-18,Solano,095,73,171,1,14
 2020-10-18,Sonoma,097,289,477,1,29
-2020-10-18,Stanislaus,099,528,835,2,104
+2020-10-18,Stanislaus,099,527,834,1,103
 2020-10-18,Sutter,101,34,3,0,0
 2020-10-18,Tehama,103,12,30,0,0
 2020-10-18,Trinity,105,1,0,0,0
@@ -6390,7 +6390,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-19,Contra Costa,013,273,454,4,56
 2020-10-19,Del Norte,015,1,0,0,0
 2020-10-19,El Dorado,017,4,2,0,0
-2020-10-19,Fresno,019,464,515,3,66
+2020-10-19,Fresno,019,465,516,4,67
 2020-10-19,Glenn,021,1,0,0,0
 2020-10-19,Humboldt,023,4,2,1,2
 2020-10-19,Imperial,025,125,159,1,19
@@ -6427,7 +6427,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-19,Siskiyou,093,1,0,0,0
 2020-10-19,Solano,095,73,171,1,14
 2020-10-19,Sonoma,097,292,482,1,29
-2020-10-19,Stanislaus,099,528,835,2,104
+2020-10-19,Stanislaus,099,527,834,1,103
 2020-10-19,Sutter,101,34,3,0,0
 2020-10-19,Tehama,103,13,30,0,0
 2020-10-19,Trinity,105,1,0,0,0
@@ -6444,7 +6444,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-20,Contra Costa,013,273,454,4,56
 2020-10-20,Del Norte,015,1,0,0,0
 2020-10-20,El Dorado,017,4,2,0,0
-2020-10-20,Fresno,019,474,515,3,66
+2020-10-20,Fresno,019,475,516,4,67
 2020-10-20,Glenn,021,1,0,0,0
 2020-10-20,Humboldt,023,4,2,1,2
 2020-10-20,Imperial,025,125,159,1,19
@@ -6481,7 +6481,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-20,Siskiyou,093,1,0,0,0
 2020-10-20,Solano,095,73,171,1,14
 2020-10-20,Sonoma,097,292,483,1,30
-2020-10-20,Stanislaus,099,528,835,2,104
+2020-10-20,Stanislaus,099,527,834,1,103
 2020-10-20,Sutter,101,34,3,0,0
 2020-10-20,Tehama,103,13,30,0,1
 2020-10-20,Trinity,105,1,0,0,0
@@ -6498,7 +6498,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-21,Contra Costa,013,273,454,4,56
 2020-10-21,Del Norte,015,1,0,0,0
 2020-10-21,El Dorado,017,4,2,0,0
-2020-10-21,Fresno,019,477,515,3,66
+2020-10-21,Fresno,019,478,516,4,67
 2020-10-21,Glenn,021,1,0,0,0
 2020-10-21,Humboldt,023,4,2,1,2
 2020-10-21,Imperial,025,125,159,1,19
@@ -6535,7 +6535,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-21,Siskiyou,093,1,0,0,0
 2020-10-21,Solano,095,73,171,1,14
 2020-10-21,Sonoma,097,293,503,1,30
-2020-10-21,Stanislaus,099,529,837,2,104
+2020-10-21,Stanislaus,099,528,836,1,103
 2020-10-21,Sutter,101,35,3,0,0
 2020-10-21,Tehama,103,14,39,0,1
 2020-10-21,Trinity,105,1,0,0,0
@@ -6552,7 +6552,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-22,Contra Costa,013,273,454,4,56
 2020-10-22,Del Norte,015,1,0,0,0
 2020-10-22,El Dorado,017,4,2,0,0
-2020-10-22,Fresno,019,477,515,3,66
+2020-10-22,Fresno,019,478,516,4,67
 2020-10-22,Glenn,021,1,0,0,0
 2020-10-22,Humboldt,023,4,2,1,2
 2020-10-22,Imperial,025,125,162,1,19
@@ -6589,7 +6589,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-22,Siskiyou,093,1,0,0,0
 2020-10-22,Solano,095,73,171,1,14
 2020-10-22,Sonoma,097,293,503,1,30
-2020-10-22,Stanislaus,099,530,837,2,104
+2020-10-22,Stanislaus,099,529,836,1,103
 2020-10-22,Sutter,101,35,3,0,0
 2020-10-22,Tehama,103,14,40,0,1
 2020-10-22,Trinity,105,1,0,0,0
@@ -6606,7 +6606,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-23,Contra Costa,013,273,454,4,56
 2020-10-23,Del Norte,015,1,0,0,0
 2020-10-23,El Dorado,017,4,2,0,0
-2020-10-23,Fresno,019,479,516,3,66
+2020-10-23,Fresno,019,480,517,4,67
 2020-10-23,Glenn,021,1,0,0,0
 2020-10-23,Humboldt,023,4,2,1,2
 2020-10-23,Imperial,025,125,163,1,19
@@ -6643,7 +6643,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-23,Siskiyou,093,1,0,0,0
 2020-10-23,Solano,095,73,172,1,14
 2020-10-23,Sonoma,097,297,503,1,30
-2020-10-23,Stanislaus,099,530,839,2,105
+2020-10-23,Stanislaus,099,529,838,1,104
 2020-10-23,Sutter,101,36,3,0,0
 2020-10-23,Tehama,103,14,41,0,1
 2020-10-23,Trinity,105,1,0,0,0
@@ -6660,7 +6660,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-24,Contra Costa,013,274,454,4,56
 2020-10-24,Del Norte,015,1,0,0,0
 2020-10-24,El Dorado,017,4,2,0,0
-2020-10-24,Fresno,019,493,518,3,66
+2020-10-24,Fresno,019,494,519,4,67
 2020-10-24,Glenn,021,1,0,0,0
 2020-10-24,Humboldt,023,4,2,1,2
 2020-10-24,Imperial,025,125,163,1,19
@@ -6697,7 +6697,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-24,Siskiyou,093,1,0,0,0
 2020-10-24,Solano,095,73,172,1,14
 2020-10-24,Sonoma,097,298,503,1,30
-2020-10-24,Stanislaus,099,530,839,2,106
+2020-10-24,Stanislaus,099,529,838,1,105
 2020-10-24,Sutter,101,36,3,0,0
 2020-10-24,Tehama,103,14,41,0,1
 2020-10-24,Trinity,105,1,0,0,0
@@ -6714,7 +6714,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-25,Contra Costa,013,274,454,4,56
 2020-10-25,Del Norte,015,1,0,0,0
 2020-10-25,El Dorado,017,4,2,0,0
-2020-10-25,Fresno,019,496,518,3,66
+2020-10-25,Fresno,019,497,519,4,67
 2020-10-25,Glenn,021,1,0,0,0
 2020-10-25,Humboldt,023,4,2,1,2
 2020-10-25,Imperial,025,125,163,1,19
@@ -6751,7 +6751,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-25,Siskiyou,093,1,0,0,0
 2020-10-25,Solano,095,73,172,1,14
 2020-10-25,Sonoma,097,298,503,1,30
-2020-10-25,Stanislaus,099,530,839,2,106
+2020-10-25,Stanislaus,099,529,838,1,105
 2020-10-25,Sutter,101,36,3,0,0
 2020-10-25,Tehama,103,15,41,0,1
 2020-10-25,Trinity,105,1,0,0,0
@@ -6768,7 +6768,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-26,Contra Costa,013,275,455,4,56
 2020-10-26,Del Norte,015,1,0,0,0
 2020-10-26,El Dorado,017,4,2,0,0
-2020-10-26,Fresno,019,506,518,3,66
+2020-10-26,Fresno,019,507,519,4,67
 2020-10-26,Glenn,021,1,0,0,0
 2020-10-26,Humboldt,023,4,2,1,2
 2020-10-26,Imperial,025,125,163,1,19
@@ -6805,7 +6805,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-26,Siskiyou,093,1,0,0,0
 2020-10-26,Solano,095,73,172,1,14
 2020-10-26,Sonoma,097,298,503,1,31
-2020-10-26,Stanislaus,099,530,839,2,106
+2020-10-26,Stanislaus,099,529,838,1,105
 2020-10-26,Sutter,101,36,3,0,0
 2020-10-26,Tehama,103,15,41,0,1
 2020-10-26,Trinity,105,1,0,0,0
@@ -6822,7 +6822,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-27,Contra Costa,013,275,455,4,56
 2020-10-27,Del Norte,015,1,0,0,0
 2020-10-27,El Dorado,017,4,2,0,0
-2020-10-27,Fresno,019,508,518,3,66
+2020-10-27,Fresno,019,509,519,4,67
 2020-10-27,Glenn,021,1,0,0,0
 2020-10-27,Humboldt,023,4,2,1,2
 2020-10-27,Imperial,025,125,163,1,19
@@ -6859,7 +6859,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-27,Siskiyou,093,1,0,0,0
 2020-10-27,Solano,095,73,172,1,14
 2020-10-27,Sonoma,097,298,503,1,31
-2020-10-27,Stanislaus,099,530,839,2,106
+2020-10-27,Stanislaus,099,529,838,1,105
 2020-10-27,Sutter,101,36,3,0,0
 2020-10-27,Tehama,103,15,41,0,1
 2020-10-27,Trinity,105,1,0,0,0
@@ -6876,7 +6876,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-28,Contra Costa,013,275,455,4,56
 2020-10-28,Del Norte,015,1,0,0,0
 2020-10-28,El Dorado,017,4,2,0,0
-2020-10-28,Fresno,019,513,518,3,66
+2020-10-28,Fresno,019,514,519,4,67
 2020-10-28,Glenn,021,1,0,0,0
 2020-10-28,Humboldt,023,4,2,1,2
 2020-10-28,Imperial,025,125,163,1,19
@@ -6913,7 +6913,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-28,Siskiyou,093,1,0,0,0
 2020-10-28,Solano,095,73,172,1,14
 2020-10-28,Sonoma,097,298,503,1,31
-2020-10-28,Stanislaus,099,531,839,2,116
+2020-10-28,Stanislaus,099,530,838,1,115
 2020-10-28,Sutter,101,36,3,0,0
 2020-10-28,Tehama,103,15,41,0,1
 2020-10-28,Trinity,105,1,0,0,0
@@ -6930,7 +6930,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-29,Contra Costa,013,275,465,4,56
 2020-10-29,Del Norte,015,1,0,0,0
 2020-10-29,El Dorado,017,4,2,0,0
-2020-10-29,Fresno,019,515,518,3,66
+2020-10-29,Fresno,019,516,519,4,67
 2020-10-29,Glenn,021,1,0,0,0
 2020-10-29,Humboldt,023,4,2,1,2
 2020-10-29,Imperial,025,126,163,1,19
@@ -6967,7 +6967,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-29,Siskiyou,093,1,0,0,0
 2020-10-29,Solano,095,84,172,1,14
 2020-10-29,Sonoma,097,298,503,1,31
-2020-10-29,Stanislaus,099,532,839,2,116
+2020-10-29,Stanislaus,099,531,838,1,115
 2020-10-29,Sutter,101,36,3,0,0
 2020-10-29,Tehama,103,15,41,0,1
 2020-10-29,Trinity,105,1,0,0,0
@@ -6984,7 +6984,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-30,Contra Costa,013,275,465,4,56
 2020-10-30,Del Norte,015,1,0,0,0
 2020-10-30,El Dorado,017,4,2,0,0
-2020-10-30,Fresno,019,515,518,3,66
+2020-10-30,Fresno,019,516,519,4,67
 2020-10-30,Glenn,021,1,0,0,0
 2020-10-30,Humboldt,023,4,2,1,2
 2020-10-30,Imperial,025,126,163,1,19
@@ -7021,7 +7021,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-30,Siskiyou,093,1,0,0,0
 2020-10-30,Solano,095,95,185,1,15
 2020-10-30,Sonoma,097,299,503,1,31
-2020-10-30,Stanislaus,099,533,841,2,116
+2020-10-30,Stanislaus,099,532,840,1,115
 2020-10-30,Sutter,101,36,3,0,0
 2020-10-30,Tehama,103,15,41,0,1
 2020-10-30,Trinity,105,1,0,0,0
@@ -7038,7 +7038,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-31,Contra Costa,013,275,465,4,56
 2020-10-31,Del Norte,015,1,0,0,0
 2020-10-31,El Dorado,017,4,2,0,0
-2020-10-31,Fresno,019,516,534,3,66
+2020-10-31,Fresno,019,517,535,4,67
 2020-10-31,Glenn,021,1,0,0,0
 2020-10-31,Humboldt,023,4,2,1,2
 2020-10-31,Imperial,025,126,163,1,19
@@ -7075,7 +7075,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-31,Siskiyou,093,1,0,0,0
 2020-10-31,Solano,095,95,185,1,15
 2020-10-31,Sonoma,097,299,503,1,31
-2020-10-31,Stanislaus,099,535,844,2,116
+2020-10-31,Stanislaus,099,534,843,1,115
 2020-10-31,Sutter,101,38,3,0,0
 2020-10-31,Tehama,103,15,41,0,1
 2020-10-31,Trinity,105,1,0,0,0
@@ -7092,7 +7092,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-01,Contra Costa,013,275,466,4,56
 2020-11-01,Del Norte,015,1,0,0,0
 2020-11-01,El Dorado,017,4,2,0,0
-2020-11-01,Fresno,019,518,545,3,66
+2020-11-01,Fresno,019,519,546,4,67
 2020-11-01,Glenn,021,1,0,0,0
 2020-11-01,Humboldt,023,4,2,1,2
 2020-11-01,Imperial,025,126,163,1,19
@@ -7129,7 +7129,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-01,Siskiyou,093,1,0,0,0
 2020-11-01,Solano,095,95,185,1,15
 2020-11-01,Sonoma,097,299,503,1,31
-2020-11-01,Stanislaus,099,536,844,2,116
+2020-11-01,Stanislaus,099,535,843,1,115
 2020-11-01,Sutter,101,38,3,0,0
 2020-11-01,Tehama,103,15,41,0,1
 2020-11-01,Trinity,105,1,0,0,0
@@ -7146,7 +7146,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-02,Contra Costa,013,275,472,4,56
 2020-11-02,Del Norte,015,1,0,0,0
 2020-11-02,El Dorado,017,4,2,0,0
-2020-11-02,Fresno,019,524,545,3,66
+2020-11-02,Fresno,019,525,546,4,67
 2020-11-02,Glenn,021,1,0,0,0
 2020-11-02,Humboldt,023,4,2,1,2
 2020-11-02,Imperial,025,126,163,1,19
@@ -7183,7 +7183,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-02,Siskiyou,093,1,0,0,0
 2020-11-02,Solano,095,97,203,1,15
 2020-11-02,Sonoma,097,300,503,1,31
-2020-11-02,Stanislaus,099,547,847,2,116
+2020-11-02,Stanislaus,099,546,846,1,115
 2020-11-02,Sutter,101,38,3,0,0
 2020-11-02,Tehama,103,15,41,0,1
 2020-11-02,Trinity,105,1,0,0,0
@@ -7200,7 +7200,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-03,Contra Costa,013,275,472,4,56
 2020-11-03,Del Norte,015,1,0,0,0
 2020-11-03,El Dorado,017,4,2,0,0
-2020-11-03,Fresno,019,528,557,3,66
+2020-11-03,Fresno,019,529,558,4,67
 2020-11-03,Glenn,021,1,0,0,0
 2020-11-03,Humboldt,023,4,2,1,2
 2020-11-03,Imperial,025,126,163,1,19
@@ -7237,7 +7237,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-03,Siskiyou,093,1,0,0,0
 2020-11-03,Solano,095,97,203,1,15
 2020-11-03,Sonoma,097,300,503,1,31
-2020-11-03,Stanislaus,099,547,847,2,116
+2020-11-03,Stanislaus,099,546,846,1,115
 2020-11-03,Sutter,101,38,3,0,0
 2020-11-03,Tehama,103,15,41,0,1
 2020-11-03,Trinity,105,1,0,0,0
@@ -7254,7 +7254,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-04,Contra Costa,013,276,472,4,57
 2020-11-04,Del Norte,015,1,0,0,0
 2020-11-04,El Dorado,017,4,2,0,0
-2020-11-04,Fresno,019,530,558,3,66
+2020-11-04,Fresno,019,531,559,4,67
 2020-11-04,Glenn,021,1,0,0,0
 2020-11-04,Humboldt,023,4,2,1,2
 2020-11-04,Imperial,025,126,163,1,19
@@ -7291,7 +7291,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-04,Siskiyou,093,1,0,0,0
 2020-11-04,Solano,095,97,203,1,15
 2020-11-04,Sonoma,097,300,503,1,31
-2020-11-04,Stanislaus,099,548,848,2,117
+2020-11-04,Stanislaus,099,547,847,1,116
 2020-11-04,Sutter,101,38,3,0,0
 2020-11-04,Tehama,103,15,41,0,1
 2020-11-04,Trinity,105,1,0,0,0
@@ -7308,7 +7308,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-05,Contra Costa,013,276,472,4,57
 2020-11-05,Del Norte,015,1,0,0,0
 2020-11-05,El Dorado,017,4,2,0,0
-2020-11-05,Fresno,019,534,594,3,69
+2020-11-05,Fresno,019,535,595,4,70
 2020-11-05,Glenn,021,1,0,0,0
 2020-11-05,Humboldt,023,4,2,1,2
 2020-11-05,Imperial,025,126,163,1,19
@@ -7345,7 +7345,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-05,Siskiyou,093,1,0,0,0
 2020-11-05,Solano,095,97,203,1,15
 2020-11-05,Sonoma,097,300,503,1,31
-2020-11-05,Stanislaus,099,550,849,2,117
+2020-11-05,Stanislaus,099,549,848,1,116
 2020-11-05,Sutter,101,39,3,0,0
 2020-11-05,Tehama,103,15,41,0,1
 2020-11-05,Trinity,105,1,0,0,0
@@ -7362,7 +7362,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-06,Contra Costa,013,276,473,4,57
 2020-11-06,Del Norte,015,1,0,0,0
 2020-11-06,El Dorado,017,4,2,0,0
-2020-11-06,Fresno,019,535,599,3,69
+2020-11-06,Fresno,019,536,600,4,70
 2020-11-06,Glenn,021,1,0,0,0
 2020-11-06,Humboldt,023,4,2,1,2
 2020-11-06,Imperial,025,126,163,1,19
@@ -7399,7 +7399,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-06,Siskiyou,093,1,0,0,0
 2020-11-06,Solano,095,97,203,1,15
 2020-11-06,Sonoma,097,301,503,1,31
-2020-11-06,Stanislaus,099,552,856,2,117
+2020-11-06,Stanislaus,099,551,855,1,116
 2020-11-06,Sutter,101,39,3,0,0
 2020-11-06,Tehama,103,15,41,0,1
 2020-11-06,Trinity,105,1,0,0,0
@@ -7416,7 +7416,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-07,Contra Costa,013,276,473,4,57
 2020-11-07,Del Norte,015,1,0,0,0
 2020-11-07,El Dorado,017,4,2,0,0
-2020-11-07,Fresno,019,537,604,3,69
+2020-11-07,Fresno,019,538,605,4,70
 2020-11-07,Glenn,021,1,0,0,0
 2020-11-07,Humboldt,023,4,2,1,2
 2020-11-07,Imperial,025,126,163,1,19
@@ -7453,7 +7453,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-07,Siskiyou,093,1,0,0,0
 2020-11-07,Solano,095,97,203,1,15
 2020-11-07,Sonoma,097,314,503,1,31
-2020-11-07,Stanislaus,099,554,875,2,117
+2020-11-07,Stanislaus,099,553,874,1,116
 2020-11-07,Sutter,101,39,3,0,0
 2020-11-07,Tehama,103,15,41,0,1
 2020-11-07,Trinity,105,1,0,0,0
@@ -7470,7 +7470,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-08,Contra Costa,013,276,473,4,57
 2020-11-08,Del Norte,015,1,0,0,0
 2020-11-08,El Dorado,017,4,2,0,0
-2020-11-08,Fresno,019,538,605,3,69
+2020-11-08,Fresno,019,539,606,4,70
 2020-11-08,Glenn,021,1,0,0,0
 2020-11-08,Humboldt,023,4,2,1,2
 2020-11-08,Imperial,025,126,163,1,19
@@ -7508,7 +7508,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-08,Siskiyou,093,1,0,0,0
 2020-11-08,Solano,095,97,203,1,15
 2020-11-08,Sonoma,097,314,503,1,31
-2020-11-08,Stanislaus,099,554,876,2,117
+2020-11-08,Stanislaus,099,553,875,1,116
 2020-11-08,Sutter,101,39,3,0,0
 2020-11-08,Tehama,103,15,41,0,1
 2020-11-08,Trinity,105,1,0,0,0
@@ -7525,7 +7525,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-09,Contra Costa,013,276,475,4,57
 2020-11-09,Del Norte,015,1,0,0,0
 2020-11-09,El Dorado,017,4,2,0,0
-2020-11-09,Fresno,019,544,605,3,69
+2020-11-09,Fresno,019,545,606,4,70
 2020-11-09,Glenn,021,1,0,0,0
 2020-11-09,Humboldt,023,4,2,1,2
 2020-11-09,Imperial,025,126,163,1,19
@@ -7563,7 +7563,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-09,Siskiyou,093,1,0,0,0
 2020-11-09,Solano,095,101,212,1,15
 2020-11-09,Sonoma,097,314,503,1,31
-2020-11-09,Stanislaus,099,557,878,2,117
+2020-11-09,Stanislaus,099,556,877,1,116
 2020-11-09,Sutter,101,39,3,0,0
 2020-11-09,Tehama,103,15,41,0,1
 2020-11-09,Trinity,105,1,0,0,0
@@ -7580,7 +7580,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-10,Contra Costa,013,276,475,4,57
 2020-11-10,Del Norte,015,1,0,0,0
 2020-11-10,El Dorado,017,4,2,0,0
-2020-11-10,Fresno,019,547,605,3,69
+2020-11-10,Fresno,019,548,606,4,70
 2020-11-10,Glenn,021,1,0,0,0
 2020-11-10,Humboldt,023,4,2,1,2
 2020-11-10,Imperial,025,126,163,1,19
@@ -7618,7 +7618,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-10,Siskiyou,093,1,0,0,0
 2020-11-10,Solano,095,103,212,1,15
 2020-11-10,Sonoma,097,314,503,1,31
-2020-11-10,Stanislaus,099,562,883,2,117
+2020-11-10,Stanislaus,099,561,882,1,116
 2020-11-10,Sutter,101,39,3,0,0
 2020-11-10,Tehama,103,15,41,0,11
 2020-11-10,Trinity,105,1,0,0,0
@@ -7635,7 +7635,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-11,Contra Costa,013,276,475,4,57
 2020-11-11,Del Norte,015,1,0,0,0
 2020-11-11,El Dorado,017,4,2,0,0
-2020-11-11,Fresno,019,548,609,3,69
+2020-11-11,Fresno,019,549,610,4,70
 2020-11-11,Glenn,021,1,0,0,0
 2020-11-11,Humboldt,023,4,2,1,2
 2020-11-11,Imperial,025,126,163,1,19
@@ -7673,7 +7673,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-11,Siskiyou,093,1,0,0,0
 2020-11-11,Solano,095,103,212,1,15
 2020-11-11,Sonoma,097,315,503,1,31
-2020-11-11,Stanislaus,099,566,889,2,117
+2020-11-11,Stanislaus,099,565,888,1,116
 2020-11-11,Sutter,101,39,3,0,0
 2020-11-11,Tehama,103,15,41,0,11
 2020-11-11,Trinity,105,1,0,0,0
@@ -7690,7 +7690,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-12,Contra Costa,013,276,475,4,58
 2020-11-12,Del Norte,015,1,0,0,0
 2020-11-12,El Dorado,017,4,2,0,0
-2020-11-12,Fresno,019,553,616,3,69
+2020-11-12,Fresno,019,554,617,4,70
 2020-11-12,Glenn,021,1,0,0,0
 2020-11-12,Humboldt,023,4,2,1,2
 2020-11-12,Imperial,025,126,163,1,19
@@ -7728,7 +7728,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-12,Siskiyou,093,1,0,0,0
 2020-11-12,Solano,095,103,212,1,15
 2020-11-12,Sonoma,097,317,503,1,31
-2020-11-12,Stanislaus,099,572,906,2,117
+2020-11-12,Stanislaus,099,571,905,1,116
 2020-11-12,Sutter,101,40,4,0,0
 2020-11-12,Tehama,103,15,41,0,11
 2020-11-12,Trinity,105,1,0,0,0
@@ -7745,7 +7745,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-13,Contra Costa,013,276,475,4,58
 2020-11-13,Del Norte,015,1,0,0,0
 2020-11-13,El Dorado,017,4,2,0,0
-2020-11-13,Fresno,019,556,618,3,69
+2020-11-13,Fresno,019,557,619,4,70
 2020-11-13,Glenn,021,1,0,0,0
 2020-11-13,Humboldt,023,4,2,1,2
 2020-11-13,Imperial,025,126,163,1,19
@@ -7783,7 +7783,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-13,Siskiyou,093,1,0,0,0
 2020-11-13,Solano,095,103,212,1,15
 2020-11-13,Sonoma,097,317,504,1,31
-2020-11-13,Stanislaus,099,579,909,2,119
+2020-11-13,Stanislaus,099,578,908,1,118
 2020-11-13,Sutter,101,42,4,0,0
 2020-11-13,Tehama,103,15,41,0,11
 2020-11-13,Trinity,105,1,0,0,0
@@ -7800,7 +7800,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-14,Contra Costa,013,276,476,4,58
 2020-11-14,Del Norte,015,1,0,0,0
 2020-11-14,El Dorado,017,4,2,0,0
-2020-11-14,Fresno,019,557,626,3,69
+2020-11-14,Fresno,019,558,627,4,70
 2020-11-14,Glenn,021,1,0,0,0
 2020-11-14,Humboldt,023,4,2,1,2
 2020-11-14,Imperial,025,127,163,1,19
@@ -7838,7 +7838,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-14,Siskiyou,093,1,0,0,0
 2020-11-14,Solano,095,113,212,1,15
 2020-11-14,Sonoma,097,318,505,1,31
-2020-11-14,Stanislaus,099,582,913,2,119
+2020-11-14,Stanislaus,099,581,912,1,118
 2020-11-14,Sutter,101,43,30,0,0
 2020-11-14,Tehama,103,15,41,0,11
 2020-11-14,Trinity,105,1,0,0,0
@@ -7855,7 +7855,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-15,Contra Costa,013,276,477,4,58
 2020-11-15,Del Norte,015,1,0,0,0
 2020-11-15,El Dorado,017,4,2,0,0
-2020-11-15,Fresno,019,562,633,3,69
+2020-11-15,Fresno,019,563,634,4,70
 2020-11-15,Glenn,021,1,0,0,0
 2020-11-15,Humboldt,023,4,2,1,2
 2020-11-15,Imperial,025,127,163,1,19
@@ -7893,7 +7893,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-15,Siskiyou,093,1,0,0,0
 2020-11-15,Solano,095,113,212,1,15
 2020-11-15,Sonoma,097,319,506,1,31
-2020-11-15,Stanislaus,099,585,917,2,119
+2020-11-15,Stanislaus,099,584,916,1,118
 2020-11-15,Sutter,101,46,31,0,0
 2020-11-15,Tehama,103,15,41,0,11
 2020-11-15,Trinity,105,1,0,0,0
@@ -7910,7 +7910,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-16,Contra Costa,013,286,477,4,58
 2020-11-16,Del Norte,015,1,0,0,0
 2020-11-16,El Dorado,017,4,2,0,0
-2020-11-16,Fresno,019,564,633,3,69
+2020-11-16,Fresno,019,565,634,4,70
 2020-11-16,Glenn,021,1,0,0,0
 2020-11-16,Humboldt,023,4,2,1,2
 2020-11-16,Imperial,025,128,163,1,19
@@ -7948,7 +7948,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-16,Siskiyou,093,1,0,0,0
 2020-11-16,Solano,095,116,213,1,15
 2020-11-16,Sonoma,097,320,506,1,31
-2020-11-16,Stanislaus,099,588,932,2,119
+2020-11-16,Stanislaus,099,587,931,1,118
 2020-11-16,Sutter,101,46,36,0,0
 2020-11-16,Tehama,103,15,41,0,11
 2020-11-16,Trinity,105,1,0,0,0
@@ -7965,7 +7965,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-17,Contra Costa,013,286,478,4,58
 2020-11-17,Del Norte,015,1,0,0,0
 2020-11-17,El Dorado,017,4,2,0,0
-2020-11-17,Fresno,019,567,635,3,69
+2020-11-17,Fresno,019,568,636,4,70
 2020-11-17,Glenn,021,1,0,0,0
 2020-11-17,Humboldt,023,4,2,1,2
 2020-11-17,Imperial,025,128,163,1,19
@@ -8003,7 +8003,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-17,Siskiyou,093,1,0,0,0
 2020-11-17,Solano,095,116,213,1,15
 2020-11-17,Sonoma,097,320,506,1,31
-2020-11-17,Stanislaus,099,588,933,2,120
+2020-11-17,Stanislaus,099,587,932,1,119
 2020-11-17,Sutter,101,46,36,0,1
 2020-11-17,Tehama,103,17,43,0,13
 2020-11-17,Trinity,105,1,0,0,0
@@ -8020,7 +8020,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-18,Contra Costa,013,286,481,4,58
 2020-11-18,Del Norte,015,1,0,0,0
 2020-11-18,El Dorado,017,4,2,0,0
-2020-11-18,Fresno,019,570,649,3,69
+2020-11-18,Fresno,019,571,650,4,70
 2020-11-18,Glenn,021,1,0,0,0
 2020-11-18,Humboldt,023,4,2,1,2
 2020-11-18,Imperial,025,129,165,1,19
@@ -8058,7 +8058,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-18,Siskiyou,093,1,0,0,0
 2020-11-18,Solano,095,116,213,1,15
 2020-11-18,Sonoma,097,320,506,1,31
-2020-11-18,Stanislaus,099,590,936,2,120
+2020-11-18,Stanislaus,099,589,935,1,119
 2020-11-18,Sutter,101,47,37,0,1
 2020-11-18,Tehama,103,17,43,0,13
 2020-11-18,Trinity,105,1,0,0,0
@@ -8075,7 +8075,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-19,Contra Costa,013,286,481,4,58
 2020-11-19,Del Norte,015,1,0,0,0
 2020-11-19,El Dorado,017,4,2,0,0
-2020-11-19,Fresno,019,580,652,3,69
+2020-11-19,Fresno,019,581,653,4,70
 2020-11-19,Glenn,021,11,0,0,0
 2020-11-19,Humboldt,023,4,2,1,2
 2020-11-19,Imperial,025,129,165,1,19
@@ -8113,7 +8113,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-19,Siskiyou,093,1,0,0,0
 2020-11-19,Solano,095,116,213,1,15
 2020-11-19,Sonoma,097,321,506,1,31
-2020-11-19,Stanislaus,099,602,978,2,120
+2020-11-19,Stanislaus,099,601,977,1,119
 2020-11-19,Sutter,101,47,37,0,1
 2020-11-19,Tehama,103,17,43,0,13
 2020-11-19,Trinity,105,1,0,0,0
@@ -8130,7 +8130,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-20,Contra Costa,013,287,482,4,58
 2020-11-20,Del Norte,015,1,0,0,0
 2020-11-20,El Dorado,017,4,2,0,0
-2020-11-20,Fresno,019,605,663,3,69
+2020-11-20,Fresno,019,606,664,4,70
 2020-11-20,Glenn,021,11,0,0,0
 2020-11-20,Humboldt,023,4,2,1,2
 2020-11-20,Imperial,025,129,165,1,19
@@ -8168,7 +8168,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-20,Siskiyou,093,1,0,0,0
 2020-11-20,Solano,095,116,213,1,15
 2020-11-20,Sonoma,097,325,507,1,31
-2020-11-20,Stanislaus,099,606,979,2,121
+2020-11-20,Stanislaus,099,605,978,1,120
 2020-11-20,Sutter,101,67,39,0,1
 2020-11-20,Tehama,103,17,43,0,13
 2020-11-20,Trinity,105,1,0,0,0
@@ -8185,7 +8185,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-21,Contra Costa,013,287,482,4,58
 2020-11-21,Del Norte,015,1,0,0,0
 2020-11-21,El Dorado,017,4,2,0,0
-2020-11-21,Fresno,019,609,670,3,69
+2020-11-21,Fresno,019,610,671,4,70
 2020-11-21,Glenn,021,12,0,0,0
 2020-11-21,Humboldt,023,4,2,1,2
 2020-11-21,Imperial,025,129,165,1,19
@@ -8223,7 +8223,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-21,Siskiyou,093,1,0,0,0
 2020-11-21,Solano,095,116,213,1,15
 2020-11-21,Sonoma,097,328,507,1,31
-2020-11-21,Stanislaus,099,611,994,2,121
+2020-11-21,Stanislaus,099,610,993,1,120
 2020-11-21,Sutter,101,72,41,0,1
 2020-11-21,Tehama,103,17,43,0,13
 2020-11-21,Trinity,105,1,0,0,0
@@ -8240,7 +8240,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-22,Contra Costa,013,287,484,4,58
 2020-11-22,Del Norte,015,1,0,0,0
 2020-11-22,El Dorado,017,4,2,0,0
-2020-11-22,Fresno,019,610,670,3,69
+2020-11-22,Fresno,019,611,671,4,70
 2020-11-22,Glenn,021,12,0,0,0
 2020-11-22,Humboldt,023,4,2,1,2
 2020-11-22,Imperial,025,129,165,1,19
@@ -8278,7 +8278,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-22,Siskiyou,093,1,0,0,0
 2020-11-22,Solano,095,116,213,1,15
 2020-11-22,Sonoma,097,329,507,1,31
-2020-11-22,Stanislaus,099,623,1005,2,121
+2020-11-22,Stanislaus,099,622,1004,1,120
 2020-11-22,Sutter,101,73,42,0,1
 2020-11-22,Tehama,103,17,43,0,13
 2020-11-22,Trinity,105,1,0,0,0
@@ -8295,7 +8295,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-23,Contra Costa,013,287,484,4,58
 2020-11-23,Del Norte,015,1,0,0,0
 2020-11-23,El Dorado,017,4,2,0,0
-2020-11-23,Fresno,019,613,670,3,69
+2020-11-23,Fresno,019,614,671,4,70
 2020-11-23,Glenn,021,12,0,0,0
 2020-11-23,Humboldt,023,4,2,1,2
 2020-11-23,Imperial,025,130,168,1,19
@@ -8333,7 +8333,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-23,Siskiyou,093,1,0,0,0
 2020-11-23,Solano,095,127,244,1,16
 2020-11-23,Sonoma,097,331,509,1,31
-2020-11-23,Stanislaus,099,626,1015,2,121
+2020-11-23,Stanislaus,099,625,1014,1,120
 2020-11-23,Sutter,101,74,61,0,1
 2020-11-23,Tehama,103,17,56,0,13
 2020-11-23,Trinity,105,1,0,0,0
@@ -8350,7 +8350,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-24,Contra Costa,013,287,484,4,58
 2020-11-24,Del Norte,015,1,0,0,0
 2020-11-24,El Dorado,017,4,2,0,0
-2020-11-24,Fresno,019,617,672,3,69
+2020-11-24,Fresno,019,618,673,4,70
 2020-11-24,Glenn,021,12,0,0,0
 2020-11-24,Humboldt,023,5,2,1,2
 2020-11-24,Imperial,025,131,168,1,19
@@ -8388,7 +8388,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-24,Siskiyou,093,1,0,0,0
 2020-11-24,Solano,095,127,244,1,16
 2020-11-24,Sonoma,097,331,509,1,31
-2020-11-24,Stanislaus,099,633,1028,2,123
+2020-11-24,Stanislaus,099,632,1027,1,122
 2020-11-24,Sutter,101,76,62,0,1
 2020-11-24,Tehama,103,17,56,0,13
 2020-11-24,Trinity,105,1,0,0,0
@@ -8405,7 +8405,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-25,Contra Costa,013,288,484,4,58
 2020-11-25,Del Norte,015,1,0,0,0
 2020-11-25,El Dorado,017,4,2,0,0
-2020-11-25,Fresno,019,622,672,3,69
+2020-11-25,Fresno,019,623,673,4,70
 2020-11-25,Glenn,021,12,0,0,0
 2020-11-25,Humboldt,023,6,2,1,2
 2020-11-25,Imperial,025,131,168,1,19
@@ -8443,7 +8443,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-25,Siskiyou,093,1,0,0,0
 2020-11-25,Solano,095,127,245,1,16
 2020-11-25,Sonoma,097,331,509,1,31
-2020-11-25,Stanislaus,099,637,1040,2,123
+2020-11-25,Stanislaus,099,636,1039,1,122
 2020-11-25,Sutter,101,77,62,0,1
 2020-11-25,Tehama,103,17,56,0,13
 2020-11-25,Trinity,105,1,0,0,0
@@ -8460,7 +8460,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-26,Contra Costa,013,298,484,4,58
 2020-11-26,Del Norte,015,1,0,0,0
 2020-11-26,El Dorado,017,4,2,0,0
-2020-11-26,Fresno,019,637,679,3,79
+2020-11-26,Fresno,019,638,680,4,80
 2020-11-26,Glenn,021,12,0,0,0
 2020-11-26,Humboldt,023,6,2,1,2
 2020-11-26,Imperial,025,131,168,1,19
@@ -8498,7 +8498,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-26,Siskiyou,093,1,0,0,0
 2020-11-26,Solano,095,127,245,1,16
 2020-11-26,Sonoma,097,331,509,1,31
-2020-11-26,Stanislaus,099,649,1071,2,123
+2020-11-26,Stanislaus,099,648,1070,1,122
 2020-11-26,Sutter,101,77,62,0,1
 2020-11-26,Tehama,103,17,56,0,13
 2020-11-26,Trinity,105,1,0,0,0
@@ -8515,7 +8515,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-27,Contra Costa,013,300,495,4,59
 2020-11-27,Del Norte,015,1,0,0,0
 2020-11-27,El Dorado,017,4,2,0,0
-2020-11-27,Fresno,019,643,682,3,79
+2020-11-27,Fresno,019,644,683,4,80
 2020-11-27,Glenn,021,14,1,0,0
 2020-11-27,Humboldt,023,6,2,1,2
 2020-11-27,Imperial,025,131,168,1,19
@@ -8553,7 +8553,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-27,Siskiyou,093,1,0,0,0
 2020-11-27,Solano,095,129,247,1,16
 2020-11-27,Sonoma,097,332,519,1,31
-2020-11-27,Stanislaus,099,661,1081,2,123
+2020-11-27,Stanislaus,099,660,1080,1,122
 2020-11-27,Sutter,101,81,64,0,1
 2020-11-27,Tehama,103,17,56,0,13
 2020-11-27,Trinity,105,1,0,0,0
@@ -8570,7 +8570,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-28,Contra Costa,013,300,519,4,59
 2020-11-28,Del Norte,015,1,0,0,0
 2020-11-28,El Dorado,017,4,2,0,0
-2020-11-28,Fresno,019,661,683,3,79
+2020-11-28,Fresno,019,662,684,4,80
 2020-11-28,Glenn,021,15,1,0,0
 2020-11-28,Humboldt,023,6,2,1,2
 2020-11-28,Imperial,025,131,168,1,19
@@ -8608,7 +8608,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-28,Siskiyou,093,1,0,0,0
 2020-11-28,Solano,095,129,247,1,16
 2020-11-28,Sonoma,097,332,519,1,31
-2020-11-28,Stanislaus,099,670,1081,2,123
+2020-11-28,Stanislaus,099,669,1080,1,122
 2020-11-28,Sutter,101,83,76,0,1
 2020-11-28,Tehama,103,18,57,0,13
 2020-11-28,Trinity,105,1,0,0,0
@@ -8625,7 +8625,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-29,Contra Costa,013,300,519,4,59
 2020-11-29,Del Norte,015,1,0,0,0
 2020-11-29,El Dorado,017,4,2,0,0
-2020-11-29,Fresno,019,675,707,3,79
+2020-11-29,Fresno,019,676,708,4,80
 2020-11-29,Glenn,021,15,1,0,0
 2020-11-29,Humboldt,023,6,2,1,2
 2020-11-29,Imperial,025,131,168,1,19
@@ -8663,7 +8663,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-29,Siskiyou,093,1,0,0,0
 2020-11-29,Solano,095,129,247,1,16
 2020-11-29,Sonoma,097,332,519,1,31
-2020-11-29,Stanislaus,099,677,1084,2,123
+2020-11-29,Stanislaus,099,676,1083,1,122
 2020-11-29,Sutter,101,83,78,0,1
 2020-11-29,Tehama,103,18,57,0,13
 2020-11-29,Trinity,105,1,0,0,0
@@ -8680,7 +8680,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-30,Contra Costa,013,336,526,4,59
 2020-11-30,Del Norte,015,1,0,0,0
 2020-11-30,El Dorado,017,4,2,0,0
-2020-11-30,Fresno,019,688,713,3,79
+2020-11-30,Fresno,019,689,714,4,80
 2020-11-30,Glenn,021,15,1,0,0
 2020-11-30,Humboldt,023,6,2,1,2
 2020-11-30,Imperial,025,131,168,1,19
@@ -8718,7 +8718,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-30,Siskiyou,093,1,0,0,0
 2020-11-30,Solano,095,139,247,1,16
 2020-11-30,Sonoma,097,334,519,1,32
-2020-11-30,Stanislaus,099,687,1089,2,124
+2020-11-30,Stanislaus,099,686,1088,1,123
 2020-11-30,Sutter,101,93,87,0,1
 2020-11-30,Tehama,103,18,57,0,13
 2020-11-30,Trinity,105,1,0,0,0
@@ -8735,7 +8735,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-01,Contra Costa,013,343,530,4,59
 2020-12-01,Del Norte,015,1,0,0,0
 2020-12-01,El Dorado,017,4,2,0,0
-2020-12-01,Fresno,019,694,713,3,79
+2020-12-01,Fresno,019,695,714,4,80
 2020-12-01,Glenn,021,15,11,0,0
 2020-12-01,Humboldt,023,6,2,1,2
 2020-12-01,Imperial,025,131,168,1,19
@@ -8773,7 +8773,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-01,Siskiyou,093,1,0,0,0
 2020-12-01,Solano,095,140,247,1,16
 2020-12-01,Sonoma,097,335,519,1,32
-2020-12-01,Stanislaus,099,695,1102,2,124
+2020-12-01,Stanislaus,099,694,1101,1,123
 2020-12-01,Sutter,101,103,93,0,1
 2020-12-01,Tehama,103,18,57,0,13
 2020-12-01,Trinity,105,1,0,0,0
@@ -8790,7 +8790,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-02,Contra Costa,013,347,534,4,59
 2020-12-02,Del Norte,015,1,0,0,0
 2020-12-02,El Dorado,017,4,2,0,0
-2020-12-02,Fresno,019,698,766,3,79
+2020-12-02,Fresno,019,699,767,4,80
 2020-12-02,Glenn,021,15,17,0,0
 2020-12-02,Humboldt,023,6,15,1,2
 2020-12-02,Imperial,025,133,168,1,19
@@ -8828,7 +8828,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-02,Siskiyou,093,1,0,0,0
 2020-12-02,Solano,095,140,247,1,16
 2020-12-02,Sonoma,097,335,519,1,32
-2020-12-02,Stanislaus,099,700,1103,2,124
+2020-12-02,Stanislaus,099,699,1102,1,123
 2020-12-02,Sutter,101,111,96,0,1
 2020-12-02,Tehama,103,19,57,0,13
 2020-12-02,Trinity,105,1,0,0,0
@@ -8845,7 +8845,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-03,Contra Costa,013,348,535,4,60
 2020-12-03,Del Norte,015,1,0,0,0
 2020-12-03,El Dorado,017,4,2,0,0
-2020-12-03,Fresno,019,718,786,3,79
+2020-12-03,Fresno,019,719,787,4,80
 2020-12-03,Glenn,021,15,17,0,0
 2020-12-03,Humboldt,023,6,28,1,2
 2020-12-03,Imperial,025,133,168,1,19
@@ -8883,7 +8883,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-03,Siskiyou,093,1,0,0,0
 2020-12-03,Solano,095,140,247,1,16
 2020-12-03,Sonoma,097,337,519,1,32
-2020-12-03,Stanislaus,099,714,1114,2,124
+2020-12-03,Stanislaus,099,713,1113,1,123
 2020-12-03,Sutter,101,120,99,0,1
 2020-12-03,Tehama,103,19,57,0,13
 2020-12-03,Trinity,105,1,0,0,0
@@ -8900,7 +8900,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-04,Contra Costa,013,362,536,4,60
 2020-12-04,Del Norte,015,1,0,0,0
 2020-12-04,El Dorado,017,4,2,0,0
-2020-12-04,Fresno,019,796,868,3,81
+2020-12-04,Fresno,019,797,869,4,82
 2020-12-04,Glenn,021,16,17,0,1
 2020-12-04,Humboldt,023,6,30,1,2
 2020-12-04,Imperial,025,133,168,1,19
@@ -8938,7 +8938,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-04,Siskiyou,093,1,0,0,0
 2020-12-04,Solano,095,145,249,1,16
 2020-12-04,Sonoma,097,345,519,1,32
-2020-12-04,Stanislaus,099,726,1147,2,126
+2020-12-04,Stanislaus,099,725,1146,1,125
 2020-12-04,Sutter,101,134,113,0,2
 2020-12-04,Tehama,103,19,57,0,13
 2020-12-04,Trinity,105,1,0,0,0
@@ -8955,7 +8955,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-05,Contra Costa,013,369,545,4,60
 2020-12-05,Del Norte,015,1,0,0,0
 2020-12-05,El Dorado,017,4,2,0,0
-2020-12-05,Fresno,019,807,882,4,81
+2020-12-05,Fresno,019,808,883,5,82
 2020-12-05,Glenn,021,16,17,0,1
 2020-12-05,Humboldt,023,6,30,1,2
 2020-12-05,Imperial,025,133,168,1,19
@@ -8993,7 +8993,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-05,Siskiyou,093,1,0,0,0
 2020-12-05,Solano,095,145,249,1,16
 2020-12-05,Sonoma,097,347,521,1,32
-2020-12-05,Stanislaus,099,739,1149,2,128
+2020-12-05,Stanislaus,099,738,1148,1,127
 2020-12-05,Sutter,101,135,113,0,2
 2020-12-05,Tehama,103,19,57,0,13
 2020-12-05,Trinity,105,1,0,0,0
@@ -9010,7 +9010,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-06,Contra Costa,013,369,556,4,60
 2020-12-06,Del Norte,015,1,0,0,0
 2020-12-06,El Dorado,017,4,3,0,0
-2020-12-06,Fresno,019,821,946,4,82
+2020-12-06,Fresno,019,822,947,5,83
 2020-12-06,Glenn,021,16,17,0,1
 2020-12-06,Humboldt,023,16,32,1,2
 2020-12-06,Imperial,025,133,168,1,19
@@ -9048,7 +9048,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-06,Siskiyou,093,1,0,0,0
 2020-12-06,Solano,095,145,249,1,16
 2020-12-06,Sonoma,097,348,523,1,32
-2020-12-06,Stanislaus,099,750,1154,2,128
+2020-12-06,Stanislaus,099,749,1153,1,127
 2020-12-06,Sutter,101,142,127,0,2
 2020-12-06,Tehama,103,19,57,0,13
 2020-12-06,Trinity,105,1,0,0,0
@@ -9065,7 +9065,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-07,Contra Costa,013,383,557,4,60
 2020-12-07,Del Norte,015,1,0,0,0
 2020-12-07,El Dorado,017,4,3,0,0
-2020-12-07,Fresno,019,835,948,4,83
+2020-12-07,Fresno,019,836,949,5,84
 2020-12-07,Glenn,021,16,17,0,1
 2020-12-07,Humboldt,023,16,32,1,2
 2020-12-07,Imperial,025,133,168,1,19
@@ -9103,7 +9103,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-07,Siskiyou,093,1,0,0,0
 2020-12-07,Solano,095,150,251,1,16
 2020-12-07,Sonoma,097,351,524,1,32
-2020-12-07,Stanislaus,099,783,1170,2,128
+2020-12-07,Stanislaus,099,782,1169,1,127
 2020-12-07,Sutter,101,149,154,0,2
 2020-12-07,Tehama,103,19,57,0,13
 2020-12-07,Trinity,105,1,0,0,0
@@ -9120,7 +9120,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-08,Contra Costa,013,384,559,4,60
 2020-12-08,Del Norte,015,1,0,0,0
 2020-12-08,El Dorado,017,5,4,0,1
-2020-12-08,Fresno,019,863,968,4,83
+2020-12-08,Fresno,019,864,969,5,84
 2020-12-08,Glenn,021,16,20,0,1
 2020-12-08,Humboldt,023,21,43,1,2
 2020-12-08,Imperial,025,133,170,1,19
@@ -9158,7 +9158,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-08,Siskiyou,093,1,0,0,0
 2020-12-08,Solano,095,150,251,1,16
 2020-12-08,Sonoma,097,361,540,1,32
-2020-12-08,Stanislaus,099,803,1175,2,131
+2020-12-08,Stanislaus,099,802,1174,1,130
 2020-12-08,Sutter,101,154,168,0,2
 2020-12-08,Tehama,103,19,57,0,13
 2020-12-08,Trinity,105,11,1,0,0
@@ -9175,7 +9175,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-09,Contra Costa,013,389,586,4,60
 2020-12-09,Del Norte,015,1,0,0,0
 2020-12-09,El Dorado,017,5,4,0,1
-2020-12-09,Fresno,019,870,1004,4,84
+2020-12-09,Fresno,019,871,1005,5,85
 2020-12-09,Glenn,021,16,20,0,1
 2020-12-09,Humboldt,023,21,43,1,2
 2020-12-09,Imperial,025,134,170,1,19
@@ -9213,7 +9213,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-09,Siskiyou,093,1,0,0,0
 2020-12-09,Solano,095,150,251,1,16
 2020-12-09,Sonoma,097,373,540,1,32
-2020-12-09,Stanislaus,099,822,1213,2,132
+2020-12-09,Stanislaus,099,821,1212,1,131
 2020-12-09,Sutter,101,157,169,0,2
 2020-12-09,Tehama,103,19,57,0,13
 2020-12-09,Trinity,105,11,1,0,0
@@ -9230,7 +9230,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-10,Contra Costa,013,393,612,4,60
 2020-12-10,Del Norte,015,1,0,0,0
 2020-12-10,El Dorado,017,5,4,0,1
-2020-12-10,Fresno,019,901,1016,4,84
+2020-12-10,Fresno,019,902,1017,5,85
 2020-12-10,Glenn,021,31,33,0,1
 2020-12-10,Humboldt,023,21,57,1,2
 2020-12-10,Imperial,025,134,170,1,19
@@ -9268,7 +9268,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-10,Siskiyou,093,1,0,0,0
 2020-12-10,Solano,095,150,251,1,16
 2020-12-10,Sonoma,097,375,540,1,32
-2020-12-10,Stanislaus,099,858,1273,2,132
+2020-12-10,Stanislaus,099,857,1272,1,131
 2020-12-10,Sutter,101,157,191,0,3
 2020-12-10,Tehama,103,19,57,0,13
 2020-12-10,Trinity,105,11,1,0,0
@@ -9285,7 +9285,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Contra Costa,013,412,640,4,61
 2020-12-11,Del Norte,015,1,0,0,0
 2020-12-11,El Dorado,017,16,4,0,1
-2020-12-11,Fresno,019,948,1050,4,84
+2020-12-11,Fresno,019,949,1051,5,85
 2020-12-11,Glenn,021,31,33,0,1
 2020-12-11,Humboldt,023,26,57,1,2
 2020-12-11,Imperial,025,134,170,1,19
@@ -9323,7 +9323,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Siskiyou,093,1,0,0,0
 2020-12-11,Solano,095,151,262,1,16
 2020-12-11,Sonoma,097,375,540,1,32
-2020-12-11,Stanislaus,099,886,1289,2,135
+2020-12-11,Stanislaus,099,885,1288,1,134
 2020-12-11,Sutter,101,157,192,0,3
 2020-12-11,Tehama,103,19,57,0,13
 2020-12-11,Trinity,105,11,1,0,0
@@ -9340,7 +9340,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Contra Costa,013,431,657,4,61
 2020-12-12,Del Norte,015,1,0,0,0
 2020-12-12,El Dorado,017,16,4,0,1
-2020-12-12,Fresno,019,963,1052,4,84
+2020-12-12,Fresno,019,964,1053,5,85
 2020-12-12,Glenn,021,31,33,0,1
 2020-12-12,Humboldt,023,27,57,1,2
 2020-12-12,Imperial,025,134,170,1,19
@@ -9379,7 +9379,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Siskiyou,093,1,0,0,0
 2020-12-12,Solano,095,151,262,1,16
 2020-12-12,Sonoma,097,377,540,1,32
-2020-12-12,Stanislaus,099,940,1325,2,135
+2020-12-12,Stanislaus,099,939,1324,1,134
 2020-12-12,Sutter,101,172,199,0,3
 2020-12-12,Tehama,103,19,57,0,13
 2020-12-12,Trinity,105,11,1,0,0
@@ -9396,7 +9396,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-13,Contra Costa,013,437,666,4,62
 2020-12-13,Del Norte,015,1,0,0,0
 2020-12-13,El Dorado,017,17,4,0,1
-2020-12-13,Fresno,019,985,1064,4,84
+2020-12-13,Fresno,019,986,1065,5,85
 2020-12-13,Glenn,021,31,33,0,1
 2020-12-13,Humboldt,023,27,57,1,2
 2020-12-13,Imperial,025,136,170,1,19
@@ -9435,7 +9435,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-13,Siskiyou,093,1,1,0,0
 2020-12-13,Solano,095,151,262,1,16
 2020-12-13,Sonoma,097,381,541,1,32
-2020-12-13,Stanislaus,099,948,1331,2,135
+2020-12-13,Stanislaus,099,947,1330,1,134
 2020-12-13,Sutter,101,176,203,0,3
 2020-12-13,Tehama,103,19,57,0,13
 2020-12-13,Trinity,105,11,1,0,0
@@ -9452,7 +9452,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-14,Contra Costa,013,454,697,4,63
 2020-12-14,Del Norte,015,1,0,0,0
 2020-12-14,El Dorado,017,17,4,0,1
-2020-12-14,Fresno,019,1028,1120,4,84
+2020-12-14,Fresno,019,1029,1121,5,85
 2020-12-14,Glenn,021,32,33,0,1
 2020-12-14,Humboldt,023,27,57,1,2
 2020-12-14,Imperial,025,137,171,1,19
@@ -9491,7 +9491,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-14,Siskiyou,093,1,1,0,0
 2020-12-14,Solano,095,162,263,1,17
 2020-12-14,Sonoma,097,396,550,1,33
-2020-12-14,Stanislaus,099,973,1345,2,135
+2020-12-14,Stanislaus,099,972,1344,1,134
 2020-12-14,Sutter,101,176,206,0,4
 2020-12-14,Tehama,103,19,57,0,13
 2020-12-14,Trinity,105,11,1,0,0
@@ -9508,7 +9508,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-15,Contra Costa,013,457,705,4,64
 2020-12-15,Del Norte,015,1,0,0,0
 2020-12-15,El Dorado,017,18,4,0,1
-2020-12-15,Fresno,019,1053,1156,4,96
+2020-12-15,Fresno,019,1054,1157,5,97
 2020-12-15,Glenn,021,32,33,0,1
 2020-12-15,Humboldt,023,27,57,1,2
 2020-12-15,Imperial,025,137,173,1,20
@@ -9547,7 +9547,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-15,Siskiyou,093,1,1,0,0
 2020-12-15,Solano,095,163,264,1,17
 2020-12-15,Sonoma,097,398,555,1,33
-2020-12-15,Stanislaus,099,986,1377,2,135
+2020-12-15,Stanislaus,099,985,1376,1,134
 2020-12-15,Sutter,101,177,206,0,5
 2020-12-15,Tehama,103,19,57,0,13
 2020-12-15,Trinity,105,11,1,0,0
@@ -9564,7 +9564,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-16,Contra Costa,013,460,735,4,65
 2020-12-16,Del Norte,015,1,0,0,0
 2020-12-16,El Dorado,017,19,5,0,1
-2020-12-16,Fresno,019,1080,1183,4,96
+2020-12-16,Fresno,019,1081,1184,5,97
 2020-12-16,Glenn,021,33,33,0,1
 2020-12-16,Humboldt,023,27,57,1,2
 2020-12-16,Imperial,025,137,173,1,20
@@ -9603,7 +9603,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-16,Siskiyou,093,1,1,0,0
 2020-12-16,Solano,095,165,264,1,17
 2020-12-16,Sonoma,097,401,556,1,33
-2020-12-16,Stanislaus,099,1000,1402,2,138
+2020-12-16,Stanislaus,099,999,1401,1,137
 2020-12-16,Sutter,101,177,216,0,5
 2020-12-16,Tehama,103,20,57,0,13
 2020-12-16,Trinity,105,11,1,0,0
@@ -9620,7 +9620,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-17,Contra Costa,013,467,765,4,67
 2020-12-17,Del Norte,015,1,0,0,0
 2020-12-17,El Dorado,017,20,6,0,1
-2020-12-17,Fresno,019,1124,1203,4,109
+2020-12-17,Fresno,019,1125,1204,5,110
 2020-12-17,Glenn,021,33,33,0,1
 2020-12-17,Humboldt,023,27,57,1,3
 2020-12-17,Imperial,025,140,173,1,20
@@ -9659,7 +9659,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-17,Siskiyou,093,1,1,0,0
 2020-12-17,Solano,095,165,264,1,17
 2020-12-17,Sonoma,097,403,560,1,33
-2020-12-17,Stanislaus,099,1044,1421,2,138
+2020-12-17,Stanislaus,099,1043,1420,1,137
 2020-12-17,Sutter,101,182,231,0,5
 2020-12-17,Tehama,103,20,57,0,13
 2020-12-17,Trinity,105,11,1,0,0
@@ -9676,7 +9676,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-18,Contra Costa,013,487,796,4,69
 2020-12-18,Del Norte,015,1,1,0,0
 2020-12-18,El Dorado,017,32,6,0,2
-2020-12-18,Fresno,019,1150,1224,4,111
+2020-12-18,Fresno,019,1151,1225,5,112
 2020-12-18,Glenn,021,34,33,0,1
 2020-12-18,Humboldt,023,28,57,1,3
 2020-12-18,Imperial,025,140,173,1,20
@@ -9715,7 +9715,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-18,Siskiyou,093,1,1,0,0
 2020-12-18,Solano,095,169,275,1,17
 2020-12-18,Sonoma,097,407,563,1,33
-2020-12-18,Stanislaus,099,1053,1431,2,139
+2020-12-18,Stanislaus,099,1052,1430,1,138
 2020-12-18,Sutter,101,185,231,0,5
 2020-12-18,Tehama,103,20,57,0,13
 2020-12-18,Trinity,105,11,1,0,0
@@ -9732,7 +9732,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-19,Contra Costa,013,506,807,4,69
 2020-12-19,Del Norte,015,1,1,0,0
 2020-12-19,El Dorado,017,32,6,0,2
-2020-12-19,Fresno,019,1169,1252,4,112
+2020-12-19,Fresno,019,1170,1253,5,113
 2020-12-19,Glenn,021,34,33,0,1
 2020-12-19,Humboldt,023,31,57,1,3
 2020-12-19,Imperial,025,140,173,1,20
@@ -9771,7 +9771,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-19,Siskiyou,093,1,1,0,0
 2020-12-19,Solano,095,170,275,1,17
 2020-12-19,Sonoma,097,408,565,1,33
-2020-12-19,Stanislaus,099,1074,1485,2,139
+2020-12-19,Stanislaus,099,1073,1484,1,138
 2020-12-19,Sutter,101,189,240,0,5
 2020-12-19,Tehama,103,20,57,0,13
 2020-12-19,Trinity,105,11,1,0,1
@@ -9788,7 +9788,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-20,Contra Costa,013,511,821,4,70
 2020-12-20,Del Norte,015,1,1,0,0
 2020-12-20,El Dorado,017,32,6,0,2
-2020-12-20,Fresno,019,1175,1266,4,112
+2020-12-20,Fresno,019,1176,1267,5,113
 2020-12-20,Glenn,021,35,33,0,1
 2020-12-20,Humboldt,023,31,57,1,3
 2020-12-20,Imperial,025,140,173,1,20
@@ -9827,7 +9827,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-20,Siskiyou,093,1,1,0,0
 2020-12-20,Solano,095,170,275,1,17
 2020-12-20,Sonoma,097,409,566,1,34
-2020-12-20,Stanislaus,099,1080,1486,2,140
+2020-12-20,Stanislaus,099,1079,1485,1,139
 2020-12-20,Sutter,101,194,241,0,5
 2020-12-20,Tehama,103,20,57,0,13
 2020-12-20,Trinity,105,11,1,0,1
@@ -9844,7 +9844,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-21,Contra Costa,013,528,842,4,70
 2020-12-21,Del Norte,015,1,1,0,0
 2020-12-21,El Dorado,017,33,7,0,3
-2020-12-21,Fresno,019,1211,1320,4,115
+2020-12-21,Fresno,019,1212,1321,5,116
 2020-12-21,Glenn,021,35,33,0,1
 2020-12-21,Humboldt,023,31,57,1,3
 2020-12-21,Imperial,025,140,173,1,20
@@ -9883,7 +9883,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-21,Siskiyou,093,1,1,0,0
 2020-12-21,Solano,095,181,298,1,17
 2020-12-21,Sonoma,097,415,569,1,35
-2020-12-21,Stanislaus,099,1093,1494,2,140
+2020-12-21,Stanislaus,099,1092,1493,1,139
 2020-12-21,Sutter,101,198,242,0,5
 2020-12-21,Tehama,103,20,57,0,13
 2020-12-21,Trinity,105,11,1,0,1
@@ -9900,7 +9900,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-22,Contra Costa,013,536,849,4,70
 2020-12-22,Del Norte,015,1,1,0,0
 2020-12-22,El Dorado,017,34,8,0,3
-2020-12-22,Fresno,019,1220,1328,4,115
+2020-12-22,Fresno,019,1221,1329,5,116
 2020-12-22,Glenn,021,38,49,0,1
 2020-12-22,Humboldt,023,31,59,1,3
 2020-12-22,Imperial,025,142,174,1,20
@@ -9939,7 +9939,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-22,Siskiyou,093,1,1,0,0
 2020-12-22,Solano,095,181,298,1,17
 2020-12-22,Sonoma,097,438,575,1,35
-2020-12-22,Stanislaus,099,1103,1484,2,142
+2020-12-22,Stanislaus,099,1102,1483,1,141
 2020-12-22,Sutter,101,203,242,0,5
 2020-12-22,Tehama,103,20,57,0,13
 2020-12-22,Trinity,105,11,1,0,1
@@ -9956,7 +9956,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-23,Contra Costa,013,558,884,4,74
 2020-12-23,Del Norte,015,1,1,0,0
 2020-12-23,El Dorado,017,36,8,0,3
-2020-12-23,Fresno,019,1242,1352,4,116
+2020-12-23,Fresno,019,1243,1353,5,117
 2020-12-23,Glenn,021,39,49,0,1
 2020-12-23,Humboldt,023,31,59,1,3
 2020-12-23,Imperial,025,143,174,1,20
@@ -9995,7 +9995,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-23,Siskiyou,093,1,1,0,0
 2020-12-23,Solano,095,183,302,1,17
 2020-12-23,Sonoma,097,439,575,1,35
-2020-12-23,Stanislaus,099,1110,1484,2,142
+2020-12-23,Stanislaus,099,1109,1483,1,141
 2020-12-23,Sutter,101,203,242,0,5
 2020-12-23,Tehama,103,20,57,0,13
 2020-12-23,Trinity,105,11,1,0,1
@@ -10012,7 +10012,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-24,Contra Costa,013,579,892,4,74
 2020-12-24,Del Norte,015,1,1,0,0
 2020-12-24,El Dorado,017,36,22,0,3
-2020-12-24,Fresno,019,1258,1396,4,116
+2020-12-24,Fresno,019,1259,1397,5,117
 2020-12-24,Glenn,021,41,53,0,2
 2020-12-24,Humboldt,023,31,59,1,3
 2020-12-24,Imperial,025,143,174,1,20
@@ -10051,7 +10051,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-24,Siskiyou,093,1,1,0,0
 2020-12-24,Solano,095,184,304,1,17
 2020-12-24,Sonoma,097,443,579,1,35
-2020-12-24,Stanislaus,099,1125,1494,2,142
+2020-12-24,Stanislaus,099,1124,1493,1,141
 2020-12-24,Sutter,101,207,245,0,5
 2020-12-24,Tehama,103,20,57,0,13
 2020-12-24,Trinity,105,11,1,0,1
@@ -10068,7 +10068,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-25,Contra Costa,013,591,921,4,75
 2020-12-25,Del Norte,015,1,1,0,0
 2020-12-25,El Dorado,017,44,59,0,3
-2020-12-25,Fresno,019,1270,1400,4,116
+2020-12-25,Fresno,019,1271,1401,5,117
 2020-12-25,Glenn,021,42,54,0,2
 2020-12-25,Humboldt,023,31,59,1,3
 2020-12-25,Imperial,025,143,174,1,20
@@ -10107,7 +10107,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-25,Siskiyou,093,1,1,0,0
 2020-12-25,Solano,095,184,305,1,17
 2020-12-25,Sonoma,097,449,580,1,35
-2020-12-25,Stanislaus,099,1127,1494,2,142
+2020-12-25,Stanislaus,099,1126,1493,1,141
 2020-12-25,Sutter,101,210,249,0,5
 2020-12-25,Tehama,103,20,57,0,13
 2020-12-25,Trinity,105,11,1,0,1
@@ -10124,7 +10124,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-26,Contra Costa,013,598,934,4,75
 2020-12-26,Del Norte,015,1,1,0,0
 2020-12-26,El Dorado,017,55,65,0,4
-2020-12-26,Fresno,019,1277,1408,4,116
+2020-12-26,Fresno,019,1278,1409,5,117
 2020-12-26,Glenn,021,42,61,0,2
 2020-12-26,Humboldt,023,31,59,1,3
 2020-12-26,Imperial,025,143,174,1,20
@@ -10163,7 +10163,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-26,Siskiyou,093,1,1,0,0
 2020-12-26,Solano,095,184,305,1,17
 2020-12-26,Sonoma,097,450,580,1,35
-2020-12-26,Stanislaus,099,1128,1496,2,142
+2020-12-26,Stanislaus,099,1127,1495,1,141
 2020-12-26,Sutter,101,210,255,0,5
 2020-12-26,Tehama,103,20,57,0,13
 2020-12-26,Trinity,105,11,1,0,1
@@ -10180,7 +10180,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-27,Contra Costa,013,601,964,4,75
 2020-12-27,Del Norte,015,1,1,0,0
 2020-12-27,El Dorado,017,55,65,0,5
-2020-12-27,Fresno,019,1289,1411,4,117
+2020-12-27,Fresno,019,1290,1412,5,118
 2020-12-27,Glenn,021,42,61,0,2
 2020-12-27,Humboldt,023,31,59,1,3
 2020-12-27,Imperial,025,143,174,1,20
@@ -10219,7 +10219,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-27,Siskiyou,093,1,1,0,0
 2020-12-27,Solano,095,185,305,1,17
 2020-12-27,Sonoma,097,450,580,1,35
-2020-12-27,Stanislaus,099,1136,1501,2,142
+2020-12-27,Stanislaus,099,1135,1500,1,141
 2020-12-27,Sutter,101,210,255,0,5
 2020-12-27,Tehama,103,20,57,0,13
 2020-12-27,Trinity,105,11,1,0,1
@@ -10236,7 +10236,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-28,Contra Costa,013,607,976,4,78
 2020-12-28,Del Norte,015,1,1,0,0
 2020-12-28,El Dorado,017,69,110,0,5
-2020-12-28,Fresno,019,1310,1446,4,117
+2020-12-28,Fresno,019,1311,1447,5,118
 2020-12-28,Glenn,021,43,61,0,2
 2020-12-28,Humboldt,023,31,59,1,3
 2020-12-28,Imperial,025,143,174,1,21
@@ -10275,7 +10275,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-28,Siskiyou,093,1,1,0,0
 2020-12-28,Solano,095,193,322,1,17
 2020-12-28,Sonoma,097,451,595,1,35
-2020-12-28,Stanislaus,099,1142,1503,2,142
+2020-12-28,Stanislaus,099,1141,1502,1,141
 2020-12-28,Sutter,101,210,255,0,5
 2020-12-28,Tehama,103,20,57,0,13
 2020-12-28,Trinity,105,11,1,0,1
@@ -10292,7 +10292,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-29,Contra Costa,013,617,978,4,78
 2020-12-29,Del Norte,015,1,1,0,0
 2020-12-29,El Dorado,017,72,119,0,5
-2020-12-29,Fresno,019,1321,1466,4,129
+2020-12-29,Fresno,019,1322,1467,5,130
 2020-12-29,Glenn,021,43,65,0,2
 2020-12-29,Humboldt,023,31,60,1,3
 2020-12-29,Imperial,025,144,174,1,21
@@ -10331,7 +10331,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-29,Siskiyou,093,1,1,0,0
 2020-12-29,Solano,095,194,323,1,17
 2020-12-29,Sonoma,097,463,606,1,35
-2020-12-29,Stanislaus,099,1149,1506,2,142
+2020-12-29,Stanislaus,099,1148,1505,1,141
 2020-12-29,Sutter,101,210,256,0,5
 2020-12-29,Tehama,103,20,57,0,13
 2020-12-29,Trinity,105,11,1,0,1
@@ -10340,26 +10340,26 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-29,Ventura,111,808,834,2,40
 2020-12-29,Yolo,113,258,267,2,39
 2020-12-29,Yuba,115,19,2,0,1
-2020-12-30,Alameda,001,1489,2151,9,151
+2020-12-30,Alameda,001,1496,2153,8,151
 2020-12-30,Amador,005,29,62,0,19
 2020-12-30,Butte,007,300,452,1,34
 2020-12-30,Calaveras,009,21,58,0,1
 2020-12-30,Colusa,011,70,42,0,2
 2020-12-30,Contra Costa,013,620,983,4,79
 2020-12-30,Del Norte,015,1,1,0,0
-2020-12-30,El Dorado,017,86,134,0,5
-2020-12-30,Fresno,019,1329,1489,4,129
+2020-12-30,El Dorado,017,99,156,0,5
+2020-12-30,Fresno,019,1344,1490,5,130
 2020-12-30,Glenn,021,44,65,0,2
 2020-12-30,Humboldt,023,31,60,1,3
 2020-12-30,Imperial,025,144,174,1,21
 2020-12-30,Inyo,027,35,66,0,12
-2020-12-30,Kern,029,865,894,0,57
+2020-12-30,Kern,029,877,894,0,57
 2020-12-30,Kings,031,131,133,0,23
 2020-12-30,Lake,033,58,103,0,13
 2020-12-30,Lassen,035,12,33,0,1
-2020-12-30,Los Angeles,037,16576,20842,80,2476
+2020-12-30,Los Angeles,037,16634,20901,81,2478
 2020-12-30,Madera,039,186,301,0,25
-2020-12-30,Marin,041,332,393,2,47
+2020-12-30,Marin,041,334,396,2,48
 2020-12-30,Mariposa,043,1,0,0,0
 2020-12-30,Mendocino,045,5,29,1,2
 2020-12-30,Merced,047,188,219,1,6
@@ -10367,88 +10367,144 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-30,Monterey,053,340,352,0,23
 2020-12-30,Napa,055,133,59,1,16
 2020-12-30,Nevada,057,128,200,0,38
-2020-12-30,Orange,059,4181,4725,15,460
-2020-12-30,Placer,061,351,575,1,28
+2020-12-30,Orange,059,4226,4730,15,462
+2020-12-30,Placer,061,366,594,1,29
 2020-12-30,Plumas,063,2,1,0,1
-2020-12-30,Riverside,065,2730,3377,10,186
-2020-12-30,Sacramento,067,1850,2696,6,154
+2020-12-30,Riverside,065,2754,3387,10,197
+2020-12-30,Sacramento,067,1857,2707,6,154
 2020-12-30,San Benito,069,23,17,1,3
-2020-12-30,San Bernardino,071,2651,3515,11,271
-2020-12-30,San Diego,073,3282,4001,6,226
-2020-12-30,San Francisco,075,429,479,3,39
-2020-12-30,San Joaquin,077,1394,1837,3,133
+2020-12-30,San Bernardino,071,2677,3528,11,271
+2020-12-30,San Diego,073,3291,4015,6,229
+2020-12-30,San Francisco,075,430,482,3,40
+2020-12-30,San Joaquin,077,1408,1838,3,134
 2020-12-30,San Luis Obispo,079,215,264,0,10
 2020-12-30,San Mateo,081,443,613,5,63
-2020-12-30,Santa Barbara,083,403,364,1,16
-2020-12-30,Santa Clara,085,1966,2564,8,192
+2020-12-30,Santa Barbara,083,409,364,1,16
+2020-12-30,Santa Clara,085,1993,2613,8,192
 2020-12-30,Santa Cruz,087,258,435,0,56
-2020-12-30,Shasta,089,361,304,0,31
+2020-12-30,Shasta,089,362,304,0,31
 2020-12-30,Sierra,091,1,0,0,0
 2020-12-30,Siskiyou,093,1,1,0,0
-2020-12-30,Solano,095,210,333,1,18
-2020-12-30,Sonoma,097,485,613,1,35
-2020-12-30,Stanislaus,099,1157,1506,2,142
+2020-12-30,Solano,095,211,333,1,18
+2020-12-30,Sonoma,097,482,613,1,35
+2020-12-30,Stanislaus,099,1169,1523,1,141
 2020-12-30,Sutter,101,211,256,0,5
 2020-12-30,Tehama,103,20,57,0,13
 2020-12-30,Trinity,105,11,1,0,1
 2020-12-30,Tulare,107,743,922,1,133
 2020-12-30,Tuolumne,109,26,35,0,2
-2020-12-30,Ventura,111,820,847,2,41
+2020-12-30,Ventura,111,824,857,2,41
 2020-12-30,Yolo,113,258,267,2,39
 2020-12-30,Yuba,115,19,2,0,1
-2020-12-31,Alameda,001,1491,2151,9,151
+2020-12-31,Alameda,001,1541,2170,8,152
 2020-12-31,Amador,005,29,62,0,19
-2020-12-31,Butte,007,300,452,1,34
+2020-12-31,Butte,007,307,468,1,34
 2020-12-31,Calaveras,009,21,58,0,1
 2020-12-31,Colusa,011,70,42,0,2
-2020-12-31,Contra Costa,013,620,984,4,79
+2020-12-31,Contra Costa,013,638,1008,4,80
 2020-12-31,Del Norte,015,1,1,0,0
-2020-12-31,El Dorado,017,86,134,0,5
-2020-12-31,Fresno,019,1329,1489,4,129
-2020-12-31,Glenn,021,44,65,0,2
+2020-12-31,El Dorado,017,125,159,0,6
+2020-12-31,Fresno,019,1374,1530,5,131
+2020-12-31,Glenn,021,45,67,0,2
 2020-12-31,Humboldt,023,31,60,1,3
 2020-12-31,Imperial,025,144,174,1,21
 2020-12-31,Inyo,027,35,66,0,12
-2020-12-31,Kern,029,865,894,0,57
+2020-12-31,Kern,029,887,898,0,67
 2020-12-31,Kings,031,131,133,0,23
 2020-12-31,Lake,033,58,103,0,13
 2020-12-31,Lassen,035,12,33,0,1
-2020-12-31,Los Angeles,037,16603,20854,81,2477
-2020-12-31,Madera,039,186,301,0,25
-2020-12-31,Marin,041,332,393,2,47
+2020-12-31,Los Angeles,037,17089,21209,82,2490
+2020-12-31,Madera,039,189,301,0,25
+2020-12-31,Marin,041,335,396,2,48
 2020-12-31,Mariposa,043,1,0,0,0
 2020-12-31,Mendocino,045,5,29,1,2
-2020-12-31,Merced,047,188,219,1,6
+2020-12-31,Merced,047,192,222,1,6
 2020-12-31,Modoc,049,32,31,0,1
-2020-12-31,Monterey,053,340,352,0,23
-2020-12-31,Napa,055,133,59,1,16
-2020-12-31,Nevada,057,128,200,0,38
-2020-12-31,Orange,059,4181,4725,15,460
-2020-12-31,Placer,061,351,575,1,28
+2020-12-31,Monterey,053,356,391,0,23
+2020-12-31,Napa,055,133,60,1,16
+2020-12-31,Nevada,057,132,202,0,38
+2020-12-31,Orange,059,4298,4875,15,474
+2020-12-31,Placer,061,368,603,1,30
 2020-12-31,Plumas,063,2,1,0,1
-2020-12-31,Riverside,065,2730,3377,10,186
-2020-12-31,Sacramento,067,1850,2696,6,154
-2020-12-31,San Benito,069,23,17,1,3
-2020-12-31,San Bernardino,071,2653,3518,11,271
-2020-12-31,San Diego,073,3286,4001,6,226
-2020-12-31,San Francisco,075,429,479,3,39
-2020-12-31,San Joaquin,077,1394,1837,3,133
-2020-12-31,San Luis Obispo,079,215,264,0,10
-2020-12-31,San Mateo,081,443,613,5,63
-2020-12-31,Santa Barbara,083,405,388,1,16
-2020-12-31,Santa Clara,085,1966,2564,8,192
-2020-12-31,Santa Cruz,087,258,435,0,56
-2020-12-31,Shasta,089,361,304,0,31
+2020-12-31,Riverside,065,2788,3439,10,220
+2020-12-31,Sacramento,067,1876,2744,6,169
+2020-12-31,San Benito,069,24,17,1,3
+2020-12-31,San Bernardino,071,2721,3588,11,272
+2020-12-31,San Diego,073,3380,4147,6,230
+2020-12-31,San Francisco,075,459,503,3,40
+2020-12-31,San Joaquin,077,1426,1853,3,134
+2020-12-31,San Luis Obispo,079,225,269,0,10
+2020-12-31,San Mateo,081,455,615,5,64
+2020-12-31,Santa Barbara,083,423,405,1,16
+2020-12-31,Santa Clara,085,2070,2647,8,195
+2020-12-31,Santa Cruz,087,260,470,0,56
+2020-12-31,Shasta,089,380,323,0,31
 2020-12-31,Sierra,091,1,0,0,0
 2020-12-31,Siskiyou,093,1,1,0,0
-2020-12-31,Solano,095,210,333,1,18
-2020-12-31,Sonoma,097,485,613,1,35
-2020-12-31,Stanislaus,099,1157,1506,2,142
-2020-12-31,Sutter,101,211,256,0,5
+2020-12-31,Solano,095,212,353,1,19
+2020-12-31,Sonoma,097,499,614,1,35
+2020-12-31,Stanislaus,099,1180,1536,1,141
+2020-12-31,Sutter,101,212,256,0,5
 2020-12-31,Tehama,103,20,57,0,13
 2020-12-31,Trinity,105,11,1,0,1
-2020-12-31,Tulare,107,743,922,1,133
-2020-12-31,Tuolumne,109,26,35,0,2
-2020-12-31,Ventura,111,820,847,2,41
-2020-12-31,Yolo,113,258,267,2,39
-2020-12-31,Yuba,115,19,2,0,1
+2020-12-31,Tulare,107,747,922,1,133
+2020-12-31,Tuolumne,109,26,36,0,2
+2020-12-31,Ventura,111,878,942,2,41
+2020-12-31,Yolo,113,258,280,2,40
+2020-12-31,Yuba,115,21,2,0,1
+2021-01-01,Alameda,001,1542,2172,8,152
+2021-01-01,Amador,005,29,62,0,19
+2021-01-01,Butte,007,307,468,1,34
+2021-01-01,Calaveras,009,21,58,0,1
+2021-01-01,Colusa,011,70,42,0,2
+2021-01-01,Contra Costa,013,641,1008,4,80
+2021-01-01,Del Norte,015,1,1,0,0
+2021-01-01,El Dorado,017,125,159,0,6
+2021-01-01,Fresno,019,1375,1530,5,132
+2021-01-01,Glenn,021,45,67,0,2
+2021-01-01,Humboldt,023,31,60,1,3
+2021-01-01,Imperial,025,144,174,1,21
+2021-01-01,Inyo,027,35,66,0,12
+2021-01-01,Kern,029,890,912,0,67
+2021-01-01,Kings,031,131,133,0,23
+2021-01-01,Lake,033,58,103,0,13
+2021-01-01,Lassen,035,12,33,0,1
+2021-01-01,Los Angeles,037,17113,21232,82,2491
+2021-01-01,Madera,039,189,301,0,25
+2021-01-01,Marin,041,335,396,2,48
+2021-01-01,Mariposa,043,1,0,0,0
+2021-01-01,Mendocino,045,5,29,1,2
+2021-01-01,Merced,047,192,222,1,6
+2021-01-01,Modoc,049,32,31,0,1
+2021-01-01,Monterey,053,356,391,0,23
+2021-01-01,Napa,055,133,60,1,16
+2021-01-01,Nevada,057,132,202,0,38
+2021-01-01,Orange,059,4300,4877,15,474
+2021-01-01,Placer,061,368,603,1,30
+2021-01-01,Plumas,063,2,1,0,1
+2021-01-01,Riverside,065,2788,3439,10,220
+2021-01-01,Sacramento,067,1876,2744,6,169
+2021-01-01,San Benito,069,24,17,1,3
+2021-01-01,San Bernardino,071,2723,3612,11,272
+2021-01-01,San Diego,073,3384,4147,6,230
+2021-01-01,San Francisco,075,459,503,3,40
+2021-01-01,San Joaquin,077,1426,1853,3,134
+2021-01-01,San Luis Obispo,079,227,269,0,10
+2021-01-01,San Mateo,081,455,615,5,64
+2021-01-01,Santa Barbara,083,423,405,1,16
+2021-01-01,Santa Clara,085,2114,2767,8,196
+2021-01-01,Santa Cruz,087,260,470,0,56
+2021-01-01,Shasta,089,380,323,0,31
+2021-01-01,Sierra,091,1,0,0,0
+2021-01-01,Siskiyou,093,1,1,0,0
+2021-01-01,Solano,095,212,353,1,19
+2021-01-01,Sonoma,097,499,614,1,35
+2021-01-01,Stanislaus,099,1180,1536,1,141
+2021-01-01,Sutter,101,212,256,0,5
+2021-01-01,Tehama,103,20,57,0,13
+2021-01-01,Trinity,105,11,1,0,1
+2021-01-01,Tulare,107,749,926,1,133
+2021-01-01,Tuolumne,109,26,36,0,2
+2021-01-01,Ventura,111,878,942,2,41
+2021-01-01,Yolo,113,258,280,2,40
+2021-01-01,Yuba,115,21,2,0,1
