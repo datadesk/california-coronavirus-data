@@ -19,7 +19,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-01,Lassen,035,4691,10,0,0
 2021-01-01,Los Angeles,037,790582,10552,19063,193
 2021-01-01,Madera,039,10491,117,0,0
-2021-01-01,Marin,041,9729,139,0,0
+2021-01-01,Marin,041,9900,139,171,0
 2021-01-01,Mariposa,043,255,4,3,0
 2021-01-01,Mendocino,045,2558,27,71,1
 2021-01-01,Merced,047,19444,260,0,0
@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-01,Sierra,091,47,0,0,0
 2021-01-01,Siskiyou,093,1176,11,0,0
 2021-01-01,Solano,095,19211,98,0,0
-2021-01-01,Sonoma,097,19055,192,63,2
+2021-01-01,Sonoma,097,19360,196,305,4
 2021-01-01,Stanislaus,099,34465,616,0,0
 2021-01-01,Sutter,101,6505,52,0,0
 2021-01-01,Tehama,103,3344,37,52,1
@@ -105,7 +105,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-12-31,Sierra,091,47,0,5,0
 2020-12-31,Siskiyou,093,1176,11,30,0
 2020-12-31,Solano,095,19211,98,203,0
-2020-12-31,Sonoma,097,18992,190,120,6
+2020-12-31,Sonoma,097,19055,192,183,8
 2020-12-31,Stanislaus,099,34465,616,324,8
 2020-12-31,Sutter,101,6505,52,94,2
 2020-12-31,Tehama,103,3292,36,39,0

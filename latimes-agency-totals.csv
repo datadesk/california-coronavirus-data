@@ -22,7 +22,7 @@ Long Beach,Los Angeles,037,2021-01-01,32368,395,23125,True
 Los Angeles,Los Angeles,037,2021-01-01,751335,9990,,
 Pasadena,Los Angeles,037,2021-01-01,6879,167,,True
 Madera,Madera,039,2021-01-01,10491,117,7533,True
-Marin,Marin,041,2021-01-01,9729,139,8817,
+Marin,Marin,041,2021-01-01,9900,139,8941,
 Mariposa,Mariposa,043,2021-01-01,255,4,211,
 Mendocino,Mendocino,045,2021-01-01,2558,27,2251,
 Merced,Merced,047,2021-01-01,19444,260,15501,
@@ -50,7 +50,7 @@ Shasta,Shasta,089,2021-01-01,8060,78,7546,True
 Sierra,Sierra,091,2021-01-01,47,0,37,True
 Siskiyou,Siskiyou,093,2021-01-01,1176,11,1073,True
 Solano,Solano,095,2021-01-01,19211,98,16765,True
-Sonoma,Sonoma,097,2021-01-01,19055,192,13186,
+Sonoma,Sonoma,097,2021-01-01,19360,196,13186,
 Stanislaus,Stanislaus,099,2021-01-01,34465,616,30383,True
 Sutter,Sutter,101,2021-01-01,6505,52,5941,True
 Tehama,Tehama,103,2021-01-01,3344,37,2198,
@@ -111,7 +111,7 @@ Shasta,Shasta,089,2020-12-31,8060,78,7546,
 Sierra,Sierra,091,2020-12-31,47,0,37,
 Siskiyou,Siskiyou,093,2020-12-31,1176,11,1073,
 Solano,Solano,095,2020-12-31,19211,98,16765,
-Sonoma,Sonoma,097,2020-12-31,18992,190,13186,
+Sonoma,Sonoma,097,2020-12-31,19055,192,13186,
 Stanislaus,Stanislaus,099,2020-12-31,34465,616,30383,
 Sutter,Sutter,101,2020-12-31,6505,52,5941,
 Tehama,Tehama,103,2020-12-31,3292,36,1949,
