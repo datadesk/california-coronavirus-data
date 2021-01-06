@@ -187,7 +187,10 @@ Some dates are missing because the state did not publish a press release for tha
 | `suspected_icu`                | integer | The number of ICU hospitalizations with a suspected case of COVID-19.                                                                                                                                        |
 | `healthcare_worker_infections` | integer | The total number of healthcare workers who have tested positive for COVID-19.                                                                                                                                |
 | `healthcare_worker_deaths`     | integer | The total number of healthcare workers who have died from COVID-19.                                                                                                                                          |
+| `vaccine_doses_administered`   | integer | The total number of vaccine doses given out.                                                                                                                                                                 |
+| `vaccine_doses_distributed`    | integer | The total number of vaccine doses available in the state..                                                                                                                                                   |
 | `source_url`                   | string  | The URL to the state press release.                                                                                                                                                                          |
+
 
 ### [cdph-positive-test-rate.csv](./cdph-positive-test-rate.csv)
 
