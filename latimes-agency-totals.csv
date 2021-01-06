@@ -10,7 +10,7 @@ Contra Costa,Contra Costa,013,2021-01-04,42632,347,36133,
 Del Norte,Del Norte,015,2021-01-04,777,2,645,
 El Dorado,El Dorado,017,2021-01-04,6095,24,4456,
 Fresno,Fresno,019,2021-01-04,69318,711,26742,
-Glenn,Glenn,021,2021-01-04,1539,16,1326,
+Glenn,Glenn,021,2021-01-04,1539,16,1311,
 Humboldt,Humboldt,023,2021-01-04,1910,22,1168,
 Imperial,Imperial,025,2021-01-04,22820,420,20767,
 Inyo,Inyo,027,2021-01-04,675,22,505,
@@ -49,11 +49,11 @@ Santa Cruz,Santa Cruz,087,2021-01-04,9579,83,6950,
 Shasta,Shasta,089,2021-01-04,8268,78,7778,
 Sierra,Sierra,091,2021-01-04,59,,43,
 Siskiyou,Siskiyou,093,2021-01-04,1218,11,1111,
-Solano,Solano,095,2021-01-04,20953,100,19050,
+Solano,Solano,095,2021-01-04,20953,100,18356,
 Sonoma,Sonoma,097,2021-01-04,20015,196,13860,
 Stanislaus,Stanislaus,099,2021-01-04,36255,631,31849,
 Sutter,Sutter,101,2021-01-04,6734,54,6205,
-Tehama,Tehama,103,2021-01-04,3344,37,2198,True
+Tehama,Tehama,103,2021-01-04,3344,37,2197,True
 Trinity,Trinity,105,2021-01-04,282,4,262,
 Tulare,Tulare,107,2021-01-04,34402,419,28417,
 Tuolumne,Tuolumne,109,2021-01-04,3045,22,1782,
@@ -114,7 +114,7 @@ Solano,Solano,095,2021-01-03,19211,98,16765,True
 Sonoma,Sonoma,097,2021-01-03,19386,196,13830,
 Stanislaus,Stanislaus,099,2021-01-03,35800,624,31337,
 Sutter,Sutter,101,2021-01-03,6505,52,5941,True
-Tehama,Tehama,103,2021-01-03,3344,37,2198,True
+Tehama,Tehama,103,2021-01-03,3344,37,2197,True
 Trinity,Trinity,105,2021-01-03,276,4,261,True
 Tulare,Tulare,107,2021-01-03,33443,406,28417,True
 Tuolumne,Tuolumne,109,2021-01-03,2962,21,1709,True
@@ -175,7 +175,7 @@ Solano,Solano,095,2021-01-02,19211,98,16765,True
 Sonoma,Sonoma,097,2021-01-02,19360,196,13186,
 Stanislaus,Stanislaus,099,2021-01-02,35471,624,31050,
 Sutter,Sutter,101,2021-01-02,6505,52,5941,
-Tehama,Tehama,103,2021-01-02,3344,37,2198,True
+Tehama,Tehama,103,2021-01-02,3344,37,2197,True
 Trinity,Trinity,105,2021-01-02,276,4,261,True
 Tulare,Tulare,107,2021-01-02,33443,406,28417,True
 Tuolumne,Tuolumne,109,2021-01-02,2962,21,1709,True
@@ -236,7 +236,7 @@ Solano,Solano,095,2021-01-01,19211,98,16765,True
 Sonoma,Sonoma,097,2021-01-01,19360,196,13186,
 Stanislaus,Stanislaus,099,2021-01-01,34465,616,30383,True
 Sutter,Sutter,101,2021-01-01,6505,52,5941,True
-Tehama,Tehama,103,2021-01-01,3344,37,2198,
+Tehama,Tehama,103,2021-01-01,3344,37,2197,
 Trinity,Trinity,105,2021-01-01,276,4,261,True
 Tulare,Tulare,107,2021-01-01,33443,406,28417,True
 Tuolumne,Tuolumne,109,2021-01-01,2962,21,1709,True
