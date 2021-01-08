@@ -1,4 +1,5 @@
 date,staff_active_cases,patients_active_cases,staff_confirmed_cases,patients_confirmed_cases,staff_deaths,patients_deaths,staff_deaths_note,source_url
+2021-01-07,6732,5512,43769,53100,190,7280,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
 2021-01-06,6871,5431,43218,52343,191,7172,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
 2021-01-05,6953,5887,42884,52058,187,7104,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
 2021-01-04,7098,5655,42567,51687,189,7012,,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx
