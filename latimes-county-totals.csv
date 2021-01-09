@@ -2,7 +2,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-08,Alameda,001,57824,729,804,16
 2021-01-08,Alpine,003,72,0,1,0
 2021-01-08,Amador,005,2801,26,40,0
-2021-01-08,Butte,007,0,0,-8217,-102
+2021-01-08,Butte,007,8359,111,142,9
 2021-01-08,Calaveras,009,922,22,24,0
 2021-01-08,Colusa,011,1565,9,36,0
 2021-01-08,Contra Costa,013,45874,376,907,5
@@ -14,7 +14,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-08,Imperial,025,23472,446,153,2
 2021-01-08,Inyo,027,811,27,65,0
 2021-01-08,Kern,029,76673,539,1941,16
-2021-01-08,Kings,031,0,0,-17086,-110
+2021-01-08,Kings,031,17086,110,0,0
 2021-01-08,Lake,033,2120,26,65,1
 2021-01-08,Lassen,035,4972,12,25,1
 2021-01-08,Los Angeles,037,890031,11872,17827,318
@@ -41,7 +41,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-08,San Luis Obispo,079,12891,101,294,6
 2021-01-08,San Mateo,081,27358,255,341,21
 2021-01-08,Santa Barbara,083,19953,185,0,0
-2021-01-08,Santa Clara,085,78683,843,0,28
+2021-01-08,Santa Clara,085,80466,843,1783,28
 2021-01-08,Santa Cruz,087,10108,104,0,0
 2021-01-08,Shasta,089,8917,99,176,4
 2021-01-08,Sierra,091,63,0,0,0
