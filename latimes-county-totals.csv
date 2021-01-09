@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-01-08,Alameda,001,59934,744,2914,31
+2021-01-08,Alameda,001,57824,729,804,16
 2021-01-08,Alpine,003,72,0,1,0
 2021-01-08,Amador,005,2801,26,40,0
 2021-01-08,Butte,007,0,0,-8217,-102
@@ -24,7 +24,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-08,Mendocino,045,2846,31,45,0
 2021-01-08,Merced,047,21506,279,367,4
 2021-01-08,Modoc,049,360,3,3,0
-2021-01-08,Mono,051,967,4,4,0
+2021-01-08,Mono,051,969,4,6,0
 2021-01-08,Monterey,053,31802,232,1096,3
 2021-01-08,Napa,055,6476,35,139,3
 2021-01-08,Nevada,057,2888,50,34,0
@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-08,Sierra,091,63,0,0,0
 2021-01-08,Siskiyou,093,1311,12,31,0
 2021-01-08,Solano,095,22232,102,377,0
-2021-01-08,Sonoma,097,0,0,-20752,-214
+2021-01-08,Sonoma,097,21067,218,315,4
 2021-01-08,Stanislaus,099,37951,665,607,8
 2021-01-08,Sutter,101,6921,69,0,0
 2021-01-08,Tehama,103,3670,40,31,0
