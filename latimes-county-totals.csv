@@ -44,7 +44,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-11,Santa Clara,085,84726,944,1071,25
 2021-01-11,Santa Cruz,087,10833,106,725,2
 2021-01-11,Shasta,089,9127,101,210,2
-2021-01-11,Sierra,091,65,0,2,0
+2021-01-11,Sierra,091,63,0,0,0
 2021-01-11,Siskiyou,093,1341,12,30,0
 2021-01-11,Solano,095,23314,102,1082,0
 2021-01-11,Sonoma,097,21463,218,0,0
