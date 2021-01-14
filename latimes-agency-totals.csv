@@ -2,7 +2,7 @@ agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
 Alameda,Alameda,001,2021-01-13,60717,759,,
 Berkeley,Alameda,001,2021-01-13,2226,17,,
 Alpine,Alpine,003,2021-01-13,73,0,71,
-Amador,Amador,005,2021-01-13,2889,29,2610,
+Amador,Amador,005,2021-01-13,2889,29,2609,
 Butte,Butte,007,2021-01-13,8891,120,7854,
 Calaveras,Calaveras,009,2021-01-13,945,22,879,True
 Colusa,Colusa,011,2021-01-13,1667,9,1200,
