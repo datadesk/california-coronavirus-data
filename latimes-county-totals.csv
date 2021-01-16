@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-01-14,Alameda,001,63865,768,922,3
+2021-01-14,Alameda,001,63865,755,922,-10
 2021-01-14,Alpine,003,73,0,0,0
 2021-01-14,Amador,005,2921,29,32,0
 2021-01-14,Butte,007,8992,120,101,0
