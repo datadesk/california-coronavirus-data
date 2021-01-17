@@ -1,4 +1,9 @@
 date,region,icu_capacity_percent,stay_home_order
+2021-01-16,Bay Area,0.034,yes
+2021-01-16,Greater Sacramento,0.062,no
+2021-01-16,Northern California,0.24,no
+2021-01-16,San Joaquin Valley,0.0,yes
+2021-01-16,Southern California,0.0,yes
 2021-01-15,Bay Area,0.034,yes
 2021-01-15,Greater Sacramento,0.062,no
 2021-01-15,Northern California,0.24,no
