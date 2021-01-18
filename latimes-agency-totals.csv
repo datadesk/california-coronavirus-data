@@ -1,5 +1,5 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
-Alameda,Alameda,001,2021-01-17,65679,757,,
+Alameda,Alameda,001,2021-01-17,63342,736,,True
 Berkeley,Alameda,001,2021-01-17,2337,21,,
 Alpine,Alpine,003,2021-01-17,73,0,72,True
 Amador,Amador,005,2021-01-17,2972,29,2678,
