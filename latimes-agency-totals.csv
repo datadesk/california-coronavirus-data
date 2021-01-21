@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2021-01-20,66219,766,,
+Berkeley,Alameda,001,2021-01-20,2430,22,,
+Alpine,Alpine,003,2021-01-20,73,0,73,
+Amador,Amador,005,2021-01-20,2993,31,2811,
+Butte,Butte,007,2021-01-20,9415,128,8750,
+Calaveras,Calaveras,009,2021-01-20,1374,23,1263,
+Colusa,Colusa,011,2021-01-20,1796,9,1308,
+Contra Costa,Contra Costa,013,2021-01-20,53349,460,45676,
+Del Norte,Del Norte,015,2021-01-20,867,2,843,
+El Dorado,El Dorado,017,2021-01-20,7886,49,6332,
+Fresno,Fresno,019,2021-01-20,83200,968,,
+Glenn,Glenn,021,2021-01-20,1893,20,1495,
+Humboldt,Humboldt,023,2021-01-20,2427,25,1924,
+Imperial,Imperial,025,2021-01-20,25271,474,23426,
+Inyo,Inyo,027,2021-01-20,983,29,834,
+Kern,Kern,029,2021-01-20,87240,572,27244,
+Kings,Kings,031,2021-01-20,19588,148,10379,
+Lake,Lake,033,2021-01-20,2621,31,2256,
+Lassen,Lassen,035,2021-01-20,5199,16,4981,
+Long Beach,Los Angeles,037,2021-01-20,45011,562,31370,
+Los Angeles,Los Angeles,037,2021-01-20,984266,13657,,
+Pasadena,Los Angeles,037,2021-01-20,9461,197,,
+Madera,Madera,039,2021-01-20,13391,151,10418,
+Marin,Marin,041,2021-01-20,11732,159,10520,
+Mariposa,Mariposa,043,2021-01-20,346,4,325,
+Mendocino,Mendocino,045,2021-01-20,3192,32,2897,
+Merced,Merced,047,2021-01-20,24570,316,20539,
+Modoc,Modoc,049,2021-01-20,385,3,327,True
+Mono,Mono,051,2021-01-20,1124,4,,
+Monterey,Monterey,053,2021-01-20,36464,255,14527,
+Napa,Napa,055,2021-01-20,7653,44,2481,
+Nevada,Nevada,057,2021-01-20,3234,74,2547,
+Orange,Orange,059,2021-01-20,216509,2508,147280,
+Placer,Placer,061,2021-01-20,17490,184,14175,
+Plumas,Plumas,063,2021-01-20,589,5,532,
+Riverside,Riverside,065,2021-01-20,251000,2676,171354,
+Sacramento,Sacramento,067,2021-01-20,81132,1128,66391,
+San Benito,San Benito,069,2021-01-20,5003,46,4408,
+San Bernardino,San Bernardino,071,2021-01-20,256914,1560,239248,
+San Diego,San Diego,073,2021-01-20,218555,2174,,
+San Francisco,San Francisco,075,2021-01-20,29180,266,,
+San Joaquin,San Joaquin,077,2021-01-20,58843,788,51954,
+San Luis Obispo,San Luis Obispo,079,2021-01-20,16056,140,13429,
+San Mateo,San Mateo,081,2021-01-20,32887,309,,
+Santa Barbara,Santa Barbara,083,2021-01-20,25405,243,22546,
+Santa Clara,Santa Clara,085,2021-01-20,94905,1129,,
+Santa Cruz,Santa Cruz,087,2021-01-20,12461,113,9595,
+Shasta,Shasta,089,2021-01-20,9750,123,9127,
+Sierra,Sierra,091,2021-01-20,82,0,67,
+Siskiyou,Siskiyou,093,2021-01-20,1457,13,1358,
+Solano,Solano,095,2021-01-20,25983,107,23472,
+Sonoma,Sonoma,097,2021-01-20,24184,242,17631,
+Stanislaus,Stanislaus,099,2021-01-20,43121,766,38181,
+Sutter,Sutter,101,2021-01-20,7828,79,7345,
+Tehama,Tehama,103,2021-01-20,4332,44,2378,
+Trinity,Trinity,105,2021-01-20,304,4,294,
+Tulare,Tulare,107,2021-01-20,42186,515,37011,
+Tuolumne,Tuolumne,109,2021-01-20,3403,40,2034,
+Ventura,Ventura,111,2021-01-20,62774,462,55708,
+Yolo,Yolo,113,2021-01-20,10609,138,9766,
+Yuba,Yuba,115,2021-01-20,4996,27,4438,
 Alameda,Alameda,001,2021-01-19,65531,744,,
 Berkeley,Alameda,001,2021-01-19,2421,21,,
 Alpine,Alpine,003,2021-01-19,73,0,73,
@@ -10,7 +71,7 @@ Contra Costa,Contra Costa,013,2021-01-19,52965,450,44858,
 Del Norte,Del Norte,015,2021-01-19,866,2,838,
 El Dorado,El Dorado,017,2021-01-19,7826,44,6176,
 Fresno,Fresno,019,2021-01-19,82485,968,,
-Glenn,Glenn,021,2021-01-19,1844,19,1519,
+Glenn,Glenn,021,2021-01-19,1844,19,1458,
 Humboldt,Humboldt,023,2021-01-19,2393,24,1868,
 Imperial,Imperial,025,2021-01-19,24927,465,23121,
 Inyo,Inyo,027,2021-01-19,974,29,701,
@@ -71,7 +132,7 @@ Contra Costa,Contra Costa,013,2021-01-18,52547,450,44013,
 Del Norte,Del Norte,015,2021-01-18,861,2,807,
 El Dorado,El Dorado,017,2021-01-18,7515,44,5797,True
 Fresno,Fresno,019,2021-01-18,82039,932,,
-Glenn,Glenn,021,2021-01-18,1798,19,1506,True
+Glenn,Glenn,021,2021-01-18,1798,19,1458,True
 Humboldt,Humboldt,023,2021-01-18,2263,24,1674,True
 Imperial,Imperial,025,2021-01-18,24620,463,22348,True
 Inyo,Inyo,027,2021-01-18,924,29,701,True
@@ -132,7 +193,7 @@ Contra Costa,Contra Costa,013,2021-01-17,52146,449,43450,
 Del Norte,Del Norte,015,2021-01-17,857,2,807,
 El Dorado,El Dorado,017,2021-01-17,7515,44,5797,True
 Fresno,Fresno,019,2021-01-17,79950,932,,
-Glenn,Glenn,021,2021-01-17,1798,19,1506,True
+Glenn,Glenn,021,2021-01-17,1798,19,1458,True
 Humboldt,Humboldt,023,2021-01-17,2263,24,1674,True
 Imperial,Imperial,025,2021-01-17,24620,463,22348,True
 Inyo,Inyo,027,2021-01-17,924,29,701,True
@@ -193,7 +254,7 @@ Contra Costa,Contra Costa,013,2021-01-16,51573,446,42978,
 Del Norte,Del Norte,015,2021-01-16,853,2,806,
 El Dorado,El Dorado,017,2021-01-16,7515,44,5797,True
 Fresno,Fresno,019,2021-01-16,79033,932,,True
-Glenn,Glenn,021,2021-01-16,1798,19,1506,True
+Glenn,Glenn,021,2021-01-16,1798,19,1458,True
 Humboldt,Humboldt,023,2021-01-16,2263,24,1674,True
 Imperial,Imperial,025,2021-01-16,24620,463,22348,True
 Inyo,Inyo,027,2021-01-16,924,29,701,True
@@ -254,7 +315,7 @@ Contra Costa,Contra Costa,013,2021-01-15,50627,430,42666,
 Del Norte,Del Norte,015,2021-01-15,847,2,804,
 El Dorado,El Dorado,017,2021-01-15,7515,44,5797,
 Fresno,Fresno,019,2021-01-15,79033,932,,
-Glenn,Glenn,021,2021-01-15,1798,19,1506,
+Glenn,Glenn,021,2021-01-15,1798,19,1458,
 Humboldt,Humboldt,023,2021-01-15,2263,24,1674,
 Imperial,Imperial,025,2021-01-15,24620,463,22348,
 Inyo,Inyo,027,2021-01-15,924,29,701,
