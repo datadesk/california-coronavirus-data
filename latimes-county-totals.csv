@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-01-26,Alameda,001,70675,896,22,0
+2021-01-26,Alameda,001,71298,906,645,10
 2021-01-26,Alpine,003,74,0,1,0
 2021-01-26,Amador,005,3070,33,3,0
 2021-01-26,Butte,007,9775,136,119,0
@@ -23,8 +23,8 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-26,Mariposa,043,355,5,0,0
 2021-01-26,Mendocino,045,3322,36,29,0
 2021-01-26,Merced,047,25743,332,168,1
-2021-01-26,Modoc,049,392,4,2,1
-2021-01-26,Mono,051,1145,4,0,0
+2021-01-26,Modoc,049,397,4,7,1
+2021-01-26,Mono,051,1157,4,12,0
 2021-01-26,Monterey,053,38434,261,1149,2
 2021-01-26,Napa,055,8070,50,83,2
 2021-01-26,Nevada,057,3394,73,39,0
@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-26,Sierra,091,95,0,0,0
 2021-01-26,Siskiyou,093,1504,13,5,0
 2021-01-26,Solano,095,27141,118,100,3
-2021-01-26,Sonoma,097,25141,251,0,0
+2021-01-26,Sonoma,097,25377,254,236,3
 2021-01-26,Stanislaus,099,44852,803,410,7
 2021-01-26,Sutter,101,8129,84,60,1
 2021-01-26,Tehama,103,4564,46,96,0
@@ -55,7 +55,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-26,Tulare,107,43574,542,0,0
 2021-01-26,Tuolumne,109,3512,41,35,1
 2021-01-26,Ventura,111,67066,546,664,21
-2021-01-26,Yolo,113,11096,138,0,0
+2021-01-26,Yolo,113,11186,146,90,8
 2021-01-26,Yuba,115,5227,30,51,0
 2021-01-25,Alameda,001,70653,896,319,2
 2021-01-25,Alpine,003,73,0,0,0
