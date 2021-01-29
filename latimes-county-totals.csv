@@ -30,7 +30,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-01-28,Nevada,057,3439,73,19,0
 2021-01-28,Orange,059,228297,2868,1276,29
 2021-01-28,Placer,061,18267,192,138,0
-2021-01-28,Plumas,063,621,6,1,1
+2021-01-28,Plumas,063,620,6,0,1
 2021-01-28,Riverside,065,270105,3058,1615,55
 2021-01-28,Sacramento,067,84901,1216,603,8
 2021-01-28,San Benito,069,5279,52,54,0
