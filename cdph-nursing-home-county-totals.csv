@@ -4343,7 +4343,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-10,Kern,029,450,499,0,31
 2020-09-10,Kings,031,77,90,0,23
 2020-09-10,Lake,033,2,16,0,1
-2020-09-10,Los Angeles,037,7511,11422,60,1794
+2020-09-10,Los Angeles,037,7511,11423,60,1794
 2020-09-10,Madera,039,107,194,0,21
 2020-09-10,Marin,041,186,273,1,34
 2020-09-10,Mendocino,045,5,26,1,2
@@ -4394,7 +4394,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-11,Kern,029,452,499,0,31
 2020-09-11,Kings,031,78,90,0,23
 2020-09-11,Lake,033,12,21,0,1
-2020-09-11,Los Angeles,037,7524,11434,60,1796
+2020-09-11,Los Angeles,037,7524,11435,60,1796
 2020-09-11,Madera,039,107,194,0,21
 2020-09-11,Marin,041,186,274,1,34
 2020-09-11,Mendocino,045,5,26,1,2
@@ -4445,7 +4445,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-12,Kern,029,452,511,0,31
 2020-09-12,Kings,031,78,90,0,23
 2020-09-12,Lake,033,12,23,0,1
-2020-09-12,Los Angeles,037,7534,11468,60,1796
+2020-09-12,Los Angeles,037,7534,11469,60,1796
 2020-09-12,Madera,039,107,194,0,21
 2020-09-12,Marin,041,186,275,1,34
 2020-09-12,Mendocino,045,5,26,1,2
@@ -4496,7 +4496,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-13,Kern,029,453,511,0,31
 2020-09-13,Kings,031,78,90,0,23
 2020-09-13,Lake,033,15,23,0,1
-2020-09-13,Los Angeles,037,7547,11491,60,1797
+2020-09-13,Los Angeles,037,7547,11492,60,1797
 2020-09-13,Madera,039,109,194,0,21
 2020-09-13,Marin,041,188,278,2,34
 2020-09-13,Mendocino,045,5,26,1,2
@@ -4547,7 +4547,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-14,Kern,029,453,511,0,31
 2020-09-14,Kings,031,78,90,0,23
 2020-09-14,Lake,033,17,23,0,1
-2020-09-14,Los Angeles,037,7570,11500,60,1803
+2020-09-14,Los Angeles,037,7570,11501,60,1803
 2020-09-14,Madera,039,110,194,0,21
 2020-09-14,Marin,041,191,279,2,34
 2020-09-14,Mendocino,045,5,26,1,2
@@ -4598,7 +4598,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-15,Kern,029,459,524,0,31
 2020-09-15,Kings,031,78,90,0,23
 2020-09-15,Lake,033,20,26,0,1
-2020-09-15,Los Angeles,037,7581,11509,60,1806
+2020-09-15,Los Angeles,037,7581,11510,60,1806
 2020-09-15,Madera,039,110,194,0,21
 2020-09-15,Marin,041,193,279,2,34
 2020-09-15,Mendocino,045,5,26,1,2
@@ -4649,7 +4649,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-16,Kern,029,459,524,0,31
 2020-09-16,Kings,031,78,90,0,23
 2020-09-16,Lake,033,20,32,0,1
-2020-09-16,Los Angeles,037,7604,11515,60,1810
+2020-09-16,Los Angeles,037,7604,11516,60,1810
 2020-09-16,Madera,039,110,194,0,21
 2020-09-16,Marin,041,193,279,2,35
 2020-09-16,Mendocino,045,5,26,1,2
@@ -4700,7 +4700,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-17,Kern,029,462,524,0,31
 2020-09-17,Kings,031,78,90,0,23
 2020-09-17,Lake,033,22,34,0,1
-2020-09-17,Los Angeles,037,7621,11526,60,1811
+2020-09-17,Los Angeles,037,7621,11527,60,1811
 2020-09-17,Madera,039,110,194,0,21
 2020-09-17,Marin,041,193,281,2,35
 2020-09-17,Mendocino,045,5,26,1,2
@@ -4751,7 +4751,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-18,Kern,029,463,537,0,31
 2020-09-18,Kings,031,78,90,0,23
 2020-09-18,Lake,033,22,34,0,1
-2020-09-18,Los Angeles,037,7641,11546,60,1812
+2020-09-18,Los Angeles,037,7641,11547,60,1812
 2020-09-18,Madera,039,110,194,0,21
 2020-09-18,Marin,041,194,281,2,45
 2020-09-18,Mendocino,045,5,26,1,2
@@ -4802,7 +4802,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-19,Kern,029,464,537,0,31
 2020-09-19,Kings,031,78,90,0,23
 2020-09-19,Lake,033,23,36,0,1
-2020-09-19,Los Angeles,037,7652,11569,61,1813
+2020-09-19,Los Angeles,037,7652,11570,61,1813
 2020-09-19,Madera,039,110,194,0,21
 2020-09-19,Marin,041,194,281,2,45
 2020-09-19,Mendocino,045,5,26,1,2
@@ -4853,7 +4853,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-20,Kern,029,465,537,0,31
 2020-09-20,Kings,031,78,90,0,23
 2020-09-20,Lake,033,23,37,0,1
-2020-09-20,Los Angeles,037,7660,11582,61,1814
+2020-09-20,Los Angeles,037,7660,11583,61,1814
 2020-09-20,Madera,039,110,194,0,21
 2020-09-20,Marin,041,194,281,2,45
 2020-09-20,Mendocino,045,5,26,1,2
@@ -4905,7 +4905,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-21,Kern,029,466,537,0,31
 2020-09-21,Kings,031,78,90,0,23
 2020-09-21,Lake,033,24,37,0,1
-2020-09-21,Los Angeles,037,7698,11628,62,1815
+2020-09-21,Los Angeles,037,7698,11629,62,1815
 2020-09-21,Madera,039,110,195,0,21
 2020-09-21,Marin,041,194,282,2,45
 2020-09-21,Mendocino,045,5,26,1,2
@@ -4957,7 +4957,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-22,Kern,029,468,537,0,31
 2020-09-22,Kings,031,78,90,0,23
 2020-09-22,Lake,033,24,37,0,1
-2020-09-22,Los Angeles,037,7710,11634,62,1827
+2020-09-22,Los Angeles,037,7710,11635,62,1827
 2020-09-22,Madera,039,111,195,0,21
 2020-09-22,Marin,041,194,292,2,45
 2020-09-22,Mendocino,045,5,26,1,2
@@ -5009,7 +5009,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-23,Kern,029,468,537,0,31
 2020-09-23,Kings,031,78,90,0,23
 2020-09-23,Lake,033,24,38,0,1
-2020-09-23,Los Angeles,037,7729,11642,63,1831
+2020-09-23,Los Angeles,037,7729,11643,63,1831
 2020-09-23,Madera,039,111,195,0,21
 2020-09-23,Marin,041,194,293,2,45
 2020-09-23,Mendocino,045,5,27,1,2
@@ -5061,7 +5061,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-24,Kern,029,469,537,0,31
 2020-09-24,Kings,031,78,90,0,23
 2020-09-24,Lake,033,24,38,0,1
-2020-09-24,Los Angeles,037,7750,11657,63,1833
+2020-09-24,Los Angeles,037,7750,11658,63,1833
 2020-09-24,Madera,039,111,195,0,21
 2020-09-24,Marin,041,194,294,2,45
 2020-09-24,Mendocino,045,5,27,1,2
@@ -5113,7 +5113,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-25,Kern,029,470,538,0,31
 2020-09-25,Kings,031,78,90,0,23
 2020-09-25,Lake,033,24,38,0,1
-2020-09-25,Los Angeles,037,7768,11674,63,1833
+2020-09-25,Los Angeles,037,7768,11675,63,1833
 2020-09-25,Madera,039,111,195,0,21
 2020-09-25,Marin,041,195,294,2,45
 2020-09-25,Mendocino,045,5,27,1,2
@@ -5165,7 +5165,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-26,Kern,029,470,538,0,31
 2020-09-26,Kings,031,78,90,0,23
 2020-09-26,Lake,033,24,38,0,1
-2020-09-26,Los Angeles,037,7782,11683,63,1845
+2020-09-26,Los Angeles,037,7782,11684,63,1845
 2020-09-26,Madera,039,111,195,0,21
 2020-09-26,Marin,041,195,294,2,45
 2020-09-26,Mendocino,045,5,27,1,2
@@ -5217,7 +5217,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-27,Kern,029,472,538,0,31
 2020-09-27,Kings,031,78,90,0,23
 2020-09-27,Lake,033,24,38,0,1
-2020-09-27,Los Angeles,037,7793,11692,63,1847
+2020-09-27,Los Angeles,037,7793,11693,63,1847
 2020-09-27,Madera,039,111,195,0,21
 2020-09-27,Marin,041,195,294,2,45
 2020-09-27,Mendocino,045,5,27,1,2
@@ -5269,7 +5269,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-28,Kern,029,476,538,0,31
 2020-09-28,Kings,031,79,90,0,23
 2020-09-28,Lake,033,24,38,0,1
-2020-09-28,Los Angeles,037,7804,11720,63,1849
+2020-09-28,Los Angeles,037,7804,11721,63,1849
 2020-09-28,Madera,039,111,195,0,21
 2020-09-28,Marin,041,195,294,2,45
 2020-09-28,Mendocino,045,5,27,1,2
@@ -5319,10 +5319,10 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-29,Humboldt,023,4,2,1,2
 2020-09-29,Imperial,025,121,159,1,19
 2020-09-29,Inyo,027,20,54,0,1
-2020-09-29,Kern,029,478,540,0,31
+2020-09-29,Kern,029,478,539,0,31
 2020-09-29,Kings,031,79,91,0,23
 2020-09-29,Lake,033,24,38,0,1
-2020-09-29,Los Angeles,037,7815,11727,63,1854
+2020-09-29,Los Angeles,037,7815,11728,63,1854
 2020-09-29,Madera,039,111,195,0,21
 2020-09-29,Marin,041,196,294,2,45
 2020-09-29,Mendocino,045,5,27,1,2
@@ -5375,7 +5375,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Kern,029,480,539,0,31
 2020-09-30,Kings,031,79,91,0,23
 2020-09-30,Lake,033,24,38,0,1
-2020-09-30,Los Angeles,037,7839,11772,63,1857
+2020-09-30,Los Angeles,037,7839,11773,63,1857
 2020-09-30,Madera,039,111,195,0,21
 2020-09-30,Marin,041,197,294,2,45
 2020-09-30,Mendocino,045,5,27,1,2
@@ -5428,7 +5428,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-01,Kern,029,480,539,0,31
 2020-10-01,Kings,031,79,91,0,23
 2020-10-01,Lake,033,24,38,0,1
-2020-10-01,Los Angeles,037,7877,11785,64,1858
+2020-10-01,Los Angeles,037,7877,11786,64,1858
 2020-10-01,Madera,039,111,195,0,21
 2020-10-01,Marin,041,198,295,2,45
 2020-10-01,Mendocino,045,5,27,1,2
@@ -5481,7 +5481,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-02,Kern,029,481,540,0,31
 2020-10-02,Kings,031,79,91,0,23
 2020-10-02,Lake,033,24,38,0,1
-2020-10-02,Los Angeles,037,7885,11788,64,1859
+2020-10-02,Los Angeles,037,7885,11789,64,1859
 2020-10-02,Madera,039,111,195,0,21
 2020-10-02,Marin,041,198,295,2,45
 2020-10-02,Mendocino,045,5,27,1,2
@@ -5535,7 +5535,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-03,Kings,031,79,91,0,23
 2020-10-03,Lake,033,24,38,0,1
 2020-10-03,Lassen,035,1,0,0,0
-2020-10-03,Los Angeles,037,7897,11799,65,1859
+2020-10-03,Los Angeles,037,7897,11800,65,1859
 2020-10-03,Madera,039,111,195,0,21
 2020-10-03,Marin,041,199,295,2,45
 2020-10-03,Mendocino,045,5,27,1,2
@@ -5589,7 +5589,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-04,Kings,031,79,91,0,23
 2020-10-04,Lake,033,24,38,0,1
 2020-10-04,Lassen,035,1,0,0,0
-2020-10-04,Los Angeles,037,7905,11812,65,1860
+2020-10-04,Los Angeles,037,7905,11813,65,1860
 2020-10-04,Madera,039,111,195,0,21
 2020-10-04,Marin,041,199,296,2,45
 2020-10-04,Mendocino,045,5,27,1,2
@@ -5643,7 +5643,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-05,Kings,031,79,91,0,23
 2020-10-05,Lake,033,24,38,0,1
 2020-10-05,Lassen,035,1,0,0,0
-2020-10-05,Los Angeles,037,7910,11823,65,1861
+2020-10-05,Los Angeles,037,7910,11824,65,1861
 2020-10-05,Madera,039,111,195,0,21
 2020-10-05,Marin,041,199,296,2,45
 2020-10-05,Mendocino,045,5,27,1,2
@@ -5697,7 +5697,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-06,Kings,031,79,91,0,23
 2020-10-06,Lake,033,24,38,0,1
 2020-10-06,Lassen,035,1,0,0,0
-2020-10-06,Los Angeles,037,7912,11830,65,1861
+2020-10-06,Los Angeles,037,7912,11831,65,1861
 2020-10-06,Madera,039,111,195,0,21
 2020-10-06,Marin,041,200,297,2,45
 2020-10-06,Mendocino,045,5,27,1,2
@@ -5751,7 +5751,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-07,Kings,031,79,91,0,23
 2020-10-07,Lake,033,24,59,0,1
 2020-10-07,Lassen,035,1,0,0,0
-2020-10-07,Los Angeles,037,7937,11833,65,1864
+2020-10-07,Los Angeles,037,7937,11834,65,1864
 2020-10-07,Madera,039,111,195,0,21
 2020-10-07,Marin,041,200,297,2,45
 2020-10-07,Mendocino,045,5,27,1,2
@@ -5805,7 +5805,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-08,Kings,031,79,91,0,23
 2020-10-08,Lake,033,24,63,0,1
 2020-10-08,Lassen,035,1,0,0,0
-2020-10-08,Los Angeles,037,7944,11849,65,1866
+2020-10-08,Los Angeles,037,7944,11850,65,1866
 2020-10-08,Madera,039,111,195,0,21
 2020-10-08,Marin,041,200,297,2,45
 2020-10-08,Mendocino,045,5,27,1,2
@@ -5859,7 +5859,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-09,Kings,031,79,91,0,23
 2020-10-09,Lake,033,24,63,0,2
 2020-10-09,Lassen,035,1,0,0,0
-2020-10-09,Los Angeles,037,7956,11871,65,1869
+2020-10-09,Los Angeles,037,7956,11872,65,1869
 2020-10-09,Madera,039,111,195,0,21
 2020-10-09,Marin,041,200,297,2,45
 2020-10-09,Mendocino,045,5,27,1,2
@@ -5913,7 +5913,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-10,Kings,031,79,91,0,23
 2020-10-10,Lake,033,24,65,0,2
 2020-10-10,Lassen,035,1,0,0,0
-2020-10-10,Los Angeles,037,7967,11879,65,1869
+2020-10-10,Los Angeles,037,7967,11880,65,1869
 2020-10-10,Madera,039,111,195,0,21
 2020-10-10,Marin,041,200,297,2,45
 2020-10-10,Mendocino,045,5,27,1,2
@@ -5967,7 +5967,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-11,Kings,031,79,91,0,23
 2020-10-11,Lake,033,24,67,0,2
 2020-10-11,Lassen,035,1,0,0,0
-2020-10-11,Los Angeles,037,7980,11889,65,1869
+2020-10-11,Los Angeles,037,7980,11890,65,1869
 2020-10-11,Madera,039,111,195,0,21
 2020-10-11,Marin,041,200,297,2,45
 2020-10-11,Mendocino,045,5,27,1,2
@@ -6021,7 +6021,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-12,Kings,031,79,91,0,23
 2020-10-12,Lake,033,24,67,0,2
 2020-10-12,Lassen,035,1,0,0,0
-2020-10-12,Los Angeles,037,7993,11908,65,1871
+2020-10-12,Los Angeles,037,7993,11909,65,1871
 2020-10-12,Madera,039,111,195,0,21
 2020-10-12,Marin,041,201,297,2,45
 2020-10-12,Mendocino,045,5,27,1,2
@@ -6075,7 +6075,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-13,Kings,031,79,91,0,23
 2020-10-13,Lake,033,24,69,0,2
 2020-10-13,Lassen,035,1,0,0,0
-2020-10-13,Los Angeles,037,7998,11944,65,1872
+2020-10-13,Los Angeles,037,7998,11945,65,1872
 2020-10-13,Madera,039,112,195,0,21
 2020-10-13,Marin,041,201,297,2,45
 2020-10-13,Mendocino,045,5,27,1,2
@@ -6129,7 +6129,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-14,Kings,031,79,91,0,23
 2020-10-14,Lake,033,24,69,0,2
 2020-10-14,Lassen,035,1,0,0,0
-2020-10-14,Los Angeles,037,8021,11959,65,1874
+2020-10-14,Los Angeles,037,8021,11960,65,1874
 2020-10-14,Madera,039,112,195,0,21
 2020-10-14,Marin,041,201,297,2,45
 2020-10-14,Mendocino,045,5,27,1,2
@@ -6183,7 +6183,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-15,Kings,031,79,91,0,23
 2020-10-15,Lake,033,36,82,0,2
 2020-10-15,Lassen,035,1,0,0,0
-2020-10-15,Los Angeles,037,8051,11968,65,1878
+2020-10-15,Los Angeles,037,8051,11969,65,1878
 2020-10-15,Madera,039,112,195,0,21
 2020-10-15,Marin,041,201,297,2,45
 2020-10-15,Mendocino,045,5,27,1,2
@@ -6237,7 +6237,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-16,Kings,031,79,91,0,23
 2020-10-16,Lake,033,38,83,0,2
 2020-10-16,Lassen,035,1,0,0,0
-2020-10-16,Los Angeles,037,8076,11985,65,1882
+2020-10-16,Los Angeles,037,8076,11986,65,1882
 2020-10-16,Madera,039,112,195,0,21
 2020-10-16,Marin,041,201,297,2,45
 2020-10-16,Mendocino,045,5,27,1,2
@@ -6291,7 +6291,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-17,Kings,031,79,91,0,23
 2020-10-17,Lake,033,39,83,0,2
 2020-10-17,Lassen,035,1,0,0,0
-2020-10-17,Los Angeles,037,8099,12005,65,1883
+2020-10-17,Los Angeles,037,8099,12006,65,1883
 2020-10-17,Madera,039,112,195,0,21
 2020-10-17,Marin,041,201,297,2,45
 2020-10-17,Mendocino,045,5,27,1,2
@@ -6345,7 +6345,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-18,Kings,031,79,91,0,23
 2020-10-18,Lake,033,39,83,0,2
 2020-10-18,Lassen,035,1,0,0,0
-2020-10-18,Los Angeles,037,8106,12015,65,1884
+2020-10-18,Los Angeles,037,8106,12016,65,1884
 2020-10-18,Madera,039,112,195,0,21
 2020-10-18,Marin,041,201,297,2,45
 2020-10-18,Mendocino,045,5,27,1,2
@@ -6399,7 +6399,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-19,Kings,031,79,91,0,23
 2020-10-19,Lake,033,39,83,0,2
 2020-10-19,Lassen,035,1,0,0,0
-2020-10-19,Los Angeles,037,8119,12027,65,1885
+2020-10-19,Los Angeles,037,8119,12028,65,1885
 2020-10-19,Madera,039,112,195,0,21
 2020-10-19,Marin,041,201,297,2,45
 2020-10-19,Mendocino,045,5,27,1,2
@@ -6453,7 +6453,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-20,Kings,031,79,91,0,23
 2020-10-20,Lake,033,39,83,0,2
 2020-10-20,Lassen,035,1,0,0,0
-2020-10-20,Los Angeles,037,8129,12047,65,1886
+2020-10-20,Los Angeles,037,8129,12048,65,1886
 2020-10-20,Madera,039,112,195,0,21
 2020-10-20,Marin,041,201,297,2,45
 2020-10-20,Mendocino,045,5,27,1,2
@@ -6507,7 +6507,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-21,Kings,031,79,91,0,23
 2020-10-21,Lake,033,39,83,0,2
 2020-10-21,Lassen,035,1,0,0,0
-2020-10-21,Los Angeles,037,8137,12053,65,1886
+2020-10-21,Los Angeles,037,8137,12054,65,1886
 2020-10-21,Madera,039,112,195,0,21
 2020-10-21,Marin,041,201,297,2,45
 2020-10-21,Mendocino,045,5,27,1,2
@@ -6561,7 +6561,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-22,Kings,031,79,91,0,23
 2020-10-22,Lake,033,40,85,0,2
 2020-10-22,Lassen,035,1,0,0,0
-2020-10-22,Los Angeles,037,8170,12072,66,1887
+2020-10-22,Los Angeles,037,8170,12073,66,1887
 2020-10-22,Madera,039,112,197,0,21
 2020-10-22,Marin,041,201,297,2,45
 2020-10-22,Mendocino,045,5,27,1,2
@@ -6615,7 +6615,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-23,Kings,031,79,91,0,23
 2020-10-23,Lake,033,40,85,0,2
 2020-10-23,Lassen,035,1,0,0,0
-2020-10-23,Los Angeles,037,8201,12089,65,1888
+2020-10-23,Los Angeles,037,8201,12090,65,1888
 2020-10-23,Madera,039,112,196,0,22
 2020-10-23,Marin,041,202,307,2,45
 2020-10-23,Mendocino,045,5,27,1,2
@@ -6669,7 +6669,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-24,Kings,031,79,91,0,23
 2020-10-24,Lake,033,40,85,0,2
 2020-10-24,Lassen,035,1,0,0,0
-2020-10-24,Los Angeles,037,8213,12102,65,1891
+2020-10-24,Los Angeles,037,8213,12103,65,1891
 2020-10-24,Madera,039,112,197,0,22
 2020-10-24,Marin,041,212,307,2,45
 2020-10-24,Mendocino,045,5,27,1,2
@@ -6723,7 +6723,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-25,Kings,031,79,91,0,23
 2020-10-25,Lake,033,40,85,0,2
 2020-10-25,Lassen,035,1,0,0,0
-2020-10-25,Los Angeles,037,8218,12111,65,1892
+2020-10-25,Los Angeles,037,8218,12112,65,1892
 2020-10-25,Madera,039,112,197,0,22
 2020-10-25,Marin,041,212,307,2,45
 2020-10-25,Mendocino,045,5,27,1,2
@@ -6777,7 +6777,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-26,Kings,031,79,91,0,23
 2020-10-26,Lake,033,40,85,0,2
 2020-10-26,Lassen,035,1,0,0,0
-2020-10-26,Los Angeles,037,8237,12119,65,1896
+2020-10-26,Los Angeles,037,8237,12120,65,1896
 2020-10-26,Madera,039,112,199,0,22
 2020-10-26,Marin,041,212,307,2,45
 2020-10-26,Mendocino,045,5,27,1,2
@@ -6831,7 +6831,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-27,Kings,031,79,91,0,23
 2020-10-27,Lake,033,40,85,0,2
 2020-10-27,Lassen,035,1,0,0,0
-2020-10-27,Los Angeles,037,8244,12125,65,1909
+2020-10-27,Los Angeles,037,8244,12126,65,1909
 2020-10-27,Madera,039,112,203,0,22
 2020-10-27,Marin,041,212,307,2,45
 2020-10-27,Mendocino,045,5,27,1,2
@@ -6885,7 +6885,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-28,Kings,031,79,91,0,23
 2020-10-28,Lake,033,40,85,0,2
 2020-10-28,Lassen,035,1,0,0,0
-2020-10-28,Los Angeles,037,8260,12149,65,1911
+2020-10-28,Los Angeles,037,8260,12150,65,1911
 2020-10-28,Madera,039,114,203,0,22
 2020-10-28,Marin,041,212,307,2,45
 2020-10-28,Mendocino,045,5,27,1,2
@@ -6939,7 +6939,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-29,Kings,031,79,91,0,23
 2020-10-29,Lake,033,40,86,0,2
 2020-10-29,Lassen,035,1,0,0,0
-2020-10-29,Los Angeles,037,8269,12151,65,1911
+2020-10-29,Los Angeles,037,8269,12152,65,1911
 2020-10-29,Madera,039,114,203,0,22
 2020-10-29,Marin,041,212,307,2,45
 2020-10-29,Mendocino,045,5,27,1,2
@@ -6993,7 +6993,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-30,Kings,031,79,91,0,23
 2020-10-30,Lake,033,40,86,0,2
 2020-10-30,Lassen,035,1,0,0,0
-2020-10-30,Los Angeles,037,8317,12174,65,1921
+2020-10-30,Los Angeles,037,8317,12175,65,1921
 2020-10-30,Madera,039,114,203,0,22
 2020-10-30,Marin,041,212,307,2,45
 2020-10-30,Mendocino,045,5,27,1,2
@@ -7047,7 +7047,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-31,Kings,031,79,91,0,23
 2020-10-31,Lake,033,40,86,0,2
 2020-10-31,Lassen,035,1,0,0,0
-2020-10-31,Los Angeles,037,8346,12192,65,1922
+2020-10-31,Los Angeles,037,8346,12193,65,1922
 2020-10-31,Madera,039,116,203,0,22
 2020-10-31,Marin,041,212,307,2,45
 2020-10-31,Mendocino,045,5,27,1,2
@@ -7101,7 +7101,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-01,Kings,031,80,91,0,23
 2020-11-01,Lake,033,40,86,0,2
 2020-11-01,Lassen,035,1,0,0,0
-2020-11-01,Los Angeles,037,8361,12194,65,1922
+2020-11-01,Los Angeles,037,8361,12195,65,1922
 2020-11-01,Madera,039,116,203,0,22
 2020-11-01,Marin,041,212,307,2,45
 2020-11-01,Mendocino,045,5,27,1,2
@@ -7155,7 +7155,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-02,Kings,031,80,91,0,23
 2020-11-02,Lake,033,40,86,0,2
 2020-11-02,Lassen,035,1,0,0,0
-2020-11-02,Los Angeles,037,8384,12217,65,1927
+2020-11-02,Los Angeles,037,8384,12218,65,1927
 2020-11-02,Madera,039,116,203,0,22
 2020-11-02,Marin,041,212,307,2,45
 2020-11-02,Mendocino,045,5,27,1,2
@@ -7209,7 +7209,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-03,Kings,031,80,91,0,23
 2020-11-03,Lake,033,40,86,0,2
 2020-11-03,Lassen,035,1,0,0,0
-2020-11-03,Los Angeles,037,8414,12246,65,1929
+2020-11-03,Los Angeles,037,8414,12247,65,1929
 2020-11-03,Madera,039,118,204,0,22
 2020-11-03,Marin,041,212,307,2,45
 2020-11-03,Mendocino,045,5,27,1,2
@@ -7263,7 +7263,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-04,Kings,031,80,91,0,23
 2020-11-04,Lake,033,40,86,0,2
 2020-11-04,Lassen,035,1,0,0,0
-2020-11-04,Los Angeles,037,8434,12275,65,1930
+2020-11-04,Los Angeles,037,8434,12276,65,1930
 2020-11-04,Madera,039,118,204,0,22
 2020-11-04,Marin,041,212,307,2,45
 2020-11-04,Mendocino,045,5,27,1,2
@@ -7317,7 +7317,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-05,Kings,031,80,91,0,23
 2020-11-05,Lake,033,40,86,0,2
 2020-11-05,Lassen,035,1,0,0,0
-2020-11-05,Los Angeles,037,8477,12306,65,1932
+2020-11-05,Los Angeles,037,8477,12307,65,1932
 2020-11-05,Madera,039,118,205,0,22
 2020-11-05,Marin,041,212,307,2,45
 2020-11-05,Mendocino,045,5,27,1,2
@@ -7371,7 +7371,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-06,Kings,031,80,91,0,23
 2020-11-06,Lake,033,40,86,0,2
 2020-11-06,Lassen,035,1,0,0,0
-2020-11-06,Los Angeles,037,8522,12343,65,1933
+2020-11-06,Los Angeles,037,8522,12344,65,1933
 2020-11-06,Madera,039,118,205,0,22
 2020-11-06,Marin,041,212,307,2,45
 2020-11-06,Mendocino,045,5,27,1,2
@@ -7425,7 +7425,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-07,Kings,031,80,91,0,23
 2020-11-07,Lake,033,40,86,0,2
 2020-11-07,Lassen,035,1,0,0,0
-2020-11-07,Los Angeles,037,8539,12403,65,1933
+2020-11-07,Los Angeles,037,8539,12404,65,1933
 2020-11-07,Madera,039,118,205,0,22
 2020-11-07,Marin,041,213,318,2,45
 2020-11-07,Mendocino,045,5,27,1,2
@@ -7479,7 +7479,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-08,Kings,031,80,91,0,23
 2020-11-08,Lake,033,40,86,0,2
 2020-11-08,Lassen,035,1,0,0,0
-2020-11-08,Los Angeles,037,8565,12414,65,1933
+2020-11-08,Los Angeles,037,8565,12415,65,1933
 2020-11-08,Madera,039,118,205,0,22
 2020-11-08,Marin,041,213,318,2,45
 2020-11-08,Mendocino,045,5,27,1,2
@@ -7534,7 +7534,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-09,Kings,031,81,91,0,23
 2020-11-09,Lake,033,40,86,0,2
 2020-11-09,Lassen,035,1,0,0,0
-2020-11-09,Los Angeles,037,8593,12456,65,1935
+2020-11-09,Los Angeles,037,8593,12457,65,1935
 2020-11-09,Madera,039,118,205,0,22
 2020-11-09,Marin,041,213,318,2,45
 2020-11-09,Mendocino,045,5,27,1,2
@@ -7589,7 +7589,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-10,Kings,031,81,91,0,23
 2020-11-10,Lake,033,40,86,0,2
 2020-11-10,Lassen,035,1,0,0,0
-2020-11-10,Los Angeles,037,8610,12461,65,1937
+2020-11-10,Los Angeles,037,8610,12462,65,1937
 2020-11-10,Madera,039,118,205,0,22
 2020-11-10,Marin,041,213,318,2,45
 2020-11-10,Mendocino,045,5,27,1,2
@@ -7644,7 +7644,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-11,Kings,031,81,91,0,23
 2020-11-11,Lake,033,40,86,0,2
 2020-11-11,Lassen,035,1,0,0,0
-2020-11-11,Los Angeles,037,8644,12487,65,1939
+2020-11-11,Los Angeles,037,8644,12488,65,1939
 2020-11-11,Madera,039,118,205,0,22
 2020-11-11,Marin,041,213,319,2,45
 2020-11-11,Mendocino,045,5,27,1,2
@@ -7677,7 +7677,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-11,Sutter,101,39,3,0,0
 2020-11-11,Tehama,103,15,41,0,11
 2020-11-11,Trinity,105,1,0,0,0
-2020-11-11,Tulare,107,439,607,1,105
+2020-11-11,Tulare,107,436,607,1,105
 2020-11-11,Tuolumne,109,17,1,0,0
 2020-11-11,Ventura,111,398,386,1,16
 2020-11-11,Yolo,113,85,114,1,34
@@ -7699,7 +7699,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-12,Kings,031,81,91,0,23
 2020-11-12,Lake,033,40,86,0,2
 2020-11-12,Lassen,035,1,0,0,0
-2020-11-12,Los Angeles,037,8704,12602,65,1939
+2020-11-12,Los Angeles,037,8704,12603,65,1939
 2020-11-12,Madera,039,118,205,0,22
 2020-11-12,Marin,041,223,319,2,45
 2020-11-12,Mendocino,045,5,27,1,2
@@ -7732,7 +7732,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-12,Sutter,101,40,4,0,0
 2020-11-12,Tehama,103,15,41,0,11
 2020-11-12,Trinity,105,1,0,0,0
-2020-11-12,Tulare,107,441,607,1,105
+2020-11-12,Tulare,107,437,607,1,105
 2020-11-12,Tuolumne,109,17,1,0,0
 2020-11-12,Ventura,111,404,386,1,16
 2020-11-12,Yolo,113,88,115,1,35
@@ -7754,7 +7754,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-13,Kings,031,81,91,0,23
 2020-11-13,Lake,033,40,86,0,2
 2020-11-13,Lassen,035,1,0,0,0
-2020-11-13,Los Angeles,037,8740,12645,65,1941
+2020-11-13,Los Angeles,037,8740,12646,65,1941
 2020-11-13,Madera,039,118,205,0,22
 2020-11-13,Marin,041,224,319,2,45
 2020-11-13,Mendocino,045,5,27,1,2
@@ -7787,7 +7787,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-13,Sutter,101,42,4,0,0
 2020-11-13,Tehama,103,15,41,0,11
 2020-11-13,Trinity,105,1,0,0,0
-2020-11-13,Tulare,107,442,607,1,105
+2020-11-13,Tulare,107,438,607,1,105
 2020-11-13,Tuolumne,109,17,1,0,0
 2020-11-13,Ventura,111,418,386,1,16
 2020-11-13,Yolo,113,88,115,1,35
@@ -7809,7 +7809,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-14,Kings,031,81,92,0,23
 2020-11-14,Lake,033,40,86,0,2
 2020-11-14,Lassen,035,1,0,0,0
-2020-11-14,Los Angeles,037,8780,12714,65,1944
+2020-11-14,Los Angeles,037,8780,12715,65,1944
 2020-11-14,Madera,039,118,205,0,22
 2020-11-14,Marin,041,225,319,2,45
 2020-11-14,Mendocino,045,5,27,1,2
@@ -7842,7 +7842,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-14,Sutter,101,43,30,0,0
 2020-11-14,Tehama,103,15,41,0,11
 2020-11-14,Trinity,105,1,0,0,0
-2020-11-14,Tulare,107,446,616,1,105
+2020-11-14,Tulare,107,441,616,1,105
 2020-11-14,Tuolumne,109,17,1,0,0
 2020-11-14,Ventura,111,429,386,1,16
 2020-11-14,Yolo,113,88,115,1,35
@@ -7864,7 +7864,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-15,Kings,031,81,92,0,23
 2020-11-15,Lake,033,40,86,0,2
 2020-11-15,Lassen,035,1,0,0,0
-2020-11-15,Los Angeles,037,8807,12761,65,1945
+2020-11-15,Los Angeles,037,8807,12762,65,1945
 2020-11-15,Madera,039,118,205,0,22
 2020-11-15,Marin,041,225,319,2,45
 2020-11-15,Mendocino,045,5,28,1,2
@@ -7897,7 +7897,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-15,Sutter,101,46,31,0,0
 2020-11-15,Tehama,103,15,41,0,11
 2020-11-15,Trinity,105,1,0,0,0
-2020-11-15,Tulare,107,447,616,1,105
+2020-11-15,Tulare,107,442,616,1,105
 2020-11-15,Tuolumne,109,17,1,0,0
 2020-11-15,Ventura,111,433,386,1,16
 2020-11-15,Yolo,113,88,115,1,35
@@ -7919,7 +7919,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-16,Kings,031,81,92,0,23
 2020-11-16,Lake,033,40,86,0,2
 2020-11-16,Lassen,035,1,0,0,0
-2020-11-16,Los Angeles,037,8869,12843,65,1946
+2020-11-16,Los Angeles,037,8869,12844,65,1946
 2020-11-16,Madera,039,118,206,0,23
 2020-11-16,Marin,041,225,319,2,45
 2020-11-16,Mendocino,045,5,28,1,2
@@ -7952,7 +7952,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-16,Sutter,101,46,36,0,0
 2020-11-16,Tehama,103,15,41,0,11
 2020-11-16,Trinity,105,1,0,0,0
-2020-11-16,Tulare,107,447,616,1,105
+2020-11-16,Tulare,107,442,616,1,105
 2020-11-16,Tuolumne,109,17,1,0,0
 2020-11-16,Ventura,111,434,386,1,16
 2020-11-16,Yolo,113,102,139,1,35
@@ -7974,7 +7974,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-17,Kings,031,81,92,0,23
 2020-11-17,Lake,033,40,86,0,2
 2020-11-17,Lassen,035,1,0,0,0
-2020-11-17,Los Angeles,037,8910,12865,65,1948
+2020-11-17,Los Angeles,037,8910,12866,65,1948
 2020-11-17,Madera,039,118,206,0,23
 2020-11-17,Marin,041,228,329,2,45
 2020-11-17,Mendocino,045,5,28,1,2
@@ -8007,7 +8007,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-17,Sutter,101,46,36,0,1
 2020-11-17,Tehama,103,17,43,0,13
 2020-11-17,Trinity,105,1,0,0,0
-2020-11-17,Tulare,107,447,619,1,105
+2020-11-17,Tulare,107,442,619,1,105
 2020-11-17,Tuolumne,109,17,1,0,0
 2020-11-17,Ventura,111,434,386,1,16
 2020-11-17,Yolo,113,102,139,1,36
@@ -8029,7 +8029,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-18,Kings,031,91,92,0,23
 2020-11-18,Lake,033,40,86,0,2
 2020-11-18,Lassen,035,1,0,0,0
-2020-11-18,Los Angeles,037,8988,12920,65,1958
+2020-11-18,Los Angeles,037,8988,12921,65,1958
 2020-11-18,Madera,039,119,206,0,23
 2020-11-18,Marin,041,229,329,2,45
 2020-11-18,Mendocino,045,5,28,1,2
@@ -8062,7 +8062,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-18,Sutter,101,47,37,0,1
 2020-11-18,Tehama,103,17,43,0,13
 2020-11-18,Trinity,105,1,0,0,0
-2020-11-18,Tulare,107,452,619,1,105
+2020-11-18,Tulare,107,443,619,1,105
 2020-11-18,Tuolumne,109,17,1,0,0
 2020-11-18,Ventura,111,435,386,1,16
 2020-11-18,Yolo,113,102,140,1,36
@@ -8084,7 +8084,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-19,Kings,031,91,92,0,23
 2020-11-19,Lake,033,40,86,0,2
 2020-11-19,Lassen,035,1,0,0,0
-2020-11-19,Los Angeles,037,9067,13054,65,1961
+2020-11-19,Los Angeles,037,9067,13055,65,1961
 2020-11-19,Madera,039,132,206,0,23
 2020-11-19,Marin,041,230,329,2,45
 2020-11-19,Mendocino,045,5,28,1,2
@@ -8117,7 +8117,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-19,Sutter,101,47,37,0,1
 2020-11-19,Tehama,103,17,43,0,13
 2020-11-19,Trinity,105,1,0,0,0
-2020-11-19,Tulare,107,456,619,1,105
+2020-11-19,Tulare,107,444,619,1,105
 2020-11-19,Tuolumne,109,17,1,0,0
 2020-11-19,Ventura,111,438,386,1,16
 2020-11-19,Yolo,113,108,144,1,36
@@ -8139,7 +8139,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-20,Kings,031,101,92,0,23
 2020-11-20,Lake,033,40,86,0,2
 2020-11-20,Lassen,035,1,0,0,0
-2020-11-20,Los Angeles,037,9170,13093,68,1973
+2020-11-20,Los Angeles,037,9170,13094,68,1973
 2020-11-20,Madera,039,136,229,0,23
 2020-11-20,Marin,041,232,331,3,46
 2020-11-20,Mendocino,045,5,28,1,2
@@ -8172,7 +8172,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-20,Sutter,101,67,39,0,1
 2020-11-20,Tehama,103,17,43,0,13
 2020-11-20,Trinity,105,1,0,0,0
-2020-11-20,Tulare,107,460,620,1,105
+2020-11-20,Tulare,107,448,620,1,105
 2020-11-20,Tuolumne,109,17,1,0,0
 2020-11-20,Ventura,111,439,386,1,16
 2020-11-20,Yolo,113,129,144,1,36
@@ -8194,7 +8194,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-21,Kings,031,102,92,0,23
 2020-11-21,Lake,033,40,87,0,2
 2020-11-21,Lassen,035,1,0,0,0
-2020-11-21,Los Angeles,037,9229,13168,65,1975
+2020-11-21,Los Angeles,037,9229,13169,65,1975
 2020-11-21,Madera,039,138,255,0,24
 2020-11-21,Marin,041,232,330,2,46
 2020-11-21,Mendocino,045,5,28,1,2
@@ -8227,7 +8227,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-21,Sutter,101,72,41,0,1
 2020-11-21,Tehama,103,17,43,0,13
 2020-11-21,Trinity,105,1,0,0,0
-2020-11-21,Tulare,107,471,620,1,106
+2020-11-21,Tulare,107,459,620,1,106
 2020-11-21,Tuolumne,109,19,1,0,0
 2020-11-21,Ventura,111,446,386,1,16
 2020-11-21,Yolo,113,131,166,1,36
@@ -8249,7 +8249,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-22,Kings,031,102,92,0,23
 2020-11-22,Lake,033,40,87,0,2
 2020-11-22,Lassen,035,1,0,0,0
-2020-11-22,Los Angeles,037,9265,13234,65,1978
+2020-11-22,Los Angeles,037,9265,13235,65,1978
 2020-11-22,Madera,039,140,257,0,24
 2020-11-22,Marin,041,232,331,2,46
 2020-11-22,Mendocino,045,5,28,1,2
@@ -8282,7 +8282,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-22,Sutter,101,73,42,0,1
 2020-11-22,Tehama,103,17,43,0,13
 2020-11-22,Trinity,105,1,0,0,0
-2020-11-22,Tulare,107,473,620,1,106
+2020-11-22,Tulare,107,461,620,1,106
 2020-11-22,Tuolumne,109,19,1,0,0
 2020-11-22,Ventura,111,449,386,1,16
 2020-11-22,Yolo,113,132,177,1,36
@@ -8304,7 +8304,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-23,Kings,031,102,92,0,23
 2020-11-23,Lake,033,40,87,0,2
 2020-11-23,Lassen,035,1,0,0,0
-2020-11-23,Los Angeles,037,9351,13288,65,2000
+2020-11-23,Los Angeles,037,9351,13289,65,2000
 2020-11-23,Madera,039,142,257,0,24
 2020-11-23,Marin,041,232,331,2,46
 2020-11-23,Mendocino,045,5,28,1,2
@@ -8337,7 +8337,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-23,Sutter,101,74,61,0,1
 2020-11-23,Tehama,103,17,56,0,13
 2020-11-23,Trinity,105,1,0,0,0
-2020-11-23,Tulare,107,475,637,1,107
+2020-11-23,Tulare,107,463,637,1,107
 2020-11-23,Tuolumne,109,19,1,0,0
 2020-11-23,Ventura,111,449,387,1,16
 2020-11-23,Yolo,113,132,177,1,37
@@ -8359,7 +8359,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-24,Kings,031,104,92,0,23
 2020-11-24,Lake,033,40,87,0,2
 2020-11-24,Lassen,035,1,0,0,0
-2020-11-24,Los Angeles,037,9398,13435,66,2006
+2020-11-24,Los Angeles,037,9398,13436,66,2006
 2020-11-24,Madera,039,143,257,0,24
 2020-11-24,Marin,041,233,333,2,46
 2020-11-24,Mendocino,045,5,28,1,2
@@ -8392,7 +8392,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-24,Sutter,101,76,62,0,1
 2020-11-24,Tehama,103,17,56,0,13
 2020-11-24,Trinity,105,1,0,0,0
-2020-11-24,Tulare,107,476,637,1,107
+2020-11-24,Tulare,107,464,637,1,107
 2020-11-24,Tuolumne,109,19,1,0,0
 2020-11-24,Ventura,111,450,387,1,16
 2020-11-24,Yolo,113,153,177,1,37
@@ -8414,7 +8414,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-25,Kings,031,105,103,0,23
 2020-11-25,Lake,033,40,87,0,2
 2020-11-25,Lassen,035,1,0,0,0
-2020-11-25,Los Angeles,037,9513,13491,66,2008
+2020-11-25,Los Angeles,037,9513,13492,66,2008
 2020-11-25,Madera,039,143,260,0,24
 2020-11-25,Marin,041,233,333,2,46
 2020-11-25,Mendocino,045,5,28,1,2
@@ -8447,7 +8447,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-25,Sutter,101,77,62,0,1
 2020-11-25,Tehama,103,17,56,0,13
 2020-11-25,Trinity,105,1,0,0,0
-2020-11-25,Tulare,107,477,637,1,107
+2020-11-25,Tulare,107,465,637,1,107
 2020-11-25,Tuolumne,109,19,1,0,0
 2020-11-25,Ventura,111,461,387,1,16
 2020-11-25,Yolo,113,167,177,1,37
@@ -8469,7 +8469,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-26,Kings,031,105,103,0,23
 2020-11-26,Lake,033,40,87,0,2
 2020-11-26,Lassen,035,1,0,0,0
-2020-11-26,Los Angeles,037,9577,13607,66,2011
+2020-11-26,Los Angeles,037,9577,13608,66,2011
 2020-11-26,Madera,039,146,261,0,24
 2020-11-26,Marin,041,233,333,2,46
 2020-11-26,Mendocino,045,5,28,1,2
@@ -8502,7 +8502,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-26,Sutter,101,77,62,0,1
 2020-11-26,Tehama,103,17,56,0,13
 2020-11-26,Trinity,105,1,0,0,0
-2020-11-26,Tulare,107,478,637,1,107
+2020-11-26,Tulare,107,466,637,1,107
 2020-11-26,Tuolumne,109,19,2,0,0
 2020-11-26,Ventura,111,462,387,1,16
 2020-11-26,Yolo,113,170,181,1,38
@@ -8524,7 +8524,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-27,Kings,031,106,104,0,23
 2020-11-27,Lake,033,40,87,0,2
 2020-11-27,Lassen,035,1,0,0,0
-2020-11-27,Los Angeles,037,9674,13741,66,2015
+2020-11-27,Los Angeles,037,9674,13742,66,2015
 2020-11-27,Madera,039,148,262,0,24
 2020-11-27,Marin,041,233,333,2,46
 2020-11-27,Mendocino,045,5,28,1,2
@@ -8557,7 +8557,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-27,Sutter,101,81,64,0,1
 2020-11-27,Tehama,103,17,56,0,13
 2020-11-27,Trinity,105,1,0,0,0
-2020-11-27,Tulare,107,479,637,1,107
+2020-11-27,Tulare,107,467,637,1,107
 2020-11-27,Tuolumne,109,19,2,0,0
 2020-11-27,Ventura,111,462,387,1,16
 2020-11-27,Yolo,113,174,192,1,39
@@ -8579,7 +8579,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-28,Kings,031,106,107,0,23
 2020-11-28,Lake,033,40,87,0,2
 2020-11-28,Lassen,035,1,0,0,0
-2020-11-28,Los Angeles,037,9739,13796,67,2016
+2020-11-28,Los Angeles,037,9739,13797,67,2016
 2020-11-28,Madera,039,148,262,0,24
 2020-11-28,Marin,041,233,333,2,46
 2020-11-28,Mendocino,045,5,28,1,2
@@ -8612,7 +8612,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-28,Sutter,101,83,76,0,1
 2020-11-28,Tehama,103,18,57,0,13
 2020-11-28,Trinity,105,1,0,0,0
-2020-11-28,Tulare,107,480,638,1,107
+2020-11-28,Tulare,107,468,638,1,107
 2020-11-28,Tuolumne,109,21,2,0,0
 2020-11-28,Ventura,111,476,387,1,16
 2020-11-28,Yolo,113,174,197,1,39
@@ -8634,7 +8634,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-29,Kings,031,107,110,0,23
 2020-11-29,Lake,033,40,87,0,2
 2020-11-29,Lassen,035,1,0,0,0
-2020-11-29,Los Angeles,037,9786,13902,67,2019
+2020-11-29,Los Angeles,037,9786,13903,67,2019
 2020-11-29,Madera,039,149,264,0,24
 2020-11-29,Marin,041,233,333,2,46
 2020-11-29,Mendocino,045,5,28,1,2
@@ -8667,7 +8667,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-29,Sutter,101,83,78,0,1
 2020-11-29,Tehama,103,18,57,0,13
 2020-11-29,Trinity,105,1,0,0,0
-2020-11-29,Tulare,107,480,638,1,107
+2020-11-29,Tulare,107,468,638,1,107
 2020-11-29,Tuolumne,109,21,2,0,0
 2020-11-29,Ventura,111,476,387,1,16
 2020-11-29,Yolo,113,182,197,1,39
@@ -8685,11 +8685,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-30,Humboldt,023,6,2,1,2
 2020-11-30,Imperial,025,131,168,1,19
 2020-11-30,Inyo,027,20,55,0,11
-2020-11-30,Kern,029,558,572,0,32
+2020-11-30,Kern,029,564,572,0,32
 2020-11-30,Kings,031,112,113,0,23
 2020-11-30,Lake,033,40,87,0,2
 2020-11-30,Lassen,035,1,0,0,0
-2020-11-30,Los Angeles,037,9909,13997,68,2024
+2020-11-30,Los Angeles,037,9909,13998,68,2024
 2020-11-30,Madera,039,153,264,0,24
 2020-11-30,Marin,041,234,334,2,46
 2020-11-30,Mendocino,045,5,28,1,2
@@ -8722,7 +8722,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-30,Sutter,101,93,87,0,1
 2020-11-30,Tehama,103,18,57,0,13
 2020-11-30,Trinity,105,1,0,0,0
-2020-11-30,Tulare,107,482,638,1,108
+2020-11-30,Tulare,107,470,638,1,108
 2020-11-30,Tuolumne,109,21,2,0,0
 2020-11-30,Ventura,111,478,387,1,16
 2020-11-30,Yolo,113,187,198,1,39
@@ -8740,11 +8740,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-01,Humboldt,023,6,2,1,2
 2020-12-01,Imperial,025,131,168,1,19
 2020-12-01,Inyo,027,20,55,0,11
-2020-12-01,Kern,029,561,575,0,32
+2020-12-01,Kern,029,568,575,0,32
 2020-12-01,Kings,031,112,113,0,23
 2020-12-01,Lake,033,40,87,0,2
 2020-12-01,Lassen,035,1,0,0,0
-2020-12-01,Los Angeles,037,9971,14078,68,2035
+2020-12-01,Los Angeles,037,9971,14079,68,2035
 2020-12-01,Madera,039,155,266,0,24
 2020-12-01,Marin,041,235,334,2,46
 2020-12-01,Mendocino,045,5,28,1,2
@@ -8777,7 +8777,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-01,Sutter,101,103,93,0,1
 2020-12-01,Tehama,103,18,57,0,13
 2020-12-01,Trinity,105,1,0,0,0
-2020-12-01,Tulare,107,483,638,1,109
+2020-12-01,Tulare,107,471,638,1,109
 2020-12-01,Tuolumne,109,21,2,0,0
 2020-12-01,Ventura,111,492,392,1,16
 2020-12-01,Yolo,113,189,198,1,39
@@ -8795,11 +8795,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-02,Humboldt,023,6,15,1,2
 2020-12-02,Imperial,025,133,168,1,19
 2020-12-02,Inyo,027,20,55,0,11
-2020-12-02,Kern,029,567,575,0,33
+2020-12-02,Kern,029,574,585,0,33
 2020-12-02,Kings,031,113,115,0,23
 2020-12-02,Lake,033,40,87,0,2
 2020-12-02,Lassen,035,1,0,0,0
-2020-12-02,Los Angeles,037,10129,14229,68,2036
+2020-12-02,Los Angeles,037,10129,14230,68,2036
 2020-12-02,Madera,039,158,271,0,24
 2020-12-02,Marin,041,235,334,2,46
 2020-12-02,Mendocino,045,5,28,1,2
@@ -8832,7 +8832,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-02,Sutter,101,111,96,0,1
 2020-12-02,Tehama,103,19,57,0,13
 2020-12-02,Trinity,105,1,0,0,0
-2020-12-02,Tulare,107,488,637,1,108
+2020-12-02,Tulare,107,476,637,1,108
 2020-12-02,Tuolumne,109,21,2,0,0
 2020-12-02,Ventura,111,492,404,1,17
 2020-12-02,Yolo,113,189,234,1,39
@@ -8850,11 +8850,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-03,Humboldt,023,6,28,1,2
 2020-12-03,Imperial,025,133,168,1,19
 2020-12-03,Inyo,027,20,55,0,11
-2020-12-03,Kern,029,573,587,0,33
+2020-12-03,Kern,029,578,590,0,33
 2020-12-03,Kings,031,113,115,0,23
 2020-12-03,Lake,033,40,87,0,2
 2020-12-03,Lassen,035,1,0,0,0
-2020-12-03,Los Angeles,037,10312,14405,69,2042
+2020-12-03,Los Angeles,037,10312,14406,69,2042
 2020-12-03,Madera,039,159,272,0,24
 2020-12-03,Marin,041,247,334,2,46
 2020-12-03,Mendocino,045,5,28,1,2
@@ -8887,7 +8887,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-03,Sutter,101,120,99,0,1
 2020-12-03,Tehama,103,19,57,0,13
 2020-12-03,Trinity,105,1,0,0,0
-2020-12-03,Tulare,107,492,650,1,108
+2020-12-03,Tulare,107,480,650,1,108
 2020-12-03,Tuolumne,109,21,2,0,0
 2020-12-03,Ventura,111,502,411,1,17
 2020-12-03,Yolo,113,192,236,1,39
@@ -8905,11 +8905,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-04,Humboldt,023,6,30,1,2
 2020-12-04,Imperial,025,133,168,1,19
 2020-12-04,Inyo,027,20,65,0,11
-2020-12-04,Kern,029,586,588,0,33
+2020-12-04,Kern,029,601,591,0,33
 2020-12-04,Kings,031,118,127,0,23
 2020-12-04,Lake,033,40,87,0,2
 2020-12-04,Lassen,035,1,0,0,0
-2020-12-04,Los Angeles,037,10475,14606,69,2066
+2020-12-04,Los Angeles,037,10475,14607,69,2066
 2020-12-04,Madera,039,160,273,0,24
 2020-12-04,Marin,041,247,334,2,46
 2020-12-04,Mendocino,045,5,28,1,2
@@ -8942,7 +8942,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-04,Sutter,101,134,113,0,2
 2020-12-04,Tehama,103,19,57,0,13
 2020-12-04,Trinity,105,1,0,0,0
-2020-12-04,Tulare,107,497,650,1,108
+2020-12-04,Tulare,107,485,650,1,108
 2020-12-04,Tuolumne,109,21,2,0,0
 2020-12-04,Ventura,111,515,422,1,17
 2020-12-04,Yolo,113,201,237,1,39
@@ -8960,11 +8960,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-05,Humboldt,023,6,30,1,2
 2020-12-05,Imperial,025,133,168,1,19
 2020-12-05,Inyo,027,20,65,0,11
-2020-12-05,Kern,029,594,595,0,33
+2020-12-05,Kern,029,611,591,0,33
 2020-12-05,Kings,031,118,127,0,23
 2020-12-05,Lake,033,40,87,0,2
 2020-12-05,Lassen,035,1,0,0,0
-2020-12-05,Los Angeles,037,10601,14697,69,2068
+2020-12-05,Los Angeles,037,10601,14698,69,2068
 2020-12-05,Madera,039,160,274,0,24
 2020-12-05,Marin,041,247,334,2,46
 2020-12-05,Mendocino,045,5,28,1,2
@@ -8997,7 +8997,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-05,Sutter,101,135,113,0,2
 2020-12-05,Tehama,103,19,57,0,13
 2020-12-05,Trinity,105,1,0,0,0
-2020-12-05,Tulare,107,502,661,1,108
+2020-12-05,Tulare,107,490,661,1,108
 2020-12-05,Tuolumne,109,22,2,0,0
 2020-12-05,Ventura,111,519,425,1,17
 2020-12-05,Yolo,113,201,237,1,39
@@ -9015,11 +9015,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-06,Humboldt,023,16,32,1,2
 2020-12-06,Imperial,025,133,168,1,19
 2020-12-06,Inyo,027,20,66,0,11
-2020-12-06,Kern,029,601,596,0,33
+2020-12-06,Kern,029,624,601,0,33
 2020-12-06,Kings,031,118,127,0,23
 2020-12-06,Lake,033,40,87,0,2
 2020-12-06,Lassen,035,1,1,0,1
-2020-12-06,Los Angeles,037,10694,14888,69,2073
+2020-12-06,Los Angeles,037,10694,14889,69,2073
 2020-12-06,Madera,039,160,274,0,24
 2020-12-06,Marin,041,247,334,2,46
 2020-12-06,Mendocino,045,5,28,1,2
@@ -9052,7 +9052,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-06,Sutter,101,142,127,0,2
 2020-12-06,Tehama,103,19,57,0,13
 2020-12-06,Trinity,105,1,0,0,0
-2020-12-06,Tulare,107,510,667,1,108
+2020-12-06,Tulare,107,498,667,1,108
 2020-12-06,Tuolumne,109,22,2,0,0
 2020-12-06,Ventura,111,520,426,1,17
 2020-12-06,Yolo,113,201,237,1,39
@@ -9070,11 +9070,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-07,Humboldt,023,16,32,1,2
 2020-12-07,Imperial,025,133,168,1,19
 2020-12-07,Inyo,027,20,66,0,11
-2020-12-07,Kern,029,606,596,0,33
+2020-12-07,Kern,029,630,601,0,33
 2020-12-07,Kings,031,119,130,0,23
 2020-12-07,Lake,033,40,87,0,2
 2020-12-07,Lassen,035,1,1,0,1
-2020-12-07,Los Angeles,037,10904,15041,70,2082
+2020-12-07,Los Angeles,037,10904,15042,70,2082
 2020-12-07,Madera,039,162,274,0,24
 2020-12-07,Marin,041,247,334,2,46
 2020-12-07,Mendocino,045,5,28,1,2
@@ -9107,7 +9107,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-07,Sutter,101,149,154,0,2
 2020-12-07,Tehama,103,19,57,0,13
 2020-12-07,Trinity,105,1,0,0,0
-2020-12-07,Tulare,107,512,668,1,108
+2020-12-07,Tulare,107,500,668,1,108
 2020-12-07,Tuolumne,109,22,2,0,0
 2020-12-07,Ventura,111,534,443,1,17
 2020-12-07,Yolo,113,203,238,1,39
@@ -9125,11 +9125,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-08,Humboldt,023,21,43,1,2
 2020-12-08,Imperial,025,133,170,1,19
 2020-12-08,Inyo,027,20,66,0,11
-2020-12-08,Kern,029,609,598,0,33
+2020-12-08,Kern,029,635,645,0,33
 2020-12-08,Kings,031,120,132,0,23
 2020-12-08,Lake,033,40,88,0,2
 2020-12-08,Lassen,035,1,1,0,1
-2020-12-08,Los Angeles,037,11053,15108,70,2088
+2020-12-08,Los Angeles,037,11053,15109,70,2088
 2020-12-08,Madera,039,163,274,0,24
 2020-12-08,Marin,041,247,334,2,46
 2020-12-08,Mendocino,045,5,28,1,2
@@ -9162,7 +9162,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-08,Sutter,101,154,168,0,2
 2020-12-08,Tehama,103,19,57,0,13
 2020-12-08,Trinity,105,11,1,0,0
-2020-12-08,Tulare,107,517,697,1,108
+2020-12-08,Tulare,107,505,697,1,108
 2020-12-08,Tuolumne,109,22,2,0,0
 2020-12-08,Ventura,111,535,443,1,17
 2020-12-08,Yolo,113,207,239,1,39
@@ -9180,11 +9180,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-09,Humboldt,023,21,43,1,2
 2020-12-09,Imperial,025,134,170,1,19
 2020-12-09,Inyo,027,21,66,0,12
-2020-12-09,Kern,029,614,600,0,33
+2020-12-09,Kern,029,646,658,0,33
 2020-12-09,Kings,031,120,132,0,23
 2020-12-09,Lake,033,40,89,0,2
 2020-12-09,Lassen,035,11,1,0,1
-2020-12-09,Los Angeles,037,11305,15257,70,2104
+2020-12-09,Los Angeles,037,11305,15258,70,2104
 2020-12-09,Madera,039,164,277,0,24
 2020-12-09,Marin,041,248,334,2,46
 2020-12-09,Mendocino,045,5,28,1,2
@@ -9217,7 +9217,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-09,Sutter,101,157,169,0,2
 2020-12-09,Tehama,103,19,57,0,13
 2020-12-09,Trinity,105,11,1,0,0
-2020-12-09,Tulare,107,523,703,1,109
+2020-12-09,Tulare,107,511,703,1,109
 2020-12-09,Tuolumne,109,22,3,0,0
 2020-12-09,Ventura,111,538,456,1,18
 2020-12-09,Yolo,113,207,239,1,39
@@ -9235,11 +9235,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-10,Humboldt,023,21,57,1,2
 2020-12-10,Imperial,025,134,170,1,19
 2020-12-10,Inyo,027,21,66,0,12
-2020-12-10,Kern,029,622,606,0,33
+2020-12-10,Kern,029,667,672,0,33
 2020-12-10,Kings,031,122,133,0,23
 2020-12-10,Lake,033,40,89,0,2
 2020-12-10,Lassen,035,11,17,0,1
-2020-12-10,Los Angeles,037,11554,15480,70,2119
+2020-12-10,Los Angeles,037,11554,15481,70,2119
 2020-12-10,Madera,039,165,288,0,25
 2020-12-10,Marin,041,249,334,2,46
 2020-12-10,Mendocino,045,5,28,1,2
@@ -9272,7 +9272,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-10,Sutter,101,157,191,0,3
 2020-12-10,Tehama,103,19,57,0,13
 2020-12-10,Trinity,105,11,1,0,0
-2020-12-10,Tulare,107,528,732,1,109
+2020-12-10,Tulare,107,516,732,1,109
 2020-12-10,Tuolumne,109,22,3,0,0
 2020-12-10,Ventura,111,555,486,1,18
 2020-12-10,Yolo,113,208,240,1,39
@@ -9290,11 +9290,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Humboldt,023,26,57,1,2
 2020-12-11,Imperial,025,134,170,1,19
 2020-12-11,Inyo,027,21,66,0,12
-2020-12-11,Kern,029,633,624,0,33
+2020-12-11,Kern,029,685,694,0,33
 2020-12-11,Kings,031,125,133,0,23
 2020-12-11,Lake,033,40,89,0,2
 2020-12-11,Lassen,035,11,17,0,1
-2020-12-11,Los Angeles,037,11769,15672,71,2146
+2020-12-11,Los Angeles,037,11769,15673,71,2146
 2020-12-11,Madera,039,169,288,0,25
 2020-12-11,Marin,041,251,345,2,46
 2020-12-11,Mendocino,045,5,28,1,2
@@ -9327,7 +9327,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Sutter,101,157,192,0,3
 2020-12-11,Tehama,103,19,57,0,13
 2020-12-11,Trinity,105,11,1,0,0
-2020-12-11,Tulare,107,549,739,1,109
+2020-12-11,Tulare,107,535,739,1,109
 2020-12-11,Tuolumne,109,22,3,0,1
 2020-12-11,Ventura,111,572,496,1,18
 2020-12-11,Yolo,113,210,241,1,39
@@ -9345,11 +9345,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Humboldt,023,27,57,1,2
 2020-12-12,Imperial,025,134,170,1,19
 2020-12-12,Inyo,027,21,66,0,12
-2020-12-12,Kern,029,660,652,0,33
+2020-12-12,Kern,029,718,723,0,33
 2020-12-12,Kings,031,125,133,0,23
 2020-12-12,Lake,033,41,90,0,2
 2020-12-12,Lassen,035,11,21,0,1
-2020-12-12,Los Angeles,037,12029,15861,71,2155
+2020-12-12,Los Angeles,037,12029,15862,71,2155
 2020-12-12,Madera,039,169,290,0,25
 2020-12-12,Marin,041,256,345,2,46
 2020-12-12,Mariposa,043,1,0,0,0
@@ -9383,7 +9383,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Sutter,101,172,199,0,3
 2020-12-12,Tehama,103,19,57,0,13
 2020-12-12,Trinity,105,11,1,0,0
-2020-12-12,Tulare,107,558,747,1,109
+2020-12-12,Tulare,107,544,747,1,109
 2020-12-12,Tuolumne,109,24,3,0,1
 2020-12-12,Ventura,111,576,496,1,18
 2020-12-12,Yolo,113,212,242,1,39
@@ -9401,11 +9401,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-13,Humboldt,023,27,57,1,2
 2020-12-13,Imperial,025,136,170,1,19
 2020-12-13,Inyo,027,21,66,0,12
-2020-12-13,Kern,029,666,653,0,33
+2020-12-13,Kern,029,728,725,0,34
 2020-12-13,Kings,031,125,133,0,23
 2020-12-13,Lake,033,41,91,0,2
 2020-12-13,Lassen,035,11,21,0,1
-2020-12-13,Los Angeles,037,12283,16020,71,2172
+2020-12-13,Los Angeles,037,12283,16021,71,2172
 2020-12-13,Madera,039,169,291,0,25
 2020-12-13,Marin,041,261,345,2,47
 2020-12-13,Mariposa,043,1,0,0,0
@@ -9439,7 +9439,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-13,Sutter,101,176,203,0,3
 2020-12-13,Tehama,103,19,57,0,13
 2020-12-13,Trinity,105,11,1,0,0
-2020-12-13,Tulare,107,563,748,1,109
+2020-12-13,Tulare,107,549,748,1,109
 2020-12-13,Tuolumne,109,24,3,0,1
 2020-12-13,Ventura,111,578,497,1,18
 2020-12-13,Yolo,113,212,243,1,39
@@ -9457,11 +9457,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-14,Humboldt,023,27,57,1,2
 2020-12-14,Imperial,025,137,171,1,19
 2020-12-14,Inyo,027,21,66,0,12
-2020-12-14,Kern,029,671,654,0,33
+2020-12-14,Kern,029,739,743,0,33
 2020-12-14,Kings,031,125,133,0,23
 2020-12-14,Lake,033,41,91,0,2
 2020-12-14,Lassen,035,11,28,0,1
-2020-12-14,Los Angeles,037,12583,16366,73,2193
+2020-12-14,Los Angeles,037,12583,16367,73,2193
 2020-12-14,Madera,039,170,292,0,25
 2020-12-14,Marin,041,264,355,2,47
 2020-12-14,Mariposa,043,1,0,0,0
@@ -9495,7 +9495,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-14,Sutter,101,176,206,0,4
 2020-12-14,Tehama,103,19,57,0,13
 2020-12-14,Trinity,105,11,1,0,0
-2020-12-14,Tulare,107,568,753,1,109
+2020-12-14,Tulare,107,554,753,1,109
 2020-12-14,Tuolumne,109,24,3,0,1
 2020-12-14,Ventura,111,585,513,1,18
 2020-12-14,Yolo,113,212,243,1,39
@@ -9513,11 +9513,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-15,Humboldt,023,27,57,1,2
 2020-12-15,Imperial,025,137,173,1,20
 2020-12-15,Inyo,027,21,66,0,12
-2020-12-15,Kern,029,686,658,0,33
+2020-12-15,Kern,029,761,751,0,33
 2020-12-15,Kings,031,125,133,0,23
 2020-12-15,Lake,033,41,92,0,2
 2020-12-15,Lassen,035,11,29,0,1
-2020-12-15,Los Angeles,037,12760,16524,73,2209
+2020-12-15,Los Angeles,037,12760,16525,73,2209
 2020-12-15,Madera,039,170,294,0,25
 2020-12-15,Marin,041,267,355,2,47
 2020-12-15,Mariposa,043,1,0,0,0
@@ -9551,7 +9551,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-15,Sutter,101,177,206,0,5
 2020-12-15,Tehama,103,19,57,0,13
 2020-12-15,Trinity,105,11,1,0,0
-2020-12-15,Tulare,107,572,761,1,109
+2020-12-15,Tulare,107,558,761,1,109
 2020-12-15,Tuolumne,109,24,3,0,1
 2020-12-15,Ventura,111,588,514,1,18
 2020-12-15,Yolo,113,213,243,1,39
@@ -9569,11 +9569,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-16,Humboldt,023,27,57,1,2
 2020-12-16,Imperial,025,137,173,1,20
 2020-12-16,Inyo,027,21,66,0,12
-2020-12-16,Kern,029,703,679,0,33
+2020-12-16,Kern,029,779,774,0,34
 2020-12-16,Kings,031,125,133,0,23
 2020-12-16,Lake,033,41,92,0,2
 2020-12-16,Lassen,035,11,29,0,1
-2020-12-16,Los Angeles,037,13130,16942,73,2218
+2020-12-16,Los Angeles,037,13130,16943,73,2218
 2020-12-16,Madera,039,171,294,0,25
 2020-12-16,Marin,041,268,364,2,47
 2020-12-16,Mariposa,043,1,0,0,0
@@ -9607,7 +9607,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-16,Sutter,101,177,216,0,5
 2020-12-16,Tehama,103,20,57,0,13
 2020-12-16,Trinity,105,11,1,0,0
-2020-12-16,Tulare,107,576,775,1,109
+2020-12-16,Tulare,107,562,775,1,109
 2020-12-16,Tuolumne,109,24,3,0,1
 2020-12-16,Ventura,111,598,516,1,18
 2020-12-16,Yolo,113,213,243,1,39
@@ -9625,11 +9625,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-17,Humboldt,023,27,57,1,3
 2020-12-17,Imperial,025,140,173,1,20
 2020-12-17,Inyo,027,21,66,0,12
-2020-12-17,Kern,029,731,700,0,33
+2020-12-17,Kern,029,798,785,0,34
 2020-12-17,Kings,031,125,133,0,23
 2020-12-17,Lake,033,41,103,0,2
 2020-12-17,Lassen,035,11,31,0,1
-2020-12-17,Los Angeles,037,13451,17295,74,2231
+2020-12-17,Los Angeles,037,13451,17296,74,2231
 2020-12-17,Madera,039,172,295,0,25
 2020-12-17,Marin,041,281,365,2,47
 2020-12-17,Mariposa,043,1,0,0,0
@@ -9663,7 +9663,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-17,Sutter,101,182,231,0,5
 2020-12-17,Tehama,103,20,57,0,13
 2020-12-17,Trinity,105,11,1,0,0
-2020-12-17,Tulare,107,590,780,1,109
+2020-12-17,Tulare,107,576,780,1,109
 2020-12-17,Tuolumne,109,24,3,0,1
 2020-12-17,Ventura,111,616,548,1,18
 2020-12-17,Yolo,113,216,243,2,39
@@ -9681,11 +9681,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-18,Humboldt,023,28,57,1,3
 2020-12-18,Imperial,025,140,173,1,20
 2020-12-18,Inyo,027,31,66,0,12
-2020-12-18,Kern,029,733,709,0,34
+2020-12-18,Kern,029,805,798,0,34
 2020-12-18,Kings,031,125,133,0,23
 2020-12-18,Lake,033,41,103,0,2
 2020-12-18,Lassen,035,11,33,0,1
-2020-12-18,Los Angeles,037,13751,17636,74,2249
+2020-12-18,Los Angeles,037,13751,17637,74,2249
 2020-12-18,Madera,039,172,295,0,25
 2020-12-18,Marin,041,282,368,2,47
 2020-12-18,Mariposa,043,1,0,0,0
@@ -9719,7 +9719,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-18,Sutter,101,185,231,0,5
 2020-12-18,Tehama,103,20,57,0,13
 2020-12-18,Trinity,105,11,1,0,0
-2020-12-18,Tulare,107,606,796,1,109
+2020-12-18,Tulare,107,591,796,1,109
 2020-12-18,Tuolumne,109,24,3,0,1
 2020-12-18,Ventura,111,622,565,1,18
 2020-12-18,Yolo,113,216,243,2,39
@@ -9737,11 +9737,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-19,Humboldt,023,31,57,1,3
 2020-12-19,Imperial,025,140,173,1,20
 2020-12-19,Inyo,027,31,66,0,12
-2020-12-19,Kern,029,738,740,0,44
+2020-12-19,Kern,029,809,832,0,44
 2020-12-19,Kings,031,126,133,0,23
 2020-12-19,Lake,033,41,103,0,2
 2020-12-19,Lassen,035,11,33,0,1
-2020-12-19,Los Angeles,037,13953,17817,74,2269
+2020-12-19,Los Angeles,037,13953,17818,74,2269
 2020-12-19,Madera,039,172,295,0,25
 2020-12-19,Marin,041,283,368,2,47
 2020-12-19,Mariposa,043,1,0,0,0
@@ -9762,7 +9762,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-19,San Francisco,075,379,362,2,37
 2020-12-19,San Joaquin,077,1241,1656,3,111
 2020-12-19,San Luis Obispo,079,163,206,0,8
-2020-12-19,San Mateo,081,344,524,4,52
+2020-12-19,San Mateo,081,332,524,4,52
 2020-12-19,Santa Barbara,083,289,210,1,14
 2020-12-19,Santa Clara,085,1523,1867,7,126
 2020-12-19,Santa Cruz,087,213,347,0,52
@@ -9771,11 +9771,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-19,Siskiyou,093,1,1,0,0
 2020-12-19,Solano,095,170,275,1,17
 2020-12-19,Sonoma,097,408,565,1,33
-2020-12-19,Stanislaus,099,1073,1484,1,138
+2020-12-19,Stanislaus,099,1073,1449,1,138
 2020-12-19,Sutter,101,189,240,0,5
 2020-12-19,Tehama,103,20,57,0,13
 2020-12-19,Trinity,105,11,1,0,1
-2020-12-19,Tulare,107,630,801,1,119
+2020-12-19,Tulare,107,613,801,1,119
 2020-12-19,Tuolumne,109,24,3,0,1
 2020-12-19,Ventura,111,626,580,1,18
 2020-12-19,Yolo,113,216,243,2,39
@@ -9793,11 +9793,11 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-20,Humboldt,023,31,57,1,3
 2020-12-20,Imperial,025,140,173,1,20
 2020-12-20,Inyo,027,31,66,0,12
-2020-12-20,Kern,029,744,744,0,44
+2020-12-20,Kern,029,816,836,0,44
 2020-12-20,Kings,031,126,133,0,23
 2020-12-20,Lake,033,41,103,0,3
 2020-12-20,Lassen,035,11,33,0,1
-2020-12-20,Los Angeles,037,14124,17939,74,2272
+2020-12-20,Los Angeles,037,14124,17940,74,2272
 2020-12-20,Madera,039,172,295,0,25
 2020-12-20,Marin,041,283,368,2,47
 2020-12-20,Mariposa,043,1,0,0,0
@@ -9805,33 +9805,33 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-20,Merced,047,166,193,1,5
 2020-12-20,Modoc,049,29,29,0,0
 2020-12-20,Monterey,053,241,226,0,21
-2020-12-20,Napa,055,111,56,1,15
+2020-12-20,Napa,055,108,56,1,15
 2020-12-20,Nevada,057,111,169,0,33
 2020-12-20,Orange,059,3421,3753,14,398
 2020-12-20,Placer,061,280,459,1,26
 2020-12-20,Plumas,063,2,1,0,1
-2020-12-20,Riverside,065,2343,2983,8,175
+2020-12-20,Riverside,065,2343,2981,8,175
 2020-12-20,Sacramento,067,1721,2516,5,118
 2020-12-20,San Benito,069,21,15,1,3
 2020-12-20,San Bernardino,071,2349,3144,10,227
-2020-12-20,San Diego,073,2514,3133,6,185
+2020-12-20,San Diego,073,2514,3132,6,184
 2020-12-20,San Francisco,075,382,364,2,37
 2020-12-20,San Joaquin,077,1261,1666,3,111
 2020-12-20,San Luis Obispo,079,168,208,0,8
-2020-12-20,San Mateo,081,351,529,4,52
+2020-12-20,San Mateo,081,334,527,4,52
 2020-12-20,Santa Barbara,083,289,221,1,14
-2020-12-20,Santa Clara,085,1555,1895,7,128
+2020-12-20,Santa Clara,085,1551,1895,7,128
 2020-12-20,Santa Cruz,087,213,349,0,53
 2020-12-20,Shasta,089,322,237,0,27
 2020-12-20,Sierra,091,1,0,0,0
 2020-12-20,Siskiyou,093,1,1,0,0
 2020-12-20,Solano,095,170,275,1,17
 2020-12-20,Sonoma,097,409,566,1,34
-2020-12-20,Stanislaus,099,1079,1485,1,139
+2020-12-20,Stanislaus,099,1079,1450,1,139
 2020-12-20,Sutter,101,194,241,0,5
 2020-12-20,Tehama,103,20,57,0,13
 2020-12-20,Trinity,105,11,1,0,1
-2020-12-20,Tulare,107,646,803,1,119
+2020-12-20,Tulare,107,629,803,1,119
 2020-12-20,Tuolumne,109,24,3,0,1
 2020-12-20,Ventura,111,629,604,1,18
 2020-12-20,Yolo,113,218,243,2,39
@@ -9849,45 +9849,45 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-21,Humboldt,023,31,57,1,3
 2020-12-21,Imperial,025,140,173,1,20
 2020-12-21,Inyo,027,32,66,0,12
-2020-12-21,Kern,029,751,746,0,44
+2020-12-21,Kern,029,825,841,0,44
 2020-12-21,Kings,031,126,133,0,23
 2020-12-21,Lake,033,41,103,0,3
 2020-12-21,Lassen,035,11,33,0,1
-2020-12-21,Los Angeles,037,14497,18386,74,2296
+2020-12-21,Los Angeles,037,14497,18387,74,2296
 2020-12-21,Madera,039,182,296,0,25
 2020-12-21,Marin,041,299,368,2,47
 2020-12-21,Mariposa,043,1,0,0,0
-2020-12-21,Mendocino,045,15,29,1,2
+2020-12-21,Mendocino,045,5,29,1,2
 2020-12-21,Merced,047,167,206,1,5
 2020-12-21,Modoc,049,29,30,0,0
 2020-12-21,Monterey,053,246,236,0,21
-2020-12-21,Napa,055,125,56,1,16
+2020-12-21,Napa,055,119,56,1,16
 2020-12-21,Nevada,057,111,169,0,34
 2020-12-21,Orange,059,3565,3975,15,401
 2020-12-21,Placer,061,288,468,1,27
 2020-12-21,Plumas,063,2,1,0,1
-2020-12-21,Riverside,065,2410,3051,9,177
+2020-12-21,Riverside,065,2410,3048,9,177
 2020-12-21,Sacramento,067,1725,2531,5,118
 2020-12-21,San Benito,069,21,17,1,3
 2020-12-21,San Bernardino,071,2404,3212,10,228
-2020-12-21,San Diego,073,2630,3237,6,187
+2020-12-21,San Diego,073,2630,3236,6,186
 2020-12-21,San Francisco,075,384,364,2,38
 2020-12-21,San Joaquin,077,1275,1682,3,111
 2020-12-21,San Luis Obispo,079,170,208,0,9
-2020-12-21,San Mateo,081,383,544,4,52
+2020-12-21,San Mateo,081,361,542,4,52
 2020-12-21,Santa Barbara,083,309,228,1,14
-2020-12-21,Santa Clara,085,1641,2016,7,130
+2020-12-21,Santa Clara,085,1632,2016,7,130
 2020-12-21,Santa Cruz,087,230,370,0,54
 2020-12-21,Shasta,089,322,238,0,27
 2020-12-21,Sierra,091,1,0,0,0
 2020-12-21,Siskiyou,093,1,1,0,0
 2020-12-21,Solano,095,181,298,1,17
 2020-12-21,Sonoma,097,415,569,1,35
-2020-12-21,Stanislaus,099,1092,1493,1,139
+2020-12-21,Stanislaus,099,1092,1458,1,139
 2020-12-21,Sutter,101,198,242,0,5
 2020-12-21,Tehama,103,20,57,0,13
 2020-12-21,Trinity,105,11,1,0,1
-2020-12-21,Tulare,107,667,818,1,119
+2020-12-21,Tulare,107,649,818,1,119
 2020-12-21,Tuolumne,109,25,3,0,1
 2020-12-21,Ventura,111,649,645,1,19
 2020-12-21,Yolo,113,220,261,2,39
@@ -9905,7 +9905,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-22,Humboldt,023,31,59,1,3
 2020-12-22,Imperial,025,142,174,1,20
 2020-12-22,Inyo,027,33,66,0,12
-2020-12-22,Kern,029,793,797,0,44
+2020-12-22,Kern,029,832,850,0,44
 2020-12-22,Kings,031,127,133,0,23
 2020-12-22,Lake,033,41,103,0,13
 2020-12-22,Lassen,035,11,33,0,1
@@ -9913,26 +9913,26 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-22,Madera,039,183,299,0,25
 2020-12-22,Marin,041,317,372,2,47
 2020-12-22,Mariposa,043,1,0,0,0
-2020-12-22,Mendocino,045,15,29,1,2
+2020-12-22,Mendocino,045,5,29,1,2
 2020-12-22,Merced,047,168,206,1,5
 2020-12-22,Modoc,049,30,31,0,0
 2020-12-22,Monterey,053,253,241,0,22
-2020-12-22,Napa,055,125,56,1,16
+2020-12-22,Napa,055,119,56,1,16
 2020-12-22,Nevada,057,116,171,0,35
 2020-12-22,Orange,059,3619,4065,15,406
 2020-12-22,Placer,061,317,513,1,27
 2020-12-22,Plumas,063,2,1,0,1
-2020-12-22,Riverside,065,2441,3076,9,177
+2020-12-22,Riverside,065,2441,3073,9,177
 2020-12-22,Sacramento,067,1735,2550,5,128
 2020-12-22,San Benito,069,21,17,1,3
 2020-12-22,San Bernardino,071,2431,3225,11,250
-2020-12-22,San Diego,073,2718,3339,6,188
+2020-12-22,San Diego,073,2718,3338,6,187
 2020-12-22,San Francisco,075,390,365,2,38
 2020-12-22,San Joaquin,077,1289,1696,3,111
 2020-12-22,San Luis Obispo,079,170,208,0,10
-2020-12-22,San Mateo,081,385,556,4,52
+2020-12-22,San Mateo,081,363,554,4,52
 2020-12-22,Santa Barbara,083,316,240,1,14
-2020-12-22,Santa Clara,085,1670,2075,7,143
+2020-12-22,Santa Clara,085,1661,2075,7,143
 2020-12-22,Santa Cruz,087,230,370,0,55
 2020-12-22,Shasta,089,325,251,0,29
 2020-12-22,Sierra,091,1,0,0,0
@@ -9943,7 +9943,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-22,Sutter,101,203,242,0,5
 2020-12-22,Tehama,103,20,57,0,13
 2020-12-22,Trinity,105,11,1,0,1
-2020-12-22,Tulare,107,680,820,1,119
+2020-12-22,Tulare,107,662,820,1,119
 2020-12-22,Tuolumne,109,25,3,0,1
 2020-12-22,Ventura,111,652,662,1,19
 2020-12-22,Yolo,113,236,261,2,39
@@ -9961,7 +9961,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-23,Humboldt,023,31,59,1,3
 2020-12-23,Imperial,025,143,174,1,20
 2020-12-23,Inyo,027,35,66,0,12
-2020-12-23,Kern,029,799,813,0,45
+2020-12-23,Kern,029,838,866,0,45
 2020-12-23,Kings,031,128,133,0,23
 2020-12-23,Lake,033,41,103,0,13
 2020-12-23,Lassen,035,11,33,0,1
@@ -9999,7 +9999,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-23,Sutter,101,203,242,0,5
 2020-12-23,Tehama,103,20,57,0,13
 2020-12-23,Trinity,105,11,1,0,1
-2020-12-23,Tulare,107,690,825,1,119
+2020-12-23,Tulare,107,668,825,1,119
 2020-12-23,Tuolumne,109,25,3,0,2
 2020-12-23,Ventura,111,668,665,2,20
 2020-12-23,Yolo,113,237,262,2,39
@@ -10017,7 +10017,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-24,Humboldt,023,31,59,1,3
 2020-12-24,Imperial,025,143,174,1,20
 2020-12-24,Inyo,027,35,66,0,12
-2020-12-24,Kern,029,805,816,0,45
+2020-12-24,Kern,029,844,868,0,45
 2020-12-24,Kings,031,128,133,0,23
 2020-12-24,Lake,033,51,103,0,13
 2020-12-24,Lassen,035,11,33,0,1
@@ -10055,7 +10055,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-24,Sutter,101,207,245,0,5
 2020-12-24,Tehama,103,20,57,0,13
 2020-12-24,Trinity,105,11,1,0,1
-2020-12-24,Tulare,107,691,845,1,119
+2020-12-24,Tulare,107,668,845,1,119
 2020-12-24,Tuolumne,109,25,3,0,2
 2020-12-24,Ventura,111,697,697,2,32
 2020-12-24,Yolo,113,242,262,2,39
@@ -10073,7 +10073,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-25,Humboldt,023,31,59,1,3
 2020-12-25,Imperial,025,143,174,1,20
 2020-12-25,Inyo,027,35,66,0,12
-2020-12-25,Kern,029,810,828,0,45
+2020-12-25,Kern,029,849,880,0,45
 2020-12-25,Kings,031,128,133,0,23
 2020-12-25,Lake,033,53,103,0,13
 2020-12-25,Lassen,035,11,33,0,1
@@ -10111,7 +10111,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-25,Sutter,101,210,249,0,5
 2020-12-25,Tehama,103,20,57,0,13
 2020-12-25,Trinity,105,11,1,0,1
-2020-12-25,Tulare,107,700,851,1,120
+2020-12-25,Tulare,107,677,851,1,120
 2020-12-25,Tuolumne,109,25,3,0,2
 2020-12-25,Ventura,111,725,723,2,33
 2020-12-25,Yolo,113,243,263,2,39
@@ -10129,7 +10129,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-26,Humboldt,023,31,59,1,3
 2020-12-26,Imperial,025,143,174,1,20
 2020-12-26,Inyo,027,35,66,0,12
-2020-12-26,Kern,029,810,843,0,56
+2020-12-26,Kern,029,853,886,0,56
 2020-12-26,Kings,031,128,133,0,23
 2020-12-26,Lake,033,55,103,0,13
 2020-12-26,Lassen,035,11,33,0,1
@@ -10167,7 +10167,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-26,Sutter,101,210,255,0,5
 2020-12-26,Tehama,103,20,57,0,13
 2020-12-26,Trinity,105,11,1,0,1
-2020-12-26,Tulare,107,704,855,1,130
+2020-12-26,Tulare,107,678,855,1,130
 2020-12-26,Tuolumne,109,25,3,0,2
 2020-12-26,Ventura,111,741,768,2,34
 2020-12-26,Yolo,113,243,263,2,39
@@ -10185,7 +10185,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-27,Humboldt,023,31,59,1,3
 2020-12-27,Imperial,025,143,174,1,20
 2020-12-27,Inyo,027,35,66,0,12
-2020-12-27,Kern,029,835,848,0,57
+2020-12-27,Kern,029,878,891,0,57
 2020-12-27,Kings,031,128,133,0,23
 2020-12-27,Lake,033,57,103,0,13
 2020-12-27,Lassen,035,11,33,0,1
@@ -10223,7 +10223,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-27,Sutter,101,210,255,0,5
 2020-12-27,Tehama,103,20,57,0,13
 2020-12-27,Trinity,105,11,1,0,1
-2020-12-27,Tulare,107,708,857,1,130
+2020-12-27,Tulare,107,682,857,1,130
 2020-12-27,Tuolumne,109,25,3,0,2
 2020-12-27,Ventura,111,752,782,2,36
 2020-12-27,Yolo,113,245,263,2,39
@@ -10241,7 +10241,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-28,Humboldt,023,31,59,1,3
 2020-12-28,Imperial,025,143,174,1,21
 2020-12-28,Inyo,027,35,66,0,12
-2020-12-28,Kern,029,849,848,0,57
+2020-12-28,Kern,029,892,891,0,57
 2020-12-28,Kings,031,129,133,0,23
 2020-12-28,Lake,033,57,103,0,13
 2020-12-28,Lassen,035,11,33,0,1
@@ -10279,7 +10279,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-28,Sutter,101,210,255,0,5
 2020-12-28,Tehama,103,20,57,0,13
 2020-12-28,Trinity,105,11,1,0,1
-2020-12-28,Tulare,107,726,908,1,131
+2020-12-28,Tulare,107,697,908,1,131
 2020-12-28,Tuolumne,109,26,3,0,2
 2020-12-28,Ventura,111,793,800,2,39
 2020-12-28,Yolo,113,256,267,2,39
@@ -10297,7 +10297,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-29,Humboldt,023,31,60,1,3
 2020-12-29,Imperial,025,144,174,1,21
 2020-12-29,Inyo,027,35,66,0,12
-2020-12-29,Kern,029,855,852,0,57
+2020-12-29,Kern,029,897,906,0,57
 2020-12-29,Kings,031,130,133,0,23
 2020-12-29,Lake,033,58,103,0,13
 2020-12-29,Lassen,035,12,33,0,1
@@ -10335,7 +10335,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-29,Sutter,101,210,256,0,5
 2020-12-29,Tehama,103,20,57,0,13
 2020-12-29,Trinity,105,11,1,0,1
-2020-12-29,Tulare,107,732,912,1,132
+2020-12-29,Tulare,107,703,912,1,132
 2020-12-29,Tuolumne,109,26,35,0,2
 2020-12-29,Ventura,111,808,834,2,40
 2020-12-29,Yolo,113,258,267,2,39
@@ -10353,7 +10353,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-30,Humboldt,023,31,60,1,3
 2020-12-30,Imperial,025,144,174,1,21
 2020-12-30,Inyo,027,35,66,0,12
-2020-12-30,Kern,029,877,888,0,57
+2020-12-30,Kern,029,919,962,0,57
 2020-12-30,Kings,031,131,133,0,23
 2020-12-30,Lake,033,58,103,0,13
 2020-12-30,Lassen,035,12,33,0,1
@@ -10391,7 +10391,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-30,Sutter,101,211,256,0,5
 2020-12-30,Tehama,103,20,57,0,13
 2020-12-30,Trinity,105,11,1,0,1
-2020-12-30,Tulare,107,743,922,1,133
+2020-12-30,Tulare,107,714,922,1,133
 2020-12-30,Tuolumne,109,26,35,0,2
 2020-12-30,Ventura,111,824,857,2,41
 2020-12-30,Yolo,113,258,267,2,39
@@ -10409,7 +10409,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-31,Humboldt,023,31,60,1,3
 2020-12-31,Imperial,025,144,174,1,21
 2020-12-31,Inyo,027,35,66,0,12
-2020-12-31,Kern,029,886,894,0,67
+2020-12-31,Kern,029,928,968,0,67
 2020-12-31,Kings,031,131,133,0,23
 2020-12-31,Lake,033,58,103,0,13
 2020-12-31,Lassen,035,12,33,0,1
@@ -10447,7 +10447,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-31,Sutter,101,212,256,0,5
 2020-12-31,Tehama,103,20,57,0,13
 2020-12-31,Trinity,105,11,1,0,1
-2020-12-31,Tulare,107,747,922,1,133
+2020-12-31,Tulare,107,718,922,1,133
 2020-12-31,Tuolumne,109,26,36,0,2
 2020-12-31,Ventura,111,878,942,2,41
 2020-12-31,Yolo,113,258,280,2,40
@@ -10465,7 +10465,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-01,Humboldt,023,31,60,1,3
 2021-01-01,Imperial,025,144,174,1,21
 2021-01-01,Inyo,027,35,66,0,12
-2021-01-01,Kern,029,911,943,0,67
+2021-01-01,Kern,029,940,993,0,67
 2021-01-01,Kings,031,131,133,0,23
 2021-01-01,Lake,033,58,103,0,13
 2021-01-01,Lassen,035,12,33,0,1
@@ -10503,7 +10503,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-01,Sutter,101,214,256,0,5
 2021-01-01,Tehama,103,20,57,0,13
 2021-01-01,Trinity,105,11,1,0,1
-2021-01-01,Tulare,107,761,928,1,135
+2021-01-01,Tulare,107,730,927,1,135
 2021-01-01,Tuolumne,109,26,37,0,2
 2021-01-01,Ventura,111,883,971,2,41
 2021-01-01,Yolo,113,258,280,2,40
@@ -10521,7 +10521,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-02,Humboldt,023,31,60,1,3
 2021-01-02,Imperial,025,144,174,1,21
 2021-01-02,Inyo,027,35,66,0,12
-2021-01-02,Kern,029,916,951,0,68
+2021-01-02,Kern,029,945,1001,0,68
 2021-01-02,Kings,031,131,133,0,23
 2021-01-02,Lake,033,59,103,0,13
 2021-01-02,Lassen,035,12,33,0,1
@@ -10559,7 +10559,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-02,Sutter,101,214,256,0,5
 2021-01-02,Tehama,103,20,57,0,13
 2021-01-02,Trinity,105,11,1,0,1
-2021-01-02,Tulare,107,766,943,1,137
+2021-01-02,Tulare,107,735,942,1,137
 2021-01-02,Tuolumne,109,26,37,0,2
 2021-01-02,Ventura,111,901,983,2,42
 2021-01-02,Yolo,113,258,280,2,40
@@ -10577,7 +10577,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-03,Humboldt,023,31,60,1,3
 2021-01-03,Imperial,025,144,174,1,21
 2021-01-03,Inyo,027,35,66,0,12
-2021-01-03,Kern,029,917,951,0,68
+2021-01-03,Kern,029,946,1001,0,68
 2021-01-03,Kings,031,133,133,0,23
 2021-01-03,Lake,033,59,103,0,13
 2021-01-03,Lassen,035,12,33,0,1
@@ -10615,7 +10615,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-03,Sutter,101,216,256,0,5
 2021-01-03,Tehama,103,20,57,0,13
 2021-01-03,Trinity,105,11,1,0,1
-2021-01-03,Tulare,107,769,947,1,137
+2021-01-03,Tulare,107,738,950,1,137
 2021-01-03,Tuolumne,109,26,37,0,2
 2021-01-03,Ventura,111,910,987,2,42
 2021-01-03,Yolo,113,258,280,2,41
@@ -10633,7 +10633,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-04,Humboldt,023,31,60,1,3
 2021-01-04,Imperial,025,144,174,1,21
 2021-01-04,Inyo,027,35,66,0,12
-2021-01-04,Kern,029,924,959,0,69
+2021-01-04,Kern,029,952,1011,0,69
 2021-01-04,Kings,031,134,133,0,23
 2021-01-04,Lake,033,59,103,0,13
 2021-01-04,Lassen,035,12,33,0,1
@@ -10671,7 +10671,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-04,Sutter,101,216,256,0,5
 2021-01-04,Tehama,103,20,57,0,13
 2021-01-04,Trinity,105,11,1,0,1
-2021-01-04,Tulare,107,772,953,1,138
+2021-01-04,Tulare,107,741,956,1,138
 2021-01-04,Tuolumne,109,26,43,0,2
 2021-01-04,Ventura,111,931,1055,1,44
 2021-01-04,Yolo,113,259,280,2,41
@@ -10689,7 +10689,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-05,Humboldt,023,31,60,1,3
 2021-01-05,Imperial,025,144,174,1,21
 2021-01-05,Inyo,027,35,66,0,12
-2021-01-05,Kern,029,943,962,0,70
+2021-01-05,Kern,029,971,1014,0,70
 2021-01-05,Kings,031,135,133,0,23
 2021-01-05,Lake,033,60,105,0,13
 2021-01-05,Lassen,035,13,33,0,1
@@ -10727,7 +10727,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-05,Sutter,101,217,256,0,5
 2021-01-05,Tehama,103,20,57,0,13
 2021-01-05,Trinity,105,11,1,0,1
-2021-01-05,Tulare,107,784,960,1,138
+2021-01-05,Tulare,107,752,963,1,138
 2021-01-05,Tuolumne,109,26,44,0,2
 2021-01-05,Ventura,111,942,1061,1,44
 2021-01-05,Yolo,113,259,281,2,41
@@ -10745,7 +10745,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-06,Humboldt,023,31,60,1,3
 2021-01-06,Imperial,025,144,174,1,21
 2021-01-06,Inyo,027,35,66,0,12
-2021-01-06,Kern,029,956,974,0,70
+2021-01-06,Kern,029,984,1026,0,70
 2021-01-06,Kings,031,135,133,0,23
 2021-01-06,Lake,033,60,105,0,13
 2021-01-06,Lassen,035,13,33,0,1
@@ -10801,7 +10801,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-07,Humboldt,023,31,60,1,3
 2021-01-07,Imperial,025,144,174,1,21
 2021-01-07,Inyo,027,36,66,0,12
-2021-01-07,Kern,029,956,974,0,70
+2021-01-07,Kern,029,984,1026,0,70
 2021-01-07,Kings,031,139,133,0,23
 2021-01-07,Lake,033,60,105,0,13
 2021-01-07,Lassen,035,13,33,0,1
@@ -10857,7 +10857,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-08,Humboldt,023,31,60,1,3
 2021-01-08,Imperial,025,144,174,1,21
 2021-01-08,Inyo,027,36,66,0,12
-2021-01-08,Kern,029,960,978,0,70
+2021-01-08,Kern,029,988,1030,0,70
 2021-01-08,Kings,031,139,133,0,23
 2021-01-08,Lake,033,60,106,0,13
 2021-01-08,Lassen,035,13,33,0,1
@@ -10913,7 +10913,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-09,Humboldt,023,31,60,1,3
 2021-01-09,Imperial,025,144,174,1,21
 2021-01-09,Inyo,027,37,66,0,12
-2021-01-09,Kern,029,962,992,0,70
+2021-01-09,Kern,029,990,1030,0,70
 2021-01-09,Kings,031,140,133,0,23
 2021-01-09,Lake,033,61,108,0,13
 2021-01-09,Lassen,035,13,33,0,1
@@ -10969,7 +10969,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-10,Humboldt,023,31,60,1,3
 2021-01-10,Imperial,025,144,174,1,21
 2021-01-10,Inyo,027,37,66,0,12
-2021-01-10,Kern,029,978,1031,0,72
+2021-01-10,Kern,029,1006,1069,0,72
 2021-01-10,Kings,031,142,133,0,23
 2021-01-10,Lake,033,61,110,0,13
 2021-01-10,Lassen,035,13,33,0,1
@@ -11327,7 +11327,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-16,San Benito,069,29,17,1,3
 2021-01-16,San Bernardino,071,3076,4033,12,305
 2021-01-16,San Diego,073,4509,5425,12,351
-2021-01-16,San Francisco,075,596,734,3,44
+2021-01-16,San Francisco,075,595,734,3,44
 2021-01-16,San Joaquin,077,1523,2034,3,187
 2021-01-16,San Luis Obispo,079,261,313,0,41
 2021-01-16,San Mateo,081,646,1001,5,113
@@ -11908,15 +11908,15 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-26,Ventura,111,1277,1435,1,85
 2021-01-26,Yolo,113,278,297,2,41
 2021-01-26,Yuba,115,40,77,0,2
-2021-01-27,Alameda,001,1986,2907,8,193
+2021-01-27,Alameda,001,1988,2935,8,194
 2021-01-27,Amador,005,30,63,0,19
 2021-01-27,Butte,007,375,585,2,36
 2021-01-27,Calaveras,009,22,58,0,1
 2021-01-27,Colusa,011,73,54,0,2
-2021-01-27,Contra Costa,013,883,1323,5,108
+2021-01-27,Contra Costa,013,907,1362,5,109
 2021-01-27,Del Norte,015,16,1,0,0
 2021-01-27,El Dorado,017,214,219,0,33
-2021-01-27,Fresno,019,1626,1785,5,186
+2021-01-27,Fresno,019,1629,1790,5,187
 2021-01-27,Glenn,021,53,74,0,2
 2021-01-27,Humboldt,023,31,60,1,3
 2021-01-27,Imperial,025,146,176,1,23
@@ -11925,98 +11925,154 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-27,Kings,031,179,179,0,25
 2021-01-27,Lake,033,65,111,0,13
 2021-01-27,Lassen,035,15,34,0,1
-2021-01-27,Los Angeles,037,20622,25676,100,3205
+2021-01-27,Los Angeles,037,20632,25731,101,3206
 2021-01-27,Madera,039,203,307,0,25
 2021-01-27,Marin,041,402,490,2,50
 2021-01-27,Mariposa,043,1,0,0,0
 2021-01-27,Mendocino,045,5,29,1,2
 2021-01-27,Merced,047,222,244,1,7
 2021-01-27,Modoc,049,47,47,0,2
-2021-01-27,Monterey,053,500,615,0,52
+2021-01-27,Monterey,053,500,616,0,52
 2021-01-27,Napa,055,216,153,4,22
 2021-01-27,Nevada,057,169,228,0,48
-2021-01-27,Orange,059,5292,6156,20,631
+2021-01-27,Orange,059,5304,6181,20,632
 2021-01-27,Placer,061,451,694,3,46
 2021-01-27,Plumas,063,2,1,0,1
-2021-01-27,Riverside,065,3318,4239,14,298
-2021-01-27,Sacramento,067,2185,3122,6,193
+2021-01-27,Riverside,065,3332,4240,14,299
+2021-01-27,Sacramento,067,2165,3133,6,194
 2021-01-27,San Benito,069,31,18,1,3
 2021-01-27,San Bernardino,071,3163,4111,12,317
-2021-01-27,San Diego,073,4948,5948,12,428
+2021-01-27,San Diego,073,4955,5954,12,430
 2021-01-27,San Francisco,075,658,801,3,47
-2021-01-27,San Joaquin,077,1568,2143,3,194
-2021-01-27,San Luis Obispo,079,296,364,0,43
-2021-01-27,San Mateo,081,707,1110,5,139
-2021-01-27,Santa Barbara,083,664,569,1,34
-2021-01-27,Santa Clara,085,2484,3096,10,272
+2021-01-27,San Joaquin,077,1568,2145,3,194
+2021-01-27,San Luis Obispo,079,297,365,0,44
+2021-01-27,San Mateo,081,727,1116,5,140
+2021-01-27,Santa Barbara,083,664,592,1,34
+2021-01-27,Santa Clara,085,2495,3099,10,272
 2021-01-27,Santa Cruz,087,323,548,0,75
-2021-01-27,Shasta,089,458,410,0,45
+2021-01-27,Shasta,089,459,411,0,45
 2021-01-27,Sierra,091,1,0,0,0
 2021-01-27,Siskiyou,093,1,1,0,0
 2021-01-27,Solano,095,313,533,1,34
-2021-01-27,Sonoma,097,680,842,1,37
-2021-01-27,Stanislaus,099,1318,1658,1,171
+2021-01-27,Sonoma,097,681,843,1,38
+2021-01-27,Stanislaus,099,1330,1680,1,171
 2021-01-27,Sutter,101,258,282,0,5
 2021-01-27,Tehama,103,21,58,0,14
 2021-01-27,Trinity,105,11,1,0,1
 2021-01-27,Tulare,107,814,989,1,147
 2021-01-27,Tuolumne,109,51,76,0,3
-2021-01-27,Ventura,111,1281,1435,1,86
+2021-01-27,Ventura,111,1295,1444,1,86
 2021-01-27,Yolo,113,278,297,2,41
-2021-01-27,Yuba,115,40,77,0,2
-2021-01-28,Alameda,001,1986,2907,8,193
+2021-01-27,Yuba,115,40,78,0,2
+2021-01-28,Alameda,001,2017,2938,9,195
 2021-01-28,Amador,005,30,63,0,19
-2021-01-28,Butte,007,375,585,2,36
+2021-01-28,Butte,007,375,588,2,36
 2021-01-28,Calaveras,009,22,58,0,1
 2021-01-28,Colusa,011,73,54,0,2
-2021-01-28,Contra Costa,013,883,1323,5,108
+2021-01-28,Contra Costa,013,911,1369,5,109
 2021-01-28,Del Norte,015,16,1,0,0
 2021-01-28,El Dorado,017,214,219,0,33
-2021-01-28,Fresno,019,1626,1786,5,186
+2021-01-28,Fresno,019,1665,1822,5,188
 2021-01-28,Glenn,021,53,74,0,2
 2021-01-28,Humboldt,023,31,60,1,3
 2021-01-28,Imperial,025,146,176,1,23
 2021-01-28,Inyo,027,41,66,0,12
-2021-01-28,Kern,029,1086,1180,0,79
-2021-01-28,Kings,031,179,179,0,25
-2021-01-28,Lake,033,65,111,0,13
+2021-01-28,Kern,029,1089,1188,0,80
+2021-01-28,Kings,031,181,179,0,25
+2021-01-28,Lake,033,66,112,0,13
 2021-01-28,Lassen,035,15,34,0,1
-2021-01-28,Los Angeles,037,20624,25679,100,3206
+2021-01-28,Los Angeles,037,20714,25872,101,3224
 2021-01-28,Madera,039,203,307,0,25
-2021-01-28,Marin,041,402,490,2,50
+2021-01-28,Marin,041,403,490,2,50
 2021-01-28,Mariposa,043,1,0,0,0
 2021-01-28,Mendocino,045,5,29,1,2
-2021-01-28,Merced,047,222,244,1,7
-2021-01-28,Modoc,049,47,47,0,2
-2021-01-28,Monterey,053,500,615,0,52
-2021-01-28,Napa,055,216,153,4,22
-2021-01-28,Nevada,057,169,228,0,48
-2021-01-28,Orange,059,5292,6156,20,631
-2021-01-28,Placer,061,451,694,3,46
+2021-01-28,Merced,047,224,244,1,7
+2021-01-28,Modoc,049,48,47,0,2
+2021-01-28,Monterey,053,501,620,0,52
+2021-01-28,Napa,055,218,153,4,23
+2021-01-28,Nevada,057,169,228,0,49
+2021-01-28,Orange,059,5327,6277,20,644
+2021-01-28,Placer,061,452,732,3,46
 2021-01-28,Plumas,063,2,1,0,1
-2021-01-28,Riverside,065,3318,4239,14,298
-2021-01-28,Sacramento,067,2185,3122,6,193
+2021-01-28,Riverside,065,3346,4261,14,299
+2021-01-28,Sacramento,067,2201,3185,6,196
 2021-01-28,San Benito,069,31,18,1,3
-2021-01-28,San Bernardino,071,3163,4111,12,317
-2021-01-28,San Diego,073,4948,5948,12,428
-2021-01-28,San Francisco,075,658,801,3,47
-2021-01-28,San Joaquin,077,1568,2143,3,194
-2021-01-28,San Luis Obispo,079,296,364,0,43
-2021-01-28,San Mateo,081,707,1110,5,139
-2021-01-28,Santa Barbara,083,664,569,1,34
-2021-01-28,Santa Clara,085,2484,3096,10,272
+2021-01-28,San Bernardino,071,3168,4118,12,317
+2021-01-28,San Diego,073,4994,5973,12,453
+2021-01-28,San Francisco,075,671,802,3,47
+2021-01-28,San Joaquin,077,1586,2176,3,205
+2021-01-28,San Luis Obispo,079,297,365,0,45
+2021-01-28,San Mateo,081,728,1124,5,140
+2021-01-28,Santa Barbara,083,673,597,1,34
+2021-01-28,Santa Clara,085,2502,3121,10,273
 2021-01-28,Santa Cruz,087,323,548,0,75
-2021-01-28,Shasta,089,458,410,0,45
+2021-01-28,Shasta,089,460,413,0,45
 2021-01-28,Sierra,091,1,0,0,0
 2021-01-28,Siskiyou,093,1,1,0,0
-2021-01-28,Solano,095,313,533,1,34
-2021-01-28,Sonoma,097,680,842,1,37
-2021-01-28,Stanislaus,099,1318,1658,1,171
-2021-01-28,Sutter,101,258,282,0,5
+2021-01-28,Solano,095,332,536,1,35
+2021-01-28,Sonoma,097,686,853,1,38
+2021-01-28,Stanislaus,099,1333,1682,1,171
+2021-01-28,Sutter,101,261,284,0,5
 2021-01-28,Tehama,103,21,58,0,14
 2021-01-28,Trinity,105,11,1,0,1
-2021-01-28,Tulare,107,814,989,1,147
+2021-01-28,Tulare,107,816,976,1,147
 2021-01-28,Tuolumne,109,51,76,0,3
-2021-01-28,Ventura,111,1281,1435,1,86
+2021-01-28,Ventura,111,1304,1447,1,86
 2021-01-28,Yolo,113,278,297,2,41
-2021-01-28,Yuba,115,40,77,0,2
+2021-01-28,Yuba,115,40,78,0,2
+2021-01-29,Alameda,001,2017,2938,9,195
+2021-01-29,Amador,005,30,63,0,19
+2021-01-29,Butte,007,375,588,2,36
+2021-01-29,Calaveras,009,22,58,0,1
+2021-01-29,Colusa,011,73,55,0,2
+2021-01-29,Contra Costa,013,911,1369,5,109
+2021-01-29,Del Norte,015,16,1,0,0
+2021-01-29,El Dorado,017,214,219,0,33
+2021-01-29,Fresno,019,1665,1822,5,188
+2021-01-29,Glenn,021,53,74,0,2
+2021-01-29,Humboldt,023,31,60,1,3
+2021-01-29,Imperial,025,146,176,1,23
+2021-01-29,Inyo,027,41,66,0,12
+2021-01-29,Kern,029,1089,1188,0,80
+2021-01-29,Kings,031,181,179,0,25
+2021-01-29,Lake,033,66,112,0,13
+2021-01-29,Lassen,035,15,34,0,1
+2021-01-29,Los Angeles,037,20716,25880,101,3224
+2021-01-29,Madera,039,203,307,0,25
+2021-01-29,Marin,041,403,490,2,50
+2021-01-29,Mariposa,043,1,0,0,0
+2021-01-29,Mendocino,045,5,29,1,2
+2021-01-29,Merced,047,224,244,1,7
+2021-01-29,Modoc,049,48,47,0,2
+2021-01-29,Monterey,053,501,620,0,52
+2021-01-29,Napa,055,218,153,4,23
+2021-01-29,Nevada,057,169,228,0,49
+2021-01-29,Orange,059,5327,6277,20,644
+2021-01-29,Placer,061,452,732,3,46
+2021-01-29,Plumas,063,2,1,0,1
+2021-01-29,Riverside,065,3346,4261,14,299
+2021-01-29,Sacramento,067,2201,3185,6,196
+2021-01-29,San Benito,069,31,18,1,3
+2021-01-29,San Bernardino,071,3168,4118,12,317
+2021-01-29,San Diego,073,4994,5973,12,453
+2021-01-29,San Francisco,075,671,802,3,47
+2021-01-29,San Joaquin,077,1586,2176,3,205
+2021-01-29,San Luis Obispo,079,298,365,0,45
+2021-01-29,San Mateo,081,728,1124,5,140
+2021-01-29,Santa Barbara,083,673,597,1,34
+2021-01-29,Santa Clara,085,2502,3121,10,273
+2021-01-29,Santa Cruz,087,323,548,0,75
+2021-01-29,Shasta,089,460,413,0,45
+2021-01-29,Sierra,091,1,0,0,0
+2021-01-29,Siskiyou,093,1,1,0,0
+2021-01-29,Solano,095,332,536,1,35
+2021-01-29,Sonoma,097,686,853,1,38
+2021-01-29,Stanislaus,099,1334,1683,1,171
+2021-01-29,Sutter,101,261,284,0,5
+2021-01-29,Tehama,103,21,58,0,14
+2021-01-29,Trinity,105,11,1,0,1
+2021-01-29,Tulare,107,816,976,1,147
+2021-01-29,Tuolumne,109,51,76,0,3
+2021-01-29,Ventura,111,1307,1455,1,86
+2021-01-29,Yolo,113,278,297,2,41
+2021-01-29,Yuba,115,40,78,0,2
