@@ -1,4 +1,5 @@
 date,confirmed_cases,deaths,travel,person_to_person,community_spread,under_investigation,other_causes,self_monitoring,age_0_to_17,age_18_to_49,age_50_to_64,age_65_and_up,age_18_to_64,age_unknown,gender_male,gender_female,gender_unknown,total_tests,received_tests,pending_tests,confirmed_hospitalizations,confirmed_icu,suspected_hospitalizations,suspected_icu,healthcare_worker_infections,healthcare_worker_deaths,vaccine_doses_administered,vaccine_doses_distributed,source_url
+2021-01-29,3205947,39578,,,,,,,407198,1847694,610690,338251,,2114,1527644,1628412,49891,41677405,,,15705,4145,876,87,85125,335,3078250,4759750,
 2021-01-28,3186610,38961,,,,,,,404631,1837255,606779,335853,,2092,1518121,1618782,49707,41470634,,,16251,4196,892,87,84432,331,2893493,4736750,
 2021-01-27,3169914,38224,,,,,,,402283,1828399,603406,333827,,1999,1510132,1610402,49380,41252482,,,16839,4284,871,91,83817,332,2730262,4728850,
 2021-01-26,3153186,37527,,,,,,,400095,1819350,600018,331706,,2017,1501958,1601818,49410,41010770,,,17236,4315,803,69,83351,328,2587736,4695625,
