@@ -1,6 +1,6 @@
 date,county,fips,tier
 2021-02-02,Alameda,001,1
-2021-02-02,Alpine,003,2
+2021-02-02,Alpine,003,3
 2021-02-02,Amador,005,1
 2021-02-02,Butte,007,1
 2021-02-02,Calaveras,009,1
@@ -51,7 +51,7 @@ date,county,fips,tier
 2021-02-02,Stanislaus,099,1
 2021-02-02,Sutter,101,1
 2021-02-02,Tehama,103,1
-2021-02-02,Trinity,105,2
+2021-02-02,Trinity,105,3
 2021-02-02,Tulare,107,1
 2021-02-02,Tuolumne,109,1
 2021-02-02,Ventura,111,1
