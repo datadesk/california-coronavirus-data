@@ -25,6 +25,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-regional-stay-home-metrics.csv](#cdph-regional-stay-home-metricscsv)
 - [cdph-reopening-metrics.csv](#cdph-reopening-metricscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
+- [cdph-vaccination-county-totals.csv](#cdph-vaccination-county-totalscsv)
 
 ### Nursing homes
 
@@ -306,6 +307,18 @@ This file records the current tier of each county by day. The definition for eac
 | `county` | string  | The name of the county.                                                                                                                                                              |
 | `fips`   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `tier`   | integer | The tier the county was classified in on this `date`. There are four possible values on an ordinal scale with one being the most restrictive and four the least restrictive.         |
+
+### [cdph-vaccination-county-totals.csv](./cdph-vaccination-county-totals.csv)
+
+California's Department of Public Health is releasing [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) via a Tableau dashboard. Our team extracts and logs the data each day.
+
+| field                        | type    | description                                                                                                                                                                          |
+| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                       | date    | The date for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
+| `county`                     | string  | The name of the county.                                                                                                                                                              |
+| `fips`                       | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `doses_administered`         | integer | The total number of doses given as of this `date`.                                                                                                                                   |
+| `new_doses_administered`     | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-residential-care-facilities.csv)
 
