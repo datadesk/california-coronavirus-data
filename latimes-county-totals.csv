@@ -43,7 +43,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-09,Santa Barbara,083,30206,348,119,11
 2021-02-09,Santa Clara,085,105740,1576,354,30
 2021-02-09,Santa Cruz,087,14055,160,44,1
-2021-02-09,Shasta,089,10753,164,53,3
+2021-02-09,Shasta,089,10687,164,0,3
 2021-02-09,Sierra,091,95,0,0,0
 2021-02-09,Siskiyou,093,1636,13,7,0
 2021-02-09,Solano,095,29040,140,46,6
@@ -101,7 +101,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-08,Santa Barbara,083,30087,337,146,1
 2021-02-08,Santa Clara,085,105386,1546,292,6
 2021-02-08,Santa Cruz,087,14011,159,96,0
-2021-02-08,Shasta,089,10700,161,68,0
+2021-02-08,Shasta,089,10687,161,55,0
 2021-02-08,Sierra,091,95,0,0,0
 2021-02-08,Siskiyou,093,1629,13,31,0
 2021-02-08,Solano,095,28994,134,308,0
