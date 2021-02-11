@@ -314,8 +314,8 @@ California's Department of Public Health is releasing [county-level vaccination 
 
 | field                        | type    | description                                                                                                                                                                          |
 | ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `date`                       | date    | The date for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
-| `county`                     | string  | The name of the county.                                                                                                                                                              |
+| `date`                       | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                   |
+| `county`                     | string  | The name of the county.                                                                                                                                                               |
 | `fips`                       | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `doses_administered`         | integer | The total number of doses given as of this `date`.                                                                                                                                   |
 | `new_doses_administered`     | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
