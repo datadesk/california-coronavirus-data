@@ -38,7 +38,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-12,San Diego,073,250791,2979,817,24
 2021-02-12,San Francisco,075,32809,359,114,8
 2021-02-12,San Joaquin,077,64969,992,260,27
-2021-02-12,San Luis Obispo,079,18899,205,10,0
+2021-02-12,San Luis Obispo,079,18889,205,0,0
 2021-02-12,San Mateo,081,37548,474,111,27
 2021-02-12,Santa Barbara,083,30586,367,84,1
 2021-02-12,Santa Clara,085,106749,1643,377,19
