@@ -3,7 +3,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-17,Alpine,003,79,0,0,0
 2021-02-17,Amador,005,3365,38,4,0
 2021-02-17,Butte,007,10570,153,18,0
-2021-02-17,Calaveras,009,1899,25,63,0
+2021-02-17,Calaveras,009,1896,25,60,0
 2021-02-17,Colusa,011,2110,13,24,1
 2021-02-17,Contra Costa,013,60996,626,162,4
 2021-02-17,Del Norte,015,947,4,9,0
@@ -24,7 +24,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-17,Mendocino,045,3743,41,11,1
 2021-02-17,Merced,047,28306,382,105,0
 2021-02-17,Modoc,049,448,4,2,0
-2021-02-17,Mono,051,1205,4,2,0
+2021-02-17,Mono,051,1204,4,1,0
 2021-02-17,Monterey,053,41632,310,52,1
 2021-02-17,Napa,055,8809,62,17,1
 2021-02-17,Nevada,057,3813,74,39,0
