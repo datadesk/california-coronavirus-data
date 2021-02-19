@@ -12,6 +12,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-agency-totals.csv](#latimes-agency-totalscsv)
 - [latimes-county-totals.csv](#latimes-county-totalscsv)
 - [latimes-state-totals.csv](#latimes-state-totalscsv)
+- [latimes-place-polygons.geojson](#latimes-place-polygonsgeojson)
 - [latimes-place-totals.csv](#latimes-place-totalscsv)
 - [latimes-agency-websites.csv](#latimes-agency-websitescsv)
 
@@ -132,9 +133,9 @@ It comes with all of the same caveats as its source. It is included here as a co
 
 Most counties break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
 
-The following counties currently do not report cases by locality: Alpine, Colusa, Glenn, Lassen, Mariposa, Modoc, San Benito, Sierra, Tehama and Tuolumne.
+The following counties currently do not report cases by locality: Alpine, Colusa, Fresno, Glenn, Lassen, Mariposa, Modoc, San Benito, Tehama and Tuolumne.
 
-Different counties provide different geography types. Some provide data by region, some by Census designation, some by ZIP Code. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations in many counties are manually geocoded by The Times.
+Different counties provide different geography types. Some provide data by region, some by Census designation, some by ZIP Code. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations can be mapped after being joined to the shapes in `latimes-places-polygons.geojson` using the `id` column.
 
 Be aware that some counties have shifted the place names used over time.
 
@@ -142,14 +143,34 @@ In some circumstances the true total of cases is obscured. Los Angeles and Orang
 
 | field             | type    | description                                                                                                                                                                          |
 | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `id`              | string  | The unique identifier of the city, neighborhood or other area.                                                                                                                       |
+| `name`            | string  | The name of the city, neighborhood or other area.                                                                                                                                    |
 | `date`            | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
 | `county`          | string  | The name of the county where the city is located.                                                                                                                                    |
 | `fips`            | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
-| `place`           | string  | The name of the city, neighborhood or other area.                                                                                                                                    |
 | `confirmed_cases` | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                                                    |
 | `note`            | string  | In cases where the `confirmed_cases` are obscured, this explains the range of possible values.                                                                                       |
-| `x`               | float   | The longitude of the `place`.                                                                                                                                                        |
-| `y`               | float   | The latitude of the `place`.                                                                                                                                                         |
+| `population`      | integer | The number of residents in the area. Not available for all places.                                                                                                                   |
+
+### [latimes-place-polygons.geojson](./latimes-place-polygons.geojson)
+
+A map file of sub-county areas where cases are tracked
+
+Different counties provide different geography types. Some provide data by region, some by Census designation, some by ZIP Code. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations can be analyzed after being joined to the case counts in the `latimes-places-totals.csv` using the `id` column.
+
+This file is a combination of dozens of different data files collected by Times reporters. Some shapes from county officials who maintain their own maps, others were scraped from county dashboards. In some cases, Census maps are used.
+
+In some cases, the precise area being tracked by local officials is unclear. What you will find here is the best effort of Times reporters to represent what's been released. If you see any errors, please contact [ben.welsh@latimes.com]
+(mailto:ben.welsh@latimes.com).
+
+| field             | type    | description                                                                                                                                                                          |
+| ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `id`              | string  | The unique identifier of the city, neighborhood or other area.                                                                                                                       |
+| `name`            | string  | The name of the city, neighborhood or other area.                                                                                                                                    |
+| `county`          | string  | The name of the county where the city is located.                                                                                                                                    |
+| `fips`            | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `centroid_x`      | float   | The longitude of the `place`.                                                                                                                                                        |
+| `centroid_y`      | float   | The latitude of the `place`.                                                                                                                                                         |
 | `population`      | integer | The number of residents in the area. Not available for all places.                                                                                                                   |
 
 ### [latimes-agency-websites.csv](./latimes-agency-websites.csv)
