@@ -154,7 +154,7 @@ In some circumstances the true total of cases is obscured. Los Angeles and Orang
 
 ### [latimes-place-polygons.geojson](./latimes-place-polygons.geojson)
 
-A map file of sub-county areas where cases are tracked
+A map of sub-county areas where cases are tracked.
 
 Different counties provide different geography types. Some provide data by region, some by Census designation, some by ZIP Code. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations can be analyzed after being joined to the case counts in the `latimes-places-totals.csv` using the `id` column.
 
