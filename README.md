@@ -160,8 +160,7 @@ Different counties provide different geography types. Some provide data by regio
 
 This file is a combination of dozens of different data files collected by Times reporters. Some shapes from county officials who maintain their own maps, others were scraped from county dashboards. In some cases, Census maps are used.
 
-In some cases, the precise area being tracked by local officials is unclear. What you will find here is the best effort of Times reporters to represent what's been released. If you see any errors, please contact [ben.welsh@latimes.com]
-(mailto:ben.welsh@latimes.com).
+In some cases, the precise area being tracked by local officials is unclear. What you will find here is the best effort of Times reporters to represent what's been released. If you see any errors, please contact [ben.welsh@latimes.com](mailto:ben.welsh@latimes.com).
 
 | field             | type    | description                                                                                                                                                                          |
 | ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
