@@ -5,7 +5,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-21,Butte,007,10617,156,0,0
 2021-02-21,Calaveras,009,1898,25,0,0
 2021-02-21,Colusa,011,2117,13,0,0
-2021-02-21,Contra Costa,013,61628,654,159,0
+2021-02-21,Contra Costa,013,61628,653,159,0
 2021-02-21,Del Norte,015,959,5,0,0
 2021-02-21,El Dorado,017,9017,93,0,0
 2021-02-21,Fresno,019,94234,1367,261,0
@@ -63,7 +63,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-20,Butte,007,10617,156,0,0
 2021-02-20,Calaveras,009,1898,25,0,0
 2021-02-20,Colusa,011,2117,13,0,0
-2021-02-20,Contra Costa,013,61469,654,185,11
+2021-02-20,Contra Costa,013,61469,653,185,10
 2021-02-20,Del Norte,015,959,5,4,0
 2021-02-20,El Dorado,017,9017,93,0,0
 2021-02-20,Fresno,019,93973,1367,239,0
