@@ -46,7 +46,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-22,Shasta,089,10909,172,41,0
 2021-02-22,Sierra,091,99,0,0,0
 2021-02-22,Siskiyou,093,1716,13,15,0
-2021-02-22,Solano,095,29859,161,93,0
+2021-02-22,Solano,095,29859,160,93,0
 2021-02-22,Sonoma,097,27744,295,68,0
 2021-02-22,Stanislaus,099,49860,931,121,5
 2021-02-22,Sutter,101,8802,96,36,2
@@ -104,7 +104,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-21,Shasta,089,10868,172,0,0
 2021-02-21,Sierra,091,99,0,0,0
 2021-02-21,Siskiyou,093,1701,13,0,0
-2021-02-21,Solano,095,29766,161,0,0
+2021-02-21,Solano,095,29766,160,0,0
 2021-02-21,Sonoma,097,27676,295,70,4
 2021-02-21,Stanislaus,099,49739,926,93,0
 2021-02-21,Sutter,101,8766,94,0,0
@@ -162,7 +162,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-20,Shasta,089,10868,172,0,0
 2021-02-20,Sierra,091,99,0,0,0
 2021-02-20,Siskiyou,093,1701,13,0,0
-2021-02-20,Solano,095,29766,161,0,0
+2021-02-20,Solano,095,29766,160,0,0
 2021-02-20,Sonoma,097,27606,291,133,0
 2021-02-20,Stanislaus,099,49646,926,164,5
 2021-02-20,Sutter,101,8766,94,0,0
@@ -220,7 +220,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-19,Shasta,089,10868,172,34,1
 2021-02-19,Sierra,091,99,0,1,0
 2021-02-19,Siskiyou,093,1701,13,6,0
-2021-02-19,Solano,095,29766,161,76,5
+2021-02-19,Solano,095,29766,160,76,4
 2021-02-19,Sonoma,097,27473,291,59,0
 2021-02-19,Stanislaus,099,49482,921,132,5
 2021-02-19,Sutter,101,8766,94,22,0
