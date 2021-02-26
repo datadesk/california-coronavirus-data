@@ -255,7 +255,7 @@ Some dates are missing because the state did not publish a press release for tha
 | `vaccine_doses_distributed`    | integer | The total number of vaccine doses available in the state.                                                                                                                                                    |
 | `source_url`                   | string  | The URL to the state press release.                                                                                                                                                                          |
 
-### [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
+### [cdph-population-race-ethnicity.csv](./cdph-population-race-ethnicity.csv)
 
 The breakdown of the population by race and ethnicity statewide and in each of the 58 counties, as provided by the California Department of Public Health.
 
