@@ -21,6 +21,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-age.csv](#cdph-agecsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-state-totals.csv](#cdph-state-totalscsv)
+- [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
 - [cdph-positive-test-rate.csv](#cdph-positive-test-ratecsv)
 - [cdph-race-ethnicity.csv](#cdph-race-ethnicitycsv)
 - [cdph-regional-stay-home-metrics.csv](#cdph-regional-stay-home-metricscsv)
@@ -254,6 +255,24 @@ Some dates are missing because the state did not publish a press release for tha
 | `vaccine_doses_administered`   | integer | The total number of vaccine doses given out.                                                                                                                                                                 |
 | `vaccine_doses_distributed`    | integer | The total number of vaccine doses available in the state.                                                                                                                                                    |
 | `source_url`                   | string  | The URL to the state press release.                                                                                                                                                                          |
+
+### [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
+
+The breakdown of the population by race and ethnicity statewide and in each of the 58 counties, as provided by the California Department of Public Health.
+
+| field                    | type    | description                                                                                                                                                                          |
+| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `county`                 | string  | The name of the county. The state of California also included as a row.                                                                                                              |
+| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `aian`                   | float   | The percentage of people in the area who are American Indian or Alaska Native                                                                                                        |
+| `asian`                  | float   | The percentage of people in the area who are Asian                                                                                                                                   |
+| `black`                  | float   | The percentage of people in the area who are Black                                                                                                                                   |
+| `latino`                 | float   | The percentage of people in the area who are Latino                                                                                                                                  |
+| `multirace`              | float   | The percentage of people in the area who are multirace                                                                                                                               |
+| `nhpi`                   | float   | The percentage of people in the area who are Native Hawaiian or Pacific Islander                                                                                                     |
+| `other`                  | float   | The percentage of people in the area who are of another race                                                                                                                         |
+| `unknown`                | float   | The percentage of people in the area who are of unknown race                                                                                                                         |
+| `white`                  | float   | The percentage of people in the area who are white                                                                                                                                   |
 
 ### [cdph-positive-test-rate.csv](./cdph-positive-test-rate.csv)
 
