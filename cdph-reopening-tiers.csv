@@ -7,7 +7,7 @@ date,county,fips,tier
 2021-03-02,Colusa,011,1
 2021-03-02,Contra Costa,013,1
 2021-03-02,Del Norte,015,2
-2021-03-02,El Dorado,017,1
+2021-03-02,El Dorado,017,2
 2021-03-02,Fresno,019,1
 2021-03-02,Glenn,021,1
 2021-03-02,Humboldt,023,2
@@ -16,17 +16,17 @@ date,county,fips,tier
 2021-03-02,Kern,029,1
 2021-03-02,Kings,031,1
 2021-03-02,Lake,033,1
-2021-03-02,Lassen,035,1
+2021-03-02,Lassen,035,2
 2021-03-02,Los Angeles,037,1
 2021-03-02,Madera,039,1
 2021-03-02,Marin,041,2
 2021-03-02,Mariposa,043,2
 2021-03-02,Mendocino,045,1
 2021-03-02,Merced,047,1
-2021-03-02,Modoc,049,1
+2021-03-02,Modoc,049,2
 2021-03-02,Mono,051,1
 2021-03-02,Monterey,053,1
-2021-03-02,Napa,055,1
+2021-03-02,Napa,055,2
 2021-03-02,Nevada,057,1
 2021-03-02,Orange,059,1
 2021-03-02,Placer,061,1
@@ -36,12 +36,12 @@ date,county,fips,tier
 2021-03-02,San Benito,069,1
 2021-03-02,San Bernardino,071,1
 2021-03-02,San Diego,073,1
-2021-03-02,San Francisco,075,1
+2021-03-02,San Francisco,075,2
 2021-03-02,San Joaquin,077,1
-2021-03-02,San Luis Obispo,079,1
+2021-03-02,San Luis Obispo,079,2
 2021-03-02,San Mateo,081,2
 2021-03-02,Santa Barbara,083,1
-2021-03-02,Santa Clara,085,1
+2021-03-02,Santa Clara,085,2
 2021-03-02,Santa Cruz,087,1
 2021-03-02,Shasta,089,2
 2021-03-02,Sierra,091,3
