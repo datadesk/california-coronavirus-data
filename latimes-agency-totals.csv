@@ -1,7 +1,7 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
 Alameda,Alameda,001,2021-03-05,77862,1250,,
 Berkeley,Alameda,001,2021-03-05,3306,35,,
-Alpine,Alpine,003,2021-03-05,84,0,83,True
+Alpine,Alpine,003,2021-03-05,84,0,83,
 Amador,Amador,005,2021-03-05,3455,41,3369,
 Butte,Butte,007,2021-03-05,10837,169,10556,
 Calaveras,Calaveras,009,2021-03-05,1928,49,1838,
