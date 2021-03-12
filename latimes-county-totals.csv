@@ -19,7 +19,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-10,Lassen,035,5629,24,0,0
 2021-03-10,Los Angeles,037,1206740,22216,1413,112
 2021-03-10,Madera,039,15636,222,4,0
-2021-03-10,Marin,041,13406,200,18,1
+2021-03-10,Marin,041,13406,198,18,0
 2021-03-10,Mariposa,043,396,7,0,0
 2021-03-10,Mendocino,045,3863,44,9,0
 2021-03-10,Merced,047,29643,417,43,1
@@ -77,7 +77,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-09,Lassen,035,5629,24,0,0
 2021-03-09,Los Angeles,037,1205327,22104,1258,63
 2021-03-09,Madera,039,15632,222,18,8
-2021-03-09,Marin,041,13388,199,6,0
+2021-03-09,Marin,041,13388,198,6,0
 2021-03-09,Mariposa,043,396,7,0,0
 2021-03-09,Mendocino,045,3854,44,9,0
 2021-03-09,Merced,047,29600,416,43,1
@@ -135,7 +135,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-08,Lassen,035,5629,24,0,0
 2021-03-08,Los Angeles,037,1204069,22041,917,12
 2021-03-08,Madera,039,15614,214,74,0
-2021-03-08,Marin,041,13382,199,14,0
+2021-03-08,Marin,041,13382,198,14,0
 2021-03-08,Mariposa,043,396,7,1,0
 2021-03-08,Mendocino,045,3845,44,3,0
 2021-03-08,Merced,047,29557,415,181,2
@@ -193,7 +193,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-07,Lassen,035,5629,24,6,0
 2021-03-07,Los Angeles,037,1203152,22029,1284,14
 2021-03-07,Madera,039,15540,214,0,0
-2021-03-07,Marin,041,13368,199,10,1
+2021-03-07,Marin,041,13368,198,10,0
 2021-03-07,Mariposa,043,395,7,0,0
 2021-03-07,Mendocino,045,3842,44,3,0
 2021-03-07,Merced,047,29376,413,0,0
