@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2021-03-13,78613,1289,,
+Berkeley,Alameda,001,2021-03-13,3356,36,,
+Alpine,Alpine,003,2021-03-13,85,0,84,True
+Amador,Amador,005,2021-03-13,3471,44,3396,True
+Butte,Butte,007,2021-03-13,10912,170,10699,True
+Calaveras,Calaveras,009,2021-03-13,1944,50,1883,True
+Colusa,Colusa,011,2021-03-13,2155,14,2115,True
+Contra Costa,Contra Costa,013,2021-03-13,63830,716,62029,True
+Del Norte,Del Norte,015,2021-03-13,1056,5,1010,True
+El Dorado,El Dorado,017,2021-03-13,9277,105,8935,True
+Fresno,Fresno,019,2021-03-13,97185,1534,,
+Glenn,Glenn,021,2021-03-13,2214,23,2150,True
+Humboldt,Humboldt,023,2021-03-13,3349,34,3189,True
+Imperial,Imperial,025,2021-03-13,26749,681,25963,True
+Inyo,Inyo,027,2021-03-13,1362,37,1300,True
+Kern,Kern,029,2021-03-13,104814,987,37486,
+Kings,Kings,031,2021-03-13,22353,235,14394,
+Lake,Lake,033,2021-03-13,3207,42,3123,True
+Lassen,Lassen,035,2021-03-13,5629,25,5573,True
+Long Beach,Los Angeles,037,2021-03-13,51621,885,49267,True
+Los Angeles,Los Angeles,037,2021-03-13,1147014,21237,,
+Pasadena,Los Angeles,037,2021-03-13,11026,327,,
+Madera,Madera,039,2021-03-13,15667,222,14936,True
+Marin,Marin,041,2021-03-13,13445,198,12963,
+Mariposa,Mariposa,043,2021-03-13,396,7,387,True
+Mendocino,Mendocino,045,2021-03-13,3873,45,3784,True
+Merced,Merced,047,2021-03-13,29796,421,28530,True
+Modoc,Modoc,049,2021-03-13,463,4,451,True
+Mono,Mono,051,2021-03-13,1225,4,,True
+Monterey,Monterey,053,2021-03-13,42575,336,42424,
+Napa,Napa,055,2021-03-13,9161,72,,True
+Nevada,Nevada,057,2021-03-13,4097,74,3951,True
+Orange,Orange,059,2021-03-13,248561,4434,238961,
+Placer,Placer,061,2021-03-13,20273,232,19484,True
+Plumas,Plumas,063,2021-03-13,660,6,646,True
+Riverside,Riverside,065,2021-03-13,291866,3971,282886,True
+Sacramento,Sacramento,067,2021-03-13,95088,1541,91064,True
+San Benito,San Benito,069,2021-03-13,5776,61,5683,
+San Bernardino,San Bernardino,071,2021-03-13,288599,3359,283451,
+San Diego,San Diego,073,2021-03-13,265273,3444,,
+San Francisco,San Francisco,075,2021-03-13,34527,445,,
+San Joaquin,San Joaquin,077,2021-03-13,67817,1210,65202,True
+San Luis Obispo,San Luis Obispo,079,2021-03-13,20041,251,19453,True
+San Mateo,San Mateo,081,2021-03-13,39393,534,,
+Santa Barbara,Santa Barbara,083,2021-03-13,32595,428,31938,
+Santa Clara,Santa Clara,085,2021-03-13,112602,1858,,
+Santa Cruz,Santa Cruz,087,2021-03-13,15023,193,14554,True
+Shasta,Shasta,089,2021-03-13,11170,190,10873,True
+Sierra,Sierra,091,2021-03-13,100,0,100,True
+Siskiyou,Siskiyou,093,2021-03-13,1831,14,1787,True
+Solano,Solano,095,2021-03-13,30517,177,30059,True
+Sonoma,Sonoma,097,2021-03-13,28666,306,26345,
+Stanislaus,Stanislaus,099,2021-03-13,51663,969,49910,
+Sutter,Sutter,101,2021-03-13,8977,99,8899,True
+Tehama,Tehama,103,2021-03-13,5160,53,5054,
+Trinity,Trinity,105,2021-03-13,377,5,367,True
+Tulare,Tulare,107,2021-03-13,48550,784,46812,True
+Tuolumne,Tuolumne,109,2021-03-13,3991,59,2500,True
+Ventura,Ventura,111,2021-03-13,78713,925,77300,
+Yolo,Yolo,113,2021-03-13,12919,190,12571,True
+Yuba,Yuba,115,2021-03-13,5854,40,5767,True
 Alameda,Alameda,001,2021-03-12,78514,1289,,
 Berkeley,Alameda,001,2021-03-12,3352,36,,
 Alpine,Alpine,003,2021-03-12,85,0,84,True
@@ -22,7 +83,7 @@ Long Beach,Los Angeles,037,2021-03-12,51600,882,49220,
 Los Angeles,Los Angeles,037,2021-03-12,1146331,21198,,
 Pasadena,Los Angeles,037,2021-03-12,11018,327,,
 Madera,Madera,039,2021-03-12,15667,222,14936,
-Marin,Marin,041,2021-03-12,13434,198,12633,
+Marin,Marin,041,2021-03-12,13434,198,12951,
 Mariposa,Mariposa,043,2021-03-12,396,7,387,
 Mendocino,Mendocino,045,2021-03-12,3871,45,3774,
 Merced,Merced,047,2021-03-12,29796,421,28530,
