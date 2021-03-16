@@ -15,7 +15,7 @@ date,county,fips,tier
 2021-03-16,Inyo,027,1
 2021-03-16,Kern,029,1
 2021-03-16,Kings,031,1
-2021-03-16,Lake,033,1
+2021-03-16,Lake,033,2
 2021-03-16,Lassen,035,2
 2021-03-16,Los Angeles,037,2
 2021-03-16,Madera,039,1
@@ -25,22 +25,22 @@ date,county,fips,tier
 2021-03-16,Merced,047,1
 2021-03-16,Modoc,049,2
 2021-03-16,Mono,051,2
-2021-03-16,Monterey,053,1
+2021-03-16,Monterey,053,2
 2021-03-16,Napa,055,2
 2021-03-16,Nevada,057,1
 2021-03-16,Orange,059,2
 2021-03-16,Placer,061,2
 2021-03-16,Plumas,063,3
-2021-03-16,Riverside,065,1
-2021-03-16,Sacramento,067,1
+2021-03-16,Riverside,065,2
+2021-03-16,Sacramento,067,2
 2021-03-16,San Benito,069,2
 2021-03-16,San Bernardino,071,2
-2021-03-16,San Diego,073,1
+2021-03-16,San Diego,073,2
 2021-03-16,San Francisco,075,2
 2021-03-16,San Joaquin,077,1
 2021-03-16,San Luis Obispo,079,2
-2021-03-16,San Mateo,081,2
-2021-03-16,Santa Barbara,083,1
+2021-03-16,San Mateo,081,3
+2021-03-16,Santa Barbara,083,2
 2021-03-16,Santa Clara,085,2
 2021-03-16,Santa Cruz,087,2
 2021-03-16,Shasta,089,2
@@ -49,12 +49,12 @@ date,county,fips,tier
 2021-03-16,Solano,095,2
 2021-03-16,Sonoma,097,2
 2021-03-16,Stanislaus,099,1
-2021-03-16,Sutter,101,1
-2021-03-16,Tehama,103,1
+2021-03-16,Sutter,101,2
+2021-03-16,Tehama,103,2
 2021-03-16,Trinity,105,2
-2021-03-16,Tulare,107,1
+2021-03-16,Tulare,107,2
 2021-03-16,Tuolumne,109,2
-2021-03-16,Ventura,111,1
+2021-03-16,Ventura,111,2
 2021-03-16,Yolo,113,2
 2021-03-16,Yuba,115,1
 2021-03-15,Alameda,001,2
