@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-03-14,Alameda,001,82034,1329,65,4
+2021-03-14,Alameda,001,82034,1328,65,3
 2021-03-14,Alpine,003,85,0,0,0
 2021-03-14,Amador,005,3472,44,1,0
 2021-03-14,Butte,007,10912,170,0,0
@@ -17,7 +17,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-14,Kings,031,22378,235,25,0
 2021-03-14,Lake,033,3213,43,6,1
 2021-03-14,Lassen,035,5629,25,0,0
-2021-03-14,Los Angeles,037,1210265,22474,604,25
+2021-03-14,Los Angeles,037,1210270,22474,609,25
 2021-03-14,Madera,039,15667,222,0,0
 2021-03-14,Marin,041,13450,198,5,0
 2021-03-14,Mariposa,043,396,7,0,0

@@ -1,5 +1,5 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
-Alameda,Alameda,001,2021-03-14,78673,1293,,
+Alameda,Alameda,001,2021-03-14,78673,1292,,
 Berkeley,Alameda,001,2021-03-14,3361,36,,
 Alpine,Alpine,003,2021-03-14,85,0,84,True
 Amador,Amador,005,2021-03-14,3472,44,3404,
@@ -20,7 +20,7 @@ Lake,Lake,033,2021-03-14,3213,43,3128,
 Lassen,Lassen,035,2021-03-14,5629,25,5577,
 Long Beach,Los Angeles,037,2021-03-14,51621,885,49267,True
 Los Angeles,Los Angeles,037,2021-03-14,1147618,21262,,
-Pasadena,Los Angeles,037,2021-03-14,11026,327,,
+Pasadena,Los Angeles,037,2021-03-14,11031,327,,
 Madera,Madera,039,2021-03-14,15667,222,14936,True
 Marin,Marin,041,2021-03-14,13450,198,12988,
 Mariposa,Mariposa,043,2021-03-14,396,7,387,True
