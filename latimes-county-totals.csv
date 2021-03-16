@@ -36,7 +36,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-15,San Benito,069,5788,61,6,0
 2021-03-15,San Bernardino,071,288868,3512,81,50
 2021-03-15,San Diego,073,265649,3452,178,0
-2021-03-15,San Francisco,075,34583,446,56,1
+2021-03-15,San Francisco,075,34573,446,46,1
 2021-03-15,San Joaquin,077,67817,1210,0,0
 2021-03-15,San Luis Obispo,079,20078,253,37,2
 2021-03-15,San Mateo,081,39448,534,55,0
