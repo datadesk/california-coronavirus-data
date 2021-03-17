@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2021-03-16,78794,1294,,
+Berkeley,Alameda,001,2021-03-16,3374,36,,
+Alpine,Alpine,003,2021-03-16,85,0,84,True
+Amador,Amador,005,2021-03-16,3478,44,3412,
+Butte,Butte,007,2021-03-16,10937,171,10706,
+Calaveras,Calaveras,009,2021-03-16,1951,50,1890,
+Colusa,Colusa,011,2021-03-16,2155,14,2124,
+Contra Costa,Contra Costa,013,2021-03-16,64203,724,62429,
+Del Norte,Del Norte,015,2021-03-16,1069,5,1031,
+El Dorado,El Dorado,017,2021-03-16,9305,107,8989,
+Fresno,Fresno,019,2021-03-16,97520,1535,,
+Glenn,Glenn,021,2021-03-16,2219,23,2151,
+Humboldt,Humboldt,023,2021-03-16,3383,34,3257,
+Imperial,Imperial,025,2021-03-16,26815,686,26043,
+Inyo,Inyo,027,2021-03-16,1369,37,1320,
+Kern,Kern,029,2021-03-16,105020,993,37570,
+Kings,Kings,031,2021-03-16,22408,235,,
+Lake,Lake,033,2021-03-16,3224,43,3148,
+Lassen,Lassen,035,2021-03-16,5632,25,5589,
+Long Beach,Los Angeles,037,2021-03-16,51666,887,49363,
+Los Angeles,Los Angeles,037,2021-03-16,1148259,21307,,
+Pasadena,Los Angeles,037,2021-03-16,11036,327,,
+Madera,Madera,039,2021-03-16,15737,226,15052,
+Marin,Marin,041,2021-03-16,13462,198,13017,True
+Mariposa,Mariposa,043,2021-03-16,399,7,389,
+Mendocino,Mendocino,045,2021-03-16,3881,45,3799,
+Merced,Merced,047,2021-03-16,29979,423,28752,
+Modoc,Modoc,049,2021-03-16,464,4,458,
+Mono,Mono,051,2021-03-16,1233,4,,
+Monterey,Monterey,053,2021-03-16,42628,337,42504,
+Napa,Napa,055,2021-03-16,9191,73,,
+Nevada,Nevada,057,2021-03-16,4136,74,3981,
+Orange,Orange,059,2021-03-16,248904,4486,239857,
+Placer,Placer,061,2021-03-16,20394,237,19590,
+Plumas,Plumas,063,2021-03-16,662,6,651,True
+Riverside,Riverside,065,2021-03-16,292403,4011,284290,
+Sacramento,Sacramento,067,2021-03-16,95556,1551,91667,
+San Benito,San Benito,069,2021-03-16,5794,61,5703,
+San Bernardino,San Bernardino,071,2021-03-16,288932,3531,283890,
+San Diego,San Diego,073,2021-03-16,265906,3462,,
+San Francisco,San Francisco,075,2021-03-16,34573,446,,True
+San Joaquin,San Joaquin,077,2021-03-16,68036,1212,65389,
+San Luis Obispo,San Luis Obispo,079,2021-03-16,20115,253,19572,
+San Mateo,San Mateo,081,2021-03-16,39480,536,,
+Santa Barbara,Santa Barbara,083,2021-03-16,32669,430,32057,
+Santa Clara,Santa Clara,085,2021-03-16,112909,1876,,
+Santa Cruz,Santa Cruz,087,2021-03-16,15101,196,14640,
+Shasta,Shasta,089,2021-03-16,11158,194,10858,
+Sierra,Sierra,091,2021-03-16,101,0,100,
+Siskiyou,Siskiyou,093,2021-03-16,1837,14,1806,
+Solano,Solano,095,2021-03-16,30624,177,30238,
+Sonoma,Sonoma,097,2021-03-16,28784,308,27019,
+Stanislaus,Stanislaus,099,2021-03-16,51748,974,50093,
+Sutter,Sutter,101,2021-03-16,9006,100,8938,
+Tehama,Tehama,103,2021-03-16,5180,53,5056,
+Trinity,Trinity,105,2021-03-16,378,5,368,True
+Tulare,Tulare,107,2021-03-16,48649,787,47173,
+Tuolumne,Tuolumne,109,2021-03-16,3995,59,2510,
+Ventura,Ventura,111,2021-03-16,78871,934,,
+Yolo,Yolo,113,2021-03-16,13029,190,12665,
+Yuba,Yuba,115,2021-03-16,5888,40,5806,
 Alameda,Alameda,001,2021-03-15,78684,1292,,
 Berkeley,Alameda,001,2021-03-15,3362,36,,
 Alpine,Alpine,003,2021-03-15,85,0,84,True
@@ -46,7 +107,7 @@ San Mateo,San Mateo,081,2021-03-15,39448,534,,
 Santa Barbara,Santa Barbara,083,2021-03-15,32634,429,32006,
 Santa Clara,Santa Clara,085,2021-03-15,112794,1869,,
 Santa Cruz,Santa Cruz,087,2021-03-15,15080,196,14606,
-Shasta,Shasta,089,2021-03-15,11192,192,10889,
+Shasta,Shasta,089,2021-03-15,11158,192,10858,
 Sierra,Sierra,091,2021-03-15,101,0,100,
 Siskiyou,Siskiyou,093,2021-03-15,1835,14,1789,
 Solano,Solano,095,2021-03-15,30581,177,30193,
@@ -107,7 +168,7 @@ San Mateo,San Mateo,081,2021-03-14,39393,534,,True
 Santa Barbara,Santa Barbara,083,2021-03-14,32621,428,31973,
 Santa Clara,Santa Clara,085,2021-03-14,112712,1858,,
 Santa Cruz,Santa Cruz,087,2021-03-14,15023,193,14554,True
-Shasta,Shasta,089,2021-03-14,11170,190,10873,True
+Shasta,Shasta,089,2021-03-14,11158,190,10858,True
 Sierra,Sierra,091,2021-03-14,100,0,100,True
 Siskiyou,Siskiyou,093,2021-03-14,1831,14,1787,True
 Solano,Solano,095,2021-03-14,30517,177,30059,True
@@ -168,7 +229,7 @@ San Mateo,San Mateo,081,2021-03-13,39393,534,,
 Santa Barbara,Santa Barbara,083,2021-03-13,32595,428,31938,
 Santa Clara,Santa Clara,085,2021-03-13,112602,1858,,
 Santa Cruz,Santa Cruz,087,2021-03-13,15023,193,14554,True
-Shasta,Shasta,089,2021-03-13,11170,190,10873,True
+Shasta,Shasta,089,2021-03-13,11158,190,10858,True
 Sierra,Sierra,091,2021-03-13,100,0,100,True
 Siskiyou,Siskiyou,093,2021-03-13,1831,14,1787,True
 Solano,Solano,095,2021-03-13,30517,177,30059,True
@@ -229,7 +290,7 @@ San Mateo,San Mateo,081,2021-03-12,39349,534,,
 Santa Barbara,Santa Barbara,083,2021-03-12,32573,428,31890,
 Santa Clara,Santa Clara,085,2021-03-12,112470,1858,,
 Santa Cruz,Santa Cruz,087,2021-03-12,15023,193,14554,
-Shasta,Shasta,089,2021-03-12,11170,190,10873,
+Shasta,Shasta,089,2021-03-12,11158,190,10858,
 Sierra,Sierra,091,2021-03-12,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-12,1831,14,1787,
 Solano,Solano,095,2021-03-12,30517,177,30059,
@@ -290,7 +351,7 @@ San Mateo,San Mateo,081,2021-03-11,39290,528,,True
 Santa Barbara,Santa Barbara,083,2021-03-11,32519,426,31848,
 Santa Clara,Santa Clara,085,2021-03-11,112325,1836,,
 Santa Cruz,Santa Cruz,087,2021-03-11,14982,192,14506,
-Shasta,Shasta,089,2021-03-11,11163,188,10865,
+Shasta,Shasta,089,2021-03-11,11158,188,10858,
 Sierra,Sierra,091,2021-03-11,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-11,1826,14,1778,
 Solano,Solano,095,2021-03-11,30488,177,29996,
