@@ -14596,7 +14596,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-15,Ventura,111,1358,1567,1,122
 2021-03-15,Yolo,113,295,305,2,41
 2021-03-15,Yuba,115,42,82,0,2
-2021-03-16,Alameda,001,2156,3134,9,214
+2021-03-16,Alameda,001,2156,3136,9,214
 2021-03-16,Amador,005,31,63,0,19
 2021-03-16,Butte,007,410,628,3,48
 2021-03-16,Calaveras,009,22,58,0,1
@@ -14613,7 +14613,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-16,Kings,031,187,181,0,25
 2021-03-16,Lake,033,104,144,0,13
 2021-03-16,Lassen,035,16,34,0,2
-2021-03-16,Los Angeles,037,21883,27427,118,3548
+2021-03-16,Los Angeles,037,21883,27429,118,3548
 2021-03-16,Madera,039,211,309,0,25
 2021-03-16,Marin,041,453,511,2,51
 2021-03-16,Mariposa,043,1,0,0,0
@@ -14622,7 +14622,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-16,Modoc,049,48,47,0,2
 2021-03-16,Monterey,053,531,641,0,63
 2021-03-16,Napa,055,228,199,4,27
-2021-03-16,Nevada,057,172,228,0,49
+2021-03-16,Nevada,057,182,228,0,49
 2021-03-16,Orange,059,5855,7110,23,734
 2021-03-16,Placer,061,495,878,4,53
 2021-03-16,Plumas,063,2,1,0,1
@@ -14630,15 +14630,15 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-16,Sacramento,067,2402,3380,6,217
 2021-03-16,San Benito,069,32,18,1,3
 2021-03-16,San Bernardino,071,3300,4270,12,339
-2021-03-16,San Diego,073,5351,6419,14,554
+2021-03-16,San Diego,073,5379,6438,14,556
 2021-03-16,San Francisco,075,737,929,3,51
 2021-03-16,San Joaquin,077,1667,2348,3,222
-2021-03-16,San Luis Obispo,079,348,425,0,47
+2021-03-16,San Luis Obispo,079,349,425,0,47
 2021-03-16,San Mateo,081,786,1239,5,147
 2021-03-16,Santa Barbara,083,772,720,2,41
 2021-03-16,Santa Clara,085,2635,3220,11,295
 2021-03-16,Santa Cruz,087,343,593,0,77
-2021-03-16,Shasta,089,518,479,1,60
+2021-03-16,Shasta,089,519,479,1,60
 2021-03-16,Sierra,091,1,0,0,0
 2021-03-16,Siskiyou,093,1,1,0,0
 2021-03-16,Solano,095,358,564,1,38
@@ -14652,7 +14652,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-16,Ventura,111,1358,1567,1,122
 2021-03-16,Yolo,113,295,305,2,41
 2021-03-16,Yuba,115,42,82,0,2
-2021-03-17,Alameda,001,2156,3134,9,214
+2021-03-17,Alameda,001,2156,3136,9,214
 2021-03-17,Amador,005,31,63,0,19
 2021-03-17,Butte,007,410,628,3,48
 2021-03-17,Calaveras,009,22,58,0,1
@@ -14669,7 +14669,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-17,Kings,031,187,181,0,25
 2021-03-17,Lake,033,104,144,0,13
 2021-03-17,Lassen,035,16,34,0,2
-2021-03-17,Los Angeles,037,21883,27427,118,3548
+2021-03-17,Los Angeles,037,21883,27429,118,3548
 2021-03-17,Madera,039,211,309,0,25
 2021-03-17,Marin,041,453,511,2,51
 2021-03-17,Mariposa,043,1,0,0,0
@@ -14678,7 +14678,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-17,Modoc,049,48,47,0,2
 2021-03-17,Monterey,053,531,641,0,63
 2021-03-17,Napa,055,228,199,4,27
-2021-03-17,Nevada,057,172,228,0,49
+2021-03-17,Nevada,057,182,228,0,49
 2021-03-17,Orange,059,5855,7110,23,734
 2021-03-17,Placer,061,495,878,4,53
 2021-03-17,Plumas,063,2,1,0,1
@@ -14686,15 +14686,15 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-17,Sacramento,067,2402,3380,6,217
 2021-03-17,San Benito,069,32,18,1,3
 2021-03-17,San Bernardino,071,3300,4270,12,339
-2021-03-17,San Diego,073,5351,6419,14,554
+2021-03-17,San Diego,073,5379,6438,14,556
 2021-03-17,San Francisco,075,737,929,3,51
 2021-03-17,San Joaquin,077,1667,2348,3,222
-2021-03-17,San Luis Obispo,079,348,425,0,47
+2021-03-17,San Luis Obispo,079,349,425,0,47
 2021-03-17,San Mateo,081,786,1239,5,147
 2021-03-17,Santa Barbara,083,772,720,2,41
 2021-03-17,Santa Clara,085,2636,3220,11,295
 2021-03-17,Santa Cruz,087,343,593,0,77
-2021-03-17,Shasta,089,518,479,1,60
+2021-03-17,Shasta,089,519,479,1,60
 2021-03-17,Sierra,091,1,0,0,0
 2021-03-17,Siskiyou,093,1,1,0,0
 2021-03-17,Solano,095,358,564,1,38
