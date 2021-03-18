@@ -44,9 +44,9 @@ San Joaquin,San Joaquin,077,2021-03-16,68036,1212,65389,
 San Luis Obispo,San Luis Obispo,079,2021-03-16,20115,253,19572,
 San Mateo,San Mateo,081,2021-03-16,39480,536,,
 Santa Barbara,Santa Barbara,083,2021-03-16,32669,430,32057,
-Santa Clara,Santa Clara,085,2021-03-16,112909,1876,,
+Santa Clara,Santa Clara,085,2021-03-16,112909,1875,,
 Santa Cruz,Santa Cruz,087,2021-03-16,15101,196,14640,
-Shasta,Shasta,089,2021-03-16,11158,194,10858,
+Shasta,Shasta,089,2021-03-16,11084,194,10816,
 Sierra,Sierra,091,2021-03-16,101,0,100,
 Siskiyou,Siskiyou,093,2021-03-16,1837,14,1806,
 Solano,Solano,095,2021-03-16,30624,177,30238,
@@ -107,7 +107,7 @@ San Mateo,San Mateo,081,2021-03-15,39448,534,,
 Santa Barbara,Santa Barbara,083,2021-03-15,32634,429,32006,
 Santa Clara,Santa Clara,085,2021-03-15,112794,1869,,
 Santa Cruz,Santa Cruz,087,2021-03-15,15080,196,14606,
-Shasta,Shasta,089,2021-03-15,11158,192,10858,
+Shasta,Shasta,089,2021-03-15,11084,192,10816,
 Sierra,Sierra,091,2021-03-15,101,0,100,
 Siskiyou,Siskiyou,093,2021-03-15,1835,14,1789,
 Solano,Solano,095,2021-03-15,30581,177,30193,
@@ -168,7 +168,7 @@ San Mateo,San Mateo,081,2021-03-14,39393,534,,True
 Santa Barbara,Santa Barbara,083,2021-03-14,32621,428,31973,
 Santa Clara,Santa Clara,085,2021-03-14,112712,1858,,
 Santa Cruz,Santa Cruz,087,2021-03-14,15023,193,14554,True
-Shasta,Shasta,089,2021-03-14,11158,190,10858,True
+Shasta,Shasta,089,2021-03-14,11084,190,10816,True
 Sierra,Sierra,091,2021-03-14,100,0,100,True
 Siskiyou,Siskiyou,093,2021-03-14,1831,14,1787,True
 Solano,Solano,095,2021-03-14,30517,177,30059,True
@@ -229,7 +229,7 @@ San Mateo,San Mateo,081,2021-03-13,39393,534,,
 Santa Barbara,Santa Barbara,083,2021-03-13,32595,428,31938,
 Santa Clara,Santa Clara,085,2021-03-13,112602,1858,,
 Santa Cruz,Santa Cruz,087,2021-03-13,15023,193,14554,True
-Shasta,Shasta,089,2021-03-13,11158,190,10858,True
+Shasta,Shasta,089,2021-03-13,11084,190,10816,True
 Sierra,Sierra,091,2021-03-13,100,0,100,True
 Siskiyou,Siskiyou,093,2021-03-13,1831,14,1787,True
 Solano,Solano,095,2021-03-13,30517,177,30059,True
@@ -290,7 +290,7 @@ San Mateo,San Mateo,081,2021-03-12,39349,534,,
 Santa Barbara,Santa Barbara,083,2021-03-12,32573,428,31890,
 Santa Clara,Santa Clara,085,2021-03-12,112470,1858,,
 Santa Cruz,Santa Cruz,087,2021-03-12,15023,193,14554,
-Shasta,Shasta,089,2021-03-12,11158,190,10858,
+Shasta,Shasta,089,2021-03-12,11084,190,10816,
 Sierra,Sierra,091,2021-03-12,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-12,1831,14,1787,
 Solano,Solano,095,2021-03-12,30517,177,30059,
@@ -351,7 +351,7 @@ San Mateo,San Mateo,081,2021-03-11,39290,528,,True
 Santa Barbara,Santa Barbara,083,2021-03-11,32519,426,31848,
 Santa Clara,Santa Clara,085,2021-03-11,112325,1836,,
 Santa Cruz,Santa Cruz,087,2021-03-11,14982,192,14506,
-Shasta,Shasta,089,2021-03-11,11158,188,10858,
+Shasta,Shasta,089,2021-03-11,11084,188,10816,
 Sierra,Sierra,091,2021-03-11,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-11,1826,14,1778,
 Solano,Solano,095,2021-03-11,30488,177,29996,
@@ -412,7 +412,7 @@ San Mateo,San Mateo,081,2021-03-10,39290,528,,
 Santa Barbara,Santa Barbara,083,2021-03-10,32474,425,31795,
 Santa Clara,Santa Clara,085,2021-03-10,112174,1835,,
 Santa Cruz,Santa Cruz,087,2021-03-10,14937,191,14454,
-Shasta,Shasta,089,2021-03-10,11149,182,10851,
+Shasta,Shasta,089,2021-03-10,11084,182,10816,
 Sierra,Sierra,091,2021-03-10,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-10,1823,14,1768,
 Solano,Solano,095,2021-03-10,30453,177,29980,
@@ -473,7 +473,7 @@ San Mateo,San Mateo,081,2021-03-09,39184,525,,True
 Santa Barbara,Santa Barbara,083,2021-03-09,32436,424,31761,
 Santa Clara,Santa Clara,085,2021-03-09,112036,1830,,
 Santa Cruz,Santa Cruz,087,2021-03-09,14908,187,14427,
-Shasta,Shasta,089,2021-03-09,11149,179,10851,
+Shasta,Shasta,089,2021-03-09,11084,179,10816,
 Sierra,Sierra,091,2021-03-09,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-09,1815,14,1755,
 Solano,Solano,095,2021-03-09,30425,171,29950,
@@ -534,7 +534,7 @@ San Mateo,San Mateo,081,2021-03-08,39184,525,,
 Santa Barbara,Santa Barbara,083,2021-03-08,32414,424,31718,
 Santa Clara,Santa Clara,085,2021-03-08,111952,1827,,
 Santa Cruz,Santa Cruz,087,2021-03-08,14863,187,14365,
-Shasta,Shasta,089,2021-03-08,11102,179,10794,True
+Shasta,Shasta,089,2021-03-08,11084,179,10794,True
 Sierra,Sierra,091,2021-03-08,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-08,1804,14,1745,
 Solano,Solano,095,2021-03-08,30404,167,29950,
@@ -595,7 +595,7 @@ San Mateo,San Mateo,081,2021-03-07,39048,525,,True
 Santa Barbara,Santa Barbara,083,2021-03-07,32347,423,31637,
 Santa Clara,Santa Clara,085,2021-03-07,111814,1822,,
 Santa Cruz,Santa Cruz,087,2021-03-07,14790,187,14261,True
-Shasta,Shasta,089,2021-03-07,11102,179,10794,True
+Shasta,Shasta,089,2021-03-07,11084,179,10794,True
 Sierra,Sierra,091,2021-03-07,100,0,100,True
 Siskiyou,Siskiyou,093,2021-03-07,1790,14,1726,True
 Solano,Solano,095,2021-03-07,30305,167,29832,True
@@ -656,7 +656,7 @@ San Mateo,San Mateo,081,2021-03-06,39048,525,,
 Santa Barbara,Santa Barbara,083,2021-03-06,32301,423,31584,
 Santa Clara,Santa Clara,085,2021-03-06,111638,1822,,
 Santa Cruz,Santa Cruz,087,2021-03-06,14790,187,14261,True
-Shasta,Shasta,089,2021-03-06,11102,179,10794,True
+Shasta,Shasta,089,2021-03-06,11084,179,10794,True
 Sierra,Sierra,091,2021-03-06,100,0,100,True
 Siskiyou,Siskiyou,093,2021-03-06,1790,14,1726,True
 Solano,Solano,095,2021-03-06,30305,167,29832,True
@@ -717,7 +717,7 @@ San Mateo,San Mateo,081,2021-03-05,39010,525,,
 Santa Barbara,Santa Barbara,083,2021-03-05,32267,422,31523,
 Santa Clara,Santa Clara,085,2021-03-05,111460,1822,,
 Santa Cruz,Santa Cruz,087,2021-03-05,14790,187,14261,
-Shasta,Shasta,089,2021-03-05,11102,179,10794,
+Shasta,Shasta,089,2021-03-05,11084,179,10794,
 Sierra,Sierra,091,2021-03-05,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-05,1790,14,1726,
 Solano,Solano,095,2021-03-05,30305,167,29832,
@@ -778,7 +778,7 @@ San Mateo,San Mateo,081,2021-03-04,38959,521,,
 Santa Barbara,Santa Barbara,083,2021-03-04,32219,421,31440,
 Santa Clara,Santa Clara,085,2021-03-04,111281,1820,,
 Santa Cruz,Santa Cruz,087,2021-03-04,14760,187,14233,
-Shasta,Shasta,089,2021-03-04,11086,179,10783,
+Shasta,Shasta,089,2021-03-04,11084,179,10783,
 Sierra,Sierra,091,2021-03-04,100,0,100,
 Siskiyou,Siskiyou,093,2021-03-04,1786,14,1720,
 Solano,Solano,095,2021-03-04,30262,165,29789,
