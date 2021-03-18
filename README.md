@@ -28,6 +28,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-reopening-metrics.csv](#cdph-reopening-metricscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
 - [cdph-vaccination-county-totals.csv](#cdph-vaccination-county-totalscsv)
+- [cdph-vaccination-state-totals.csv](#cdph-vaccination-state-totalscsv)
 
 ### Nursing homes
 
@@ -349,15 +350,26 @@ This file records the current tier of each county by day. The definition for eac
 
 ### [cdph-vaccination-county-totals.csv](./cdph-vaccination-county-totals.csv)
 
-California's Department of Public Health is releasing [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) via a Tableau dashboard. Our team extracts and logs the data each day.
+California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) via a Tableau dashboard. Our team extracts and logs the data each day.
 
 | field                        | type    | description                                                                                                                                                                          |
 | ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `date`                       | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                   |
-| `county`                     | string  | The name of the county.                                                                                                                                                               |
+| `date`                       | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `county`                     | string  | The name of the county.                                                                                                                                                              |
 | `fips`                       | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `doses_administered`         | integer | The total number of doses given as of this `date`.                                                                                                                                   |
 | `new_doses_administered`     | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
+
+### [cdph-vaccination-state-totals.csv](./cdph-vaccination-state-totals.csv)
+
+California's Department of Public Health is releasing [state-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) via a Tableau dashboard. Our team extracts and logs the data each day.
+
+| field                        | type    | description                                                                                                                                                                          |
+| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                       | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `doses_administered`         | integer | The total number of doses given as of this `date`.                                                                                                                                   |
+| `new_doses_administered`     | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
+| `doses_delivered`            | integer | The number of doses delivered to the state for use as of this `date`.                                                                                                                |
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-residential-care-facilities.csv)
 
