@@ -13,13 +13,13 @@ date,county,fips,tier
 2021-03-23,Humboldt,023,2
 2021-03-23,Imperial,025,2
 2021-03-23,Inyo,027,1
-2021-03-23,Kern,029,1
+2021-03-23,Kern,029,2
 2021-03-23,Kings,031,1
 2021-03-23,Lake,033,2
-2021-03-23,Lassen,035,2
+2021-03-23,Lassen,035,3
 2021-03-23,Los Angeles,037,2
 2021-03-23,Madera,039,1
-2021-03-23,Marin,041,2
+2021-03-23,Marin,041,3
 2021-03-23,Mariposa,043,3
 2021-03-23,Mendocino,045,2
 2021-03-23,Merced,047,1
@@ -27,7 +27,7 @@ date,county,fips,tier
 2021-03-23,Mono,051,2
 2021-03-23,Monterey,053,2
 2021-03-23,Napa,055,2
-2021-03-23,Nevada,057,1
+2021-03-23,Nevada,057,2
 2021-03-23,Orange,059,2
 2021-03-23,Placer,061,2
 2021-03-23,Plumas,063,3
@@ -36,26 +36,26 @@ date,county,fips,tier
 2021-03-23,San Benito,069,2
 2021-03-23,San Bernardino,071,2
 2021-03-23,San Diego,073,2
-2021-03-23,San Francisco,075,2
+2021-03-23,San Francisco,075,3
 2021-03-23,San Joaquin,077,1
 2021-03-23,San Luis Obispo,079,2
 2021-03-23,San Mateo,081,3
 2021-03-23,Santa Barbara,083,2
-2021-03-23,Santa Clara,085,2
+2021-03-23,Santa Clara,085,3
 2021-03-23,Santa Cruz,087,2
 2021-03-23,Shasta,089,2
-2021-03-23,Sierra,091,3
+2021-03-23,Sierra,091,4
 2021-03-23,Siskiyou,093,2
 2021-03-23,Solano,095,2
 2021-03-23,Sonoma,097,2
-2021-03-23,Stanislaus,099,1
+2021-03-23,Stanislaus,099,2
 2021-03-23,Sutter,101,2
 2021-03-23,Tehama,103,2
-2021-03-23,Trinity,105,2
+2021-03-23,Trinity,105,3
 2021-03-23,Tulare,107,2
 2021-03-23,Tuolumne,109,2
 2021-03-23,Ventura,111,2
-2021-03-23,Yolo,113,2
+2021-03-23,Yolo,113,3
 2021-03-23,Yuba,115,1
 2021-03-22,Alameda,001,2
 2021-03-22,Alpine,003,4
