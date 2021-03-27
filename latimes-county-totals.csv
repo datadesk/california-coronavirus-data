@@ -40,7 +40,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-25,San Joaquin,077,69295,1244,108,0
 2021-03-25,San Luis Obispo,079,20354,253,45,0
 2021-03-25,San Mateo,081,39992,544,57,0
-2021-03-25,Santa Barbara,083,32982,436,49,0
+2021-03-25,Santa Barbara,083,32982,435,49,-1
 2021-03-25,Santa Clara,085,113929,1934,115,18
 2021-03-25,Santa Cruz,087,15264,200,6,0
 2021-03-25,Shasta,089,11319,200,12,0
