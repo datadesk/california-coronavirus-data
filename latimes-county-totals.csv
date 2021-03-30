@@ -19,7 +19,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-28,Lassen,035,5649,24,0,0
 2021-03-28,Los Angeles,037,1218229,23077,454,0
 2021-03-28,Madera,039,15862,231,0,0
-2021-03-28,Marin,041,13657,204,11,1
+2021-03-28,Marin,041,13657,203,11,0
 2021-03-28,Mariposa,043,408,7,0,0
 2021-03-28,Mendocino,045,3935,46,0,0
 2021-03-28,Merced,047,30419,434,0,0
