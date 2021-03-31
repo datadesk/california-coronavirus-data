@@ -15380,7 +15380,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-29,Ventura,111,1360,1568,1,125
 2021-03-29,Yolo,113,296,305,2,41
 2021-03-29,Yuba,115,42,82,0,2
-2021-03-30,Alameda,001,2195,3154,9,214
+2021-03-30,Alameda,001,2195,3155,9,214
 2021-03-30,Amador,005,31,63,0,19
 2021-03-30,Butte,007,411,628,3,48
 2021-03-30,Calaveras,009,22,58,0,1
@@ -15411,10 +15411,10 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-30,Placer,061,497,879,139,53
 2021-03-30,Plumas,063,2,1,0,1
 2021-03-30,Riverside,065,3585,4722,16,353
-2021-03-30,Sacramento,067,2424,3402,6,220
+2021-03-30,Sacramento,067,2424,3404,6,220
 2021-03-30,San Benito,069,32,18,1,3
 2021-03-30,San Bernardino,071,3303,4272,12,339
-2021-03-30,San Diego,073,5394,6450,14,556
+2021-03-30,San Diego,073,5395,6451,14,556
 2021-03-30,San Francisco,075,738,931,3,51
 2021-03-30,San Joaquin,077,1668,2358,3,222
 2021-03-30,San Luis Obispo,079,351,428,0,47
@@ -15422,7 +15422,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-30,Santa Barbara,083,775,720,2,41
 2021-03-30,Santa Clara,085,2704,3266,11,297
 2021-03-30,Santa Cruz,087,343,593,0,77
-2021-03-30,Shasta,089,523,483,1,60
+2021-03-30,Shasta,089,524,483,1,60
 2021-03-30,Sierra,091,1,0,0,0
 2021-03-30,Siskiyou,093,1,1,0,0
 2021-03-30,Solano,095,358,564,1,38
@@ -15436,7 +15436,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-30,Ventura,111,1360,1568,1,125
 2021-03-30,Yolo,113,296,305,2,41
 2021-03-30,Yuba,115,42,82,0,2
-2021-03-31,Alameda,001,2195,3154,9,214
+2021-03-31,Alameda,001,2195,3155,9,214
 2021-03-31,Amador,005,31,63,0,19
 2021-03-31,Butte,007,411,628,3,48
 2021-03-31,Calaveras,009,22,58,0,1
@@ -15467,10 +15467,10 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-31,Placer,061,497,879,139,53
 2021-03-31,Plumas,063,2,1,0,1
 2021-03-31,Riverside,065,3585,4722,16,353
-2021-03-31,Sacramento,067,2424,3402,6,220
+2021-03-31,Sacramento,067,2424,3404,6,220
 2021-03-31,San Benito,069,32,18,1,3
 2021-03-31,San Bernardino,071,3303,4272,12,339
-2021-03-31,San Diego,073,5394,6450,14,556
+2021-03-31,San Diego,073,5395,6451,14,556
 2021-03-31,San Francisco,075,738,931,3,51
 2021-03-31,San Joaquin,077,1668,2358,3,222
 2021-03-31,San Luis Obispo,079,351,428,0,47
@@ -15478,7 +15478,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-31,Santa Barbara,083,775,720,2,41
 2021-03-31,Santa Clara,085,2704,3266,11,297
 2021-03-31,Santa Cruz,087,343,593,0,77
-2021-03-31,Shasta,089,523,483,1,60
+2021-03-31,Shasta,089,524,483,1,60
 2021-03-31,Sierra,091,1,0,0,0
 2021-03-31,Siskiyou,093,1,1,0,0
 2021-03-31,Solano,095,358,564,1,38
