@@ -6,7 +6,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-30,Calaveras,009,2009,51,3,0
 2021-03-30,Colusa,011,2165,16,1,0
 2021-03-30,Contra Costa,013,65303,754,73,0
-2021-03-30,Del Norte,015,1149,6,11,1
+2021-03-30,Del Norte,015,1149,5,11,0
 2021-03-30,El Dorado,017,9447,107,6,0
 2021-03-30,Fresno,019,99085,1593,81,1
 2021-03-30,Glenn,021,2258,25,1,0
@@ -43,7 +43,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-30,Santa Barbara,083,33134,438,29,2
 2021-03-30,Santa Clara,085,114482,1940,84,3
 2021-03-30,Santa Cruz,087,15363,200,9,0
-2021-03-30,Shasta,089,11389,204,24,0
+2021-03-30,Shasta,089,11353,204,0,0
 2021-03-30,Sierra,091,106,0,2,0
 2021-03-30,Siskiyou,093,1878,16,3,0
 2021-03-30,Solano,095,31165,197,44,0
@@ -101,7 +101,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-29,Santa Barbara,083,33105,436,28,1
 2021-03-29,Santa Clara,085,114398,1937,104,3
 2021-03-29,Santa Cruz,087,15354,200,48,0
-2021-03-29,Shasta,089,11365,204,32,2
+2021-03-29,Shasta,089,11353,204,20,2
 2021-03-29,Sierra,091,104,0,0,0
 2021-03-29,Siskiyou,093,1875,16,5,1
 2021-03-29,Solano,095,31121,197,112,6
