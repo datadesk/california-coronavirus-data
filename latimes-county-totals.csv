@@ -37,7 +37,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-31,San Bernardino,071,290954,4011,151,11
 2021-03-31,San Diego,073,270287,3555,290,0
 2021-03-31,San Francisco,075,35083,463,18,0
-2021-03-31,San Joaquin,077,69846,1301,50,23
+2021-03-31,San Joaquin,077,69846,1300,50,22
 2021-03-31,San Luis Obispo,079,20505,256,30,1
 2021-03-31,San Mateo,081,40385,547,48,0
 2021-03-31,Santa Barbara,083,33174,439,40,1
@@ -55,7 +55,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-31,Tulare,107,49054,811,15,2
 2021-03-31,Tuolumne,109,4036,62,2,0
 2021-03-31,Ventura,111,79668,981,47,7
-2021-03-31,Yolo,113,13238,198,8,2
+2021-03-31,Yolo,113,13221,198,0,2
 2021-03-31,Yuba,115,5999,40,16,0
 2021-03-30,Alameda,001,83298,1401,55,2
 2021-03-30,Alpine,003,88,0,0,0
@@ -113,7 +113,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-03-30,Tulare,107,49039,809,34,0
 2021-03-30,Tuolumne,109,4034,62,3,0
 2021-03-30,Ventura,111,79621,974,33,2
-2021-03-30,Yolo,113,13230,196,12,0
+2021-03-30,Yolo,113,13221,196,3,0
 2021-03-30,Yuba,115,5983,40,2,0
 2021-03-29,Alameda,001,83243,1399,338,4
 2021-03-29,Alpine,003,88,0,2,0
