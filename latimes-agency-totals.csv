@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2021-04-05,80399,1388,,
+Berkeley,Alameda,001,2021-04-05,3465,38,,
+Alpine,Alpine,003,2021-04-05,88,0,87,
+Amador,Amador,005,2021-04-05,3552,45,3462,
+Butte,Butte,007,2021-04-05,11176,178,10914,
+Calaveras,Calaveras,009,2021-04-05,2023,51,1954,
+Colusa,Colusa,011,2021-04-05,2170,16,2141,
+Contra Costa,Contra Costa,013,2021-04-05,65718,760,64139,
+Del Norte,Del Norte,015,2021-04-05,1229,5,1168,
+El Dorado,El Dorado,017,2021-04-05,9514,108,9171,
+Fresno,Fresno,019,2021-04-05,99702,1597,,
+Glenn,Glenn,021,2021-04-05,2276,25,2219,
+Humboldt,Humboldt,023,2021-04-05,3501,36,3417,
+Imperial,Imperial,025,2021-04-05,27283,715,26399,
+Inyo,Inyo,027,2021-04-05,1402,38,1360,
+Kern,Kern,029,2021-04-05,106480,1291,38128,
+Kings,Kings,031,2021-04-05,22669,241,17755,
+Lake,Lake,033,2021-04-05,3327,43,3249,
+Lassen,Lassen,035,2021-04-05,5656,24,5627,
+Long Beach,Los Angeles,037,2021-04-05,52322,914,49997,
+Los Angeles,Los Angeles,037,2021-04-05,1159003,22027,,
+Pasadena,Los Angeles,037,2021-04-05,11154,335,,
+Madera,Madera,039,2021-04-05,15976,234,15446,
+Marin,Marin,041,2021-04-05,13730,203,13342,
+Mariposa,Mariposa,043,2021-04-05,411,7,401,
+Mendocino,Mendocino,045,2021-04-05,3958,46,3891,
+Merced,Merced,047,2021-04-05,30906,442,29794,
+Modoc,Modoc,049,2021-04-05,479,4,470,
+Mono,Mono,051,2021-04-05,1268,4,,True
+Monterey,Monterey,053,2021-04-05,43002,342,42875,
+Napa,Napa,055,2021-04-05,9499,78,,
+Nevada,Nevada,057,2021-04-05,4352,74,4156,
+Orange,Orange,059,2021-04-05,251310,4772,243435,
+Placer,Placer,061,2021-04-05,21188,277,20377,
+Plumas,Plumas,063,2021-04-05,686,6,673,
+Riverside,Riverside,065,2021-04-05,295426,4389,288842,
+Sacramento,Sacramento,067,2021-04-05,98848,1617,94644,
+San Benito,San Benito,069,2021-04-05,5891,62,5788,
+San Bernardino,San Bernardino,071,2021-04-05,291727,4128,286385,
+San Diego,San Diego,073,2021-04-05,271654,3583,,
+San Francisco,San Francisco,075,2021-04-05,35312,482,,
+San Joaquin,San Joaquin,077,2021-04-05,70245,1313,67718,
+San Luis Obispo,San Luis Obispo,079,2021-04-05,20606,256,20106,
+San Mateo,San Mateo,081,2021-04-05,40595,553,,
+Santa Barbara,Santa Barbara,083,2021-04-05,33358,440,32722,
+Santa Clara,Santa Clara,085,2021-04-05,115171,1961,,
+Santa Cruz,Santa Cruz,087,2021-04-05,15247,200,14872,
+Shasta,Shasta,089,2021-04-05,11463,208,11113,
+Sierra,Sierra,091,2021-04-05,106,0,104,
+Siskiyou,Siskiyou,093,2021-04-05,1888,16,1861,
+Solano,Solano,095,2021-04-05,31401,203,30886,
+Sonoma,Sonoma,097,2021-04-05,29372,309,28452,
+Stanislaus,Stanislaus,099,2021-04-05,53074,1004,51471,
+Sutter,Sutter,101,2021-04-05,9197,102,9036,
+Tehama,Tehama,103,2021-04-05,5324,54,5204,True
+Trinity,Trinity,105,2021-04-05,393,5,382,
+Tulare,Tulare,107,2021-04-05,49129,813,47998,
+Tuolumne,Tuolumne,109,2021-04-05,4044,62,2554,
+Ventura,Ventura,111,2021-04-05,79820,986,78546,
+Yolo,Yolo,113,2021-04-05,13314,198,12972,
+Yuba,Yuba,115,2021-04-05,6041,40,5941,
 Alameda,Alameda,001,2021-04-04,80318,1388,,
 Berkeley,Alameda,001,2021-04-04,3462,38,,
 Alpine,Alpine,003,2021-04-04,88,0,87,True
@@ -45,7 +106,7 @@ San Luis Obispo,San Luis Obispo,079,2021-04-04,20547,256,20072,True
 San Mateo,San Mateo,081,2021-04-04,40542,553,,True
 Santa Barbara,Santa Barbara,083,2021-04-04,33297,440,32667,True
 Santa Clara,Santa Clara,085,2021-04-04,115057,1949,,
-Santa Cruz,Santa Cruz,087,2021-04-04,15363,200,14975,True
+Santa Cruz,Santa Cruz,087,2021-04-04,15247,200,14872,True
 Shasta,Shasta,089,2021-04-04,11399,208,11080,True
 Sierra,Sierra,091,2021-04-04,106,0,104,True
 Siskiyou,Siskiyou,093,2021-04-04,1885,16,1851,True
@@ -106,7 +167,7 @@ San Luis Obispo,San Luis Obispo,079,2021-04-03,20547,256,20072,True
 San Mateo,San Mateo,081,2021-04-03,40542,553,,
 Santa Barbara,Santa Barbara,083,2021-04-03,33297,440,32667,
 Santa Clara,Santa Clara,085,2021-04-03,114947,1949,,
-Santa Cruz,Santa Cruz,087,2021-04-03,15363,200,14975,True
+Santa Cruz,Santa Cruz,087,2021-04-03,15247,200,14872,True
 Shasta,Shasta,089,2021-04-03,11399,208,11080,True
 Sierra,Sierra,091,2021-04-03,106,0,104,True
 Siskiyou,Siskiyou,093,2021-04-03,1885,16,1851,True
@@ -167,7 +228,7 @@ San Luis Obispo,San Luis Obispo,079,2021-04-02,20547,256,20072,
 San Mateo,San Mateo,081,2021-04-02,40462,553,,
 Santa Barbara,Santa Barbara,083,2021-04-02,33270,440,32625,
 Santa Clara,Santa Clara,085,2021-04-02,114852,1949,,
-Santa Cruz,Santa Cruz,087,2021-04-02,15363,200,14975,True
+Santa Cruz,Santa Cruz,087,2021-04-02,15247,200,14872,True
 Shasta,Shasta,089,2021-04-02,11399,208,11080,
 Sierra,Sierra,091,2021-04-02,106,0,104,
 Siskiyou,Siskiyou,093,2021-04-02,1885,16,1851,
@@ -228,7 +289,7 @@ San Luis Obispo,San Luis Obispo,079,2021-04-01,20522,256,20053,
 San Mateo,San Mateo,081,2021-04-01,40424,547,,
 Santa Barbara,Santa Barbara,083,2021-04-01,33217,439,32576,
 Santa Clara,Santa Clara,085,2021-04-01,114683,1942,,
-Santa Cruz,Santa Cruz,087,2021-04-01,15363,200,14975,
+Santa Cruz,Santa Cruz,087,2021-04-01,15247,200,14872,
 Shasta,Shasta,089,2021-04-01,11381,207,11067,
 Sierra,Sierra,091,2021-04-01,106,0,104,
 Siskiyou,Siskiyou,093,2021-04-01,1881,16,1845,
@@ -289,7 +350,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-31,20505,256,19990,
 San Mateo,San Mateo,081,2021-03-31,40385,547,,
 Santa Barbara,Santa Barbara,083,2021-03-31,33174,439,32530,
 Santa Clara,Santa Clara,085,2021-03-31,114570,1942,,
-Santa Cruz,Santa Cruz,087,2021-03-31,15363,200,14975,True
+Santa Cruz,Santa Cruz,087,2021-03-31,15247,200,14872,True
 Shasta,Shasta,089,2021-03-31,11353,207,11040,
 Sierra,Sierra,091,2021-03-31,106,0,104,
 Siskiyou,Siskiyou,093,2021-03-31,1878,16,1844,True
@@ -350,7 +411,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-30,20475,255,19981,
 San Mateo,San Mateo,081,2021-03-30,40337,547,,
 Santa Barbara,Santa Barbara,083,2021-03-30,33134,438,32504,
 Santa Clara,Santa Clara,085,2021-03-30,114482,1940,,
-Santa Cruz,Santa Cruz,087,2021-03-30,15363,200,14975,
+Santa Cruz,Santa Cruz,087,2021-03-30,15247,200,14872,
 Shasta,Shasta,089,2021-03-30,11353,204,11040,
 Sierra,Sierra,091,2021-03-30,106,0,103,
 Siskiyou,Siskiyou,093,2021-03-30,1878,16,1844,
@@ -411,7 +472,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-29,20433,255,19961,
 San Mateo,San Mateo,081,2021-03-29,40290,547,,
 Santa Barbara,Santa Barbara,083,2021-03-29,33105,436,32474,
 Santa Clara,Santa Clara,085,2021-03-29,114398,1937,,
-Santa Cruz,Santa Cruz,087,2021-03-29,15354,200,14956,
+Santa Cruz,Santa Cruz,087,2021-03-29,15247,200,14872,
 Shasta,Shasta,089,2021-03-29,11353,204,11040,
 Sierra,Sierra,091,2021-03-29,104,0,103,
 Siskiyou,Siskiyou,093,2021-03-29,1875,16,1837,
@@ -472,7 +533,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-28,20402,255,19884,True
 San Mateo,San Mateo,081,2021-03-28,40186,547,,True
 Santa Barbara,Santa Barbara,083,2021-03-28,33077,435,32433,
 Santa Clara,Santa Clara,085,2021-03-28,114294,1934,,
-Santa Cruz,Santa Cruz,087,2021-03-28,15306,200,14908,True
+Santa Cruz,Santa Cruz,087,2021-03-28,15247,200,14872,True
 Shasta,Shasta,089,2021-03-28,11333,202,11040,True
 Sierra,Sierra,091,2021-03-28,104,0,102,True
 Siskiyou,Siskiyou,093,2021-03-28,1870,15,1835,True
@@ -533,7 +594,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-27,20402,255,19884,True
 San Mateo,San Mateo,081,2021-03-27,40186,547,,
 Santa Barbara,Santa Barbara,083,2021-03-27,33045,435,32407,
 Santa Clara,Santa Clara,085,2021-03-27,114183,1934,,
-Santa Cruz,Santa Cruz,087,2021-03-27,15306,200,14908,True
+Santa Cruz,Santa Cruz,087,2021-03-27,15247,200,14872,True
 Shasta,Shasta,089,2021-03-27,11333,202,11040,True
 Sierra,Sierra,091,2021-03-27,104,0,102,True
 Siskiyou,Siskiyou,093,2021-03-27,1870,15,1835,True
@@ -594,7 +655,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-26,20402,255,19884,
 San Mateo,San Mateo,081,2021-03-26,40105,547,,
 Santa Barbara,Santa Barbara,083,2021-03-26,33020,435,32376,
 Santa Clara,Santa Clara,085,2021-03-26,114015,1934,,
-Santa Cruz,Santa Cruz,087,2021-03-26,15306,200,14908,
+Santa Cruz,Santa Cruz,087,2021-03-26,15247,200,14872,
 Shasta,Shasta,089,2021-03-26,11333,202,11040,
 Sierra,Sierra,091,2021-03-26,104,0,102,
 Siskiyou,Siskiyou,093,2021-03-26,1870,15,1835,
@@ -655,7 +716,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-25,20354,253,19861,
 San Mateo,San Mateo,081,2021-03-25,39992,544,,
 Santa Barbara,Santa Barbara,083,2021-03-25,32982,435,32354,
 Santa Clara,Santa Clara,085,2021-03-25,113929,1934,,
-Santa Cruz,Santa Cruz,087,2021-03-25,15264,200,14864,
+Santa Cruz,Santa Cruz,087,2021-03-25,15247,200,14872,
 Shasta,Shasta,089,2021-03-25,11319,200,11040,
 Sierra,Sierra,091,2021-03-25,104,0,101,
 Siskiyou,Siskiyou,093,2021-03-25,1865,15,1833,
@@ -716,7 +777,7 @@ San Luis Obispo,San Luis Obispo,079,2021-03-24,20309,253,19837,
 San Mateo,San Mateo,081,2021-03-24,39935,544,,
 Santa Barbara,Santa Barbara,083,2021-03-24,32933,436,32321,
 Santa Clara,Santa Clara,085,2021-03-24,113814,1916,,
-Santa Cruz,Santa Cruz,087,2021-03-24,15258,200,14856,
+Santa Cruz,Santa Cruz,087,2021-03-24,15247,200,14872,
 Shasta,Shasta,089,2021-03-24,11307,200,11032,
 Sierra,Sierra,091,2021-03-24,104,0,101,
 Siskiyou,Siskiyou,093,2021-03-24,1863,15,1829,
