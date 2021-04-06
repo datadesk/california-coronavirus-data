@@ -5,13 +5,13 @@ date,county,fips,tier
 2021-04-06,Butte,007,3
 2021-04-06,Calaveras,009,2
 2021-04-06,Colusa,011,3
-2021-04-06,Contra Costa,013,2
+2021-04-06,Contra Costa,013,3
 2021-04-06,Del Norte,015,2
-2021-04-06,El Dorado,017,2
+2021-04-06,El Dorado,017,3
 2021-04-06,Fresno,019,2
 2021-04-06,Glenn,021,2
-2021-04-06,Humboldt,023,2
-2021-04-06,Imperial,025,2
+2021-04-06,Humboldt,023,3
+2021-04-06,Imperial,025,3
 2021-04-06,Inyo,027,1
 2021-04-06,Kern,029,2
 2021-04-06,Kings,031,2
@@ -21,23 +21,23 @@ date,county,fips,tier
 2021-04-06,Madera,039,2
 2021-04-06,Marin,041,3
 2021-04-06,Mariposa,043,3
-2021-04-06,Mendocino,045,2
+2021-04-06,Mendocino,045,3
 2021-04-06,Merced,047,1
 2021-04-06,Modoc,049,3
 2021-04-06,Mono,051,2
-2021-04-06,Monterey,053,2
-2021-04-06,Napa,055,2
+2021-04-06,Monterey,053,3
+2021-04-06,Napa,055,3
 2021-04-06,Nevada,057,2
 2021-04-06,Orange,059,3
 2021-04-06,Placer,061,2
 2021-04-06,Plumas,063,3
-2021-04-06,Riverside,065,2
+2021-04-06,Riverside,065,3
 2021-04-06,Sacramento,067,2
-2021-04-06,San Benito,069,2
-2021-04-06,San Bernardino,071,2
-2021-04-06,San Diego,073,2
+2021-04-06,San Benito,069,3
+2021-04-06,San Bernardino,071,3
+2021-04-06,San Diego,073,3
 2021-04-06,San Francisco,075,3
-2021-04-06,San Joaquin,077,1
+2021-04-06,San Joaquin,077,2
 2021-04-06,San Luis Obispo,079,2
 2021-04-06,San Mateo,081,3
 2021-04-06,Santa Barbara,083,2
@@ -45,16 +45,16 @@ date,county,fips,tier
 2021-04-06,Santa Cruz,087,3
 2021-04-06,Shasta,089,2
 2021-04-06,Sierra,091,4
-2021-04-06,Siskiyou,093,2
+2021-04-06,Siskiyou,093,3
 2021-04-06,Solano,095,2
-2021-04-06,Sonoma,097,2
+2021-04-06,Sonoma,097,3
 2021-04-06,Stanislaus,099,2
 2021-04-06,Sutter,101,2
 2021-04-06,Tehama,103,2
 2021-04-06,Trinity,105,3
-2021-04-06,Tulare,107,2
+2021-04-06,Tulare,107,3
 2021-04-06,Tuolumne,109,3
-2021-04-06,Ventura,111,2
+2021-04-06,Ventura,111,3
 2021-04-06,Yolo,113,3
 2021-04-06,Yuba,115,2
 2021-04-05,Alameda,001,3
