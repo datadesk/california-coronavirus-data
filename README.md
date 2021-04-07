@@ -45,6 +45,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 
 ### Other
 
+- [cdc-vaccination-state-totals.csv](#cdc-vaccination-state-totalscsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [los-angeles-countywide-statistical-areas.json](#los-angeles-countywide-statistical-areasjson)
@@ -497,6 +498,23 @@ The total number of cases amoung inmates at prisons run by the California Depart
 | `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                   |
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                         |
 | `active_cases`        | integer | The number of active coronavirus case at that time.                                                 |
+
+### [cdc-vaccination-state-totals.csv](./cdc-vaccination-state-totals.csv)
+
+| field                                   | type    | description                                                                                         |
+| --------------------------------------- | ------- | --------------------------------------------------------------------------------------------------- |
+| `date`                                  | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
+| `county`                                | string  | The name of the state.                                                                              |
+| `population`                            | string  | The number of people who live in the state.                                                         |
+| `doses_distributed`                     | string  | The total numer of doses sent to the state as of that `date`.                                       |
+| `doses_administered`                    | string  | The total numer of shots given out in the state as of that `date`.                                  |
+| `doses_administered_percent`            | string  | The percentage of distributed doses that have been administered as of that `date`.                  |
+| `doses_distributed_per_100k`            | string  | The total numer of doses sent to the state as of that `date` adjusted for population.               |
+| `doses_administered_per_100k`           | string  | The total numer of shots given out in the state as of that `date` adjusted for population.          |
+| `administered_dose1`                    | string  | The number of first doses administered in the state of that `date`.                                 |
+| `administered_dose1_population_percent` | string  | The percentage of people in the state who have received at least one dose as of that `date`.        |
+| `administered_dose2`                    | string  | The number of second doses administered in the state of that `date`.                                |
+| `administered_dose2_population_percent` | string  | The percentage of people in the state who are fully vaccinated as of that `date`.                   |
 
 ### [latimes-beach-closures-area-list.csv](./latimes-beach-closures-area-list.csv)
 
