@@ -1,4 +1,4 @@
-date,county,population,doses_distributed,doses_administered,doses_administered_percent,doses_distributed_per_100k,doses_administered_per_100k,administered_dose1,administered_dose1_population_percent,administered_dose2,administered_dose2_population_percent
+date,state,population,doses_distributed,doses_administered,doses_administered_percent,doses_distributed_per_100k,doses_administered_per_100k,administered_dose1,administered_dose1_population_percent,administered_dose2,administered_dose2_population_percent
 2021-01-13,Alabama,4903185,378975,84040,0.22175605251006,7729.0,1714.0,74792.0,,,
 2021-01-13,New Hampshire,1359711,124300,55218,0.4442316975060338,9142.0,4061.0,12722.0,,,
 2021-01-13,Michigan,9986857,772150,291519,0.3775419283817911,7732.0,2919.0,259119.0,,,
