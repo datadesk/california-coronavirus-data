@@ -370,7 +370,9 @@ California's Department of Public Health is releasing [state-level vaccination t
 | `date`                       | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
 | `doses_administered`         | integer | The total number of doses given as of this `date`.                                                                                                                                   |
 | `new_doses_administered`     | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
-| `doses_delivered`            | integer | The number of doses delivered to the state for use as of this `date`.                                                                                                                |
+| `at_least_one_dose_percent`  | float   | The percentage of the population with at least one dose of any vaccine as of this `date`.                                                                                            |
+| `fully_vaccinated_percent`   | float   | The percentage of the population that is fully vaccinated as of this `date`.                                                                                                         |
+
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-residential-care-facilities.csv)
 
