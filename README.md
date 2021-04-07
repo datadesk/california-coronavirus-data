@@ -504,7 +504,7 @@ The total number of cases amoung inmates at prisons run by the California Depart
 | field                                   | type     | description                                                                                         |
 | --------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- |
 | `date`                                  | date     | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
-| `county`                                | string   | The name of the state.                                                                              |
+| `state`                                 | string   | The name of the state.                                                                              |
 | `population`                            | integer  | The number of people who live in the state.                                                         |
 | `doses_distributed`                     | integer  | The total numer of doses sent to the state as of that `date`.                                       |
 | `doses_administered`                    | integer  | The total numer of shots given out in the state as of that `date`.                                  |
