@@ -43,6 +43,10 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdcr-prison-totals.csv](#cdcr-prison-totalscsv)
 - [cdcr-state-totals.csv](#cdcr-state-totalscsv)
 
+### Schools
+- [school-districts-reopening.csv](#school-districts-reopeningcsv)
+- [charter-schools-reopening.csv](#charters-schools-reopeningcsv)
+
 ### Other
 
 - [cdc-vaccination-state-totals.csv](#cdc-vaccination-state-totalscsv)
@@ -500,6 +504,57 @@ The total number of cases amoung inmates at prisons run by the California Depart
 | `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                   |
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                         |
 | `active_cases`        | integer | The number of active coronavirus case at that time.                                                 |
+
+
+### [school-districts-reopening.csv](./school-distircts-reopening.csv)
+
+Number of students with an option to return to school calculated from combination of data from California Safe Schools For All and California Department of Education. 
+
+| field                       | type    | description                                                                                            |
+| ----------------------------| ------- | -------------------------------------------------------------------------------------------------------|
+| `district`                  | string  | Name of public school district.                                                                        |
+| `enr_total`                 | integer | Total students enrolled in the district.                                                               |
+| `elem_enr`                  | integer | Total students enrolled in grades K-5. Subset of `enr_total`.                                          |
+| `middle_enr`                | integer | Total students enrolled in grades 6-8. Subset of `enr_total`.                                          |
+| `high_enr`                  | integer | Total students enrolled in grades 9-12. Subset of `enr_total`.                                         |
+| `elem_in_school`            | integer | Students in grades K-5 that have the option to participate in an in-person or hybrid learning.         |
+| `middle_in_school`          | integer | Students in grades 6-8 grades that have the option to participate in an in-person or hybrid learning.  |
+| `high_in_school`            | integer | Students in grades 9-12 grades that have the option to participate in an in-person or hybrid learning. |
+| `total_in_school `          | integer | Sum of `elem_in_school`,`middle_in_school` and `high_in_school`.                                       |
+| `reopening_plan`            | string  | Link to district's reopening plan.                                                                     |
+| `operational_status_elem`   | string  | Operational status as of `update_date` for the district's elementary schools.                          |
+| `operational_status_middle` | string  | Operational status as of `update_date` for the district's middle schools.                              |
+| `operational_status_high`   | string  | Operational status as of `update_date` for the district's high schools.                                |
+| `elem_reopening_date`       | date    | Planned reopening date for the district's elementary schools as of `update date`.                      |
+| `middle_reopening_date`     | date    | Planned reopening date for the district's middle schools as of `update date`.                          |
+| `high_reopening_date`       | date    | Planned reopening date for the district's high schools as of `update date`.                            |
+| `near_term_opening_date`    | date    | Earliest planned reopening date for the district as of `update date`.                                  |
+| `update_date`               | date    | The date when the district submitted status report to the state.                                       |
+
+### [charter-schools-reopening.csv](./charter-schools-reopening.csv)
+
+| field                       | type    | description                                                                                            |
+| ----------------------------| ------- | -------------------------------------------------------------------------------------------------------|
+| `cdscode`                   | string  | A 14-digit code unique to the charter school. Assigned by California department of Education           |
+| `district`                  | string  | Name of school district the charter schools is part of.                                                |
+| `school`                    | string  | Name of the charter school.                                                                            |
+| `enr_total`                 | integer | Total students enrolled                                                                                |
+| `elem_enr`                  | integer | Total students enrolled in grades K-5. Subset of `enr_total`.                                          |
+| `middle_enr`                | integer | Total students enrolled in grades 6-8. Subset of `enr_total`.                                          |
+| `high_enr`                  | integer | Total students enrolled in grades 9-12. Subset of `enr_total`.                                         |
+| `elem_in_school`            | integer | Students in grades K-5 that have the option to participate in an in-person or hybrid learning.         |
+| `middle_in_school`          | integer | Students in grades 6-8 grades that have the option to participate in an in-person or hybrid learning.  |
+| `high_in_school`            | integer | Students in grades 9-12 grades that have the option to participate in an in-person or hybrid learning. |
+| `total_in_school `          | integer | Sum of `elem_in_school`,`middle_in_school` and `high_in_school`.                                       |
+| `reopening_plan`            | string  | Link to school's reopening plan.                                                                       |
+| `operational_status_elem`   | string  | Operational status as of `update_date`.                                                                |
+| `operational_status_middle` | string  | Operational status as of `update_date`.                                                                |
+| `operational_status_high`   | string  | Operational status as of `update_date`.                                                                |
+| `elem_reopening_date`       | date    | Planned reopening date as of `update date`.                                                            |
+| `middle_reopening_date`     | date    | Planned reopening date as of `update date`.                                                            |
+| `high_reopening_date`       | date    | Planned reopening date as of `update date`.                                                            |
+| `near_term_opening_date`    | date    | Earliest planned reopening date for the school as of `update date`.                                    |
+| `update_date`               | date    | The date when the charter school submitted status report to the state.                                 |
 
 ### [cdc-vaccination-state-totals.csv](./cdc-vaccination-state-totals.csv)
 
