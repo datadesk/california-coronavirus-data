@@ -49,7 +49,7 @@ Merced,Atwater Elementary,4978.0,4031.0,947.0,0.0,4031.0,947.0,0.0,4978.0,"https
 Placer,Auburn Union Elementary,1723.0,1055.0,668.0,0.0,1055.0,668.0,0.0,1723.0,https://www.auburn.k12.ca.us/index.html,Hybrid,Hybrid,,,,,,,,,,2021-02-09
 Los Angeles,Azusa Unified,7701.0,3776.0,1590.0,2335.0,3776.0,0.0,0.0,3776.0,https://ca50000573.schoolwires.net/domain/572,Distance Learning Only,Distance Learning Only,Distance Learning Only,No,Yes,2021-03-29,No,,No,,,2021-03-17
 San Bernardino,Baker Valley Unified,130.0,59.0,31.0,40.0,59.0,31.0,40.0,130.0,http://www.baker.k12.ca.us/,In-Person,Distance Learning Only,Distance Learning Only,Yes,,,Yes,2021-04-06,Yes,2021-04-06,2021-04-06,2021-03-08
-Kern,Bakersfield City,30793.0,22828.0,7965.0,0.0,0.0,0.0,0.0,0.0,"https://4.files.edl.io/b947/02/24/21/232628-af5c8207-3968-4bfe-ae93-6136a7ace398.pdf
+Kern,Bakersfield City,30793.0,22828.0,7965.0,0.0,22828.0,0.0,0.0,22828.0,"https://4.files.edl.io/b947/02/24/21/232628-af5c8207-3968-4bfe-ae93-6136a7ace398.pdf
 ",Distance Learning Only,Distance Learning Only,,Yes,Yes,2021-04-08,No,,,,2021-04-26,2021-03-08
 Los Angeles,Baldwin Park Unified,12036.0,6207.0,1941.0,3888.0,0.0,0.0,0.0,0.0,,Distance Learning Only,Distance Learning Only,Distance Learning Only,No,No,,No,,No,,,2021-03-08
 Santa Barbara,Ballard Elementary,143.0,143.0,0.0,0.0,143.0,0.0,0.0,143.0,http://ballardschool.org/Library/document/COVID%2019%20Prevention%20Program.pdf,Hybrid,,,,,,,,,,,2021-02-08
@@ -77,7 +77,7 @@ Sonoma,Bennett Valley Union Elementary,999.0,999.0,0.0,0.0,999.0,0.0,0.0,999.0,w
 Alameda,Berkeley Unified,9801.0,4306.0,2187.0,3308.0,4306.0,0.0,0.0,4306.0,,Distance Learning Only,Distance Learning Only,Distance Learning Only,Yes,Yes,2021-03-29,Yes,2021-04-12,Yes,2021-04-19,2021-04-19,2021-03-08
 Santa Clara,Berryessa Union Elementary,6836.0,4497.0,2339.0,0.0,0.0,0.0,0.0,0.0,"https://sites.google.com/busd.net/busdreopening/home/covid-19-safety?authuser=0
 ",Distance Learning Only,Distance Learning Only,,,,,,,,,,2021-02-22
-Los Angeles,Beverly Hills Unified,3560.0,2262.0,0.0,1298.0,2262.0,0.0,0.0,2262.0,https://www.bhusd.org/apps/pages/index.jsp?uREC_ID=1786523&type=d&pREC_ID=2141623,Hybrid,Distance Learning Only,Distance Learning Only,Yes,,,Yes,2021-04-08,Yes,2021-04-08,2021-04-08,2021-03-16
+Los Angeles,Beverly Hills Unified,3560.0,2262.0,0.0,1298.0,2262.0,0.0,1298.0,3560.0,https://www.bhusd.org/apps/pages/index.jsp?uREC_ID=1786523&type=d&pREC_ID=2141623,Hybrid,Distance Learning Only,Distance Learning Only,Yes,,,Yes,2021-04-08,Yes,2021-04-08,2021-04-08,2021-03-16
 Fresno,Big Creek Elementary,47.0,47.0,0.0,0.0,47.0,0.0,0.0,47.0,"www.bigcreekschool.com
 ",Hybrid,Hybrid,,,,,,,,,,2021-02-22
 Humboldt,Big Lagoon Union Elementary,24.0,24.0,0.0,0.0,24.0,0.0,0.0,24.0,https://www.biglagoon.org/,Hybrid,Hybrid,,,,,,,,,,2021-03-08
@@ -345,7 +345,7 @@ Tehama,Gerber Union Elementary,373.0,373.0,0.0,0.0,373.0,0.0,0.0,373.0,gerbersch
 Sonoma,Geyserville Unified,225.0,96.0,56.0,73.0,96.0,56.0,73.0,225.0,,Distance Learning Only,Distance Learning Only,Distance Learning Only,Yes,Yes,2021-04-07,Yes,2021-04-07,Yes,2021-04-07,2021-04-08,2021-03-08
 Santa Clara,Gilroy Unified,10676.0,4227.0,2642.0,3807.0,0.0,0.0,0.0,0.0,,Distance Learning Only,Distance Learning Only,Distance Learning Only,No,No,,No,,No,,,2021-03-15
 Los Angeles,Glendale Unified,25468.0,13221.0,4373.0,7874.0,13221.0,0.0,0.0,13221.0,https://www.gusd.net/Page/14712,Distance Learning Only,Distance Learning Only,Distance Learning Only,No,Yes,2021-03-29,No,,No,,,2021-03-09
-Los Angeles,Glendora Unified,7091.0,2927.0,1751.0,2413.0,2927.0,0.0,0.0,2927.0,https://sites.google.com/glendora.k12.ca.us/gusd-school-reopening-info/home,Hybrid,Distance Learning Only,Distance Learning Only,Yes,,,Yes,2021-04-08,Yes,2021-04-08,2021-04-08,2021-03-08
+Los Angeles,Glendora Unified,7091.0,2927.0,1751.0,2413.0,2927.0,1751.0,2413.0,7091.0,https://sites.google.com/glendora.k12.ca.us/gusd-school-reopening-info/home,Hybrid,Distance Learning Only,Distance Learning Only,Yes,,,Yes,2021-04-08,Yes,2021-04-08,2021-04-08,2021-03-08
 Glenn,Glenn County Office of Education,77.0,28.0,9.0,40.0,0.0,0.0,0.0,0.0,,,,,,,,,,,,,
 El Dorado,Gold Oak Union Elementary,469.0,318.0,151.0,0.0,318.0,151.0,0.0,469.0,https://www.gousd.org/District/1538-Untitled.html,Hybrid,Hybrid,,,,,,,,,,2021-03-08
 El Dorado,Gold Trail Union Elementary,651.0,651.0,0.0,0.0,651.0,0.0,0.0,651.0,"https://www.gtusd.org/District/1566-Untitled.html
@@ -612,7 +612,7 @@ Sonoma,Monte Rio Union Elementary,77.0,77.0,0.0,0.0,0.0,0.0,0.0,0.0,monterioscho
 Los Angeles,Montebello Unified,24324.0,10668.0,5241.0,8415.0,0.0,0.0,0.0,0.0,,Distance Learning Only,Distance Learning Only,Distance Learning Only,Yes,No,,No,,No,,2021-08-16,2021-03-13
 Santa Barbara,Montecito Union Elementary,368.0,368.0,0.0,0.0,368.0,0.0,0.0,368.0,https://www.montecitou.org/298561_2,In-Person,,,,,,,,,,,2021-03-08
 Monterey,Monterey County Office of Education,470.0,182.0,63.0,225.0,0.0,0.0,0.0,0.0,,Distance Learning Only,Distance Learning Only,Distance Learning Only,No,No,,No,,No,,,2021-03-10
-Monterey,Monterey Peninsula Unified,9917.0,4828.0,1955.0,3134.0,0.0,0.0,0.0,0.0,https://www.mpusd.net/apps/pages/index.jsp?uREC_ID=1010158&type=d&pREC_ID=1893995,Distance Learning Only,Distance Learning Only,Distance Learning Only,Yes,Yes,2021-04-08,Yes,2021-04-12,Yes,2021-04-19,2021-04-19,2021-03-08
+Monterey,Monterey Peninsula Unified,9917.0,4828.0,1955.0,3134.0,4828.0,0.0,0.0,4828.0,https://www.mpusd.net/apps/pages/index.jsp?uREC_ID=1010158&type=d&pREC_ID=1893995,Distance Learning Only,Distance Learning Only,Distance Learning Only,Yes,Yes,2021-04-08,Yes,2021-04-12,Yes,2021-04-19,2021-04-19,2021-03-08
 Sonoma,Montgomery Elementary,21.0,21.0,0.0,0.0,21.0,0.0,0.0,21.0,,Distance Learning Only,,,No,Yes,2021-03-29,,,,,,2021-03-08
 Ventura,Moorpark Unified,6115.0,2841.0,1317.0,1957.0,2841.0,1317.0,1957.0,6115.0,mrpk.org,Hybrid,Hybrid,Hybrid,,,,,,,,,2021-03-08
 Contra Costa,Moraga Elementary,1852.0,1179.0,673.0,0.0,1179.0,673.0,0.0,1852.0,http://msd-ca.schoolloop.com/file/1500178971468/1537515136171/4369569593921876813.pdf,Hybrid,Distance Learning Only,,Yes,,,Yes,2021-03-17,,,2021-03-17,2021-03-08
@@ -819,7 +819,7 @@ rvjesd-ca.schoolloop.com
 ",Hybrid,,,,,,,,,,,2021-03-08
 Mendocino,Round Valley Unified,422.0,285.0,0.0,137.0,0.0,0.0,0.0,0.0,roundvalleyschools.org,Distance Learning Only,Distance Learning Only,Distance Learning Only,,,,,,,,,2021-01-27
 Los Angeles,Rowland Unified,13060.0,7744.0,1238.0,4078.0,0.0,0.0,0.0,0.0,,Distance Learning Only,Distance Learning Only,Distance Learning Only,No,No,,No,,No,,,2021-03-08
-Sacramento,Sacramento City Unified,40090.0,23222.0,5177.0,11691.0,0.0,0.0,0.0,0.0,https://returntogether.scusd.edu/sites/main/files/file-attachments/health_and_safety_planv3-10.5a.pdf?1601938977,Distance Learning Only,Distance Learning Only,Distance Learning Only,Yes,Yes,2021-04-08,Yes,2021-05-06,Yes,2021-05-06,2021-05-06,2021-03-08
+Sacramento,Sacramento City Unified,40090.0,23222.0,5177.0,11691.0,23222.0,0.0,0.0,23222.0,https://returntogether.scusd.edu/sites/main/files/file-attachments/health_and_safety_planv3-10.5a.pdf?1601938977,Distance Learning Only,Distance Learning Only,Distance Learning Only,Yes,Yes,2021-04-08,Yes,2021-05-06,Yes,2021-05-06,2021-05-06,2021-03-08
 Sacramento,Sacramento County Office of Education,1022.0,78.0,241.0,703.0,78.0,241.0,0.0,319.0,https://www.scoe.net/media/5eejxzjs/covid_prevention_program.pdf,Hybrid,Hybrid,Distance Learning Only,No,,,,,Yes,2021-04-12,,2021-03-08
 Orange,Saddleback Valley Unified,26275.0,13285.0,3968.0,9022.0,13285.0,3968.0,9022.0,26275.0,https://www.svusd.org/departments/facilities-operations-technology/safety/covid-19,Hybrid,Hybrid,Hybrid,,,,,,,,,2021-03-08
 Napa,Saint Helena Unified,1242.0,505.0,255.0,482.0,505.0,255.0,482.0,1242.0,www.sthelenaunified.org,In-Person,In-Person,In-Person,,,,,,,,,2021-03-10
@@ -942,7 +942,7 @@ San Diego,South Bay Union,4946.0,4946.0,0.0,0.0,0.0,0.0,0.0,0.0,,Distance Learni
 Humboldt,South Bay Union Elementary,396.0,396.0,0.0,0.0,396.0,0.0,0.0,396.0,www.southbayusd.org,Hybrid,,,,,,,,,,,2021-03-08
 Kern,South Fork Union,278.0,278.0,0.0,0.0,278.0,0.0,0.0,278.0, https://5il.co/oxxq,In-Person,In-Person,,,,,,,,,,2021-03-08
 Monterey,South Monterey County Joint Union High,2491.0,0.0,0.0,2491.0,0.0,0.0,0.0,0.0,,,,Distance Learning Only,No,,,,,No,,,2021-03-09
-Los Angeles,South Pasadena Unified,4836.0,2196.0,1213.0,1427.0,2196.0,0.0,0.0,2196.0,http://bit.ly/SPUSD-CSP,In-Person,Distance Learning Only,Distance Learning Only,Yes,,,Yes,2021-04-08,Yes,2021-04-15,2021-04-15,2021-03-18
+Los Angeles,South Pasadena Unified,4836.0,2196.0,1213.0,1427.0,2196.0,1213.0,0.0,3409.0,http://bit.ly/SPUSD-CSP,In-Person,Distance Learning Only,Distance Learning Only,Yes,,,Yes,2021-04-08,Yes,2021-04-15,2021-04-15,2021-03-18
 San Mateo,South San Francisco Unified,8411.0,3845.0,1912.0,2654.0,3845.0,0.0,0.0,3845.0,https://ssfusd-ca.schoolloop.com/news/view?d=x&id=1614768220741,Distance Learning Only,Distance Learning Only,Distance Learning Only,No,Yes,2021-04-06,No,,No,,,2021-03-09
 Los Angeles,South Whittier Elementary,2609.0,1987.0,622.0,0.0,0.0,0.0,0.0,0.0,"https://www.swhittier.k12.ca.us/
 https://www.swhittier.k12.ca.us/apps/pages/index.jsp?uREC_ID=1678741&type=d&pREC_ID=1831337",Distance Learning Only,Distance Learning Only,,No,No,,No,,,,,2021-03-08
