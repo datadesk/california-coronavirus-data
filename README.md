@@ -536,7 +536,7 @@ The total number of cases amoung inmates at prisons run by the California Depart
 
 ### [school-districts-reopening.csv](./school-distircts-reopening.csv)
 
-Number of students with an option to return to school calculated from combination of data from California Safe Schools For All and California Department of Education. 
+Number of students with an option to return to school districts calculated from combination of data from California Safe Schools For All and California Department of Education. 
 
 | field                       | type    | description                                                                                            |
 | ----------------------------| ------- | -------------------------------------------------------------------------------------------------------|
@@ -560,6 +560,8 @@ Number of students with an option to return to school calculated from combinatio
 | `update_date`               | date    | The date when the district submitted status report to the state.                                       |
 
 ### [charter-schools-reopening.csv](./charter-schools-reopening.csv)
+
+Number of students with an option to return to individual charter schools calculated from combination of data from California Safe Schools For All and California Department of Education. 
 
 | field                       | type    | description                                                                                            |
 | ----------------------------| ------- | -------------------------------------------------------------------------------------------------------|
