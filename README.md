@@ -598,12 +598,10 @@ State-level vaccination totals derived from the dashboard published by the U.S. 
 | `doses_distributed`                     | integer  | The total numer of doses sent to the state as of that `date`.                                       |
 | `doses_administered`                    | integer  | The total numer of shots given out in the state as of that `date`.                                  |
 | `doses_administered_percent`            | float    | The percentage of distributed doses that have been administered as of that `date`.                  |
-| `doses_distributed_per_100k`            | float    | The total numer of doses sent to the state as of that `date` adjusted for population.               |
-| `doses_administered_per_100k`           | float    | The total numer of shots given out in the state as of that `date` adjusted for population.          |
 | `administered_dose1`                    | integer  | The number of first doses administered in the state of that `date`.                                 |
-| `administered_dose1_population_percent` | float    | The percentage of people in the state who have received at least one dose as of that `date`.        |
+| `administered_dose1_percent`            | float    | The percentage of people in the state who have received at least one dose as of that `date`.        |
 | `administered_dose2`                    | integer  | The number of second doses administered in the state of that `date`.                                |
-| `administered_dose2_population_percent` | float    | The percentage of people in the state who are fully vaccinated as of that `date`.                   |
+| `administered_dose2_percent`            | float    | The percentage of people in the state who are fully vaccinated as of that `date`.                   |
 
 ### [latimes-beach-closures-area-list.csv](./latimes-beach-closures-area-list.csv)
 
@@ -627,7 +625,6 @@ The county-level restrictions on beach access, compiled by the Los Angeles Times
 | `fips`        | string | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources. |
 | `status`      | string | A Times classification of the current level of restriction in this county                                                                                                              |
 | `restriction` | string | A description of the current level of restriction in this county                                                                                                                       |
-
 
 ### [los-angeles-countywide-statistical-areas.json](./los-angeles-countywide-statistical-areas.json)
 
