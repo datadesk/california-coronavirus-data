@@ -357,13 +357,29 @@ This file records the current tier of each county by day. The definition for eac
 
 California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) via a Tableau dashboard. Our team extracts and logs the data each day.
 
-| field                        | type    | description                                                                                                                                                                          |
-| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `date`                       | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
-| `county`                     | string  | The name of the county.                                                                                                                                                              |
-| `fips`                       | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
-| `doses_administered`         | integer | The total number of doses given as of this `date`.                                                                                                                                   |
-| `new_doses_administered`     | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
+| field                         | type    | description                                                                                                                                                                          |
+| ----------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                        | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `county`                      | string  | The name of the county.                                                                                                                                                              |
+| `fips`                        | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `population`                  | integer | The number of people who live in the county.                                                                                                                                         |
+| `doses_administered`          | integer | The total number of doses given as of this `date`.                                                                                                                                   |
+| `new_doses_administered`      | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
+| `pfizer_doses`                | integer | The total number of Pfizer doses given as of this `date`.                                                                                                                            |
+| `new_pfizer_doses`            | integer | The number of new Pfizer doses compared to the previous `date`.                                                                                                                      |
+| `moderna_doses`               | integer | The total number of Moderna doses given as of this `date`.                                                                                                                           |
+| `new_moderna_doses`           | integer | The number of new Moderna doses compared to the previous `date`.                                                                                                                     |
+| `jj_doses`                    | integer | The total number of Johnson & Johnson doses given as of this `date`.                                                                                                                 |
+| `new_jj_doses`                | integer | The number of new Johnson & Johnson doses compared to the previous `date`.                                                                                                           |
+| `partially_vaccinated`        | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
+| `new_partially_vaccinated`    | integer | The number of new partially vaccinated people compared to the previous `date`.                                                                                                       |
+| `at_least_one_dose`           | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
+| `new_at_least_one_dose`       | integer | The number of new people who have received at least one dose any vaccine compared to the previous `date`.                                                                            |
+| `fully_vaccinated`            | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
+| `new_fully_vaccinated`        | integer | The number of new fully vaccinated people compared to the previous `date`.                                                                                                           |
+| `partially_vaccinated_percent`| float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
+| `at_least_one_dose_percent`   | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
+| `fully_vaccinated_percent`    | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
 
 ### [cdph-vaccination-state-totals.csv](./cdph-vaccination-state-totals.csv)
 
@@ -372,11 +388,23 @@ California's Department of Public Health is releasing [state-level vaccination t
 | field                        | type    | description                                                                                                                                                                          |
 | ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `date`                       | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
-| `doses_administered`         | integer | The total number of doses given as of this `date`.                                                                                                                                   |
-| `new_doses_administered`     | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
-| `at_least_one_dose_percent`  | float   | The percentage of the population with at least one dose of any vaccine as of this `date`.                                                                                            |
-| `fully_vaccinated_percent`   | float   | The percentage of the population that is fully vaccinated as of this `date`.                                                                                                         |
-
+| `doses_administered`          | integer | The total number of doses given as of this `date`.                                                                                                                                   |
+| `new_doses_administered`      | integer | The number of new doses compared to the previous `date`.                                                                                                                             |
+| `pfizer_doses`                | integer | The total number of Pfizer doses given as of this `date`.                                                                                                                            |
+| `new_pfizer_doses`            | integer | The number of new Pfizer doses compared to the previous `date`.                                                                                                                      |
+| `moderna_doses`               | integer | The total number of Moderna doses given as of this `date`.                                                                                                                           |
+| `new_moderna_doses`           | integer | The number of new Moderna doses compared to the previous `date`.                                                                                                                     |
+| `jj_doses`                    | integer | The total number of Johnson & Johnson doses given as of this `date`.                                                                                                                 |
+| `new_jj_doses`                | integer | The number of new Johnson & Johnson doses compared to the previous `date`.                                                                                                           |
+| `partially_vaccinated`        | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
+| `new_partially_vaccinated`    | integer | The number of new partially vaccinated people compared to the previous `date`.                                                                                                       |
+| `at_least_one_dose`           | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
+| `new_at_least_one_dose`       | integer | The number of new people who have received at least one dose any vaccine compared to the previous `date`.                                                                            |
+| `fully_vaccinated`            | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
+| `new_fully_vaccinated`        | integer | The number of new fully vaccinated people compared to the previous `date`.                                                                                                           |
+| `partially_vaccinated_percent`| float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
+| `at_least_one_dose_percent`   | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
+| `fully_vaccinated_percent`    | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-residential-care-facilities.csv)
 
@@ -557,6 +585,8 @@ Number of students with an option to return to school calculated from combinatio
 | `update_date`               | date    | The date when the charter school submitted status report to the state.                                 |
 
 ### [cdc-vaccination-state-totals.csv](./cdc-vaccination-state-totals.csv)
+
+State-level vaccination totals derived from the dashboard published by the U.S. Centers for Disease Control and Prevention.
 
 | field                                   | type     | description                                                                                         |
 | --------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- |
