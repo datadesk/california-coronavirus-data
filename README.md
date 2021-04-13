@@ -595,8 +595,8 @@ State-level vaccination totals derived from the dashboard published by the U.S. 
 | `date`                                  | date     | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
 | `state`                                 | string   | The name of the state.                                                                              |
 | `population`                            | integer  | The number of people who live in the state.                                                         |
-| `doses_distributed`                     | integer  | The total numer of doses sent to the state as of that `date`.                                       |
-| `doses_administered`                    | integer  | The total numer of shots given out in the state as of that `date`.                                  |
+| `doses_distributed`                     | integer  | The total number of doses sent to the state as of that `date`.                                       |
+| `doses_administered`                    | integer  | The total number of shots given out in the state as of that `date`.                                  |
 | `doses_administered_percent`            | float    | The percentage of distributed doses that have been administered as of that `date`.                  |
 | `administered_dose1`                    | integer  | The number of first doses administered in the state of that `date`.                                 |
 | `administered_dose1_percent`            | float    | The percentage of people in the state who have received at least one dose as of that `date`.        |
