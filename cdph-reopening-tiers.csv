@@ -3,18 +3,18 @@ date,county,fips,tier
 2021-04-20,Alpine,003,4
 2021-04-20,Amador,005,2
 2021-04-20,Butte,007,3
-2021-04-20,Calaveras,009,2
+2021-04-20,Calaveras,009,3
 2021-04-20,Colusa,011,3
 2021-04-20,Contra Costa,013,3
 2021-04-20,Del Norte,015,2
 2021-04-20,El Dorado,017,3
-2021-04-20,Fresno,019,2
+2021-04-20,Fresno,019,3
 2021-04-20,Glenn,021,2
 2021-04-20,Humboldt,023,3
 2021-04-20,Imperial,025,3
 2021-04-20,Inyo,027,2
 2021-04-20,Kern,029,3
-2021-04-20,Kings,031,2
+2021-04-20,Kings,031,3
 2021-04-20,Lake,033,3
 2021-04-20,Lassen,035,4
 2021-04-20,Los Angeles,037,3
@@ -24,7 +24,7 @@ date,county,fips,tier
 2021-04-20,Mendocino,045,3
 2021-04-20,Merced,047,2
 2021-04-20,Modoc,049,3
-2021-04-20,Mono,051,2
+2021-04-20,Mono,051,3
 2021-04-20,Monterey,053,3
 2021-04-20,Napa,055,3
 2021-04-20,Nevada,057,2
@@ -40,7 +40,7 @@ date,county,fips,tier
 2021-04-20,San Joaquin,077,2
 2021-04-20,San Luis Obispo,079,2
 2021-04-20,San Mateo,081,3
-2021-04-20,Santa Barbara,083,2
+2021-04-20,Santa Barbara,083,3
 2021-04-20,Santa Clara,085,3
 2021-04-20,Santa Cruz,087,3
 2021-04-20,Shasta,089,2
