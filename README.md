@@ -406,7 +406,7 @@ California's Department of Public Health is releasing [state-level vaccination t
 | `at_least_one_dose_percent`   | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
 | `fully_vaccinated_percent`    | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
 
-### [cdph-adult-and-senior-care-facilities.csv](./cdph-residential-care-facilities.csv)
+### [cdph-adult-and-senior-care-facilities.csv](./cdph-adult-and-senior-care-facilities.csv)
 
 California's Department of Public Health is [listing the residential care facilities for the elderly and adult residential facilities](https://www.cdss.ca.gov/#covid19) across the state with COVID-19 outbreaks.
 
