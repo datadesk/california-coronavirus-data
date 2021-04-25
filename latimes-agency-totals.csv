@@ -1,8 +1,69 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2021-04-24,82163,1444,,
+Berkeley,Alameda,001,2021-04-24,3546,42,,
+Alpine,Alpine,003,2021-04-24,88,,88,True
+Amador,Amador,005,2021-04-24,3603,47,3535,True
+Butte,Butte,007,2021-04-24,11478,181,11181,True
+Calaveras,Calaveras,009,2021-04-24,2070,52,2009,True
+Colusa,Colusa,011,2021-04-24,2210,16,2167,True
+Contra Costa,Contra Costa,013,2021-04-24,67492,775,65839,
+Del Norte,Del Norte,015,2021-04-24,1293,7,1269,True
+El Dorado,El Dorado,017,2021-04-24,9845,109,9396,True
+Fresno,Fresno,019,2021-04-24,100928,1662,,
+Glenn,Glenn,021,2021-04-24,2302,25,2266,True
+Humboldt,Humboldt,023,2021-04-24,3717,38,3516,True
+Imperial,Imperial,025,2021-04-24,27725,719,26824,True
+Inyo,Inyo,027,2021-04-24,1420,38,1378,True
+Kern,Kern,029,2021-04-24,108256,1345,38500,
+Kings,Kings,031,2021-04-24,22835,246,19473,
+Lake,Lake,033,2021-04-24,3406,43,3330,True
+Lassen,Lassen,035,2021-04-24,5685,24,5650,True
+Long Beach,Los Angeles,037,2021-04-24,52800,929,51328,True
+Los Angeles,Los Angeles,037,2021-04-24,1167181,22507,,True
+Pasadena,Los Angeles,037,2021-04-24,11205,340,,True
+Madera,Madera,039,2021-04-24,16228,240,15663,True
+Marin,Marin,041,2021-04-24,13902,208,13562,
+Mariposa,Mariposa,043,2021-04-24,436,7,412,True
+Mendocino,Mendocino,045,2021-04-24,4001,47,3934,True
+Merced,Merced,047,2021-04-24,31400,454,30543,
+Modoc,Modoc,049,2021-04-24,492,4,482,True
+Mono,Mono,051,2021-04-24,1276,4,,
+Monterey,Monterey,053,2021-04-24,43374,381,43284,
+Napa,Napa,055,2021-04-24,9747,75,,True
+Nevada,Nevada,057,2021-04-24,4512,75,4349,True
+Orange,Orange,059,2021-04-24,253425,4924,245793,
+Placer,Placer,061,2021-04-24,22028,284,21075,True
+Plumas,Plumas,063,2021-04-24,697,6,686,True
+Riverside,Riverside,065,2021-04-24,297881,4559,291482,True
+Sacramento,Sacramento,067,2021-04-24,102071,1654,97761,True
+San Benito,San Benito,069,2021-04-24,5997,63,5903,
+San Bernardino,San Bernardino,071,2021-04-24,295452,4326,289983,
+San Diego,San Diego,073,2021-04-24,275251,3688,,
+San Francisco,San Francisco,075,2021-04-24,35931,531,,
+San Joaquin,San Joaquin,077,2021-04-24,71972,1340,69382,True
+San Luis Obispo,San Luis Obispo,079,2021-04-24,21071,260,20572,True
+San Mateo,San Mateo,081,2021-04-24,41292,564,,True
+Santa Barbara,Santa Barbara,083,2021-04-24,34035,448,33439,
+Santa Clara,Santa Clara,085,2021-04-24,117755,2043,,
+Santa Cruz,Santa Cruz,087,2021-04-24,15831,204,15483,True
+Shasta,Shasta,089,2021-04-24,11801,220,11434,True
+Sierra,Sierra,091,2021-04-24,110,0,109,True
+Siskiyou,Siskiyou,093,2021-04-24,1987,21,1920,True
+Solano,Solano,095,2021-04-24,32126,212,31489,
+Sonoma,Sonoma,097,2021-04-24,29762,312,28966,
+Stanislaus,Stanislaus,099,2021-04-24,54247,1036,52814,True
+Sutter,Sutter,101,2021-04-24,9326,104,9260,True
+Tehama,Tehama,103,2021-04-24,5479,57,5354,
+Trinity,Trinity,105,2021-04-24,398,5,393,
+Tulare,Tulare,107,2021-04-24,49493,832,48413,True
+Tuolumne,Tuolumne,109,2021-04-24,4093,64,2588,True
+Ventura,Ventura,111,2021-04-24,80430,1006,79239,
+Yolo,Yolo,113,2021-04-24,13573,205,13206,True
+Yuba,Yuba,115,2021-04-24,6142,40,6088,True
 Alameda,Alameda,001,2021-04-23,82081,1439,,
 Berkeley,Alameda,001,2021-04-23,3541,42,,True
 Alpine,Alpine,003,2021-04-23,88,0,88,True
-Amador,Amador,005,2021-04-23,3602,47,3606,
+Amador,Amador,005,2021-04-23,3602,47,3535,
 Butte,Butte,007,2021-04-23,11478,181,11181,
 Calaveras,Calaveras,009,2021-04-23,2070,52,2009,
 Colusa,Colusa,011,2021-04-23,2210,16,2167,
@@ -38,7 +99,7 @@ Riverside,Riverside,065,2021-04-23,297881,4559,291482,
 Sacramento,Sacramento,067,2021-04-23,102071,1654,97761,
 San Benito,San Benito,069,2021-04-23,5994,63,5890,
 San Bernardino,San Bernardino,071,2021-04-23,295390,4326,289880,
-San Diego,San Diego,073,2021-04-23,275916,3684,,
+San Diego,San Diego,073,2021-04-23,275251,3684,,
 San Francisco,San Francisco,075,2021-04-23,35893,531,,
 San Joaquin,San Joaquin,077,2021-04-23,71972,1340,69382,
 San Luis Obispo,San Luis Obispo,079,2021-04-23,21071,260,20572,
@@ -49,7 +110,7 @@ Santa Cruz,Santa Cruz,087,2021-04-23,15831,204,15483,
 Shasta,Shasta,089,2021-04-23,11801,220,11434,
 Sierra,Sierra,091,2021-04-23,110,0,109,True
 Siskiyou,Siskiyou,093,2021-04-23,1987,21,1920,
-Solano,Solano,095,2021-04-23,32126,212,31674,
+Solano,Solano,095,2021-04-23,32126,212,31489,
 Sonoma,Sonoma,097,2021-04-23,29747,312,28966,True
 Stanislaus,Stanislaus,099,2021-04-23,54247,1036,52814,
 Sutter,Sutter,101,2021-04-23,9326,104,9260,
@@ -63,7 +124,7 @@ Yuba,Yuba,115,2021-04-23,6142,40,6088,
 Alameda,Alameda,001,2021-04-22,82019,1436,,
 Berkeley,Alameda,001,2021-04-22,3541,42,,
 Alpine,Alpine,003,2021-04-22,88,0,88,
-Amador,Amador,005,2021-04-22,3600,47,3580,
+Amador,Amador,005,2021-04-22,3600,47,3535,
 Butte,Butte,007,2021-04-22,11462,181,11164,
 Calaveras,Calaveras,009,2021-04-22,2066,52,2006,
 Colusa,Colusa,011,2021-04-22,2208,16,2166,
@@ -99,7 +160,7 @@ Riverside,Riverside,065,2021-04-22,297770,4555,291314,
 Sacramento,Sacramento,067,2021-04-22,101906,1653,97591,
 San Benito,San Benito,069,2021-04-22,5991,63,5876,
 San Bernardino,San Bernardino,071,2021-04-22,295315,4323,289829,
-San Diego,San Diego,073,2021-04-22,275912,3684,,
+San Diego,San Diego,073,2021-04-22,275251,3684,,
 San Francisco,San Francisco,075,2021-04-22,35881,528,,
 San Joaquin,San Joaquin,077,2021-04-22,71899,1340,69322,
 San Luis Obispo,San Luis Obispo,079,2021-04-22,21038,260,20555,
@@ -160,7 +221,7 @@ Riverside,Riverside,065,2021-04-21,297631,4547,291207,
 Sacramento,Sacramento,067,2021-04-21,101787,1651,97450,
 San Benito,San Benito,069,2021-04-21,5987,63,5871,
 San Bernardino,San Bernardino,071,2021-04-21,295131,4321,289718,
-San Diego,San Diego,073,2021-04-21,275631,3681,,
+San Diego,San Diego,073,2021-04-21,275251,3681,,
 San Francisco,San Francisco,075,2021-04-21,35850,528,,
 San Joaquin,San Joaquin,077,2021-04-21,71813,1340,69253,
 San Luis Obispo,San Luis Obispo,079,2021-04-21,21010,258,20540,
@@ -221,7 +282,7 @@ Riverside,Riverside,065,2021-04-20,297620,4547,291022,
 Sacramento,Sacramento,067,2021-04-20,101665,1647,97253,
 San Benito,San Benito,069,2021-04-20,5984,63,5868,
 San Bernardino,San Bernardino,071,2021-04-20,294973,4319,289497,
-San Diego,San Diego,073,2021-04-20,275368,3674,,
+San Diego,San Diego,073,2021-04-20,275251,3674,,
 San Francisco,San Francisco,075,2021-04-20,35816,528,,
 San Joaquin,San Joaquin,077,2021-04-20,71735,1334,69168,
 San Luis Obispo,San Luis Obispo,079,2021-04-20,20991,257,20526,
