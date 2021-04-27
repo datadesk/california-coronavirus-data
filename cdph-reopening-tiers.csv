@@ -1,7 +1,7 @@
 date,county,fips,tier
 2021-04-27,Alameda,001,3
 2021-04-27,Alpine,003,4
-2021-04-27,Amador,005,2
+2021-04-27,Amador,005,3
 2021-04-27,Butte,007,3
 2021-04-27,Calaveras,009,3
 2021-04-27,Colusa,011,3
@@ -9,7 +9,7 @@ date,county,fips,tier
 2021-04-27,Del Norte,015,2
 2021-04-27,El Dorado,017,3
 2021-04-27,Fresno,019,3
-2021-04-27,Glenn,021,2
+2021-04-27,Glenn,021,3
 2021-04-27,Humboldt,023,3
 2021-04-27,Imperial,025,3
 2021-04-27,Inyo,027,2
@@ -21,7 +21,7 @@ date,county,fips,tier
 2021-04-27,Madera,039,2
 2021-04-27,Marin,041,3
 2021-04-27,Mariposa,043,3
-2021-04-27,Mendocino,045,3
+2021-04-27,Mendocino,045,4
 2021-04-27,Merced,047,2
 2021-04-27,Modoc,049,3
 2021-04-27,Mono,051,3
@@ -38,7 +38,7 @@ date,county,fips,tier
 2021-04-27,San Diego,073,3
 2021-04-27,San Francisco,075,3
 2021-04-27,San Joaquin,077,2
-2021-04-27,San Luis Obispo,079,2
+2021-04-27,San Luis Obispo,079,3
 2021-04-27,San Mateo,081,3
 2021-04-27,Santa Barbara,083,3
 2021-04-27,Santa Clara,085,3
@@ -49,7 +49,7 @@ date,county,fips,tier
 2021-04-27,Solano,095,2
 2021-04-27,Sonoma,097,3
 2021-04-27,Stanislaus,099,2
-2021-04-27,Sutter,101,2
+2021-04-27,Sutter,101,3
 2021-04-27,Tehama,103,2
 2021-04-27,Trinity,105,3
 2021-04-27,Tulare,107,3
