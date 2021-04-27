@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-04-26,Alameda,001,85727,1486,11,1
+2021-04-26,Alameda,001,85676,1486,3,1
 2021-04-26,Alpine,003,88,0,0,0
 2021-04-26,Amador,005,3610,47,1,0
 2021-04-26,Butte,007,11525,181,47,0
@@ -57,7 +57,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-26,Ventura,111,80502,1007,72,1
 2021-04-26,Yolo,113,13621,205,48,0
 2021-04-26,Yuba,115,6165,40,23,0
-2021-04-25,Alameda,001,85716,1485,7,0
+2021-04-25,Alameda,001,85673,1485,0,0
 2021-04-25,Alpine,003,88,0,0,0
 2021-04-25,Amador,005,3609,47,6,0
 2021-04-25,Butte,007,11478,181,0,0
@@ -115,7 +115,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-25,Ventura,111,80430,1006,0,0
 2021-04-25,Yolo,113,13573,205,0,0
 2021-04-25,Yuba,115,6142,40,0,0
-2021-04-24,Alameda,001,85709,1485,87,4
+2021-04-24,Alameda,001,85673,1485,51,4
 2021-04-24,Alpine,003,88,0,0,0
 2021-04-24,Amador,005,3603,47,1,0
 2021-04-24,Butte,007,11478,181,0,0

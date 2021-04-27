@@ -1,5 +1,5 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
-Alameda,Alameda,001,2021-04-26,82178,1444,,
+Alameda,Alameda,001,2021-04-26,82127,1444,,
 Berkeley,Alameda,001,2021-04-26,3549,42,,
 Alpine,Alpine,003,2021-04-26,88,0,88,True
 Amador,Amador,005,2021-04-26,3610,47,3541,
@@ -60,7 +60,7 @@ Tuolumne,Tuolumne,109,2021-04-26,4098,65,2587,
 Ventura,Ventura,111,2021-04-26,80502,1007,79299,
 Yolo,Yolo,113,2021-04-26,13621,205,13235,
 Yuba,Yuba,115,2021-04-26,6165,40,6092,
-Alameda,Alameda,001,2021-04-25,82170,1443,,
+Alameda,Alameda,001,2021-04-25,82127,1443,,
 Berkeley,Alameda,001,2021-04-25,3546,42,,True
 Alpine,Alpine,003,2021-04-25,88,0,88,True
 Amador,Amador,005,2021-04-25,3609,47,3540,
@@ -121,7 +121,7 @@ Tuolumne,Tuolumne,109,2021-04-25,4093,64,2587,
 Ventura,Ventura,111,2021-04-25,80430,1006,79276,
 Yolo,Yolo,113,2021-04-25,13573,205,13206,True
 Yuba,Yuba,115,2021-04-25,6142,40,6088,True
-Alameda,Alameda,001,2021-04-24,82163,1443,,
+Alameda,Alameda,001,2021-04-24,82127,1443,,
 Berkeley,Alameda,001,2021-04-24,3546,42,,
 Alpine,Alpine,003,2021-04-24,88,0,88,True
 Amador,Amador,005,2021-04-24,3603,47,3535,True
