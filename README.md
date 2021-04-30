@@ -222,7 +222,7 @@ California's Department of Public Health is releasing [county-level hospitalizat
 
 ### [cdph-hpi-zipcodes.csv](./cdph-hpi-zipcodes.csv)
 
-California's Department of Public Health has assigned each California ZIP Code a community health score by combining a variety of economic and social indicators. It is known as the Healty Places Index. The quartile that each ZIP Code falls within was released in response to a request by The Times.
+California's Department of Public Health has assigned each California ZIP Code a community health score by combining a variety of economic and social indicators. It is known as the Healthy Places Index. The quartile that each ZIP Code falls within was released in response to a request by The Times.
 
 | field                    | type    | description                                                                                                                                                                          |
 | ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
