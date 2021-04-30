@@ -20,6 +20,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 
 - [cdph-age.csv](#cdph-agecsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
+- [cdph-hpi-zipcodes.csv](#cdph-hpi-zipcodescsv)
 - [cdph-state-totals.csv](#cdph-state-totalscsv)
 - [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
 - [cdph-positive-test-rate.csv](#cdph-positive-test-ratecsv)
@@ -44,6 +45,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdcr-state-totals.csv](#cdcr-state-totalscsv)
 
 ### Schools
+
 - [school-districts-reopening.csv](#school-districts-reopeningcsv)
 - [charter-schools-reopening.csv](#charters-schools-reopeningcsv)
 
@@ -217,6 +219,18 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
+
+### [cdph-hpi-zipcodes.csv](./cdph-hpi-zipcodes.csv)
+
+California's Department of Public Health has assigned each California ZIP Code a community health score by combining a variety of economic and social indicators. It is known as the Healty Places Index. The quartile that each ZIP Code falls within was released in response to a request by The Times.
+
+| field                    | type    | description                                                                                                                                                                          |
+| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `zipcode`                | string  | The unique identifer of the ZIP Code.                                                                                                                                                |
+| `hpi_quartile`           | integer | The ranked quartile that contains the ZIP Code’s Health Places Index score. One is the lowest. Four is the highest.                                                                  |
+| `county`                 | string  | The name of the county.                                                                                                                                                              |
+| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `city`                   | string  | The city the ZIP Code falls within                                                                                                                                                   |
 
 ### [cdph-state-totals.csv](./cdph-state-totals.csv)
 
