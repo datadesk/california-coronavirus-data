@@ -52,7 +52,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-29,Sutter,101,9361,104,5,0
 2021-04-29,Tehama,103,5507,58,0,0
 2021-04-29,Trinity,105,398,5,0,0
-2021-04-29,Tulare,107,49510,834,0,0
+2021-04-29,Tulare,107,49477,834,-33,0
 2021-04-29,Tuolumne,109,4104,64,1,0
 2021-04-29,Ventura,111,80597,1008,21,0
 2021-04-29,Yolo,113,13659,205,18,0
