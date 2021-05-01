@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-30,Sierra,091,110,0,0,0
 2021-04-30,Siskiyou,093,2071,21,11,0
 2021-04-30,Solano,095,32477,215,65,0
-2021-04-30,Sonoma,097,29856,312,38,0
+2021-04-30,Sonoma,097,29856,312,24,0
 2021-04-30,Stanislaus,099,54810,1043,98,0
 2021-04-30,Sutter,101,9366,104,5,0
 2021-04-30,Tehama,103,5507,58,0,0
@@ -105,7 +105,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-29,Sierra,091,110,0,0,0
 2021-04-29,Siskiyou,093,2060,21,24,0
 2021-04-29,Solano,095,32412,215,46,0
-2021-04-29,Sonoma,097,29818,312,0,0
+2021-04-29,Sonoma,097,29832,312,14,0
 2021-04-29,Stanislaus,099,54712,1043,0,1
 2021-04-29,Sutter,101,9361,104,5,0
 2021-04-29,Tehama,103,5507,58,0,0
