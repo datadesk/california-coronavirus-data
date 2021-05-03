@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
+Alameda,Alameda,001,2021-05-02,82510,1475,,
+Berkeley,Alameda,001,2021-05-02,3562,44,,
+Alpine,Alpine,003,2021-05-02,88,0,88,True
+Amador,Amador,005,2021-05-02,3615,47,3555,
+Butte,Butte,007,2021-05-02,11613,182,11289,
+Calaveras,Calaveras,009,2021-05-02,2095,52,2029,
+Colusa,Colusa,011,2021-05-02,2221,16,2177,True
+Contra Costa,Contra Costa,013,2021-05-02,68115,783,66489,
+Del Norte,Del Norte,015,2021-05-02,1329,7,1288,
+El Dorado,El Dorado,017,2021-05-02,9964,110,9508,True
+Fresno,Fresno,019,2021-05-02,101326,1678,,
+Glenn,Glenn,021,2021-05-02,2309,25,2274,True
+Humboldt,Humboldt,023,2021-05-02,3852,38,3631,
+Imperial,Imperial,025,2021-05-02,27829,720,26965,
+Inyo,Inyo,027,2021-05-02,1422,38,1379,True
+Kern,Kern,029,2021-05-02,108628,1354,38623,
+Kings,Kings,031,2021-05-02,22905,246,19970,
+Lake,Lake,033,2021-05-02,3422,43,3356,True
+Lassen,Lassen,035,2021-05-02,5692,24,5658,True
+Long Beach,Los Angeles,037,2021-05-02,52956,931,51551,
+Los Angeles,Los Angeles,037,2021-05-02,1169592,22638,,
+Pasadena,Los Angeles,037,2021-05-02,11224,346,,
+Madera,Madera,039,2021-05-02,16291,240,15757,True
+Marin,Marin,041,2021-05-02,13981,209,13608,
+Mariposa,Mariposa,043,2021-05-02,441,7,422,True
+Mendocino,Mendocino,045,2021-05-02,4029,48,3949,True
+Merced,Merced,047,2021-05-02,31594,454,30729,
+Modoc,Modoc,049,2021-05-02,493,4,488,True
+Mono,Mono,051,2021-05-02,1277,4,,
+Monterey,Monterey,053,2021-05-02,43461,381,43373,
+Napa,Napa,055,2021-05-02,9787,77,,
+Nevada,Nevada,057,2021-05-02,4602,75,4404,True
+Orange,Orange,059,2021-05-02,253989,4969,246563,
+Placer,Placer,061,2021-05-02,22222,289,21358,
+Plumas,Plumas,063,2021-05-02,703,6,690,True
+Riverside,Riverside,065,2021-05-02,298450,4574,292104,True
+Sacramento,Sacramento,067,2021-05-02,102959,1663,98852,True
+San Benito,San Benito,069,2021-05-02,6025,63,5935,
+San Bernardino,San Bernardino,071,2021-05-02,296089,4422,290594,
+San Diego,San Diego,073,2021-05-02,276520,3712,,
+San Francisco,San Francisco,075,2021-05-02,36125,536,,
+San Joaquin,San Joaquin,077,2021-05-02,72478,1346,69855,
+San Luis Obispo,San Luis Obispo,079,2021-05-02,21193,260,20780,True
+San Mateo,San Mateo,081,2021-05-02,41477,567,,
+Santa Barbara,Santa Barbara,083,2021-05-02,34223,450,33624,
+Santa Clara,Santa Clara,085,2021-05-02,118424,2068,,
+Santa Cruz,Santa Cruz,087,2021-05-02,15999,204,15653,
+Shasta,Shasta,089,2021-05-02,11901,220,11550,True
+Sierra,Sierra,091,2021-05-02,110,0,110,True
+Siskiyou,Siskiyou,093,2021-05-02,2071,21,1985,True
+Solano,Solano,095,2021-05-02,32477,215,31880,
+Sonoma,Sonoma,097,2021-05-02,29886,312,29323,
+Stanislaus,Stanislaus,099,2021-05-02,54878,1044,53277,
+Sutter,Sutter,101,2021-05-02,9366,104,9310,
+Tehama,Tehama,103,2021-05-02,5507,58,5383,
+Trinity,Trinity,105,2021-05-02,398,5,393,
+Tulare,Tulare,107,2021-05-02,49477,834,48392,
+Tuolumne,Tuolumne,109,2021-05-02,4105,64,2613,True
+Ventura,Ventura,111,2021-05-02,80617,1009,79498,
+Yolo,Yolo,113,2021-05-02,13678,205,13293,True
+Yuba,Yuba,115,2021-05-02,6185,40,6127,
 Alameda,Alameda,001,2021-05-01,82369,1464,,
 Berkeley,Alameda,001,2021-05-01,3566,44,,
 Alpine,Alpine,003,2021-05-01,88,0,88,True
@@ -12,7 +73,7 @@ El Dorado,El Dorado,017,2021-05-01,9964,110,9508,True
 Fresno,Fresno,019,2021-05-01,101263,1670,,
 Glenn,Glenn,021,2021-05-01,2309,25,2274,True
 Humboldt,Humboldt,023,2021-05-01,3852,38,3631,True
-Imperial,Imperial,025,2021-05-01,27830,720,26965,True
+Imperial,Imperial,025,2021-05-01,27829,720,26965,True
 Inyo,Inyo,027,2021-05-01,1422,38,1379,True
 Kern,Kern,029,2021-05-01,108598,1354,38623,
 Kings,Kings,031,2021-05-01,22886,246,19969,
@@ -73,7 +134,7 @@ El Dorado,El Dorado,017,2021-04-30,9964,110,9508,
 Fresno,Fresno,019,2021-04-30,101189,1667,,
 Glenn,Glenn,021,2021-04-30,2309,25,2274,
 Humboldt,Humboldt,023,2021-04-30,3852,38,3631,
-Imperial,Imperial,025,2021-04-30,27830,720,26965,
+Imperial,Imperial,025,2021-04-30,27829,720,26965,
 Inyo,Inyo,027,2021-04-30,1422,38,1379,
 Kern,Kern,029,2021-04-30,108545,1353,38591,
 Kings,Kings,031,2021-04-30,22881,246,19889,
