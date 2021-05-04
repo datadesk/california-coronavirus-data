@@ -12,12 +12,12 @@ date,county,fips,tier
 2021-05-04,Glenn,021,3
 2021-05-04,Humboldt,023,3
 2021-05-04,Imperial,025,3
-2021-05-04,Inyo,027,2
+2021-05-04,Inyo,027,3
 2021-05-04,Kern,029,3
 2021-05-04,Kings,031,3
 2021-05-04,Lake,033,3
 2021-05-04,Lassen,035,4
-2021-05-04,Los Angeles,037,3
+2021-05-04,Los Angeles,037,4
 2021-05-04,Madera,039,2
 2021-05-04,Marin,041,3
 2021-05-04,Mariposa,043,3
@@ -36,7 +36,7 @@ date,county,fips,tier
 2021-05-04,San Benito,069,3
 2021-05-04,San Bernardino,071,3
 2021-05-04,San Diego,073,3
-2021-05-04,San Francisco,075,3
+2021-05-04,San Francisco,075,4
 2021-05-04,San Joaquin,077,2
 2021-05-04,San Luis Obispo,079,3
 2021-05-04,San Mateo,081,3
@@ -51,7 +51,7 @@ date,county,fips,tier
 2021-05-04,Stanislaus,099,2
 2021-05-04,Sutter,101,3
 2021-05-04,Tehama,103,2
-2021-05-04,Trinity,105,3
+2021-05-04,Trinity,105,4
 2021-05-04,Tulare,107,3
 2021-05-04,Tuolumne,109,3
 2021-05-04,Ventura,111,3
