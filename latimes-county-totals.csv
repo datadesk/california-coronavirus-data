@@ -8,7 +8,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-04,Contra Costa,013,68212,783,45,0
 2021-05-04,Del Norte,015,1353,7,5,0
 2021-05-04,El Dorado,017,10067,110,27,0
-2021-05-04,Fresno,019,101405,1678,33,0
+2021-05-04,Fresno,019,101405,1677,33,0
 2021-05-04,Glenn,021,2312,25,3,0
 2021-05-04,Humboldt,023,3895,39,10,1
 2021-05-04,Imperial,025,27854,720,5,1
@@ -43,7 +43,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-04,Santa Barbara,083,34250,450,12,0
 2021-05-04,Santa Clara,085,118541,2070,62,1
 2021-05-04,Santa Cruz,087,16023,205,6,0
-2021-05-04,Shasta,089,11994,224,58,4
+2021-05-04,Shasta,089,11987,224,51,4
 2021-05-04,Sierra,091,112,0,0,0
 2021-05-04,Siskiyou,093,2134,21,15,0
 2021-05-04,Solano,095,32613,216,25,0
@@ -66,7 +66,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-03,Contra Costa,013,68167,783,52,0
 2021-05-03,Del Norte,015,1348,7,19,0
 2021-05-03,El Dorado,017,10040,110,76,0
-2021-05-03,Fresno,019,101372,1678,46,0
+2021-05-03,Fresno,019,101372,1677,46,0
 2021-05-03,Glenn,021,2309,25,0,0
 2021-05-03,Humboldt,023,3885,38,33,0
 2021-05-03,Imperial,025,27849,719,20,0
@@ -124,7 +124,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-02,Contra Costa,013,68115,783,64,0
 2021-05-02,Del Norte,015,1329,7,0,0
 2021-05-02,El Dorado,017,9964,110,0,0
-2021-05-02,Fresno,019,101326,1678,63,8
+2021-05-02,Fresno,019,101326,1677,63,7
 2021-05-02,Glenn,021,2309,25,0,0
 2021-05-02,Humboldt,023,3852,38,0,0
 2021-05-02,Imperial,025,27829,719,0,0
