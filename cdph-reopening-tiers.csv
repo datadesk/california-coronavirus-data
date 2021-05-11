@@ -18,13 +18,13 @@ date,county,fips,tier
 2021-05-11,Lake,033,3
 2021-05-11,Lassen,035,4
 2021-05-11,Los Angeles,037,4
-2021-05-11,Madera,039,2
+2021-05-11,Madera,039,3
 2021-05-11,Marin,041,3
 2021-05-11,Mariposa,043,3
 2021-05-11,Mendocino,045,4
 2021-05-11,Merced,047,2
 2021-05-11,Modoc,049,3
-2021-05-11,Mono,051,3
+2021-05-11,Mono,051,4
 2021-05-11,Monterey,053,3
 2021-05-11,Napa,055,3
 2021-05-11,Nevada,057,2
@@ -39,7 +39,7 @@ date,county,fips,tier
 2021-05-11,San Francisco,075,4
 2021-05-11,San Joaquin,077,2
 2021-05-11,San Luis Obispo,079,3
-2021-05-11,San Mateo,081,3
+2021-05-11,San Mateo,081,4
 2021-05-11,Santa Barbara,083,3
 2021-05-11,Santa Clara,085,3
 2021-05-11,Santa Cruz,087,3
