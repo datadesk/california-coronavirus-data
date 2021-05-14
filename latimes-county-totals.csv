@@ -8,7 +8,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-13,Contra Costa,013,68803,793,62,0
 2021-05-13,Del Norte,015,1395,7,2,0
 2021-05-13,El Dorado,017,10168,112,0,0
-2021-05-13,Fresno,019,101838,1688,46,2
+2021-05-13,Fresno,019,101838,1687,46,1
 2021-05-13,Glenn,021,2332,25,4,0
 2021-05-13,Humboldt,023,4046,41,44,0
 2021-05-13,Imperial,025,27860,721,12,0
@@ -52,7 +52,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-13,Sutter,101,9436,106,3,0
 2021-05-13,Tehama,103,5572,59,0,0
 2021-05-13,Trinity,105,402,5,2,0
-2021-05-13,Tulare,107,50001,839,347,0
+2021-05-13,Tulare,107,49830,839,176,0
 2021-05-13,Tuolumne,109,4134,66,3,0
 2021-05-13,Ventura,111,81001,1013,23,0
 2021-05-13,Yolo,113,13846,208,15,0
