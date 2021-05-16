@@ -38,7 +38,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-15,San Diego,073,278990,3737,138,5
 2021-05-15,San Francisco,075,36482,540,68,0
 2021-05-15,San Joaquin,077,73310,1394,0,0
-2021-05-15,San Luis Obispo,079,21331,260,0,0
+2021-05-15,San Luis Obispo,079,21308,260,0,0
 2021-05-15,San Mateo,081,41909,570,0,0
 2021-05-15,Santa Barbara,083,34378,450,13,0
 2021-05-15,Santa Clara,085,118635,2096,56,0
@@ -96,7 +96,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-14,San Diego,073,278852,3732,261,3
 2021-05-14,San Francisco,075,36414,540,14,1
 2021-05-14,San Joaquin,077,73310,1394,43,3
-2021-05-14,San Luis Obispo,079,21331,260,23,0
+2021-05-14,San Luis Obispo,079,21308,260,0,0
 2021-05-14,San Mateo,081,41909,570,19,2
 2021-05-14,Santa Barbara,083,34365,450,4,0
 2021-05-14,Santa Clara,085,118579,2096,0,0
