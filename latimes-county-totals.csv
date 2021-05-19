@@ -41,7 +41,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-17,San Luis Obispo,079,21208,261,0,1
 2021-05-17,San Mateo,081,41923,570,14,0
 2021-05-17,Santa Barbara,083,34398,450,7,0
-2021-05-17,Santa Clara,085,118687,2098,16,2
+2021-05-17,Santa Clara,085,118687,2097,16,1
 2021-05-17,Santa Cruz,087,16275,206,11,0
 2021-05-17,Shasta,089,12208,226,33,0
 2021-05-17,Sierra,091,112,0,0,0
