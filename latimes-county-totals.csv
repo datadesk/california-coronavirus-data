@@ -52,7 +52,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-23,Sutter,101,9480,106,0,0
 2021-05-23,Tehama,103,5590,59,0,0
 2021-05-23,Trinity,105,407,5,0,0
-2021-05-23,Tulare,107,50122,842,0,0
+2021-05-23,Tulare,107,50106,842,0,0
 2021-05-23,Tuolumne,109,4154,67,0,0
 2021-05-23,Ventura,111,81204,1017,0,0
 2021-05-23,Yolo,113,13915,208,0,0
@@ -110,7 +110,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-22,Sutter,101,9480,106,0,0
 2021-05-22,Tehama,103,5590,59,0,0
 2021-05-22,Trinity,105,407,5,0,0
-2021-05-22,Tulare,107,50122,842,0,0
+2021-05-22,Tulare,107,50106,842,0,0
 2021-05-22,Tuolumne,109,4154,67,0,0
 2021-05-22,Ventura,111,81204,1017,0,0
 2021-05-22,Yolo,113,13915,208,0,0
@@ -168,7 +168,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-21,Sutter,101,9480,106,4,0
 2021-05-21,Tehama,103,5590,59,0,0
 2021-05-21,Trinity,105,407,5,0,0
-2021-05-21,Tulare,107,50122,842,0,0
+2021-05-21,Tulare,107,50106,842,0,0
 2021-05-21,Tuolumne,109,4154,67,2,0
 2021-05-21,Ventura,111,81204,1017,20,1
 2021-05-21,Yolo,113,13915,208,10,0
@@ -226,7 +226,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-20,Sutter,101,9476,106,4,0
 2021-05-20,Tehama,103,5590,59,0,0
 2021-05-20,Trinity,105,407,5,1,0
-2021-05-20,Tulare,107,50122,842,191,0
+2021-05-20,Tulare,107,50106,842,175,0
 2021-05-20,Tuolumne,109,4152,67,0,0
 2021-05-20,Ventura,111,81184,1016,39,0
 2021-05-20,Yolo,113,13905,208,14,0
