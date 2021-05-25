@@ -35,7 +35,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-23,Sacramento,067,105604,1698,0,0
 2021-05-23,San Benito,069,6085,63,0,0
 2021-05-23,San Bernardino,071,297566,4545,27,3
-2021-05-23,San Diego,073,279689,3751,76,0
+2021-05-23,San Diego,073,279689,3747,76,0
 2021-05-23,San Francisco,075,36563,542,16,0
 2021-05-23,San Joaquin,077,73544,1402,0,0
 2021-05-23,San Luis Obispo,079,21256,261,0,0
@@ -93,7 +93,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-22,Sacramento,067,105604,1698,0,0
 2021-05-22,San Benito,069,6085,63,0,0
 2021-05-22,San Bernardino,071,297539,4542,60,17
-2021-05-22,San Diego,073,279613,3751,60,3
+2021-05-22,San Diego,073,279613,3747,60,-1
 2021-05-22,San Francisco,075,36547,542,16,1
 2021-05-22,San Joaquin,077,73544,1402,0,0
 2021-05-22,San Luis Obispo,079,21256,261,0,0
