@@ -57,6 +57,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
 - [los-angeles-countywide-statistical-areas.json](#los-angeles-countywide-statistical-areasjson)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
+- [latimes-zipcode-polygons.geojson](#latimes-zipcode-polygonsgeojson)
 
 ## About the data
 
@@ -684,6 +685,16 @@ Los Angeles County officials have launched an unprecedented effort to shield 15,
 | `rooms_ready_to_occupy`    | integer | The subset of leased rooms that were ready to occupy on this `date`.                                    |
 | `rooms_occupied`           | integer | The subset of ready rooms that were occupied on this `date`.                                            |
 | `homeless_confirmed_cases` | integer | The cumulative number of homeless people in Los Angeles County that had tested positive by this `date`. |
+
+### [latimes-zipcode-polygons.geojson](./latimes-zipcode-polygons.geojson)
+
+The ZIP Code Tabulation Areas (ZCTAs) used by The Times to map ZIP Code vaccination totals provided by the California Department of Public Health. The map file was acquired from the U.S. Census Bureau. It is limited to areas where vaccination data are available.
+
+| field             | type    | description                                                                                                                                                                          |
+| ----------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `id`              | string  | The unique identifier of the city, neighborhood or other area.                                                                                                                       |
+| `county`          | string  | The name of the county where the city is located.                                                                                                                                    |
+| `fips`            | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 
 ## Getting started
 
