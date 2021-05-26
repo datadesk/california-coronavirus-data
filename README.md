@@ -227,7 +227,7 @@ California's Department of Public Health has assigned each California ZIP Code a
 
 | field                    | type    | description                                                                                                                                                                          |
 | ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `zipcode`                | string  | The unique identifer of the ZIP Code.                                                                                                                                                |
+| `id`                     | string  | The unique identifer of the ZIP Code.                                                                                                                                                |
 | `hpi_quartile`           | integer | The ranked quartile that contains the ZIP Code’s Healthy Places Index score. One is the lowest. Four is the highest.                                                                  |
 | `county`                 | string  | The name of the county.                                                                                                                                                              |
 | `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
