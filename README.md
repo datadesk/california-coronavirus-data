@@ -30,6 +30,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
 - [cdph-vaccination-county-totals.csv](#cdph-vaccination-county-totalscsv)
 - [cdph-vaccination-state-totals.csv](#cdph-vaccination-state-totalscsv)
+- [cdph-vaccination-zipcode-totals.csv](#cdph-vaccination-zipcode-totalscsv)
 
 ### Nursing homes
 
@@ -397,7 +398,7 @@ California's Department of Public Health releases [county-level vaccination tota
 
 ### [cdph-vaccination-state-totals.csv](./cdph-vaccination-state-totals.csv)
 
-California's Department of Public Health is releasing [state-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) via a Tableau dashboard. Our team extracts and logs the data each day.
+California's Department of Public Health is releasing [state-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine). Our team extracts and logs the data each day.
 
 | field                        | type    | description                                                                                                                                                                          |
 | ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -416,6 +417,24 @@ California's Department of Public Health is releasing [state-level vaccination t
 | `new_at_least_one_dose`       | integer | The number of new people who have received at least one dose any vaccine compared to the previous `date`.                                                                            |
 | `fully_vaccinated`            | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
 | `new_fully_vaccinated`        | integer | The number of new fully vaccinated people compared to the previous `date`.                                                                                                           |
+| `partially_vaccinated_percent`| float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
+| `at_least_one_dose_percent`   | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
+| `fully_vaccinated_percent`    | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
+
+### [cdph-vaccination-zipcode-totals.csv](./cdph-vaccination-zipcode-totals.csv)
+
+California's Department of Public Health is releasing zipcode-level vaccination totals. Our team extracts and logs the data each day. Population estimates from the U.S. Census Bureau, gathered by The Times, are used to calculate the percentage of the total population that is vaccinated.
+
+| field                         | type    | description                                                                                                                                                                          |
+| ----------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                        | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `id`                        | string    | The unique identifer of the ZIP Code.                                                                                                                                                  |
+| `county`                      | string  | The name of the county.                                                                                                                                                              |
+| `fips`                        | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `population`                  | integer | The number of people who live in the county.                                                                                                                                         |
+| `partially_vaccinated`        | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
+| `at_least_one_dose`           | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
+| `fully_vaccinated`            | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
 | `partially_vaccinated_percent`| float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
 | `at_least_one_dose_percent`   | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
 | `fully_vaccinated_percent`    | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
