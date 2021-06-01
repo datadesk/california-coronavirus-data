@@ -19,25 +19,25 @@ date,county,fips,tier
 2021-06-01,Lassen,035,4
 2021-06-01,Los Angeles,037,4
 2021-06-01,Madera,039,3
-2021-06-01,Marin,041,3
+2021-06-01,Marin,041,4
 2021-06-01,Mariposa,043,4
 2021-06-01,Mendocino,045,4
 2021-06-01,Merced,047,3
 2021-06-01,Modoc,049,3
 2021-06-01,Mono,051,4
-2021-06-01,Monterey,053,3
+2021-06-01,Monterey,053,4
 2021-06-01,Napa,055,3
-2021-06-01,Nevada,057,2
+2021-06-01,Nevada,057,3
 2021-06-01,Orange,059,4
 2021-06-01,Placer,061,3
 2021-06-01,Plumas,063,3
 2021-06-01,Riverside,065,3
-2021-06-01,Sacramento,067,2
-2021-06-01,San Benito,069,3
+2021-06-01,Sacramento,067,3
+2021-06-01,San Benito,069,4
 2021-06-01,San Bernardino,071,3
 2021-06-01,San Diego,073,3
 2021-06-01,San Francisco,075,4
-2021-06-01,San Joaquin,077,2
+2021-06-01,San Joaquin,077,3
 2021-06-01,San Luis Obispo,079,3
 2021-06-01,San Mateo,081,4
 2021-06-01,Santa Barbara,083,3
@@ -46,7 +46,7 @@ date,county,fips,tier
 2021-06-01,Shasta,089,2
 2021-06-01,Sierra,091,4
 2021-06-01,Siskiyou,093,3
-2021-06-01,Solano,095,2
+2021-06-01,Solano,095,3
 2021-06-01,Sonoma,097,3
 2021-06-01,Stanislaus,099,2
 2021-06-01,Sutter,101,3
@@ -54,7 +54,7 @@ date,county,fips,tier
 2021-06-01,Trinity,105,4
 2021-06-01,Tulare,107,3
 2021-06-01,Tuolumne,109,3
-2021-06-01,Ventura,111,3
+2021-06-01,Ventura,111,4
 2021-06-01,Yolo,113,3
 2021-06-01,Yuba,115,2
 2021-05-31,Alameda,001,3
