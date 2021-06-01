@@ -1,6 +1,6 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
 Alameda,Alameda,001,2021-05-30,85300,1648,,
-Berkeley,Alameda,001,2021-05-30,3622,45,,
+Berkeley,Alameda,001,2021-05-30,3620,45,,
 Alpine,Alpine,003,2021-05-30,89,0,89,TRUE
 Amador,Amador,005,2021-05-30,3649,47,3585,
 Butte,Butte,007,2021-05-30,12017,189,11743,
@@ -61,7 +61,7 @@ Ventura,Ventura,111,2021-05-30,81344,1018,80255,
 Yolo,Yolo,113,2021-05-30,13982,208,13669,
 Yuba,Yuba,115,2021-05-30,6371,41,6268,
 Alameda,Alameda,001,2021-05-29,85272,1648,,TRUE
-Berkeley,Alameda,001,2021-05-29,3621,45,,TRUE
+Berkeley,Alameda,001,2021-05-29,3620,45,,TRUE
 Alpine,Alpine,003,2021-05-29,89,0,89,TRUE
 Amador,Amador,005,2021-05-29,3649,47,3585,
 Butte,Butte,007,2021-05-29,12017,189,11743,TRUE
