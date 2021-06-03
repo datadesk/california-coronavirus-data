@@ -7,7 +7,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-01,Colusa,011,2265,18,0,0
 2021-06-01,Contra Costa,013,69693,799,17,0
 2021-06-01,Del Norte,015,1434,7,3,0
-2021-06-01,El Dorado,017,10304,113,8,0
+2021-06-01,El Dorado,017,10303,113,7,0
 2021-06-01,Fresno,019,102507,1706,70,1
 2021-06-01,Glenn,021,2352,27,3,1
 2021-06-01,Humboldt,023,4323,43,38,0
@@ -19,7 +19,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-01,Lassen,035,5745,24,9,0
 2021-06-01,Los Angeles,037,1244170,24346,116,3
 2021-06-01,Madera,039,16448,245,18,1
-2021-06-01,Marin,041,14153,213,9,0
+2021-06-01,Marin,041,14152,213,8,0
 2021-06-01,Mariposa,043,458,7,4,0
 2021-06-01,Mendocino,045,4223,49,26,0
 2021-06-01,Merced,047,32168,470,26,1
@@ -43,7 +43,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-01,Santa Barbara,083,34498,451,10,1
 2021-06-01,Santa Clara,085,119094,2142,20,0
 2021-06-01,Santa Cruz,087,16182,206,13,0
-2021-06-01,Shasta,089,12445,230,32,0
+2021-06-01,Shasta,089,12420,230,7,0
 2021-06-01,Sierra,091,113,0,0,0
 2021-06-01,Siskiyou,093,2359,33,7,0
 2021-06-01,Solano,095,33397,243,104,5
