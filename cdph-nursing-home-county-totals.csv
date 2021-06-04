@@ -17,7 +17,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-05,Napa,055,1,0,0,0
 2020-06-05,Orange,059,298,644,3,66
 2020-06-05,Placer,061,2,2,0,2
-2020-06-05,Riverside,065,332,580,1,76
+2020-06-05,Riverside,065,333,581,2,77
 2020-06-05,Sacramento,067,33,115,1,9
 2020-06-05,San Benito,069,1,1,1,1
 2020-06-05,San Bernardino,071,227,502,3,60
@@ -54,7 +54,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-06,Napa,055,1,0,0,0
 2020-06-06,Orange,059,307,671,4,66
 2020-06-06,Placer,061,2,2,0,2
-2020-06-06,Riverside,065,334,604,1,77
+2020-06-06,Riverside,065,335,605,2,78
 2020-06-06,Sacramento,067,33,115,1,9
 2020-06-06,San Benito,069,1,1,1,1
 2020-06-06,San Bernardino,071,242,532,3,61
@@ -91,7 +91,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-07,Napa,055,1,0,0,0
 2020-06-07,Orange,059,307,687,4,66
 2020-06-07,Placer,061,2,2,0,2
-2020-06-07,Riverside,065,335,607,1,77
+2020-06-07,Riverside,065,336,608,2,78
 2020-06-07,Sacramento,067,34,115,1,9
 2020-06-07,San Benito,069,1,1,1,1
 2020-06-07,San Bernardino,071,256,561,3,61
@@ -128,7 +128,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-08,Napa,055,1,0,0,0
 2020-06-08,Orange,059,310,690,4,66
 2020-06-08,Placer,061,2,2,0,2
-2020-06-08,Riverside,065,346,616,1,79
+2020-06-08,Riverside,065,347,617,2,80
 2020-06-08,Sacramento,067,34,115,1,9
 2020-06-08,San Benito,069,1,1,1,1
 2020-06-08,San Bernardino,071,257,564,3,61
@@ -165,7 +165,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-09,Napa,055,1,0,0,0
 2020-06-09,Orange,059,316,694,4,66
 2020-06-09,Placer,061,2,2,0,2
-2020-06-09,Riverside,065,358,618,1,80
+2020-06-09,Riverside,065,359,619,2,81
 2020-06-09,Sacramento,067,34,115,1,9
 2020-06-09,San Benito,069,1,1,1,1
 2020-06-09,San Bernardino,071,279,607,3,63
@@ -202,7 +202,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-10,Napa,055,1,0,0,0
 2020-06-10,Orange,059,322,717,4,69
 2020-06-10,Placer,061,2,2,0,2
-2020-06-10,Riverside,065,374,638,1,80
+2020-06-10,Riverside,065,375,639,2,81
 2020-06-10,Sacramento,067,34,115,1,9
 2020-06-10,San Benito,069,1,1,1,1
 2020-06-10,San Bernardino,071,281,607,3,63
@@ -240,7 +240,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-11,Napa,055,1,0,0,0
 2020-06-11,Orange,059,325,729,4,71
 2020-06-11,Placer,061,2,2,0,2
-2020-06-11,Riverside,065,377,638,2,80
+2020-06-11,Riverside,065,378,639,3,81
 2020-06-11,Sacramento,067,34,115,1,9
 2020-06-11,San Benito,069,1,1,1,1
 2020-06-11,San Bernardino,071,281,610,3,63
@@ -279,7 +279,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-12,Napa,055,2,1,0,0
 2020-06-12,Orange,059,332,733,4,71
 2020-06-12,Placer,061,2,2,0,2
-2020-06-12,Riverside,065,379,656,2,80
+2020-06-12,Riverside,065,380,657,3,81
 2020-06-12,Sacramento,067,35,115,1,9
 2020-06-12,San Benito,069,1,1,1,1
 2020-06-12,San Bernardino,071,283,611,3,63
@@ -318,7 +318,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-13,Napa,055,2,1,0,0
 2020-06-13,Orange,059,339,738,4,71
 2020-06-13,Placer,061,2,2,0,2
-2020-06-13,Riverside,065,390,691,2,81
+2020-06-13,Riverside,065,391,692,3,82
 2020-06-13,Sacramento,067,35,115,1,9
 2020-06-13,San Benito,069,1,1,1,1
 2020-06-13,San Bernardino,071,287,630,3,63
@@ -357,7 +357,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-14,Napa,055,2,1,0,0
 2020-06-14,Orange,059,346,755,4,71
 2020-06-14,Placer,061,2,2,0,2
-2020-06-14,Riverside,065,404,739,2,82
+2020-06-14,Riverside,065,405,740,3,83
 2020-06-14,Sacramento,067,35,115,1,9
 2020-06-14,San Benito,069,1,1,1,1
 2020-06-14,San Bernardino,071,287,630,3,63
@@ -396,7 +396,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-15,Napa,055,2,1,0,0
 2020-06-15,Orange,059,355,776,4,71
 2020-06-15,Placer,061,2,2,0,2
-2020-06-15,Riverside,065,408,765,2,82
+2020-06-15,Riverside,065,409,766,3,83
 2020-06-15,Sacramento,067,36,115,1,9
 2020-06-15,San Benito,069,1,1,1,1
 2020-06-15,San Bernardino,071,287,633,3,63
@@ -435,7 +435,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-16,Napa,055,2,1,0,0
 2020-06-16,Orange,059,379,781,4,82
 2020-06-16,Placer,061,2,2,0,2
-2020-06-16,Riverside,065,430,769,2,84
+2020-06-16,Riverside,065,431,770,3,85
 2020-06-16,Sacramento,067,36,115,1,9
 2020-06-16,San Benito,069,1,1,1,1
 2020-06-16,San Bernardino,071,287,633,3,63
@@ -474,7 +474,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-17,Napa,055,2,1,0,0
 2020-06-17,Orange,059,387,794,4,82
 2020-06-17,Placer,061,2,2,0,2
-2020-06-17,Riverside,065,436,812,2,85
+2020-06-17,Riverside,065,437,813,3,86
 2020-06-17,Sacramento,067,36,115,1,9
 2020-06-17,San Benito,069,1,1,1,1
 2020-06-17,San Bernardino,071,308,642,3,63
@@ -513,7 +513,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-18,Napa,055,2,1,0,0
 2020-06-18,Orange,059,406,796,4,84
 2020-06-18,Placer,061,2,2,0,2
-2020-06-18,Riverside,065,450,813,2,85
+2020-06-18,Riverside,065,451,814,3,86
 2020-06-18,Sacramento,067,36,115,1,9
 2020-06-18,San Benito,069,1,1,1,1
 2020-06-18,San Bernardino,071,308,643,3,63
@@ -552,7 +552,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-19,Napa,055,2,1,0,0
 2020-06-19,Orange,059,411,854,5,84
 2020-06-19,Placer,061,3,2,0,2
-2020-06-19,Riverside,065,458,827,2,85
+2020-06-19,Riverside,065,459,828,3,86
 2020-06-19,Sacramento,067,37,115,1,9
 2020-06-19,San Benito,069,1,1,1,1
 2020-06-19,San Bernardino,071,308,645,3,63
@@ -591,7 +591,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-20,Napa,055,2,1,0,0
 2020-06-20,Orange,059,425,865,5,86
 2020-06-20,Placer,061,3,2,0,2
-2020-06-20,Riverside,065,469,833,2,85
+2020-06-20,Riverside,065,470,834,3,86
 2020-06-20,Sacramento,067,37,115,1,9
 2020-06-20,San Benito,069,1,1,1,1
 2020-06-20,San Bernardino,071,309,649,3,63
@@ -630,7 +630,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-21,Napa,055,2,1,0,0
 2020-06-21,Orange,059,456,883,6,86
 2020-06-21,Placer,061,3,2,0,2
-2020-06-21,Riverside,065,481,834,2,85
+2020-06-21,Riverside,065,482,835,3,86
 2020-06-21,Sacramento,067,37,115,1,9
 2020-06-21,San Benito,069,1,1,1,1
 2020-06-21,San Bernardino,071,310,669,3,63
@@ -669,7 +669,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-22,Napa,055,2,1,0,0
 2020-06-22,Orange,059,461,889,6,89
 2020-06-22,Placer,061,3,2,0,2
-2020-06-22,Riverside,065,486,859,2,85
+2020-06-22,Riverside,065,487,860,3,86
 2020-06-22,Sacramento,067,37,117,1,9
 2020-06-22,San Benito,069,1,1,1,1
 2020-06-22,San Bernardino,071,312,670,3,63
@@ -709,7 +709,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-23,Nevada,057,1,0,0,0
 2020-06-23,Orange,059,486,906,6,90
 2020-06-23,Placer,061,4,3,0,2
-2020-06-23,Riverside,065,494,870,2,85
+2020-06-23,Riverside,065,495,871,3,86
 2020-06-23,Sacramento,067,38,118,1,9
 2020-06-23,San Benito,069,1,1,1,1
 2020-06-23,San Bernardino,071,318,675,4,64
@@ -749,7 +749,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-24,Nevada,057,1,0,0,0
 2020-06-24,Orange,059,525,928,6,90
 2020-06-24,Placer,061,4,3,0,2
-2020-06-24,Riverside,065,498,872,2,86
+2020-06-24,Riverside,065,499,873,3,87
 2020-06-24,Sacramento,067,38,120,1,9
 2020-06-24,San Benito,069,1,1,1,1
 2020-06-24,San Bernardino,071,322,678,4,64
@@ -789,7 +789,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-25,Nevada,057,1,0,0,0
 2020-06-25,Orange,059,540,941,6,102
 2020-06-25,Placer,061,5,3,0,2
-2020-06-25,Riverside,065,512,882,2,86
+2020-06-25,Riverside,065,513,883,3,87
 2020-06-25,Sacramento,067,39,122,1,10
 2020-06-25,San Benito,069,1,1,1,1
 2020-06-25,San Bernardino,071,324,681,4,65
@@ -829,7 +829,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-26,Nevada,057,1,0,0,0
 2020-06-26,Orange,059,564,957,6,102
 2020-06-26,Placer,061,5,3,0,2
-2020-06-26,Riverside,065,519,883,2,86
+2020-06-26,Riverside,065,520,884,3,87
 2020-06-26,Sacramento,067,41,122,1,10
 2020-06-26,San Benito,069,1,1,1,1
 2020-06-26,San Bernardino,071,325,695,4,65
@@ -869,7 +869,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-27,Nevada,057,1,0,0,0
 2020-06-27,Orange,059,583,967,6,103
 2020-06-27,Placer,061,5,4,0,2
-2020-06-27,Riverside,065,532,879,2,87
+2020-06-27,Riverside,065,533,880,3,88
 2020-06-27,Sacramento,067,42,123,1,10
 2020-06-27,San Benito,069,1,1,1,1
 2020-06-27,San Bernardino,071,328,732,4,65
@@ -909,7 +909,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-28,Nevada,057,1,0,0,0
 2020-06-28,Orange,059,591,974,6,107
 2020-06-28,Placer,061,5,4,0,2
-2020-06-28,Riverside,065,575,920,2,88
+2020-06-28,Riverside,065,576,921,3,89
 2020-06-28,Sacramento,067,55,124,1,10
 2020-06-28,San Benito,069,1,1,1,1
 2020-06-28,San Bernardino,071,339,754,4,65
@@ -949,7 +949,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-29,Nevada,057,1,0,0,0
 2020-06-29,Orange,059,603,984,6,110
 2020-06-29,Placer,061,5,4,0,2
-2020-06-29,Riverside,065,582,926,2,88
+2020-06-29,Riverside,065,583,927,3,89
 2020-06-29,Sacramento,067,55,124,1,10
 2020-06-29,San Benito,069,1,1,1,1
 2020-06-29,San Bernardino,071,372,767,4,66
@@ -989,7 +989,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-06-30,Nevada,057,1,0,0,0
 2020-06-30,Orange,059,614,992,6,113
 2020-06-30,Placer,061,5,4,0,2
-2020-06-30,Riverside,065,588,927,2,88
+2020-06-30,Riverside,065,589,928,3,89
 2020-06-30,Sacramento,067,56,124,1,10
 2020-06-30,San Benito,069,1,1,1,1
 2020-06-30,San Bernardino,071,374,787,4,67
@@ -1029,7 +1029,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-01,Nevada,057,1,0,0,0
 2020-07-01,Orange,059,653,998,6,125
 2020-07-01,Placer,061,5,4,0,2
-2020-07-01,Riverside,065,594,950,2,89
+2020-07-01,Riverside,065,595,951,3,90
 2020-07-01,Sacramento,067,56,124,1,10
 2020-07-01,San Benito,069,1,1,1,1
 2020-07-01,San Bernardino,071,385,806,4,67
@@ -1069,7 +1069,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-02,Nevada,057,1,0,0,0
 2020-07-02,Orange,059,666,1011,6,125
 2020-07-02,Placer,061,5,4,0,2
-2020-07-02,Riverside,065,596,956,2,89
+2020-07-02,Riverside,065,597,957,3,90
 2020-07-02,Sacramento,067,56,124,1,10
 2020-07-02,San Benito,069,1,1,1,1
 2020-07-02,San Bernardino,071,386,812,4,67
@@ -1110,7 +1110,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-03,Nevada,057,1,0,0,0
 2020-07-03,Orange,059,677,1018,6,126
 2020-07-03,Placer,061,5,4,0,2
-2020-07-03,Riverside,065,613,987,2,89
+2020-07-03,Riverside,065,614,988,3,90
 2020-07-03,Sacramento,067,57,124,1,10
 2020-07-03,San Benito,069,1,1,1,1
 2020-07-03,San Bernardino,071,396,817,5,67
@@ -1152,7 +1152,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-04,Nevada,057,1,0,0,0
 2020-07-04,Orange,059,689,1048,6,128
 2020-07-04,Placer,061,5,4,0,2
-2020-07-04,Riverside,065,614,998,2,89
+2020-07-04,Riverside,065,615,999,3,90
 2020-07-04,Sacramento,067,57,134,1,10
 2020-07-04,San Benito,069,1,1,1,1
 2020-07-04,San Bernardino,071,397,846,5,67
@@ -1194,7 +1194,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-05,Nevada,057,1,0,0,0
 2020-07-05,Orange,059,696,1054,6,128
 2020-07-05,Placer,061,5,4,0,2
-2020-07-05,Riverside,065,615,1009,2,90
+2020-07-05,Riverside,065,616,1010,3,91
 2020-07-05,Sacramento,067,57,134,1,10
 2020-07-05,San Benito,069,1,1,1,1
 2020-07-05,San Bernardino,071,400,868,5,69
@@ -1236,7 +1236,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-06,Nevada,057,1,0,0,0
 2020-07-06,Orange,059,712,1059,7,128
 2020-07-06,Placer,061,5,4,0,2
-2020-07-06,Riverside,065,620,1021,2,90
+2020-07-06,Riverside,065,621,1022,3,91
 2020-07-06,Sacramento,067,58,135,1,10
 2020-07-06,San Benito,069,1,1,1,1
 2020-07-06,San Bernardino,071,418,887,5,72
@@ -1278,7 +1278,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-07,Nevada,057,1,0,0,0
 2020-07-07,Orange,059,725,1095,7,131
 2020-07-07,Placer,061,5,4,0,2
-2020-07-07,Riverside,065,637,1029,2,90
+2020-07-07,Riverside,065,638,1030,3,91
 2020-07-07,Sacramento,067,58,136,1,11
 2020-07-07,San Benito,069,1,1,1,1
 2020-07-07,San Bernardino,071,437,893,5,72
@@ -1320,7 +1320,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-08,Nevada,057,1,0,0,0
 2020-07-08,Orange,059,772,1120,7,132
 2020-07-08,Placer,061,5,4,0,2
-2020-07-08,Riverside,065,639,1050,2,90
+2020-07-08,Riverside,065,640,1051,3,91
 2020-07-08,Sacramento,067,59,149,1,13
 2020-07-08,San Benito,069,1,1,1,1
 2020-07-08,San Bernardino,071,453,911,6,73
@@ -1363,7 +1363,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-09,Orange,059,801,1128,7,135
 2020-07-09,Placer,061,5,4,0,2
 2020-07-09,Plumas,063,1,0,0,0
-2020-07-09,Riverside,065,642,1055,2,91
+2020-07-09,Riverside,065,643,1056,3,92
 2020-07-09,Sacramento,067,60,153,1,13
 2020-07-09,San Benito,069,1,1,1,1
 2020-07-09,San Bernardino,071,454,937,6,75
@@ -1406,7 +1406,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-10,Orange,059,837,1165,7,135
 2020-07-10,Placer,061,5,4,0,2
 2020-07-10,Plumas,063,1,0,0,0
-2020-07-10,Riverside,065,662,1061,3,93
+2020-07-10,Riverside,065,663,1062,4,94
 2020-07-10,Sacramento,067,60,154,1,13
 2020-07-10,San Benito,069,1,1,1,1
 2020-07-10,San Bernardino,071,470,951,6,76
@@ -1449,7 +1449,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-11,Orange,059,848,1190,7,136
 2020-07-11,Placer,061,5,4,0,2
 2020-07-11,Plumas,063,1,0,0,0
-2020-07-11,Riverside,065,667,1076,3,93
+2020-07-11,Riverside,065,668,1077,4,94
 2020-07-11,Sacramento,067,62,155,1,13
 2020-07-11,San Benito,069,1,1,1,1
 2020-07-11,San Bernardino,071,474,970,6,76
@@ -1493,7 +1493,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-12,Orange,059,862,1196,7,138
 2020-07-12,Placer,061,5,4,0,2
 2020-07-12,Plumas,063,1,0,0,0
-2020-07-12,Riverside,065,669,1077,3,93
+2020-07-12,Riverside,065,670,1078,4,94
 2020-07-12,Sacramento,067,62,155,1,13
 2020-07-12,San Benito,069,2,1,1,1
 2020-07-12,San Bernardino,071,512,1004,6,77
@@ -1537,7 +1537,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-13,Orange,059,872,1216,7,141
 2020-07-13,Placer,061,5,4,0,2
 2020-07-13,Plumas,063,1,0,0,0
-2020-07-13,Riverside,065,681,1091,3,94
+2020-07-13,Riverside,065,682,1092,4,95
 2020-07-13,Sacramento,067,62,155,1,13
 2020-07-13,San Benito,069,2,1,1,1
 2020-07-13,San Bernardino,071,525,1017,6,77
@@ -1581,7 +1581,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-14,Orange,059,893,1231,7,143
 2020-07-14,Placer,061,6,4,0,2
 2020-07-14,Plumas,063,1,0,0,0
-2020-07-14,Riverside,065,687,1095,3,95
+2020-07-14,Riverside,065,688,1096,4,96
 2020-07-14,Sacramento,067,63,160,1,14
 2020-07-14,San Benito,069,2,1,1,1
 2020-07-14,San Bernardino,071,548,1041,6,77
@@ -1625,7 +1625,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-15,Orange,059,914,1261,7,145
 2020-07-15,Placer,061,6,4,0,2
 2020-07-15,Plumas,063,1,0,0,0
-2020-07-15,Riverside,065,690,1103,3,96
+2020-07-15,Riverside,065,691,1104,4,97
 2020-07-15,Sacramento,067,73,161,1,14
 2020-07-15,San Benito,069,2,1,1,1
 2020-07-15,San Bernardino,071,566,1048,6,78
@@ -1669,7 +1669,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-16,Orange,059,936,1297,7,146
 2020-07-16,Placer,061,6,4,0,2
 2020-07-16,Plumas,063,1,0,0,0
-2020-07-16,Riverside,065,704,1111,3,107
+2020-07-16,Riverside,065,705,1112,4,108
 2020-07-16,Sacramento,067,74,172,1,14
 2020-07-16,San Benito,069,2,1,1,1
 2020-07-16,San Bernardino,071,589,1054,6,79
@@ -1714,7 +1714,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-17,Orange,059,946,1298,7,146
 2020-07-17,Placer,061,6,4,0,2
 2020-07-17,Plumas,063,1,0,0,0
-2020-07-17,Riverside,065,715,1152,3,107
+2020-07-17,Riverside,065,716,1153,4,108
 2020-07-17,Sacramento,067,74,172,1,14
 2020-07-17,San Benito,069,2,1,1,1
 2020-07-17,San Bernardino,071,595,1058,6,79
@@ -1759,7 +1759,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-18,Orange,059,952,1303,7,148
 2020-07-18,Placer,061,8,4,0,2
 2020-07-18,Plumas,063,1,0,0,0
-2020-07-18,Riverside,065,730,1162,3,107
+2020-07-18,Riverside,065,731,1163,4,108
 2020-07-18,Sacramento,067,74,172,1,14
 2020-07-18,San Benito,069,2,1,1,1
 2020-07-18,San Bernardino,071,624,1100,6,79
@@ -1804,7 +1804,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-19,Orange,059,968,1304,7,149
 2020-07-19,Placer,061,8,4,0,2
 2020-07-19,Plumas,063,1,0,0,0
-2020-07-19,Riverside,065,736,1169,3,107
+2020-07-19,Riverside,065,737,1170,4,108
 2020-07-19,Sacramento,067,74,176,1,14
 2020-07-19,San Benito,069,2,1,1,1
 2020-07-19,San Bernardino,071,639,1121,6,80
@@ -1849,7 +1849,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-20,Orange,059,977,1306,7,149
 2020-07-20,Placer,061,8,4,0,2
 2020-07-20,Plumas,063,1,0,0,0
-2020-07-20,Riverside,065,740,1177,3,117
+2020-07-20,Riverside,065,741,1178,4,118
 2020-07-20,Sacramento,067,74,177,1,14
 2020-07-20,San Benito,069,2,1,1,1
 2020-07-20,San Bernardino,071,644,1145,6,80
@@ -1894,7 +1894,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-21,Orange,059,995,1332,7,154
 2020-07-21,Placer,061,8,5,0,2
 2020-07-21,Plumas,063,1,0,0,0
-2020-07-21,Riverside,065,763,1183,4,120
+2020-07-21,Riverside,065,764,1184,5,121
 2020-07-21,Sacramento,067,76,179,1,16
 2020-07-21,San Benito,069,2,1,1,1
 2020-07-21,San Bernardino,071,677,1211,6,81
@@ -1939,7 +1939,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-22,Orange,059,1005,1393,7,156
 2020-07-22,Placer,061,8,5,0,3
 2020-07-22,Plumas,063,1,0,0,0
-2020-07-22,Riverside,065,776,1220,4,121
+2020-07-22,Riverside,065,777,1221,5,122
 2020-07-22,Sacramento,067,90,180,1,16
 2020-07-22,San Benito,069,2,1,1,1
 2020-07-22,San Bernardino,071,714,1276,6,91
@@ -1984,7 +1984,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-23,Orange,059,1022,1411,8,159
 2020-07-23,Placer,061,8,5,0,3
 2020-07-23,Plumas,063,1,0,0,0
-2020-07-23,Riverside,065,779,1228,5,121
+2020-07-23,Riverside,065,780,1229,6,122
 2020-07-23,Sacramento,067,92,181,1,16
 2020-07-23,San Benito,069,2,1,1,1
 2020-07-23,San Bernardino,071,748,1293,6,93
@@ -2029,7 +2029,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-24,Orange,059,1039,1420,8,160
 2020-07-24,Placer,061,9,5,0,3
 2020-07-24,Plumas,063,1,0,0,0
-2020-07-24,Riverside,065,818,1231,5,122
+2020-07-24,Riverside,065,819,1232,6,123
 2020-07-24,Sacramento,067,93,181,1,16
 2020-07-24,San Benito,069,2,1,1,1
 2020-07-24,San Bernardino,071,758,1324,7,114
@@ -2074,7 +2074,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-25,Orange,059,1037,1456,8,161
 2020-07-25,Placer,061,9,5,0,3
 2020-07-25,Plumas,063,1,0,0,0
-2020-07-25,Riverside,065,819,1232,5,123
+2020-07-25,Riverside,065,820,1233,6,124
 2020-07-25,Sacramento,067,114,182,1,16
 2020-07-25,San Benito,069,2,1,1,1
 2020-07-25,San Bernardino,071,761,1362,7,124
@@ -2119,7 +2119,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-26,Orange,059,1094,1485,8,164
 2020-07-26,Placer,061,9,6,0,3
 2020-07-26,Plumas,063,1,0,0,0
-2020-07-26,Riverside,065,824,1240,5,123
+2020-07-26,Riverside,065,825,1241,6,124
 2020-07-26,Sacramento,067,115,193,1,16
 2020-07-26,San Benito,069,2,1,1,1
 2020-07-26,San Bernardino,071,766,1379,7,124
@@ -2164,7 +2164,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-27,Orange,059,1077,1502,8,164
 2020-07-27,Placer,061,9,6,0,3
 2020-07-27,Plumas,063,1,0,0,0
-2020-07-27,Riverside,065,838,1267,5,123
+2020-07-27,Riverside,065,839,1268,6,124
 2020-07-27,Sacramento,067,127,195,1,17
 2020-07-27,San Benito,069,2,1,1,1
 2020-07-27,San Bernardino,071,784,1380,7,127
@@ -2210,7 +2210,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-28,Orange,059,1105,1509,8,165
 2020-07-28,Placer,061,9,6,0,3
 2020-07-28,Plumas,063,1,0,0,0
-2020-07-28,Riverside,065,854,1274,5,126
+2020-07-28,Riverside,065,855,1275,6,127
 2020-07-28,Sacramento,067,138,196,1,17
 2020-07-28,San Benito,069,2,1,1,1
 2020-07-28,San Bernardino,071,789,1383,7,128
@@ -2256,7 +2256,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-29,Orange,059,1135,1518,8,166
 2020-07-29,Placer,061,9,6,0,3
 2020-07-29,Plumas,063,1,0,0,0
-2020-07-29,Riverside,065,882,1284,6,126
+2020-07-29,Riverside,065,883,1285,7,127
 2020-07-29,Sacramento,067,152,198,1,19
 2020-07-29,San Benito,069,2,1,1,1
 2020-07-29,San Bernardino,071,813,1395,8,129
@@ -2302,7 +2302,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-30,Orange,059,1155,1528,8,176
 2020-07-30,Placer,061,9,6,0,3
 2020-07-30,Plumas,063,1,0,0,0
-2020-07-30,Riverside,065,889,1302,6,127
+2020-07-30,Riverside,065,890,1303,7,128
 2020-07-30,Sacramento,067,161,202,1,19
 2020-07-30,San Benito,069,2,1,1,2
 2020-07-30,San Bernardino,071,832,1442,8,130
@@ -2348,7 +2348,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-07-31,Orange,059,1171,1551,8,177
 2020-07-31,Placer,061,9,7,0,4
 2020-07-31,Plumas,063,1,0,0,0
-2020-07-31,Riverside,065,917,1323,6,128
+2020-07-31,Riverside,065,918,1324,7,129
 2020-07-31,Sacramento,067,163,223,1,19
 2020-07-31,San Benito,069,2,1,1,2
 2020-07-31,San Bernardino,071,840,1460,8,131
@@ -2394,7 +2394,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-01,Orange,059,1244,1595,9,180
 2020-08-01,Placer,061,9,7,0,4
 2020-08-01,Plumas,063,1,0,0,0
-2020-08-01,Riverside,065,929,1329,6,130
+2020-08-01,Riverside,065,930,1330,7,131
 2020-08-01,Sacramento,067,163,226,1,20
 2020-08-01,San Benito,069,2,1,1,2
 2020-08-01,San Bernardino,071,857,1491,8,133
@@ -2440,7 +2440,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-02,Orange,059,1249,1621,9,183
 2020-08-02,Placer,061,9,7,0,4
 2020-08-02,Plumas,063,1,0,0,0
-2020-08-02,Riverside,065,940,1334,6,130
+2020-08-02,Riverside,065,941,1335,7,131
 2020-08-02,Sacramento,067,163,241,1,20
 2020-08-02,San Benito,069,2,1,1,2
 2020-08-02,San Bernardino,071,864,1497,8,133
@@ -2487,7 +2487,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-03,Orange,059,1257,1626,9,184
 2020-08-03,Placer,061,9,7,0,4
 2020-08-03,Plumas,063,1,0,0,0
-2020-08-03,Riverside,065,947,1338,6,130
+2020-08-03,Riverside,065,948,1339,7,131
 2020-08-03,Sacramento,067,165,248,1,20
 2020-08-03,San Benito,069,2,1,1,2
 2020-08-03,San Bernardino,071,870,1504,8,133
@@ -2534,7 +2534,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-04,Orange,059,1260,1631,9,198
 2020-08-04,Placer,061,10,8,0,5
 2020-08-04,Plumas,063,1,0,0,0
-2020-08-04,Riverside,065,950,1352,6,131
+2020-08-04,Riverside,065,951,1353,7,132
 2020-08-04,Sacramento,067,167,249,1,20
 2020-08-04,San Benito,069,2,1,1,2
 2020-08-04,San Bernardino,071,880,1514,8,134
@@ -2581,7 +2581,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-05,Orange,059,1280,1661,9,198
 2020-08-05,Placer,061,10,8,0,5
 2020-08-05,Plumas,063,1,0,0,0
-2020-08-05,Riverside,065,953,1371,6,132
+2020-08-05,Riverside,065,954,1372,7,133
 2020-08-05,Sacramento,067,187,277,2,20
 2020-08-05,San Benito,069,2,1,1,2
 2020-08-05,San Bernardino,071,894,1525,8,134
@@ -2628,7 +2628,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-06,Orange,059,1286,1673,9,198
 2020-08-06,Placer,061,10,8,0,5
 2020-08-06,Plumas,063,1,0,0,0
-2020-08-06,Riverside,065,960,1411,6,132
+2020-08-06,Riverside,065,961,1412,7,133
 2020-08-06,Sacramento,067,189,279,2,20
 2020-08-06,San Benito,069,2,1,1,2
 2020-08-06,San Bernardino,071,911,1527,8,134
@@ -2675,7 +2675,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-07,Orange,059,1297,1700,9,199
 2020-08-07,Placer,061,10,8,0,5
 2020-08-07,Plumas,063,1,0,0,0
-2020-08-07,Riverside,065,964,1431,6,132
+2020-08-07,Riverside,065,965,1432,7,133
 2020-08-07,Sacramento,067,219,300,2,20
 2020-08-07,San Benito,069,2,1,1,2
 2020-08-07,San Bernardino,071,923,1553,9,134
@@ -2722,7 +2722,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-08,Orange,059,1306,1740,9,201
 2020-08-08,Placer,061,10,21,0,5
 2020-08-08,Plumas,063,1,0,0,0
-2020-08-08,Riverside,065,969,1448,6,133
+2020-08-08,Riverside,065,970,1449,7,134
 2020-08-08,Sacramento,067,237,324,2,21
 2020-08-08,San Benito,069,2,1,1,2
 2020-08-08,San Bernardino,071,930,1596,9,136
@@ -2769,7 +2769,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-09,Orange,059,1309,1765,9,201
 2020-08-09,Placer,061,10,21,0,5
 2020-08-09,Plumas,063,1,0,0,0
-2020-08-09,Riverside,065,971,1472,6,133
+2020-08-09,Riverside,065,972,1473,7,134
 2020-08-09,Sacramento,067,267,358,2,22
 2020-08-09,San Benito,069,2,1,1,2
 2020-08-09,San Bernardino,071,933,1598,9,137
@@ -2816,7 +2816,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-10,Orange,059,1320,1772,9,203
 2020-08-10,Placer,061,10,21,0,5
 2020-08-10,Plumas,063,1,0,0,0
-2020-08-10,Riverside,065,987,1479,6,135
+2020-08-10,Riverside,065,988,1480,7,136
 2020-08-10,Sacramento,067,271,373,2,22
 2020-08-10,San Benito,069,2,1,1,2
 2020-08-10,San Bernardino,071,949,1621,9,137
@@ -2863,7 +2863,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-11,Orange,059,1322,1772,9,205
 2020-08-11,Placer,061,10,21,0,5
 2020-08-11,Plumas,063,1,0,0,0
-2020-08-11,Riverside,065,993,1494,6,136
+2020-08-11,Riverside,065,994,1495,7,137
 2020-08-11,Sacramento,067,283,393,2,22
 2020-08-11,San Benito,069,2,1,1,2
 2020-08-11,San Bernardino,071,958,1657,9,137
@@ -2910,7 +2910,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-12,Orange,059,1340,1785,9,206
 2020-08-12,Placer,061,10,24,0,5
 2020-08-12,Plumas,063,1,0,0,0
-2020-08-12,Riverside,065,1002,1507,6,136
+2020-08-12,Riverside,065,1003,1508,7,137
 2020-08-12,Sacramento,067,293,418,2,22
 2020-08-12,San Benito,069,2,1,1,2
 2020-08-12,San Bernardino,071,962,1663,9,137
@@ -2957,7 +2957,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-13,Orange,059,1355,1794,9,206
 2020-08-13,Placer,061,10,24,0,5
 2020-08-13,Plumas,063,1,0,0,0
-2020-08-13,Riverside,065,1008,1530,6,136
+2020-08-13,Riverside,065,1009,1531,7,137
 2020-08-13,Sacramento,067,307,426,2,22
 2020-08-13,San Benito,069,2,1,1,2
 2020-08-13,San Bernardino,071,979,1720,9,139
@@ -3004,7 +3004,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-14,Orange,059,1361,1803,10,206
 2020-08-14,Placer,061,11,24,0,5
 2020-08-14,Plumas,063,1,0,0,0
-2020-08-14,Riverside,065,1016,1540,6,136
+2020-08-14,Riverside,065,1017,1541,7,137
 2020-08-14,Sacramento,067,321,433,2,22
 2020-08-14,San Benito,069,2,1,1,2
 2020-08-14,San Bernardino,071,1003,1743,9,140
@@ -3052,7 +3052,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-15,Orange,059,1391,1828,10,220
 2020-08-15,Placer,061,11,24,0,5
 2020-08-15,Plumas,063,1,0,0,0
-2020-08-15,Riverside,065,1017,1553,6,136
+2020-08-15,Riverside,065,1018,1554,7,137
 2020-08-15,Sacramento,067,334,445,2,22
 2020-08-15,San Benito,069,2,1,1,2
 2020-08-15,San Bernardino,071,1010,1763,9,141
@@ -3100,7 +3100,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-16,Orange,059,1394,1878,10,220
 2020-08-16,Placer,061,11,24,0,5
 2020-08-16,Plumas,063,1,0,0,0
-2020-08-16,Riverside,065,1047,1562,6,136
+2020-08-16,Riverside,065,1048,1563,7,137
 2020-08-16,Sacramento,067,341,470,2,22
 2020-08-16,San Benito,069,2,1,1,2
 2020-08-16,San Bernardino,071,1012,1764,9,141
@@ -3148,7 +3148,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-17,Orange,059,1396,1893,10,235
 2020-08-17,Placer,061,11,25,0,5
 2020-08-17,Plumas,063,1,0,0,0
-2020-08-17,Riverside,065,1048,1563,6,136
+2020-08-17,Riverside,065,1049,1564,7,137
 2020-08-17,Sacramento,067,347,473,2,22
 2020-08-17,San Benito,069,2,1,1,2
 2020-08-17,San Bernardino,071,1021,1764,9,141
@@ -3196,7 +3196,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-18,Orange,059,1421,1901,10,245
 2020-08-18,Placer,061,11,25,0,5
 2020-08-18,Plumas,063,1,0,0,0
-2020-08-18,Riverside,065,1050,1568,6,136
+2020-08-18,Riverside,065,1051,1569,7,137
 2020-08-18,Sacramento,067,352,476,2,32
 2020-08-18,San Benito,069,2,1,1,2
 2020-08-18,San Bernardino,071,1035,1757,9,142
@@ -3245,7 +3245,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-19,Orange,059,1423,1922,10,246
 2020-08-19,Placer,061,11,25,0,5
 2020-08-19,Plumas,063,1,0,0,0
-2020-08-19,Riverside,065,1063,1578,6,137
+2020-08-19,Riverside,065,1064,1579,7,138
 2020-08-19,Sacramento,067,352,479,2,32
 2020-08-19,San Benito,069,2,1,1,2
 2020-08-19,San Bernardino,071,1052,1762,9,142
@@ -3294,7 +3294,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-20,Orange,059,1431,1937,10,250
 2020-08-20,Placer,061,11,25,0,5
 2020-08-20,Plumas,063,1,0,0,0
-2020-08-20,Riverside,065,1065,1602,6,137
+2020-08-20,Riverside,065,1066,1603,7,138
 2020-08-20,Sacramento,067,361,495,2,32
 2020-08-20,San Benito,069,2,1,1,2
 2020-08-20,San Bernardino,071,1054,1782,9,142
@@ -3344,7 +3344,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-21,Orange,059,1479,1966,11,250
 2020-08-21,Placer,061,11,25,0,5
 2020-08-21,Plumas,063,1,0,0,0
-2020-08-21,Riverside,065,1081,1603,6,138
+2020-08-21,Riverside,065,1082,1604,7,139
 2020-08-21,Sacramento,067,363,501,2,33
 2020-08-21,San Benito,069,2,1,1,2
 2020-08-21,San Bernardino,071,1066,1811,9,143
@@ -3394,7 +3394,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-22,Orange,059,1488,1981,11,252
 2020-08-22,Placer,061,11,25,0,5
 2020-08-22,Plumas,063,1,0,0,0
-2020-08-22,Riverside,065,1092,1604,6,138
+2020-08-22,Riverside,065,1093,1605,7,139
 2020-08-22,Sacramento,067,366,506,2,34
 2020-08-22,San Benito,069,2,1,1,2
 2020-08-22,San Bernardino,071,1068,1813,9,143
@@ -3444,7 +3444,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-23,Orange,059,1496,1992,10,252
 2020-08-23,Placer,061,11,25,0,5
 2020-08-23,Plumas,063,1,0,0,0
-2020-08-23,Riverside,065,1097,1611,6,138
+2020-08-23,Riverside,065,1098,1612,7,139
 2020-08-23,Sacramento,067,385,518,2,34
 2020-08-23,San Benito,069,2,1,1,2
 2020-08-23,San Bernardino,071,1071,1813,9,144
@@ -3494,7 +3494,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-24,Orange,059,1507,2005,10,252
 2020-08-24,Placer,061,11,25,0,5
 2020-08-24,Plumas,063,1,0,0,0
-2020-08-24,Riverside,065,1101,1614,6,139
+2020-08-24,Riverside,065,1102,1615,7,140
 2020-08-24,Sacramento,067,385,518,2,35
 2020-08-24,San Benito,069,2,1,1,2
 2020-08-24,San Bernardino,071,1077,1819,9,144
@@ -3544,7 +3544,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-25,Orange,059,1506,2008,10,257
 2020-08-25,Placer,061,11,25,0,5
 2020-08-25,Plumas,063,1,0,0,0
-2020-08-25,Riverside,065,1112,1627,7,139
+2020-08-25,Riverside,065,1113,1628,8,140
 2020-08-25,Sacramento,067,388,524,2,35
 2020-08-25,San Benito,069,2,1,1,2
 2020-08-25,San Bernardino,071,1080,1819,9,144
@@ -3594,7 +3594,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-26,Orange,059,1535,2018,10,257
 2020-08-26,Placer,061,11,25,0,5
 2020-08-26,Plumas,063,1,0,0,0
-2020-08-26,Riverside,065,1113,1628,7,139
+2020-08-26,Riverside,065,1114,1629,8,140
 2020-08-26,Sacramento,067,389,525,2,45
 2020-08-26,San Benito,069,2,1,1,2
 2020-08-26,San Bernardino,071,1085,1823,9,145
@@ -3644,7 +3644,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-27,Orange,059,1558,2020,10,260
 2020-08-27,Placer,061,11,25,0,5
 2020-08-27,Plumas,063,1,0,0,0
-2020-08-27,Riverside,065,1117,1631,7,139
+2020-08-27,Riverside,065,1118,1632,8,140
 2020-08-27,Sacramento,067,392,528,2,45
 2020-08-27,San Benito,069,2,1,1,2
 2020-08-27,San Bernardino,071,1085,1827,9,145
@@ -3694,7 +3694,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-28,Orange,059,1565,2028,10,260
 2020-08-28,Placer,061,12,26,0,6
 2020-08-28,Plumas,063,1,0,0,0
-2020-08-28,Riverside,065,1123,1633,7,139
+2020-08-28,Riverside,065,1124,1634,8,140
 2020-08-28,Sacramento,067,434,529,2,46
 2020-08-28,San Benito,069,2,1,1,2
 2020-08-28,San Bernardino,071,1086,1827,9,145
@@ -3744,7 +3744,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-29,Orange,059,1568,2034,10,261
 2020-08-29,Placer,061,12,27,0,7
 2020-08-29,Plumas,063,1,0,0,0
-2020-08-29,Riverside,065,1127,1633,7,139
+2020-08-29,Riverside,065,1128,1634,8,140
 2020-08-29,Sacramento,067,437,544,2,46
 2020-08-29,San Benito,069,2,1,1,2
 2020-08-29,San Bernardino,071,1088,1838,9,145
@@ -3794,7 +3794,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-30,Orange,059,1573,2036,10,262
 2020-08-30,Placer,061,12,27,0,7
 2020-08-30,Plumas,063,1,0,0,0
-2020-08-30,Riverside,065,1127,1634,7,139
+2020-08-30,Riverside,065,1128,1635,8,140
 2020-08-30,Sacramento,067,444,548,2,46
 2020-08-30,San Benito,069,2,1,1,2
 2020-08-30,San Bernardino,071,1089,1839,9,145
@@ -3845,7 +3845,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-08-31,Orange,059,1575,2038,10,262
 2020-08-31,Placer,061,12,27,0,7
 2020-08-31,Plumas,063,1,0,0,0
-2020-08-31,Riverside,065,1131,1641,7,141
+2020-08-31,Riverside,065,1132,1642,8,142
 2020-08-31,Sacramento,067,446,572,2,47
 2020-08-31,San Benito,069,2,1,1,2
 2020-08-31,San Bernardino,071,1091,1850,9,145
@@ -3896,7 +3896,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-01,Orange,059,1569,2039,10,273
 2020-09-01,Placer,061,12,27,0,7
 2020-09-01,Plumas,063,1,0,0,0
-2020-09-01,Riverside,065,1143,1653,7,141
+2020-09-01,Riverside,065,1144,1654,8,142
 2020-09-01,Sacramento,067,447,573,2,48
 2020-09-01,San Benito,069,2,1,1,2
 2020-09-01,San Bernardino,071,1092,1854,9,145
@@ -3947,7 +3947,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-02,Orange,059,1581,2043,9,275
 2020-09-02,Placer,061,12,27,0,7
 2020-09-02,Plumas,063,1,0,0,0
-2020-09-02,Riverside,065,1146,1662,7,141
+2020-09-02,Riverside,065,1147,1663,8,142
 2020-09-02,Sacramento,067,450,577,2,48
 2020-09-02,San Benito,069,2,2,1,2
 2020-09-02,San Bernardino,071,1094,1856,9,146
@@ -3998,7 +3998,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-03,Orange,059,1584,2056,10,275
 2020-09-03,Placer,061,12,27,0,7
 2020-09-03,Plumas,063,1,0,0,0
-2020-09-03,Riverside,065,1147,1662,7,141
+2020-09-03,Riverside,065,1148,1663,8,142
 2020-09-03,Sacramento,067,467,591,3,48
 2020-09-03,San Benito,069,2,2,1,2
 2020-09-03,San Bernardino,071,1096,1857,10,146
@@ -4049,7 +4049,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-04,Orange,059,1611,2059,10,276
 2020-09-04,Placer,061,22,50,0,7
 2020-09-04,Plumas,063,1,0,0,0
-2020-09-04,Riverside,065,1153,1667,7,141
+2020-09-04,Riverside,065,1154,1668,8,142
 2020-09-04,Sacramento,067,477,596,3,51
 2020-09-04,San Benito,069,2,2,1,2
 2020-09-04,San Bernardino,071,1099,1861,10,146
@@ -4100,7 +4100,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-05,Orange,059,1615,2071,10,276
 2020-09-05,Placer,061,22,50,0,7
 2020-09-05,Plumas,063,1,0,0,0
-2020-09-05,Riverside,065,1157,1669,7,141
+2020-09-05,Riverside,065,1158,1670,8,142
 2020-09-05,Sacramento,067,484,600,3,51
 2020-09-05,San Benito,069,2,2,1,2
 2020-09-05,San Bernardino,071,1099,1861,10,146
@@ -4151,7 +4151,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-06,Orange,059,1617,2072,10,277
 2020-09-06,Placer,061,22,50,0,7
 2020-09-06,Plumas,063,1,0,0,0
-2020-09-06,Riverside,065,1158,1669,7,141
+2020-09-06,Riverside,065,1159,1670,8,142
 2020-09-06,Sacramento,067,486,603,3,52
 2020-09-06,San Benito,069,2,2,1,2
 2020-09-06,San Bernardino,071,1099,1861,10,146
@@ -4202,7 +4202,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-07,Orange,059,1619,2078,10,277
 2020-09-07,Placer,061,22,50,0,7
 2020-09-07,Plumas,063,1,0,0,0
-2020-09-07,Riverside,065,1178,1698,7,141
+2020-09-07,Riverside,065,1179,1699,8,142
 2020-09-07,Sacramento,067,487,615,3,54
 2020-09-07,San Benito,069,2,2,1,2
 2020-09-07,San Bernardino,071,1100,1861,10,146
@@ -4253,7 +4253,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-08,Orange,059,1619,2082,10,279
 2020-09-08,Placer,061,22,50,0,7
 2020-09-08,Plumas,063,1,0,0,0
-2020-09-08,Riverside,065,1178,1699,7,141
+2020-09-08,Riverside,065,1179,1700,8,142
 2020-09-08,Sacramento,067,490,616,3,55
 2020-09-08,San Benito,069,2,2,1,2
 2020-09-08,San Bernardino,071,1101,1868,10,146
@@ -4304,7 +4304,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-09,Orange,059,1631,2087,8,282
 2020-09-09,Placer,061,22,50,0,7
 2020-09-09,Plumas,063,1,0,0,0
-2020-09-09,Riverside,065,1179,1704,7,141
+2020-09-09,Riverside,065,1180,1705,8,142
 2020-09-09,Sacramento,067,501,616,3,55
 2020-09-09,San Benito,069,2,2,1,2
 2020-09-09,San Bernardino,071,1102,1871,10,146
@@ -4355,7 +4355,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-10,Orange,059,1635,2099,8,284
 2020-09-10,Placer,061,23,51,0,8
 2020-09-10,Plumas,063,1,0,0,0
-2020-09-10,Riverside,065,1179,1708,7,141
+2020-09-10,Riverside,065,1180,1709,8,142
 2020-09-10,Sacramento,067,511,663,3,55
 2020-09-10,San Benito,069,2,2,1,2
 2020-09-10,San Bernardino,071,1114,1876,10,146
@@ -4406,7 +4406,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-11,Orange,059,1643,2103,8,285
 2020-09-11,Placer,061,26,56,0,8
 2020-09-11,Plumas,063,1,0,0,0
-2020-09-11,Riverside,065,1180,1704,7,141
+2020-09-11,Riverside,065,1181,1705,8,142
 2020-09-11,Sacramento,067,514,664,3,56
 2020-09-11,San Benito,069,2,2,1,2
 2020-09-11,San Bernardino,071,1114,1876,10,147
@@ -4457,7 +4457,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-12,Orange,059,1644,2110,8,285
 2020-09-12,Placer,061,27,56,0,8
 2020-09-12,Plumas,063,1,0,0,0
-2020-09-12,Riverside,065,1180,1709,7,141
+2020-09-12,Riverside,065,1181,1710,8,142
 2020-09-12,Sacramento,067,514,678,3,57
 2020-09-12,San Benito,069,2,2,1,2
 2020-09-12,San Bernardino,071,1114,1876,10,147
@@ -4508,7 +4508,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-13,Orange,059,1644,2110,8,285
 2020-09-13,Placer,061,27,56,0,8
 2020-09-13,Plumas,063,1,0,0,0
-2020-09-13,Riverside,065,1182,1711,7,141
+2020-09-13,Riverside,065,1183,1712,8,142
 2020-09-13,Sacramento,067,515,693,3,57
 2020-09-13,San Benito,069,2,2,1,2
 2020-09-13,San Bernardino,071,1114,1876,10,147
@@ -4559,7 +4559,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-14,Orange,059,1646,2120,8,285
 2020-09-14,Placer,061,27,56,0,8
 2020-09-14,Plumas,063,1,0,0,0
-2020-09-14,Riverside,065,1184,1708,7,141
+2020-09-14,Riverside,065,1185,1709,8,142
 2020-09-14,Sacramento,067,519,697,3,57
 2020-09-14,San Benito,069,2,2,1,2
 2020-09-14,San Bernardino,071,1114,1877,10,147
@@ -4610,7 +4610,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-15,Orange,059,1647,2123,8,286
 2020-09-15,Placer,061,27,56,0,8
 2020-09-15,Plumas,063,1,0,0,0
-2020-09-15,Riverside,065,1187,1708,7,141
+2020-09-15,Riverside,065,1188,1709,8,142
 2020-09-15,Sacramento,067,519,697,3,57
 2020-09-15,San Benito,069,2,2,1,2
 2020-09-15,San Bernardino,071,1114,1877,10,147
@@ -4661,7 +4661,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-16,Orange,059,1652,2142,8,287
 2020-09-16,Placer,061,27,56,0,8
 2020-09-16,Plumas,063,1,0,0,0
-2020-09-16,Riverside,065,1189,1708,7,141
+2020-09-16,Riverside,065,1190,1709,8,142
 2020-09-16,Sacramento,067,525,705,3,57
 2020-09-16,San Benito,069,2,2,1,2
 2020-09-16,San Bernardino,071,1115,1878,10,147
@@ -4712,7 +4712,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-17,Orange,059,1670,2150,8,287
 2020-09-17,Placer,061,27,56,0,8
 2020-09-17,Plumas,063,1,0,0,0
-2020-09-17,Riverside,065,1193,1709,7,141
+2020-09-17,Riverside,065,1194,1710,8,142
 2020-09-17,Sacramento,067,547,735,3,58
 2020-09-17,San Benito,069,2,2,1,2
 2020-09-17,San Bernardino,071,1115,1879,10,147
@@ -4763,7 +4763,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-18,Orange,059,1678,2155,8,290
 2020-09-18,Placer,061,27,56,0,8
 2020-09-18,Plumas,063,1,0,0,0
-2020-09-18,Riverside,065,1194,1710,7,141
+2020-09-18,Riverside,065,1195,1711,8,142
 2020-09-18,Sacramento,067,551,738,3,58
 2020-09-18,San Benito,069,2,2,1,2
 2020-09-18,San Bernardino,071,1115,1883,10,147
@@ -4814,7 +4814,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-19,Orange,059,1684,2159,8,292
 2020-09-19,Placer,061,27,56,0,8
 2020-09-19,Plumas,063,1,0,0,0
-2020-09-19,Riverside,065,1195,1710,7,141
+2020-09-19,Riverside,065,1196,1711,8,142
 2020-09-19,Sacramento,067,551,738,3,58
 2020-09-19,San Benito,069,2,2,1,2
 2020-09-19,San Bernardino,071,1115,1884,10,147
@@ -4865,7 +4865,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-20,Orange,059,1687,2162,9,293
 2020-09-20,Placer,061,27,56,0,8
 2020-09-20,Plumas,063,1,0,0,0
-2020-09-20,Riverside,065,1195,1711,7,141
+2020-09-20,Riverside,065,1196,1712,8,142
 2020-09-20,Sacramento,067,553,738,3,58
 2020-09-20,San Benito,069,2,2,1,2
 2020-09-20,San Bernardino,071,1115,1885,10,147
@@ -4917,7 +4917,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-21,Orange,059,1702,2187,9,293
 2020-09-21,Placer,061,27,56,0,8
 2020-09-21,Plumas,063,1,0,0,0
-2020-09-21,Riverside,065,1195,1711,7,141
+2020-09-21,Riverside,065,1196,1712,8,142
 2020-09-21,Sacramento,067,554,746,3,68
 2020-09-21,San Benito,069,2,2,1,2
 2020-09-21,San Bernardino,071,1116,1889,10,147
@@ -4969,7 +4969,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-22,Orange,059,1709,2200,9,295
 2020-09-22,Placer,061,27,56,0,8
 2020-09-22,Plumas,063,1,0,0,0
-2020-09-22,Riverside,065,1195,1712,7,141
+2020-09-22,Riverside,065,1196,1713,8,142
 2020-09-22,Sacramento,067,555,771,3,68
 2020-09-22,San Benito,069,2,2,1,2
 2020-09-22,San Bernardino,071,1116,1889,10,147
@@ -5021,7 +5021,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-23,Orange,059,1726,2228,9,295
 2020-09-23,Placer,061,27,56,0,8
 2020-09-23,Plumas,063,1,0,0,0
-2020-09-23,Riverside,065,1195,1712,7,141
+2020-09-23,Riverside,065,1196,1713,8,142
 2020-09-23,Sacramento,067,555,774,3,68
 2020-09-23,San Benito,069,2,2,1,2
 2020-09-23,San Bernardino,071,1117,1894,10,147
@@ -5073,7 +5073,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-24,Orange,059,1757,2244,9,295
 2020-09-24,Placer,061,27,56,0,8
 2020-09-24,Plumas,063,1,0,0,0
-2020-09-24,Riverside,065,1195,1715,7,141
+2020-09-24,Riverside,065,1196,1716,8,142
 2020-09-24,Sacramento,067,570,794,3,68
 2020-09-24,San Benito,069,2,2,1,2
 2020-09-24,San Bernardino,071,1118,1894,10,147
@@ -5125,7 +5125,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-25,Orange,059,1762,2257,9,295
 2020-09-25,Placer,061,27,56,0,8
 2020-09-25,Plumas,063,1,0,0,0
-2020-09-25,Riverside,065,1200,1727,7,142
+2020-09-25,Riverside,065,1201,1728,8,143
 2020-09-25,Sacramento,067,573,801,3,68
 2020-09-25,San Benito,069,2,2,1,2
 2020-09-25,San Bernardino,071,1121,1894,10,147
@@ -5177,7 +5177,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-26,Orange,059,1765,2261,9,296
 2020-09-26,Placer,061,27,56,0,8
 2020-09-26,Plumas,063,1,0,0,0
-2020-09-26,Riverside,065,1200,1731,7,142
+2020-09-26,Riverside,065,1201,1732,8,143
 2020-09-26,Sacramento,067,574,801,3,68
 2020-09-26,San Benito,069,2,2,1,2
 2020-09-26,San Bernardino,071,1121,1894,10,147
@@ -5229,7 +5229,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-27,Orange,059,1770,2265,9,297
 2020-09-27,Placer,061,27,56,0,8
 2020-09-27,Plumas,063,1,0,0,0
-2020-09-27,Riverside,065,1205,1747,7,142
+2020-09-27,Riverside,065,1206,1748,8,143
 2020-09-27,Sacramento,067,575,815,3,68
 2020-09-27,San Benito,069,2,2,1,2
 2020-09-27,San Bernardino,071,1121,1894,10,147
@@ -5281,7 +5281,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-28,Orange,059,1774,2266,9,298
 2020-09-28,Placer,061,27,56,0,8
 2020-09-28,Plumas,063,1,0,0,0
-2020-09-28,Riverside,065,1207,1748,7,142
+2020-09-28,Riverside,065,1208,1749,8,143
 2020-09-28,Sacramento,067,576,817,3,68
 2020-09-28,San Benito,069,2,2,1,2
 2020-09-28,San Bernardino,071,1123,1894,10,147
@@ -5334,7 +5334,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-29,Orange,059,1780,2283,10,298
 2020-09-29,Placer,061,27,56,0,8
 2020-09-29,Plumas,063,1,0,0,0
-2020-09-29,Riverside,065,1207,1750,7,142
+2020-09-29,Riverside,065,1208,1751,8,143
 2020-09-29,Sacramento,067,577,822,3,69
 2020-09-29,San Benito,069,2,2,1,2
 2020-09-29,San Bernardino,071,1133,1895,10,147
@@ -5387,7 +5387,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-09-30,Orange,059,1784,2296,10,298
 2020-09-30,Placer,061,27,56,0,8
 2020-09-30,Plumas,063,1,0,0,0
-2020-09-30,Riverside,065,1209,1751,7,142
+2020-09-30,Riverside,065,1210,1752,8,143
 2020-09-30,Sacramento,067,578,833,3,69
 2020-09-30,San Benito,069,3,3,1,3
 2020-09-30,San Bernardino,071,1123,1895,10,147
@@ -5440,7 +5440,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-01,Orange,059,1804,2300,10,311
 2020-10-01,Placer,061,27,66,0,8
 2020-10-01,Plumas,063,1,0,0,0
-2020-10-01,Riverside,065,1209,1756,7,142
+2020-10-01,Riverside,065,1210,1757,8,143
 2020-10-01,Sacramento,067,578,834,3,79
 2020-10-01,San Benito,069,3,3,1,3
 2020-10-01,San Bernardino,071,1133,1895,10,147
@@ -5493,7 +5493,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-02,Orange,059,1810,2304,10,311
 2020-10-02,Placer,061,27,66,0,8
 2020-10-02,Plumas,063,1,0,0,0
-2020-10-02,Riverside,065,1210,1759,7,142
+2020-10-02,Riverside,065,1211,1760,8,143
 2020-10-02,Sacramento,067,581,838,3,79
 2020-10-02,San Benito,069,3,3,1,3
 2020-10-02,San Bernardino,071,1133,1895,10,147
@@ -5547,7 +5547,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-03,Orange,059,1811,2306,10,312
 2020-10-03,Placer,061,27,66,0,8
 2020-10-03,Plumas,063,1,0,0,0
-2020-10-03,Riverside,065,1210,1759,7,143
+2020-10-03,Riverside,065,1211,1760,8,144
 2020-10-03,Sacramento,067,581,840,3,80
 2020-10-03,San Benito,069,3,3,1,3
 2020-10-03,San Bernardino,071,1134,1896,10,147
@@ -5601,7 +5601,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-04,Orange,059,1811,2308,10,312
 2020-10-04,Placer,061,27,66,0,8
 2020-10-04,Plumas,063,1,0,0,0
-2020-10-04,Riverside,065,1210,1760,7,143
+2020-10-04,Riverside,065,1211,1761,8,144
 2020-10-04,Sacramento,067,581,840,3,81
 2020-10-04,San Benito,069,3,3,1,3
 2020-10-04,San Bernardino,071,1134,1897,10,147
@@ -5655,7 +5655,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-05,Orange,059,1824,2312,10,313
 2020-10-05,Placer,061,27,66,0,8
 2020-10-05,Plumas,063,1,0,0,0
-2020-10-05,Riverside,065,1212,1762,7,143
+2020-10-05,Riverside,065,1213,1763,8,144
 2020-10-05,Sacramento,067,581,841,3,81
 2020-10-05,San Benito,069,3,3,1,3
 2020-10-05,San Bernardino,071,1134,1914,10,147
@@ -5709,7 +5709,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-06,Orange,059,1827,2322,10,314
 2020-10-06,Placer,061,27,66,0,8
 2020-10-06,Plumas,063,1,0,0,0
-2020-10-06,Riverside,065,1213,1764,7,144
+2020-10-06,Riverside,065,1214,1765,8,145
 2020-10-06,Sacramento,067,583,841,3,81
 2020-10-06,San Benito,069,3,3,1,3
 2020-10-06,San Bernardino,071,1143,1914,10,147
@@ -5763,7 +5763,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-07,Orange,059,1831,2325,10,314
 2020-10-07,Placer,061,27,66,0,8
 2020-10-07,Plumas,063,1,0,0,0
-2020-10-07,Riverside,065,1213,1767,7,145
+2020-10-07,Riverside,065,1214,1768,8,146
 2020-10-07,Sacramento,067,586,845,3,81
 2020-10-07,San Benito,069,3,3,1,3
 2020-10-07,San Bernardino,071,1148,1918,10,147
@@ -5817,7 +5817,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-08,Orange,059,1831,2330,10,316
 2020-10-08,Placer,061,27,66,0,8
 2020-10-08,Plumas,063,1,0,0,0
-2020-10-08,Riverside,065,1215,1768,7,146
+2020-10-08,Riverside,065,1216,1769,8,147
 2020-10-08,Sacramento,067,586,845,3,81
 2020-10-08,San Benito,069,3,3,1,3
 2020-10-08,San Bernardino,071,1150,1926,10,147
@@ -5871,7 +5871,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-09,Orange,059,1833,2345,11,316
 2020-10-09,Placer,061,27,66,0,8
 2020-10-09,Plumas,063,1,0,0,0
-2020-10-09,Riverside,065,1217,1768,7,146
+2020-10-09,Riverside,065,1218,1769,8,147
 2020-10-09,Sacramento,067,587,848,3,81
 2020-10-09,San Benito,069,3,3,1,3
 2020-10-09,San Bernardino,071,1151,1926,10,147
@@ -5925,7 +5925,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-10,Orange,059,1844,2346,11,327
 2020-10-10,Placer,061,27,66,0,8
 2020-10-10,Plumas,063,1,0,0,0
-2020-10-10,Riverside,065,1218,1768,7,146
+2020-10-10,Riverside,065,1219,1769,8,147
 2020-10-10,Sacramento,067,587,848,3,81
 2020-10-10,San Benito,069,3,3,1,3
 2020-10-10,San Bernardino,071,1152,1926,10,147
@@ -5979,7 +5979,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-11,Orange,059,1846,2352,11,327
 2020-10-11,Placer,061,27,66,0,8
 2020-10-11,Plumas,063,1,0,0,0
-2020-10-11,Riverside,065,1218,1768,7,146
+2020-10-11,Riverside,065,1219,1769,8,147
 2020-10-11,Sacramento,067,588,848,3,81
 2020-10-11,San Benito,069,3,3,1,3
 2020-10-11,San Bernardino,071,1160,1926,10,147
@@ -6033,7 +6033,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-12,Orange,059,1859,2354,11,327
 2020-10-12,Placer,061,27,66,0,8
 2020-10-12,Plumas,063,1,0,0,0
-2020-10-12,Riverside,065,1218,1770,7,146
+2020-10-12,Riverside,065,1219,1771,8,147
 2020-10-12,Sacramento,067,598,850,3,81
 2020-10-12,San Benito,069,3,3,1,3
 2020-10-12,San Bernardino,071,1162,1926,10,147
@@ -6087,7 +6087,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-13,Orange,059,1861,2356,11,328
 2020-10-13,Placer,061,27,66,0,8
 2020-10-13,Plumas,063,1,0,0,0
-2020-10-13,Riverside,065,1220,1770,7,146
+2020-10-13,Riverside,065,1221,1771,8,147
 2020-10-13,Sacramento,067,599,852,3,81
 2020-10-13,San Benito,069,3,3,1,3
 2020-10-13,San Bernardino,071,1164,1945,10,147
@@ -6141,7 +6141,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-14,Orange,059,1871,2358,11,328
 2020-10-14,Placer,061,27,66,0,8
 2020-10-14,Plumas,063,1,0,0,0
-2020-10-14,Riverside,065,1220,1772,7,146
+2020-10-14,Riverside,065,1221,1773,8,147
 2020-10-14,Sacramento,067,614,893,3,81
 2020-10-14,San Benito,069,3,3,1,3
 2020-10-14,San Bernardino,071,1167,1949,10,149
@@ -6195,7 +6195,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-15,Orange,059,1877,2359,11,328
 2020-10-15,Placer,061,27,66,0,8
 2020-10-15,Plumas,063,1,0,0,0
-2020-10-15,Riverside,065,1220,1772,7,146
+2020-10-15,Riverside,065,1221,1773,8,147
 2020-10-15,Sacramento,067,614,899,3,81
 2020-10-15,San Benito,069,3,3,1,3
 2020-10-15,San Bernardino,071,1181,1962,10,149
@@ -6249,7 +6249,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-16,Orange,059,1881,2360,11,328
 2020-10-16,Placer,061,27,66,0,8
 2020-10-16,Plumas,063,1,0,0,0
-2020-10-16,Riverside,065,1222,1773,7,146
+2020-10-16,Riverside,065,1223,1774,8,147
 2020-10-16,Sacramento,067,617,900,3,81
 2020-10-16,San Benito,069,3,3,1,3
 2020-10-16,San Bernardino,071,1184,1961,10,149
@@ -6303,7 +6303,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-17,Orange,059,1882,2361,11,328
 2020-10-17,Placer,061,27,66,0,8
 2020-10-17,Plumas,063,1,0,0,0
-2020-10-17,Riverside,065,1222,1774,7,146
+2020-10-17,Riverside,065,1223,1775,8,147
 2020-10-17,Sacramento,067,621,903,3,81
 2020-10-17,San Benito,069,3,3,1,3
 2020-10-17,San Bernardino,071,1186,1967,10,149
@@ -6357,7 +6357,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-18,Orange,059,1882,2362,11,328
 2020-10-18,Placer,061,27,66,0,8
 2020-10-18,Plumas,063,1,0,0,0
-2020-10-18,Riverside,065,1222,1777,7,146
+2020-10-18,Riverside,065,1223,1778,8,147
 2020-10-18,Sacramento,067,621,908,3,81
 2020-10-18,San Benito,069,3,3,1,3
 2020-10-18,San Bernardino,071,1186,1967,10,149
@@ -6411,7 +6411,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-19,Orange,059,1884,2364,11,329
 2020-10-19,Placer,061,27,66,0,8
 2020-10-19,Plumas,063,1,0,0,0
-2020-10-19,Riverside,065,1223,1777,7,146
+2020-10-19,Riverside,065,1224,1778,8,147
 2020-10-19,Sacramento,067,623,911,3,81
 2020-10-19,San Benito,069,3,3,1,3
 2020-10-19,San Bernardino,071,1186,1973,10,149
@@ -6465,7 +6465,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-20,Orange,059,1885,2365,11,339
 2020-10-20,Placer,061,27,66,0,8
 2020-10-20,Plumas,063,1,0,0,0
-2020-10-20,Riverside,065,1225,1777,7,146
+2020-10-20,Riverside,065,1226,1778,8,147
 2020-10-20,Sacramento,067,623,911,3,81
 2020-10-20,San Benito,069,3,3,1,3
 2020-10-20,San Bernardino,071,1186,1973,10,150
@@ -6519,7 +6519,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-21,Orange,059,1887,2365,11,339
 2020-10-21,Placer,061,27,66,0,8
 2020-10-21,Plumas,063,1,0,0,0
-2020-10-21,Riverside,065,1239,1789,7,147
+2020-10-21,Riverside,065,1240,1790,8,148
 2020-10-21,Sacramento,067,645,937,3,81
 2020-10-21,San Benito,069,3,3,1,3
 2020-10-21,San Bernardino,071,1203,1975,10,151
@@ -6573,7 +6573,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-22,Orange,059,1889,2373,11,339
 2020-10-22,Placer,061,27,66,0,8
 2020-10-22,Plumas,063,1,0,0,0
-2020-10-22,Riverside,065,1241,1790,7,147
+2020-10-22,Riverside,065,1242,1791,8,148
 2020-10-22,Sacramento,067,680,943,3,81
 2020-10-22,San Benito,069,3,3,1,3
 2020-10-22,San Bernardino,071,1218,2002,10,151
@@ -6627,7 +6627,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-23,Orange,059,1894,2376,13,340
 2020-10-23,Placer,061,27,66,0,8
 2020-10-23,Plumas,063,1,0,0,0
-2020-10-23,Riverside,065,1243,1791,7,147
+2020-10-23,Riverside,065,1244,1792,8,148
 2020-10-23,Sacramento,067,685,956,3,81
 2020-10-23,San Benito,069,3,13,1,3
 2020-10-23,San Bernardino,071,1224,2004,10,151
@@ -6681,7 +6681,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-24,Orange,059,1895,2378,13,340
 2020-10-24,Placer,061,27,66,0,8
 2020-10-24,Plumas,063,1,0,0,0
-2020-10-24,Riverside,065,1243,1791,7,147
+2020-10-24,Riverside,065,1244,1792,8,148
 2020-10-24,Sacramento,067,688,964,3,81
 2020-10-24,San Benito,069,3,13,1,3
 2020-10-24,San Bernardino,071,1226,2005,10,151
@@ -6735,7 +6735,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-25,Orange,059,1896,2378,13,340
 2020-10-25,Placer,061,27,66,0,8
 2020-10-25,Plumas,063,1,0,0,0
-2020-10-25,Riverside,065,1244,1792,7,147
+2020-10-25,Riverside,065,1245,1793,8,148
 2020-10-25,Sacramento,067,691,964,3,81
 2020-10-25,San Benito,069,3,13,1,3
 2020-10-25,San Bernardino,071,1231,2015,10,151
@@ -6789,7 +6789,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-26,Orange,059,1899,2378,13,340
 2020-10-26,Placer,061,27,66,0,8
 2020-10-26,Plumas,063,1,0,0,0
-2020-10-26,Riverside,065,1244,1793,7,147
+2020-10-26,Riverside,065,1245,1794,8,148
 2020-10-26,Sacramento,067,692,967,3,81
 2020-10-26,San Benito,069,3,13,1,3
 2020-10-26,San Bernardino,071,1234,2039,10,151
@@ -6843,7 +6843,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-27,Orange,059,1901,2379,13,340
 2020-10-27,Placer,061,27,66,0,8
 2020-10-27,Plumas,063,1,0,0,0
-2020-10-27,Riverside,065,1246,1794,7,147
+2020-10-27,Riverside,065,1247,1795,8,148
 2020-10-27,Sacramento,067,693,997,3,81
 2020-10-27,San Benito,069,3,13,1,3
 2020-10-27,San Bernardino,071,1241,2039,10,151
@@ -6897,7 +6897,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-28,Orange,059,1902,2381,13,340
 2020-10-28,Placer,061,27,66,0,8
 2020-10-28,Plumas,063,1,0,0,0
-2020-10-28,Riverside,065,1251,1796,7,147
+2020-10-28,Riverside,065,1252,1797,8,148
 2020-10-28,Sacramento,067,699,1007,3,81
 2020-10-28,San Benito,069,3,13,1,3
 2020-10-28,San Bernardino,071,1244,2040,10,151
@@ -6951,7 +6951,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-29,Orange,059,1904,2381,13,341
 2020-10-29,Placer,061,27,66,0,8
 2020-10-29,Plumas,063,1,0,0,0
-2020-10-29,Riverside,065,1253,1799,7,147
+2020-10-29,Riverside,065,1254,1800,8,148
 2020-10-29,Sacramento,067,707,1018,3,81
 2020-10-29,San Benito,069,3,13,1,3
 2020-10-29,San Bernardino,071,1282,2077,10,151
@@ -7005,7 +7005,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-30,Orange,059,1908,2381,13,341
 2020-10-30,Placer,061,27,66,0,8
 2020-10-30,Plumas,063,1,0,0,0
-2020-10-30,Riverside,065,1259,1803,7,147
+2020-10-30,Riverside,065,1260,1804,8,148
 2020-10-30,Sacramento,067,713,1018,3,81
 2020-10-30,San Benito,069,3,13,1,3
 2020-10-30,San Bernardino,071,1285,2080,10,151
@@ -7059,7 +7059,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-10-31,Orange,059,1919,2382,13,341
 2020-10-31,Placer,061,27,66,0,8
 2020-10-31,Plumas,063,1,0,0,0
-2020-10-31,Riverside,065,1262,1804,7,147
+2020-10-31,Riverside,065,1263,1805,8,148
 2020-10-31,Sacramento,067,717,1022,3,81
 2020-10-31,San Benito,069,3,13,1,3
 2020-10-31,San Bernardino,071,1290,2081,10,152
@@ -7113,7 +7113,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-01,Orange,059,1919,2382,13,341
 2020-11-01,Placer,061,27,66,0,8
 2020-11-01,Plumas,063,1,0,0,0
-2020-11-01,Riverside,065,1263,1814,7,147
+2020-11-01,Riverside,065,1264,1815,8,148
 2020-11-01,Sacramento,067,721,1022,3,81
 2020-11-01,San Benito,069,3,13,1,3
 2020-11-01,San Bernardino,071,1290,2081,10,152
@@ -7167,7 +7167,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-02,Orange,059,1941,2385,13,341
 2020-11-02,Placer,061,27,66,0,8
 2020-11-02,Plumas,063,1,0,0,0
-2020-11-02,Riverside,065,1275,1825,7,147
+2020-11-02,Riverside,065,1276,1826,8,148
 2020-11-02,Sacramento,067,724,1022,3,81
 2020-11-02,San Benito,069,3,13,1,3
 2020-11-02,San Bernardino,071,1295,2098,10,152
@@ -7221,7 +7221,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-03,Orange,059,1953,2386,13,341
 2020-11-03,Placer,061,27,66,0,8
 2020-11-03,Plumas,063,1,0,0,0
-2020-11-03,Riverside,065,1277,1826,7,147
+2020-11-03,Riverside,065,1278,1827,8,148
 2020-11-03,Sacramento,067,726,1033,3,81
 2020-11-03,San Benito,069,3,13,1,3
 2020-11-03,San Bernardino,071,1295,2098,10,162
@@ -7275,7 +7275,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-04,Orange,059,1958,2388,13,341
 2020-11-04,Placer,061,37,66,0,8
 2020-11-04,Plumas,063,1,0,0,0
-2020-11-04,Riverside,065,1295,1840,7,147
+2020-11-04,Riverside,065,1296,1841,8,148
 2020-11-04,Sacramento,067,737,1058,3,81
 2020-11-04,San Benito,069,3,13,1,3
 2020-11-04,San Bernardino,071,1296,2102,10,164
@@ -7329,7 +7329,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-05,Orange,059,1961,2400,13,341
 2020-11-05,Placer,061,37,66,0,8
 2020-11-05,Plumas,063,1,0,0,0
-2020-11-05,Riverside,065,1309,1854,7,147
+2020-11-05,Riverside,065,1310,1855,8,148
 2020-11-05,Sacramento,067,778,1066,3,81
 2020-11-05,San Benito,069,3,13,1,3
 2020-11-05,San Bernardino,071,1315,2137,10,164
@@ -7383,7 +7383,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-06,Orange,059,1965,2401,13,342
 2020-11-06,Placer,061,37,66,0,8
 2020-11-06,Plumas,063,1,0,0,0
-2020-11-06,Riverside,065,1312,1868,7,147
+2020-11-06,Riverside,065,1313,1869,8,148
 2020-11-06,Sacramento,067,810,1075,3,81
 2020-11-06,San Benito,069,3,13,1,3
 2020-11-06,San Bernardino,071,1329,2182,10,165
@@ -7437,7 +7437,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-07,Orange,059,1977,2404,13,342
 2020-11-07,Placer,061,37,66,0,8
 2020-11-07,Plumas,063,1,0,0,0
-2020-11-07,Riverside,065,1319,1892,7,147
+2020-11-07,Riverside,065,1320,1893,8,148
 2020-11-07,Sacramento,067,829,1105,3,81
 2020-11-07,San Benito,069,3,13,1,3
 2020-11-07,San Bernardino,071,1331,2185,10,166
@@ -7491,7 +7491,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-08,Orange,059,1980,2404,13,342
 2020-11-08,Placer,061,37,66,0,8
 2020-11-08,Plumas,063,1,0,0,0
-2020-11-08,Riverside,065,1320,1892,7,148
+2020-11-08,Riverside,065,1321,1893,8,149
 2020-11-08,Sacramento,067,840,1107,3,81
 2020-11-08,San Benito,069,3,13,1,3
 2020-11-08,San Bernardino,071,1332,2189,10,166
@@ -7546,7 +7546,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-09,Orange,059,1984,2405,13,342
 2020-11-09,Placer,061,37,66,0,8
 2020-11-09,Plumas,063,1,0,0,0
-2020-11-09,Riverside,065,1335,1896,7,149
+2020-11-09,Riverside,065,1336,1897,8,150
 2020-11-09,Sacramento,067,849,1116,3,81
 2020-11-09,San Benito,069,3,13,1,3
 2020-11-09,San Bernardino,071,1360,2192,10,168
@@ -7601,7 +7601,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-10,Orange,059,1991,2406,13,342
 2020-11-10,Placer,061,37,66,0,8
 2020-11-10,Plumas,063,1,0,0,0
-2020-11-10,Riverside,065,1353,1940,7,149
+2020-11-10,Riverside,065,1354,1941,8,150
 2020-11-10,Sacramento,067,857,1119,3,82
 2020-11-10,San Benito,069,3,13,1,3
 2020-11-10,San Bernardino,071,1365,2200,10,168
@@ -7656,7 +7656,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-11,Orange,059,1997,2418,13,342
 2020-11-11,Placer,061,37,66,0,8
 2020-11-11,Plumas,063,1,0,0,0
-2020-11-11,Riverside,065,1377,1953,7,149
+2020-11-11,Riverside,065,1378,1954,8,150
 2020-11-11,Sacramento,067,881,1176,3,82
 2020-11-11,San Benito,069,3,13,1,3
 2020-11-11,San Bernardino,071,1372,2208,10,168
@@ -7711,7 +7711,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-12,Orange,059,2002,2431,13,343
 2020-11-12,Placer,061,42,88,0,8
 2020-11-12,Plumas,063,1,0,0,0
-2020-11-12,Riverside,065,1393,1973,7,149
+2020-11-12,Riverside,065,1394,1974,8,150
 2020-11-12,Sacramento,067,948,1241,3,83
 2020-11-12,San Benito,069,3,13,1,3
 2020-11-12,San Bernardino,071,1394,2216,10,168
@@ -7766,7 +7766,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-13,Orange,059,2009,2454,13,344
 2020-11-13,Placer,061,42,88,0,8
 2020-11-13,Plumas,063,1,0,0,0
-2020-11-13,Riverside,065,1418,2001,7,149
+2020-11-13,Riverside,065,1419,2002,8,150
 2020-11-13,Sacramento,067,964,1246,3,83
 2020-11-13,San Benito,069,3,13,1,3
 2020-11-13,San Bernardino,071,1428,2237,10,169
@@ -7821,7 +7821,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-14,Orange,059,2015,2457,13,344
 2020-11-14,Placer,061,43,90,0,8
 2020-11-14,Plumas,063,1,0,0,0
-2020-11-14,Riverside,065,1428,2005,7,149
+2020-11-14,Riverside,065,1429,2006,8,150
 2020-11-14,Sacramento,067,968,1289,3,83
 2020-11-14,San Benito,069,3,13,1,3
 2020-11-14,San Bernardino,071,1432,2239,10,170
@@ -7876,7 +7876,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-15,Orange,059,2018,2459,13,345
 2020-11-15,Placer,061,44,97,0,8
 2020-11-15,Plumas,063,1,0,0,0
-2020-11-15,Riverside,065,1441,2028,7,150
+2020-11-15,Riverside,065,1442,2029,8,151
 2020-11-15,Sacramento,067,977,1306,3,83
 2020-11-15,San Benito,069,3,13,1,3
 2020-11-15,San Bernardino,071,1455,2252,10,170
@@ -7931,7 +7931,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-16,Orange,059,2036,2468,14,347
 2020-11-16,Placer,061,46,97,0,8
 2020-11-16,Plumas,063,1,0,0,0
-2020-11-16,Riverside,065,1463,2053,7,151
+2020-11-16,Riverside,065,1464,2054,8,152
 2020-11-16,Sacramento,067,1005,1330,3,85
 2020-11-16,San Benito,069,3,13,1,3
 2020-11-16,San Bernardino,071,1474,2279,10,171
@@ -7986,7 +7986,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-17,Orange,059,2047,2473,14,347
 2020-11-17,Placer,061,46,97,0,9
 2020-11-17,Plumas,063,1,0,0,0
-2020-11-17,Riverside,065,1486,2063,7,151
+2020-11-17,Riverside,065,1487,2064,8,152
 2020-11-17,Sacramento,067,1009,1336,3,86
 2020-11-17,San Benito,069,3,13,1,3
 2020-11-17,San Bernardino,071,1478,2284,10,171
@@ -8041,7 +8041,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-18,Orange,059,2061,2494,13,347
 2020-11-18,Placer,061,46,97,0,9
 2020-11-18,Plumas,063,1,0,0,0
-2020-11-18,Riverside,065,1509,2093,7,152
+2020-11-18,Riverside,065,1510,2094,8,153
 2020-11-18,Sacramento,067,1045,1369,3,87
 2020-11-18,San Benito,069,3,13,1,3
 2020-11-18,San Bernardino,071,1506,2295,10,174
@@ -8096,7 +8096,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-19,Orange,059,2077,2497,13,348
 2020-11-19,Placer,061,46,101,0,9
 2020-11-19,Plumas,063,1,0,0,0
-2020-11-19,Riverside,065,1518,2116,7,152
+2020-11-19,Riverside,065,1519,2117,8,153
 2020-11-19,Sacramento,067,1082,1434,3,88
 2020-11-19,San Benito,069,3,13,1,3
 2020-11-19,San Bernardino,071,1531,2313,10,174
@@ -8151,7 +8151,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-20,Orange,059,2110,2504,13,348
 2020-11-20,Placer,061,57,105,0,9
 2020-11-20,Plumas,063,1,0,0,0
-2020-11-20,Riverside,065,1540,2135,7,152
+2020-11-20,Riverside,065,1541,2136,8,153
 2020-11-20,Sacramento,067,1110,1457,3,89
 2020-11-20,San Benito,069,3,13,1,3
 2020-11-20,San Bernardino,071,1536,2339,10,175
@@ -8206,7 +8206,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-21,Orange,059,2121,2521,13,349
 2020-11-21,Placer,061,70,112,0,9
 2020-11-21,Plumas,063,1,0,0,0
-2020-11-21,Riverside,065,1550,2147,7,152
+2020-11-21,Riverside,065,1551,2148,8,153
 2020-11-21,Sacramento,067,1117,1484,3,89
 2020-11-21,San Benito,069,3,13,1,3
 2020-11-21,San Bernardino,071,1552,2353,10,175
@@ -8261,7 +8261,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-22,Orange,059,2122,2530,13,349
 2020-11-22,Placer,061,80,112,0,9
 2020-11-22,Plumas,063,1,0,0,0
-2020-11-22,Riverside,065,1555,2157,7,152
+2020-11-22,Riverside,065,1556,2158,8,153
 2020-11-22,Sacramento,067,1124,1494,3,90
 2020-11-22,San Benito,069,3,13,1,3
 2020-11-22,San Bernardino,071,1558,2361,10,175
@@ -8316,7 +8316,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-23,Orange,059,2168,2574,13,351
 2020-11-23,Placer,061,83,112,0,9
 2020-11-23,Plumas,063,1,0,0,0
-2020-11-23,Riverside,065,1581,2188,7,152
+2020-11-23,Riverside,065,1582,2189,8,153
 2020-11-23,Sacramento,067,1152,1508,3,92
 2020-11-23,San Benito,069,3,13,1,3
 2020-11-23,San Bernardino,071,1567,2383,10,175
@@ -8371,7 +8371,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-24,Orange,059,2196,2585,13,351
 2020-11-24,Placer,061,87,126,0,9
 2020-11-24,Plumas,063,1,0,0,0
-2020-11-24,Riverside,065,1594,2197,7,153
+2020-11-24,Riverside,065,1595,2198,8,154
 2020-11-24,Sacramento,067,1165,1569,3,92
 2020-11-24,San Benito,069,13,13,1,3
 2020-11-24,San Bernardino,071,1578,2390,10,176
@@ -8426,7 +8426,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-25,Orange,059,2226,2618,13,355
 2020-11-25,Placer,061,87,130,0,9
 2020-11-25,Plumas,063,1,0,0,0
-2020-11-25,Riverside,065,1612,2226,7,154
+2020-11-25,Riverside,065,1613,2227,8,155
 2020-11-25,Sacramento,067,1181,1603,4,93
 2020-11-25,San Benito,069,14,13,1,3
 2020-11-25,San Bernardino,071,1597,2410,10,178
@@ -8481,7 +8481,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-26,Orange,059,2250,2630,13,357
 2020-11-26,Placer,061,89,134,0,9
 2020-11-26,Plumas,063,1,0,0,0
-2020-11-26,Riverside,065,1644,2251,7,154
+2020-11-26,Riverside,065,1645,2252,8,155
 2020-11-26,Sacramento,067,1197,1639,5,93
 2020-11-26,San Benito,069,14,13,1,3
 2020-11-26,San Bernardino,071,1603,2414,10,178
@@ -8536,7 +8536,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-27,Orange,059,2269,2639,13,358
 2020-11-27,Placer,061,90,143,0,9
 2020-11-27,Plumas,063,1,0,0,0
-2020-11-27,Riverside,065,1665,2295,7,155
+2020-11-27,Riverside,065,1666,2296,8,156
 2020-11-27,Sacramento,067,1212,1662,5,93
 2020-11-27,San Benito,069,14,13,1,3
 2020-11-27,San Bernardino,071,1617,2441,10,178
@@ -8591,7 +8591,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-28,Orange,059,2278,2648,13,358
 2020-11-28,Placer,061,102,174,0,9
 2020-11-28,Plumas,063,1,0,0,0
-2020-11-28,Riverside,065,1676,2319,7,155
+2020-11-28,Riverside,065,1677,2320,8,156
 2020-11-28,Sacramento,067,1242,1669,5,93
 2020-11-28,San Benito,069,14,13,1,3
 2020-11-28,San Bernardino,071,1626,2449,10,188
@@ -8646,7 +8646,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-29,Orange,059,2300,2665,13,358
 2020-11-29,Placer,061,102,191,0,9
 2020-11-29,Plumas,063,1,0,0,0
-2020-11-29,Riverside,065,1685,2330,7,155
+2020-11-29,Riverside,065,1686,2331,8,156
 2020-11-29,Sacramento,067,1266,1724,5,94
 2020-11-29,San Benito,069,14,13,1,3
 2020-11-29,San Bernardino,071,1629,2463,10,188
@@ -8701,7 +8701,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-11-30,Orange,059,2353,2705,13,359
 2020-11-30,Placer,061,106,194,0,9
 2020-11-30,Plumas,063,1,0,0,0
-2020-11-30,Riverside,065,1716,2382,7,155
+2020-11-30,Riverside,065,1717,2383,8,156
 2020-11-30,Sacramento,067,1277,1814,5,96
 2020-11-30,San Benito,069,14,13,1,3
 2020-11-30,San Bernardino,071,1651,2500,10,188
@@ -8756,7 +8756,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-01,Orange,059,2403,2762,13,359
 2020-12-01,Placer,061,116,211,0,10
 2020-12-01,Plumas,063,1,0,0,0
-2020-12-01,Riverside,065,1724,2407,7,156
+2020-12-01,Riverside,065,1725,2408,8,157
 2020-12-01,Sacramento,067,1289,1863,5,96
 2020-12-01,San Benito,069,15,13,1,3
 2020-12-01,San Bernardino,071,1671,2509,10,189
@@ -8811,7 +8811,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-02,Orange,059,2437,2789,13,360
 2020-12-02,Placer,061,129,217,0,10
 2020-12-02,Plumas,063,1,0,0,0
-2020-12-02,Riverside,065,1742,2427,7,157
+2020-12-02,Riverside,065,1743,2428,8,158
 2020-12-02,Sacramento,067,1302,1868,5,98
 2020-12-02,San Benito,069,18,13,1,3
 2020-12-02,San Bernardino,071,1710,2520,10,190
@@ -8866,7 +8866,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-03,Orange,059,2475,2808,13,361
 2020-12-03,Placer,061,130,240,0,10
 2020-12-03,Plumas,063,2,1,0,0
-2020-12-03,Riverside,065,1756,2436,7,157
+2020-12-03,Riverside,065,1757,2437,8,158
 2020-12-03,Sacramento,067,1313,1870,5,98
 2020-12-03,San Benito,069,18,13,1,3
 2020-12-03,San Bernardino,071,1748,2544,10,191
@@ -8921,7 +8921,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-04,Orange,059,2503,2836,13,361
 2020-12-04,Placer,061,146,248,0,10
 2020-12-04,Plumas,063,2,1,0,0
-2020-12-04,Riverside,065,1782,2452,7,158
+2020-12-04,Riverside,065,1783,2453,8,159
 2020-12-04,Sacramento,067,1350,1903,5,100
 2020-12-04,San Benito,069,18,13,1,3
 2020-12-04,San Bernardino,071,1777,2583,10,192
@@ -8976,7 +8976,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-05,Orange,059,2533,2856,13,361
 2020-12-05,Placer,061,156,280,0,10
 2020-12-05,Plumas,063,2,1,0,0
-2020-12-05,Riverside,065,1804,2457,7,158
+2020-12-05,Riverside,065,1805,2458,8,159
 2020-12-05,Sacramento,067,1362,1936,5,101
 2020-12-05,San Benito,069,18,13,1,3
 2020-12-05,San Bernardino,071,1800,2618,10,192
@@ -9031,7 +9031,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-06,Orange,059,2558,2868,13,361
 2020-12-06,Placer,061,159,296,0,10
 2020-12-06,Plumas,063,2,1,0,0
-2020-12-06,Riverside,065,1830,2466,7,158
+2020-12-06,Riverside,065,1831,2467,8,159
 2020-12-06,Sacramento,067,1368,1948,5,101
 2020-12-06,San Benito,069,18,13,1,3
 2020-12-06,San Bernardino,071,1826,2618,10,192
@@ -9086,7 +9086,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-07,Orange,059,2619,2927,14,362
 2020-12-07,Placer,061,173,298,0,10
 2020-12-07,Plumas,063,2,1,0,0
-2020-12-07,Riverside,065,1857,2521,8,169
+2020-12-07,Riverside,065,1858,2522,9,170
 2020-12-07,Sacramento,067,1402,1986,5,102
 2020-12-07,San Benito,069,18,15,1,3
 2020-12-07,San Bernardino,071,1886,2648,10,203
@@ -9141,7 +9141,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-08,Orange,059,2652,2951,14,362
 2020-12-08,Placer,061,175,298,0,10
 2020-12-08,Plumas,063,2,1,0,0
-2020-12-08,Riverside,065,1879,2539,7,172
+2020-12-08,Riverside,065,1880,2540,8,173
 2020-12-08,Sacramento,067,1423,2045,5,103
 2020-12-08,San Benito,069,18,15,1,3
 2020-12-08,San Bernardino,071,1915,2650,10,205
@@ -9196,7 +9196,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-09,Orange,059,2703,3002,15,363
 2020-12-09,Placer,061,190,304,0,10
 2020-12-09,Plumas,063,2,1,0,0
-2020-12-09,Riverside,065,1901,2560,7,172
+2020-12-09,Riverside,065,1902,2561,8,173
 2020-12-09,Sacramento,067,1450,2125,5,105
 2020-12-09,San Benito,069,19,15,1,3
 2020-12-09,San Bernardino,071,1951,2661,10,206
@@ -9251,7 +9251,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-10,Orange,059,2745,3045,15,364
 2020-12-10,Placer,061,190,304,0,20
 2020-12-10,Plumas,063,2,1,0,0
-2020-12-10,Riverside,065,1935,2574,7,173
+2020-12-10,Riverside,065,1936,2575,8,174
 2020-12-10,Sacramento,067,1476,2174,5,105
 2020-12-10,San Benito,069,20,15,1,3
 2020-12-10,San Bernardino,071,2011,2730,10,206
@@ -9306,7 +9306,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Orange,059,2824,3122,15,366
 2020-12-11,Placer,061,213,305,1,20
 2020-12-11,Plumas,063,2,1,0,0
-2020-12-11,Riverside,065,1945,2586,7,174
+2020-12-11,Riverside,065,1946,2587,8,175
 2020-12-11,Sacramento,067,1508,2194,5,105
 2020-12-11,San Benito,069,20,15,1,3
 2020-12-11,San Bernardino,071,2035,2786,10,207
@@ -9362,7 +9362,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Orange,059,2850,3135,15,366
 2020-12-12,Placer,061,226,321,1,20
 2020-12-12,Plumas,063,2,1,0,0
-2020-12-12,Riverside,065,1977,2594,7,174
+2020-12-12,Riverside,065,1978,2595,8,175
 2020-12-12,Sacramento,067,1522,2222,5,105
 2020-12-12,San Benito,069,20,15,1,3
 2020-12-12,San Bernardino,071,2078,2803,10,207
@@ -9418,7 +9418,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-13,Orange,059,2872,3159,15,366
 2020-12-13,Placer,061,237,358,1,20
 2020-12-13,Plumas,063,2,1,0,1
-2020-12-13,Riverside,065,2030,2657,7,174
+2020-12-13,Riverside,065,2031,2658,8,175
 2020-12-13,Sacramento,067,1543,2225,5,105
 2020-12-13,San Benito,069,20,15,1,3
 2020-12-13,San Bernardino,071,2133,2814,10,208
@@ -9474,7 +9474,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-14,Orange,059,3005,3256,15,367
 2020-12-14,Placer,061,245,374,1,21
 2020-12-14,Plumas,063,2,1,0,1
-2020-12-14,Riverside,065,2095,2746,8,174
+2020-12-14,Riverside,065,2096,2747,9,175
 2020-12-14,Sacramento,067,1560,2262,5,105
 2020-12-14,San Benito,069,20,15,1,3
 2020-12-14,San Bernardino,071,2179,2903,10,209
@@ -9530,7 +9530,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-15,Orange,059,3065,3306,15,379
 2020-12-15,Placer,061,257,407,1,21
 2020-12-15,Plumas,063,2,1,0,1
-2020-12-15,Riverside,065,2120,2786,8,174
+2020-12-15,Riverside,065,2121,2787,9,175
 2020-12-15,Sacramento,067,1562,2269,5,106
 2020-12-15,San Benito,069,20,15,1,3
 2020-12-15,San Bernardino,071,2202,2940,10,209
@@ -9586,7 +9586,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-16,Orange,059,3169,3455,15,380
 2020-12-16,Placer,061,271,421,1,22
 2020-12-16,Plumas,063,2,1,0,1
-2020-12-16,Riverside,065,2196,2834,8,175
+2020-12-16,Riverside,065,2197,2835,9,176
 2020-12-16,Sacramento,067,1606,2394,5,116
 2020-12-16,San Benito,069,20,15,1,3
 2020-12-16,San Bernardino,071,2238,2975,10,212
@@ -9642,7 +9642,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-17,Orange,059,3238,3546,15,393
 2020-12-17,Placer,061,271,445,1,22
 2020-12-17,Plumas,063,2,1,0,1
-2020-12-17,Riverside,065,2272,2870,8,175
+2020-12-17,Riverside,065,2273,2871,9,176
 2020-12-17,Sacramento,067,1625,2457,5,117
 2020-12-17,San Benito,069,21,15,1,3
 2020-12-17,San Bernardino,071,2280,3042,10,214
@@ -9698,7 +9698,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-18,Orange,059,3340,3640,15,396
 2020-12-18,Placer,061,280,460,1,22
 2020-12-18,Plumas,063,2,1,0,1
-2020-12-18,Riverside,065,2304,2932,8,175
+2020-12-18,Riverside,065,2305,2933,9,176
 2020-12-18,Sacramento,067,1678,2514,5,117
 2020-12-18,San Benito,069,21,15,1,3
 2020-12-18,San Bernardino,071,2317,3107,10,226
@@ -9754,7 +9754,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-19,Orange,059,3397,3710,15,399
 2020-12-19,Placer,061,280,460,1,24
 2020-12-19,Plumas,063,2,1,0,1
-2020-12-19,Riverside,065,2326,2962,8,175
+2020-12-19,Riverside,065,2327,2963,9,176
 2020-12-19,Sacramento,067,1704,2520,5,118
 2020-12-19,San Benito,069,21,15,1,3
 2020-12-19,San Bernardino,071,2354,3130,10,226
@@ -9810,7 +9810,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-20,Orange,059,3433,3758,15,399
 2020-12-20,Placer,061,280,460,1,26
 2020-12-20,Plumas,063,2,1,0,1
-2020-12-20,Riverside,065,2342,2978,8,175
+2020-12-20,Riverside,065,2343,2979,9,176
 2020-12-20,Sacramento,067,1724,2526,5,118
 2020-12-20,San Benito,069,21,15,1,3
 2020-12-20,San Bernardino,071,2362,3144,10,227
@@ -9866,7 +9866,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-21,Orange,059,3577,3980,16,402
 2020-12-21,Placer,061,294,469,1,27
 2020-12-21,Plumas,063,2,1,0,1
-2020-12-21,Riverside,065,2409,3046,9,177
+2020-12-21,Riverside,065,2410,3047,10,178
 2020-12-21,Sacramento,067,1729,2541,5,118
 2020-12-21,San Benito,069,21,17,1,3
 2020-12-21,San Bernardino,071,2417,3212,10,228
@@ -9922,7 +9922,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-22,Orange,059,3631,4068,16,407
 2020-12-22,Placer,061,326,514,1,27
 2020-12-22,Plumas,063,2,1,0,1
-2020-12-22,Riverside,065,2440,3071,9,177
+2020-12-22,Riverside,065,2441,3072,10,178
 2020-12-22,Sacramento,067,1739,2560,5,128
 2020-12-22,San Benito,069,21,17,1,3
 2020-12-22,San Bernardino,071,2444,3225,11,250
@@ -9978,7 +9978,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-23,Orange,059,3715,4177,16,409
 2020-12-23,Placer,061,327,514,1,28
 2020-12-23,Plumas,063,2,1,0,1
-2020-12-23,Riverside,065,2492,3103,9,179
+2020-12-23,Riverside,065,2493,3104,10,180
 2020-12-23,Sacramento,067,1745,2563,5,129
 2020-12-23,San Benito,069,21,17,1,3
 2020-12-23,San Bernardino,071,2467,3268,11,261
@@ -10034,7 +10034,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-24,Orange,059,3798,4268,16,411
 2020-12-24,Placer,061,330,515,1,28
 2020-12-24,Plumas,063,2,1,0,1
-2020-12-24,Riverside,065,2539,3164,9,180
+2020-12-24,Riverside,065,2540,3165,10,181
 2020-12-24,Sacramento,067,1790,2596,5,130
 2020-12-24,San Benito,069,21,17,1,3
 2020-12-24,San Bernardino,071,2507,3323,11,261
@@ -10090,7 +10090,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-25,Orange,059,3844,4310,16,422
 2020-12-25,Placer,061,330,518,1,28
 2020-12-25,Plumas,063,2,1,0,1
-2020-12-25,Riverside,065,2564,3178,9,180
+2020-12-25,Riverside,065,2565,3179,10,181
 2020-12-25,Sacramento,067,1797,2620,5,132
 2020-12-25,San Benito,069,22,17,1,3
 2020-12-25,San Bernardino,071,2525,3343,11,264
@@ -10146,7 +10146,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-26,Orange,059,3881,4372,16,427
 2020-12-26,Placer,061,332,518,1,28
 2020-12-26,Plumas,063,2,1,0,1
-2020-12-26,Riverside,065,2572,3185,9,180
+2020-12-26,Riverside,065,2573,3186,10,181
 2020-12-26,Sacramento,067,1813,2625,5,133
 2020-12-26,San Benito,069,22,17,1,3
 2020-12-26,San Bernardino,071,2538,3368,11,265
@@ -10202,7 +10202,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-27,Orange,059,3917,4451,16,431
 2020-12-27,Placer,061,332,518,1,28
 2020-12-27,Plumas,063,2,1,0,1
-2020-12-27,Riverside,065,2581,3190,9,181
+2020-12-27,Riverside,065,2582,3191,10,182
 2020-12-27,Sacramento,067,1816,2633,5,146
 2020-12-27,San Benito,069,22,17,1,3
 2020-12-27,San Bernardino,071,2546,3384,11,268
@@ -10258,7 +10258,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-28,Orange,059,4039,4585,16,438
 2020-12-28,Placer,061,346,561,1,28
 2020-12-28,Plumas,063,2,1,0,1
-2020-12-28,Riverside,065,2634,3299,10,181
+2020-12-28,Riverside,065,2635,3300,11,182
 2020-12-28,Sacramento,067,1834,2669,5,149
 2020-12-28,San Benito,069,22,17,1,3
 2020-12-28,San Bernardino,071,2618,3421,10,268
@@ -10314,7 +10314,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-29,Orange,059,4118,4673,16,455
 2020-12-29,Placer,061,359,575,1,28
 2020-12-29,Plumas,063,2,1,0,1
-2020-12-29,Riverside,065,2702,3360,10,185
+2020-12-29,Riverside,065,2703,3361,11,186
 2020-12-29,Sacramento,067,1842,2696,5,151
 2020-12-29,San Benito,069,22,17,1,3
 2020-12-29,San Bernardino,071,2651,3492,10,271
@@ -10370,7 +10370,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-30,Orange,059,4238,4733,16,463
 2020-12-30,Placer,061,375,595,1,29
 2020-12-30,Plumas,063,2,1,0,1
-2020-12-30,Riverside,065,2753,3385,10,197
+2020-12-30,Riverside,065,2754,3386,11,198
 2020-12-30,Sacramento,067,1861,2717,6,154
 2020-12-30,San Benito,069,23,17,1,3
 2020-12-30,San Bernardino,071,2690,3528,11,271
@@ -10426,7 +10426,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-31,Orange,059,4310,4878,16,475
 2020-12-31,Placer,061,377,604,1,30
 2020-12-31,Plumas,063,2,1,0,1
-2020-12-31,Riverside,065,2787,3437,10,220
+2020-12-31,Riverside,065,2788,3438,11,221
 2020-12-31,Sacramento,067,1881,2754,6,169
 2020-12-31,San Benito,069,24,17,1,3
 2020-12-31,San Bernardino,071,2734,3588,11,272
@@ -10482,7 +10482,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-01,Orange,059,4370,4944,16,489
 2021-01-01,Placer,061,377,607,1,30
 2021-01-01,Plumas,063,2,1,0,1
-2021-01-01,Riverside,065,2806,3450,10,221
+2021-01-01,Riverside,065,2807,3451,11,222
 2021-01-01,Sacramento,067,1892,2769,6,169
 2021-01-01,San Benito,069,24,17,1,3
 2021-01-01,San Bernardino,071,2762,3621,11,273
@@ -10538,7 +10538,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-02,Orange,059,4388,4985,16,493
 2021-01-02,Placer,061,380,608,1,30
 2021-01-02,Plumas,063,2,1,0,1
-2021-01-02,Riverside,065,2822,3468,10,232
+2021-01-02,Riverside,065,2823,3469,11,233
 2021-01-02,Sacramento,067,1895,2770,6,170
 2021-01-02,San Benito,069,24,17,1,3
 2021-01-02,San Bernardino,071,2773,3637,11,274
@@ -10594,7 +10594,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-03,Orange,059,4430,5021,17,508
 2021-01-03,Placer,061,380,608,1,30
 2021-01-03,Plumas,063,2,1,0,1
-2021-01-03,Riverside,065,2836,3474,10,233
+2021-01-03,Riverside,065,2837,3475,11,234
 2021-01-03,Sacramento,067,1897,2775,6,170
 2021-01-03,San Benito,069,24,17,1,3
 2021-01-03,San Bernardino,071,2788,3652,11,278
@@ -10650,7 +10650,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-04,Orange,059,4520,5085,17,528
 2021-01-04,Placer,061,384,612,1,30
 2021-01-04,Plumas,063,2,1,0,1
-2021-01-04,Riverside,065,2867,3533,10,245
+2021-01-04,Riverside,065,2868,3534,11,246
 2021-01-04,Sacramento,067,1933,2832,6,181
 2021-01-04,San Benito,069,25,17,1,3
 2021-01-04,San Bernardino,071,2824,3718,11,280
@@ -10706,7 +10706,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-05,Orange,059,4556,5100,17,530
 2021-01-05,Placer,061,388,613,1,30
 2021-01-05,Plumas,063,2,1,0,1
-2021-01-05,Riverside,065,2919,3583,10,251
+2021-01-05,Riverside,065,2920,3584,11,252
 2021-01-05,Sacramento,067,1947,2838,6,182
 2021-01-05,San Benito,069,25,17,1,3
 2021-01-05,San Bernardino,071,2842,3726,11,281
@@ -10762,7 +10762,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-06,Orange,059,4627,5135,17,543
 2021-01-06,Placer,061,391,616,1,30
 2021-01-06,Plumas,063,2,1,0,1
-2021-01-06,Riverside,065,2953,3629,10,254
+2021-01-06,Riverside,065,2954,3630,11,255
 2021-01-06,Sacramento,067,1975,2859,6,183
 2021-01-06,San Benito,069,27,17,1,3
 2021-01-06,San Bernardino,071,2884,3742,11,283
@@ -10818,7 +10818,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-07,Orange,059,4680,5174,18,551
 2021-01-07,Placer,061,394,616,1,30
 2021-01-07,Plumas,063,2,1,0,1
-2021-01-07,Riverside,065,2982,3707,11,261
+2021-01-07,Riverside,065,2983,3708,12,262
 2021-01-07,Sacramento,067,2003,2869,6,185
 2021-01-07,San Benito,069,27,17,1,3
 2021-01-07,San Bernardino,071,2920,3798,11,285
@@ -10874,7 +10874,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-08,Orange,059,4739,5249,18,565
 2021-01-08,Placer,061,398,618,1,30
 2021-01-08,Plumas,063,2,1,0,1
-2021-01-08,Riverside,065,3004,3743,12,263
+2021-01-08,Riverside,065,3005,3744,13,264
 2021-01-08,Sacramento,067,2013,2885,6,185
 2021-01-08,San Benito,069,27,17,1,3
 2021-01-08,San Bernardino,071,2938,3834,11,287
@@ -10930,7 +10930,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-09,Orange,059,4765,5272,18,567
 2021-01-09,Placer,061,405,618,1,30
 2021-01-09,Plumas,063,2,1,0,1
-2021-01-09,Riverside,065,3022,3753,12,264
+2021-01-09,Riverside,065,3023,3754,13,265
 2021-01-09,Sacramento,067,2017,2888,6,185
 2021-01-09,San Benito,069,27,17,1,3
 2021-01-09,San Bernardino,071,2954,3857,11,288
@@ -10986,7 +10986,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-10,Orange,059,4775,5298,18,569
 2021-01-10,Placer,061,406,618,1,30
 2021-01-10,Plumas,063,2,1,0,1
-2021-01-10,Riverside,065,3031,3763,12,264
+2021-01-10,Riverside,065,3032,3764,13,265
 2021-01-10,Sacramento,067,2020,2894,6,185
 2021-01-10,San Benito,069,27,17,1,3
 2021-01-10,San Bernardino,071,2957,3860,11,290
@@ -11042,7 +11042,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-11,Orange,059,4871,5437,18,566
 2021-01-11,Placer,061,418,630,1,30
 2021-01-11,Plumas,063,2,1,0,1
-2021-01-11,Riverside,065,3074,3825,12,265
+2021-01-11,Riverside,065,3075,3826,13,266
 2021-01-11,Sacramento,067,2057,2946,6,186
 2021-01-11,San Benito,069,27,17,1,3
 2021-01-11,San Bernardino,071,2979,3907,11,292
@@ -11098,7 +11098,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-12,Orange,059,4907,5498,18,568
 2021-01-12,Placer,061,420,631,1,30
 2021-01-12,Plumas,063,2,1,0,1
-2021-01-12,Riverside,065,3085,3840,12,275
+2021-01-12,Riverside,065,3086,3841,13,276
 2021-01-12,Sacramento,067,2067,2972,6,187
 2021-01-12,San Benito,069,27,17,1,3
 2021-01-12,San Bernardino,071,3011,3956,11,292
@@ -11154,7 +11154,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-13,Orange,059,4952,5546,18,575
 2021-01-13,Placer,061,424,633,1,31
 2021-01-13,Plumas,063,2,1,0,1
-2021-01-13,Riverside,065,3124,3884,12,279
+2021-01-13,Riverside,065,3125,3885,13,280
 2021-01-13,Sacramento,067,2079,2975,6,188
 2021-01-13,San Benito,069,27,17,1,3
 2021-01-13,San Bernardino,071,3041,3980,11,293
@@ -11210,7 +11210,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-14,Orange,059,4990,5655,18,576
 2021-01-14,Placer,061,425,635,1,32
 2021-01-14,Plumas,063,2,1,0,1
-2021-01-14,Riverside,065,3150,3945,12,290
+2021-01-14,Riverside,065,3151,3946,13,291
 2021-01-14,Sacramento,067,2091,2994,6,188
 2021-01-14,San Benito,069,27,17,1,3
 2021-01-14,San Bernardino,071,3066,4005,11,303
@@ -11266,7 +11266,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-15,Orange,059,5015,5715,18,597
 2021-01-15,Placer,061,425,635,1,43
 2021-01-15,Plumas,063,2,1,0,1
-2021-01-15,Riverside,065,3169,3972,12,292
+2021-01-15,Riverside,065,3170,3973,13,293
 2021-01-15,Sacramento,067,2130,3017,6,188
 2021-01-15,San Benito,069,28,17,1,3
 2021-01-15,San Bernardino,071,3075,4025,12,305
@@ -11322,7 +11322,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-16,Orange,059,5027,5732,18,597
 2021-01-16,Placer,061,426,636,1,43
 2021-01-16,Plumas,063,2,1,0,1
-2021-01-16,Riverside,065,3181,4000,12,292
+2021-01-16,Riverside,065,3182,4001,13,293
 2021-01-16,Sacramento,067,2132,3019,6,188
 2021-01-16,San Benito,069,29,17,1,3
 2021-01-16,San Bernardino,071,3089,4033,12,305
@@ -11378,7 +11378,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-17,Orange,059,5816,5738,18,599
 2021-01-17,Placer,061,427,637,1,43
 2021-01-17,Plumas,063,2,1,0,1
-2021-01-17,Riverside,065,3189,4005,12,294
+2021-01-17,Riverside,065,3190,4006,13,295
 2021-01-17,Sacramento,067,2140,3044,6,188
 2021-01-17,San Benito,069,29,17,1,3
 2021-01-17,San Bernardino,071,3095,4037,12,305
@@ -11434,7 +11434,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-18,Orange,059,5044,5754,18,602
 2021-01-18,Placer,061,428,637,1,43
 2021-01-18,Plumas,063,2,1,0,1
-2021-01-18,Riverside,065,3201,4013,12,294
+2021-01-18,Riverside,065,3202,4014,13,295
 2021-01-18,Sacramento,067,2140,3045,6,188
 2021-01-18,San Benito,069,29,17,1,3
 2021-01-18,San Bernardino,071,3096,4042,12,305
@@ -11490,7 +11490,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-19,Orange,059,5106,5826,18,615
 2021-01-19,Placer,061,428,645,2,46
 2021-01-19,Plumas,063,2,1,0,1
-2021-01-19,Riverside,065,3244,4080,12,294
+2021-01-19,Riverside,065,3245,4081,13,295
 2021-01-19,Sacramento,067,2158,3077,6,188
 2021-01-19,San Benito,069,30,17,1,3
 2021-01-19,San Bernardino,071,3121,4060,12,307
@@ -11546,7 +11546,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-20,Orange,059,5139,5902,18,618
 2021-01-20,Placer,061,450,662,2,46
 2021-01-20,Plumas,063,2,1,0,1
-2021-01-20,Riverside,065,3261,4117,12,296
+2021-01-20,Riverside,065,3262,4118,13,297
 2021-01-20,Sacramento,067,2159,3092,6,188
 2021-01-20,San Benito,069,30,17,1,3
 2021-01-20,San Bernardino,071,3138,4068,12,308
@@ -11602,7 +11602,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-21,Orange,059,5154,5927,19,621
 2021-01-21,Placer,061,455,683,2,46
 2021-01-21,Plumas,063,2,1,0,1
-2021-01-21,Riverside,065,3265,4152,12,296
+2021-01-21,Riverside,065,3266,4153,13,297
 2021-01-21,Sacramento,067,2164,3097,6,188
 2021-01-21,San Benito,069,30,17,1,3
 2021-01-21,San Bernardino,071,3153,4082,12,311
@@ -11658,7 +11658,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-22,Orange,059,5163,5961,19,625
 2021-01-22,Placer,061,455,684,2,46
 2021-01-22,Plumas,063,2,1,0,1
-2021-01-22,Riverside,065,3271,4160,12,296
+2021-01-22,Riverside,065,3272,4161,13,297
 2021-01-22,Sacramento,067,2165,3099,6,188
 2021-01-22,San Benito,069,30,17,1,3
 2021-01-22,San Bernardino,071,3157,4086,12,313
@@ -11714,7 +11714,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-23,Orange,059,5175,6001,19,625
 2021-01-23,Placer,061,455,685,2,46
 2021-01-23,Plumas,063,2,1,0,1
-2021-01-23,Riverside,065,3275,4168,12,296
+2021-01-23,Riverside,065,3276,4169,13,297
 2021-01-23,Sacramento,067,2169,3110,6,188
 2021-01-23,San Benito,069,30,17,1,3
 2021-01-23,San Bernardino,071,3160,4086,12,313
@@ -11770,7 +11770,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-24,Orange,059,5189,6024,19,626
 2021-01-24,Placer,061,456,685,2,46
 2021-01-24,Plumas,063,2,1,0,1
-2021-01-24,Riverside,065,3280,4179,12,297
+2021-01-24,Riverside,065,3281,4180,13,298
 2021-01-24,Sacramento,067,2174,3110,6,188
 2021-01-24,San Benito,069,30,17,1,3
 2021-01-24,San Bernardino,071,3161,4089,12,314
@@ -11826,7 +11826,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-25,Orange,059,5264,6109,20,629
 2021-01-25,Placer,061,457,693,2,46
 2021-01-25,Plumas,063,2,1,0,1
-2021-01-25,Riverside,065,3294,4213,12,297
+2021-01-25,Riverside,065,3295,4214,13,298
 2021-01-25,Sacramento,067,2187,3124,6,193
 2021-01-25,San Benito,069,31,18,1,3
 2021-01-25,San Bernardino,071,3170,4105,12,316
@@ -11882,7 +11882,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-26,Orange,059,5282,6142,21,631
 2021-01-26,Placer,061,459,694,3,46
 2021-01-26,Plumas,063,2,1,0,1
-2021-01-26,Riverside,065,3310,4231,14,297
+2021-01-26,Riverside,065,3311,4232,15,298
 2021-01-26,Sacramento,067,2189,3131,6,193
 2021-01-26,San Benito,069,31,18,1,3
 2021-01-26,San Bernardino,071,3172,4109,12,316
@@ -11938,7 +11938,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-27,Orange,059,5316,6184,21,633
 2021-01-27,Placer,061,461,695,3,46
 2021-01-27,Plumas,063,2,1,0,1
-2021-01-27,Riverside,065,3331,4238,14,299
+2021-01-27,Riverside,065,3332,4239,15,300
 2021-01-27,Sacramento,067,2170,3144,6,194
 2021-01-27,San Benito,069,31,18,1,3
 2021-01-27,San Bernardino,071,3176,4111,12,317
@@ -11994,7 +11994,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-28,Orange,059,5339,6280,21,645
 2021-01-28,Placer,061,462,733,3,46
 2021-01-28,Plumas,063,2,1,0,1
-2021-01-28,Riverside,065,3345,4259,14,299
+2021-01-28,Riverside,065,3346,4260,15,300
 2021-01-28,Sacramento,067,2206,3196,6,196
 2021-01-28,San Benito,069,31,18,1,3
 2021-01-28,San Bernardino,071,3181,4118,12,317
@@ -12050,7 +12050,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-29,Orange,059,5353,6324,22,647
 2021-01-29,Placer,061,462,736,3,46
 2021-01-29,Plumas,063,2,1,0,1
-2021-01-29,Riverside,065,3354,4292,14,300
+2021-01-29,Riverside,065,3355,4293,15,301
 2021-01-29,Sacramento,067,2240,3204,6,197
 2021-01-29,San Benito,069,31,18,1,3
 2021-01-29,San Bernardino,071,3185,4128,12,317
@@ -12106,7 +12106,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-30,Orange,059,5363,6331,22,650
 2021-01-30,Placer,061,464,737,3,46
 2021-01-30,Plumas,063,2,1,0,1
-2021-01-30,Riverside,065,3356,4298,14,300
+2021-01-30,Riverside,065,3357,4299,15,301
 2021-01-30,Sacramento,067,2242,3204,6,197
 2021-01-30,San Benito,069,31,18,1,3
 2021-01-30,San Bernardino,071,3192,4129,12,317
@@ -12162,7 +12162,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-01-31,Orange,059,5365,6337,22,650
 2021-01-31,Placer,061,464,738,3,46
 2021-01-31,Plumas,063,2,1,0,1
-2021-01-31,Riverside,065,3358,4301,14,301
+2021-01-31,Riverside,065,3359,4302,15,302
 2021-01-31,Sacramento,067,2242,3204,6,197
 2021-01-31,San Benito,069,31,18,1,3
 2021-01-31,San Bernardino,071,3195,4131,12,317
@@ -12218,7 +12218,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-01,Orange,059,5390,6357,23,654
 2021-02-01,Placer,061,465,741,3,46
 2021-02-01,Plumas,063,2,1,0,1
-2021-02-01,Riverside,065,3385,4316,14,307
+2021-02-01,Riverside,065,3386,4317,15,308
 2021-02-01,Sacramento,067,2244,3209,6,197
 2021-02-01,San Benito,069,31,18,1,3
 2021-02-01,San Bernardino,071,3209,4139,12,317
@@ -12274,7 +12274,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-02,Orange,059,5403,6363,23,658
 2021-02-02,Placer,061,467,742,3,46
 2021-02-02,Plumas,063,2,1,0,1
-2021-02-02,Riverside,065,3393,4323,14,317
+2021-02-02,Riverside,065,3394,4324,15,318
 2021-02-02,Sacramento,067,2267,3210,6,197
 2021-02-02,San Benito,069,31,18,1,3
 2021-02-02,San Bernardino,071,3211,4147,12,329
@@ -12330,7 +12330,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-03,Orange,059,5450,6439,23,669
 2021-02-03,Placer,061,471,762,3,46
 2021-02-03,Plumas,063,2,1,0,1
-2021-02-03,Riverside,065,3399,4358,14,317
+2021-02-03,Riverside,065,3400,4359,15,318
 2021-02-03,Sacramento,067,2268,3211,6,197
 2021-02-03,San Benito,069,32,18,1,3
 2021-02-03,San Bernardino,071,3212,4151,12,330
@@ -12386,7 +12386,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-04,Orange,059,5470,6511,23,670
 2021-02-04,Placer,061,471,768,3,46
 2021-02-04,Plumas,063,2,1,0,1
-2021-02-04,Riverside,065,3401,4368,14,317
+2021-02-04,Riverside,065,3402,4369,15,318
 2021-02-04,Sacramento,067,2271,3241,6,197
 2021-02-04,San Benito,069,32,18,1,3
 2021-02-04,San Bernardino,071,3215,4156,12,330
@@ -12442,7 +12442,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-05,Orange,059,5497,6584,24,675
 2021-02-05,Placer,061,473,772,3,46
 2021-02-05,Plumas,063,2,1,0,1
-2021-02-05,Riverside,065,3405,4373,14,318
+2021-02-05,Riverside,065,3406,4374,15,319
 2021-02-05,Sacramento,067,2271,3243,6,197
 2021-02-05,San Benito,069,32,18,1,3
 2021-02-05,San Bernardino,071,3215,4160,12,331
@@ -12498,7 +12498,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-06,Orange,059,5503,6585,24,676
 2021-02-06,Placer,061,473,772,3,46
 2021-02-06,Plumas,063,2,1,0,1
-2021-02-06,Riverside,065,3409,4376,14,318
+2021-02-06,Riverside,065,3410,4377,15,319
 2021-02-06,Sacramento,067,2273,3243,6,197
 2021-02-06,San Benito,069,32,18,1,3
 2021-02-06,San Bernardino,071,3218,4168,12,331
@@ -12554,7 +12554,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-07,Orange,059,5504,6585,24,676
 2021-02-07,Placer,061,476,773,3,46
 2021-02-07,Plumas,063,2,1,0,1
-2021-02-07,Riverside,065,3412,4379,14,318
+2021-02-07,Riverside,065,3413,4380,15,319
 2021-02-07,Sacramento,067,2274,3243,6,197
 2021-02-07,San Benito,069,32,18,1,3
 2021-02-07,San Bernardino,071,3218,4169,12,331
@@ -12610,7 +12610,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-08,Orange,059,5535,6627,24,677
 2021-02-08,Placer,061,477,772,3,47
 2021-02-08,Plumas,063,2,1,0,1
-2021-02-08,Riverside,065,3421,4388,14,320
+2021-02-08,Riverside,065,3422,4389,15,321
 2021-02-08,Sacramento,067,2274,3255,6,198
 2021-02-08,San Benito,069,32,18,1,3
 2021-02-08,San Bernardino,071,3222,4172,12,331
@@ -12666,7 +12666,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-09,Orange,059,5538,6629,24,678
 2021-02-09,Placer,061,478,772,3,47
 2021-02-09,Plumas,063,2,1,0,1
-2021-02-09,Riverside,065,3430,4394,14,321
+2021-02-09,Riverside,065,3431,4395,15,322
 2021-02-09,Sacramento,067,2277,3256,6,208
 2021-02-09,San Benito,069,32,18,1,3
 2021-02-09,San Bernardino,071,3224,4176,12,331
@@ -12722,7 +12722,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-10,Orange,059,5545,6634,24,678
 2021-02-10,Placer,061,479,772,3,48
 2021-02-10,Plumas,063,2,1,0,1
-2021-02-10,Riverside,065,3436,4409,14,322
+2021-02-10,Riverside,065,3437,4410,15,323
 2021-02-10,Sacramento,067,2277,3256,6,209
 2021-02-10,San Benito,069,32,18,1,3
 2021-02-10,San Bernardino,071,3227,4179,12,332
@@ -12778,7 +12778,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-11,Orange,059,5559,6645,24,690
 2021-02-11,Placer,061,479,775,3,48
 2021-02-11,Plumas,063,2,1,0,1
-2021-02-11,Riverside,065,3445,4421,14,322
+2021-02-11,Riverside,065,3446,4422,15,323
 2021-02-11,Sacramento,067,2278,3258,6,210
 2021-02-11,San Benito,069,32,18,1,3
 2021-02-11,San Bernardino,071,3228,4181,12,332
@@ -12834,7 +12834,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-12,Orange,059,5575,6663,24,691
 2021-02-12,Placer,061,479,775,3,48
 2021-02-12,Plumas,063,2,1,0,1
-2021-02-12,Riverside,065,3451,4446,14,324
+2021-02-12,Riverside,065,3452,4447,15,325
 2021-02-12,Sacramento,067,2282,3259,6,210
 2021-02-12,San Benito,069,32,18,1,3
 2021-02-12,San Bernardino,071,3231,4188,12,332
@@ -12890,7 +12890,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-13,Orange,059,5575,6663,24,691
 2021-02-13,Placer,061,479,775,3,48
 2021-02-13,Plumas,063,2,1,0,1
-2021-02-13,Riverside,065,3452,4451,14,325
+2021-02-13,Riverside,065,3453,4452,15,326
 2021-02-13,Sacramento,067,2283,3259,6,210
 2021-02-13,San Benito,069,32,18,1,3
 2021-02-13,San Bernardino,071,3231,4189,12,332
@@ -12946,7 +12946,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-14,Orange,059,5576,6663,24,691
 2021-02-14,Placer,061,479,775,3,48
 2021-02-14,Plumas,063,2,1,0,1
-2021-02-14,Riverside,065,3453,4453,14,325
+2021-02-14,Riverside,065,3454,4454,15,326
 2021-02-14,Sacramento,067,2283,3259,6,210
 2021-02-14,San Benito,069,32,18,1,3
 2021-02-14,San Bernardino,071,3231,4189,12,332
@@ -13002,7 +13002,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-15,Orange,059,5579,6663,24,691
 2021-02-15,Placer,061,479,775,3,48
 2021-02-15,Plumas,063,2,1,0,1
-2021-02-15,Riverside,065,3454,4453,14,325
+2021-02-15,Riverside,065,3455,4454,15,326
 2021-02-15,Sacramento,067,2284,3260,6,210
 2021-02-15,San Benito,069,32,18,1,3
 2021-02-15,San Bernardino,071,3231,4191,12,332
@@ -13058,7 +13058,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-16,Orange,059,5586,6678,24,691
 2021-02-16,Placer,061,480,775,3,49
 2021-02-16,Plumas,063,2,1,0,1
-2021-02-16,Riverside,065,3473,4486,14,325
+2021-02-16,Riverside,065,3474,4487,15,326
 2021-02-16,Sacramento,067,2285,3261,6,210
 2021-02-16,San Benito,069,32,18,1,3
 2021-02-16,San Bernardino,071,3233,4194,12,333
@@ -13114,7 +13114,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-17,Orange,059,5586,6684,24,692
 2021-02-17,Placer,061,480,786,3,49
 2021-02-17,Plumas,063,2,1,0,1
-2021-02-17,Riverside,065,3474,4496,14,325
+2021-02-17,Riverside,065,3475,4497,15,326
 2021-02-17,Sacramento,067,2287,3261,6,210
 2021-02-17,San Benito,069,32,18,1,3
 2021-02-17,San Bernardino,071,3234,4192,12,334
@@ -13170,7 +13170,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-18,Orange,059,5587,6689,24,692
 2021-02-18,Placer,061,480,786,3,49
 2021-02-18,Plumas,063,2,1,0,1
-2021-02-18,Riverside,065,3474,4501,14,325
+2021-02-18,Riverside,065,3475,4502,15,326
 2021-02-18,Sacramento,067,2287,3261,6,210
 2021-02-18,San Benito,069,32,18,1,3
 2021-02-18,San Bernardino,071,3234,4193,12,335
@@ -13226,7 +13226,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-19,Orange,059,5588,6690,24,694
 2021-02-19,Placer,061,480,786,3,49
 2021-02-19,Plumas,063,2,1,0,1
-2021-02-19,Riverside,065,3475,4503,14,325
+2021-02-19,Riverside,065,3476,4504,15,326
 2021-02-19,Sacramento,067,2287,3261,6,210
 2021-02-19,San Benito,069,32,18,1,3
 2021-02-19,San Bernardino,071,3234,4194,12,335
@@ -13282,7 +13282,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-20,Orange,059,5588,6691,24,694
 2021-02-20,Placer,061,480,786,3,50
 2021-02-20,Plumas,063,2,1,0,1
-2021-02-20,Riverside,065,3477,4508,14,325
+2021-02-20,Riverside,065,3478,4509,15,326
 2021-02-20,Sacramento,067,2288,3261,6,210
 2021-02-20,San Benito,069,32,18,1,3
 2021-02-20,San Bernardino,071,3235,4194,12,335
@@ -13338,7 +13338,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-21,Orange,059,5588,6692,24,694
 2021-02-21,Placer,061,480,786,3,50
 2021-02-21,Plumas,063,2,1,0,1
-2021-02-21,Riverside,065,3478,4509,14,325
+2021-02-21,Riverside,065,3479,4510,15,326
 2021-02-21,Sacramento,067,2289,3261,6,210
 2021-02-21,San Benito,069,32,18,1,3
 2021-02-21,San Bernardino,071,3236,4197,12,335
@@ -13394,7 +13394,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-22,Orange,059,5591,6699,24,695
 2021-02-22,Placer,061,480,786,3,50
 2021-02-22,Plumas,063,2,1,0,1
-2021-02-22,Riverside,065,3478,4512,14,335
+2021-02-22,Riverside,065,3479,4513,15,336
 2021-02-22,Sacramento,067,2289,3262,6,210
 2021-02-22,San Benito,069,32,18,1,3
 2021-02-22,San Bernardino,071,3237,4197,12,335
@@ -13450,7 +13450,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-23,Orange,059,5591,6699,24,695
 2021-02-23,Placer,061,480,786,3,51
 2021-02-23,Plumas,063,2,1,0,1
-2021-02-23,Riverside,065,3480,4513,14,335
+2021-02-23,Riverside,065,3481,4514,15,336
 2021-02-23,Sacramento,067,2289,3264,6,210
 2021-02-23,San Benito,069,32,18,1,3
 2021-02-23,San Bernardino,071,3237,4197,12,335
@@ -13506,7 +13506,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-24,Orange,059,5593,6692,24,695
 2021-02-24,Placer,061,480,786,3,51
 2021-02-24,Plumas,063,2,1,0,1
-2021-02-24,Riverside,065,3486,4519,14,335
+2021-02-24,Riverside,065,3487,4520,15,336
 2021-02-24,Sacramento,067,2290,3266,6,210
 2021-02-24,San Benito,069,32,18,1,3
 2021-02-24,San Bernardino,071,3238,4197,12,336
@@ -13562,7 +13562,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-25,Orange,059,5596,6702,24,696
 2021-02-25,Placer,061,480,788,3,51
 2021-02-25,Plumas,063,2,1,0,1
-2021-02-25,Riverside,065,3487,4520,14,335
+2021-02-25,Riverside,065,3488,4521,15,336
 2021-02-25,Sacramento,067,2292,3270,6,211
 2021-02-25,San Benito,069,32,18,1,3
 2021-02-25,San Bernardino,071,3240,4197,12,336
@@ -13618,7 +13618,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-26,Orange,059,5598,6712,24,696
 2021-02-26,Placer,061,480,788,3,51
 2021-02-26,Plumas,063,2,1,0,1
-2021-02-26,Riverside,065,3488,4521,14,335
+2021-02-26,Riverside,065,3489,4522,15,336
 2021-02-26,Sacramento,067,2292,3271,6,211
 2021-02-26,San Benito,069,32,18,1,3
 2021-02-26,San Bernardino,071,3241,4197,12,336
@@ -13674,7 +13674,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-27,Orange,059,5598,6716,24,697
 2021-02-27,Placer,061,480,788,3,51
 2021-02-27,Plumas,063,2,1,0,1
-2021-02-27,Riverside,065,3491,4521,14,336
+2021-02-27,Riverside,065,3492,4522,15,337
 2021-02-27,Sacramento,067,2292,3271,6,211
 2021-02-27,San Benito,069,32,18,1,3
 2021-02-27,San Bernardino,071,3242,4198,12,336
@@ -13730,7 +13730,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-02-28,Orange,059,5598,6716,24,697
 2021-02-28,Placer,061,480,788,3,51
 2021-02-28,Plumas,063,2,1,0,1
-2021-02-28,Riverside,065,3491,4523,14,336
+2021-02-28,Riverside,065,3492,4524,15,337
 2021-02-28,Sacramento,067,2292,3271,6,211
 2021-02-28,San Benito,069,32,18,1,3
 2021-02-28,San Bernardino,071,3242,4199,12,336
@@ -13786,7 +13786,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-01,Orange,059,5842,7078,24,708
 2021-03-01,Placer,061,481,827,3,52
 2021-03-01,Plumas,063,2,1,0,1
-2021-03-01,Riverside,065,3568,4672,16,339
+2021-03-01,Riverside,065,3569,4673,17,340
 2021-03-01,Sacramento,067,2345,3328,6,213
 2021-03-01,San Benito,069,32,18,1,3
 2021-03-01,San Bernardino,071,3308,4266,12,338
@@ -13842,7 +13842,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-02,Orange,059,5861,7109,24,719
 2021-03-02,Placer,061,503,879,4,53
 2021-03-02,Plumas,063,2,1,0,1
-2021-03-02,Riverside,065,3569,4672,16,339
+2021-03-02,Riverside,065,3570,4673,17,340
 2021-03-02,Sacramento,067,2365,3362,6,215
 2021-03-02,San Benito,069,32,18,1,3
 2021-03-02,San Bernardino,071,3308,4266,12,338
@@ -13898,7 +13898,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-03,Orange,059,5861,7111,24,720
 2021-03-03,Placer,061,503,879,4,53
 2021-03-03,Plumas,063,2,1,0,1
-2021-03-03,Riverside,065,3571,4680,16,341
+2021-03-03,Riverside,065,3572,4681,17,342
 2021-03-03,Sacramento,067,2383,3384,6,216
 2021-03-03,San Benito,069,32,18,1,3
 2021-03-03,San Bernardino,071,3308,4268,12,338
@@ -13954,7 +13954,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-04,Orange,059,5862,7111,24,720
 2021-03-04,Placer,061,503,879,4,53
 2021-03-04,Plumas,063,2,1,0,1
-2021-03-04,Riverside,065,3573,4691,16,341
+2021-03-04,Riverside,065,3574,4692,17,342
 2021-03-04,Sacramento,067,2383,3384,6,216
 2021-03-04,San Benito,069,32,18,1,3
 2021-03-04,San Bernardino,071,3308,4268,12,338
@@ -14010,7 +14010,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-05,Orange,059,5862,7111,24,720
 2021-03-05,Placer,061,503,879,4,53
 2021-03-05,Plumas,063,2,1,0,1
-2021-03-05,Riverside,065,3575,4698,16,352
+2021-03-05,Riverside,065,3576,4699,17,353
 2021-03-05,Sacramento,067,2388,3384,6,216
 2021-03-05,San Benito,069,32,18,1,3
 2021-03-05,San Bernardino,071,3308,4268,12,338
@@ -14066,7 +14066,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-06,Orange,059,5862,7112,24,720
 2021-03-06,Placer,061,503,879,4,53
 2021-03-06,Plumas,063,2,1,0,1
-2021-03-06,Riverside,065,3575,4698,16,352
+2021-03-06,Riverside,065,3576,4699,17,353
 2021-03-06,Sacramento,067,2388,3384,6,216
 2021-03-06,San Benito,069,32,18,1,3
 2021-03-06,San Bernardino,071,3309,4268,12,338
@@ -14122,7 +14122,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-07,Orange,059,5862,7113,24,720
 2021-03-07,Placer,061,503,879,4,53
 2021-03-07,Plumas,063,2,1,0,1
-2021-03-07,Riverside,065,3575,4698,16,352
+2021-03-07,Riverside,065,3576,4699,17,353
 2021-03-07,Sacramento,067,2388,3384,6,216
 2021-03-07,San Benito,069,32,18,1,3
 2021-03-07,San Bernardino,071,3309,4268,12,338
@@ -14178,7 +14178,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-08,Orange,059,5864,7113,24,734
 2021-03-08,Placer,061,503,879,4,53
 2021-03-08,Plumas,063,2,1,0,1
-2021-03-08,Riverside,065,3576,4698,16,352
+2021-03-08,Riverside,065,3577,4699,17,353
 2021-03-08,Sacramento,067,2391,3385,6,216
 2021-03-08,San Benito,069,32,18,1,3
 2021-03-08,San Bernardino,071,3310,4268,12,339
@@ -14234,7 +14234,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-09,Orange,059,5864,7113,24,734
 2021-03-09,Placer,061,504,879,4,53
 2021-03-09,Plumas,063,2,1,0,1
-2021-03-09,Riverside,065,3577,4702,16,352
+2021-03-09,Riverside,065,3578,4703,17,353
 2021-03-09,Sacramento,067,2391,3385,6,216
 2021-03-09,San Benito,069,32,18,1,3
 2021-03-09,San Bernardino,071,3310,4268,12,339
@@ -14290,7 +14290,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-10,Orange,059,5865,7113,24,734
 2021-03-10,Placer,061,504,879,4,53
 2021-03-10,Plumas,063,2,1,0,1
-2021-03-10,Riverside,065,3578,4704,16,353
+2021-03-10,Riverside,065,3579,4705,17,354
 2021-03-10,Sacramento,067,2391,3385,6,216
 2021-03-10,San Benito,069,32,18,1,3
 2021-03-10,San Bernardino,071,3310,4269,12,339
@@ -14346,7 +14346,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-11,Orange,059,5866,7113,24,734
 2021-03-11,Placer,061,504,879,4,53
 2021-03-11,Plumas,063,2,1,0,1
-2021-03-11,Riverside,065,3579,4706,16,353
+2021-03-11,Riverside,065,3580,4707,17,354
 2021-03-11,Sacramento,067,2393,3386,6,216
 2021-03-11,San Benito,069,32,18,1,3
 2021-03-11,San Bernardino,071,3312,4270,12,339
@@ -14402,7 +14402,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-12,Orange,059,5866,7113,24,735
 2021-03-12,Placer,061,505,879,4,53
 2021-03-12,Plumas,063,2,1,0,1
-2021-03-12,Riverside,065,3579,4711,16,353
+2021-03-12,Riverside,065,3580,4712,17,354
 2021-03-12,Sacramento,067,2393,3387,6,216
 2021-03-12,San Benito,069,32,18,1,3
 2021-03-12,San Bernardino,071,3313,4270,12,339
@@ -14458,7 +14458,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-13,Orange,059,5866,7113,24,735
 2021-03-13,Placer,061,505,879,4,53
 2021-03-13,Plumas,063,2,1,0,1
-2021-03-13,Riverside,065,3579,4712,16,353
+2021-03-13,Riverside,065,3580,4713,17,354
 2021-03-13,Sacramento,067,2393,3387,6,216
 2021-03-13,San Benito,069,32,18,1,3
 2021-03-13,San Bernardino,071,3313,4270,12,339
@@ -14514,7 +14514,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-14,Orange,059,5866,7113,24,735
 2021-03-14,Placer,061,505,879,4,53
 2021-03-14,Plumas,063,2,1,0,1
-2021-03-14,Riverside,065,3579,4712,16,353
+2021-03-14,Riverside,065,3580,4713,17,354
 2021-03-14,Sacramento,067,2393,3388,6,216
 2021-03-14,San Benito,069,32,18,1,3
 2021-03-14,San Bernardino,071,3313,4270,12,339
@@ -14570,7 +14570,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-15,Orange,059,5866,7113,24,735
 2021-03-15,Placer,061,504,879,4,53
 2021-03-15,Plumas,063,2,1,0,1
-2021-03-15,Riverside,065,3579,4714,16,353
+2021-03-15,Riverside,065,3580,4715,17,354
 2021-03-15,Sacramento,067,2404,3388,6,217
 2021-03-15,San Benito,069,32,18,1,3
 2021-03-15,San Bernardino,071,3313,4270,12,339
@@ -14626,7 +14626,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-16,Orange,059,5867,7113,24,735
 2021-03-16,Placer,061,504,879,4,53
 2021-03-16,Plumas,063,2,1,0,1
-2021-03-16,Riverside,065,3579,4715,16,353
+2021-03-16,Riverside,065,3580,4716,17,354
 2021-03-16,Sacramento,067,2405,3388,6,217
 2021-03-16,San Benito,069,32,18,1,3
 2021-03-16,San Bernardino,071,3313,4270,12,339
@@ -14682,7 +14682,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-17,Orange,059,5867,7113,24,735
 2021-03-17,Placer,061,504,879,4,53
 2021-03-17,Plumas,063,2,1,0,1
-2021-03-17,Riverside,065,3579,4716,16,353
+2021-03-17,Riverside,065,3580,4717,17,354
 2021-03-17,Sacramento,067,2408,3398,6,217
 2021-03-17,San Benito,069,32,18,1,3
 2021-03-17,San Bernardino,071,3314,4270,12,339
@@ -14738,7 +14738,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-18,Orange,059,5867,7115,24,735
 2021-03-18,Placer,061,504,879,4,53
 2021-03-18,Plumas,063,2,1,0,1
-2021-03-18,Riverside,065,3582,4718,16,353
+2021-03-18,Riverside,065,3583,4719,17,354
 2021-03-18,Sacramento,067,2412,3399,6,218
 2021-03-18,San Benito,069,32,18,1,3
 2021-03-18,San Bernardino,071,3315,4270,12,339
@@ -14794,7 +14794,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-19,Orange,059,5867,7115,24,735
 2021-03-19,Placer,061,504,879,4,53
 2021-03-19,Plumas,063,2,1,0,1
-2021-03-19,Riverside,065,3582,4718,16,353
+2021-03-19,Riverside,065,3583,4719,17,354
 2021-03-19,Sacramento,067,2412,3401,6,219
 2021-03-19,San Benito,069,32,18,1,3
 2021-03-19,San Bernardino,071,3316,4270,12,339
@@ -14850,7 +14850,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-20,Orange,059,5867,7116,24,735
 2021-03-20,Placer,061,504,880,4,53
 2021-03-20,Plumas,063,2,1,0,1
-2021-03-20,Riverside,065,3582,4718,16,353
+2021-03-20,Riverside,065,3583,4719,17,354
 2021-03-20,Sacramento,067,2414,3401,6,219
 2021-03-20,San Benito,069,32,18,1,3
 2021-03-20,San Bernardino,071,3316,4271,12,339
@@ -14906,7 +14906,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-21,Orange,059,5867,7116,24,735
 2021-03-21,Placer,061,504,880,4,53
 2021-03-21,Plumas,063,2,1,0,1
-2021-03-21,Riverside,065,3582,4718,16,353
+2021-03-21,Riverside,065,3583,4719,17,354
 2021-03-21,Sacramento,067,2414,3401,6,219
 2021-03-21,San Benito,069,32,18,1,3
 2021-03-21,San Bernardino,071,3316,4271,12,339
@@ -14962,7 +14962,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-22,Orange,059,5867,7116,24,735
 2021-03-22,Placer,061,504,880,4,53
 2021-03-22,Plumas,063,2,1,0,1
-2021-03-22,Riverside,065,3582,4718,16,353
+2021-03-22,Riverside,065,3583,4719,17,354
 2021-03-22,Sacramento,067,2414,3401,6,219
 2021-03-22,San Benito,069,32,18,1,3
 2021-03-22,San Bernardino,071,3316,4271,12,339
@@ -15018,7 +15018,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-23,Orange,059,5867,7116,24,735
 2021-03-23,Placer,061,504,880,4,53
 2021-03-23,Plumas,063,2,1,0,1
-2021-03-23,Riverside,065,3582,4718,16,353
+2021-03-23,Riverside,065,3583,4719,17,354
 2021-03-23,Sacramento,067,2417,3402,6,219
 2021-03-23,San Benito,069,32,18,1,3
 2021-03-23,San Bernardino,071,3316,4271,12,339
@@ -15074,7 +15074,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-24,Orange,059,5867,7116,24,735
 2021-03-24,Placer,061,504,880,4,53
 2021-03-24,Plumas,063,2,1,0,1
-2021-03-24,Riverside,065,3582,4718,16,353
+2021-03-24,Riverside,065,3583,4719,17,354
 2021-03-24,Sacramento,067,2418,3402,6,219
 2021-03-24,San Benito,069,32,18,1,3
 2021-03-24,San Bernardino,071,3316,4271,12,339
@@ -15130,7 +15130,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-25,Orange,059,5867,7116,24,735
 2021-03-25,Placer,061,504,880,4,53
 2021-03-25,Plumas,063,2,1,0,1
-2021-03-25,Riverside,065,3582,4718,16,353
+2021-03-25,Riverside,065,3583,4719,17,354
 2021-03-25,Sacramento,067,2419,3402,6,219
 2021-03-25,San Benito,069,32,18,1,3
 2021-03-25,San Bernardino,071,3316,4272,12,339
@@ -15186,7 +15186,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-26,Orange,059,5867,7116,24,735
 2021-03-26,Placer,061,505,880,4,53
 2021-03-26,Plumas,063,2,1,0,1
-2021-03-26,Riverside,065,3582,4718,16,353
+2021-03-26,Riverside,065,3583,4719,17,354
 2021-03-26,Sacramento,067,2421,3405,6,219
 2021-03-26,San Benito,069,32,18,1,3
 2021-03-26,San Bernardino,071,3316,4272,12,339
@@ -15242,7 +15242,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-27,Orange,059,5869,7116,24,735
 2021-03-27,Placer,061,506,880,4,53
 2021-03-27,Plumas,063,2,1,0,1
-2021-03-27,Riverside,065,3582,4718,16,353
+2021-03-27,Riverside,065,3583,4719,17,354
 2021-03-27,Sacramento,067,2424,3406,6,219
 2021-03-27,San Benito,069,32,18,1,3
 2021-03-27,San Bernardino,071,3316,4272,12,339
@@ -15298,7 +15298,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-28,Orange,059,5869,7116,24,735
 2021-03-28,Placer,061,506,880,4,53
 2021-03-28,Plumas,063,2,1,0,1
-2021-03-28,Riverside,065,3582,4718,16,353
+2021-03-28,Riverside,065,3583,4719,17,354
 2021-03-28,Sacramento,067,2424,3406,6,219
 2021-03-28,San Benito,069,32,18,1,3
 2021-03-28,San Bernardino,071,3316,4272,12,339
@@ -15354,7 +15354,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-29,Orange,059,5868,7116,24,735
 2021-03-29,Placer,061,506,880,4,53
 2021-03-29,Plumas,063,2,1,0,1
-2021-03-29,Riverside,065,3584,4719,16,353
+2021-03-29,Riverside,065,3585,4720,17,354
 2021-03-29,Sacramento,067,2427,3408,6,220
 2021-03-29,San Benito,069,32,18,1,3
 2021-03-29,San Bernardino,071,3316,4272,12,339
@@ -15410,7 +15410,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-30,Orange,059,5869,7116,24,735
 2021-03-30,Placer,061,506,880,4,53
 2021-03-30,Plumas,063,2,1,0,1
-2021-03-30,Riverside,065,3584,4719,16,353
+2021-03-30,Riverside,065,3585,4720,17,354
 2021-03-30,Sacramento,067,2427,3412,6,220
 2021-03-30,San Benito,069,32,18,1,3
 2021-03-30,San Bernardino,071,3316,4272,12,339
@@ -15466,7 +15466,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-03-31,Orange,059,5869,7116,24,735
 2021-03-31,Placer,061,506,880,4,53
 2021-03-31,Plumas,063,2,1,0,1
-2021-03-31,Riverside,065,3586,4719,16,353
+2021-03-31,Riverside,065,3587,4720,17,354
 2021-03-31,Sacramento,067,2427,3412,6,220
 2021-03-31,San Benito,069,32,18,1,3
 2021-03-31,San Bernardino,071,3316,4272,12,339
@@ -15522,7 +15522,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-01,Orange,059,5870,7116,24,735
 2021-04-01,Placer,061,506,880,4,53
 2021-04-01,Plumas,063,2,1,0,1
-2021-04-01,Riverside,065,3586,4719,16,354
+2021-04-01,Riverside,065,3587,4720,17,355
 2021-04-01,Sacramento,067,2427,3415,6,220
 2021-04-01,San Benito,069,32,18,1,3
 2021-04-01,San Bernardino,071,3316,4272,12,339
@@ -15578,7 +15578,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-02,Orange,059,5873,7118,24,735
 2021-04-02,Placer,061,506,880,4,53
 2021-04-02,Plumas,063,2,1,0,1
-2021-04-02,Riverside,065,3586,4720,16,354
+2021-04-02,Riverside,065,3587,4721,17,355
 2021-04-02,Sacramento,067,2428,3415,6,220
 2021-04-02,San Benito,069,32,18,1,3
 2021-04-02,San Bernardino,071,3316,4275,12,339
@@ -15634,7 +15634,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-03,Orange,059,5873,7118,24,735
 2021-04-03,Placer,061,506,880,4,53
 2021-04-03,Plumas,063,2,1,0,1
-2021-04-03,Riverside,065,3586,4720,16,354
+2021-04-03,Riverside,065,3587,4721,17,355
 2021-04-03,Sacramento,067,2428,3415,6,220
 2021-04-03,San Benito,069,32,18,1,3
 2021-04-03,San Bernardino,071,3316,4275,12,339
@@ -15690,7 +15690,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-04,Orange,059,5873,7118,24,735
 2021-04-04,Placer,061,506,880,4,53
 2021-04-04,Plumas,063,2,1,0,1
-2021-04-04,Riverside,065,3586,4720,16,354
+2021-04-04,Riverside,065,3587,4721,17,355
 2021-04-04,Sacramento,067,2428,3417,6,220
 2021-04-04,San Benito,069,32,18,1,3
 2021-04-04,San Bernardino,071,3316,4275,12,339
@@ -15746,7 +15746,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-05,Orange,059,5873,7118,24,735
 2021-04-05,Placer,061,507,880,4,53
 2021-04-05,Plumas,063,2,1,0,1
-2021-04-05,Riverside,065,3586,4720,16,354
+2021-04-05,Riverside,065,3587,4721,17,355
 2021-04-05,Sacramento,067,2428,3418,6,220
 2021-04-05,San Benito,069,32,18,1,3
 2021-04-05,San Bernardino,071,3316,4277,12,339
@@ -15802,7 +15802,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-06,Orange,059,5874,7118,24,735
 2021-04-06,Placer,061,507,880,4,53
 2021-04-06,Plumas,063,2,1,0,1
-2021-04-06,Riverside,065,3597,4737,16,354
+2021-04-06,Riverside,065,3598,4738,17,355
 2021-04-06,Sacramento,067,2429,3429,6,220
 2021-04-06,San Benito,069,32,18,1,3
 2021-04-06,San Bernardino,071,3316,4275,12,339
@@ -15858,7 +15858,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-07,Orange,059,5874,7118,24,735
 2021-04-07,Placer,061,507,880,4,53
 2021-04-07,Plumas,063,2,1,0,1
-2021-04-07,Riverside,065,3597,4737,16,354
+2021-04-07,Riverside,065,3598,4738,17,355
 2021-04-07,Sacramento,067,2429,3429,6,220
 2021-04-07,San Benito,069,32,18,1,3
 2021-04-07,San Bernardino,071,3317,4275,12,339
@@ -15914,7 +15914,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-08,Orange,059,5876,7118,24,735
 2021-04-08,Placer,061,508,880,4,53
 2021-04-08,Plumas,063,2,1,0,1
-2021-04-08,Riverside,065,3597,4738,16,354
+2021-04-08,Riverside,065,3598,4739,17,355
 2021-04-08,Sacramento,067,2431,3429,6,220
 2021-04-08,San Benito,069,32,18,1,3
 2021-04-08,San Bernardino,071,3317,4276,12,339
@@ -15970,7 +15970,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-09,Orange,059,5876,7118,24,735
 2021-04-09,Placer,061,508,880,4,53
 2021-04-09,Plumas,063,2,1,0,1
-2021-04-09,Riverside,065,3597,4738,16,354
+2021-04-09,Riverside,065,3598,4739,17,355
 2021-04-09,Sacramento,067,2431,3429,6,220
 2021-04-09,San Benito,069,32,18,1,3
 2021-04-09,San Bernardino,071,3317,4276,12,339
@@ -16026,7 +16026,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-10,Orange,059,5877,7118,24,735
 2021-04-10,Placer,061,508,880,4,53
 2021-04-10,Plumas,063,2,1,0,1
-2021-04-10,Riverside,065,3597,4739,16,354
+2021-04-10,Riverside,065,3598,4740,17,355
 2021-04-10,Sacramento,067,2431,3429,6,220
 2021-04-10,San Benito,069,32,18,1,3
 2021-04-10,San Bernardino,071,3318,4285,12,339
@@ -16082,7 +16082,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-11,Orange,059,5877,7119,24,735
 2021-04-11,Placer,061,508,880,4,53
 2021-04-11,Plumas,063,2,1,0,1
-2021-04-11,Riverside,065,3597,4739,16,354
+2021-04-11,Riverside,065,3598,4740,17,355
 2021-04-11,Sacramento,067,2432,3430,6,220
 2021-04-11,San Benito,069,32,18,1,3
 2021-04-11,San Bernardino,071,3318,4285,12,339
@@ -16138,7 +16138,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-12,Orange,059,5877,7119,24,735
 2021-04-12,Placer,061,508,880,4,53
 2021-04-12,Plumas,063,2,1,0,1
-2021-04-12,Riverside,065,3597,4739,16,354
+2021-04-12,Riverside,065,3598,4740,17,355
 2021-04-12,Sacramento,067,2432,3430,6,220
 2021-04-12,San Benito,069,32,18,1,3
 2021-04-12,San Bernardino,071,3318,4285,12,339
@@ -16194,7 +16194,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-13,Orange,059,5877,7119,24,735
 2021-04-13,Placer,061,508,880,4,53
 2021-04-13,Plumas,063,2,1,0,1
-2021-04-13,Riverside,065,3597,4740,16,354
+2021-04-13,Riverside,065,3598,4741,17,355
 2021-04-13,Sacramento,067,2432,3431,6,220
 2021-04-13,San Benito,069,32,18,1,3
 2021-04-13,San Bernardino,071,3319,4285,12,339
@@ -16250,7 +16250,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-14,Orange,059,5877,7119,24,735
 2021-04-14,Placer,061,508,880,4,53
 2021-04-14,Plumas,063,2,1,0,1
-2021-04-14,Riverside,065,3597,4741,16,354
+2021-04-14,Riverside,065,3598,4742,17,355
 2021-04-14,Sacramento,067,2436,3431,6,220
 2021-04-14,San Benito,069,32,18,1,3
 2021-04-14,San Bernardino,071,3319,4285,12,339
@@ -16306,7 +16306,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-15,Orange,059,5877,7119,24,735
 2021-04-15,Placer,061,508,880,4,53
 2021-04-15,Plumas,063,2,1,0,1
-2021-04-15,Riverside,065,3598,4741,16,354
+2021-04-15,Riverside,065,3599,4742,17,355
 2021-04-15,Sacramento,067,2436,3431,6,220
 2021-04-15,San Benito,069,32,18,1,3
 2021-04-15,San Bernardino,071,3319,4285,12,339
@@ -16362,7 +16362,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-16,Orange,059,5877,7119,24,735
 2021-04-16,Placer,061,508,880,4,53
 2021-04-16,Plumas,063,2,1,0,1
-2021-04-16,Riverside,065,3599,4741,16,354
+2021-04-16,Riverside,065,3600,4742,17,355
 2021-04-16,Sacramento,067,2437,3434,6,220
 2021-04-16,San Benito,069,32,18,1,3
 2021-04-16,San Bernardino,071,3319,4285,12,339
@@ -16418,7 +16418,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-17,Orange,059,5878,7119,24,735
 2021-04-17,Placer,061,508,880,4,53
 2021-04-17,Plumas,063,2,1,0,1
-2021-04-17,Riverside,065,3600,4741,16,354
+2021-04-17,Riverside,065,3601,4742,17,355
 2021-04-17,Sacramento,067,2437,3434,6,220
 2021-04-17,San Benito,069,32,18,1,3
 2021-04-17,San Bernardino,071,3319,4291,12,339
@@ -16474,7 +16474,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-18,Orange,059,5878,7119,24,735
 2021-04-18,Placer,061,510,880,4,53
 2021-04-18,Plumas,063,2,1,0,1
-2021-04-18,Riverside,065,3600,4741,16,354
+2021-04-18,Riverside,065,3601,4742,17,355
 2021-04-18,Sacramento,067,2438,3435,6,220
 2021-04-18,San Benito,069,32,18,1,3
 2021-04-18,San Bernardino,071,3319,4291,12,339
@@ -16530,7 +16530,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-19,Orange,059,5879,7119,24,735
 2021-04-19,Placer,061,510,880,4,53
 2021-04-19,Plumas,063,2,1,0,1
-2021-04-19,Riverside,065,3600,4741,16,354
+2021-04-19,Riverside,065,3601,4742,17,355
 2021-04-19,Sacramento,067,2438,3436,6,220
 2021-04-19,San Benito,069,32,18,1,3
 2021-04-19,San Bernardino,071,3319,4291,12,339
@@ -16586,7 +16586,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-20,Orange,059,5879,7119,24,735
 2021-04-20,Placer,061,510,880,4,53
 2021-04-20,Plumas,063,2,1,0,1
-2021-04-20,Riverside,065,3600,4742,16,354
+2021-04-20,Riverside,065,3601,4743,17,355
 2021-04-20,Sacramento,067,2438,3436,6,220
 2021-04-20,San Benito,069,32,18,1,3
 2021-04-20,San Bernardino,071,3319,4292,12,339
@@ -16642,7 +16642,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-21,Orange,059,5882,7129,24,735
 2021-04-21,Placer,061,511,880,4,53
 2021-04-21,Plumas,063,2,1,0,1
-2021-04-21,Riverside,065,3601,4742,16,354
+2021-04-21,Riverside,065,3602,4743,17,355
 2021-04-21,Sacramento,067,2442,3437,6,220
 2021-04-21,San Benito,069,32,18,1,3
 2021-04-21,San Bernardino,071,3337,4303,12,339
@@ -16698,7 +16698,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-22,Orange,059,5882,7129,24,735
 2021-04-22,Placer,061,511,880,4,53
 2021-04-22,Plumas,063,2,1,0,1
-2021-04-22,Riverside,065,3601,4742,16,354
+2021-04-22,Riverside,065,3602,4743,17,355
 2021-04-22,Sacramento,067,2442,3437,6,220
 2021-04-22,San Benito,069,32,18,1,3
 2021-04-22,San Bernardino,071,3337,4303,12,339
@@ -16754,7 +16754,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-23,Orange,059,5883,7129,24,735
 2021-04-23,Placer,061,511,880,4,53
 2021-04-23,Plumas,063,2,1,0,1
-2021-04-23,Riverside,065,3601,4646,16,354
+2021-04-23,Riverside,065,3602,4647,17,355
 2021-04-23,Sacramento,067,2444,3437,6,220
 2021-04-23,San Benito,069,32,18,1,3
 2021-04-23,San Bernardino,071,3337,4303,12,339
@@ -16810,7 +16810,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-24,Orange,059,5883,7129,24,735
 2021-04-24,Placer,061,512,880,4,53
 2021-04-24,Plumas,063,2,1,0,1
-2021-04-24,Riverside,065,3601,4742,16,354
+2021-04-24,Riverside,065,3602,4743,17,355
 2021-04-24,Sacramento,067,2445,3438,6,220
 2021-04-24,San Benito,069,32,18,1,3
 2021-04-24,San Bernardino,071,3337,4303,12,339
@@ -16866,7 +16866,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-25,Orange,059,5883,7129,24,735
 2021-04-25,Placer,061,512,880,4,53
 2021-04-25,Plumas,063,2,1,0,1
-2021-04-25,Riverside,065,3601,4742,16,354
+2021-04-25,Riverside,065,3602,4743,17,355
 2021-04-25,Sacramento,067,2445,3439,6,220
 2021-04-25,San Benito,069,32,18,1,3
 2021-04-25,San Bernardino,071,3337,4303,12,339
@@ -16922,7 +16922,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-26,Orange,059,5883,7129,24,735
 2021-04-26,Placer,061,512,880,4,53
 2021-04-26,Plumas,063,2,1,0,1
-2021-04-26,Riverside,065,3601,4742,16,354
+2021-04-26,Riverside,065,3602,4743,17,355
 2021-04-26,Sacramento,067,2445,3439,6,220
 2021-04-26,San Benito,069,32,18,1,3
 2021-04-26,San Bernardino,071,3338,4303,12,339
@@ -16978,7 +16978,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-27,Orange,059,5884,7129,24,735
 2021-04-27,Placer,061,512,880,4,53
 2021-04-27,Plumas,063,2,1,0,1
-2021-04-27,Riverside,065,3601,4742,16,354
+2021-04-27,Riverside,065,3602,4743,17,355
 2021-04-27,Sacramento,067,2447,3439,6,220
 2021-04-27,San Benito,069,32,18,1,3
 2021-04-27,San Bernardino,071,3338,4303,12,341
@@ -17034,7 +17034,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-28,Orange,059,5884,7129,24,735
 2021-04-28,Placer,061,512,880,4,53
 2021-04-28,Plumas,063,2,1,0,1
-2021-04-28,Riverside,065,3601,4742,16,354
+2021-04-28,Riverside,065,3602,4743,17,355
 2021-04-28,Sacramento,067,2449,3439,6,220
 2021-04-28,San Benito,069,32,18,1,3
 2021-04-28,San Bernardino,071,3338,4303,12,341
@@ -17090,7 +17090,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-29,Orange,059,5884,7129,24,735
 2021-04-29,Placer,061,512,880,4,53
 2021-04-29,Plumas,063,2,1,0,1
-2021-04-29,Riverside,065,3601,4742,16,354
+2021-04-29,Riverside,065,3602,4743,17,355
 2021-04-29,Sacramento,067,2451,3439,6,220
 2021-04-29,San Benito,069,33,18,1,3
 2021-04-29,San Bernardino,071,3338,4303,12,341
@@ -17146,7 +17146,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-04-30,Orange,059,5884,7129,24,735
 2021-04-30,Placer,061,512,880,4,53
 2021-04-30,Plumas,063,2,1,0,1
-2021-04-30,Riverside,065,3601,4742,16,354
+2021-04-30,Riverside,065,3602,4743,17,355
 2021-04-30,Sacramento,067,2451,3439,6,220
 2021-04-30,San Benito,069,33,18,1,3
 2021-04-30,San Bernardino,071,3338,4303,12,341
@@ -17202,7 +17202,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-01,Orange,059,5885,7129,24,735
 2021-05-01,Placer,061,512,880,4,53
 2021-05-01,Plumas,063,2,1,0,1
-2021-05-01,Riverside,065,3602,4742,16,354
+2021-05-01,Riverside,065,3603,4743,17,355
 2021-05-01,Sacramento,067,2452,3439,6,220
 2021-05-01,San Benito,069,33,18,1,3
 2021-05-01,San Bernardino,071,3338,4303,12,341
@@ -17258,7 +17258,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-02,Orange,059,5885,7129,24,735
 2021-05-02,Placer,061,512,880,4,53
 2021-05-02,Plumas,063,2,1,0,1
-2021-05-02,Riverside,065,3602,4743,16,354
+2021-05-02,Riverside,065,3603,4744,17,355
 2021-05-02,Sacramento,067,2452,3439,6,220
 2021-05-02,San Benito,069,33,18,1,3
 2021-05-02,San Bernardino,071,3339,4305,12,341
@@ -17314,7 +17314,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-03,Orange,059,5885,7129,24,735
 2021-05-03,Placer,061,512,880,4,53
 2021-05-03,Plumas,063,2,1,0,1
-2021-05-03,Riverside,065,3602,4743,16,354
+2021-05-03,Riverside,065,3603,4744,17,355
 2021-05-03,Sacramento,067,2452,3439,6,220
 2021-05-03,San Benito,069,33,18,1,3
 2021-05-03,San Bernardino,071,3338,4305,12,341
@@ -17370,7 +17370,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-04,Orange,059,5885,7129,24,735
 2021-05-04,Placer,061,512,880,4,53
 2021-05-04,Plumas,063,2,1,0,1
-2021-05-04,Riverside,065,3602,4743,16,354
+2021-05-04,Riverside,065,3603,4744,17,355
 2021-05-04,Sacramento,067,2454,3439,6,220
 2021-05-04,San Benito,069,33,18,1,3
 2021-05-04,San Bernardino,071,3339,4305,12,341
@@ -17426,7 +17426,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-05,Orange,059,5885,7129,24,735
 2021-05-05,Placer,061,512,880,4,53
 2021-05-05,Plumas,063,2,1,0,1
-2021-05-05,Riverside,065,3603,4744,16,354
+2021-05-05,Riverside,065,3604,4745,17,355
 2021-05-05,Sacramento,067,2454,3439,6,220
 2021-05-05,San Benito,069,33,18,1,3
 2021-05-05,San Bernardino,071,3339,4305,12,341
@@ -17482,7 +17482,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-06,Orange,059,5886,7129,24,735
 2021-05-06,Placer,061,512,880,4,53
 2021-05-06,Plumas,063,2,1,0,1
-2021-05-06,Riverside,065,3605,4744,16,354
+2021-05-06,Riverside,065,3606,4745,17,355
 2021-05-06,Sacramento,067,2454,3440,6,220
 2021-05-06,San Benito,069,33,18,1,3
 2021-05-06,San Bernardino,071,3339,4305,12,341
@@ -17538,7 +17538,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-07,Orange,059,5886,7129,24,735
 2021-05-07,Placer,061,513,880,4,53
 2021-05-07,Plumas,063,2,1,0,1
-2021-05-07,Riverside,065,3605,4744,16,354
+2021-05-07,Riverside,065,3606,4745,17,355
 2021-05-07,Sacramento,067,2454,3440,6,220
 2021-05-07,San Benito,069,33,18,1,3
 2021-05-07,San Bernardino,071,3339,4305,12,341
@@ -17594,7 +17594,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-08,Orange,059,5887,7129,24,735
 2021-05-08,Placer,061,513,880,4,53
 2021-05-08,Plumas,063,2,1,0,1
-2021-05-08,Riverside,065,3605,4745,16,354
+2021-05-08,Riverside,065,3606,4746,17,355
 2021-05-08,Sacramento,067,2456,3440,6,220
 2021-05-08,San Benito,069,33,18,1,3
 2021-05-08,San Bernardino,071,3339,4305,12,341
@@ -17650,7 +17650,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-09,Orange,059,5888,7129,24,735
 2021-05-09,Placer,061,513,880,4,53
 2021-05-09,Plumas,063,2,1,0,1
-2021-05-09,Riverside,065,3605,4745,16,354
+2021-05-09,Riverside,065,3606,4746,17,355
 2021-05-09,Sacramento,067,2457,3440,6,220
 2021-05-09,San Benito,069,33,18,1,3
 2021-05-09,San Bernardino,071,3339,4305,12,341
@@ -17706,7 +17706,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-10,Orange,059,5888,7129,24,735
 2021-05-10,Placer,061,513,880,4,53
 2021-05-10,Plumas,063,2,1,0,1
-2021-05-10,Riverside,065,3605,4745,16,354
+2021-05-10,Riverside,065,3606,4746,17,355
 2021-05-10,Sacramento,067,2457,3440,6,220
 2021-05-10,San Benito,069,33,18,1,3
 2021-05-10,San Bernardino,071,3339,4305,12,341
@@ -17762,7 +17762,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-11,Orange,059,5890,7129,24,735
 2021-05-11,Placer,061,514,881,4,53
 2021-05-11,Plumas,063,2,1,0,1
-2021-05-11,Riverside,065,3605,4746,16,354
+2021-05-11,Riverside,065,3606,4747,17,355
 2021-05-11,Sacramento,067,2478,3461,6,221
 2021-05-11,San Benito,069,33,18,1,3
 2021-05-11,San Bernardino,071,3340,4306,12,343
@@ -17818,7 +17818,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-12,Orange,059,5890,7129,24,735
 2021-05-12,Placer,061,514,881,4,53
 2021-05-12,Plumas,063,2,1,0,1
-2021-05-12,Riverside,065,3605,4746,16,354
+2021-05-12,Riverside,065,3606,4747,17,355
 2021-05-12,Sacramento,067,2478,3463,6,221
 2021-05-12,San Benito,069,33,18,1,3
 2021-05-12,San Bernardino,071,3340,4306,12,343
@@ -17874,7 +17874,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-13,Orange,059,5890,7129,24,735
 2021-05-13,Placer,061,514,881,4,53
 2021-05-13,Plumas,063,2,1,0,1
-2021-05-13,Riverside,065,3605,4746,16,355
+2021-05-13,Riverside,065,3606,4747,17,356
 2021-05-13,Sacramento,067,2479,3465,6,221
 2021-05-13,San Benito,069,33,18,1,3
 2021-05-13,San Bernardino,071,3340,4306,12,343
@@ -17930,7 +17930,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-14,Orange,059,5891,7129,24,735
 2021-05-14,Placer,061,515,881,4,53
 2021-05-14,Plumas,063,2,1,0,1
-2021-05-14,Riverside,065,3605,4746,16,355
+2021-05-14,Riverside,065,3606,4747,17,356
 2021-05-14,Sacramento,067,2482,3465,6,221
 2021-05-14,San Benito,069,33,18,1,3
 2021-05-14,San Bernardino,071,3341,4306,12,343
@@ -17986,7 +17986,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-15,Orange,059,5891,7129,24,735
 2021-05-15,Placer,061,516,881,4,53
 2021-05-15,Plumas,063,2,1,0,1
-2021-05-15,Riverside,065,3605,4746,16,355
+2021-05-15,Riverside,065,3606,4747,17,356
 2021-05-15,Sacramento,067,2482,3465,6,221
 2021-05-15,San Benito,069,33,18,1,3
 2021-05-15,San Bernardino,071,3341,4307,12,343
@@ -18042,7 +18042,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-16,Orange,059,5891,7129,24,735
 2021-05-16,Placer,061,516,881,4,53
 2021-05-16,Plumas,063,2,1,0,1
-2021-05-16,Riverside,065,3605,4746,16,355
+2021-05-16,Riverside,065,3606,4747,17,356
 2021-05-16,Sacramento,067,2482,3465,6,221
 2021-05-16,San Benito,069,33,18,1,3
 2021-05-16,San Bernardino,071,3341,4307,12,343
@@ -18098,7 +18098,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-17,Orange,059,5891,7129,24,735
 2021-05-17,Placer,061,516,881,4,53
 2021-05-17,Plumas,063,2,1,0,1
-2021-05-17,Riverside,065,3606,4746,16,355
+2021-05-17,Riverside,065,3607,4747,17,356
 2021-05-17,Sacramento,067,2482,3465,6,221
 2021-05-17,San Benito,069,33,18,1,3
 2021-05-17,San Bernardino,071,3341,4307,12,343
@@ -18154,7 +18154,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-18,Orange,059,5891,7129,24,735
 2021-05-18,Placer,061,516,881,4,53
 2021-05-18,Plumas,063,2,1,0,1
-2021-05-18,Riverside,065,3606,4746,16,355
+2021-05-18,Riverside,065,3607,4747,17,356
 2021-05-18,Sacramento,067,2482,3466,6,221
 2021-05-18,San Benito,069,33,18,1,3
 2021-05-18,San Bernardino,071,3341,4307,12,343
@@ -18210,7 +18210,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-19,Orange,059,5891,7129,24,735
 2021-05-19,Placer,061,516,881,4,53
 2021-05-19,Plumas,063,2,1,0,1
-2021-05-19,Riverside,065,3607,4746,16,355
+2021-05-19,Riverside,065,3608,4747,17,356
 2021-05-19,Sacramento,067,2482,3466,6,221
 2021-05-19,San Benito,069,33,18,1,3
 2021-05-19,San Bernardino,071,3341,4307,12,343
@@ -18266,7 +18266,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-20,Orange,059,5891,7129,24,735
 2021-05-20,Placer,061,516,881,4,53
 2021-05-20,Plumas,063,2,1,0,1
-2021-05-20,Riverside,065,3608,4746,16,355
+2021-05-20,Riverside,065,3609,4747,17,356
 2021-05-20,Sacramento,067,2483,3466,6,221
 2021-05-20,San Benito,069,33,18,1,3
 2021-05-20,San Bernardino,071,3341,4308,12,343
@@ -18322,7 +18322,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-21,Orange,059,5891,7129,24,735
 2021-05-21,Placer,061,516,881,4,53
 2021-05-21,Plumas,063,2,1,0,1
-2021-05-21,Riverside,065,3608,4746,16,355
+2021-05-21,Riverside,065,3609,4747,17,356
 2021-05-21,Sacramento,067,2483,3468,6,221
 2021-05-21,San Benito,069,33,18,1,3
 2021-05-21,San Bernardino,071,3341,4308,12,343
@@ -18378,7 +18378,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-22,Orange,059,5891,7129,24,735
 2021-05-22,Placer,061,516,881,4,53
 2021-05-22,Plumas,063,2,1,0,1
-2021-05-22,Riverside,065,3608,4746,16,355
+2021-05-22,Riverside,065,3609,4747,17,356
 2021-05-22,Sacramento,067,2483,3469,6,221
 2021-05-22,San Benito,069,33,18,1,3
 2021-05-22,San Bernardino,071,3341,4308,12,343
@@ -18434,7 +18434,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-23,Orange,059,5891,7129,24,735
 2021-05-23,Placer,061,516,881,4,53
 2021-05-23,Plumas,063,2,1,0,1
-2021-05-23,Riverside,065,3609,4746,16,355
+2021-05-23,Riverside,065,3610,4747,17,356
 2021-05-23,Sacramento,067,2484,3469,6,221
 2021-05-23,San Benito,069,33,18,1,3
 2021-05-23,San Bernardino,071,3341,4308,12,343
@@ -18490,7 +18490,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-24,Orange,059,5891,7129,24,735
 2021-05-24,Placer,061,516,881,4,53
 2021-05-24,Plumas,063,2,1,0,1
-2021-05-24,Riverside,065,3610,4746,16,355
+2021-05-24,Riverside,065,3611,4747,17,356
 2021-05-24,Sacramento,067,2484,3469,6,221
 2021-05-24,San Benito,069,33,18,1,3
 2021-05-24,San Bernardino,071,3341,4308,12,343
@@ -18546,7 +18546,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-25,Orange,059,5891,7129,24,735
 2021-05-25,Placer,061,516,881,4,53
 2021-05-25,Plumas,063,2,1,0,1
-2021-05-25,Riverside,065,3610,4746,16,355
+2021-05-25,Riverside,065,3611,4747,17,356
 2021-05-25,Sacramento,067,2484,3469,6,221
 2021-05-25,San Benito,069,33,18,1,3
 2021-05-25,San Bernardino,071,3341,4308,12,343
@@ -18602,7 +18602,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-26,Orange,059,5891,7129,24,735
 2021-05-26,Placer,061,516,881,4,53
 2021-05-26,Plumas,063,2,1,0,1
-2021-05-26,Riverside,065,3611,4746,16,355
+2021-05-26,Riverside,065,3612,4747,17,356
 2021-05-26,Sacramento,067,2484,3469,6,221
 2021-05-26,San Benito,069,33,18,1,3
 2021-05-26,San Bernardino,071,3341,4308,12,343
@@ -18658,7 +18658,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-27,Orange,059,5891,7130,24,735
 2021-05-27,Placer,061,516,881,4,53
 2021-05-27,Plumas,063,2,1,0,1
-2021-05-27,Riverside,065,3611,4746,16,355
+2021-05-27,Riverside,065,3612,4747,17,356
 2021-05-27,Sacramento,067,2484,3469,6,221
 2021-05-27,San Benito,069,33,18,1,3
 2021-05-27,San Bernardino,071,3341,4308,12,343
@@ -18714,7 +18714,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-28,Orange,059,5891,7130,24,735
 2021-05-28,Placer,061,518,881,4,53
 2021-05-28,Plumas,063,2,1,0,1
-2021-05-28,Riverside,065,3611,4746,16,355
+2021-05-28,Riverside,065,3612,4747,17,356
 2021-05-28,Sacramento,067,2485,3469,6,221
 2021-05-28,San Benito,069,33,18,1,3
 2021-05-28,San Bernardino,071,3341,4308,12,343
@@ -18770,7 +18770,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-29,Orange,059,5891,7130,24,735
 2021-05-29,Placer,061,518,881,4,53
 2021-05-29,Plumas,063,2,1,0,1
-2021-05-29,Riverside,065,3611,4746,16,355
+2021-05-29,Riverside,065,3612,4747,17,356
 2021-05-29,Sacramento,067,2485,3469,6,221
 2021-05-29,San Benito,069,33,18,1,3
 2021-05-29,San Bernardino,071,3341,4308,12,343
@@ -18826,7 +18826,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-30,Orange,059,5891,7130,24,745
 2021-05-30,Placer,061,518,881,4,53
 2021-05-30,Plumas,063,2,1,0,1
-2021-05-30,Riverside,065,3611,4746,16,355
+2021-05-30,Riverside,065,3612,4747,17,356
 2021-05-30,Sacramento,067,2485,3469,6,221
 2021-05-30,San Benito,069,33,18,1,3
 2021-05-30,San Bernardino,071,3341,4308,12,343
@@ -18882,7 +18882,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-05-31,Orange,059,5891,7130,24,745
 2021-05-31,Placer,061,519,881,4,53
 2021-05-31,Plumas,063,2,1,0,1
-2021-05-31,Riverside,065,3612,4746,16,355
+2021-05-31,Riverside,065,3613,4747,17,356
 2021-05-31,Sacramento,067,2485,3471,6,221
 2021-05-31,San Benito,069,33,18,1,3
 2021-05-31,San Bernardino,071,3341,4308,12,343
@@ -18938,7 +18938,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-06-01,Orange,059,5891,7130,24,745
 2021-06-01,Placer,061,519,881,4,53
 2021-06-01,Plumas,063,2,1,0,1
-2021-06-01,Riverside,065,3612,4746,16,355
+2021-06-01,Riverside,065,3613,4747,17,356
 2021-06-01,Sacramento,067,2485,3472,6,221
 2021-06-01,San Benito,069,33,18,1,3
 2021-06-01,San Bernardino,071,3341,4309,12,343
@@ -18994,7 +18994,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-06-02,Orange,059,5891,7130,24,745
 2021-06-02,Placer,061,519,881,4,53
 2021-06-02,Plumas,063,2,1,0,1
-2021-06-02,Riverside,065,3612,4746,16,355
+2021-06-02,Riverside,065,3613,4747,17,356
 2021-06-02,Sacramento,067,2485,3472,6,221
 2021-06-02,San Benito,069,33,18,1,3
 2021-06-02,San Bernardino,071,3341,4309,12,343
@@ -19035,9 +19035,9 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-06-03,Inyo,027,44,60,0,14
 2021-06-03,Kern,029,1201,1206,0,82
 2021-06-03,Kings,031,189,182,0,25
-2021-06-03,Lake,033,106,141,0,13
+2021-06-03,Lake,033,107,141,0,13
 2021-06-03,Lassen,035,16,34,0,2
-2021-06-03,Los Angeles,037,22039,27531,118,3568
+2021-06-03,Los Angeles,037,22040,27531,118,3568
 2021-06-03,Madera,039,215,315,0,26
 2021-06-03,Marin,041,462,515,2,51
 2021-06-03,Mariposa,043,1,0,0,0
@@ -19045,17 +19045,17 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-06-03,Merced,047,239,249,1,7
 2021-06-03,Modoc,049,50,47,0,2
 2021-06-03,Monterey,053,549,647,0,64
-2021-06-03,Napa,055,238,225,3,22
+2021-06-03,Napa,055,239,225,3,22
 2021-06-03,Nevada,057,187,229,0,49
-2021-06-03,Orange,059,5891,7130,24,745
+2021-06-03,Orange,059,5892,7130,24,746
 2021-06-03,Placer,061,519,881,4,53
 2021-06-03,Plumas,063,2,1,0,1
-2021-06-03,Riverside,065,3612,4746,16,355
+2021-06-03,Riverside,065,3613,4747,17,356
 2021-06-03,Sacramento,067,2485,3472,6,221
 2021-06-03,San Benito,069,33,18,1,3
-2021-06-03,San Bernardino,071,3341,4309,12,343
-2021-06-03,San Diego,073,5512,6478,14,560
-2021-06-03,San Francisco,075,751,933,3,51
+2021-06-03,San Bernardino,071,3342,4309,12,343
+2021-06-03,San Diego,073,5514,6478,14,560
+2021-06-03,San Francisco,075,751,934,3,51
 2021-06-03,San Joaquin,077,1684,2367,3,222
 2021-06-03,San Luis Obispo,079,353,428,0,47
 2021-06-03,San Mateo,081,801,1243,5,147
@@ -19068,7 +19068,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-06-03,Solano,095,361,564,1,38
 2021-06-03,Sonoma,097,817,908,2,39
 2021-06-03,Stanislaus,099,1423,1819,2,174
-2021-06-03,Sutter,101,266,290,0,16
+2021-06-03,Sutter,101,266,292,0,16
 2021-06-03,Tehama,103,23,58,0,14
 2021-06-03,Trinity,105,11,1,0,1
 2021-06-03,Tulare,107,865,1010,1,148
@@ -19076,3 +19076,59 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-06-03,Ventura,111,1362,1579,1,127
 2021-06-03,Yolo,113,299,305,2,41
 2021-06-03,Yuba,115,42,82,0,2
+2021-06-04,Alameda,001,2209,3163,9,214
+2021-06-04,Amador,005,31,63,0,19
+2021-06-04,Butte,007,421,631,3,48
+2021-06-04,Calaveras,009,24,58,0,1
+2021-06-04,Colusa,011,75,58,0,2
+2021-06-04,Contra Costa,013,996,1487,5,123
+2021-06-04,Del Norte,015,23,1,0,0
+2021-06-04,El Dorado,017,237,230,0,36
+2021-06-04,Fresno,019,1838,1946,4,193
+2021-06-04,Glenn,021,55,75,0,2
+2021-06-04,Humboldt,023,33,61,1,4
+2021-06-04,Imperial,025,151,178,1,24
+2021-06-04,Inyo,027,44,60,0,14
+2021-06-04,Kern,029,1201,1206,0,82
+2021-06-04,Kings,031,189,182,0,25
+2021-06-04,Lake,033,107,141,0,13
+2021-06-04,Lassen,035,16,34,0,2
+2021-06-04,Los Angeles,037,22040,27531,118,3568
+2021-06-04,Madera,039,215,315,0,26
+2021-06-04,Marin,041,462,515,2,51
+2021-06-04,Mariposa,043,1,0,0,0
+2021-06-04,Mendocino,045,48,64,1,3
+2021-06-04,Merced,047,239,249,1,7
+2021-06-04,Modoc,049,50,47,0,2
+2021-06-04,Monterey,053,549,647,0,64
+2021-06-04,Napa,055,239,225,3,22
+2021-06-04,Nevada,057,187,229,0,49
+2021-06-04,Orange,059,5892,7130,24,746
+2021-06-04,Placer,061,519,881,4,53
+2021-06-04,Plumas,063,2,1,0,1
+2021-06-04,Riverside,065,3613,4747,17,356
+2021-06-04,Sacramento,067,2485,3472,6,221
+2021-06-04,San Benito,069,33,18,1,3
+2021-06-04,San Bernardino,071,3342,4309,12,343
+2021-06-04,San Diego,073,5514,6478,14,560
+2021-06-04,San Francisco,075,751,934,3,51
+2021-06-04,San Joaquin,077,1684,2367,3,222
+2021-06-04,San Luis Obispo,079,353,428,0,47
+2021-06-04,San Mateo,081,801,1243,5,147
+2021-06-04,Santa Barbara,083,777,721,2,41
+2021-06-04,Santa Clara,085,2742,3310,12,297
+2021-06-04,Santa Cruz,087,344,598,0,77
+2021-06-04,Shasta,089,566,532,1,61
+2021-06-04,Sierra,091,1,0,0,0
+2021-06-04,Siskiyou,093,2,28,1,1
+2021-06-04,Solano,095,361,564,1,38
+2021-06-04,Sonoma,097,817,908,2,39
+2021-06-04,Stanislaus,099,1423,1819,2,174
+2021-06-04,Sutter,101,266,292,0,16
+2021-06-04,Tehama,103,23,58,0,14
+2021-06-04,Trinity,105,11,1,0,1
+2021-06-04,Tulare,107,865,1010,1,148
+2021-06-04,Tuolumne,109,64,121,0,15
+2021-06-04,Ventura,111,1362,1579,1,127
+2021-06-04,Yolo,113,299,305,2,41
+2021-06-04,Yuba,115,42,82,0,2
