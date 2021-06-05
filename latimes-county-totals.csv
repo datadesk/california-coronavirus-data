@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-06-03,Alameda,001,89025,1687,55,1
+2021-06-03,Alameda,001,89025,1264,55,-422
 2021-06-03,Alpine,003,89,0,0,0
 2021-06-03,Amador,005,3653,47,1,0
 2021-06-03,Butte,007,12061,190,5,0
@@ -19,7 +19,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-03,Lassen,035,5748,24,0,0
 2021-06-03,Los Angeles,037,1244473,24367,198,13
 2021-06-03,Madera,039,16451,245,3,0
-2021-06-03,Marin,041,14152,213,0,0
+2021-06-03,Marin,041,14151,213,-1,0
 2021-06-03,Mariposa,043,461,7,0,0
 2021-06-03,Mendocino,045,4232,49,4,0
 2021-06-03,Merced,047,32183,471,5,0
@@ -52,7 +52,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-03,Sutter,101,9561,106,7,0
 2021-06-03,Tehama,103,5697,59,5,0
 2021-06-03,Trinity,105,411,5,0,0
-2021-06-03,Tulare,107,49936,846,11,0
+2021-06-03,Tulare,107,49854,846,-71,0
 2021-06-03,Tuolumne,109,4171,69,0,0
 2021-06-03,Ventura,111,81421,1021,25,0
 2021-06-03,Yolo,113,14012,208,12,0
