@@ -1,5 +1,5 @@
 date,county,fips,tier
-2021-06-08,Alameda,001,3
+2021-06-08,Alameda,001,4
 2021-06-08,Alpine,003,4
 2021-06-08,Amador,005,4
 2021-06-08,Butte,007,3
@@ -26,7 +26,7 @@ date,county,fips,tier
 2021-06-08,Modoc,049,3
 2021-06-08,Mono,051,4
 2021-06-08,Monterey,053,4
-2021-06-08,Napa,055,3
+2021-06-08,Napa,055,4
 2021-06-08,Nevada,057,3
 2021-06-08,Orange,059,4
 2021-06-08,Placer,061,3
@@ -35,12 +35,12 @@ date,county,fips,tier
 2021-06-08,Sacramento,067,3
 2021-06-08,San Benito,069,4
 2021-06-08,San Bernardino,071,3
-2021-06-08,San Diego,073,3
+2021-06-08,San Diego,073,4
 2021-06-08,San Francisco,075,4
 2021-06-08,San Joaquin,077,3
-2021-06-08,San Luis Obispo,079,3
+2021-06-08,San Luis Obispo,079,4
 2021-06-08,San Mateo,081,4
-2021-06-08,Santa Barbara,083,3
+2021-06-08,Santa Barbara,083,4
 2021-06-08,Santa Clara,085,4
 2021-06-08,Santa Cruz,087,4
 2021-06-08,Shasta,089,2
@@ -48,7 +48,7 @@ date,county,fips,tier
 2021-06-08,Siskiyou,093,3
 2021-06-08,Solano,095,3
 2021-06-08,Sonoma,097,3
-2021-06-08,Stanislaus,099,2
+2021-06-08,Stanislaus,099,3
 2021-06-08,Sutter,101,3
 2021-06-08,Tehama,103,3
 2021-06-08,Trinity,105,4
