@@ -1,5 +1,66 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
-Alameda,Alameda,001,2021-06-13,85754,1233,,
+Alameda,Alameda,001,2021-06-14,85814,1226,,
+Berkeley,Alameda,001,2021-06-14,3634,46,,
+Alpine,Alpine,003,2021-06-14,,,,TRUE
+Amador,Amador,005,2021-06-14,,,,TRUE
+Butte,Butte,007,2021-06-14,12178,192,11915,
+Calaveras,Calaveras,009,2021-06-14,2201,56,2141,
+Colusa,Colusa,011,2021-06-14,,,,TRUE
+Contra Costa,Contra Costa,013,2021-06-14,70358,808,69039,
+Del Norte,Del Norte,015,2021-06-14,1452,7,1439,
+El Dorado,El Dorado,017,2021-06-14,10351,116,10109,
+Fresno,Fresno,019,2021-06-14,,,,TRUE
+Glenn,Glenn,021,2021-06-14,2357,27,2328,
+Humboldt,Humboldt,023,2021-06-14,4434,46,4294,
+Imperial,Imperial,025,2021-06-14,28282,739,27462,
+Inyo,Inyo,027,2021-06-14,,,,TRUE
+Kern,Kern,029,2021-06-14,110617,1400,39859,
+Kings,Kings,031,2021-06-14,23170,247,21463,
+Lake,Lake,033,2021-06-14,3549,45,3480,
+Lassen,Lassen,035,2021-06-14,,,,TRUE
+Long Beach,Los Angeles,037,2021-06-14,53476,942,,
+Los Angeles,Los Angeles,037,2021-06-14,1181653,23124,,
+Pasadena,Los Angeles,037,2021-06-14,11307,349,,
+Madera,Madera,039,2021-06-14,16490,245,16115,
+Marin,Marin,041,2021-06-14,14184,212,13886,
+Mariposa,Mariposa,043,2021-06-14,461,7,453,
+Mendocino,Mendocino,045,2021-06-14,4282,50,4193,
+Merced,Merced,047,2021-06-14,32272,474,31683,
+Modoc,Modoc,049,2021-06-14,,,,TRUE
+Mono,Mono,051,2021-06-14,,,,TRUE
+Monterey,Monterey,053,2021-06-14,43804,420,43773,
+Napa,Napa,055,2021-06-14,9988,79,,
+Nevada,Nevada,057,2021-06-14,4881,75,4741,
+Orange,Orange,059,2021-06-14,255663,5097,249650,
+Placer,Placer,061,2021-06-14,23383,299,22781,
+Plumas,Plumas,063,2021-06-14,,,,TRUE
+Riverside,Riverside,065,2021-06-14,301329,4620,296001,
+Sacramento,Sacramento,067,2021-06-14,107395,1723,104415,
+San Benito,San Benito,069,2021-06-14,6102,63,6025,
+San Bernardino,San Bernardino,071,2021-06-14,299014,4602,293589,
+San Diego,San Diego,073,2021-06-14,281313,3770,,
+San Francisco,San Francisco,075,2021-06-14,36856,550,,
+San Joaquin,San Joaquin,077,2021-06-14,74419,1432,72150,
+San Luis Obispo,San Luis Obispo,079,2021-06-14,21411,261,21099,
+San Mateo,San Mateo,081,2021-06-14,,,,TRUE
+Santa Barbara,Santa Barbara,083,2021-06-14,,,,TRUE
+Santa Clara,Santa Clara,085,2021-06-14,119516,2177,,
+Santa Cruz,Santa Cruz,087,2021-06-14,16206,207,15963,
+Shasta,Shasta,089,2021-06-14,12599,232,12250,
+Sierra,Sierra,091,2021-06-14,113,0,113,
+Siskiyou,Siskiyou,093,2021-06-14,2390,,2340,
+Solano,Solano,095,2021-06-14,33625,244,33238,
+Sonoma,Sonoma,097,2021-06-14,30688,316,29850,
+Stanislaus,Stanislaus,099,2021-06-14,56605,1068,55376,
+Sutter,Sutter,101,2021-06-14,9628,106,9570,
+Tehama,Tehama,103,2021-06-14,,,,TRUE
+Trinity,Trinity,105,2021-06-14,417,5,408,
+Tulare,Tulare,107,2021-06-14,49758,849,48773,
+Tuolumne,Tuolumne,109,2021-06-14,4199,70,2696,
+Ventura,Ventura,111,2021-06-14,81572,1025,80481,
+Yolo,Yolo,113,2021-06-14,14062,209,13801,
+Yuba,Yuba,115,2021-06-14,6461,41,6409,
+Alameda,Alameda,001,2021-06-13,85754,1226,,
 Berkeley,Alameda,001,2021-06-13,3633,46,,
 Alpine,Alpine,003,2021-06-13,89,0,89,TRUE
 Amador,Amador,005,2021-06-13,3685,47,3606,
@@ -60,7 +121,7 @@ Tuolumne,Tuolumne,109,2021-06-13,4185,69,2688,TRUE
 Ventura,Ventura,111,2021-06-13,81554,1025,80459,
 Yolo,Yolo,113,2021-06-13,14049,209,13794,TRUE
 Yuba,Yuba,115,2021-06-13,6448,41,6340,TRUE
-Alameda,Alameda,001,2021-06-12,85707,1233,,TRUE
+Alameda,Alameda,001,2021-06-12,85707,1226,,TRUE
 Berkeley,Alameda,001,2021-06-12,3632,46,,
 Alpine,Alpine,003,2021-06-12,89,0,89,TRUE
 Amador,Amador,005,2021-06-12,3677,47,3599,TRUE
@@ -121,7 +182,7 @@ Tuolumne,Tuolumne,109,2021-06-12,4185,69,2688,TRUE
 Ventura,Ventura,111,2021-06-12,81554,1025,80425,TRUE
 Yolo,Yolo,113,2021-06-12,14049,209,13794,TRUE
 Yuba,Yuba,115,2021-06-12,6448,41,6340,TRUE
-Alameda,Alameda,001,2021-06-11,85707,1233,,
+Alameda,Alameda,001,2021-06-11,85707,1226,,
 Berkeley,Alameda,001,2021-06-11,3631,46,,TRUE
 Alpine,Alpine,003,2021-06-11,89,0,89,TRUE
 Amador,Amador,005,2021-06-11,3677,47,3599,TRUE
@@ -182,7 +243,7 @@ Tuolumne,Tuolumne,109,2021-06-11,4185,69,2688,
 Ventura,Ventura,111,2021-06-11,81554,1025,80425,
 Yolo,Yolo,113,2021-06-11,14049,209,13794,
 Yuba,Yuba,115,2021-06-11,6448,41,6340,
-Alameda,Alameda,001,2021-06-10,85673,1233,,
+Alameda,Alameda,001,2021-06-10,85673,1226,,
 Berkeley,Alameda,001,2021-06-10,3631,46,,
 Alpine,Alpine,003,2021-06-10,89,0,89,
 Amador,Amador,005,2021-06-10,3677,47,3599,
