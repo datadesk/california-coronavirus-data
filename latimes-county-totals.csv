@@ -8,7 +8,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-14,Contra Costa,013,70358,808,30,0
 2021-06-14,Del Norte,015,1452,7,4,0
 2021-06-14,El Dorado,017,10351,116,12,0
-2021-06-14,Fresno,019,102783,1720,0,0
+2021-06-14,Fresno,019,102795,1719,12,0
 2021-06-14,Glenn,021,2357,27,0,0
 2021-06-14,Humboldt,023,4434,46,19,0
 2021-06-14,Imperial,025,28282,739,36,0
@@ -30,7 +30,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-14,Nevada,057,4881,75,7,0
 2021-06-14,Orange,059,255663,5097,75,2
 2021-06-14,Placer,061,23383,299,45,1
-2021-06-14,Plumas,063,735,6,0,0
+2021-06-14,Plumas,063,736,6,1,0
 2021-06-14,Riverside,065,301329,4620,17,2
 2021-06-14,Sacramento,067,107395,1723,209,5
 2021-06-14,San Benito,069,6102,63,7,0
@@ -50,7 +50,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-14,Sonoma,097,30688,316,0,0
 2021-06-14,Stanislaus,099,56605,1068,96,0
 2021-06-14,Sutter,101,9628,106,14,0
-2021-06-14,Tehama,103,5716,59,0,0
+2021-06-14,Tehama,103,5724,59,8,0
 2021-06-14,Trinity,105,417,5,1,0
 2021-06-14,Tulare,107,49758,849,0,0
 2021-06-14,Tuolumne,109,4199,70,14,1
@@ -66,7 +66,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-13,Contra Costa,013,70328,808,52,0
 2021-06-13,Del Norte,015,1448,7,0,0
 2021-06-13,El Dorado,017,10339,116,0,0
-2021-06-13,Fresno,019,102783,1720,59,3
+2021-06-13,Fresno,019,102783,1719,59,2
 2021-06-13,Glenn,021,2357,27,0,0
 2021-06-13,Humboldt,023,4415,46,0,0
 2021-06-13,Imperial,025,28246,739,0,0
