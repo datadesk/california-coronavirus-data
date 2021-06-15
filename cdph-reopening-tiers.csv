@@ -6,10 +6,10 @@ date,county,fips,tier
 2021-06-15,Calaveras,009,3
 2021-06-15,Colusa,011,3
 2021-06-15,Contra Costa,013,3
-2021-06-15,Del Norte,015,2
+2021-06-15,Del Norte,015,3
 2021-06-15,El Dorado,017,3
 2021-06-15,Fresno,019,3
-2021-06-15,Glenn,021,3
+2021-06-15,Glenn,021,4
 2021-06-15,Humboldt,023,3
 2021-06-15,Imperial,025,3
 2021-06-15,Inyo,027,4
@@ -31,10 +31,10 @@ date,county,fips,tier
 2021-06-15,Orange,059,4
 2021-06-15,Placer,061,3
 2021-06-15,Plumas,063,3
-2021-06-15,Riverside,065,3
+2021-06-15,Riverside,065,4
 2021-06-15,Sacramento,067,3
 2021-06-15,San Benito,069,4
-2021-06-15,San Bernardino,071,3
+2021-06-15,San Bernardino,071,4
 2021-06-15,San Diego,073,4
 2021-06-15,San Francisco,075,4
 2021-06-15,San Joaquin,077,3
@@ -43,7 +43,7 @@ date,county,fips,tier
 2021-06-15,Santa Barbara,083,4
 2021-06-15,Santa Clara,085,4
 2021-06-15,Santa Cruz,087,4
-2021-06-15,Shasta,089,2
+2021-06-15,Shasta,089,3
 2021-06-15,Sierra,091,4
 2021-06-15,Siskiyou,093,3
 2021-06-15,Solano,095,3
@@ -52,10 +52,10 @@ date,county,fips,tier
 2021-06-15,Sutter,101,3
 2021-06-15,Tehama,103,3
 2021-06-15,Trinity,105,4
-2021-06-15,Tulare,107,3
+2021-06-15,Tulare,107,4
 2021-06-15,Tuolumne,109,3
 2021-06-15,Ventura,111,4
-2021-06-15,Yolo,113,3
+2021-06-15,Yolo,113,4
 2021-06-15,Yuba,115,2
 2021-06-14,Alameda,001,4
 2021-06-14,Alpine,003,4
