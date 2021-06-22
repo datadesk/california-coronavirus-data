@@ -1,5 +1,5 @@
 agency,county,fips,date,confirmed_cases,deaths,recoveries,did_not_update
-Alameda,Alameda,001,2021-06-21,85991,1227,,
+Alameda,Alameda,001,2021-06-21,85991,1226,,
 Berkeley,Alameda,001,2021-06-21,3658,50,,
 Alpine,Alpine,003,2021-06-21,89,0,89,TRUE
 Amador,Amador,005,2021-06-21,3703,47,3627,TRUE
@@ -26,14 +26,14 @@ Marin,Marin,041,2021-06-21,14206,212,13904,
 Mariposa,Mariposa,043,2021-06-21,465,7,457,
 Mendocino,Mendocino,045,2021-06-21,4321,50,4224,TRUE
 Merced,Merced,047,2021-06-21,32313,478,31729,
-Modoc,Modoc,049,2021-06-21,558,5,520,TRUE
+Modoc,Modoc,049,2021-06-21,562,5,529,
 Mono,Mono,051,2021-06-21,1295,4,,TRUE
 Monterey,Monterey,053,2021-06-21,43836,432,43799,
 Napa,Napa,055,2021-06-21,10015,79,,
 Nevada,Nevada,057,2021-06-21,4919,75,4801,
 Orange,Orange,059,2021-06-21,255922,5107,249857,
 Placer,Placer,061,2021-06-21,23589,299,22987,
-Plumas,Plumas,063,2021-06-21,736,6,730,TRUE
+Plumas,Plumas,063,2021-06-21,737,6,731,
 Riverside,Riverside,065,2021-06-21,301668,4627,296367,
 Sacramento,Sacramento,067,2021-06-21,107821,1736,104946,
 San Benito,San Benito,069,2021-06-21,6109,63,6033,
@@ -42,7 +42,7 @@ San Diego,San Diego,073,2021-06-21,281749,3771,,TRUE
 San Francisco,San Francisco,075,2021-06-21,36921,551,,TRUE
 San Joaquin,San Joaquin,077,2021-06-21,74727,1440,72406,
 San Luis Obispo,San Luis Obispo,079,2021-06-21,21421,261,21113,TRUE
-San Mateo,San Mateo,081,2021-06-21,42321,581,,
+San Mateo,San Mateo,081,2021-06-21,42331,581,,
 Santa Barbara,Santa Barbara,083,2021-06-21,34613,455,34129,
 Santa Clara,Santa Clara,085,2021-06-21,119712,2188,,
 Santa Cruz,Santa Cruz,087,2021-06-21,16246,207,15986,
@@ -53,7 +53,7 @@ Solano,Solano,095,2021-06-21,33762,244,33367,
 Sonoma,Sonoma,097,2021-06-21,30868,317,30012,
 Stanislaus,Stanislaus,099,2021-06-21,56885,1070,55675,
 Sutter,Sutter,101,2021-06-21,9663,106,9506,
-Tehama,Tehama,103,2021-06-21,5734,59,5661,TRUE
+Tehama,Tehama,103,2021-06-21,5735,59,5667,
 Trinity,Trinity,105,2021-06-21,422,5,408,
 Tulare,Tulare,107,2021-06-21,49776,849,48821,
 Tuolumne,Tuolumne,109,2021-06-21,4212,71,2700,

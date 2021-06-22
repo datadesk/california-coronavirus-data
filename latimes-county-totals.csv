@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-06-21,Alameda,001,89649,1277,57,4
+2021-06-21,Alameda,001,89649,1276,57,3
 2021-06-21,Alpine,003,89,0,0,0
 2021-06-21,Amador,005,3703,47,0,0
 2021-06-21,Butte,007,12183,192,0,0
@@ -23,14 +23,14 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-21,Mariposa,043,465,7,0,0
 2021-06-21,Mendocino,045,4321,50,0,0
 2021-06-21,Merced,047,32313,478,22,0
-2021-06-21,Modoc,049,558,5,0,0
+2021-06-21,Modoc,049,562,5,4,0
 2021-06-21,Mono,051,1295,4,0,0
 2021-06-21,Monterey,053,43836,432,17,0
 2021-06-21,Napa,055,10015,79,6,0
 2021-06-21,Nevada,057,4919,75,16,0
 2021-06-21,Orange,059,255922,5107,112,4
 2021-06-21,Placer,061,23589,299,71,0
-2021-06-21,Plumas,063,736,6,0,0
+2021-06-21,Plumas,063,737,6,1,0
 2021-06-21,Riverside,065,301668,4627,65,0
 2021-06-21,Sacramento,067,107821,1736,183,5
 2021-06-21,San Benito,069,6109,63,0,0
@@ -39,7 +39,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-21,San Francisco,075,36921,551,0,0
 2021-06-21,San Joaquin,077,74727,1440,41,2
 2021-06-21,San Luis Obispo,079,21421,261,0,0
-2021-06-21,San Mateo,081,42321,581,28,0
+2021-06-21,San Mateo,081,42331,581,38,0
 2021-06-21,Santa Barbara,083,34613,455,17,0
 2021-06-21,Santa Clara,085,119712,2188,30,0
 2021-06-21,Santa Cruz,087,16246,207,11,0
@@ -50,7 +50,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-21,Sonoma,097,30868,317,0,0
 2021-06-21,Stanislaus,099,56885,1070,123,1
 2021-06-21,Sutter,101,9663,106,7,0
-2021-06-21,Tehama,103,5734,59,0,0
+2021-06-21,Tehama,103,5735,59,1,0
 2021-06-21,Trinity,105,422,5,0,0
 2021-06-21,Tulare,107,49776,849,0,0
 2021-06-21,Tuolumne,109,4212,71,5,0
