@@ -35,7 +35,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-26,Sacramento,067,108085,1738,0,0
 2021-06-26,San Benito,069,6111,63,0,0
 2021-06-26,San Bernardino,071,299502,4671,22,5
-2021-06-26,San Diego,073,282156,3779,0,0
+2021-06-26,San Diego,073,282262,3780,106,1
 2021-06-26,San Francisco,075,36992,555,26,1
 2021-06-26,San Joaquin,077,74808,1440,0,0
 2021-06-26,San Luis Obispo,079,21448,261,0,0
@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-26,Sierra,091,118,0,0,0
 2021-06-26,Siskiyou,093,2402,38,0,0
 2021-06-26,Solano,095,33846,244,0,0
-2021-06-26,Sonoma,097,31059,317,0,0
+2021-06-26,Sonoma,097,31103,317,44,0
 2021-06-26,Stanislaus,099,57000,1073,0,0
 2021-06-26,Sutter,101,9684,107,0,0
 2021-06-26,Tehama,103,5750,59,7,0
