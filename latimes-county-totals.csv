@@ -23,7 +23,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-29,Mariposa,043,467,7,1,0
 2021-06-29,Mendocino,045,4372,50,0,0
 2021-06-29,Merced,047,32362,481,2,0
-2021-06-29,Modoc,049,568,5,0,0
+2021-06-29,Modoc,049,570,5,2,0
 2021-06-29,Mono,051,1299,4,0,0
 2021-06-29,Monterey,053,43885,476,10,10
 2021-06-29,Napa,055,10039,80,0,0
@@ -39,7 +39,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-29,San Francisco,075,37035,555,22,0
 2021-06-29,San Joaquin,077,74900,1444,92,4
 2021-06-29,San Luis Obispo,079,21482,261,34,0
-2021-06-29,San Mateo,081,42438,581,0,0
+2021-06-29,San Mateo,081,42453,581,15,0
 2021-06-29,Santa Barbara,083,34626,457,0,1
 2021-06-29,Santa Clara,085,119320,2197,0,0
 2021-06-29,Santa Cruz,087,16269,207,0,0
