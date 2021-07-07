@@ -37,7 +37,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-05,San Bernardino,071,299948,4694,0,0
 2021-07-05,San Diego,073,282582,3780,0,0
 2021-07-05,San Francisco,075,37166,555,22,0
-2021-07-05,San Joaquin,077,74900,1444,0,0
+2021-07-05,San Joaquin,077,74900,1442,0,-2
 2021-07-05,San Luis Obispo,079,21482,261,0,0
 2021-07-05,San Mateo,081,42509,581,0,0
 2021-07-05,Santa Barbara,083,34660,457,0,0
