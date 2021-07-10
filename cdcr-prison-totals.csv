@@ -484,7 +484,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,66,,8,0
 2021-07-06,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,66,,8,0
 2021-07-07,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,66,,8,0
-2021-07-08,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,0,66,3033,8,0
+2021-07-08,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,66,,8,0
+2021-07-09,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,0,66,3033,8,0
 2020-03-10,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,,,0,,0,
 2020-03-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,,0,,0,0
 2020-03-12,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,,0,,0,0
@@ -970,7 +971,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,999,0,,9,,2,0
 2021-07-06,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,999,0,,9,,2,0
 2021-07-07,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,999,0,,9,,2,0
-2021-07-08,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,999,0,0,9,988,2,0
+2021-07-08,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,999,0,,9,,2,0
+2021-07-09,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,999,0,0,9,988,2,0
 2020-03-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,,,0,,0,
 2020-03-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,,0,,0,0
 2020-03-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,,0,,0,0
@@ -1456,7 +1458,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
 2021-07-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
 2021-07-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,5,33,1360,0,0
+2021-07-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
+2021-07-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,5,33,1360,0,0
 2020-03-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,,,0,,0,
 2020-03-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,,0,,0,0
 2020-03-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,,0,,0,0
@@ -1938,11 +1941,12 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-01,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1383,0,,63,,4,0
 2021-07-02,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1383,0,,63,,4,0
 2021-07-03,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1383,0,,63,,4,0
-2021-07-04,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1385,2,,63,,4,0
-2021-07-05,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1385,0,,63,,4,0
-2021-07-06,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1385,0,,63,,4,0
-2021-07-07,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1385,0,,63,,4,0
-2021-07-08,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1385,0,2,63,1316,4,0
+2021-07-04,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1386,3,,63,,4,0
+2021-07-05,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1386,0,,63,,4,0
+2021-07-06,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1386,0,,63,,4,0
+2021-07-07,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1386,0,,63,,4,0
+2021-07-08,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1386,0,,63,,4,0
+2021-07-09,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1386,0,3,63,1316,4,0
 2020-03-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,,,0,,0,
 2020-03-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,,0,,0,0
 2020-03-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,,0,,0,0
@@ -2428,7 +2432,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,633,0,,2,,17,0
 2021-07-06,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,633,0,,2,,17,0
 2021-07-07,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,633,0,,2,,17,0
-2021-07-08,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,633,0,1,2,613,17,0
+2021-07-08,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,633,0,,2,,17,0
+2021-07-09,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,633,0,1,2,613,17,0
 2020-03-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,,,0,,0,
 2020-03-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,,0,,0,0
 2020-03-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,,0,,0,0
@@ -2914,7 +2919,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,27,0
 2021-07-06,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,27,0
 2021-07-07,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,27,0
-2021-07-08,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,1,32,1442,27,0
+2021-07-08,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,27,0
+2021-07-09,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,1,32,1442,27,0
 2020-03-10,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,,,0,,0,
 2020-03-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,,0,,0,0
 2020-03-12,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,,0,,0,0
@@ -3400,7 +3406,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
 2021-07-06,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
 2021-07-07,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
-2021-07-08,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,0,10,478,1,0
+2021-07-08,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
+2021-07-09,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,0,10,478,1,0
 2020-03-10,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,,,0,,0,
 2020-03-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,,0,,0,0
 2020-03-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,,0,,0,0
@@ -3886,7 +3893,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,11,0
 2021-07-06,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,711,1,,3,,11,0
 2021-07-07,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,711,0,,3,,11,0
-2021-07-08,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,711,0,1,3,696,11,0
+2021-07-08,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,711,0,,3,,11,0
+2021-07-09,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,711,0,1,3,696,11,0
 2020-03-10,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,,,0,,0,
 2020-03-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,,0,,0,0
 2020-03-12,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,,0,,0,0
@@ -4372,7 +4380,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2470,0,,23,,11,0
 2021-07-06,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2470,0,,23,,11,0
 2021-07-07,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2470,0,,23,,11,0
-2021-07-08,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2470,0,0,23,2436,11,0
+2021-07-08,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2470,0,,23,,11,0
+2021-07-09,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2470,0,0,23,2436,11,0
 2020-03-10,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,,,0,,0,
 2020-03-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,,0,,0,0
 2020-03-12,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,,0,,0,0
@@ -4858,7 +4867,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1993,0,,58,,1,0
 2021-07-06,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1993,0,,58,,1,0
 2021-07-07,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1993,0,,58,,1,0
-2021-07-08,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1993,0,0,58,1934,1,0
+2021-07-08,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1993,0,,58,,1,0
+2021-07-09,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1993,0,0,58,1934,1,0
 2020-03-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,,,0,,0,
 2020-03-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,,0,,0,0
 2020-03-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,,0,,0,0
@@ -5344,7 +5354,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,864,0,,7,,1,0
 2021-07-06,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,864,0,,7,,1,0
 2021-07-07,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,864,0,,7,,1,0
-2021-07-08,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,864,0,0,7,856,1,0
+2021-07-08,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,864,0,,7,,1,0
+2021-07-09,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,864,0,0,7,856,1,0
 2020-03-10,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,,,0,,0,
 2020-03-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,,0,,0,0
 2020-03-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,,0,,0,0
@@ -5830,7 +5841,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1076,0,,5,,5,0
 2021-07-06,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1076,0,,5,,5,0
 2021-07-07,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1076,0,,5,,5,0
-2021-07-08,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1076,0,0,5,1066,5,0
+2021-07-08,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1076,0,,5,,5,0
+2021-07-09,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1076,0,0,5,1066,5,0
 2020-03-10,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,,,0,,0,
 2020-03-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,,0,,0,0
 2020-03-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,,0,,0,0
@@ -6316,7 +6328,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,13,0
 2021-07-06,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,13,0
 2021-07-07,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,13,0
-2021-07-08,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,0,10,1488,13,0
+2021-07-08,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,13,0
+2021-07-09,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,0,10,1488,13,0
 2020-03-10,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,,,0,,0,
 2020-03-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,,0,,0,0
 2020-03-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,,0,,0,0
@@ -6802,7 +6815,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,293,0,,2,,1,0
 2021-07-06,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,293,0,,2,,1,0
 2021-07-07,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,293,0,,2,,1,0
-2021-07-08,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,293,0,0,2,290,1,0
+2021-07-08,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,293,0,,2,,1,0
+2021-07-09,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,293,0,0,2,290,1,0
 2020-03-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,,,0,,0,
 2020-03-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,,0,,0,0
 2020-03-12,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,,0,,0,0
@@ -7288,7 +7302,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1243,0,,11,,6,0
 2021-07-06,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1243,0,,11,,6,0
 2021-07-07,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1243,0,,11,,6,0
-2021-07-08,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1243,0,0,11,1226,6,0
+2021-07-08,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1243,0,,11,,6,0
+2021-07-09,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1243,0,0,11,1226,6,0
 2020-03-10,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,,,0,,0,
 2020-03-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,,0,,0,0
 2020-03-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,,0,,0,0
@@ -7771,10 +7786,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-02,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3012,0,,15,,7,0
 2021-07-03,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3012,0,,15,,7,0
 2021-07-04,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3012,0,,15,,7,0
-2021-07-05,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3012,0,,15,,7,0
-2021-07-06,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3012,0,,15,,7,0
-2021-07-07,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3012,0,,15,,7,0
-2021-07-08,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3014,2,3,15,2989,7,0
+2021-07-05,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3014,2,,15,,7,0
+2021-07-06,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3014,0,,15,,7,0
+2021-07-07,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3014,0,,15,,7,0
+2021-07-08,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3015,1,,15,,7,0
+2021-07-09,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3014,-1,3,15,2989,7,0
 2020-03-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,,,0,,0,
 2020-03-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,,0,,0,0
 2020-03-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,,0,,0,0
@@ -8260,7 +8276,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
 2021-07-06,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
 2021-07-07,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
-2021-07-08,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,0,10,1111,2,0
+2021-07-08,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
+2021-07-09,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,0,10,1111,2,0
 2020-03-10,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,,,0,,0,
 2020-03-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,,0,,0,0
 2020-03-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,,0,,0,0
@@ -8746,7 +8763,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,809,0,,1,,1,0
 2021-07-06,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,809,0,,1,,1,0
 2021-07-07,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,809,0,,1,,1,0
-2021-07-08,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,809,0,0,1,807,1,0
+2021-07-08,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,809,0,,1,,1,0
+2021-07-09,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,809,0,0,1,807,1,0
 2020-03-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,,,0,,0,
 2020-03-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,,0,,0,0
 2020-03-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,,0,,0,0
@@ -9232,7 +9250,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
 2021-07-06,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
 2021-07-07,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
-2021-07-08,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,0,19,1756,9,0
+2021-07-08,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
+2021-07-09,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,0,19,1756,9,0
 2020-03-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,,,0,,0,
 2020-03-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,,0,,0,0
 2020-03-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,,0,,0,0
@@ -9718,7 +9737,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,29,,19,0
 2021-07-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,29,,19,0
 2021-07-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,29,,19,0
-2021-07-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,0,29,2671,19,0
+2021-07-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,29,,19,0
+2021-07-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,0,29,2671,19,0
 2020-03-10,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,,,0,,0,
 2020-03-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,,0,,0,0
 2020-03-12,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,,0,,0,0
@@ -10204,7 +10224,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
 2021-07-06,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
 2021-07-07,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
-2021-07-08,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,0,5,538,0,0
+2021-07-08,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
+2021-07-09,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,0,5,538,0,0
 2020-03-10,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,,,0,,0,
 2020-03-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,,0,,0,0
 2020-03-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,,0,,0,0
@@ -10690,7 +10711,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1370,0,,12,,2,0
 2021-07-06,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1370,0,,12,,2,0
 2021-07-07,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1370,0,,12,,2,0
-2021-07-08,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1370,0,1,12,1355,2,0
+2021-07-08,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1370,0,,12,,2,0
+2021-07-09,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1370,0,1,12,1355,2,0
 2020-03-10,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,,,0,,0,
 2020-03-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,,0,,0,0
 2020-03-12,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,,0,,0,0
@@ -11176,7 +11198,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2032,0,,6,,2,0
 2021-07-06,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2032,0,,6,,2,0
 2021-07-07,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2032,0,,6,,2,0
-2021-07-08,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2032,0,0,6,2024,2,0
+2021-07-08,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2032,0,,6,,2,0
+2021-07-09,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2032,0,0,6,2024,2,0
 2020-03-10,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,,,0,,0,
 2020-03-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,,0,,0,0
 2020-03-12,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,,0,,0,0
@@ -11662,7 +11685,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
 2021-07-06,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
 2021-07-07,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
-2021-07-08,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,0,11,1556,1,0
+2021-07-08,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
+2021-07-09,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,0,11,1556,1,0
 2020-03-10,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,,,0,,0,
 2020-03-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,,0,,0,0
 2020-03-12,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,,0,,0,0
@@ -12148,7 +12172,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
 2021-07-06,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
 2021-07-07,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
-2021-07-08,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,0,7,882,6,0
+2021-07-08,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
+2021-07-09,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,0,7,882,6,0
 2020-03-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,,,0,,0,
 2020-03-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,,0,,0,0
 2020-03-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,,0,,0,0
@@ -12634,7 +12659,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1873,0,,2,,9,0
 2021-07-06,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1873,0,,2,,9,0
 2021-07-07,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1873,0,,2,,9,0
-2021-07-08,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1873,0,1,2,1861,9,0
+2021-07-08,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1873,0,,2,,9,0
+2021-07-09,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,1,2,2,1861,9,0
 2020-03-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,,,0,,0,
 2020-03-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,,0,,0,0
 2020-03-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,,0,,0,0
@@ -13120,7 +13146,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,937,0,,10,,4,0
 2021-07-06,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,938,1,,10,,4,0
 2021-07-07,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,938,0,,10,,4,0
-2021-07-08,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,938,0,1,10,923,4,0
+2021-07-08,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,938,0,,10,,4,0
+2021-07-09,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,938,0,1,10,923,4,0
 2020-03-10,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,,,0,,0,
 2020-03-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,,0,,0,0
 2020-03-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,,0,,0,0
@@ -13605,8 +13632,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-04,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,222,0,,5,,0,0
 2021-07-05,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,222,0,,5,,0,0
 2021-07-06,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,222,0,,5,,0,0
-2021-07-07,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,222,0,,5,,0,0
-2021-07-08,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,222,0,0,5,217,0,0
+2021-07-07,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,223,1,,5,,0,0
+2021-07-08,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,223,0,,5,,0,0
+2021-07-09,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,223,0,1,5,217,0,0
 2020-03-10,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,,,0,,0,
 2020-03-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,,0,,0,0
 2020-03-12,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,,0,,0,0
@@ -14088,11 +14116,12 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-01,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,,13,,3,0
 2021-07-02,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,,13,,3,0
 2021-07-03,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,,13,,3,0
-2021-07-04,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,,13,,3,0
-2021-07-05,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,,13,,3,0
-2021-07-06,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,,13,,3,0
-2021-07-07,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,,13,,3,0
-2021-07-08,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1990,0,0,13,1974,3,0
+2021-07-04,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1991,1,,13,,3,0
+2021-07-05,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1991,0,,13,,3,0
+2021-07-06,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1991,0,,13,,3,0
+2021-07-07,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1991,0,,13,,3,0
+2021-07-08,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1991,0,,13,,3,0
+2021-07-09,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,1991,0,1,13,1974,3,0
 2020-03-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,,,0,,0,
 2020-03-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,,0,,0,0
 2020-03-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,,0,,0,0
@@ -14578,7 +14607,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1011,0,,1,,18,0
 2021-07-06,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1011,0,,1,,18,0
 2021-07-07,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1011,0,,1,,18,0
-2021-07-08,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1011,0,0,1,992,18,0
+2021-07-08,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1011,0,,1,,18,0
+2021-07-09,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1011,0,0,1,992,18,0
 2020-03-10,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,,,0,,0,
 2020-03-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,,0,,0,0
 2020-03-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,,0,,0,0
@@ -15064,7 +15094,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,5,0
 2021-07-06,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,5,0
 2021-07-07,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,5,0
-2021-07-08,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,0,6,668,5,0
+2021-07-08,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,5,0
+2021-07-09,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,0,6,668,5,0
 2020-03-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,,,0,,0,
 2020-03-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,,0,,0,0
 2020-03-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,,0,,0,0
@@ -15208,349 +15239,350 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2020-07-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2202,25,,37,,20,0
 2020-07-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2214,12,,37,,20,0
 2020-07-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2219,5,,38,,20,0
-2020-07-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2223,4,,40,,20,0
-2020-08-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2223,0,,40,,20,0
-2020-08-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2223,0,,40,,22,2
-2020-08-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2224,1,,42,,23,1
-2020-08-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2226,2,,43,,24,1
-2020-08-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2229,3,,43,,24,0
-2020-08-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,4,,44,,25,1
-2020-08-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,44,,25,0
-2020-08-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,44,,25,0
-2020-08-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,44,,26,1
-2020-08-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,44,,26,0
-2020-08-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2235,2,,44,,26,0
-2020-08-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,1,,44,,26,0
-2020-08-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,26,0
-2020-08-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,27,1
-2020-08-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,27,0
-2020-08-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,27,0
-2020-08-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,27,0
-2020-08-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,44,,27,0
-2020-08-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,1,,44,,27,0
-2020-08-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,44,,27,0
-2020-08-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,44,,27,0
-2020-08-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,44,,27,0
-2020-08-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,44,,27,0
-2020-08-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,44,,27,0
-2020-09-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,1,,44,,27,0
-2020-09-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,27,0
-2020-09-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,1
-2020-09-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-09-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-09-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-09-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-09-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-10-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-11-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,44,,28,0
-2020-12-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,1,,44,,28,0
-2020-12-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2020-12-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,44,,28,0
-2021-01-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,1,,44,,28,0
-2021-01-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,44,,28,0
-2021-01-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,44,,28,0
-2021-01-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,44,,28,0
-2021-01-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,44,,28,0
-2021-01-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,44,,28,0
-2021-02-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,1,,44,,28,0
-2021-02-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-02-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-03-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-04-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-05-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-06-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,44,,28,0
-2021-07-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,0,44,2169,28,0
+2020-07-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2223,4,,39,,20,0
+2020-08-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2223,0,,39,,20,0
+2020-08-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2223,0,,39,,22,2
+2020-08-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2224,1,,41,,23,1
+2020-08-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2226,2,,42,,24,1
+2020-08-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2229,3,,42,,24,0
+2020-08-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,4,,43,,25,1
+2020-08-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,43,,25,0
+2020-08-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,43,,25,0
+2020-08-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,43,,26,1
+2020-08-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2233,0,,43,,26,0
+2020-08-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2235,2,,43,,26,0
+2020-08-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,1,,43,,26,0
+2020-08-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,26,0
+2020-08-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,27,1
+2020-08-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,27,0
+2020-08-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,27,0
+2020-08-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,27,0
+2020-08-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2236,0,,43,,27,0
+2020-08-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,1,,43,,27,0
+2020-08-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,43,,27,0
+2020-08-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,43,,27,0
+2020-08-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,43,,27,0
+2020-08-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,43,,27,0
+2020-08-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2237,0,,43,,27,0
+2020-09-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,1,,43,,27,0
+2020-09-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,27,0
+2020-09-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,1
+2020-09-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-09-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-09-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-09-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-09-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-10-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-11-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2238,0,,43,,28,0
+2020-12-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,1,,43,,28,0
+2020-12-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2020-12-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2239,0,,43,,28,0
+2021-01-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,1,,43,,28,0
+2021-01-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,43,,28,0
+2021-01-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,43,,28,0
+2021-01-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,43,,28,0
+2021-01-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,43,,28,0
+2021-01-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2240,0,,43,,28,0
+2021-02-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,1,,43,,28,0
+2021-02-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-02-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-03-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-04-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-05-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-19,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-20,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-21,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-22,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-23,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-24,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-25,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-26,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-06-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-01,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-06,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-07,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,,43,,28,0
+2021-07-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2241,0,0,43,2170,28,0
 2020-03-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,,,0,,0,
 2020-03-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,,0,,0,0
 2020-03-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,,0,,0,0
@@ -16036,7 +16068,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1430,0,,18,,0,0
 2021-07-06,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1430,0,,18,,0,0
 2021-07-07,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1430,0,,18,,0,0
-2021-07-08,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1430,0,0,18,1412,0,0
+2021-07-08,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1430,0,,18,,0,0
+2021-07-09,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1430,0,0,18,1412,0,0
 2020-03-10,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,,,0,,0,
 2020-03-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,,0,,0,0
 2020-03-12,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,,0,,0,0
@@ -16522,7 +16555,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1732,0,,15,,2,0
 2021-07-06,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1732,0,,15,,2,0
 2021-07-07,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1732,0,,15,,2,0
-2021-07-08,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1732,0,2,15,1713,2,0
+2021-07-08,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1732,0,,15,,2,0
+2021-07-09,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1730,-2,0,15,1713,2,0
 2020-03-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,,,0,,0,
 2020-03-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,,0,,0,0
 2020-03-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,,0,,0,0
@@ -17008,4 +17042,5 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-07-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
 2021-07-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
 2021-07-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,0,43,1724,1,0
+2021-07-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
+2021-07-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,0,43,1724,1,0
