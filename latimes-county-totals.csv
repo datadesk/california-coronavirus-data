@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-07-09,Alameda,001,94450,1317,3689,50
+2021-07-09,Alameda,001,90761,1317,0,50
 2021-07-09,Alpine,003,89,0,0,0
 2021-07-09,Amador,005,3747,48,9,1
 2021-07-09,Butte,007,12325,198,0,0
@@ -17,7 +17,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-09,Kings,031,23146,248,0,0
 2021-07-09,Lake,033,3654,63,0,0
 2021-07-09,Lassen,035,5843,26,4,0
-2021-07-09,Los Angeles,037,1255446,24530,1060,3
+2021-07-09,Los Angeles,037,1255446,24530,1044,3
 2021-07-09,Madera,039,16622,246,0,0
 2021-07-09,Marin,041,14316,213,17,0
 2021-07-09,Mariposa,043,468,7,0,0
@@ -75,7 +75,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-08,Kings,031,23146,248,12,1
 2021-07-08,Lake,033,3654,63,47,1
 2021-07-08,Lassen,035,5839,26,10,0
-2021-07-08,Los Angeles,037,1254386,24527,764,13
+2021-07-08,Los Angeles,037,1254402,24527,780,13
 2021-07-08,Madera,039,16622,246,0,0
 2021-07-08,Marin,041,14299,213,9,1
 2021-07-08,Mariposa,043,468,7,0,0
@@ -191,7 +191,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-06,Kings,031,23134,247,13,0
 2021-07-06,Lake,033,3607,62,7,6
 2021-07-06,Lassen,035,5828,26,7,0
-2021-07-06,Los Angeles,037,1253106,24508,803,6
+2021-07-06,Los Angeles,037,1253106,24508,790,6
 2021-07-06,Madera,039,16622,246,39,1
 2021-07-06,Marin,041,14282,212,3,0
 2021-07-06,Mariposa,043,468,7,1,0
@@ -249,7 +249,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-05,Kings,031,23121,247,2,0
 2021-07-05,Lake,033,3600,56,0,0
 2021-07-05,Lassen,035,5821,26,0,0
-2021-07-05,Los Angeles,037,1252303,24502,455,4
+2021-07-05,Los Angeles,037,1252316,24502,460,4
 2021-07-05,Madera,039,16583,245,0,0
 2021-07-05,Marin,041,14279,212,10,0
 2021-07-05,Mariposa,043,467,7,0,0
@@ -307,7 +307,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-04,Kings,031,23119,247,2,0
 2021-07-04,Lake,033,3600,56,0,0
 2021-07-04,Lassen,035,5821,26,0,0
-2021-07-04,Los Angeles,037,1251848,24498,589,6
+2021-07-04,Los Angeles,037,1251856,24498,593,6
 2021-07-04,Madera,039,16583,245,0,0
 2021-07-04,Marin,041,14269,212,0,0
 2021-07-04,Mariposa,043,467,7,0,0
@@ -365,7 +365,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-03,Kings,031,23117,247,2,0
 2021-07-03,Lake,033,3600,56,0,0
 2021-07-03,Lassen,035,5821,26,0,0
-2021-07-03,Los Angeles,037,1251259,24492,0,0
+2021-07-03,Los Angeles,037,1251263,24492,4,0
 2021-07-03,Madera,039,16583,245,0,0
 2021-07-03,Marin,041,14269,212,5,0
 2021-07-03,Mariposa,043,467,7,0,0
@@ -423,7 +423,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-02,Kings,031,23115,247,8,0
 2021-07-02,Lake,033,3600,56,0,0
 2021-07-02,Lassen,035,5821,26,0,0
-2021-07-02,Los Angeles,037,1251259,24492,519,3
+2021-07-02,Los Angeles,037,1251259,24492,512,3
 2021-07-02,Madera,039,16583,245,0,0
 2021-07-02,Marin,041,14264,212,11,0
 2021-07-02,Mariposa,043,467,7,0,0
@@ -481,7 +481,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-01,Kings,031,23107,247,11,0
 2021-07-01,Lake,033,3600,56,20,11
 2021-07-01,Lassen,035,5821,26,0,0
-2021-07-01,Los Angeles,037,1250740,24489,490,6
+2021-07-01,Los Angeles,037,1250747,24489,497,6
 2021-07-01,Madera,039,16583,245,0,0
 2021-07-01,Marin,041,14253,212,8,0
 2021-07-01,Mariposa,043,467,7,0,0

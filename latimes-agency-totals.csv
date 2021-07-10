@@ -1,5 +1,5 @@
 agency,county,fips,date,confirmed_cases,deaths,did_not_update
-Alameda,Alameda,001,2021-07-09,90761,1267,
+Alameda,Alameda,001,2021-07-09,87072,1267,
 Berkeley,Alameda,001,2021-07-09,3689,50,
 Alpine,Alpine,003,2021-07-09,89,0,TRUE
 Amador,Amador,005,2021-07-09,3747,48,
@@ -81,7 +81,7 @@ Lake,Lake,033,2021-07-08,3654,63,
 Lassen,Lassen,035,2021-07-08,5839,26,
 Long Beach,Los Angeles,037,2021-07-08,53843,947,
 Los Angeles,Los Angeles,037,2021-07-08,1189146,23230,
-Pasadena,Los Angeles,037,2021-07-08,11397,350,
+Pasadena,Los Angeles,037,2021-07-08,11413,350,
 Madera,Madera,039,2021-07-08,16622,246,TRUE
 Marin,Marin,041,2021-07-08,14299,213,
 Mariposa,Mariposa,043,2021-07-08,468,7,TRUE
@@ -264,7 +264,7 @@ Lake,Lake,033,2021-07-05,3600,56,TRUE
 Lassen,Lassen,035,2021-07-05,5821,26,TRUE
 Long Beach,Los Angeles,037,2021-07-05,53709,945,TRUE
 Los Angeles,Los Angeles,037,2021-07-05,1187222,23208,
-Pasadena,Los Angeles,037,2021-07-05,11372,349,TRUE
+Pasadena,Los Angeles,037,2021-07-05,11385,349,
 Madera,Madera,039,2021-07-05,16583,245,TRUE
 Marin,Marin,041,2021-07-05,14279,212,
 Mariposa,Mariposa,043,2021-07-05,467,7,TRUE
@@ -325,7 +325,7 @@ Lake,Lake,033,2021-07-04,3600,56,TRUE
 Lassen,Lassen,035,2021-07-04,5821,26,TRUE
 Long Beach,Los Angeles,037,2021-07-04,53709,945,TRUE
 Los Angeles,Los Angeles,037,2021-07-04,1186767,23204,
-Pasadena,Los Angeles,037,2021-07-04,11372,349,TRUE
+Pasadena,Los Angeles,037,2021-07-04,11380,349,
 Madera,Madera,039,2021-07-04,16583,245,TRUE
 Marin,Marin,041,2021-07-04,14269,212,TRUE
 Mariposa,Mariposa,043,2021-07-04,467,7,TRUE
@@ -386,7 +386,7 @@ Lake,Lake,033,2021-07-03,3600,56,TRUE
 Lassen,Lassen,035,2021-07-03,5821,26,
 Long Beach,Los Angeles,037,2021-07-03,53709,945,TRUE
 Los Angeles,Los Angeles,037,2021-07-03,1186178,23198,
-Pasadena,Los Angeles,037,2021-07-03,11372,349,TRUE
+Pasadena,Los Angeles,037,2021-07-03,11376,349,
 Madera,Madera,039,2021-07-03,16583,245,TRUE
 Marin,Marin,041,2021-07-03,14269,212,
 Mariposa,Mariposa,043,2021-07-03,467,7,TRUE
@@ -508,7 +508,7 @@ Lake,Lake,033,2021-07-01,3600,56,
 Lassen,Lassen,035,2021-07-01,5821,26,
 Long Beach,Los Angeles,037,2021-07-01,53692,945,
 Los Angeles,Los Angeles,037,2021-07-01,1185701,23195,
-Pasadena,Los Angeles,037,2021-07-01,11347,349,TRUE
+Pasadena,Los Angeles,037,2021-07-01,11354,349,
 Madera,Madera,039,2021-07-01,16583,245,
 Marin,Marin,041,2021-07-01,14253,212,
 Mariposa,Mariposa,043,2021-07-01,467,7,
