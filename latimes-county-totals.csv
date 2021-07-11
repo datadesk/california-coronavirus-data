@@ -17,7 +17,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-10,Kings,031,23146,248,0,0
 2021-07-10,Lake,033,3654,63,0,0
 2021-07-10,Lassen,035,5843,26,0,0
-2021-07-10,Los Angeles,037,1256557,24538,1111,8
+2021-07-10,Los Angeles,037,1256515,24538,1069,8
 2021-07-10,Madera,039,16622,246,0,0
 2021-07-10,Marin,041,14329,213,13,0
 2021-07-10,Mariposa,043,468,7,0,0
@@ -43,7 +43,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-10,Santa Barbara,083,34719,458,0,0
 2021-07-10,Santa Clara,085,119857,1702,99,0
 2021-07-10,Santa Cruz,087,16317,207,0,0
-2021-07-10,Shasta,089,12627,238,0,0
+2021-07-10,Shasta,089,12614,238,0,0
 2021-07-10,Sierra,091,122,0,0,0
 2021-07-10,Siskiyou,093,2442,40,0,0
 2021-07-10,Solano,095,34240,245,91,0
@@ -101,7 +101,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-09,Santa Barbara,083,34719,458,3,1
 2021-07-09,Santa Clara,085,119758,1702,0,4
 2021-07-09,Santa Cruz,087,16317,207,0,0
-2021-07-09,Shasta,089,12627,238,22,0
+2021-07-09,Shasta,089,12614,238,9,0
 2021-07-09,Sierra,091,122,0,0,0
 2021-07-09,Siskiyou,093,2442,40,9,0
 2021-07-09,Solano,095,34149,245,0,0
