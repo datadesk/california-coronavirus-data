@@ -4,7 +4,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-12,Amador,005,3747,48,0,0
 2021-07-12,Butte,007,12325,198,0,0
 2021-07-12,Calaveras,009,2235,58,2,0
-2021-07-12,Colusa,011,2308,18,0,0
+2021-07-12,Colusa,011,2322,18,14,0
 2021-07-12,Contra Costa,013,72109,821,0,0
 2021-07-12,Del Norte,015,1514,8,12,0
 2021-07-12,El Dorado,017,10604,118,46,0
@@ -15,7 +15,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-12,Inyo,027,1444,38,0,0
 2021-07-12,Kern,029,111437,1412,96,3
 2021-07-12,Kings,031,23146,248,0,0
-2021-07-12,Lake,033,3654,63,0,0
+2021-07-12,Lake,033,3692,63,38,0
 2021-07-12,Lassen,035,5845,26,2,0
 2021-07-12,Los Angeles,037,1258685,24543,1057,1
 2021-07-12,Madera,039,16622,246,0,0
@@ -23,7 +23,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-12,Mariposa,043,468,7,0,0
 2021-07-12,Mendocino,045,4448,50,19,0
 2021-07-12,Merced,047,32513,483,34,0
-2021-07-12,Modoc,049,571,6,0,0
+2021-07-12,Modoc,049,573,7,2,1
 2021-07-12,Mono,051,1304,5,0,0
 2021-07-12,Monterey,053,44054,507,61,0
 2021-07-12,Napa,055,10130,80,13,0
