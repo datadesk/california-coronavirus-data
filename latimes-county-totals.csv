@@ -391,7 +391,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-07,Santa Barbara,083,34703,457,11,0
 2021-07-07,Santa Clara,085,119678,1698,55,0
 2021-07-07,Santa Cruz,087,16306,207,0,0
-2021-07-07,Shasta,089,12605,235,-10,0
+2021-07-07,Shasta,089,12605,235,0,0
 2021-07-07,Sierra,091,122,0,0,0
 2021-07-07,Siskiyou,093,2423,40,8,1
 2021-07-07,Solano,095,34149,245,105,1
@@ -417,7 +417,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-06,Fresno,019,102713,1727,31,0
 2021-07-06,Glenn,021,2373,27,2,0
 2021-07-06,Humboldt,023,4608,51,22,1
-2021-07-06,Imperial,025,28452,742,-1,0
+2021-07-06,Imperial,025,28452,742,0,0
 2021-07-06,Inyo,027,1441,38,0,0
 2021-07-06,Kern,029,111111,1408,0,0
 2021-07-06,Kings,031,23134,247,13,0
@@ -449,7 +449,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-06,Santa Barbara,083,34692,457,32,0
 2021-07-06,Santa Clara,085,119623,1698,11,0
 2021-07-06,Santa Cruz,087,16306,207,17,0
-2021-07-06,Shasta,089,12615,235,0,0
+2021-07-06,Shasta,089,12605,235,0,0
 2021-07-06,Sierra,091,122,0,0,0
 2021-07-06,Siskiyou,093,2415,39,7,0
 2021-07-06,Solano,095,34044,244,0,0
@@ -475,7 +475,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-05,Fresno,019,102682,1727,23,0
 2021-07-05,Glenn,021,2371,27,0,0
 2021-07-05,Humboldt,023,4586,50,0,0
-2021-07-05,Imperial,025,28453,742,0,0
+2021-07-05,Imperial,025,28452,742,0,0
 2021-07-05,Inyo,027,1441,38,0,0
 2021-07-05,Kern,029,111111,1408,0,0
 2021-07-05,Kings,031,23121,247,2,0
@@ -507,7 +507,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-05,Santa Barbara,083,34660,457,0,0
 2021-07-05,Santa Clara,085,119612,1698,114,0
 2021-07-05,Santa Cruz,087,16289,207,0,0
-2021-07-05,Shasta,089,12615,235,0,0
+2021-07-05,Shasta,089,12605,235,0,0
 2021-07-05,Sierra,091,122,0,0,0
 2021-07-05,Siskiyou,093,2408,39,0,0
 2021-07-05,Solano,095,34044,244,0,0
@@ -533,7 +533,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-04,Fresno,019,102659,1727,16,0
 2021-07-04,Glenn,021,2371,27,0,0
 2021-07-04,Humboldt,023,4586,50,0,0
-2021-07-04,Imperial,025,28453,742,0,0
+2021-07-04,Imperial,025,28452,742,0,0
 2021-07-04,Inyo,027,1441,38,0,0
 2021-07-04,Kern,029,111111,1408,0,0
 2021-07-04,Kings,031,23119,247,2,0
@@ -565,7 +565,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-04,Santa Barbara,083,34660,457,0,0
 2021-07-04,Santa Clara,085,119498,1698,50,0
 2021-07-04,Santa Cruz,087,16289,207,0,0
-2021-07-04,Shasta,089,12615,235,0,0
+2021-07-04,Shasta,089,12605,235,0,0
 2021-07-04,Sierra,091,122,0,0,0
 2021-07-04,Siskiyou,093,2408,39,0,0
 2021-07-04,Solano,095,34044,244,0,0
@@ -591,7 +591,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-03,Fresno,019,102643,1727,28,0
 2021-07-03,Glenn,021,2371,27,0,0
 2021-07-03,Humboldt,023,4586,50,0,0
-2021-07-03,Imperial,025,28453,742,1,0
+2021-07-03,Imperial,025,28452,742,0,0
 2021-07-03,Inyo,027,1441,38,7,0
 2021-07-03,Kern,029,111111,1408,0,0
 2021-07-03,Kings,031,23117,247,2,0
@@ -623,7 +623,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-03,Santa Barbara,083,34660,457,0,0
 2021-07-03,Santa Clara,085,119448,1698,60,0
 2021-07-03,Santa Cruz,087,16289,207,0,0
-2021-07-03,Shasta,089,12615,235,0,0
+2021-07-03,Shasta,089,12605,235,0,0
 2021-07-03,Sierra,091,122,0,0,0
 2021-07-03,Siskiyou,093,2408,39,0,0
 2021-07-03,Solano,095,34044,244,0,0
@@ -681,7 +681,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-02,Santa Barbara,083,34660,457,8,0
 2021-07-02,Santa Clara,085,119388,1698,117,2
 2021-07-02,Santa Cruz,087,16289,207,0,0
-2021-07-02,Shasta,089,12615,235,0,0
+2021-07-02,Shasta,089,12605,235,0,0
 2021-07-02,Sierra,091,122,0,0,0
 2021-07-02,Siskiyou,093,2408,39,3,0
 2021-07-02,Solano,095,34044,244,71,0
@@ -739,7 +739,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-01,Santa Barbara,083,34652,457,9,0
 2021-07-01,Santa Clara,085,119271,1696,6,0
 2021-07-01,Santa Cruz,087,16289,207,20,0
-2021-07-01,Shasta,089,12615,235,0,0
+2021-07-01,Shasta,089,12605,235,0,0
 2021-07-01,Sierra,091,122,0,0,0
 2021-07-01,Siskiyou,093,2405,39,1,1
 2021-07-01,Solano,095,33973,244,0,0
@@ -770,7 +770,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-30,Kern,029,111060,1407,11,1
 2021-06-30,Kings,031,23096,247,3,0
 2021-06-30,Lake,033,3580,45,0,0
-2021-06-30,Lassen,035,5821,26,-1,0
+2021-06-30,Lassen,035,5821,26,0,0
 2021-06-30,Los Angeles,037,1250250,24483,375,1
 2021-06-30,Madera,039,16583,245,0,0
 2021-06-30,Marin,041,14245,212,9,0
@@ -785,7 +785,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-30,Orange,059,256317,5121,51,1
 2021-06-30,Placer,061,23755,300,29,0
 2021-06-30,Plumas,063,742,6,0,0
-2021-06-30,Riverside,065,301706,4636,51,9
+2021-06-30,Riverside,065,301706,4636,0,9
 2021-06-30,Sacramento,067,108571,1743,66,1
 2021-06-30,San Benito,069,6121,63,5,0
 2021-06-30,San Bernardino,071,299763,4679,33,0
@@ -797,7 +797,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-30,Santa Barbara,083,34643,457,17,0
 2021-06-30,Santa Clara,085,119265,1696,28,0
 2021-06-30,Santa Cruz,087,16269,207,0,0
-2021-06-30,Shasta,089,12615,235,0,0
+2021-06-30,Shasta,089,12605,235,0,0
 2021-06-30,Sierra,091,122,0,0,0
 2021-06-30,Siskiyou,093,2404,38,0,0
 2021-06-30,Solano,095,33973,244,75,0
@@ -828,7 +828,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-29,Kern,029,111049,1406,0,0
 2021-06-29,Kings,031,23093,247,0,0
 2021-06-29,Lake,033,3580,45,0,0
-2021-06-29,Lassen,035,5822,26,3,0
+2021-06-29,Lassen,035,5821,26,2,0
 2021-06-29,Los Angeles,037,1249875,24482,303,2
 2021-06-29,Madera,039,16583,245,39,0
 2021-06-29,Marin,041,14236,212,9,0
@@ -843,7 +843,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-29,Orange,059,256266,5120,44,2
 2021-06-29,Placer,061,23726,300,0,0
 2021-06-29,Plumas,063,742,6,0,0
-2021-06-29,Riverside,065,301655,4627,0,0
+2021-06-29,Riverside,065,301706,4627,0,0
 2021-06-29,Sacramento,067,108505,1742,94,2
 2021-06-29,San Benito,069,6116,63,4,0
 2021-06-29,San Bernardino,071,299730,4679,58,0
@@ -855,7 +855,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-29,Santa Barbara,083,34626,457,0,1
 2021-06-29,Santa Clara,085,119237,1696,40,0
 2021-06-29,Santa Cruz,087,16269,207,0,0
-2021-06-29,Shasta,089,12615,235,0,0
+2021-06-29,Shasta,089,12605,235,0,0
 2021-06-29,Sierra,091,122,0,0,0
 2021-06-29,Siskiyou,093,2404,38,2,0
 2021-06-29,Solano,095,33898,244,0,0
@@ -884,7 +884,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-28,Imperial,025,28348,741,0,0
 2021-06-28,Inyo,027,1434,38,0,0
 2021-06-28,Kern,029,111049,1406,101,1
-2021-06-28,Kings,031,23093,247,-143,0
+2021-06-28,Kings,031,23093,247,0,0
 2021-06-28,Lake,033,3580,45,19,0
 2021-06-28,Lassen,035,5819,26,10,0
 2021-06-28,Los Angeles,037,1249572,24480,268,3
@@ -901,7 +901,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-28,Orange,059,256222,5118,170,4
 2021-06-28,Placer,061,23726,300,53,0
 2021-06-28,Plumas,063,742,6,0,0
-2021-06-28,Riverside,065,301655,4627,-144,0
+2021-06-28,Riverside,065,301706,4627,0,0
 2021-06-28,Sacramento,067,108411,1740,326,2
 2021-06-28,San Benito,069,6112,63,1,0
 2021-06-28,San Bernardino,071,299672,4679,68,0
@@ -910,10 +910,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-28,San Joaquin,077,74808,1440,0,0
 2021-06-28,San Luis Obispo,079,21448,261,0,0
 2021-06-28,San Mateo,081,42438,581,52,0
-2021-06-28,Santa Barbara,083,34626,456,-16,1
+2021-06-28,Santa Barbara,083,34626,456,0,1
 2021-06-28,Santa Clara,085,119197,1696,47,0
 2021-06-28,Santa Cruz,087,16269,207,7,0
-2021-06-28,Shasta,089,12615,235,0,0
+2021-06-28,Shasta,089,12605,235,0,0
 2021-06-28,Sierra,091,122,0,4,0
 2021-06-28,Siskiyou,093,2402,38,0,0
 2021-06-28,Solano,095,33898,244,52,0
@@ -942,7 +942,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-27,Imperial,025,28348,741,0,0
 2021-06-27,Inyo,027,1434,38,0,0
 2021-06-27,Kern,029,110948,1405,0,0
-2021-06-27,Kings,031,23236,247,6,0
+2021-06-27,Kings,031,23093,247,0,0
 2021-06-27,Lake,033,3561,45,0,0
 2021-06-27,Lassen,035,5809,26,0,0
 2021-06-27,Los Angeles,037,1249304,24477,239,3
@@ -959,7 +959,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-27,Orange,059,256052,5114,0,0
 2021-06-27,Placer,061,23673,300,0,0
 2021-06-27,Plumas,063,742,6,0,0
-2021-06-27,Riverside,065,301799,4627,0,0
+2021-06-27,Riverside,065,301706,4627,0,0
 2021-06-27,Sacramento,067,108085,1738,0,0
 2021-06-27,San Benito,069,6111,63,0,0
 2021-06-27,San Bernardino,071,299604,4679,102,8
@@ -968,10 +968,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-27,San Joaquin,077,74808,1440,0,0
 2021-06-27,San Luis Obispo,079,21448,261,0,0
 2021-06-27,San Mateo,081,42386,581,0,0
-2021-06-27,Santa Barbara,083,34642,455,0,0
+2021-06-27,Santa Barbara,083,34626,455,0,0
 2021-06-27,Santa Clara,085,119150,1696,20,0
 2021-06-27,Santa Cruz,087,16262,207,0,0
-2021-06-27,Shasta,089,12615,235,0,0
+2021-06-27,Shasta,089,12605,235,0,0
 2021-06-27,Sierra,091,118,0,0,0
 2021-06-27,Siskiyou,093,2402,38,0,0
 2021-06-27,Solano,095,33846,244,0,0
@@ -1000,7 +1000,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-26,Imperial,025,28348,741,0,0
 2021-06-26,Inyo,027,1434,38,0,0
 2021-06-26,Kern,029,110948,1405,0,0
-2021-06-26,Kings,031,23230,247,10,0
+2021-06-26,Kings,031,23093,247,0,0
 2021-06-26,Lake,033,3561,45,0,0
 2021-06-26,Lassen,035,5809,26,0,0
 2021-06-26,Los Angeles,037,1249065,24474,301,6
@@ -1017,7 +1017,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-26,Orange,059,256052,5114,0,0
 2021-06-26,Placer,061,23673,300,0,0
 2021-06-26,Plumas,063,742,6,0,0
-2021-06-26,Riverside,065,301799,4627,0,0
+2021-06-26,Riverside,065,301706,4627,0,0
 2021-06-26,Sacramento,067,108085,1738,0,0
 2021-06-26,San Benito,069,6111,63,0,0
 2021-06-26,San Bernardino,071,299502,4671,22,5
@@ -1026,10 +1026,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-26,San Joaquin,077,74808,1440,0,0
 2021-06-26,San Luis Obispo,079,21448,261,0,0
 2021-06-26,San Mateo,081,42386,581,0,0
-2021-06-26,Santa Barbara,083,34642,455,0,0
+2021-06-26,Santa Barbara,083,34626,455,0,0
 2021-06-26,Santa Clara,085,119130,1696,19,0
 2021-06-26,Santa Cruz,087,16262,207,0,0
-2021-06-26,Shasta,089,12615,235,0,0
+2021-06-26,Shasta,089,12605,235,0,0
 2021-06-26,Sierra,091,118,0,0,0
 2021-06-26,Siskiyou,093,2402,38,0,0
 2021-06-26,Solano,095,33846,244,0,0
@@ -1058,7 +1058,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-25,Imperial,025,28348,741,0,0
 2021-06-25,Inyo,027,1434,38,0,0
 2021-06-25,Kern,029,110948,1405,101,0
-2021-06-25,Kings,031,23220,247,6,0
+2021-06-25,Kings,031,23093,247,0,0
 2021-06-25,Lake,033,3561,45,0,0
 2021-06-25,Lassen,035,5809,26,1,1
 2021-06-25,Los Angeles,037,1248764,24468,602,11
@@ -1075,7 +1075,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-25,Orange,059,256052,5114,44,2
 2021-06-25,Placer,061,23673,300,40,0
 2021-06-25,Plumas,063,742,6,0,0
-2021-06-25,Riverside,065,301799,4627,0,0
+2021-06-25,Riverside,065,301706,4627,51,0
 2021-06-25,Sacramento,067,108085,1738,72,0
 2021-06-25,San Benito,069,6111,63,0,0
 2021-06-25,San Bernardino,071,299480,4666,55,0
@@ -1084,10 +1084,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-25,San Joaquin,077,74808,1440,0,0
 2021-06-25,San Luis Obispo,079,21448,261,0,0
 2021-06-25,San Mateo,081,42386,581,0,0
-2021-06-25,Santa Barbara,083,34642,455,11,0
+2021-06-25,Santa Barbara,083,34626,455,0,0
 2021-06-25,Santa Clara,085,119111,1696,28,0
 2021-06-25,Santa Cruz,087,16262,207,0,0
-2021-06-25,Shasta,089,12615,235,0,0
+2021-06-25,Shasta,089,12605,235,0,0
 2021-06-25,Sierra,091,118,0,0,0
 2021-06-25,Siskiyou,093,2402,38,3,0
 2021-06-25,Solano,095,33846,244,49,0
@@ -1116,7 +1116,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-24,Imperial,025,28348,741,32,0
 2021-06-24,Inyo,027,1434,38,0,0
 2021-06-24,Kern,029,110847,1405,0,0
-2021-06-24,Kings,031,23214,247,5,0
+2021-06-24,Kings,031,23093,247,0,0
 2021-06-24,Lake,033,3561,45,8,0
 2021-06-24,Lassen,035,5808,25,9,0
 2021-06-24,Los Angeles,037,1248162,24457,1,0
@@ -1133,7 +1133,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-24,Orange,059,256008,5112,31,1
 2021-06-24,Placer,061,23633,300,0,0
 2021-06-24,Plumas,063,742,6,5,0
-2021-06-24,Riverside,065,301799,4627,0,0
+2021-06-24,Riverside,065,301655,4627,0,0
 2021-06-24,Sacramento,067,108013,1738,100,1
 2021-06-24,San Benito,069,6111,63,0,0
 2021-06-24,San Bernardino,071,299425,4666,53,17
@@ -1142,10 +1142,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-24,San Joaquin,077,74808,1440,0,0
 2021-06-24,San Luis Obispo,079,21448,261,0,0
 2021-06-24,San Mateo,081,42386,581,19,0
-2021-06-24,Santa Barbara,083,34631,455,7,0
+2021-06-24,Santa Barbara,083,34626,455,2,0
 2021-06-24,Santa Clara,085,119083,1696,36,0
 2021-06-24,Santa Cruz,087,16262,207,16,0
-2021-06-24,Shasta,089,12615,235,0,0
+2021-06-24,Shasta,089,12605,235,0,0
 2021-06-24,Sierra,091,118,0,1,0
 2021-06-24,Siskiyou,093,2399,38,1,1
 2021-06-24,Solano,095,33797,244,0,0
@@ -1174,7 +1174,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-23,Imperial,025,28316,741,0,0
 2021-06-23,Inyo,027,1434,38,0,0
 2021-06-23,Kern,029,110847,1405,48,1
-2021-06-23,Kings,031,23209,247,7,0
+2021-06-23,Kings,031,23093,247,0,0
 2021-06-23,Lake,033,3553,45,0,0
 2021-06-23,Lassen,035,5799,25,0,0
 2021-06-23,Los Angeles,037,1248161,24457,252,12
@@ -1191,7 +1191,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-23,Orange,059,255977,5111,19,2
 2021-06-23,Placer,061,23633,300,29,0
 2021-06-23,Plumas,063,737,6,0,0
-2021-06-23,Riverside,065,301799,4627,0,0
+2021-06-23,Riverside,065,301655,4627,0,0
 2021-06-23,Sacramento,067,107913,1737,41,0
 2021-06-23,San Benito,069,6111,63,2,0
 2021-06-23,San Bernardino,071,299372,4649,52,7
@@ -1203,7 +1203,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-23,Santa Barbara,083,34624,455,3,0
 2021-06-23,Santa Clara,085,119047,1696,29,0
 2021-06-23,Santa Cruz,087,16246,207,0,0
-2021-06-23,Shasta,089,12615,235,0,0
+2021-06-23,Shasta,089,12605,235,0,0
 2021-06-23,Sierra,091,117,0,0,0
 2021-06-23,Siskiyou,093,2398,37,0,0
 2021-06-23,Solano,095,33797,244,35,0
@@ -1232,7 +1232,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-22,Imperial,025,28316,741,13,0
 2021-06-22,Inyo,027,1434,38,0,0
 2021-06-22,Kern,029,110799,1404,0,0
-2021-06-22,Kings,031,23202,247,7,0
+2021-06-22,Kings,031,23093,247,0,0
 2021-06-22,Lake,033,3553,45,0,0
 2021-06-22,Lassen,035,5799,25,0,1
 2021-06-22,Los Angeles,037,1247909,24445,165,1
@@ -1249,7 +1249,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-22,Orange,059,255958,5109,36,2
 2021-06-22,Placer,061,23604,300,15,1
 2021-06-22,Plumas,063,737,6,0,0
-2021-06-22,Riverside,065,301799,4627,131,0
+2021-06-22,Riverside,065,301655,4627,0,0
 2021-06-22,Sacramento,067,107872,1737,51,1
 2021-06-22,San Benito,069,6109,63,0,0
 2021-06-22,San Bernardino,071,299320,4642,31,4
@@ -1261,7 +1261,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-22,Santa Barbara,083,34621,455,8,0
 2021-06-22,Santa Clara,085,119018,1696,38,0
 2021-06-22,Santa Cruz,087,16246,207,0,0
-2021-06-22,Shasta,089,12615,235,-15,2
+2021-06-22,Shasta,089,12605,235,0,2
 2021-06-22,Sierra,091,117,0,1,0
 2021-06-22,Siskiyou,093,2398,37,2,0
 2021-06-22,Solano,095,33762,244,0,0
@@ -1290,7 +1290,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-21,Imperial,025,28303,741,0,0
 2021-06-21,Inyo,027,1434,38,0,0
 2021-06-21,Kern,029,110799,1404,17,0
-2021-06-21,Kings,031,23195,247,3,0
+2021-06-21,Kings,031,23093,247,0,0
 2021-06-21,Lake,033,3553,45,0,0
 2021-06-21,Lassen,035,5799,24,0,0
 2021-06-21,Los Angeles,037,1247744,24444,126,3
@@ -1307,7 +1307,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-21,Orange,059,255922,5107,112,4
 2021-06-21,Placer,061,23589,299,71,0
 2021-06-21,Plumas,063,737,6,1,0
-2021-06-21,Riverside,065,301668,4627,65,0
+2021-06-21,Riverside,065,301655,4627,52,0
 2021-06-21,Sacramento,067,107821,1736,183,5
 2021-06-21,San Benito,069,6109,63,0,0
 2021-06-21,San Bernardino,071,299289,4638,0,0
@@ -1319,7 +1319,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-21,Santa Barbara,083,34613,455,17,0
 2021-06-21,Santa Clara,085,118980,1696,42,0
 2021-06-21,Santa Cruz,087,16246,207,11,0
-2021-06-21,Shasta,089,12630,233,0,0
+2021-06-21,Shasta,089,12605,233,0,0
 2021-06-21,Sierra,091,116,0,1,0
 2021-06-21,Siskiyou,093,2396,37,2,0
 2021-06-21,Solano,095,33762,244,55,0
@@ -1348,7 +1348,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-20,Imperial,025,28303,741,0,0
 2021-06-20,Inyo,027,1434,38,0,0
 2021-06-20,Kern,029,110782,1404,20,0
-2021-06-20,Kings,031,23192,247,0,0
+2021-06-20,Kings,031,23093,247,0,0
 2021-06-20,Lake,033,3553,45,0,0
 2021-06-20,Lassen,035,5799,24,0,0
 2021-06-20,Los Angeles,037,1247618,24441,258,2
@@ -1377,7 +1377,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-20,Santa Barbara,083,34596,455,0,0
 2021-06-20,Santa Clara,085,118938,1696,16,0
 2021-06-20,Santa Cruz,087,16235,207,0,0
-2021-06-20,Shasta,089,12630,233,0,0
+2021-06-20,Shasta,089,12605,233,0,0
 2021-06-20,Sierra,091,115,0,0,0
 2021-06-20,Siskiyou,093,2394,37,0,0
 2021-06-20,Solano,095,33707,244,0,0
@@ -1406,7 +1406,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-19,Imperial,025,28303,741,1,0
 2021-06-19,Inyo,027,1434,38,0,0
 2021-06-19,Kern,029,110762,1404,28,2
-2021-06-19,Kings,031,23192,247,3,0
+2021-06-19,Kings,031,23093,247,0,0
 2021-06-19,Lake,033,3553,45,0,0
 2021-06-19,Lassen,035,5799,24,0,0
 2021-06-19,Los Angeles,037,1247360,24439,144,4
@@ -1435,7 +1435,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-19,Santa Barbara,083,34596,455,0,0
 2021-06-19,Santa Clara,085,118922,1696,16,0
 2021-06-19,Santa Cruz,087,16235,207,0,0
-2021-06-19,Shasta,089,12630,233,0,0
+2021-06-19,Shasta,089,12605,233,0,0
 2021-06-19,Sierra,091,115,0,0,0
 2021-06-19,Siskiyou,093,2394,37,0,0
 2021-06-19,Solano,095,33707,244,0,0
@@ -1464,7 +1464,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-18,Imperial,025,28302,741,7,0
 2021-06-18,Inyo,027,1434,38,0,0
 2021-06-18,Kern,029,110734,1402,24,1
-2021-06-18,Kings,031,23189,247,4,0
+2021-06-18,Kings,031,23093,247,0,0
 2021-06-18,Lake,033,3553,45,0,0
 2021-06-18,Lassen,035,5799,24,0,0
 2021-06-18,Los Angeles,037,1247216,24435,183,7
@@ -1493,7 +1493,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-18,Santa Barbara,083,34596,455,3,0
 2021-06-18,Santa Clara,085,118906,1696,26,0
 2021-06-18,Santa Cruz,087,16235,207,3,0
-2021-06-18,Shasta,089,12630,233,0,0
+2021-06-18,Shasta,089,12605,233,0,0
 2021-06-18,Sierra,091,115,0,2,0
 2021-06-18,Siskiyou,093,2394,37,1,0
 2021-06-18,Solano,095,33707,244,34,0
@@ -1522,7 +1522,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-17,Imperial,025,28295,741,8,0
 2021-06-17,Inyo,027,1434,38,0,0
 2021-06-17,Kern,029,110710,1401,23,0
-2021-06-17,Kings,031,23185,247,7,0
+2021-06-17,Kings,031,23093,247,0,0
 2021-06-17,Lake,033,3553,45,4,0
 2021-06-17,Lassen,035,5799,24,0,0
 2021-06-17,Los Angeles,037,1247033,24428,201,6
@@ -1551,7 +1551,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-17,Santa Barbara,083,34593,455,6,2
 2021-06-17,Santa Clara,085,118880,1696,43,0
 2021-06-17,Santa Cruz,087,16232,207,10,0
-2021-06-17,Shasta,089,12630,233,0,0
+2021-06-17,Shasta,089,12605,233,0,0
 2021-06-17,Sierra,091,113,0,0,0
 2021-06-17,Siskiyou,093,2393,37,1,0
 2021-06-17,Solano,095,33673,244,22,0
@@ -1580,7 +1580,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-16,Imperial,025,28287,741,3,0
 2021-06-16,Inyo,027,1434,38,0,0
 2021-06-16,Kern,029,110687,1401,14,0
-2021-06-16,Kings,031,23178,247,3,0
+2021-06-16,Kings,031,23093,247,0,0
 2021-06-16,Lake,033,3549,45,0,0
 2021-06-16,Lassen,035,5799,24,0,0
 2021-06-16,Los Angeles,037,1246832,24422,192,5
@@ -1609,7 +1609,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-16,Santa Barbara,083,34587,453,7,1
 2021-06-16,Santa Clara,085,118837,1696,29,0
 2021-06-16,Santa Cruz,087,16222,207,6,0
-2021-06-16,Shasta,089,12630,233,0,0
+2021-06-16,Shasta,089,12605,233,0,0
 2021-06-16,Sierra,091,113,0,0,0
 2021-06-16,Siskiyou,093,2392,37,2,0
 2021-06-16,Solano,095,33651,244,15,0
@@ -1618,7 +1618,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-16,Sutter,101,9638,106,5,0
 2021-06-16,Tehama,103,5724,59,0,0
 2021-06-16,Trinity,105,422,5,5,0
-2021-06-16,Tulare,107,49768,849,20,0
+2021-06-16,Tulare,107,49768,849,10,0
 2021-06-16,Tuolumne,109,4206,71,2,0
 2021-06-16,Ventura,111,81609,1025,37,0
 2021-06-16,Yolo,113,14070,209,6,0
@@ -1638,7 +1638,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-15,Imperial,025,28284,741,2,2
 2021-06-15,Inyo,027,1434,38,0,0
 2021-06-15,Kern,029,110673,1401,56,1
-2021-06-15,Kings,031,23175,247,5,0
+2021-06-15,Kings,031,23093,247,0,0
 2021-06-15,Lake,033,3549,45,0,0
 2021-06-15,Lassen,035,5799,24,24,0
 2021-06-15,Los Angeles,037,1246640,24417,204,2
@@ -1667,7 +1667,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-15,Santa Barbara,083,34580,452,3,0
 2021-06-15,Santa Clara,085,118808,1696,34,0
 2021-06-15,Santa Cruz,087,16216,207,10,0
-2021-06-15,Shasta,089,12630,233,31,1
+2021-06-15,Shasta,089,12605,233,6,1
 2021-06-15,Sierra,091,113,0,0,0
 2021-06-15,Siskiyou,093,2390,37,0,37
 2021-06-15,Solano,095,33636,244,11,0
@@ -1676,7 +1676,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-15,Sutter,101,9633,106,5,0
 2021-06-15,Tehama,103,5724,59,0,0
 2021-06-15,Trinity,105,417,5,0,0
-2021-06-15,Tulare,107,49748,849,0,0
+2021-06-15,Tulare,107,49758,849,0,0
 2021-06-15,Tuolumne,109,4204,71,5,1
 2021-06-15,Ventura,111,81572,1025,0,0
 2021-06-15,Yolo,113,14064,209,2,0
@@ -1696,7 +1696,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-14,Imperial,025,28282,739,36,0
 2021-06-14,Inyo,027,1434,38,0,0
 2021-06-14,Kern,029,110617,1400,13,0
-2021-06-14,Kings,031,23170,247,2,0
+2021-06-14,Kings,031,23093,247,0,0
 2021-06-14,Lake,033,3549,45,13,0
 2021-06-14,Lassen,035,5775,24,0,0
 2021-06-14,Los Angeles,037,1246436,24415,129,1
@@ -1734,7 +1734,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-14,Sutter,101,9628,106,14,0
 2021-06-14,Tehama,103,5724,59,8,0
 2021-06-14,Trinity,105,417,5,1,0
-2021-06-14,Tulare,107,49748,849,-10,0
+2021-06-14,Tulare,107,49758,849,0,0
 2021-06-14,Tuolumne,109,4199,70,14,1
 2021-06-14,Ventura,111,81572,1025,18,0
 2021-06-14,Yolo,113,14062,209,13,0
@@ -1754,7 +1754,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-13,Imperial,025,28246,739,0,0
 2021-06-13,Inyo,027,1434,38,0,0
 2021-06-13,Kern,029,110604,1400,11,0
-2021-06-13,Kings,031,23168,247,2,0
+2021-06-13,Kings,031,23093,247,0,0
 2021-06-13,Lake,033,3536,45,0,0
 2021-06-13,Lassen,035,5775,24,0,0
 2021-06-13,Los Angeles,037,1246307,24414,184,0
@@ -1812,7 +1812,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-12,Imperial,025,28246,739,0,0
 2021-06-12,Inyo,027,1434,38,0,0
 2021-06-12,Kern,029,110593,1400,34,0
-2021-06-12,Kings,031,23166,247,0,0
+2021-06-12,Kings,031,23093,247,0,0
 2021-06-12,Lake,033,3536,45,0,0
 2021-06-12,Lassen,035,5775,24,0,0
 2021-06-12,Los Angeles,037,1246123,24414,177,0
@@ -1870,7 +1870,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-11,Imperial,025,28246,739,4,1
 2021-06-11,Inyo,027,1434,38,0,0
 2021-06-11,Kern,029,110559,1400,13,0
-2021-06-11,Kings,031,23166,247,0,0
+2021-06-11,Kings,031,23093,247,0,0
 2021-06-11,Lake,033,3536,45,0,0
 2021-06-11,Lassen,035,5775,24,4,0
 2021-06-11,Los Angeles,037,1245946,24414,160,0
@@ -1928,7 +1928,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-10,Imperial,025,28242,738,16,0
 2021-06-10,Inyo,027,1434,38,0,0
 2021-06-10,Kern,029,110546,1400,24,0
-2021-06-10,Kings,031,23166,247,2,0
+2021-06-10,Kings,031,23093,247,0,0
 2021-06-10,Lake,033,3536,45,12,0
 2021-06-10,Lassen,035,5771,24,1,0
 2021-06-10,Los Angeles,037,1245786,24414,183,5
@@ -1966,7 +1966,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-10,Sutter,101,9612,106,10,0
 2021-06-10,Tehama,103,5711,59,3,0
 2021-06-10,Trinity,105,416,5,0,0
-2021-06-10,Tulare,107,49758,849,-54,0
+2021-06-10,Tulare,107,49758,849,0,0
 2021-06-10,Tuolumne,109,4183,69,4,0
 2021-06-10,Ventura,111,81546,1023,18,1
 2021-06-10,Yolo,113,14041,209,4,0
@@ -1986,7 +1986,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-09,Imperial,025,28226,738,0,0
 2021-06-09,Inyo,027,1434,38,1,0
 2021-06-09,Kern,029,110522,1400,64,1
-2021-06-09,Kings,031,23164,247,27,0
+2021-06-09,Kings,031,23093,247,0,0
 2021-06-09,Lake,033,3524,45,0,0
 2021-06-09,Lassen,035,5770,24,2,0
 2021-06-09,Los Angeles,037,1245603,24409,174,5
@@ -2024,7 +2024,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-09,Sutter,101,9602,106,3,0
 2021-06-09,Tehama,103,5708,59,0,0
 2021-06-09,Trinity,105,416,5,0,0
-2021-06-09,Tulare,107,49812,849,0,1
+2021-06-09,Tulare,107,49758,849,0,1
 2021-06-09,Tuolumne,109,4179,69,2,0
 2021-06-09,Ventura,111,81528,1022,17,0
 2021-06-09,Yolo,113,14037,209,3,0
@@ -2044,7 +2044,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-08,Imperial,025,28226,738,1,0
 2021-06-08,Inyo,027,1433,38,1,0
 2021-06-08,Kern,029,110458,1399,63,1
-2021-06-08,Kings,031,23137,247,13,0
+2021-06-08,Kings,031,23093,247,0,0
 2021-06-08,Lake,033,3524,45,0,0
 2021-06-08,Lassen,035,5768,24,1,0
 2021-06-08,Los Angeles,037,1245429,24404,162,12
@@ -2082,7 +2082,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-08,Sutter,101,9599,106,12,0
 2021-06-08,Tehama,103,5708,59,0,0
 2021-06-08,Trinity,105,416,5,2,0
-2021-06-08,Tulare,107,49812,848,-1,0
+2021-06-08,Tulare,107,49758,848,0,0
 2021-06-08,Tuolumne,109,4177,69,0,0
 2021-06-08,Ventura,111,81511,1022,4,0
 2021-06-08,Yolo,113,14034,209,9,1
@@ -2102,7 +2102,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-07,Imperial,025,28225,738,53,0
 2021-06-07,Inyo,027,1432,38,0,0
 2021-06-07,Kern,029,110395,1398,23,0
-2021-06-07,Kings,031,23124,247,2,0
+2021-06-07,Kings,031,23093,247,0,0
 2021-06-07,Lake,033,3524,45,16,0
 2021-06-07,Lassen,035,5767,24,19,0
 2021-06-07,Los Angeles,037,1245267,24392,147,3
@@ -2140,7 +2140,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-07,Sutter,101,9587,106,14,0
 2021-06-07,Tehama,103,5708,59,1,0
 2021-06-07,Trinity,105,414,5,3,0
-2021-06-07,Tulare,107,49813,848,0,1
+2021-06-07,Tulare,107,49758,848,0,1
 2021-06-07,Tuolumne,109,4177,69,4,0
 2021-06-07,Ventura,111,81507,1022,50,0
 2021-06-07,Yolo,113,14025,208,8,0
@@ -2160,7 +2160,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-06,Imperial,025,28172,738,0,0
 2021-06-06,Inyo,027,1432,38,0,0
 2021-06-06,Kern,029,110372,1398,22,0
-2021-06-06,Kings,031,23122,247,3,0
+2021-06-06,Kings,031,23093,247,0,0
 2021-06-06,Lake,033,3508,45,0,0
 2021-06-06,Lassen,035,5748,24,0,0
 2021-06-06,Los Angeles,037,1245120,24389,203,0
@@ -2198,7 +2198,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-06,Sutter,101,9573,106,0,0
 2021-06-06,Tehama,103,5707,59,0,0
 2021-06-06,Trinity,105,411,5,0,0
-2021-06-06,Tulare,107,49813,847,0,0
+2021-06-06,Tulare,107,49758,847,0,0
 2021-06-06,Tuolumne,109,4173,69,0,0
 2021-06-06,Ventura,111,81457,1022,0,0
 2021-06-06,Yolo,113,14017,208,0,0
@@ -2218,12 +2218,12 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-05,Imperial,025,28172,738,0,0
 2021-06-05,Inyo,027,1432,38,0,0
 2021-06-05,Kern,029,110350,1398,48,2
-2021-06-05,Kings,031,23119,247,17,0
+2021-06-05,Kings,031,23093,247,0,0
 2021-06-05,Lake,033,3508,45,0,0
 2021-06-05,Lassen,035,5748,24,0,0
 2021-06-05,Los Angeles,037,1244917,24389,233,10
 2021-06-05,Madera,039,16453,245,0,0
-2021-06-05,Marin,041,14153,213,2,0
+2021-06-05,Marin,041,14153,213,1,0
 2021-06-05,Mariposa,043,461,7,0,0
 2021-06-05,Mendocino,045,4239,50,0,0
 2021-06-05,Merced,047,32193,471,0,0
@@ -2256,7 +2256,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-05,Sutter,101,9573,106,0,0
 2021-06-05,Tehama,103,5707,59,3,0
 2021-06-05,Trinity,105,411,5,0,0
-2021-06-05,Tulare,107,49813,847,-19,0
+2021-06-05,Tulare,107,49758,847,0,0
 2021-06-05,Tuolumne,109,4173,69,0,0
 2021-06-05,Ventura,111,81457,1022,0,0
 2021-06-05,Yolo,113,14017,208,0,0
@@ -2276,12 +2276,12 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-04,Imperial,025,28172,738,6,2
 2021-06-04,Inyo,027,1432,38,0,0
 2021-06-04,Kern,029,110302,1396,50,2
-2021-06-04,Kings,031,23102,247,21,0
+2021-06-04,Kings,031,23093,247,12,0
 2021-06-04,Lake,033,3508,45,0,0
 2021-06-04,Lassen,035,5748,24,0,0
 2021-06-04,Los Angeles,037,1244684,24379,211,12
 2021-06-04,Madera,039,16453,245,2,0
-2021-06-04,Marin,041,14151,213,0,0
+2021-06-04,Marin,041,14152,213,0,0
 2021-06-04,Mariposa,043,461,7,0,0
 2021-06-04,Mendocino,045,4239,50,7,1
 2021-06-04,Merced,047,32193,471,10,0
@@ -2314,7 +2314,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-04,Sutter,101,9573,106,12,0
 2021-06-04,Tehama,103,5704,59,7,0
 2021-06-04,Trinity,105,411,5,0,0
-2021-06-04,Tulare,107,49832,847,19,1
+2021-06-04,Tulare,107,49758,847,0,1
 2021-06-04,Tuolumne,109,4173,69,2,0
 2021-06-04,Ventura,111,81457,1022,36,1
 2021-06-04,Yolo,113,14017,208,5,0
@@ -2339,7 +2339,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-03,Lassen,035,5748,24,0,0
 2021-06-03,Los Angeles,037,1244473,24367,198,13
 2021-06-03,Madera,039,16451,245,3,0
-2021-06-03,Marin,041,14151,213,-1,0
+2021-06-03,Marin,041,14152,213,0,0
 2021-06-03,Mariposa,043,461,7,0,0
 2021-06-03,Mendocino,045,4232,49,4,0
 2021-06-03,Merced,047,32183,471,5,0
@@ -2372,7 +2372,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-03,Sutter,101,9561,106,7,0
 2021-06-03,Tehama,103,5697,59,5,0
 2021-06-03,Trinity,105,411,5,0,0
-2021-06-03,Tulare,107,49813,846,0,0
+2021-06-03,Tulare,107,49758,846,0,0
 2021-06-03,Tuolumne,109,4171,69,0,0
 2021-06-03,Ventura,111,81421,1021,25,0
 2021-06-03,Yolo,113,14012,208,12,0
@@ -2430,7 +2430,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-02,Sutter,101,9554,106,11,0
 2021-06-02,Tehama,103,5692,59,0,0
 2021-06-02,Trinity,105,411,5,0,0
-2021-06-02,Tulare,107,49813,846,0,0
+2021-06-02,Tulare,107,49758,846,0,0
 2021-06-02,Tuolumne,109,4171,69,1,2
 2021-06-02,Ventura,111,81396,1021,14,3
 2021-06-02,Yolo,113,14000,208,5,0
@@ -2488,7 +2488,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-06-01,Sutter,101,9543,106,16,0
 2021-06-01,Tehama,103,5692,59,14,0
 2021-06-01,Trinity,105,411,5,0,0
-2021-06-01,Tulare,107,49813,846,0,0
+2021-06-01,Tulare,107,49758,846,0,0
 2021-06-01,Tuolumne,109,4170,67,2,0
 2021-06-01,Ventura,111,81382,1018,38,0
 2021-06-01,Yolo,113,13995,208,13,0
@@ -2546,7 +2546,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-31,Sutter,101,9527,106,0,0
 2021-05-31,Tehama,103,5678,59,0,0
 2021-05-31,Trinity,105,411,5,0,0
-2021-05-31,Tulare,107,49813,846,0,0
+2021-05-31,Tulare,107,49758,846,0,0
 2021-05-31,Tuolumne,109,4168,67,0,0
 2021-05-31,Ventura,111,81344,1018,0,0
 2021-05-31,Yolo,113,13982,208,0,0
@@ -2604,7 +2604,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-30,Sutter,101,9527,106,0,0
 2021-05-30,Tehama,103,5678,59,0,0
 2021-05-30,Trinity,105,411,5,0,0
-2021-05-30,Tulare,107,49813,846,0,0
+2021-05-30,Tulare,107,49758,846,0,0
 2021-05-30,Tuolumne,109,4168,67,0,0
 2021-05-30,Ventura,111,81344,1018,0,0
 2021-05-30,Yolo,113,13982,208,0,0
@@ -2640,7 +2640,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-29,Nevada,057,4812,75,0,0
 2021-05-29,Orange,059,255220,5063,56,4
 2021-05-29,Placer,061,23004,297,0,0
-2021-05-29,Plumas,063,723,6,-1,0
+2021-05-29,Plumas,063,723,6,0,0
 2021-05-29,Riverside,065,300701,4608,0,0
 2021-05-29,Sacramento,067,106265,1707,0,0
 2021-05-29,San Benito,069,6088,63,0,0
@@ -2662,7 +2662,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-29,Sutter,101,9527,106,0,0
 2021-05-29,Tehama,103,5678,59,0,0
 2021-05-29,Trinity,105,411,5,0,0
-2021-05-29,Tulare,107,49813,846,0,0
+2021-05-29,Tulare,107,49758,846,0,0
 2021-05-29,Tuolumne,109,4168,67,0,0
 2021-05-29,Ventura,111,81344,1018,0,0
 2021-05-29,Yolo,113,13982,208,0,0
@@ -2698,7 +2698,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-28,Nevada,057,4812,75,5,0
 2021-05-28,Orange,059,255164,5059,55,3
 2021-05-28,Placer,061,23004,297,21,1
-2021-05-28,Plumas,063,724,6,0,0
+2021-05-28,Plumas,063,723,6,0,0
 2021-05-28,Riverside,065,300701,4608,70,0
 2021-05-28,Sacramento,067,106265,1707,112,0
 2021-05-28,San Benito,069,6088,63,0,0
@@ -2720,7 +2720,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-28,Sutter,101,9527,106,8,0
 2021-05-28,Tehama,103,5678,59,4,0
 2021-05-28,Trinity,105,411,5,0,0
-2021-05-28,Tulare,107,49813,846,0,3
+2021-05-28,Tulare,107,49758,846,0,3
 2021-05-28,Tuolumne,109,4168,67,4,0
 2021-05-28,Ventura,111,81344,1018,16,0
 2021-05-28,Yolo,113,13982,208,14,0
@@ -2756,7 +2756,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-27,Nevada,057,4807,75,4,0
 2021-05-27,Orange,059,255109,5056,28,1
 2021-05-27,Placer,061,22983,296,27,0
-2021-05-27,Plumas,063,724,6,1,0
+2021-05-27,Plumas,063,723,6,0,0
 2021-05-27,Riverside,065,300631,4608,81,0
 2021-05-27,Sacramento,067,106153,1707,110,5
 2021-05-27,San Benito,069,6088,63,0,0
@@ -2778,7 +2778,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-27,Sutter,101,9519,106,6,0
 2021-05-27,Tehama,103,5674,59,18,0
 2021-05-27,Trinity,105,411,5,0,0
-2021-05-27,Tulare,107,49813,843,0,0
+2021-05-27,Tulare,107,49758,843,0,0
 2021-05-27,Tuolumne,109,4164,67,1,0
 2021-05-27,Ventura,111,81328,1018,33,0
 2021-05-27,Yolo,113,13968,208,11,0
@@ -2836,7 +2836,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-26,Sutter,101,9513,106,4,0
 2021-05-26,Tehama,103,5656,59,8,0
 2021-05-26,Trinity,105,411,5,1,0
-2021-05-26,Tulare,107,49813,843,0,1
+2021-05-26,Tulare,107,49758,843,0,1
 2021-05-26,Tuolumne,109,4163,67,2,0
 2021-05-26,Ventura,111,81295,1018,15,0
 2021-05-26,Yolo,113,13957,208,18,0
@@ -2894,7 +2894,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-25,Sutter,101,9509,106,10,0
 2021-05-25,Tehama,103,5648,59,58,0
 2021-05-25,Trinity,105,410,5,0,0
-2021-05-25,Tulare,107,49813,842,0,0
+2021-05-25,Tulare,107,49758,842,0,0
 2021-05-25,Tuolumne,109,4161,67,2,0
 2021-05-25,Ventura,111,81280,1018,23,1
 2021-05-25,Yolo,113,13939,208,0,0
@@ -2952,7 +2952,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-24,Sutter,101,9499,106,19,0
 2021-05-24,Tehama,103,5590,59,0,0
 2021-05-24,Trinity,105,410,5,3,0
-2021-05-24,Tulare,107,49813,842,0,0
+2021-05-24,Tulare,107,49758,842,0,0
 2021-05-24,Tuolumne,109,4159,67,5,0
 2021-05-24,Ventura,111,81257,1017,53,0
 2021-05-24,Yolo,113,13939,208,24,0
@@ -3010,7 +3010,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-23,Sutter,101,9480,106,0,0
 2021-05-23,Tehama,103,5590,59,0,0
 2021-05-23,Trinity,105,407,5,0,0
-2021-05-23,Tulare,107,49813,842,0,0
+2021-05-23,Tulare,107,49758,842,0,0
 2021-05-23,Tuolumne,109,4154,67,0,0
 2021-05-23,Ventura,111,81204,1017,0,0
 2021-05-23,Yolo,113,13915,208,0,0
@@ -3068,7 +3068,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-22,Sutter,101,9480,106,0,0
 2021-05-22,Tehama,103,5590,59,0,0
 2021-05-22,Trinity,105,407,5,0,0
-2021-05-22,Tulare,107,49813,842,0,0
+2021-05-22,Tulare,107,49758,842,0,0
 2021-05-22,Tuolumne,109,4154,67,0,0
 2021-05-22,Ventura,111,81204,1017,0,0
 2021-05-22,Yolo,113,13915,208,0,0
@@ -3126,7 +3126,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-21,Sutter,101,9480,106,4,0
 2021-05-21,Tehama,103,5590,59,0,0
 2021-05-21,Trinity,105,407,5,0,0
-2021-05-21,Tulare,107,49813,842,0,0
+2021-05-21,Tulare,107,49758,842,0,0
 2021-05-21,Tuolumne,109,4154,67,2,0
 2021-05-21,Ventura,111,81204,1017,20,1
 2021-05-21,Yolo,113,13915,208,10,0
@@ -3184,7 +3184,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-20,Sutter,101,9476,106,4,0
 2021-05-20,Tehama,103,5590,59,0,0
 2021-05-20,Trinity,105,407,5,1,0
-2021-05-20,Tulare,107,49813,842,0,0
+2021-05-20,Tulare,107,49758,842,0,0
 2021-05-20,Tuolumne,109,4152,67,0,0
 2021-05-20,Ventura,111,81184,1016,39,0
 2021-05-20,Yolo,113,13905,208,14,0
@@ -3242,7 +3242,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-19,Sutter,101,9472,106,7,0
 2021-05-19,Tehama,103,5590,59,0,0
 2021-05-19,Trinity,105,406,5,2,0
-2021-05-19,Tulare,107,49813,842,0,1
+2021-05-19,Tulare,107,49758,842,0,1
 2021-05-19,Tuolumne,109,4152,67,1,0
 2021-05-19,Ventura,111,81145,1016,28,0
 2021-05-19,Yolo,113,13891,208,7,0
@@ -3300,7 +3300,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-18,Sutter,101,9465,106,6,0
 2021-05-18,Tehama,103,5590,59,0,0
 2021-05-18,Trinity,105,404,5,2,0
-2021-05-18,Tulare,107,49813,841,0,1
+2021-05-18,Tulare,107,49758,841,0,1
 2021-05-18,Tuolumne,109,4151,67,3,0
 2021-05-18,Ventura,111,81117,1016,15,0
 2021-05-18,Yolo,113,13884,208,10,0
@@ -3358,7 +3358,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-17,Sutter,101,9459,106,18,0
 2021-05-17,Tehama,103,5590,59,0,0
 2021-05-17,Trinity,105,402,5,0,0
-2021-05-17,Tulare,107,49813,840,0,0
+2021-05-17,Tulare,107,49758,840,0,0
 2021-05-17,Tuolumne,109,4148,67,9,0
 2021-05-17,Ventura,111,81102,1016,69,0
 2021-05-17,Yolo,113,13874,208,18,0
@@ -3416,7 +3416,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-16,Sutter,101,9441,106,0,0
 2021-05-16,Tehama,103,5590,59,0,0
 2021-05-16,Trinity,105,402,5,0,0
-2021-05-16,Tulare,107,49813,840,0,0
+2021-05-16,Tulare,107,49758,840,0,0
 2021-05-16,Tuolumne,109,4139,67,0,0
 2021-05-16,Ventura,111,81033,1016,0,0
 2021-05-16,Yolo,113,13856,208,0,0
@@ -3474,7 +3474,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-15,Sutter,101,9441,106,0,0
 2021-05-15,Tehama,103,5590,59,0,0
 2021-05-15,Trinity,105,402,5,0,0
-2021-05-15,Tulare,107,49813,840,0,0
+2021-05-15,Tulare,107,49758,840,0,0
 2021-05-15,Tuolumne,109,4139,67,0,0
 2021-05-15,Ventura,111,81033,1016,0,0
 2021-05-15,Yolo,113,13856,208,0,0
@@ -3522,7 +3522,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-14,San Mateo,081,41909,570,19,2
 2021-05-14,Santa Barbara,083,34365,450,4,0
 2021-05-14,Santa Clara,085,117940,1687,44,1
-2021-05-14,Santa Cruz,087,16150,206,7,0
+2021-05-14,Santa Cruz,087,16150,206,0,0
 2021-05-14,Shasta,089,12175,226,23,0
 2021-05-14,Sierra,091,112,0,0,0
 2021-05-14,Siskiyou,093,2255,25,10,1
@@ -3532,7 +3532,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-14,Sutter,101,9441,106,5,0
 2021-05-14,Tehama,103,5590,59,18,0
 2021-05-14,Trinity,105,402,5,0,0
-2021-05-14,Tulare,107,49813,840,0,1
+2021-05-14,Tulare,107,49758,840,0,1
 2021-05-14,Tuolumne,109,4139,67,5,1
 2021-05-14,Ventura,111,81033,1016,32,3
 2021-05-14,Yolo,113,13856,208,10,0
@@ -3580,7 +3580,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-13,San Mateo,081,41890,568,26,0
 2021-05-13,Santa Barbara,083,34361,450,24,0
 2021-05-13,Santa Clara,085,117896,1686,58,0
-2021-05-13,Santa Cruz,087,16143,206,-7,1
+2021-05-13,Santa Cruz,087,16150,206,0,1
 2021-05-13,Shasta,089,12152,226,26,0
 2021-05-13,Sierra,091,112,0,0,0
 2021-05-13,Siskiyou,093,2245,24,11,0
@@ -3590,7 +3590,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-13,Sutter,101,9436,106,3,0
 2021-05-13,Tehama,103,5572,59,0,0
 2021-05-13,Trinity,105,402,5,2,0
-2021-05-13,Tulare,107,49813,839,159,0
+2021-05-13,Tulare,107,49758,839,104,0
 2021-05-13,Tuolumne,109,4134,66,3,0
 2021-05-13,Ventura,111,81001,1013,23,0
 2021-05-13,Yolo,113,13846,208,15,0
@@ -3781,7 +3781,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-09,Fresno,019,101223,1682,35,0
 2021-05-09,Glenn,021,2321,25,0,0
 2021-05-09,Humboldt,023,3935,39,0,0
-2021-05-09,Imperial,025,27837,718,-51,0
+2021-05-09,Imperial,025,27837,718,0,0
 2021-05-09,Inyo,027,1426,38,0,0
 2021-05-09,Kern,029,109031,1373,38,0
 2021-05-09,Kings,031,22971,246,6,0
@@ -3839,7 +3839,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-08,Fresno,019,101188,1682,32,2
 2021-05-08,Glenn,021,2321,25,0,0
 2021-05-08,Humboldt,023,3935,39,0,0
-2021-05-08,Imperial,025,27888,718,0,0
+2021-05-08,Imperial,025,27837,718,0,0
 2021-05-08,Inyo,027,1426,38,0,0
 2021-05-08,Kern,029,108993,1373,25,6
 2021-05-08,Kings,031,22965,246,17,0
@@ -3897,7 +3897,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-07,Fresno,019,101156,1680,41,0
 2021-05-07,Glenn,021,2321,25,3,0
 2021-05-07,Humboldt,023,3935,39,20,0
-2021-05-07,Imperial,025,27888,718,11,0
+2021-05-07,Imperial,025,27837,718,0,0
 2021-05-07,Inyo,027,1426,38,1,0
 2021-05-07,Kern,029,108968,1367,81,0
 2021-05-07,Kings,031,22948,246,7,0
@@ -3955,7 +3955,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-06,Fresno,019,101115,1680,49,3
 2021-05-06,Glenn,021,2318,25,3,0
 2021-05-06,Humboldt,023,3915,39,12,0
-2021-05-06,Imperial,025,27877,718,15,0
+2021-05-06,Imperial,025,27837,718,0,0
 2021-05-06,Inyo,027,1425,38,0,0
 2021-05-06,Kern,029,108887,1367,65,6
 2021-05-06,Kings,031,22941,246,8,0
@@ -4013,7 +4013,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-05,Fresno,019,101066,1677,54,0
 2021-05-05,Glenn,021,2315,25,3,0
 2021-05-05,Humboldt,023,3903,39,8,0
-2021-05-05,Imperial,025,27862,718,8,0
+2021-05-05,Imperial,025,27837,718,0,0
 2021-05-05,Inyo,027,1425,38,1,0
 2021-05-05,Kern,029,108822,1361,103,3
 2021-05-05,Kings,031,22933,246,22,0
@@ -4071,7 +4071,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-04,Fresno,019,101012,1677,53,0
 2021-05-04,Glenn,021,2312,25,3,0
 2021-05-04,Humboldt,023,3895,39,10,1
-2021-05-04,Imperial,025,27854,718,5,0
+2021-05-04,Imperial,025,27837,718,0,0
 2021-05-04,Inyo,027,1424,38,1,0
 2021-05-04,Kern,029,108719,1358,67,4
 2021-05-04,Kings,031,22911,246,1,0
@@ -4129,7 +4129,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-03,Fresno,019,100959,1677,71,0
 2021-05-03,Glenn,021,2309,25,0,0
 2021-05-03,Humboldt,023,3885,38,33,0
-2021-05-03,Imperial,025,27849,718,20,0
+2021-05-03,Imperial,025,27837,718,8,0
 2021-05-03,Inyo,027,1423,38,1,0
 2021-05-03,Kern,029,108652,1354,24,0
 2021-05-03,Kings,031,22910,246,5,0
@@ -4228,7 +4228,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-02,Sutter,101,9366,104,0,0
 2021-05-02,Tehama,103,5507,58,0,0
 2021-05-02,Trinity,105,398,5,0,0
-2021-05-02,Tulare,107,49471,834,-6,0
+2021-05-02,Tulare,107,49471,834,0,0
 2021-05-02,Tuolumne,109,4105,64,0,0
 2021-05-02,Ventura,111,80617,1009,0,0
 2021-05-02,Yolo,113,13678,205,0,0
@@ -4286,7 +4286,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-05-01,Sutter,101,9366,104,0,0
 2021-05-01,Tehama,103,5507,58,0,0
 2021-05-01,Trinity,105,398,5,0,0
-2021-05-01,Tulare,107,49477,834,0,0
+2021-05-01,Tulare,107,49471,834,0,0
 2021-05-01,Tuolumne,109,4105,64,0,0
 2021-05-01,Ventura,111,80617,1009,0,0
 2021-05-01,Yolo,113,13678,205,0,0
@@ -4344,7 +4344,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-30,Sutter,101,9366,104,5,0
 2021-04-30,Tehama,103,5507,58,0,0
 2021-04-30,Trinity,105,398,5,0,0
-2021-04-30,Tulare,107,49477,834,0,0
+2021-04-30,Tulare,107,49471,834,0,0
 2021-04-30,Tuolumne,109,4105,64,1,0
 2021-04-30,Ventura,111,80617,1009,20,1
 2021-04-30,Yolo,113,13678,205,19,0
@@ -4402,7 +4402,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-29,Sutter,101,9361,104,5,0
 2021-04-29,Tehama,103,5507,58,0,0
 2021-04-29,Trinity,105,398,5,0,0
-2021-04-29,Tulare,107,49477,834,-33,0
+2021-04-29,Tulare,107,49471,834,0,0
 2021-04-29,Tuolumne,109,4104,64,1,0
 2021-04-29,Ventura,111,80597,1008,21,0
 2021-04-29,Yolo,113,13659,205,18,0
@@ -4460,7 +4460,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-28,Sutter,101,9356,104,5,0
 2021-04-28,Tehama,103,5507,58,13,1
 2021-04-28,Trinity,105,398,5,0,0
-2021-04-28,Tulare,107,49510,834,0,0
+2021-04-28,Tulare,107,49471,834,0,0
 2021-04-28,Tuolumne,109,4103,64,2,0
 2021-04-28,Ventura,111,80576,1008,22,1
 2021-04-28,Yolo,113,13641,205,22,0
@@ -4518,7 +4518,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-27,Sutter,101,9351,104,3,0
 2021-04-27,Tehama,103,5494,57,15,0
 2021-04-27,Trinity,105,398,5,0,0
-2021-04-27,Tulare,107,49510,834,0,1
+2021-04-27,Tulare,107,49471,834,0,1
 2021-04-27,Tuolumne,109,4101,64,3,-1
 2021-04-27,Ventura,111,80554,1007,52,0
 2021-04-27,Yolo,113,13619,205,0,0
@@ -4576,7 +4576,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-26,Sutter,101,9348,104,22,0
 2021-04-26,Tehama,103,5479,57,0,0
 2021-04-26,Trinity,105,398,5,0,0
-2021-04-26,Tulare,107,49510,833,17,1
+2021-04-26,Tulare,107,49471,833,0,1
 2021-04-26,Tuolumne,109,4098,65,5,1
 2021-04-26,Ventura,111,80502,1007,72,1
 2021-04-26,Yolo,113,13619,205,46,0
@@ -4634,7 +4634,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-25,Sutter,101,9326,104,0,0
 2021-04-25,Tehama,103,5479,57,0,0
 2021-04-25,Trinity,105,398,5,0,0
-2021-04-25,Tulare,107,49493,832,0,0
+2021-04-25,Tulare,107,49471,832,0,0
 2021-04-25,Tuolumne,109,4093,64,0,0
 2021-04-25,Ventura,111,80430,1006,0,0
 2021-04-25,Yolo,113,13573,205,0,0
@@ -4692,7 +4692,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-24,Sutter,101,9326,104,0,0
 2021-04-24,Tehama,103,5479,57,11,0
 2021-04-24,Trinity,105,398,5,0,0
-2021-04-24,Tulare,107,49493,832,0,0
+2021-04-24,Tulare,107,49471,832,0,0
 2021-04-24,Tuolumne,109,4093,64,0,0
 2021-04-24,Ventura,111,80430,1006,0,0
 2021-04-24,Yolo,113,13573,205,0,0
@@ -4750,7 +4750,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-04-23,Sutter,101,9326,104,4,0
 2021-04-23,Tehama,103,5468,57,9,0
 2021-04-23,Trinity,105,398,5,0,0
-2021-04-23,Tulare,107,49493,832,24,1
+2021-04-23,Tulare,107,49471,832,2,1
 2021-04-23,Tuolumne,109,4093,64,2,0
 2021-04-23,Ventura,111,80430,1006,32,4
 2021-04-23,Yolo,113,13573,205,23,0
@@ -7957,7 +7957,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-26,Fresno,019,95635,1422,143,10
 2021-02-26,Glenn,021,2181,23,10,0
 2021-02-26,Humboldt,023,3180,33,20,0
-2021-02-26,Imperial,025,26594,593,-4,4
+2021-02-26,Imperial,025,26594,593,0,4
 2021-02-26,Inyo,027,1298,37,11,1
 2021-02-26,Kern,029,102998,826,371,15
 2021-02-26,Kings,031,22003,218,52,0
@@ -8015,7 +8015,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-25,Fresno,019,95492,1412,146,11
 2021-02-25,Glenn,021,2171,23,0,0
 2021-02-25,Humboldt,023,3160,33,9,0
-2021-02-25,Imperial,025,26598,589,22,1
+2021-02-25,Imperial,025,26594,589,18,1
 2021-02-25,Inyo,027,1287,36,6,0
 2021-02-25,Kern,029,102627,811,295,25
 2021-02-25,Kings,031,21951,218,35,0
@@ -8189,7 +8189,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-22,Fresno,019,95021,1367,146,0
 2021-02-22,Glenn,021,2167,23,6,0
 2021-02-22,Humboldt,023,3124,32,57,0
-2021-02-22,Imperial,025,26574,587,-266,3
+2021-02-22,Imperial,025,26574,587,0,3
 2021-02-22,Inyo,027,1277,34,34,0
 2021-02-22,Kern,029,101849,783,111,10
 2021-02-22,Kings,031,21881,216,24,1
@@ -8247,7 +8247,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-21,Fresno,019,94875,1367,87,0
 2021-02-21,Glenn,021,2161,23,0,0
 2021-02-21,Humboldt,023,3067,32,0,0
-2021-02-21,Imperial,025,26840,584,0,0
+2021-02-21,Imperial,025,26574,584,0,0
 2021-02-21,Inyo,027,1243,34,0,0
 2021-02-21,Kern,029,101738,773,125,12
 2021-02-21,Kings,031,21857,215,4,1
@@ -8305,7 +8305,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-20,Fresno,019,94788,1367,130,0
 2021-02-20,Glenn,021,2161,23,0,0
 2021-02-20,Humboldt,023,3067,32,0,0
-2021-02-20,Imperial,025,26840,584,0,0
+2021-02-20,Imperial,025,26574,584,0,0
 2021-02-20,Inyo,027,1243,34,0,0
 2021-02-20,Kern,029,101613,761,243,20
 2021-02-20,Kings,031,21853,214,56,1
@@ -8363,7 +8363,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-19,Fresno,019,94658,1367,168,11
 2021-02-19,Glenn,021,2161,23,4,0
 2021-02-19,Humboldt,023,3067,32,14,0
-2021-02-19,Imperial,025,26840,584,23,0
+2021-02-19,Imperial,025,26574,584,0,0
 2021-02-19,Inyo,027,1243,34,3,0
 2021-02-19,Kern,029,101370,741,213,14
 2021-02-19,Kings,031,21797,213,77,0
@@ -8421,7 +8421,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-18,Fresno,019,94490,1356,132,7
 2021-02-18,Glenn,021,2157,23,3,0
 2021-02-18,Humboldt,023,3053,32,17,0
-2021-02-18,Imperial,025,26817,584,20,0
+2021-02-18,Imperial,025,26574,584,0,0
 2021-02-18,Inyo,027,1240,34,16,0
 2021-02-18,Kern,029,101157,727,308,37
 2021-02-18,Kings,031,21720,213,24,0
@@ -8479,7 +8479,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-17,Fresno,019,94358,1349,171,8
 2021-02-17,Glenn,021,2154,23,16,0
 2021-02-17,Humboldt,023,3036,32,11,0
-2021-02-17,Imperial,025,26797,584,18,0
+2021-02-17,Imperial,025,26574,584,0,0
 2021-02-17,Inyo,027,1224,34,7,0
 2021-02-17,Kern,029,100849,690,263,3
 2021-02-17,Kings,031,21696,213,38,4
@@ -8537,7 +8537,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-16,Fresno,019,94187,1341,199,50
 2021-02-16,Glenn,021,2138,23,0,0
 2021-02-16,Humboldt,023,3025,32,0,0
-2021-02-16,Imperial,025,26779,584,163,0
+2021-02-16,Imperial,025,26574,584,0,0
 2021-02-16,Inyo,027,1217,34,24,0
 2021-02-16,Kern,029,100586,687,152,0
 2021-02-16,Kings,031,21658,209,11,1
@@ -8595,7 +8595,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-15,Fresno,019,93988,1291,165,0
 2021-02-15,Glenn,021,2138,23,0,0
 2021-02-15,Humboldt,023,3025,32,16,0
-2021-02-15,Imperial,025,26616,584,0,0
+2021-02-15,Imperial,025,26574,584,0,0
 2021-02-15,Inyo,027,1193,34,0,0
 2021-02-15,Kern,029,100434,687,144,0
 2021-02-15,Kings,031,21647,208,37,0
@@ -8653,7 +8653,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-14,Fresno,019,93823,1291,107,0
 2021-02-14,Glenn,021,2138,23,0,0
 2021-02-14,Humboldt,023,3009,32,0,0
-2021-02-14,Imperial,025,26616,584,0,0
+2021-02-14,Imperial,025,26574,584,0,0
 2021-02-14,Inyo,027,1193,34,0,0
 2021-02-14,Kern,029,100290,687,265,0
 2021-02-14,Kings,031,21610,208,25,0
@@ -8711,7 +8711,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-13,Fresno,019,93716,1291,148,0
 2021-02-13,Glenn,021,2138,23,0,0
 2021-02-13,Humboldt,023,3009,32,0,0
-2021-02-13,Imperial,025,26616,584,0,0
+2021-02-13,Imperial,025,26574,584,0,0
 2021-02-13,Inyo,027,1193,34,0,0
 2021-02-13,Kern,029,100025,687,455,10
 2021-02-13,Kings,031,21585,208,52,3
@@ -8769,7 +8769,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-12,Fresno,019,93568,1291,153,0
 2021-02-12,Glenn,021,2138,23,5,0
 2021-02-12,Humboldt,023,3009,32,0,0
-2021-02-12,Imperial,025,26616,584,27,0
+2021-02-12,Imperial,025,26574,584,0,0
 2021-02-12,Inyo,027,1193,34,13,0
 2021-02-12,Kern,029,99570,677,483,0
 2021-02-12,Kings,031,21533,205,90,0
@@ -8827,7 +8827,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-02-11,Fresno,019,93415,1291,172,8
 2021-02-11,Glenn,021,2133,23,44,0
 2021-02-11,Humboldt,023,3009,32,33,0
-2021-02-11,Imperial,025,26589,584,40,10
+2021-02-11,Imperial,025,26574,584,25,10
 2021-02-11,Inyo,027,1180,34,4,0
 2021-02-11,Kern,029,99087,677,451,13
 2021-02-11,Kings,031,21443,205,83,5
@@ -14864,7 +14864,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-30,Kern,029,34308,423,154,1
 2020-10-30,Kings,031,8456,83,35,0
 2020-10-30,Lake,033,703,17,0,0
-2020-10-30,Lassen,035,771,1,6,0
+2020-10-30,Lassen,035,771,1,5,0
 2020-10-30,Los Angeles,037,306388,7057,1263,13
 2020-10-30,Madera,039,5094,76,28,0
 2020-10-30,Marin,041,7131,127,10,0
@@ -14922,7 +14922,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-29,Kern,029,34154,422,40,2
 2020-10-29,Kings,031,8421,83,43,0
 2020-10-29,Lake,033,703,17,1,1
-2020-10-29,Lassen,035,765,1,0,0
+2020-10-29,Lassen,035,766,1,0,0
 2020-10-29,Los Angeles,037,305125,7044,1605,1
 2020-10-29,Madera,039,5066,76,9,0
 2020-10-29,Marin,041,7121,127,14,0
@@ -14980,7 +14980,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-28,Kern,029,34114,420,87,0
 2020-10-28,Kings,031,8378,83,8,0
 2020-10-28,Lake,033,702,16,2,0
-2020-10-28,Lassen,035,765,1,0,0
+2020-10-28,Lassen,035,766,1,0,0
 2020-10-28,Los Angeles,037,303520,7043,1418,16
 2020-10-28,Madera,039,5057,76,20,2
 2020-10-28,Marin,041,7107,127,8,0
@@ -15038,7 +15038,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-27,Kern,029,34027,420,99,4
 2020-10-27,Kings,031,8370,83,131,0
 2020-10-27,Lake,033,700,16,2,0
-2020-10-27,Lassen,035,765,1,-1,0
+2020-10-27,Lassen,035,766,1,0,0
 2020-10-27,Los Angeles,037,302102,7027,1440,27
 2020-10-27,Madera,039,5037,74,17,0
 2020-10-27,Marin,041,7099,127,3,0
@@ -15850,7 +15850,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-13,Kern,029,33089,397,69,2
 2020-10-13,Kings,031,8096,82,4,0
 2020-10-13,Lake,033,638,14,8,1
-2020-10-13,Lassen,035,749,1,1,0
+2020-10-13,Lassen,035,749,1,0,0
 2020-10-13,Los Angeles,037,283793,6793,770,20
 2020-10-13,Madera,039,4796,71,10,0
 2020-10-13,Marin,041,6934,124,14,0
@@ -15908,14 +15908,14 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-12,Kern,029,33020,395,54,0
 2020-10-12,Kings,031,8092,82,23,0
 2020-10-12,Lake,033,630,13,2,0
-2020-10-12,Lassen,035,748,1,-1,0
+2020-10-12,Lassen,035,749,1,0,0
 2020-10-12,Los Angeles,037,283023,6773,888,2
 2020-10-12,Madera,039,4786,71,38,0
 2020-10-12,Marin,041,6920,124,18,0
 2020-10-12,Mariposa,043,77,2,0,0
 2020-10-12,Mendocino,045,1050,21,5,0
 2020-10-12,Merced,047,9149,150,0,0
-2020-10-12,Modoc,049,27,0,-1,0
+2020-10-12,Modoc,049,27,0,0,0
 2020-10-12,Mono,051,173,2,0,0
 2020-10-12,Monterey,053,10684,80,25,0
 2020-10-12,Napa,055,1817,13,24,1
@@ -15973,7 +15973,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-11,Mariposa,043,77,2,0,0
 2020-10-11,Mendocino,045,1045,21,3,0
 2020-10-11,Merced,047,9149,150,0,0
-2020-10-11,Modoc,049,28,0,0,0
+2020-10-11,Modoc,049,27,0,0,0
 2020-10-11,Mono,051,173,2,1,0
 2020-10-11,Monterey,053,10659,80,33,2
 2020-10-11,Napa,055,1793,12,0,0
@@ -16031,7 +16031,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-10,Mariposa,043,77,2,0,0
 2020-10-10,Mendocino,045,1042,21,7,0
 2020-10-10,Merced,047,9149,150,0,0
-2020-10-10,Modoc,049,28,0,0,0
+2020-10-10,Modoc,049,27,0,0,0
 2020-10-10,Mono,051,172,2,0,0
 2020-10-10,Monterey,053,10626,78,39,0
 2020-10-10,Napa,055,1793,12,0,0
@@ -16089,7 +16089,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-09,Mariposa,043,77,2,0,0
 2020-10-09,Mendocino,045,1035,21,5,0
 2020-10-09,Merced,047,9149,150,19,0
-2020-10-09,Modoc,049,28,0,0,0
+2020-10-09,Modoc,049,27,0,0,0
 2020-10-09,Mono,051,172,2,2,0
 2020-10-09,Monterey,053,10587,78,27,0
 2020-10-09,Napa,055,1793,12,16,0
@@ -16147,7 +16147,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-08,Mariposa,043,77,2,0,0
 2020-10-08,Mendocino,045,1030,21,5,0
 2020-10-08,Merced,047,9130,150,19,1
-2020-10-08,Modoc,049,28,0,0,0
+2020-10-08,Modoc,049,27,0,0,0
 2020-10-08,Mono,051,170,2,1,0
 2020-10-08,Monterey,053,10560,78,85,0
 2020-10-08,Napa,055,1777,12,7,0
@@ -16205,7 +16205,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-07,Mariposa,043,77,2,0,0
 2020-10-07,Mendocino,045,1025,21,4,0
 2020-10-07,Merced,047,9111,149,21,0
-2020-10-07,Modoc,049,28,0,0,0
+2020-10-07,Modoc,049,27,0,0,0
 2020-10-07,Mono,051,169,2,0,0
 2020-10-07,Monterey,053,10475,78,42,3
 2020-10-07,Napa,055,1770,12,4,0
@@ -16263,7 +16263,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-06,Mariposa,043,77,2,1,0
 2020-10-06,Mendocino,045,1021,21,11,1
 2020-10-06,Merced,047,9090,149,9,1
-2020-10-06,Modoc,049,28,0,0,0
+2020-10-06,Modoc,049,27,0,0,0
 2020-10-06,Mono,051,169,2,0,0
 2020-10-06,Monterey,053,10433,75,31,0
 2020-10-06,Napa,055,1766,12,8,0
@@ -16321,7 +16321,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-10-05,Mariposa,043,76,2,0,0
 2020-10-05,Mendocino,045,1010,20,5,0
 2020-10-05,Merced,047,9081,148,48,3
-2020-10-05,Modoc,049,28,0,1,0
+2020-10-05,Modoc,049,27,0,0,0
 2020-10-05,Mono,051,169,2,0,0
 2020-10-05,Monterey,053,10402,75,43,0
 2020-10-05,Napa,055,1758,12,24,0
@@ -19399,7 +19399,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-13,Mono,051,160,1,0,0
 2020-08-13,Monterey,053,5803,40,175,1
 2020-08-13,Napa,055,1170,11,28,0
-2020-08-13,Nevada,057,362,1,7,0
+2020-08-13,Nevada,057,362,1,5,0
 2020-08-13,Orange,059,42171,769,348,24
 2020-08-13,Placer,061,2486,27,73,1
 2020-08-13,Plumas,063,39,0,1,0
@@ -19457,7 +19457,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-12,Mono,051,160,1,2,0
 2020-08-12,Monterey,053,5628,39,134,2
 2020-08-12,Napa,055,1142,11,13,0
-2020-08-12,Nevada,057,355,1,0,0
+2020-08-12,Nevada,057,357,1,0,0
 2020-08-12,Orange,059,41823,745,245,11
 2020-08-12,Placer,061,2413,26,36,2
 2020-08-12,Plumas,063,38,0,1,0
@@ -19515,7 +19515,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-11,Mono,051,158,1,0,0
 2020-08-11,Monterey,053,5494,37,48,2
 2020-08-11,Napa,055,1129,11,55,0
-2020-08-11,Nevada,057,355,1,-2,0
+2020-08-11,Nevada,057,357,1,0,0
 2020-08-11,Orange,059,41578,734,1051,10
 2020-08-11,Placer,061,2377,24,58,2
 2020-08-11,Plumas,063,37,0,1,0
@@ -19936,7 +19936,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-04,San Mateo,081,5744,120,61,1
 2020-08-04,Santa Barbara,083,6526,64,62,3
 2020-08-04,Santa Clara,085,12748,205,302,3
-2020-08-04,Santa Cruz,087,1196,4,45,0
+2020-08-04,Santa Cruz,087,1196,4,44,0
 2020-08-04,Shasta,089,397,9,7,0
 2020-08-04,Sierra,091,3,0,1,0
 2020-08-04,Siskiyou,093,88,0,7,0
@@ -19994,7 +19994,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-03,San Mateo,081,5683,119,139,0
 2020-08-03,Santa Barbara,083,6464,61,297,1
 2020-08-03,Santa Clara,085,12446,202,170,3
-2020-08-03,Santa Cruz,087,1151,4,0,0
+2020-08-03,Santa Cruz,087,1152,4,0,0
 2020-08-03,Shasta,089,390,9,21,0
 2020-08-03,Sierra,091,2,0,0,0
 2020-08-03,Siskiyou,093,81,0,8,0
@@ -20052,7 +20052,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-08-02,San Mateo,081,5544,119,0,0
 2020-08-02,Santa Barbara,083,6167,60,0,0
 2020-08-02,Santa Clara,085,12276,199,84,2
-2020-08-02,Santa Cruz,087,1151,4,-1,0
+2020-08-02,Santa Cruz,087,1152,4,0,0
 2020-08-02,Shasta,089,369,9,0,0
 2020-08-02,Sierra,091,2,0,0,0
 2020-08-02,Siskiyou,093,73,0,0,0
@@ -24041,7 +24041,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-25,Napa,055,101,3,0,0
 2020-05-25,Nevada,057,41,1,0,0
 2020-05-25,Orange,059,5469,131,133,0
-2020-05-25,Placer,061,185,9,1,0
+2020-05-25,Placer,061,185,9,0,0
 2020-05-25,Plumas,063,4,0,0,0
 2020-05-25,Riverside,065,7004,292,540,2
 2020-05-25,Sacramento,067,1302,56,9,0
@@ -24099,7 +24099,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-24,Napa,055,101,3,0,0
 2020-05-24,Nevada,057,41,1,0,0
 2020-05-24,Orange,059,5336,131,179,1
-2020-05-24,Placer,061,184,9,-1,0
+2020-05-24,Placer,061,185,9,0,0
 2020-05-24,Plumas,063,4,0,0,0
 2020-05-24,Riverside,065,6464,290,0,0
 2020-05-24,Sacramento,067,1293,56,4,0
@@ -24146,7 +24146,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-23,Lake,033,12,0,0,0
 2020-05-23,Lassen,035,2,0,0,0
 2020-05-23,Los Angeles,037,44121,2092,1036,41
-2020-05-23,Madera,039,84,2,2,0
+2020-05-23,Madera,039,84,2,1,0
 2020-05-23,Marin,041,388,14,19,0
 2020-05-23,Mariposa,043,15,1,0,0
 2020-05-23,Mendocino,045,21,0,0,0
@@ -24204,7 +24204,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-22,Lake,033,12,0,0,0
 2020-05-22,Lassen,035,2,0,2,0
 2020-05-22,Los Angeles,037,43085,2051,947,30
-2020-05-22,Madera,039,82,2,-1,0
+2020-05-22,Madera,039,83,2,0,0
 2020-05-22,Marin,041,369,14,17,0
 2020-05-22,Mariposa,043,15,1,0,0
 2020-05-22,Mendocino,045,21,0,6,0
@@ -24215,7 +24215,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-22,Napa,055,96,3,1,0
 2020-05-22,Nevada,057,41,1,0,0
 2020-05-22,Orange,059,4941,118,100,6
-2020-05-22,Placer,061,184,9,8,1
+2020-05-22,Placer,061,184,9,7,1
 2020-05-22,Plumas,063,4,0,0,0
 2020-05-22,Riverside,065,6464,290,121,6
 2020-05-22,Sacramento,067,1272,56,6,0
@@ -24273,7 +24273,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-21,Napa,055,95,3,1,0
 2020-05-21,Nevada,057,41,1,0,0
 2020-05-21,Orange,059,4841,112,99,14
-2020-05-21,Placer,061,176,8,0,0
+2020-05-21,Placer,061,177,8,0,0
 2020-05-21,Plumas,063,4,0,0,0
 2020-05-21,Riverside,065,6343,284,159,14
 2020-05-21,Sacramento,067,1266,56,11,0
@@ -24331,7 +24331,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-20,Napa,055,94,3,2,0
 2020-05-20,Nevada,057,41,1,0,0
 2020-05-20,Orange,059,4742,98,242,10
-2020-05-20,Placer,061,176,8,-1,0
+2020-05-20,Placer,061,177,8,0,0
 2020-05-20,Plumas,063,4,0,0,0
 2020-05-20,Riverside,065,6184,270,131,0
 2020-05-20,Sacramento,067,1255,56,5,0
@@ -25225,7 +25225,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-05,Tehama,103,1,1,0,0
 2020-05-05,Trinity,105,0,0,0,0
 2020-05-05,Tulare,107,858,40,101,0
-2020-05-05,Tuolumne,109,2,0,-2,0
+2020-05-05,Tuolumne,109,2,0,0,0
 2020-05-05,Ventura,111,595,19,18,0
 2020-05-05,Yolo,113,172,19,1,0
 2020-05-05,Yuba,115,19,1,0,0
@@ -25283,7 +25283,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-04,Tehama,103,1,1,0,0
 2020-05-04,Trinity,105,0,0,0,0
 2020-05-04,Tulare,107,757,40,14,0
-2020-05-04,Tuolumne,109,4,0,0,0
+2020-05-04,Tuolumne,109,2,0,0,0
 2020-05-04,Ventura,111,577,19,11,0
 2020-05-04,Yolo,113,171,19,0,2
 2020-05-04,Yuba,115,19,1,0,0
@@ -25341,7 +25341,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-03,Tehama,103,1,1,0,0
 2020-05-03,Trinity,105,0,0,0,0
 2020-05-03,Tulare,107,743,40,23,0
-2020-05-03,Tuolumne,109,4,0,0,0
+2020-05-03,Tuolumne,109,2,0,0,0
 2020-05-03,Ventura,111,566,19,7,0
 2020-05-03,Yolo,113,171,17,0,1
 2020-05-03,Yuba,115,19,1,0,0
@@ -25399,7 +25399,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-02,Tehama,103,1,1,0,0
 2020-05-02,Trinity,105,0,0,0,0
 2020-05-02,Tulare,107,720,40,40,0
-2020-05-02,Tuolumne,109,4,0,0,0
+2020-05-02,Tuolumne,109,2,0,0,0
 2020-05-02,Ventura,111,559,19,15,1
 2020-05-02,Yolo,113,171,16,2,0
 2020-05-02,Yuba,115,19,1,0,0
@@ -25457,7 +25457,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-05-01,Tehama,103,1,1,0,0
 2020-05-01,Trinity,105,0,0,0,0
 2020-05-01,Tulare,107,680,40,40,0
-2020-05-01,Tuolumne,109,4,0,0,0
+2020-05-01,Tuolumne,109,2,0,0,0
 2020-05-01,Ventura,111,544,18,9,0
 2020-05-01,Yolo,113,169,16,5,0
 2020-05-01,Yuba,115,19,1,1,0
@@ -25515,7 +25515,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-30,Tehama,103,1,1,0,0
 2020-04-30,Trinity,105,0,0,0,0
 2020-04-30,Tulare,107,640,40,14,4
-2020-04-30,Tuolumne,109,4,0,0,0
+2020-04-30,Tuolumne,109,2,0,0,0
 2020-04-30,Ventura,111,535,18,18,1
 2020-04-30,Yolo,113,164,16,1,0
 2020-04-30,Yuba,115,18,1,1,0
@@ -25573,7 +25573,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-29,Tehama,103,1,1,0,0
 2020-04-29,Trinity,105,0,0,,
 2020-04-29,Tulare,107,626,36,48,1
-2020-04-29,Tuolumne,109,4,0,0,0
+2020-04-29,Tuolumne,109,2,0,0,0
 2020-04-29,Ventura,111,517,17,9,0
 2020-04-29,Yolo,113,163,16,1,0
 2020-04-29,Yuba,115,17,1,0,0
@@ -25627,7 +25627,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-28,Sutter,101,29,2,0,0
 2020-04-28,Tehama,103,1,1,0,0
 2020-04-28,Tulare,107,578,35,46,3
-2020-04-28,Tuolumne,109,4,0,0,0
+2020-04-28,Tuolumne,109,2,0,0,0
 2020-04-28,Ventura,111,508,17,5,0
 2020-04-28,Yolo,113,162,16,1,0
 2020-04-28,Yuba,115,17,1,1,0
@@ -25656,7 +25656,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-27,Mono,051,26,1,2,0
 2020-04-27,Monterey,053,185,4,2,0
 2020-04-27,Napa,055,64,2,4,0
-2020-04-27,Nevada,057,39,1,2,0
+2020-04-27,Nevada,057,39,1,1,0
 2020-04-27,Orange,059,2099,39,48,0
 2020-04-27,Placer,061,143,8,2,0
 2020-04-27,Plumas,063,4,0,0,0
@@ -25680,7 +25680,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-27,Sutter,101,29,2,0,0
 2020-04-27,Tehama,103,1,1,0,0
 2020-04-27,Tulare,107,532,32,28,0
-2020-04-27,Tuolumne,109,4,0,1,0
+2020-04-27,Tuolumne,109,2,0,0,0
 2020-04-27,Ventura,111,503,17,6,0
 2020-04-27,Yolo,113,161,16,0,2
 2020-04-27,Yuba,115,16,1,0,0
@@ -25709,7 +25709,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-26,Mono,051,24,1,0,0
 2020-04-26,Monterey,053,183,4,7,0
 2020-04-26,Napa,055,60,2,0,0
-2020-04-26,Nevada,057,37,1,0,0
+2020-04-26,Nevada,057,38,1,0,0
 2020-04-26,Orange,059,2051,39,99,1
 2020-04-26,Placer,061,141,8,2,0
 2020-04-26,Plumas,063,4,0,0,0
@@ -25733,7 +25733,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-26,Sutter,101,29,2,0,0
 2020-04-26,Tehama,103,1,1,0,0
 2020-04-26,Tulare,107,504,32,13,0
-2020-04-26,Tuolumne,109,3,0,0,0
+2020-04-26,Tuolumne,109,2,0,0,0
 2020-04-26,Ventura,111,497,17,1,1
 2020-04-26,Yolo,113,161,14,3,1
 2020-04-26,Yuba,115,16,1,0,0
@@ -25762,7 +25762,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-25,Mono,051,24,1,0,0
 2020-04-25,Monterey,053,176,4,7,0
 2020-04-25,Napa,055,60,2,2,0
-2020-04-25,Nevada,057,37,1,0,0
+2020-04-25,Nevada,057,38,1,0,0
 2020-04-25,Orange,059,1952,38,118,2
 2020-04-25,Placer,061,139,8,0,0
 2020-04-25,Plumas,063,4,0,0,0
@@ -25786,7 +25786,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-25,Sutter,101,29,2,1,0
 2020-04-25,Tehama,103,1,1,0,0
 2020-04-25,Tulare,107,491,32,19,4
-2020-04-25,Tuolumne,109,3,0,1,0
+2020-04-25,Tuolumne,109,2,0,0,0
 2020-04-25,Ventura,111,496,16,20,0
 2020-04-25,Yolo,113,158,13,1,0
 2020-04-25,Yuba,115,16,1,0,0
@@ -25815,7 +25815,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-24,Mono,051,24,1,0,0
 2020-04-24,Monterey,053,169,4,5,0
 2020-04-24,Napa,055,58,2,1,0
-2020-04-24,Nevada,057,37,1,1,0
+2020-04-24,Nevada,057,38,1,0,0
 2020-04-24,Orange,059,1834,36,31,0
 2020-04-24,Placer,061,139,8,3,0
 2020-04-24,Plumas,063,4,0,0,0
@@ -25868,7 +25868,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-23,Mono,051,24,1,0,0
 2020-04-23,Monterey,053,164,4,10,0
 2020-04-23,Napa,055,57,2,0,0
-2020-04-23,Nevada,057,36,1,0,0
+2020-04-23,Nevada,057,38,1,0,0
 2020-04-23,Orange,059,1803,36,67,2
 2020-04-23,Placer,061,136,8,3,0
 2020-04-23,Plumas,063,4,0,0,0
@@ -25921,7 +25921,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-04-22,Mono,051,24,1,0,0
 2020-04-22,Monterey,053,154,4,4,0
 2020-04-22,Napa,055,57,2,3,0
-2020-04-22,Nevada,057,36,1,-2,0
+2020-04-22,Nevada,057,38,1,0,0
 2020-04-22,Orange,059,1736,34,66,1
 2020-04-22,Placer,061,133,8,0,0
 2020-04-22,Plumas,063,4,0,0,0
@@ -27880,7 +27880,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-10,San Benito,069,2,0,0,0
 2020-03-10,San Diego,073,2,0,0,0
 2020-03-10,San Francisco,075,14,0,1,0
-2020-03-10,San Joaquin,077,2,0,-1,0
+2020-03-10,San Joaquin,077,2,0,0,0
 2020-03-10,San Mateo,081,9,0,0,0
 2020-03-10,Santa Clara,085,89,5,15,0
 2020-03-10,Santa Cruz,087,2,0,0,0
@@ -27905,7 +27905,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-09,San Benito,069,2,0,0,0
 2020-03-09,San Diego,073,2,0,1,0
 2020-03-09,San Francisco,075,13,0,5,0
-2020-03-09,San Joaquin,077,3,0,1,0
+2020-03-09,San Joaquin,077,2,0,0,0
 2020-03-09,San Mateo,081,9,0,7,0
 2020-03-09,Santa Clara,085,74,5,17,2
 2020-03-09,Santa Cruz,087,2,0,1,0
@@ -28061,7 +28061,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-03,Stanislaus,099,0,0,0,0
 2020-03-03,Ventura,111,0,0,0,0
 2020-03-03,Yolo,113,0,0,0,0
-2020-03-02,Alameda,001,3,0,1,0
+2020-03-02,Alameda,001,3,0,0,0
 2020-03-02,Calaveras,009,0,0,0,0
 2020-03-02,Contra Costa,013,1,0,1,0
 2020-03-02,Fresno,019,2,0,1,0
@@ -28085,7 +28085,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2020-03-02,Stanislaus,099,0,0,0,0
 2020-03-02,Ventura,111,0,0,0,0
 2020-03-02,Yolo,113,0,0,0,0
-2020-03-01,Alameda,001,2,0,-1,0
+2020-03-01,Alameda,001,3,0,0,0
 2020-03-01,Calaveras,009,0,0,0,0
 2020-03-01,Contra Costa,013,0,0,0,0
 2020-03-01,Fresno,019,1,0,0,0
