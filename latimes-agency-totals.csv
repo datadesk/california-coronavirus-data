@@ -1,53 +1,53 @@
 agency,county,fips,date,confirmed_cases,deaths,did_not_update
 Alameda,Alameda,001,2021-07-14,88013,1221,
 Berkeley,Alameda,001,2021-07-14,3730,50,
-Alpine,Alpine,003,2021-07-14,,,TRUE
-Amador,Amador,005,2021-07-14,,,TRUE
-Butte,Butte,007,2021-07-14,,,TRUE
+Alpine,Alpine,003,2021-07-14,89,0,TRUE
+Amador,Amador,005,2021-07-14,3747,48,TRUE
+Butte,Butte,007,2021-07-14,12390,198,TRUE
 Calaveras,Calaveras,009,2021-07-14,2251,58,
-Colusa,Colusa,011,2021-07-14,,,TRUE
+Colusa,Colusa,011,2021-07-14,2322,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-14,72442,821,
 Del Norte,Del Norte,015,2021-07-14,1518,8,
 El Dorado,El Dorado,017,2021-07-14,10633,118,
 Fresno,Fresno,019,2021-07-14,102909,1730,
 Glenn,Glenn,021,2021-07-14,2382,27,
 Humboldt,Humboldt,023,2021-07-14,4703,53,
-Imperial,Imperial,025,2021-07-14,,,TRUE
-Inyo,Inyo,027,2021-07-14,,,TRUE
+Imperial,Imperial,025,2021-07-14,28559,745,TRUE
+Inyo,Inyo,027,2021-07-14,1444,38,TRUE
 Kern,Kern,029,2021-07-14,111571,1413,
-Kings,Kings,031,2021-07-14,,,TRUE
-Lake,Lake,033,2021-07-14,,,TRUE
+Kings,Kings,031,2021-07-14,23146,248,TRUE
+Lake,Lake,033,2021-07-14,3692,63,TRUE
 Lassen,Lassen,035,2021-07-14,5857,26,
 Long Beach,Los Angeles,037,2021-07-14,54201,947,
 Los Angeles,Los Angeles,037,2021-07-14,1195492,23265,
 Pasadena,Los Angeles,037,2021-07-14,11471,351,
-Madera,Madera,039,2021-07-14,,,TRUE
-Marin,Marin,041,2021-07-14,,,TRUE
+Madera,Madera,039,2021-07-14,16686,248,TRUE
+Marin,Marin,041,2021-07-14,14374,213,TRUE
 Mariposa,Mariposa,043,2021-07-14,469,7,
 Mendocino,Mendocino,045,2021-07-14,4460,50,
 Merced,Merced,047,2021-07-14,32541,483,
-Modoc,Modoc,049,2021-07-14,,,TRUE
-Mono,Mono,051,2021-07-14,,,TRUE
+Modoc,Modoc,049,2021-07-14,573,7,TRUE
+Mono,Mono,051,2021-07-14,1304,5,TRUE
 Monterey,Monterey,053,2021-07-14,44087,507,
 Napa,Napa,055,2021-07-14,10146,80,
 Nevada,Nevada,057,2021-07-14,5061,75,
-Orange,Orange,059,2021-07-14,,,TRUE
+Orange,Orange,059,2021-07-14,257826,5133,TRUE
 Placer,Placer,061,2021-07-14,24176,304,
-Plumas,Plumas,063,2021-07-14,,,TRUE
+Plumas,Plumas,063,2021-07-14,742,6,TRUE
 Riverside,Riverside,065,2021-07-14,302069,4647,
 Sacramento,Sacramento,067,2021-07-14,110639,1754,
 San Benito,San Benito,069,2021-07-14,6196,63,
 San Bernardino,San Bernardino,071,2021-07-14,301802,4796,
-San Diego,San Diego,073,2021-07-14,,,TRUE
+San Diego,San Diego,073,2021-07-14,284996,3785,TRUE
 San Francisco,San Francisco,075,2021-07-14,37661,557,
 San Joaquin,San Joaquin,077,2021-07-14,75500,1446,
-San Luis Obispo,San Luis Obispo,079,2021-07-14,,,TRUE
+San Luis Obispo,San Luis Obispo,079,2021-07-14,21588,264,TRUE
 San Mateo,San Mateo,081,2021-07-14,42947,583,
 Santa Barbara,Santa Barbara,083,2021-07-14,34849,458,
 Santa Clara,Santa Clara,085,2021-07-14,120313,1702,
-Santa Cruz,Santa Cruz,087,2021-07-14,,,TRUE
-Shasta,Shasta,089,2021-07-14,,,TRUE
-Sierra,Sierra,091,2021-07-14,,,TRUE
+Santa Cruz,Santa Cruz,087,2021-07-14,16351,207,TRUE
+Shasta,Shasta,089,2021-07-14,12614,238,TRUE
+Sierra,Sierra,091,2021-07-14,123,0,TRUE
 Siskiyou,Siskiyou,093,2021-07-14,2466,40,
 Solano,Solano,095,2021-07-14,34461,245,
 Sonoma,Sonoma,097,2021-07-14,31547,323,
