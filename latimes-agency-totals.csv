@@ -1,5 +1,5 @@
 agency,county,fips,date,confirmed_cases,deaths,did_not_update
-Alameda,Alameda,001,2021-07-14,88013,1221,
+Alameda,Alameda,001,2021-07-14,88013,1220,
 Berkeley,Alameda,001,2021-07-14,3730,50,
 Alpine,Alpine,003,2021-07-14,89,0,TRUE
 Amador,Amador,005,2021-07-14,3751,48,
@@ -60,7 +60,7 @@ Tuolumne,Tuolumne,109,2021-07-14,4280,72,
 Ventura,Ventura,111,2021-07-14,82160,1032,
 Yolo,Yolo,113,2021-07-14,14291,211,
 Yuba,Yuba,115,2021-07-14,6651,41,
-Alameda,Alameda,001,2021-07-13,87824,1221,
+Alameda,Alameda,001,2021-07-13,87824,1220,
 Berkeley,Alameda,001,2021-07-13,3722,50,
 Alpine,Alpine,003,2021-07-13,89,0,TRUE
 Amador,Amador,005,2021-07-13,3747,48,TRUE
