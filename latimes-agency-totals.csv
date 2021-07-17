@@ -1,4 +1,126 @@
 agency,county,fips,date,confirmed_cases,deaths,did_not_update
+Alameda,Alameda,001,2021-07-16,88339,1220,
+Berkeley,Alameda,001,2021-07-16,3752,50,
+Alpine,Alpine,003,2021-07-16,89,0,TRUE
+Amador,Amador,005,2021-07-16,3765,48,
+Butte,Butte,007,2021-07-16,12390,198,TRUE
+Calaveras,Calaveras,009,2021-07-16,2256,58,
+Colusa,Colusa,011,2021-07-16,2322,18,TRUE
+Contra Costa,Contra Costa,013,2021-07-16,72776,823,
+Del Norte,Del Norte,015,2021-07-16,1522,8,
+El Dorado,El Dorado,017,2021-07-16,10692,118,
+Fresno,Fresno,019,2021-07-16,103055,1730,
+Glenn,Glenn,021,2021-07-16,2385,27,TRUE
+Humboldt,Humboldt,023,2021-07-16,4730,53,
+Imperial,Imperial,025,2021-07-16,28568,745,TRUE
+Inyo,Inyo,027,2021-07-16,1446,38,TRUE
+Kern,Kern,029,2021-07-16,111687,1414,
+Kings,Kings,031,2021-07-16,23240,248,
+Lake,Lake,033,2021-07-16,3755,63,TRUE
+Lassen,Lassen,035,2021-07-16,5858,26,
+Long Beach,Los Angeles,037,2021-07-16,54395,948,
+Los Angeles,Los Angeles,037,2021-07-16,1198656,23269,
+Pasadena,Los Angeles,037,2021-07-16,11507,351,
+Madera,Madera,039,2021-07-16,16686,248,TRUE
+Marin,Marin,041,2021-07-16,14436,213,
+Mariposa,Mariposa,043,2021-07-16,472,7,
+Mendocino,Mendocino,045,2021-07-16,4502,50,
+Merced,Merced,047,2021-07-16,32621,483,
+Modoc,Modoc,049,2021-07-16,573,7,TRUE
+Mono,Mono,051,2021-07-16,1307,5,
+Monterey,Monterey,053,2021-07-16,44131,518,
+Napa,Napa,055,2021-07-16,10159,80,
+Nevada,Nevada,057,2021-07-16,5082,75,
+Orange,Orange,059,2021-07-16,257826,5133,TRUE
+Placer,Placer,061,2021-07-16,24176,304,TRUE
+Plumas,Plumas,063,2021-07-16,742,6,TRUE
+Riverside,Riverside,065,2021-07-16,302069,4647,TRUE
+Sacramento,Sacramento,067,2021-07-16,110903,1759,
+San Benito,San Benito,069,2021-07-16,6204,63,
+San Bernardino,San Bernardino,071,2021-07-16,302238,4822,
+San Diego,San Diego,073,2021-07-16,286286,3786,
+San Francisco,San Francisco,075,2021-07-16,37792,558,
+San Joaquin,San Joaquin,077,2021-07-16,75500,1446,TRUE
+San Luis Obispo,San Luis Obispo,079,2021-07-16,21588,264,TRUE
+San Mateo,San Mateo,081,2021-07-16,43068,584,
+Santa Barbara,Santa Barbara,083,2021-07-16,34924,458,
+Santa Clara,Santa Clara,085,2021-07-16,120604,1706,
+Santa Cruz,Santa Cruz,087,2021-07-16,16375,207,TRUE
+Shasta,Shasta,089,2021-07-16,12693,240,
+Sierra,Sierra,091,2021-07-16,124,0,TRUE
+Siskiyou,Siskiyou,093,2021-07-16,2478,40,
+Solano,Solano,095,2021-07-16,34630,245,
+Sonoma,Sonoma,097,2021-07-16,31703,327,
+Stanislaus,Stanislaus,099,2021-07-16,57895,1082,
+Sutter,Sutter,101,2021-07-16,9871,108,
+Tehama,Tehama,103,2021-07-16,5798,62,
+Trinity,Trinity,105,2021-07-16,437,6,
+Tulare,Tulare,107,2021-07-16,49964,852,TRUE
+Tuolumne,Tuolumne,109,2021-07-16,4290,73,
+Ventura,Ventura,111,2021-07-16,82342,1032,
+Yolo,Yolo,113,2021-07-16,14358,211,
+Yuba,Yuba,115,2021-07-16,6691,41,
+Alameda,Alameda,001,2021-07-15,88013,1220,
+Berkeley,Alameda,001,2021-07-15,3730,50,
+Alpine,Alpine,003,2021-07-15,89,0,TRUE
+Amador,Amador,005,2021-07-15,3751,48,TRUE
+Butte,Butte,007,2021-07-15,12390,198,TRUE
+Calaveras,Calaveras,009,2021-07-15,2253,58,
+Colusa,Colusa,011,2021-07-15,2322,18,TRUE
+Contra Costa,Contra Costa,013,2021-07-15,72602,822,
+Del Norte,Del Norte,015,2021-07-15,1521,8,
+El Dorado,El Dorado,017,2021-07-15,10657,118,
+Fresno,Fresno,019,2021-07-15,102966,1730,
+Glenn,Glenn,021,2021-07-15,2385,27,
+Humboldt,Humboldt,023,2021-07-15,4711,53,
+Imperial,Imperial,025,2021-07-15,28568,745,
+Inyo,Inyo,027,2021-07-15,1446,38,TRUE
+Kern,Kern,029,2021-07-15,111571,1413,TRUE
+Kings,Kings,031,2021-07-15,23224,248,
+Lake,Lake,033,2021-07-15,3755,63,
+Lassen,Lassen,035,2021-07-15,5857,26,
+Long Beach,Los Angeles,037,2021-07-15,54294,948,
+Los Angeles,Los Angeles,037,2021-07-15,1196893,23268,
+Pasadena,Los Angeles,037,2021-07-15,11484,351,
+Madera,Madera,039,2021-07-15,16686,248,
+Marin,Marin,041,2021-07-15,14422,213,
+Mariposa,Mariposa,043,2021-07-15,471,7,
+Mendocino,Mendocino,045,2021-07-15,4490,50,
+Merced,Merced,047,2021-07-15,32582,483,
+Modoc,Modoc,049,2021-07-15,573,7,TRUE
+Mono,Mono,051,2021-07-15,1304,5,TRUE
+Monterey,Monterey,053,2021-07-15,44113,518,
+Napa,Napa,055,2021-07-15,10150,80,
+Nevada,Nevada,057,2021-07-15,5067,75,
+Orange,Orange,059,2021-07-15,257826,5133,
+Placer,Placer,061,2021-07-15,24176,304,TRUE
+Plumas,Plumas,063,2021-07-15,742,6,TRUE
+Riverside,Riverside,065,2021-07-15,302069,4647,
+Sacramento,Sacramento,067,2021-07-15,110781,1758,
+San Benito,San Benito,069,2021-07-15,6200,63,
+San Bernardino,San Bernardino,071,2021-07-15,302029,4806,
+San Diego,San Diego,073,2021-07-15,285697,3786,
+San Francisco,San Francisco,075,2021-07-15,37726,557,
+San Joaquin,San Joaquin,077,2021-07-15,75500,1446,TRUE
+San Luis Obispo,San Luis Obispo,079,2021-07-15,21588,264,TRUE
+San Mateo,San Mateo,081,2021-07-15,43018,583,
+Santa Barbara,Santa Barbara,083,2021-07-15,34896,458,
+Santa Clara,Santa Clara,085,2021-07-15,120447,1702,
+Santa Cruz,Santa Cruz,087,2021-07-15,16375,207,
+Shasta,Shasta,089,2021-07-15,12614,238,TRUE
+Sierra,Sierra,091,2021-07-15,124,0,
+Siskiyou,Siskiyou,093,2021-07-15,2472,40,
+Solano,Solano,095,2021-07-15,34461,245,
+Sonoma,Sonoma,097,2021-07-15,31641,323,
+Stanislaus,Stanislaus,099,2021-07-15,57804,1080,
+Sutter,Sutter,101,2021-07-15,9855,108,
+Tehama,Tehama,103,2021-07-15,5792,61,
+Trinity,Trinity,105,2021-07-15,435,6,
+Tulare,Tulare,107,2021-07-15,49964,852,
+Tuolumne,Tuolumne,109,2021-07-15,4284,72,
+Ventura,Ventura,111,2021-07-15,82160,1032,TRUE
+Yolo,Yolo,113,2021-07-15,14315,211,
+Yuba,Yuba,115,2021-07-15,6670,41,
 Alameda,Alameda,001,2021-07-14,88013,1220,
 Berkeley,Alameda,001,2021-07-14,3730,50,
 Alpine,Alpine,003,2021-07-14,89,0,TRUE
