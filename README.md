@@ -183,22 +183,6 @@ In some cases, the precise area being tracked by local officials is unclear. Wha
 | `centroid_y`      | float   | The latitude of the `place`.                                                                                                                                                         |
 | `population`      | integer | The number of residents in the area. Not available for all places.                                                                                                                   |
 
-### [latimes-county-recovery-estimates.csv](./latimes-county-recovery-estimates.csv)
-
-The estimated number of recovered and active cases by county each day.
-
-Active cases are calculated as a rolling 14-day sum of newly reported cases. Recovered cases are then estimated by subtracting these recent cases, current hospitalizations and deaths from a county's total cases.
-
-These estimates match closely in areas that officially report recovered cases. One limitation is that there may be some overlap among active and hospitilized cases, leading to an underestimate in the number of recovered patients.
-
-| field             | type    | description                                                                                                                                                                                                                         |
-| :---------------- | :------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `date`            | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                                                                 |
-| `county`          | string  | The name of the county where the agency is based.                                                                                                                                                                                   |
-| `fips`            | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources.                                              |
-| `recoveries_estimated` | integer | The cumulative number of estimated recovered coronavirus cases as of this `date`.                                                                                                                                                             |
-| `active_cases`          | integer | The current number of presumed active cases, or newly reported cases in the last 14 days, as of this `date`.                                                                                                                                                        |
-
 ### [latimes-agency-websites.csv](./latimes-agency-websites.csv)
 
 The 61 local-health agency websites that the Los Angeles Times consults to conduct its survey.
