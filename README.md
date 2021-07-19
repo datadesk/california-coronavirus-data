@@ -185,12 +185,6 @@ In some cases, the precise area being tracked by local officials is unclear. Wha
 
 ### [latimes-county-recovery-estimates.csv](./latimes-county-recovery-estimates.csv)
 
-The total cases and deaths logged by local public health agencies each day. Each row contains the cumulative totals reported by a single agency as of that date.
-
-Most counties have only one agency except for Alameda and Los Angeles counties, where some cities run independent health departments. In Alameda County, the city of Berkeley is managed independently. In Los Angeles County, Pasadena and Long Beach are managed independently. These cities' totals are broken out into separate rows. In order to calculate county-level totals, you must aggregate them together using the `county` field.
-
-
-
 The estimated number of recovered and active cases by county each day.
 
 Active cases are calculated as a rolling 14-day sum of newly reported cases. Recovered cases are then estimated by subtracting these recent cases, current hospitalizations and deaths from a county's total cases.
