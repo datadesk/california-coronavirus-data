@@ -1,5 +1,5 @@
 date,county,fips,recoveries_estimated,active_cases
-2021-07-22,Alameda,001,89304,6698
+2021-07-22,Alameda,001,89354,2874
 2021-07-22,Alpine,003,89,0
 2021-07-22,Amador,005,3687,36
 2021-07-22,Butte,007,12117,185
@@ -17,7 +17,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-22,Kings,031,22885,220
 2021-07-22,Lake,033,3586,291
 2021-07-22,Lassen,035,5812,29
-2021-07-22,Los Angeles,037,1229046,19266
+2021-07-22,Los Angeles,037,1229033,21852
 2021-07-22,Madera,039,16355,143
 2021-07-22,Marin,041,14077,290
 2021-07-22,Mariposa,043,461,12

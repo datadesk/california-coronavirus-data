@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-07-22,Alameda,001,97459,1322,4098,50
+2021-07-22,Alameda,001,93635,1272,274,0
 2021-07-22,Alpine,003,89,0,0,0
 2021-07-22,Amador,005,3774,48,0,0
 2021-07-22,Butte,007,12510,198,0,0
@@ -17,7 +17,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-22,Kings,031,23366,248,81,0
 2021-07-22,Lake,033,3945,64,125,0
 2021-07-22,Lassen,035,5868,26,2,0
-2021-07-22,Los Angeles,037,1273668,24595,117,1
+2021-07-22,Los Angeles,037,1276254,24608,2703,14
 2021-07-22,Madera,039,16765,249,0,0
 2021-07-22,Marin,041,14589,213,37,0
 2021-07-22,Mariposa,043,480,7,5,0
