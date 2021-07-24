@@ -2,7 +2,7 @@ agency,county,fips,date,confirmed_cases,deaths,did_not_update
 Alameda,Alameda,001,2021-07-23,90103,1222,
 Berkeley,Alameda,001,2021-07-23,3850,50,
 Alpine,Alpine,003,2021-07-23,89,0,TRUE
-Amador,Amador,005,2021-07-23,3774,48,TRUE
+Amador,Amador,005,2021-07-23,3802,48,
 Butte,Butte,007,2021-07-23,12510,198,TRUE
 Calaveras,Calaveras,009,2021-07-23,2281,58,
 Colusa,Colusa,011,2021-07-23,2339,18,TRUE
@@ -18,9 +18,9 @@ Kern,Kern,029,2021-07-23,112318,1417,
 Kings,Kings,031,2021-07-23,23399,248,
 Lake,Lake,033,2021-07-23,3945,64,TRUE
 Lassen,Lassen,035,2021-07-23,5868,26,TRUE
-Long Beach,Los Angeles,037,2021-07-23,,,
+Long Beach,Los Angeles,037,2021-07-23,55133,951,
 Los Angeles,Los Angeles,037,2021-07-23,1212516,23313,
-Pasadena,Los Angeles,037,2021-07-23,,,
+Pasadena,Los Angeles,037,2021-07-23,11650,351,
 Madera,Madera,039,2021-07-23,16765,249,TRUE
 Marin,Marin,041,2021-07-23,14614,214,
 Mariposa,Mariposa,043,2021-07-23,485,7,
