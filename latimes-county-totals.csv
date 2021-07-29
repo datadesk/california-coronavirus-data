@@ -1,5 +1,5 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
-2021-07-28,Alameda,001,95256,1274,13,0
+2021-07-28,Alameda,001,95539,1280,296,6
 2021-07-28,Alpine,003,89,0,0,0
 2021-07-28,Amador,005,3832,48,29,0
 2021-07-28,Butte,007,13176,200,0,0
@@ -21,7 +21,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-28,Madera,039,16911,249,0,0
 2021-07-28,Marin,041,14791,214,41,0
 2021-07-28,Mariposa,043,497,7,2,0
-2021-07-28,Mendocino,045,4646,50,18,0
+2021-07-28,Mendocino,045,4658,51,30,1
 2021-07-28,Merced,047,32961,484,0,0
 2021-07-28,Modoc,049,573,7,0,0
 2021-07-28,Mono,051,1319,5,2,0
@@ -36,10 +36,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-28,San Benito,069,6263,63,9,0
 2021-07-28,San Bernardino,071,305827,4851,404,0
 2021-07-28,San Diego,073,294176,3798,768,0
-2021-07-28,San Francisco,075,39759,563,728,2
+2021-07-28,San Francisco,075,39759,561,728,0
 2021-07-28,San Joaquin,077,76915,1460,881,14
 2021-07-28,San Luis Obispo,079,21970,265,0,0
-2021-07-28,San Mateo,081,44143,588,76,0
+2021-07-28,San Mateo,081,44287,588,220,0
 2021-07-28,Santa Barbara,083,35546,461,73,0
 2021-07-28,Santa Clara,085,122821,1707,191,0
 2021-07-28,Santa Cruz,087,16532,207,0,0
@@ -47,10 +47,10 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-07-28,Sierra,091,126,0,0,0
 2021-07-28,Siskiyou,093,2554,40,6,0
 2021-07-28,Solano,095,35703,249,221,4
-2021-07-28,Sonoma,097,32476,329,151,0
+2021-07-28,Sonoma,097,32526,329,201,0
 2021-07-28,Stanislaus,099,58898,1088,88,3
 2021-07-28,Sutter,101,10126,111,46,0
-2021-07-28,Tehama,103,5836,66,0,0
+2021-07-28,Tehama,103,5864,66,28,0
 2021-07-28,Trinity,105,459,6,3,0
 2021-07-28,Tulare,107,50278,853,204,0
 2021-07-28,Tuolumne,109,4461,73,36,0
