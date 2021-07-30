@@ -6,18 +6,18 @@ Amador,Amador,005,2021-07-29,3832,48,TRUE
 Butte,Butte,007,2021-07-29,13176,200,TRUE
 Calaveras,Calaveras,009,2021-07-29,2307,58,
 Colusa,Colusa,011,2021-07-29,2357,18,TRUE
-Contra Costa,Contra Costa,013,2021-07-29,75842,830,
+Contra Costa,Contra Costa,013,2021-07-29,76206,830,
 Del Norte,Del Norte,015,2021-07-29,1643,8,
 El Dorado,El Dorado,017,2021-07-29,11063,120,
 Fresno,Fresno,019,2021-07-29,104458,1746,
 Glenn,Glenn,021,2021-07-29,2395,27,
 Humboldt,Humboldt,023,2021-07-29,5045,53,
 Imperial,Imperial,025,2021-07-29,28809,745,
-Inyo,Inyo,027,2021-07-29,1453,38,TRUE
+Inyo,Inyo,027,2021-07-29,1470,38,
 Kern,Kern,029,2021-07-29,113071,1425,
 Kings,Kings,031,2021-07-29,23611,250,
 Lake,Lake,033,2021-07-29,4238,65,
-Lassen,Lassen,035,2021-07-29,5881,27,
+Lassen,Lassen,035,2021-07-29,5881,26,
 Long Beach,Los Angeles,037,2021-07-29,55739,953,
 Los Angeles,Los Angeles,037,2021-07-29,1226022,23372,
 Pasadena,Los Angeles,037,2021-07-29,11822,352,
@@ -26,14 +26,14 @@ Marin,Marin,041,2021-07-29,14825,214,
 Mariposa,Mariposa,043,2021-07-29,498,7,
 Mendocino,Mendocino,045,2021-07-29,4658,51,TRUE
 Merced,Merced,047,2021-07-29,32961,484,TRUE
-Modoc,Modoc,049,2021-07-29,573,7,TRUE
+Modoc,Modoc,049,2021-07-29,576,7,
 Mono,Mono,051,2021-07-29,1325,5,
 Monterey,Monterey,053,2021-07-29,44484,528,
 Napa,Napa,055,2021-07-29,10420,81,
 Nevada,Nevada,057,2021-07-29,5350,75,
 Orange,Orange,059,2021-07-29,263578,5141,
 Placer,Placer,061,2021-07-29,25146,307,
-Plumas,Plumas,063,2021-07-29,765,6,TRUE
+Plumas,Plumas,063,2021-07-29,772,6,
 Riverside,Riverside,065,2021-07-29,307922,4659,
 Sacramento,Sacramento,067,2021-07-29,115200,1777,
 San Benito,San Benito,069,2021-07-29,6274,63,
@@ -42,7 +42,7 @@ San Diego,San Diego,073,2021-07-29,295054,3798,
 San Francisco,San Francisco,075,2021-07-29,39918,561,
 San Joaquin,San Joaquin,077,2021-07-29,76915,1460,TRUE
 San Luis Obispo,San Luis Obispo,079,2021-07-29,21970,265,TRUE
-San Mateo,San Mateo,081,2021-07-29,44287,588,TRUE
+San Mateo,San Mateo,081,2021-07-29,44430,588,
 Santa Barbara,Santa Barbara,083,2021-07-29,35647,461,
 Santa Clara,Santa Clara,085,2021-07-29,123083,1707,
 Santa Cruz,Santa Cruz,087,2021-07-29,16616,207,
@@ -50,10 +50,10 @@ Shasta,Shasta,089,2021-07-29,12963,242,
 Sierra,Sierra,091,2021-07-29,129,0,
 Siskiyou,Siskiyou,093,2021-07-29,2561,40,
 Solano,Solano,095,2021-07-29,35703,249,TRUE
-Sonoma,Sonoma,097,2021-07-29,32526,329,
-Stanislaus,Stanislaus,099,2021-07-29,58898,1088,TRUE
+Sonoma,Sonoma,097,2021-07-29,32665,330,
+Stanislaus,Stanislaus,099,2021-07-29,59060,1091,
 Sutter,Sutter,101,2021-07-29,10159,111,
-Tehama,Tehama,103,2021-07-29,5864,66,
+Tehama,Tehama,103,2021-07-29,5880,66,
 Trinity,Trinity,105,2021-07-29,462,6,
 Tulare,Tulare,107,2021-07-29,50278,853,TRUE
 Tuolumne,Tuolumne,109,2021-07-29,4495,73,
