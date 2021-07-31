@@ -1,4 +1,62 @@
 date,county,fips,recoveries_estimated,active_cases
+2021-07-31,Alameda,001,90888,3454
+2021-07-31,Alpine,003,89,0
+2021-07-31,Amador,005,3713,67
+2021-07-31,Butte,007,12169,786
+2021-07-31,Calaveras,009,2197,60
+2021-07-31,Colusa,011,2304,35
+2021-07-31,Contra Costa,013,72008,3695
+2021-07-31,Del Norte,015,1510,146
+2021-07-31,El Dorado,017,10562,433
+2021-07-31,Fresno,019,101172,1584
+2021-07-31,Glenn,021,2358,14
+2021-07-31,Humboldt,023,4668,384
+2021-07-31,Imperial,025,27818,241
+2021-07-31,Inyo,027,1408,27
+2021-07-31,Kern,029,110185,1529
+2021-07-31,Kings,031,22985,413
+2021-07-31,Lake,033,3680,483
+2021-07-31,Lassen,035,5831,23
+2021-07-31,Los Angeles,037,1240447,30860
+2021-07-31,Madera,039,16409,225
+2021-07-31,Marin,041,14232,417
+2021-07-31,Mariposa,043,465,28
+2021-07-31,Mendocino,045,4444,181
+2021-07-31,Merced,047,32115,700
+2021-07-31,Modoc,049,566,3
+2021-07-31,Mono,051,1301,19
+2021-07-31,Monterey,053,43582,392
+2021-07-31,Napa,055,10066,283
+2021-07-31,Nevada,057,4998,334
+2021-07-31,Orange,059,252422,6345
+2021-07-31,Placer,061,23751,970
+2021-07-31,Plumas,063,736,30
+2021-07-31,Riverside,065,297117,6477
+2021-07-31,Sacramento,067,108904,4829
+2021-07-31,San Benito,069,6139,78
+2021-07-31,San Bernardino,071,296878,4035
+2021-07-31,San Diego,073,282165,10059
+2021-07-31,San Francisco,075,37247,2121
+2021-07-31,San Joaquin,077,73943,1415
+2021-07-31,San Luis Obispo,079,21314,382
+2021-07-31,San Mateo,081,42442,1362
+2021-07-31,Santa Barbara,083,34439,817
+2021-07-31,Santa Clara,085,118791,2800
+2021-07-31,Santa Cruz,087,16159,241
+2021-07-31,Shasta,089,12436,350
+2021-07-31,Sierra,091,124,7
+2021-07-31,Siskiyou,093,2436,88
+2021-07-31,Solano,095,34322,1374
+2021-07-31,Sonoma,097,31318,962
+2021-07-31,Stanislaus,099,56690,1331
+2021-07-31,Sutter,101,9760,332
+2021-07-31,Tehama,103,5731,80
+2021-07-31,Trinity,105,431,25
+2021-07-31,Tulare,107,49079,314
+2021-07-31,Tuolumne,109,4213,245
+2021-07-31,Ventura,111,81241,1527
+2021-07-31,Yolo,113,14134,505
+2021-07-31,Yuba,115,6631,313
 2021-07-30,Alameda,001,90607,3735
 2021-07-30,Alpine,003,89,0
 2021-07-30,Amador,005,3713,67
@@ -34,7 +92,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-30,Riverside,065,297117,6477
 2021-07-30,Sacramento,067,108904,4829
 2021-07-30,San Benito,069,6139,78
-2021-07-30,San Bernardino,071,297101,4035
+2021-07-30,San Bernardino,071,296878,4035
 2021-07-30,San Diego,073,282165,10059
 2021-07-30,San Francisco,075,37141,2227
 2021-07-30,San Joaquin,077,73943,1415
@@ -92,7 +150,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-29,Riverside,065,297120,5853
 2021-07-29,Sacramento,067,108786,4419
 2021-07-29,San Benito,069,6135,74
-2021-07-29,San Bernardino,071,296892,4244
+2021-07-29,San Bernardino,071,296669,4244
 2021-07-29,San Diego,073,281576,9357
 2021-07-29,San Francisco,075,37075,2192
 2021-07-29,San Joaquin,077,73943,1415
@@ -150,7 +208,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-28,Riverside,065,297142,4767
 2021-07-28,Sacramento,067,108641,4013
 2021-07-28,San Benito,069,6131,67
-2021-07-28,San Bernardino,071,296680,4025
+2021-07-28,San Bernardino,071,296457,4025
 2021-07-28,San Diego,073,281154,8908
 2021-07-28,San Francisco,075,37020,2098
 2021-07-28,San Joaquin,077,73951,1415
@@ -208,7 +266,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-27,Riverside,065,297145,4767
 2021-07-27,Sacramento,067,108461,3980
 2021-07-27,San Benito,069,6126,62
-2021-07-27,San Bernardino,071,296432,3869
+2021-07-27,San Bernardino,071,296209,3869
 2021-07-27,San Diego,073,280929,8412
 2021-07-27,San Francisco,075,36935,1454
 2021-07-27,San Joaquin,077,73604,901
@@ -266,7 +324,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-26,Riverside,065,297163,3520
 2021-07-26,Sacramento,067,108297,3818
 2021-07-26,San Benito,069,6120,63
-2021-07-26,San Bernardino,071,295892,3525
+2021-07-26,San Bernardino,071,295666,3525
 2021-07-26,San Diego,073,280594,8041
 2021-07-26,San Francisco,075,36792,1607
 2021-07-26,San Joaquin,077,73609,901
@@ -324,7 +382,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-25,Riverside,065,297199,3126
 2021-07-25,Sacramento,067,107766,3177
 2021-07-25,San Benito,069,6108,56
-2021-07-25,San Bernardino,071,295547,3439
+2021-07-25,San Bernardino,071,295320,3439
 2021-07-25,San Diego,073,279775,6807
 2021-07-25,San Francisco,075,36749,1653
 2021-07-25,San Joaquin,077,73616,901
@@ -382,7 +440,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-24,Riverside,065,297195,3126
 2021-07-24,Sacramento,067,107784,3177
 2021-07-24,San Benito,069,6108,56
-2021-07-24,San Bernardino,071,295552,3439
+2021-07-24,San Bernardino,071,295325,3439
 2021-07-24,San Diego,073,279772,6807
 2021-07-24,San Francisco,075,36701,1490
 2021-07-24,San Joaquin,077,73621,901
@@ -440,7 +498,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-23,Riverside,065,297206,2443
 2021-07-23,Sacramento,067,107789,3177
 2021-07-23,San Benito,069,6110,56
-2021-07-23,San Bernardino,071,295565,3439
+2021-07-23,San Bernardino,071,295338,3439
 2021-07-23,San Diego,073,279779,5549
 2021-07-23,San Francisco,075,36688,1312
 2021-07-23,San Joaquin,077,73620,901
@@ -498,7 +556,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-22,Riverside,065,297232,1991
 2021-07-22,Sacramento,067,107593,2984
 2021-07-22,San Benito,069,6104,57
-2021-07-22,San Bernardino,071,295402,3240
+2021-07-22,San Bernardino,071,295166,3240
 2021-07-22,San Diego,073,279556,5105
 2021-07-22,San Francisco,075,36680,1228
 2021-07-22,San Joaquin,077,73625,901
@@ -556,7 +614,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-21,Riverside,065,297226,1991
 2021-07-21,Sacramento,067,107484,2751
 2021-07-21,San Benito,069,6092,63
-2021-07-21,San Bernardino,071,295218,3132
+2021-07-21,San Bernardino,071,294980,3132
 2021-07-21,San Diego,073,279380,5305
 2021-07-21,San Francisco,075,36637,1176
 2021-07-21,San Joaquin,077,73628,901
@@ -614,7 +672,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-20,Riverside,065,296987,249
 2021-07-20,Sacramento,067,107361,2616
 2021-07-20,San Benito,069,6089,64
-2021-07-20,San Bernardino,071,295045,3121
+2021-07-20,San Bernardino,071,294807,3121
 2021-07-20,San Diego,073,278596,5626
 2021-07-20,San Francisco,075,36560,1123
 2021-07-20,San Joaquin,077,73624,901
@@ -672,7 +730,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-19,Riverside,065,297007,249
 2021-07-19,Sacramento,067,106920,2725
 2021-07-19,San Benito,069,6070,82
-2021-07-19,San Bernardino,071,294976,2481
+2021-07-19,San Bernardino,071,294733,2481
 2021-07-19,San Diego,073,278617,5112
 2021-07-19,San Francisco,075,36562,908
 2021-07-19,San Joaquin,077,73394,600
@@ -730,7 +788,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-18,Riverside,065,297036,249
 2021-07-18,Sacramento,067,106919,2075
 2021-07-18,San Benito,069,6072,69
-2021-07-18,San Bernardino,071,294993,2290
+2021-07-18,San Bernardino,071,294742,2290
 2021-07-18,San Diego,073,278624,3704
 2021-07-18,San Francisco,075,36544,858
 2021-07-18,San Joaquin,077,73396,1134
@@ -788,7 +846,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-17,Riverside,065,297036,249
 2021-07-17,Sacramento,067,106918,2075
 2021-07-17,San Benito,069,6072,69
-2021-07-17,San Bernardino,071,295000,2290
+2021-07-17,San Bernardino,071,294749,2290
 2021-07-17,San Diego,073,278632,3704
 2021-07-17,San Francisco,075,36511,795
 2021-07-17,San Joaquin,077,73393,600
@@ -846,7 +904,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-16,Riverside,065,297034,249
 2021-07-16,Sacramento,067,106927,2075
 2021-07-16,San Benito,069,6072,69
-2021-07-16,San Bernardino,071,294980,2290
+2021-07-16,San Bernardino,071,294729,2290
 2021-07-16,San Diego,073,278636,3704
 2021-07-16,San Francisco,075,36480,719
 2021-07-16,San Joaquin,077,73400,600
@@ -904,7 +962,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-15,Riverside,065,297008,295
 2021-07-15,Sacramento,067,106792,2093
 2021-07-15,San Benito,069,6067,70
-2021-07-15,San Bernardino,071,294935,2146
+2021-07-15,San Bernardino,071,294668,2146
 2021-07-15,San Diego,073,278659,3115
 2021-07-15,San Francisco,075,36474,662
 2021-07-15,San Joaquin,077,73396,600
@@ -962,7 +1020,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-14,Riverside,065,296933,363
 2021-07-14,Sacramento,067,106683,2068
 2021-07-14,San Benito,069,6058,75
-2021-07-14,San Bernardino,071,294827,2039
+2021-07-14,San Bernardino,071,294551,2039
 2021-07-14,San Diego,073,278663,2686
 2021-07-14,San Francisco,075,36462,614
 2021-07-14,San Joaquin,077,73404,600
@@ -1020,7 +1078,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-13,Riverside,065,296941,363
 2021-07-13,Sacramento,067,106619,1930
 2021-07-13,San Benito,069,6053,76
-2021-07-13,San Bernardino,071,294827,1824
+2021-07-13,San Bernardino,071,294533,1824
 2021-07-13,San Diego,073,278597,2498
 2021-07-13,San Francisco,075,36450,542
 2021-07-13,San Joaquin,077,73418,233
@@ -1078,7 +1136,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-12,Riverside,065,296947,363
 2021-07-12,Sacramento,067,106533,1853
 2021-07-12,San Benito,069,6048,73
-2021-07-12,San Bernardino,071,294797,1324
+2021-07-12,San Bernardino,071,294484,1324
 2021-07-12,San Diego,073,278520,2231
 2021-07-12,San Francisco,075,36430,411
 2021-07-12,San Joaquin,077,73322,325
@@ -1136,7 +1194,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-11,Riverside,065,296963,363
 2021-07-11,Sacramento,067,106212,1634
 2021-07-11,San Benito,069,6048,62
-2021-07-11,San Bernardino,071,294761,1032
+2021-07-11,San Bernardino,071,294435,1032
 2021-07-11,San Diego,073,278459,1460
 2021-07-11,San Francisco,075,36417,375
 2021-07-11,San Joaquin,077,73322,325
@@ -1194,7 +1252,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-10,Riverside,065,296972,363
 2021-07-10,Sacramento,067,106214,1634
 2021-07-10,San Benito,069,6048,62
-2021-07-10,San Bernardino,071,294666,1134
+2021-07-10,San Bernardino,071,294340,1134
 2021-07-10,San Diego,073,278367,1556
 2021-07-10,San Francisco,075,36410,331
 2021-07-10,San Joaquin,077,73322,325
@@ -1252,7 +1310,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-09,Riverside,065,296969,363
 2021-07-09,Sacramento,067,106227,1634
 2021-07-09,San Benito,069,6048,62
-2021-07-09,San Bernardino,071,294636,1156
+2021-07-09,San Bernardino,071,294310,1156
 2021-07-09,San Diego,073,278250,1662
 2021-07-09,San Francisco,075,36380,339
 2021-07-09,San Joaquin,077,73328,325
@@ -1310,7 +1368,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-08,Riverside,065,296921,414
 2021-07-08,Sacramento,067,106159,1504
 2021-07-08,San Benito,069,6048,56
-2021-07-08,San Bernardino,071,294598,1008
+2021-07-08,San Bernardino,071,294255,1008
 2021-07-08,San Diego,073,278146,1524
 2021-07-08,San Francisco,075,36376,332
 2021-07-08,San Joaquin,077,73326,325
@@ -1368,7 +1426,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-07,Riverside,065,296929,414
 2021-07-07,Sacramento,067,106053,1480
 2021-07-07,San Benito,069,6048,45
-2021-07-07,San Bernardino,071,294547,846
+2021-07-07,San Bernardino,071,294196,846
 2021-07-07,San Diego,073,278046,1440
 2021-07-07,San Francisco,075,36376,288
 2021-07-07,San Joaquin,077,73321,325
@@ -1426,7 +1484,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-06,Riverside,065,296935,165
 2021-07-06,Sacramento,067,106030,1396
 2021-07-06,San Benito,069,6045,44
-2021-07-06,San Bernardino,071,294501,725
+2021-07-06,San Bernardino,071,294141,725
 2021-07-06,San Diego,073,278003,696
 2021-07-06,San Francisco,075,36364,221
 2021-07-06,San Joaquin,077,73323,325
@@ -1484,7 +1542,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-05,Riverside,065,296928,165
 2021-07-05,Sacramento,067,106005,1007
 2021-07-05,San Benito,069,6045,26
-2021-07-05,San Bernardino,071,294479,659
+2021-07-05,San Bernardino,071,294108,659
 2021-07-05,San Diego,073,277879,833
 2021-07-05,San Francisco,075,36340,245
 2021-07-05,San Joaquin,077,73246,173
@@ -1542,7 +1600,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-04,Riverside,065,296879,217
 2021-07-04,Sacramento,067,105815,1190
 2021-07-04,San Benito,069,6045,26
-2021-07-04,San Bernardino,071,294495,659
+2021-07-04,San Bernardino,071,294126,659
 2021-07-04,San Diego,073,277882,833
 2021-07-04,San Francisco,075,36340,223
 2021-07-04,San Joaquin,077,73204,214
@@ -1600,7 +1658,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-03,Riverside,065,296891,217
 2021-07-03,Sacramento,067,105823,1190
 2021-07-03,San Benito,069,6045,26
-2021-07-03,San Bernardino,071,294454,705
+2021-07-03,San Bernardino,071,294085,705
 2021-07-03,San Diego,073,277809,901
 2021-07-03,San Francisco,075,36333,190
 2021-07-03,San Joaquin,077,73204,214
@@ -1658,7 +1716,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-02,Riverside,065,296881,217
 2021-07-02,Sacramento,067,105816,1190
 2021-07-02,San Benito,069,6045,26
-2021-07-02,San Bernardino,071,294398,762
+2021-07-02,San Bernardino,071,294029,762
 2021-07-02,San Diego,073,277739,975
 2021-07-02,San Francisco,075,36320,174
 2021-07-02,San Joaquin,077,73209,214
@@ -1716,7 +1774,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-07-01,Riverside,065,296828,231
 2021-07-01,Sacramento,067,105736,1128
 2021-07-01,San Benito,069,6045,21
-2021-07-01,San Bernardino,071,294369,732
+2021-07-01,San Bernardino,071,293992,732
 2021-07-01,San Diego,073,277665,1052
 2021-07-01,San Francisco,075,36315,172
 2021-07-01,San Joaquin,077,73154,271
@@ -1774,7 +1832,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-30,Riverside,065,296786,224
 2021-06-30,Sacramento,067,105674,1077
 2021-06-30,San Benito,069,6040,17
-2021-06-30,San Bernardino,071,294321,667
+2021-06-30,San Bernardino,071,293938,667
 2021-06-30,San Diego,073,277555,1160
 2021-06-30,San Francisco,075,36312,162
 2021-06-30,San Joaquin,077,73118,304
@@ -1832,7 +1890,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-29,Riverside,065,296719,286
 2021-06-29,Sacramento,067,105620,1064
 2021-06-29,San Benito,069,6038,14
-2021-06-29,San Bernardino,071,294279,681
+2021-06-29,San Bernardino,071,293899,681
 2021-06-29,San Diego,073,277507,1124
 2021-06-29,San Francisco,075,36295,160
 2021-06-29,San Joaquin,077,73076,341
@@ -1890,7 +1948,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-28,Riverside,065,296638,377
 2021-06-28,Sacramento,067,105577,1016
 2021-06-28,San Benito,069,6038,10
-2021-06-28,San Bernardino,071,294252,658
+2021-06-28,San Bernardino,071,293872,658
 2021-06-28,San Diego,073,277453,1103
 2021-06-28,San Francisco,075,36277,157
 2021-06-28,San Joaquin,077,72944,389
@@ -1948,7 +2006,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-27,Riverside,065,296619,394
 2021-06-27,Sacramento,067,105369,899
 2021-06-27,San Benito,069,6031,16
-2021-06-27,San Bernardino,071,294220,628
+2021-06-27,San Bernardino,071,293840,628
 2021-06-27,San Diego,073,277349,1156
 2021-06-27,San Francisco,075,36271,152
 2021-06-27,San Joaquin,077,72921,407
@@ -2006,7 +2064,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-26,Riverside,065,296624,394
 2021-06-26,Sacramento,067,105370,899
 2021-06-26,San Benito,069,6032,16
-2021-06-26,San Bernardino,071,294187,563
+2021-06-26,San Bernardino,071,293800,563
 2021-06-26,San Diego,073,277350,1060
 2021-06-26,San Francisco,075,36257,153
 2021-06-26,San Joaquin,077,72925,407
@@ -2064,7 +2122,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-25,Riverside,065,296624,394
 2021-06-25,Sacramento,067,105372,899
 2021-06-25,San Benito,069,6032,16
-2021-06-25,San Bernardino,071,294152,582
+2021-06-25,San Bernardino,071,293760,582
 2021-06-25,San Diego,073,277292,1013
 2021-06-25,San Francisco,075,36248,142
 2021-06-25,San Joaquin,077,72927,407
@@ -2122,7 +2180,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-24,Riverside,065,296596,371
 2021-06-24,Sacramento,067,105308,896
 2021-06-24,San Benito,069,6031,17
-2021-06-24,San Bernardino,071,294087,582
+2021-06-24,San Bernardino,071,293695,582
 2021-06-24,San Diego,073,277200,1001
 2021-06-24,San Francisco,075,36242,139
 2021-06-24,San Joaquin,077,72876,458
@@ -2180,7 +2238,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-23,Riverside,065,296496,477
 2021-06-23,Sacramento,067,105299,810
 2021-06-23,San Benito,069,6031,17
-2021-06-23,San Bernardino,071,294062,564
+2021-06-23,San Bernardino,071,293653,564
 2021-06-23,San Diego,073,277090,996
 2021-06-23,San Francisco,075,36235,143
 2021-06-23,San Joaquin,077,72809,521
@@ -2238,7 +2296,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-22,Riverside,065,296446,527
 2021-06-22,Sacramento,067,105229,842
 2021-06-22,San Benito,069,6031,15
-2021-06-22,San Bernardino,071,294004,592
+2021-06-22,San Bernardino,071,293588,592
 2021-06-22,San Diego,073,277037,1008
 2021-06-22,San Francisco,075,36226,146
 2021-06-22,San Joaquin,077,72777,551
@@ -2296,7 +2354,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-21,Riverside,065,296331,642
 2021-06-21,Sacramento,067,105153,860
 2021-06-21,San Benito,069,6026,19
-2021-06-21,San Bernardino,071,293982,592
+2021-06-21,San Bernardino,071,293565,592
 2021-06-21,San Diego,073,276970,942
 2021-06-21,San Francisco,075,36195,155
 2021-06-21,San Joaquin,077,72683,566
@@ -2354,7 +2412,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-20,Riverside,065,296249,674
 2021-06-20,Sacramento,067,104914,924
 2021-06-20,San Benito,069,6026,20
-2021-06-20,San Bernardino,071,293959,613
+2021-06-20,San Bernardino,071,293542,613
 2021-06-20,San Diego,073,276904,1007
 2021-06-20,San Francisco,075,36184,161
 2021-06-20,San Joaquin,077,72637,572
@@ -2412,7 +2470,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-19,Riverside,065,296255,674
 2021-06-19,Sacramento,067,104915,924
 2021-06-19,San Benito,069,6024,20
-2021-06-19,San Bernardino,071,293948,587
+2021-06-19,San Bernardino,071,293524,587
 2021-06-19,San Diego,073,276837,1006
 2021-06-19,San Francisco,075,36168,173
 2021-06-19,San Joaquin,077,72641,572
@@ -2470,7 +2528,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-18,Riverside,065,296252,674
 2021-06-18,Sacramento,067,104914,924
 2021-06-18,San Benito,069,6024,20
-2021-06-18,San Bernardino,071,293953,543
+2021-06-18,San Bernardino,071,293520,543
 2021-06-18,San Diego,073,276716,1052
 2021-06-18,San Francisco,075,36150,170
 2021-06-18,San Joaquin,077,72641,572
@@ -2528,7 +2586,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-17,Riverside,065,296201,664
 2021-06-17,Sacramento,067,104844,925
 2021-06-17,San Benito,069,6022,21
-2021-06-17,San Bernardino,071,293916,552
+2021-06-17,San Bernardino,071,293477,552
 2021-06-17,San Diego,073,276584,1101
 2021-06-17,San Francisco,075,36147,174
 2021-06-17,San Joaquin,077,72584,569
@@ -2586,7 +2644,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-16,Riverside,065,296175,631
 2021-06-16,Sacramento,067,104776,924
 2021-06-16,San Benito,069,6023,16
-2021-06-16,San Bernardino,071,293863,551
+2021-06-16,San Bernardino,071,293416,551
 2021-06-16,San Diego,073,276495,1076
 2021-06-16,San Francisco,075,36129,183
 2021-06-16,San Joaquin,077,72503,628
@@ -2644,7 +2702,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-15,Riverside,065,296054,688
 2021-06-15,Sacramento,067,104668,968
 2021-06-15,San Benito,069,6023,14
-2021-06-15,San Bernardino,071,293856,504
+2021-06-15,San Bernardino,071,293407,504
 2021-06-15,San Diego,073,276450,1070
 2021-06-15,San Francisco,075,36126,181
 2021-06-15,San Joaquin,077,72430,660
@@ -2702,7 +2760,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-14,Riverside,065,296022,628
 2021-06-14,Sacramento,067,104465,1130
 2021-06-14,San Benito,069,6023,14
-2021-06-14,San Bernardino,071,293608,725
+2021-06-14,San Bernardino,071,293158,725
 2021-06-14,San Diego,073,276404,1060
 2021-06-14,San Francisco,075,36098,186
 2021-06-14,San Joaquin,077,72326,625
@@ -2760,7 +2818,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-13,Riverside,065,296039,611
 2021-06-13,Sacramento,067,104469,921
 2021-06-13,San Benito,069,6023,7
-2021-06-13,San Bernardino,071,293623,687
+2021-06-13,San Bernardino,071,293174,687
 2021-06-13,San Diego,073,276356,994
 2021-06-13,San Francisco,075,36093,185
 2021-06-13,San Joaquin,077,72327,607
@@ -2818,7 +2876,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-12,Riverside,065,296043,611
 2021-06-12,Sacramento,067,104469,921
 2021-06-12,San Benito,069,6025,7
-2021-06-12,San Bernardino,071,293631,650
+2021-06-12,San Bernardino,071,293182,650
 2021-06-12,San Diego,073,276293,1052
 2021-06-12,San Francisco,075,36082,187
 2021-06-12,San Joaquin,077,72322,607
@@ -2876,7 +2934,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-11,Riverside,065,296037,611
 2021-06-11,Sacramento,067,104472,921
 2021-06-11,San Benito,069,6025,7
-2021-06-11,San Bernardino,071,293635,609
+2021-06-11,San Bernardino,071,293184,609
 2021-06-11,San Diego,073,276194,1101
 2021-06-11,San Francisco,075,36064,191
 2021-06-11,San Joaquin,077,72324,607
@@ -2934,7 +2992,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-10,Riverside,065,295972,653
 2021-06-10,Sacramento,067,104361,964
 2021-06-10,San Benito,069,6025,6
-2021-06-10,San Bernardino,071,293427,761
+2021-06-10,San Bernardino,071,292976,761
 2021-06-10,San Diego,073,276106,1092
 2021-06-10,San Francisco,075,36055,193
 2021-06-10,San Joaquin,077,72323,556
@@ -2992,7 +3050,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-09,Riverside,065,295884,628
 2021-06-09,Sacramento,067,104249,1060
 2021-06-09,San Benito,069,6025,6
-2021-06-09,San Bernardino,071,293194,960
+2021-06-09,San Bernardino,071,292736,960
 2021-06-09,San Diego,073,276006,1082
 2021-06-09,San Francisco,075,36051,192
 2021-06-09,San Joaquin,077,72281,529
@@ -3050,7 +3108,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-08,Riverside,065,295804,652
 2021-06-08,Sacramento,067,104161,1067
 2021-06-08,San Benito,069,6025,6
-2021-06-08,San Bernardino,071,293037,1040
+2021-06-08,San Bernardino,071,292572,1040
 2021-06-08,San Diego,073,275928,1093
 2021-06-08,San Francisco,075,36042,194
 2021-06-08,San Joaquin,077,72242,540
@@ -3108,7 +3166,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-07,Riverside,065,295653,692
 2021-06-07,Sacramento,067,104052,1116
 2021-06-07,San Benito,069,6023,4
-2021-06-07,San Bernardino,071,292976,1082
+2021-06-07,San Bernardino,071,292509,1082
 2021-06-07,San Diego,073,275858,1093
 2021-06-07,San Francisco,075,36011,188
 2021-06-07,San Joaquin,077,72152,544
@@ -3166,7 +3224,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-06,Riverside,065,295587,683
 2021-06-06,Sacramento,067,103802,1110
 2021-06-06,San Benito,069,6022,4
-2021-06-06,San Bernardino,071,292924,1110
+2021-06-06,San Bernardino,071,292457,1110
 2021-06-06,San Diego,073,275820,1053
 2021-06-06,San Francisco,075,36005,197
 2021-06-06,San Joaquin,077,72084,570
@@ -3224,7 +3282,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-05,Riverside,065,295578,683
 2021-06-05,Sacramento,067,103812,1110
 2021-06-05,San Benito,069,6022,4
-2021-06-05,San Bernardino,071,292906,1117
+2021-06-05,San Bernardino,071,292431,1117
 2021-06-05,San Diego,073,275752,1062
 2021-06-05,San Francisco,075,35990,193
 2021-06-05,San Joaquin,077,72083,570
@@ -3282,7 +3340,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-04,Riverside,065,295571,683
 2021-06-04,Sacramento,067,103810,1110
 2021-06-04,San Benito,069,6022,4
-2021-06-04,San Bernardino,071,292857,1164
+2021-06-04,San Bernardino,071,292373,1164
 2021-06-04,San Diego,073,275696,1002
 2021-06-04,San Francisco,075,35975,198
 2021-06-04,San Joaquin,077,72080,570
@@ -3340,7 +3398,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-03,Riverside,065,295528,690
 2021-06-03,Sacramento,067,103739,1095
 2021-06-03,San Benito,069,6019,6
-2021-06-03,San Bernardino,071,292794,1182
+2021-06-03,San Bernardino,071,292307,1182
 2021-06-03,San Diego,073,275629,940
 2021-06-03,San Francisco,075,35956,202
 2021-06-03,San Joaquin,077,72014,584
@@ -3398,7 +3456,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-02,Riverside,065,295458,725
 2021-06-02,Sacramento,067,103572,1196
 2021-06-02,San Benito,069,6018,7
-2021-06-02,San Bernardino,071,292717,1196
+2021-06-02,San Bernardino,071,292230,1196
 2021-06-02,San Diego,073,275482,1002
 2021-06-02,San Francisco,075,35945,197
 2021-06-02,San Joaquin,077,71991,528
@@ -3456,7 +3514,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-06-01,Riverside,065,295380,693
 2021-06-01,Sacramento,067,103442,1239
 2021-06-01,San Benito,069,6015,10
-2021-06-01,San Bernardino,071,292666,1245
+2021-06-01,San Bernardino,071,292179,1245
 2021-06-01,San Diego,073,275382,1051
 2021-06-01,San Francisco,075,35923,207
 2021-06-01,San Joaquin,077,71950,498
@@ -3514,7 +3572,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-31,Riverside,065,295191,848
 2021-05-31,Sacramento,067,103373,1101
 2021-05-31,San Benito,069,6011,14
-2021-05-31,San Bernardino,071,292633,1028
+2021-05-31,San Bernardino,071,292141,1028
 2021-05-31,San Diego,073,275274,1108
 2021-05-31,San Francisco,075,35932,183
 2021-05-31,San Joaquin,077,71885,455
@@ -3572,7 +3630,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-30,Riverside,065,295133,908
 2021-05-30,Sacramento,067,103173,1307
 2021-05-30,San Benito,069,6005,20
-2021-05-30,San Bernardino,071,292539,1124
+2021-05-30,San Bernardino,071,292047,1124
 2021-05-30,San Diego,073,275227,1110
 2021-05-30,San Francisco,075,35924,179
 2021-05-30,San Joaquin,077,71855,484
@@ -3630,7 +3688,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-29,Riverside,065,295134,908
 2021-05-29,Sacramento,067,103163,1307
 2021-05-29,San Benito,069,6005,20
-2021-05-29,San Bernardino,071,292522,1124
+2021-05-29,San Bernardino,071,292030,1124
 2021-05-29,San Diego,073,275117,1160
 2021-05-29,San Francisco,075,35920,170
 2021-05-29,San Joaquin,077,71858,484
@@ -3688,7 +3746,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-28,Riverside,065,295129,908
 2021-05-28,Sacramento,067,103169,1307
 2021-05-28,San Benito,069,6004,20
-2021-05-28,San Bernardino,071,292264,1386
+2021-05-28,San Bernardino,071,291773,1386
 2021-05-28,San Diego,073,274977,1190
 2021-05-28,San Francisco,075,35853,219
 2021-05-28,San Joaquin,077,71855,484
@@ -3746,7 +3804,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-27,Riverside,065,294905,1066
 2021-05-27,Sacramento,067,103051,1313
 2021-05-27,San Benito,069,6001,23
-2021-05-27,San Bernardino,071,292205,1243
+2021-05-27,San Bernardino,071,291710,1243
 2021-05-27,San Diego,073,274702,1368
 2021-05-27,San Francisco,075,35835,226
 2021-05-27,San Joaquin,077,71812,527
@@ -3804,7 +3862,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-26,Riverside,065,294790,1095
 2021-05-26,Sacramento,067,102929,1323
 2021-05-26,San Benito,069,5999,25
-2021-05-26,San Bernardino,071,292158,1066
+2021-05-26,San Bernardino,071,291662,1066
 2021-05-26,San Diego,073,274506,1457
 2021-05-26,San Francisco,075,35818,236
 2021-05-26,San Joaquin,077,71769,538
@@ -3862,7 +3920,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-25,Riverside,065,294712,1100
 2021-05-25,Sacramento,067,102823,1353
 2021-05-25,San Benito,069,5997,28
-2021-05-25,San Bernardino,071,292088,988
+2021-05-25,San Bernardino,071,291591,988
 2021-05-25,San Diego,073,274426,1478
 2021-05-25,San Francisco,075,35797,245
 2021-05-25,San Joaquin,077,71724,537
@@ -3920,7 +3978,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-24,Riverside,065,294523,1148
 2021-05-24,Sacramento,067,102707,1354
 2021-05-24,San Benito,069,5993,30
-2021-05-24,San Bernardino,071,292032,960
+2021-05-24,San Bernardino,071,291536,960
 2021-05-24,San Diego,073,274306,1532
 2021-05-24,San Francisco,075,35758,258
 2021-05-24,San Joaquin,077,71729,443
@@ -3978,7 +4036,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-23,Riverside,065,294411,1182
 2021-05-23,Sacramento,067,102385,1428
 2021-05-23,San Benito,069,5982,40
-2021-05-23,San Bernardino,071,291973,970
+2021-05-23,San Bernardino,071,291478,970
 2021-05-23,San Diego,073,274070,1740
 2021-05-23,San Francisco,075,35748,254
 2021-05-23,San Joaquin,077,71568,535
@@ -4036,7 +4094,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-22,Riverside,065,294396,1182
 2021-05-22,Sacramento,067,102390,1428
 2021-05-22,San Benito,069,5982,40
-2021-05-22,San Bernardino,071,291885,1025
+2021-05-22,San Bernardino,071,291389,1025
 2021-05-22,San Diego,073,273872,1854
 2021-05-22,San Francisco,075,35720,263
 2021-05-22,San Joaquin,077,71566,535
@@ -4094,7 +4152,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-21,Riverside,065,294413,1182
 2021-05-21,Sacramento,067,102384,1428
 2021-05-21,San Benito,069,5982,40
-2021-05-21,San Bernardino,071,291825,1054
+2021-05-21,San Bernardino,071,291313,1054
 2021-05-21,San Diego,073,273639,2020
 2021-05-21,San Francisco,075,35694,271
 2021-05-21,San Joaquin,077,71565,535
@@ -4152,7 +4210,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-20,Riverside,065,294273,1250
 2021-05-20,Sacramento,067,102267,1482
 2021-05-20,San Benito,069,5982,37
-2021-05-20,San Bernardino,071,291726,1093
+2021-05-20,San Bernardino,071,291216,1093
 2021-05-20,San Diego,073,273424,2166
 2021-05-20,San Francisco,075,35683,268
 2021-05-20,San Joaquin,077,71498,534
@@ -4210,7 +4268,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-19,Riverside,065,294194,1254
 2021-05-19,Sacramento,067,101801,1779
 2021-05-19,San Benito,069,5977,41
-2021-05-19,San Bernardino,071,291653,1092
+2021-05-19,San Bernardino,071,291138,1092
 2021-05-19,San Diego,073,273207,2247
 2021-05-19,San Francisco,075,35665,271
 2021-05-19,San Joaquin,077,71342,656
@@ -4268,7 +4326,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-18,Riverside,065,294107,1262
 2021-05-18,Sacramento,067,101705,1736
 2021-05-18,San Benito,069,5971,44
-2021-05-18,San Bernardino,071,291582,1112
+2021-05-18,San Bernardino,071,291069,1112
 2021-05-18,San Diego,073,272993,2375
 2021-05-18,San Francisco,075,35635,286
 2021-05-18,San Joaquin,077,71279,677
@@ -4326,7 +4384,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-17,Riverside,065,293906,1281
 2021-05-17,Sacramento,067,101597,1778
 2021-05-17,San Benito,069,5964,47
-2021-05-17,San Bernardino,071,291531,1115
+2021-05-17,San Bernardino,071,291020,1115
 2021-05-17,San Diego,073,272812,2453
 2021-05-17,San Francisco,075,35586,341
 2021-05-17,San Joaquin,077,71237,667
@@ -4384,7 +4442,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-16,Riverside,065,293786,1343
 2021-05-16,Sacramento,067,101177,1999
 2021-05-16,San Benito,069,5962,43
-2021-05-16,San Bernardino,071,291497,1076
+2021-05-16,San Bernardino,071,290981,1076
 2021-05-16,San Diego,073,272646,2578
 2021-05-16,San Francisco,075,35564,362
 2021-05-16,San Joaquin,077,71044,832
@@ -4442,7 +4500,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-15,Riverside,065,293780,1343
 2021-05-15,Sacramento,067,101174,1999
 2021-05-15,San Benito,069,5961,44
-2021-05-15,San Bernardino,071,291411,1156
+2021-05-15,San Bernardino,071,290895,1156
 2021-05-15,San Diego,073,272489,2624
 2021-05-15,San Francisco,075,35555,371
 2021-05-15,San Joaquin,077,71039,832
@@ -4500,7 +4558,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-14,Riverside,065,293769,1343
 2021-05-14,Sacramento,067,101173,1999
 2021-05-14,San Benito,069,5955,50
-2021-05-14,San Bernardino,071,291303,1004
+2021-05-14,San Bernardino,071,290787,1004
 2021-05-14,San Diego,073,272277,2696
 2021-05-14,San Francisco,075,35514,340
 2021-05-14,San Joaquin,077,71035,832
@@ -4558,7 +4616,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-13,Riverside,065,293680,1199
 2021-05-13,Sacramento,067,101014,2047
 2021-05-13,San Benito,069,5949,53
-2021-05-13,San Bernardino,071,291217,1033
+2021-05-13,San Bernardino,071,290700,1033
 2021-05-13,San Diego,073,272077,2631
 2021-05-13,San Francisco,075,35505,338
 2021-05-13,San Joaquin,077,70954,872
@@ -4616,7 +4674,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-12,Riverside,065,293568,1193
 2021-05-12,Sacramento,067,100906,2037
 2021-05-12,San Benito,069,5947,53
-2021-05-12,San Bernardino,071,291175,1030
+2021-05-12,San Bernardino,071,290653,1030
 2021-05-12,San Diego,073,271933,2581
 2021-05-12,San Francisco,075,35483,339
 2021-05-12,San Joaquin,077,70906,875
@@ -4674,7 +4732,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-11,Riverside,065,293565,1117
 2021-05-11,Sacramento,067,100838,1996
 2021-05-11,San Benito,069,5946,51
-2021-05-11,San Bernardino,071,291097,1035
+2021-05-11,San Bernardino,071,290573,1035
 2021-05-11,San Diego,073,271804,2623
 2021-05-11,San Francisco,075,35453,346
 2021-05-11,San Joaquin,077,70844,899
@@ -4732,7 +4790,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-10,Riverside,065,293319,1172
 2021-05-10,Sacramento,067,100713,2005
 2021-05-10,San Benito,069,5940,53
-2021-05-10,San Bernardino,071,290994,1090
+2021-05-10,San Bernardino,071,290470,1090
 2021-05-10,San Diego,073,271646,2642
 2021-05-10,San Francisco,075,35418,342
 2021-05-10,San Joaquin,077,70549,1187
@@ -4790,7 +4848,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-09,Riverside,065,293191,1183
 2021-05-09,Sacramento,067,100284,2105
 2021-05-09,San Benito,069,5937,44
-2021-05-09,San Bernardino,071,290947,1086
+2021-05-09,San Bernardino,071,290422,1086
 2021-05-09,San Diego,073,271526,2538
 2021-05-09,San Francisco,075,35402,344
 2021-05-09,San Joaquin,077,70534,1037
@@ -4848,7 +4906,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-08,Riverside,065,293202,1183
 2021-05-08,Sacramento,067,100296,2105
 2021-05-08,San Benito,069,5933,48
-2021-05-08,San Bernardino,071,290899,1062
+2021-05-08,San Bernardino,071,290365,1062
 2021-05-08,San Diego,073,271371,2508
 2021-05-08,San Francisco,075,35367,353
 2021-05-08,San Joaquin,077,70533,1037
@@ -4906,7 +4964,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-07,Riverside,065,293199,1183
 2021-05-07,Sacramento,067,100298,2105
 2021-05-07,San Benito,069,5930,51
-2021-05-07,San Bernardino,071,290842,1035
+2021-05-07,San Bernardino,071,290293,1035
 2021-05-07,San Diego,073,271383,2282
 2021-05-07,San Francisco,075,35325,367
 2021-05-07,San Joaquin,077,70531,1037
@@ -4964,7 +5022,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-06,Riverside,065,293087,1169
 2021-05-06,Sacramento,067,100130,2152
 2021-05-06,San Benito,069,5927,54
-2021-05-06,San Bernardino,071,290772,1009
+2021-05-06,San Bernardino,071,290221,1009
 2021-05-06,San Diego,073,271387,2072
 2021-05-06,San Francisco,075,35315,367
 2021-05-06,San Joaquin,077,70457,1043
@@ -5022,7 +5080,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-05,Riverside,065,292969,1241
 2021-05-05,Sacramento,067,100015,1808
 2021-05-05,San Benito,069,5923,53
-2021-05-05,San Bernardino,071,290603,1126
+2021-05-05,San Bernardino,071,290037,1126
 2021-05-05,San Diego,073,271369,1846
 2021-05-05,San Francisco,075,35285,384
 2021-05-05,San Joaquin,077,70384,971
@@ -5080,7 +5138,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-04,Riverside,065,292956,1157
 2021-05-04,Sacramento,067,99896,1833
 2021-05-04,San Benito,069,5920,50
-2021-05-04,San Bernardino,071,290458,1215
+2021-05-04,San Bernardino,071,289877,1215
 2021-05-04,San Diego,073,271375,1627
 2021-05-04,San Francisco,075,35257,385
 2021-05-04,San Joaquin,077,70303,989
@@ -5138,7 +5196,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-03,Riverside,065,292659,1253
 2021-05-03,Sacramento,067,99731,1875
 2021-05-03,San Benito,069,5913,50
-2021-05-03,San Bernardino,071,290361,1263
+2021-05-03,San Bernardino,071,289776,1263
 2021-05-03,San Diego,073,271238,1580
 2021-05-03,San Francisco,075,35189,400
 2021-05-03,San Joaquin,077,70116,1145
@@ -5196,7 +5254,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-02,Riverside,065,292542,1235
 2021-05-02,Sacramento,067,99280,1901
 2021-05-02,San Benito,069,5910,52
-2021-05-02,San Bernardino,071,290260,1310
+2021-05-02,San Bernardino,071,289673,1310
 2021-05-02,San Diego,073,271095,1560
 2021-05-02,San Francisco,075,35137,431
 2021-05-02,San Joaquin,077,70032,1047
@@ -5254,7 +5312,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-05-01,Riverside,065,292543,1235
 2021-05-01,Sacramento,067,99285,1901
 2021-05-01,San Benito,069,5908,53
-2021-05-01,San Bernardino,071,290081,1432
+2021-05-01,San Bernardino,071,289477,1432
 2021-05-01,San Diego,073,270958,1555
 2021-05-01,San Francisco,075,35136,417
 2021-05-01,San Joaquin,077,70035,1047
@@ -5312,7 +5370,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-30,Riverside,065,292546,1235
 2021-04-30,Sacramento,067,99277,1901
 2021-04-30,San Benito,069,5903,52
-2021-04-30,San Bernardino,071,290000,1435
+2021-04-30,San Bernardino,071,289357,1435
 2021-04-30,San Diego,073,270711,1590
 2021-04-30,San Francisco,075,35096,421
 2021-04-30,San Joaquin,077,70042,1047
@@ -5370,7 +5428,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-29,Riverside,065,292411,1288
 2021-04-29,Sacramento,067,99083,1936
 2021-04-29,San Benito,069,5894,54
-2021-04-29,San Bernardino,071,289831,1544
+2021-04-29,San Bernardino,071,289154,1544
 2021-04-29,San Diego,073,270386,1711
 2021-04-29,San Francisco,075,35096,409
 2021-04-29,San Joaquin,077,69954,1057
@@ -5428,7 +5486,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-28,Riverside,065,292241,1354
 2021-04-28,Sacramento,067,98963,1957
 2021-04-28,San Benito,069,5880,66
-2021-04-28,San Bernardino,071,289666,1651
+2021-04-28,San Bernardino,071,288992,1651
 2021-04-28,San Diego,073,270101,1852
 2021-04-28,San Francisco,075,35072,410
 2021-04-28,San Joaquin,077,69841,1116
@@ -5486,7 +5544,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-27,Riverside,065,292133,1458
 2021-04-27,Sacramento,067,98817,2027
 2021-04-27,San Benito,069,5872,73
-2021-04-27,San Bernardino,071,289490,1740
+2021-04-27,San Bernardino,071,288816,1740
 2021-04-27,San Diego,073,269849,1976
 2021-04-27,San Francisco,075,35039,415
 2021-04-27,San Joaquin,077,69786,1103
@@ -5544,7 +5602,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-26,Riverside,065,291974,1366
 2021-04-26,Sacramento,067,98596,2121
 2021-04-26,San Benito,069,5863,75
-2021-04-26,San Bernardino,071,289398,1730
+2021-04-26,San Bernardino,071,288727,1730
 2021-04-26,San Diego,073,269577,2110
 2021-04-26,San Francisco,075,35014,402
 2021-04-26,San Joaquin,077,69597,993
@@ -5602,7 +5660,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-25,Riverside,065,291434,1791
 2021-04-25,Sacramento,067,97903,2403
 2021-04-25,San Benito,069,5858,78
-2021-04-25,San Bernardino,071,289213,1872
+2021-04-25,San Bernardino,071,288544,1872
 2021-04-25,San Diego,073,269420,2125
 2021-04-25,San Francisco,075,34920,483
 2021-04-25,San Joaquin,077,69352,1226
@@ -5660,7 +5718,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-24,Riverside,065,291433,1791
 2021-04-24,Sacramento,067,97899,2403
 2021-04-24,San Benito,069,5854,79
-2021-04-24,San Bernardino,071,288135,2894
+2021-04-24,San Bernardino,071,287468,2894
 2021-04-24,San Diego,073,269196,2194
 2021-04-24,San Francisco,075,34922,449
 2021-04-24,San Joaquin,077,69349,1226
@@ -5718,7 +5776,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-23,Riverside,065,291412,1791
 2021-04-23,Sacramento,067,97902,2403
 2021-04-23,San Benito,069,5847,83
-2021-04-23,San Bernardino,071,287944,3032
+2021-04-23,San Bernardino,071,287279,3032
 2021-04-23,San Diego,073,268815,2555
 2021-04-23,San Francisco,075,34864,468
 2021-04-23,San Joaquin,077,69348,1226
@@ -5776,7 +5834,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-22,Riverside,065,291233,1874
 2021-04-22,Sacramento,067,97511,2638
 2021-04-22,San Benito,069,5841,86
-2021-04-22,San Bernardino,071,287729,3155
+2021-04-22,San Bernardino,071,287061,3155
 2021-04-22,San Diego,073,268618,2757
 2021-04-22,San Francisco,075,34846,476
 2021-04-22,San Joaquin,077,69212,1290
@@ -5834,7 +5892,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-21,Riverside,065,291115,1861
 2021-04-21,Sacramento,067,97402,2630
 2021-04-21,San Benito,069,5832,91
-2021-04-21,San Bernardino,071,287552,3142
+2021-04-21,San Bernardino,071,286883,3142
 2021-04-21,San Diego,073,268323,3057
 2021-04-21,San Francisco,075,34803,494
 2021-04-21,San Joaquin,077,69106,1302
@@ -5892,7 +5950,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-20,Riverside,065,290979,1989
 2021-04-20,Sacramento,067,97292,2623
 2021-04-20,San Benito,069,5831,90
-2021-04-20,San Bernardino,071,287302,3245
+2021-04-20,San Bernardino,071,286635,3245
 2021-04-20,San Diego,073,267999,3385
 2021-04-20,San Francisco,075,34773,487
 2021-04-20,San Joaquin,077,69076,1270
@@ -5950,7 +6008,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-19,Riverside,065,290793,1893
 2021-04-19,Sacramento,067,97094,2663
 2021-04-19,San Benito,069,5827,86
-2021-04-19,San Bernardino,071,287300,3156
+2021-04-19,San Bernardino,071,286635,3156
 2021-04-19,San Diego,073,267792,3458
 2021-04-19,San Francisco,075,34760,434
 2021-04-19,San Joaquin,077,68848,1282
@@ -6008,7 +6066,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-18,Riverside,065,290109,2479
 2021-04-18,Sacramento,067,96738,2570
 2021-04-18,San Benito,069,5822,87
-2021-04-18,San Bernardino,071,287220,3131
+2021-04-18,San Bernardino,071,286553,3131
 2021-04-18,San Diego,073,267668,3433
 2021-04-18,San Francisco,075,34668,474
 2021-04-18,San Joaquin,077,68718,1314
@@ -6066,7 +6124,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-17,Riverside,065,290105,2479
 2021-04-17,Sacramento,067,96737,2570
 2021-04-17,San Benito,069,5815,92
-2021-04-17,San Bernardino,071,286934,3217
+2021-04-17,San Bernardino,071,286255,3217
 2021-04-17,San Diego,073,267478,3477
 2021-04-17,San Francisco,075,34670,474
 2021-04-17,San Joaquin,077,68711,1314
@@ -6124,7 +6182,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-16,Riverside,065,290088,2479
 2021-04-16,Sacramento,067,96742,2570
 2021-04-16,San Benito,069,5809,91
-2021-04-16,San Bernardino,071,286816,3265
+2021-04-16,San Bernardino,071,286129,3265
 2021-04-16,San Diego,073,267192,3531
 2021-04-16,San Francisco,075,34625,483
 2021-04-16,San Joaquin,077,68718,1314
@@ -6182,7 +6240,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-15,Riverside,065,289976,2461
 2021-04-15,Sacramento,067,96136,2974
 2021-04-15,San Benito,069,5799,93
-2021-04-15,San Bernardino,071,286638,3240
+2021-04-15,San Bernardino,071,285935,3240
 2021-04-15,San Diego,073,266691,3710
 2021-04-15,San Francisco,075,34584,524
 2021-04-15,San Joaquin,077,68585,1360
@@ -6240,7 +6298,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-14,Riverside,065,289826,2447
 2021-04-14,Sacramento,067,95878,3109
 2021-04-14,San Benito,069,5794,84
-2021-04-14,San Bernardino,071,286581,3147
+2021-04-14,San Bernardino,071,285873,3147
 2021-04-14,San Diego,073,266445,3681
 2021-04-14,San Francisco,075,34547,551
 2021-04-14,San Joaquin,077,68451,1383
@@ -6298,7 +6356,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-13,Riverside,065,289554,2609
 2021-04-13,Sacramento,067,95879,2970
 2021-04-13,San Benito,069,5792,79
-2021-04-13,San Bernardino,071,286445,3122
+2021-04-13,San Bernardino,071,285715,3122
 2021-04-13,San Diego,073,266186,3711
 2021-04-13,San Francisco,075,34530,534
 2021-04-13,San Joaquin,077,68401,1382
@@ -6356,7 +6414,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-12,Riverside,065,289447,2572
 2021-04-12,Sacramento,067,95737,2884
 2021-04-12,San Benito,069,5786,76
-2021-04-12,San Bernardino,071,286372,3120
+2021-04-12,San Bernardino,071,285643,3120
 2021-04-12,San Diego,073,265963,3660
 2021-04-12,San Francisco,075,34498,547
 2021-04-12,San Joaquin,077,68162,1444
@@ -6414,7 +6472,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-11,Riverside,065,289225,2259
 2021-04-11,Sacramento,067,95252,2678
 2021-04-11,San Benito,069,5783,75
-2021-04-11,San Bernardino,071,286280,3008
+2021-04-11,San Bernardino,071,285550,3008
 2021-04-11,San Diego,073,265692,3806
 2021-04-11,San Francisco,075,34445,511
 2021-04-11,San Joaquin,077,68049,1298
@@ -6472,7 +6530,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-10,Riverside,065,289244,2259
 2021-04-10,Sacramento,067,95265,2678
 2021-04-10,San Benito,069,5782,72
-2021-04-10,San Bernardino,071,286201,2053
+2021-04-10,San Bernardino,071,285440,2053
 2021-04-10,San Diego,073,265484,3782
 2021-04-10,San Francisco,075,34450,511
 2021-04-10,San Joaquin,077,68048,1298
@@ -6530,7 +6588,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-09,Riverside,065,289240,2259
 2021-04-09,Sacramento,067,95259,2678
 2021-04-09,San Benito,069,5782,65
-2021-04-09,San Bernardino,071,286040,2043
+2021-04-09,San Bernardino,071,285250,2043
 2021-04-09,San Diego,073,265276,3647
 2021-04-09,San Francisco,075,34408,495
 2021-04-09,San Joaquin,077,68051,1298
@@ -6588,7 +6646,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-08,Riverside,065,289142,2189
 2021-04-08,Sacramento,067,95047,2486
 2021-04-08,San Benito,069,5775,66
-2021-04-08,San Bernardino,071,285897,2005
+2021-04-08,San Bernardino,071,285087,2005
 2021-04-08,San Diego,073,264859,3867
 2021-04-08,San Francisco,075,34367,516
 2021-04-08,San Joaquin,077,67910,1314
@@ -6646,7 +6704,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-07,Riverside,065,289022,2170
 2021-04-07,Sacramento,067,94885,2541
 2021-04-07,San Benito,069,5770,62
-2021-04-07,San Bernardino,071,285770,1959
+2021-04-07,San Bernardino,071,284959,1959
 2021-04-07,San Diego,073,264646,3777
 2021-04-07,San Francisco,075,34319,516
 2021-04-07,San Joaquin,077,67797,1324
@@ -6704,7 +6762,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-06,Riverside,065,288886,2195
 2021-04-06,Sacramento,067,94785,2537
 2021-04-06,San Benito,069,5767,62
-2021-04-06,San Bernardino,071,285641,1836
+2021-04-06,San Bernardino,071,284824,1836
 2021-04-06,San Diego,073,264377,3706
 2021-04-06,San Francisco,075,34295,524
 2021-04-06,San Joaquin,077,67717,1353
@@ -6762,7 +6820,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-05,Riverside,065,288634,2277
 2021-04-05,Sacramento,067,94658,2471
 2021-04-05,San Benito,069,5765,61
-2021-04-05,San Bernardino,071,285590,1881
+2021-04-05,San Bernardino,071,284774,1881
 2021-04-05,San Diego,073,264129,3737
 2021-04-05,San Francisco,075,34272,531
 2021-04-05,San Joaquin,077,67480,1390
@@ -6820,7 +6878,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-04,Riverside,065,288478,1769
 2021-04-04,Sacramento,067,94244,2524
 2021-04-04,San Benito,069,5760,63
-2021-04-04,San Bernardino,071,285520,1875
+2021-04-04,San Bernardino,071,284710,1875
 2021-04-04,San Diego,073,263945,3799
 2021-04-04,San Francisco,075,34201,510
 2021-04-04,San Joaquin,077,67338,1403
@@ -6878,7 +6936,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-03,Riverside,065,288475,1769
 2021-04-03,Sacramento,067,94254,2524
 2021-04-03,San Benito,069,5760,57
-2021-04-03,San Bernardino,071,285357,1750
+2021-04-03,San Bernardino,071,284537,1750
 2021-04-03,San Diego,073,263757,3798
 2021-04-03,San Francisco,075,34206,510
 2021-04-03,San Joaquin,077,67337,1403
@@ -6936,7 +6994,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-02,Riverside,065,288466,1769
 2021-04-02,Sacramento,067,94257,2524
 2021-04-02,San Benito,069,5755,58
-2021-04-02,San Bernardino,071,285183,1794
+2021-04-02,San Bernardino,071,284350,1794
 2021-04-02,San Diego,073,263413,3858
 2021-04-02,San Francisco,075,34172,493
 2021-04-02,San Joaquin,077,67332,1403
@@ -6994,7 +7052,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-04-01,Riverside,065,288348,1800
 2021-04-01,Sacramento,067,94122,2046
 2021-04-01,San Benito,069,5749,53
-2021-04-01,San Bernardino,071,285053,1780
+2021-04-01,San Bernardino,071,284158,1780
 2021-04-01,San Diego,073,262987,3783
 2021-04-01,San Francisco,075,34122,506
 2021-04-01,San Joaquin,077,67176,1427
@@ -7052,7 +7110,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-31,Riverside,065,288159,1855
 2021-03-31,Sacramento,067,93963,1950
 2021-03-31,San Benito,069,5744,55
-2021-03-31,San Bernardino,071,284910,1897
+2021-03-31,San Bernardino,071,283994,1897
 2021-03-31,San Diego,073,262559,3970
 2021-03-31,San Francisco,075,34101,494
 2021-03-31,San Joaquin,077,66930,1545
@@ -7110,7 +7168,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-30,Riverside,065,287969,1789
 2021-03-30,Sacramento,067,93848,2061
 2021-03-30,San Benito,069,5732,63
-2021-03-30,San Bernardino,071,284792,1871
+2021-03-30,San Bernardino,071,283870,1871
 2021-03-30,San Diego,073,262167,4091
 2021-03-30,San Francisco,075,34073,492
 2021-03-30,San Joaquin,077,66691,1760
@@ -7168,7 +7226,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-29,Riverside,065,287875,1770
 2021-03-29,Sacramento,067,93737,2040
 2021-03-29,San Benito,069,5726,64
-2021-03-29,San Bernardino,071,284744,1847
+2021-03-29,San Bernardino,071,283820,1847
 2021-03-29,San Diego,073,261907,4121
 2021-03-29,San Francisco,075,34074,456
 2021-03-29,San Joaquin,077,66497,1733
@@ -7226,7 +7284,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-28,Riverside,065,287476,1965
 2021-03-28,Sacramento,067,93393,1902
 2021-03-28,San Benito,069,5720,66
-2021-03-28,San Bernardino,071,284658,1843
+2021-03-28,San Bernardino,071,283729,1843
 2021-03-28,San Diego,073,261710,4009
 2021-03-28,San Francisco,075,34026,444
 2021-03-28,San Joaquin,077,66508,1631
@@ -7284,7 +7342,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-27,Riverside,065,287459,1965
 2021-03-27,Sacramento,067,93396,1902
 2021-03-27,San Benito,069,5714,70
-2021-03-27,San Bernardino,071,284507,1906
+2021-03-27,San Bernardino,071,283537,1906
 2021-03-27,San Diego,073,261525,4002
 2021-03-27,San Francisco,075,34025,444
 2021-03-27,San Joaquin,077,66508,1631
@@ -7342,7 +7400,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-26,Riverside,065,287464,1965
 2021-03-26,Sacramento,067,93391,1902
 2021-03-26,San Benito,069,5707,77
-2021-03-26,San Bernardino,071,284355,1951
+2021-03-26,San Bernardino,071,283312,1951
 2021-03-26,San Diego,073,260783,4522
 2021-03-26,San Francisco,075,33993,435
 2021-03-26,San Joaquin,077,66515,1631
@@ -7400,7 +7458,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-25,Riverside,065,287298,2032
 2021-03-25,Sacramento,067,93221,1875
 2021-03-25,San Benito,069,5702,75
-2021-03-25,San Bernardino,071,284339,1858
+2021-03-25,San Bernardino,071,283241,1858
 2021-03-25,San Diego,073,260792,4100
 2021-03-25,San Francisco,075,33968,426
 2021-03-25,San Joaquin,077,66523,1478
@@ -7458,7 +7516,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-24,Riverside,065,287313,1925
 2021-03-24,Sacramento,067,93085,1846
 2021-03-24,San Benito,069,5695,76
-2021-03-24,San Bernardino,071,284216,1895
+2021-03-24,San Bernardino,071,283077,1895
 2021-03-24,San Diego,073,260357,4320
 2021-03-24,San Francisco,075,33925,418
 2021-03-24,San Joaquin,077,66459,1433
@@ -7516,7 +7574,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-23,Riverside,065,287153,1944
 2021-03-23,Sacramento,067,93018,1806
 2021-03-23,San Benito,069,5687,82
-2021-03-23,San Bernardino,071,284155,1847
+2021-03-23,San Bernardino,071,282965,1847
 2021-03-23,San Diego,073,260010,4412
 2021-03-23,San Francisco,075,33906,405
 2021-03-23,San Joaquin,077,66364,1455
@@ -7574,7 +7632,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-22,Riverside,065,286725,2109
 2021-03-22,Sacramento,067,92881,1816
 2021-03-22,San Benito,069,5676,92
-2021-03-22,San Bernardino,071,284166,1802
+2021-03-22,San Bernardino,071,282965,1802
 2021-03-22,San Diego,073,259526,4642
 2021-03-22,San Francisco,075,33868,422
 2021-03-22,San Joaquin,077,66098,1460
@@ -7632,7 +7690,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-21,Riverside,065,286623,2063
 2021-03-21,Sacramento,067,92448,1835
 2021-03-21,San Benito,069,5668,92
-2021-03-21,San Bernardino,071,284031,1906
+2021-03-21,San Bernardino,071,282791,1906
 2021-03-21,San Diego,073,259224,4760
 2021-03-21,San Francisco,075,33790,424
 2021-03-21,San Joaquin,077,65982,1430
@@ -7690,7 +7748,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-20,Riverside,065,286603,2063
 2021-03-20,Sacramento,067,92451,1835
 2021-03-20,San Benito,069,5660,99
-2021-03-20,San Bernardino,071,283948,1828
+2021-03-20,San Bernardino,071,282708,1828
 2021-03-20,San Diego,073,259021,4755
 2021-03-20,San Francisco,075,33788,424
 2021-03-20,San Joaquin,077,65976,1430
@@ -7748,7 +7806,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-19,Riverside,065,286600,2063
 2021-03-19,Sacramento,067,92448,1835
 2021-03-19,San Benito,069,5654,101
-2021-03-19,San Bernardino,071,283662,1892
+2021-03-19,San Bernardino,071,282429,1892
 2021-03-19,San Diego,073,258602,4817
 2021-03-19,San Francisco,075,33746,432
 2021-03-19,San Joaquin,077,65980,1430
@@ -7806,7 +7864,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-18,Riverside,065,286453,2073
 2021-03-18,Sacramento,067,92269,1890
 2021-03-18,San Benito,069,5647,104
-2021-03-18,San Bernardino,071,283434,1996
+2021-03-18,San Bernardino,071,282175,1996
 2021-03-18,San Diego,073,258101,4895
 2021-03-18,San Francisco,075,33713,416
 2021-03-18,San Joaquin,077,65925,1338
@@ -7864,7 +7922,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-17,Riverside,065,286239,2108
 2021-03-17,Sacramento,067,92113,1877
 2021-03-17,San Benito,069,5634,110
-2021-03-17,San Bernardino,071,283269,2002
+2021-03-17,San Bernardino,071,281977,2002
 2021-03-17,San Diego,073,257601,4964
 2021-03-17,San Francisco,075,33662,436
 2021-03-17,San Joaquin,077,65825,1178
@@ -7922,7 +7980,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-16,Riverside,065,286092,2078
 2021-03-16,Sacramento,067,91997,1878
 2021-03-16,San Benito,069,5626,107
-2021-03-16,San Bernardino,071,283070,2118
+2021-03-16,San Bernardino,071,281732,2118
 2021-03-16,San Diego,073,257235,4905
 2021-03-16,San Francisco,075,33619,459
 2021-03-16,San Joaquin,077,65742,996
@@ -7980,7 +8038,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-15,Riverside,065,285578,2520
 2021-03-15,Sacramento,067,91847,1913
 2021-03-15,San Benito,069,5617,110
-2021-03-15,San Bernardino,071,283041,2113
+2021-03-15,San Bernardino,071,281689,2113
 2021-03-15,San Diego,073,256867,5024
 2021-03-15,San Francisco,075,33576,503
 2021-03-15,San Joaquin,077,65545,988
@@ -8038,7 +8096,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-14,Riverside,065,285263,2416
 2021-03-14,Sacramento,067,91482,1928
 2021-03-14,San Benito,069,5616,104
-2021-03-14,San Bernardino,071,282925,2180
+2021-03-14,San Bernardino,071,281525,2180
 2021-03-14,San Diego,073,256597,5115
 2021-03-14,San Francisco,075,33535,493
 2021-03-14,San Joaquin,077,65427,1108
@@ -8096,7 +8154,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-13,Riverside,065,285274,2416
 2021-03-13,Sacramento,067,91486,1928
 2021-03-13,San Benito,069,5614,100
-2021-03-13,San Bernardino,071,282718,2308
+2021-03-13,San Bernardino,071,281216,2308
 2021-03-13,San Diego,073,256347,5179
 2021-03-13,San Francisco,075,33471,557
 2021-03-13,San Joaquin,077,65419,1108
@@ -8154,7 +8212,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-12,Riverside,065,285252,2416
 2021-03-12,Sacramento,067,91486,1928
 2021-03-12,San Benito,069,5609,98
-2021-03-12,San Bernardino,071,282574,2287
+2021-03-12,San Bernardino,071,280998,2287
 2021-03-12,San Diego,073,255902,4883
 2021-03-12,San Francisco,075,33421,585
 2021-03-12,San Joaquin,077,65413,1108
@@ -8212,7 +8270,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-11,Riverside,065,285002,2490
 2021-03-11,Sacramento,067,91270,1963
 2021-03-11,San Benito,069,5599,103
-2021-03-11,San Bernardino,071,281858,2963
+2021-03-11,San Bernardino,071,280229,2963
 2021-03-11,San Diego,073,255244,5545
 2021-03-11,San Francisco,075,33288,684
 2021-03-11,San Joaquin,077,65276,1248
@@ -8270,7 +8328,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-10,Riverside,065,284755,2715
 2021-03-10,Sacramento,067,91096,1998
 2021-03-10,San Benito,069,5590,105
-2021-03-10,San Bernardino,071,281889,2801
+2021-03-10,San Bernardino,071,280235,2801
 2021-03-10,San Diego,073,254701,5634
 2021-03-10,San Francisco,075,33228,701
 2021-03-10,San Joaquin,077,65159,1292
@@ -8328,7 +8386,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-09,Riverside,065,284312,2951
 2021-03-09,Sacramento,067,90962,2078
 2021-03-09,San Benito,069,5578,109
-2021-03-09,San Bernardino,071,281635,2964
+2021-03-09,San Bernardino,071,279969,2964
 2021-03-09,San Diego,073,254035,5943
 2021-03-09,San Francisco,075,33167,737
 2021-03-09,San Joaquin,077,64991,1367
@@ -8386,7 +8444,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-08,Riverside,065,283596,3218
 2021-03-08,Sacramento,067,90773,2133
 2021-03-08,San Benito,069,5568,109
-2021-03-08,San Bernardino,071,281399,3178
+2021-03-08,San Bernardino,071,279734,3178
 2021-03-08,San Diego,073,253597,5924
 2021-03-08,San Francisco,075,33120,746
 2021-03-08,San Joaquin,077,64762,1349
@@ -8444,7 +8502,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-07,Riverside,065,283328,3370
 2021-03-07,Sacramento,067,90142,2332
 2021-03-07,San Benito,069,5562,107
-2021-03-07,San Bernardino,071,281202,3228
+2021-03-07,San Bernardino,071,279525,3228
 2021-03-07,San Diego,073,253274,5938
 2021-03-07,San Francisco,075,33071,727
 2021-03-07,San Joaquin,077,64614,1393
@@ -8502,7 +8560,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-06,Riverside,065,283331,3370
 2021-03-06,Sacramento,067,90138,2332
 2021-03-06,San Benito,069,5560,101
-2021-03-06,San Bernardino,071,280881,3502
+2021-03-06,San Bernardino,071,279195,3502
 2021-03-06,San Diego,073,252744,6268
 2021-03-06,San Francisco,075,32983,815
 2021-03-06,San Joaquin,077,64618,1393
@@ -8560,7 +8618,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-05,Riverside,065,283332,3370
 2021-03-05,Sacramento,067,90127,2332
 2021-03-05,San Benito,069,5555,99
-2021-03-05,San Bernardino,071,280471,3640
+2021-03-05,San Bernardino,071,278772,3640
 2021-03-05,San Diego,073,252049,6558
 2021-03-05,San Francisco,075,32904,848
 2021-03-05,San Joaquin,077,64614,1393
@@ -8618,7 +8676,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-04,Riverside,065,282994,3544
 2021-03-04,Sacramento,067,89725,2554
 2021-03-04,San Benito,069,5543,102
-2021-03-04,San Bernardino,071,280094,3890
+2021-03-04,San Bernardino,071,278307,3890
 2021-03-04,San Diego,073,251207,6871
 2021-03-04,San Francisco,075,32819,900
 2021-03-04,San Joaquin,077,64423,1508
@@ -8676,7 +8734,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-03,Riverside,065,282868,3435
 2021-03-03,Sacramento,067,89485,2646
 2021-03-03,San Benito,069,5538,94
-2021-03-03,San Bernardino,071,279492,4319
+2021-03-03,San Bernardino,071,277650,4319
 2021-03-03,San Diego,073,250385,7173
 2021-03-03,San Francisco,075,32715,942
 2021-03-03,San Joaquin,077,64405,1464
@@ -8734,7 +8792,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-02,Riverside,065,282414,3735
 2021-03-02,Sacramento,067,89272,2748
 2021-03-02,San Benito,069,5506,118
-2021-03-02,San Bernardino,071,279258,4320
+2021-03-02,San Bernardino,071,277415,4320
 2021-03-02,San Diego,073,249852,7360
 2021-03-02,San Francisco,075,32659,955
 2021-03-02,San Joaquin,077,64115,1681
@@ -8792,7 +8850,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-03-01,Riverside,065,281276,4359
 2021-03-01,Sacramento,067,88313,3563
 2021-03-01,San Benito,069,5505,110
-2021-03-01,San Bernardino,071,279245,4261
+2021-03-01,San Bernardino,071,277392,4261
 2021-03-01,San Diego,073,249126,7682
 2021-03-01,San Francisco,075,32600,971
 2021-03-01,San Joaquin,077,63736,1860
@@ -8850,7 +8908,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-28,Riverside,065,281283,4036
 2021-02-28,Sacramento,067,88314,3195
 2021-02-28,San Benito,069,5496,120
-2021-02-28,San Bernardino,071,278987,4438
+2021-02-28,San Bernardino,071,277077,4438
 2021-02-28,San Diego,073,248443,8106
 2021-02-28,San Francisco,075,32523,1004
 2021-02-28,San Joaquin,077,63763,1740
@@ -8908,7 +8966,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-27,Riverside,065,281269,4036
 2021-02-27,Sacramento,067,88306,3195
 2021-02-27,San Benito,069,5487,126
-2021-02-27,San Bernardino,071,278466,4687
+2021-02-27,San Bernardino,071,276508,4687
 2021-02-27,San Diego,073,247879,8412
 2021-02-27,San Francisco,075,32401,1071
 2021-02-27,San Joaquin,077,63754,1740
@@ -8966,7 +9024,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-26,Riverside,065,281252,4036
 2021-02-26,Sacramento,067,88299,3195
 2021-02-26,San Benito,069,5476,130
-2021-02-26,San Bernardino,071,277816,5128
+2021-02-26,San Bernardino,071,275833,5128
 2021-02-26,San Diego,073,246958,8853
 2021-02-26,San Francisco,075,32311,1101
 2021-02-26,San Joaquin,077,63752,1740
@@ -9024,7 +9082,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-25,Riverside,065,280641,4371
 2021-02-25,Sacramento,067,87977,3310
 2021-02-25,San Benito,069,5466,130
-2021-02-25,San Bernardino,071,277017,5266
+2021-02-25,San Bernardino,071,274932,5266
 2021-02-25,San Diego,073,246153,9008
 2021-02-25,San Francisco,075,32202,1084
 2021-02-25,San Joaquin,077,63496,1860
@@ -9082,7 +9140,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-24,Riverside,065,280023,4792
 2021-02-24,Sacramento,067,87714,3409
 2021-02-24,San Benito,069,5453,137
-2021-02-24,San Bernardino,071,276592,5661
+2021-02-24,San Bernardino,071,274516,5661
 2021-02-24,San Diego,073,245036,9602
 2021-02-24,San Francisco,075,32033,1196
 2021-02-24,San Joaquin,077,63266,2005
@@ -9140,7 +9198,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-23,Riverside,065,279375,5016
 2021-02-23,Sacramento,067,87452,3522
 2021-02-23,San Benito,069,5439,140
-2021-02-23,San Bernardino,071,276329,5669
+2021-02-23,San Bernardino,071,274241,5669
 2021-02-23,San Diego,073,244202,9754
 2021-02-23,San Francisco,075,31925,1243
 2021-02-23,San Joaquin,077,63221,1894
@@ -9198,7 +9256,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-22,Riverside,065,278616,5086
 2021-02-22,Sacramento,067,87136,3653
 2021-02-22,San Benito,069,5406,159
-2021-02-22,San Bernardino,071,275707,6064
+2021-02-22,San Bernardino,071,273616,6064
 2021-02-22,San Diego,073,243441,10089
 2021-02-22,San Francisco,075,31860,1258
 2021-02-22,San Joaquin,077,62971,1908
@@ -9256,7 +9314,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-21,Riverside,065,276045,7364
 2021-02-21,Sacramento,067,86063,4093
 2021-02-21,San Benito,069,5396,164
-2021-02-21,San Bernardino,071,274844,6690
+2021-02-21,San Bernardino,071,272735,6690
 2021-02-21,San Diego,073,242717,10466
 2021-02-21,San Francisco,075,31664,1403
 2021-02-21,San Joaquin,077,62445,2272
@@ -9314,7 +9372,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-20,Riverside,065,276026,7364
 2021-02-20,Sacramento,067,86083,4093
 2021-02-20,San Benito,069,5382,174
-2021-02-20,San Bernardino,071,274922,6331
+2021-02-20,San Bernardino,071,272770,6331
 2021-02-20,San Diego,073,241474,11179
 2021-02-20,San Francisco,075,31471,1512
 2021-02-20,San Joaquin,077,62442,2272
@@ -9372,7 +9430,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-19,Riverside,065,276004,7364
 2021-02-19,Sacramento,067,86068,4093
 2021-02-19,San Benito,069,5353,199
-2021-02-19,San Bernardino,071,274401,6443
+2021-02-19,San Bernardino,071,272220,6443
 2021-02-19,San Diego,073,240195,11733
 2021-02-19,San Francisco,075,31366,1540
 2021-02-19,San Joaquin,077,62442,2272
@@ -9430,7 +9488,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-18,Riverside,065,275014,8011
 2021-02-18,Sacramento,067,85740,4023
 2021-02-18,San Benito,069,5339,201
-2021-02-18,San Bernardino,071,273575,6750
+2021-02-18,San Bernardino,071,271381,6750
 2021-02-18,San Diego,073,238723,12374
 2021-02-18,San Francisco,075,31068,1763
 2021-02-18,San Joaquin,077,62092,2447
@@ -9488,7 +9546,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-17,Riverside,065,273544,9339
 2021-02-17,Sacramento,067,85410,4107
 2021-02-17,San Benito,069,5322,212
-2021-02-17,San Bernardino,071,272903,6776
+2021-02-17,San Bernardino,071,270684,6776
 2021-02-17,San Diego,073,237118,13162
 2021-02-17,San Francisco,075,31050,1667
 2021-02-17,San Joaquin,077,61729,2769
@@ -9546,7 +9604,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-16,Riverside,065,272760,9659
 2021-02-16,Sacramento,067,85184,4135
 2021-02-16,San Benito,069,5306,196
-2021-02-16,San Bernardino,071,272342,7122
+2021-02-16,San Bernardino,071,270098,7122
 2021-02-16,San Diego,073,236187,13591
 2021-02-16,San Francisco,075,30880,1782
 2021-02-16,San Joaquin,077,61561,2622
@@ -9604,7 +9662,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-15,Riverside,065,271730,9542
 2021-02-15,Sacramento,067,84845,3494
 2021-02-15,San Benito,069,5284,217
-2021-02-15,San Bernardino,071,272029,7418
+2021-02-15,San Bernardino,071,269800,7418
 2021-02-15,San Diego,073,235268,13819
 2021-02-15,San Francisco,075,30774,1840
 2021-02-15,San Joaquin,077,61000,2823
@@ -9662,7 +9720,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-14,Riverside,065,267754,13504
 2021-02-14,Sacramento,067,83772,4573
 2021-02-14,San Benito,069,5258,230
-2021-02-14,San Bernardino,071,271419,7740
+2021-02-14,San Bernardino,071,269183,7740
 2021-02-14,San Diego,073,234163,14208
 2021-02-14,San Francisco,075,30624,1919
 2021-02-14,San Joaquin,077,60739,3068
@@ -9720,7 +9778,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-13,Riverside,065,267735,13504
 2021-02-13,Sacramento,067,83775,4573
 2021-02-13,San Benito,069,5247,231
-2021-02-13,San Bernardino,071,270527,8084
+2021-02-13,San Bernardino,071,268272,8084
 2021-02-13,San Diego,073,232897,14914
 2021-02-13,San Francisco,075,30448,1956
 2021-02-13,San Joaquin,077,60730,3068
@@ -9778,7 +9836,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-12,Riverside,065,267702,13504
 2021-02-12,Sacramento,067,83779,4573
 2021-02-12,San Benito,069,5227,241
-2021-02-12,San Bernardino,071,269221,8751
+2021-02-12,San Bernardino,071,266938,8751
 2021-02-12,San Diego,073,230771,16151
 2021-02-12,San Francisco,075,30335,1995
 2021-02-12,San Joaquin,077,60743,3068
@@ -9836,7 +9894,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-11,Riverside,065,265904,14709
 2021-02-11,Sacramento,067,83286,4733
 2021-02-11,San Benito,069,5207,252
-2021-02-11,San Bernardino,071,268229,8879
+2021-02-11,San Bernardino,071,265907,8879
 2021-02-11,San Diego,073,229121,17004
 2021-02-11,San Francisco,075,30199,2021
 2021-02-11,San Joaquin,077,60409,3161
@@ -9894,7 +9952,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-10,Riverside,065,264278,15678
 2021-02-10,Sacramento,067,82683,5065
 2021-02-10,San Benito,069,5156,291
-2021-02-10,San Bernardino,071,266363,10359
+2021-02-10,San Bernardino,071,264007,10359
 2021-02-10,San Diego,073,227620,17380
 2021-02-10,San Francisco,075,29993,2047
 2021-02-10,San Joaquin,077,59984,3365
@@ -9952,7 +10010,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-09,Riverside,065,262634,16676
 2021-02-09,Sacramento,067,82330,5168
 2021-02-09,San Benito,069,5133,299
-2021-02-09,San Bernardino,071,265605,10870
+2021-02-09,San Bernardino,071,263230,10870
 2021-02-09,San Diego,073,226212,17985
 2021-02-09,San Francisco,075,29745,2180
 2021-02-09,San Joaquin,077,59448,3851
@@ -10010,7 +10068,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-08,Riverside,065,260133,18373
 2021-02-08,Sacramento,067,81961,5245
 2021-02-08,San Benito,069,5106,298
-2021-02-08,San Bernardino,071,263018,12774
+2021-02-08,San Bernardino,071,260667,12774
 2021-02-08,San Diego,073,224772,18630
 2021-02-08,San Francisco,075,29496,2364
 2021-02-08,San Joaquin,077,58572,4473
@@ -10068,7 +10126,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-07,Riverside,065,254161,21818
 2021-02-07,Sacramento,067,80512,5638
 2021-02-07,San Benito,069,5090,304
-2021-02-07,San Bernardino,071,261462,13492
+2021-02-07,San Bernardino,071,259116,13492
 2021-02-07,San Diego,073,223295,19369
 2021-02-07,San Francisco,075,29384,2272
 2021-02-07,San Joaquin,077,58323,4224
@@ -10126,7 +10184,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-06,Riverside,065,254135,21818
 2021-02-06,Sacramento,067,80503,5638
 2021-02-06,San Benito,069,5069,314
-2021-02-06,San Bernardino,071,259859,15091
+2021-02-06,San Bernardino,071,257537,15091
 2021-02-06,San Diego,073,221629,19776
 2021-02-06,San Francisco,075,29092,2358
 2021-02-06,San Joaquin,077,58320,4224
@@ -10184,7 +10242,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-05,Riverside,065,254102,21818
 2021-02-05,Sacramento,067,80487,5638
 2021-02-05,San Benito,069,5034,317
-2021-02-05,San Bernardino,071,258169,16231
+2021-02-05,San Bernardino,071,255825,16231
 2021-02-05,San Diego,073,218663,21491
 2021-02-05,San Francisco,075,28969,2367
 2021-02-05,San Joaquin,077,58324,4224
@@ -10242,7 +10300,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-04,Riverside,065,251535,23381
 2021-02-04,Sacramento,067,80039,5733
 2021-02-04,San Benito,069,4975,363
-2021-02-04,San Bernardino,071,255745,17864
+2021-02-04,San Bernardino,071,253394,17864
 2021-02-04,San Diego,073,215804,22885
 2021-02-04,San Francisco,075,28858,2182
 2021-02-04,San Joaquin,077,58014,4162
@@ -10300,7 +10358,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-03,Riverside,065,246731,26724
 2021-02-03,Sacramento,067,79535,5905
 2021-02-03,San Benito,069,4937,386
-2021-02-03,San Bernardino,071,253954,19046
+2021-02-03,San Bernardino,071,251553,19046
 2021-02-03,San Diego,073,214618,22463
 2021-02-03,San Francisco,075,28677,2364
 2021-02-03,San Joaquin,077,57754,4047
@@ -10358,7 +10416,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-02,Riverside,065,246138,26495
 2021-02-02,Sacramento,067,79088,6117
 2021-02-02,San Benito,069,4896,414
-2021-02-02,San Bernardino,071,253180,19263
+2021-02-02,San Bernardino,071,250749,19263
 2021-02-02,San Diego,073,212922,23215
 2021-02-02,San Francisco,075,28511,2359
 2021-02-02,San Joaquin,077,57193,4447
@@ -10416,7 +10474,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-02-01,Riverside,065,229643,41973
 2021-02-01,Sacramento,067,76334,8531
 2021-02-01,San Benito,069,4845,443
-2021-02-01,San Bernardino,071,251175,20982
+2021-02-01,San Bernardino,071,248714,20982
 2021-02-01,San Diego,073,210384,24787
 2021-02-01,San Francisco,075,28268,2492
 2021-02-01,San Joaquin,077,55377,5662
@@ -10474,7 +10532,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-31,Riverside,065,229700,38011
 2021-01-31,Sacramento,067,76348,7452
 2021-01-31,San Benito,069,4820,446
-2021-01-31,San Bernardino,071,248299,23216
+2021-01-31,San Bernardino,071,245863,23216
 2021-01-31,San Diego,073,207821,26255
 2021-01-31,San Francisco,075,27723,2890
 2021-01-31,San Joaquin,077,55404,5417
@@ -10532,7 +10590,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-30,Riverside,065,229671,38011
 2021-01-30,Sacramento,067,76341,7452
 2021-01-30,San Benito,069,4786,469
-2021-01-30,San Bernardino,071,245352,25235
+2021-01-30,San Bernardino,071,242921,25235
 2021-01-30,San Diego,073,205942,26871
 2021-01-30,San Francisco,075,27717,2722
 2021-01-30,San Joaquin,077,55406,5417
@@ -10590,7 +10648,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-29,Riverside,065,229583,38011
 2021-01-29,Sacramento,067,76332,7452
 2021-01-29,San Benito,069,4714,522
-2021-01-29,San Bernardino,071,242094,27165
+2021-01-29,San Bernardino,071,239663,27165
 2021-01-29,San Diego,073,202924,27770
 2021-01-29,San Francisco,075,27365,2936
 2021-01-29,San Joaquin,077,55396,5417
@@ -10648,7 +10706,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-28,Riverside,065,229170,36625
 2021-01-28,Sacramento,067,75405,7899
 2021-01-28,San Benito,069,4634,581
-2021-01-28,San Bernardino,071,238568,29666
+2021-01-28,San Bernardino,071,236157,29666
 2021-01-28,San Diego,073,200258,28795
 2021-01-28,San Francisco,075,27049,3139
 2021-01-28,San Joaquin,077,54461,5968
@@ -10706,7 +10764,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-27,Riverside,065,226284,37890
 2021-01-27,Sacramento,067,74610,8078
 2021-01-27,San Benito,069,4533,629
-2021-01-27,San Bernardino,071,236808,29528
+2021-01-27,San Bernardino,071,234404,29528
 2021-01-27,San Diego,073,197711,29901
 2021-01-27,San Francisco,075,26779,3223
 2021-01-27,San Joaquin,077,53676,6296
@@ -10764,7 +10822,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-26,Riverside,065,223520,39022
 2021-01-26,Sacramento,067,73638,8695
 2021-01-26,San Benito,069,4445,694
-2021-01-26,San Bernardino,071,231891,33671
+2021-01-26,San Bernardino,071,229500,33671
 2021-01-26,San Diego,073,194426,31747
 2021-01-26,San Francisco,075,26520,3240
 2021-01-26,San Joaquin,077,52871,6551
@@ -10822,7 +10880,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-25,Riverside,065,212029,48088
 2021-01-25,Sacramento,067,72524,9429
 2021-01-25,San Benito,069,4386,721
-2021-01-25,San Bernardino,071,228773,34278
+2021-01-25,San Bernardino,071,226376,34278
 2021-01-25,San Diego,073,190928,33837
 2021-01-25,San Francisco,075,26264,3235
 2021-01-25,San Joaquin,077,51279,7265
@@ -10880,7 +10938,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-24,Riverside,065,203652,50511
 2021-01-24,Sacramento,067,70283,10225
 2021-01-24,San Benito,069,4341,753
-2021-01-24,San Bernardino,071,225305,36142
+2021-01-24,San Bernardino,071,222935,36142
 2021-01-24,San Diego,073,188022,35307
 2021-01-24,San Francisco,075,25792,3602
 2021-01-24,San Joaquin,077,50415,7872
@@ -10938,7 +10996,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-23,Riverside,065,203616,50511
 2021-01-23,Sacramento,067,70289,10225
 2021-01-23,San Benito,069,4300,771
-2021-01-23,San Bernardino,071,221418,38508
+2021-01-23,San Bernardino,071,219009,38508
 2021-01-23,San Diego,073,184734,36958
 2021-01-23,San Francisco,075,25494,3628
 2021-01-23,San Joaquin,077,50420,7872
@@ -10996,7 +11054,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-22,Riverside,065,203525,50511
 2021-01-22,Sacramento,067,70262,10225
 2021-01-22,San Benito,069,4204,835
-2021-01-22,San Bernardino,071,216542,41663
+2021-01-22,San Bernardino,071,214146,41663
 2021-01-22,San Diego,073,181197,37516
 2021-01-22,San Francisco,075,25033,3968
 2021-01-22,San Joaquin,077,50415,7872
@@ -11054,7 +11112,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-21,Riverside,065,200010,51481
 2021-01-21,Sacramento,067,69473,10575
 2021-01-21,San Benito,069,4067,915
-2021-01-21,San Bernardino,071,213376,42348
+2021-01-21,San Bernardino,071,211006,42348
 2021-01-21,San Diego,073,176685,39219
 2021-01-21,San Francisco,075,24638,4227
 2021-01-21,San Joaquin,077,48998,8992
@@ -11112,7 +11170,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-20,Riverside,065,199626,47043
 2021-01-20,Sacramento,067,68797,10746
 2021-01-20,San Benito,069,3970,968
-2021-01-20,San Bernardino,071,211769,42101
+2021-01-20,San Bernardino,071,209433,42101
 2021-01-20,San Diego,073,172841,41893
 2021-01-20,San Francisco,075,24265,4406
 2021-01-20,San Joaquin,077,48593,9161
@@ -11170,7 +11228,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-19,Riverside,065,195771,50380
 2021-01-19,Sacramento,067,67969,11126
 2021-01-19,San Benito,069,3890,1007
-2021-01-19,San Bernardino,071,210269,42752
+2021-01-19,San Bernardino,071,207978,42752
 2021-01-19,San Diego,073,169018,43988
 2021-01-19,San Francisco,075,24055,4454
 2021-01-19,San Joaquin,077,48206,8984
@@ -11228,7 +11286,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-18,Riverside,065,194068,35663
 2021-01-18,Sacramento,067,67559,8829
 2021-01-18,San Benito,069,3821,1026
-2021-01-18,San Bernardino,071,200222,50785
+2021-01-18,San Bernardino,071,197978,50785
 2021-01-18,San Diego,073,167225,43304
 2021-01-18,San Francisco,075,23903,4359
 2021-01-18,San Joaquin,077,45508,9922
@@ -11286,7 +11344,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-17,Riverside,065,176390,53346
 2021-01-17,Sacramento,067,63705,12695
 2021-01-17,San Benito,069,3792,1029
-2021-01-17,San Bernardino,071,192541,55550
+2021-01-17,San Bernardino,071,190329,55550
 2021-01-17,San Diego,073,164184,43767
 2021-01-17,San Francisco,075,23715,4005
 2021-01-17,San Joaquin,077,44534,10901
@@ -11344,7 +11402,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-16,Riverside,065,176369,53346
 2021-01-16,Sacramento,067,63703,12695
 2021-01-16,San Benito,069,3741,1048
-2021-01-16,San Bernardino,071,191220,53908
+2021-01-16,San Bernardino,071,189058,53908
 2021-01-16,San Diego,073,160674,45397
 2021-01-16,San Francisco,075,23400,4321
 2021-01-16,San Joaquin,077,44519,10901
@@ -11402,7 +11460,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-15,Riverside,065,176348,53346
 2021-01-15,Sacramento,067,63692,12695
 2021-01-15,San Benito,069,3679,1039
-2021-01-15,San Bernardino,071,191151,50656
+2021-01-15,San Bernardino,071,189050,50656
 2021-01-15,San Diego,073,156251,46797
 2021-01-15,San Francisco,075,23036,4357
 2021-01-15,San Joaquin,077,44534,10901
@@ -11460,7 +11518,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-14,Riverside,065,176462,52927
 2021-01-14,Sacramento,067,63697,11757
 2021-01-14,San Benito,069,3613,1025
-2021-01-14,San Bernardino,071,191094,47146
+2021-01-14,San Bernardino,071,189055,47146
 2021-01-14,San Diego,073,151805,48580
 2021-01-14,San Francisco,075,22584,4461
 2021-01-14,San Joaquin,077,44522,9997
@@ -11518,7 +11576,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-13,Riverside,065,176529,50063
 2021-01-13,Sacramento,067,62851,11815
 2021-01-13,San Benito,069,3478,1058
-2021-01-13,San Bernardino,071,189911,46572
+2021-01-13,San Bernardino,071,187916,46572
 2021-01-13,San Diego,073,148785,49068
 2021-01-13,San Francisco,075,22275,4479
 2021-01-13,San Joaquin,077,43603,10136
@@ -11576,7 +11634,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-12,Riverside,065,172633,51139
 2021-01-12,Sacramento,067,62352,11338
 2021-01-12,San Benito,069,3431,1019
-2021-01-12,San Bernardino,071,187742,43784
+2021-01-12,San Bernardino,071,185797,43784
 2021-01-12,San Diego,073,146376,48255
 2021-01-12,San Francisco,075,22084,4408
 2021-01-12,San Joaquin,077,43601,9334
@@ -11634,7 +11692,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-11,Riverside,065,170436,41798
 2021-01-11,Sacramento,067,61598,10970
 2021-01-11,San Benito,069,3374,1020
-2021-01-11,San Bernardino,071,181629,46796
+2021-01-11,San Bernardino,071,179746,46796
 2021-01-11,San Diego,073,143887,47265
 2021-01-11,San Francisco,075,21833,4433
 2021-01-11,San Joaquin,077,42870,8470
@@ -11692,7 +11750,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-10,Riverside,065,154087,49731
 2021-01-10,Sacramento,067,58281,12071
 2021-01-10,San Benito,069,3339,1009
-2021-01-10,San Bernardino,071,178995,45994
+2021-01-10,San Bernardino,071,177153,45994
 2021-01-10,San Diego,073,142167,46109
 2021-01-10,San Francisco,075,21668,4114
 2021-01-10,San Joaquin,077,40063,10419
@@ -11750,7 +11808,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-09,Riverside,065,154096,49731
 2021-01-09,Sacramento,067,58284,12071
 2021-01-09,San Benito,069,3313,998
-2021-01-09,San Bernardino,071,175169,45870
+2021-01-09,San Bernardino,071,173364,45870
 2021-01-09,San Diego,073,139072,45953
 2021-01-09,San Francisco,075,21490,3998
 2021-01-09,San Joaquin,077,40070,10419
@@ -11808,7 +11866,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-08,Riverside,065,154102,49731
 2021-01-08,Sacramento,067,58280,12071
 2021-01-08,San Benito,069,3237,978
-2021-01-08,San Bernardino,071,170768,45445
+2021-01-08,San Bernardino,071,168989,45445
 2021-01-08,San Diego,073,136427,45101
 2021-01-08,San Francisco,075,21237,3813
 2021-01-08,San Joaquin,077,40071,10419
@@ -11866,7 +11924,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-07,Riverside,065,154145,46217
 2021-01-07,Sacramento,067,58278,11292
 2021-01-07,San Benito,069,3185,896
-2021-01-07,San Bernardino,071,170804,42303
+2021-01-07,San Bernardino,071,169056,42303
 2021-01-07,San Diego,073,133461,43557
 2021-01-07,San Francisco,075,20930,3750
 2021-01-07,San Joaquin,077,40077,9000
@@ -11924,7 +11982,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-06,Riverside,065,152930,47123
 2021-01-06,Sacramento,067,57397,11517
 2021-01-06,San Benito,069,3123,864
-2021-01-06,San Bernardino,071,167588,43928
+2021-01-06,San Bernardino,071,165912,43928
 2021-01-06,San Diego,073,131273,41966
 2021-01-06,San Francisco,075,20722,3606
 2021-01-06,San Joaquin,077,39302,9354
@@ -11982,7 +12040,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-05,Riverside,065,147884,48343
 2021-01-05,Sacramento,067,56542,11551
 2021-01-05,San Benito,069,3027,878
-2021-01-05,San Bernardino,071,164995,45050
+2021-01-05,San Bernardino,071,163371,45050
 2021-01-05,San Diego,073,128798,40749
 2021-01-05,San Francisco,075,20549,3588
 2021-01-05,San Joaquin,077,38284,10002
@@ -12040,7 +12098,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-04,Riverside,065,146589,47814
 2021-01-04,Sacramento,067,55686,12029
 2021-01-04,San Benito,069,2919,918
-2021-01-04,San Bernardino,071,160640,39364
+2021-01-04,San Bernardino,071,159073,39364
 2021-01-04,San Diego,073,126534,41316
 2021-01-04,San Francisco,075,20298,3700
 2021-01-04,San Joaquin,077,37564,7998
@@ -12098,7 +12156,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-03,Riverside,065,137417,39491
 2021-01-03,Sacramento,067,52622,11242
 2021-01-03,San Benito,069,2867,946
-2021-01-03,San Bernardino,071,154399,38008
+2021-01-03,San Bernardino,071,152897,38008
 2021-01-03,San Diego,073,123314,41555
 2021-01-03,San Francisco,075,20050,3761
 2021-01-03,San Joaquin,077,35474,9155
@@ -12156,7 +12214,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-02,Riverside,065,137447,39491
 2021-01-02,Sacramento,067,52666,11242
 2021-01-02,San Benito,069,2809,948
-2021-01-02,San Bernardino,071,154430,36722
+2021-01-02,San Bernardino,071,152980,36722
 2021-01-02,San Diego,073,119837,41528
 2021-01-02,San Francisco,075,19739,3748
 2021-01-02,San Joaquin,077,35465,9155
@@ -12214,7 +12272,7 @@ date,county,fips,recoveries_estimated,active_cases
 2021-01-01,Riverside,065,137474,39491
 2021-01-01,Sacramento,067,52648,11242
 2021-01-01,San Benito,069,2715,979
-2021-01-01,San Bernardino,071,147906,43264
+2021-01-01,San Bernardino,071,146511,43264
 2021-01-01,San Diego,073,117311,39610
 2021-01-01,San Francisco,075,19460,3658
 2021-01-01,San Joaquin,077,35464,9155
@@ -12272,7 +12330,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-31,Riverside,065,129194,47735
 2020-12-31,Sacramento,067,51834,12060
 2020-12-31,San Benito,069,2644,986
-2020-12-31,San Bernardino,071,141208,49922
+2020-12-31,San Bernardino,071,139870,49922
 2020-12-31,San Diego,073,113775,38743
 2020-12-31,San Francisco,075,19202,3471
 2020-12-31,San Joaquin,077,33667,10942
@@ -12330,7 +12388,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-30,Riverside,065,121116,55924
 2020-12-30,Sacramento,067,50827,12223
 2020-12-30,San Benito,069,2600,896
-2020-12-30,San Bernardino,071,131845,58142
+2020-12-30,San Bernardino,071,130560,58142
 2020-12-30,San Diego,073,111227,38264
 2020-12-30,San Francisco,075,18784,3593
 2020-12-30,San Joaquin,077,32375,11324
@@ -12388,7 +12446,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-29,Riverside,065,117154,56023
 2020-12-29,Sacramento,067,49719,12846
 2020-12-29,San Benito,069,2497,951
-2020-12-29,San Bernardino,071,126226,61565
+2020-12-29,San Bernardino,071,124997,61565
 2020-12-29,San Diego,073,108474,38623
 2020-12-29,San Francisco,075,18454,3744
 2020-12-29,San Joaquin,077,31672,12019
@@ -12446,7 +12504,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-28,Riverside,065,116280,54786
 2020-12-28,Sacramento,067,48889,12908
 2020-12-28,San Benito,069,2434,954
-2020-12-28,San Bernardino,071,124533,57163
+2020-12-28,San Bernardino,071,123362,57163
 2020-12-28,San Diego,073,106614,37952
 2020-12-28,San Francisco,075,18271,3678
 2020-12-28,San Joaquin,077,30818,12146
@@ -12504,7 +12562,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-27,Riverside,065,109648,45160
 2020-12-27,Sacramento,067,46174,12297
 2020-12-27,San Benito,069,2405,947
-2020-12-27,San Bernardino,071,123574,55583
+2020-12-27,San Bernardino,071,122470,55583
 2020-12-27,San Diego,073,104444,38407
 2020-12-27,San Francisco,075,17960,3842
 2020-12-27,San Joaquin,077,30764,9384
@@ -12562,7 +12620,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-26,Riverside,065,109650,45160
 2020-12-26,Sacramento,067,46185,12297
 2020-12-26,San Benito,069,2359,964
-2020-12-26,San Bernardino,071,121136,54216
+2020-12-26,San Bernardino,071,120073,54216
 2020-12-26,San Diego,073,102073,37691
 2020-12-26,San Francisco,075,17845,3774
 2020-12-26,San Joaquin,077,30770,9384
@@ -12620,7 +12678,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-25,Riverside,065,109701,45160
 2020-12-25,Sacramento,067,46171,12297
 2020-12-25,San Benito,069,2306,940
-2020-12-25,San Bernardino,071,115870,55081
+2020-12-25,San Bernardino,071,114854,55081
 2020-12-25,San Diego,073,99607,37495
 2020-12-25,San Francisco,075,17528,3831
 2020-12-25,San Joaquin,077,30775,9384
@@ -12678,7 +12736,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-24,Riverside,065,107803,47057
 2020-12-24,Sacramento,067,45176,13291
 2020-12-24,San Benito,069,2272,917
-2020-12-24,San Bernardino,071,112490,58450
+2020-12-24,San Bernardino,071,111541,58450
 2020-12-24,San Diego,073,96748,37356
 2020-12-24,San Francisco,075,17211,3814
 2020-12-24,San Joaquin,077,29870,10288
@@ -12736,7 +12794,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-23,Riverside,065,104106,49510
 2020-12-23,Sacramento,067,44005,13533
 2020-12-23,San Benito,069,2223,907
-2020-12-23,San Bernardino,071,108362,59367
+2020-12-23,San Bernardino,071,107461,59367
 2020-12-23,San Diego,073,94733,37147
 2020-12-23,San Francisco,075,17031,3784
 2020-12-23,San Joaquin,077,29630,9749
@@ -12794,7 +12852,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-22,Riverside,065,100041,48492
 2020-12-22,Sacramento,067,43363,13313
 2020-12-22,San Benito,069,2176,860
-2020-12-22,San Bernardino,071,105805,59361
+2020-12-22,San Bernardino,071,104932,59361
 2020-12-22,San Diego,073,92724,36653
 2020-12-22,San Francisco,075,16855,3779
 2020-12-22,San Joaquin,077,27602,10772
@@ -12852,7 +12910,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-21,Riverside,065,89139,58150
 2020-12-21,Sacramento,067,41890,13656
 2020-12-21,San Benito,069,2139,787
-2020-12-21,San Bernardino,071,104834,56017
+2020-12-21,San Bernardino,071,104004,56017
 2020-12-21,San Diego,073,91511,35548
 2020-12-21,San Francisco,075,16721,3640
 2020-12-21,San Joaquin,077,26921,10720
@@ -12910,7 +12968,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-20,Riverside,065,84868,53117
 2020-12-20,Sacramento,067,39600,12907
 2020-12-20,San Benito,069,2121,748
-2020-12-20,San Bernardino,071,103773,50885
+2020-12-20,San Bernardino,071,102945,50885
 2020-12-20,San Diego,073,89597,34294
 2020-12-20,San Francisco,075,16401,3703
 2020-12-20,San Joaquin,077,26569,8959
@@ -12968,7 +13026,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-19,Riverside,065,84921,53117
 2020-12-19,Sacramento,067,39853,12907
 2020-12-19,San Benito,069,2089,730
-2020-12-19,San Bernardino,071,100950,53744
+2020-12-19,San Bernardino,071,100162,53744
 2020-12-19,San Diego,073,87924,32504
 2020-12-19,San Francisco,075,16133,3673
 2020-12-19,San Joaquin,077,26561,8959
@@ -13026,7 +13084,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-18,Riverside,065,84944,53117
 2020-12-18,Sacramento,067,39847,12907
 2020-12-18,San Benito,069,2016,709
-2020-12-18,San Bernardino,071,97765,50380
+2020-12-18,San Bernardino,071,97019,50380
 2020-12-18,San Diego,073,85675,32282
 2020-12-18,San Francisco,075,15873,3655
 2020-12-18,San Joaquin,077,26574,8959
@@ -13084,7 +13142,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-17,Riverside,065,83903,46021
 2020-12-17,Sacramento,067,39085,12880
 2020-12-17,San Benito,069,1971,680
-2020-12-17,San Bernardino,071,96189,45351
+2020-12-17,San Bernardino,071,95494,45351
 2020-12-17,San Diego,073,83684,30710
 2020-12-17,San Francisco,075,15668,3602
 2020-12-17,San Joaquin,077,26204,7558
@@ -13142,7 +13200,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-16,Riverside,065,83091,38717
 2020-12-16,Sacramento,067,38147,12815
 2020-12-16,San Benito,069,1934,674
-2020-12-16,San Bernardino,071,93768,38415
+2020-12-16,San Bernardino,071,93100,38415
 2020-12-16,San Diego,073,82235,29610
 2020-12-16,San Francisco,075,15477,3391
 2020-12-16,San Joaquin,077,25912,6552
@@ -13200,7 +13258,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-15,Riverside,065,82080,35841
 2020-12-15,Sacramento,067,37808,12053
 2020-12-15,San Benito,069,1895,609
-2020-12-15,San Bernardino,071,91360,35416
+2020-12-15,San Bernardino,071,90672,35416
 2020-12-15,San Diego,073,81054,28020
 2020-12-15,San Francisco,075,15328,3209
 2020-12-15,San Joaquin,077,25218,6577
@@ -13258,7 +13316,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-14,Riverside,065,81748,35279
 2020-12-14,Sacramento,067,36701,12339
 2020-12-14,San Benito,069,1861,584
-2020-12-14,San Bernardino,071,91015,34120
+2020-12-14,San Bernardino,071,90371,34120
 2020-12-14,San Diego,073,79799,27535
 2020-12-14,San Francisco,075,15202,3123
 2020-12-14,San Joaquin,077,25084,5864
@@ -13316,7 +13374,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-13,Riverside,065,79673,30664
 2020-12-13,Sacramento,067,35480,10843
 2020-12-13,San Benito,069,1850,567
-2020-12-13,San Bernardino,071,90432,33719
+2020-12-13,San Bernardino,071,89801,33719
 2020-12-13,San Diego,073,78888,26288
 2020-12-13,San Francisco,075,15107,2909
 2020-12-13,San Joaquin,077,24856,6045
@@ -13374,7 +13432,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-12,Riverside,065,79717,30664
 2020-12-12,Sacramento,067,35485,10843
 2020-12-12,San Benito,069,1837,536
-2020-12-12,San Bernardino,071,89627,32100
+2020-12-12,San Bernardino,071,89019,32100
 2020-12-12,San Diego,073,77830,24938
 2020-12-12,San Francisco,075,15041,2859
 2020-12-12,San Joaquin,077,24871,6045
@@ -13432,7 +13490,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-11,Riverside,065,79709,30664
 2020-12-11,Sacramento,067,35507,10843
 2020-12-11,San Benito,069,1810,511
-2020-12-11,San Bernardino,071,87773,28788
+2020-12-11,San Bernardino,071,87187,28788
 2020-12-11,San Diego,073,76021,24307
 2020-12-11,San Francisco,075,14784,2792
 2020-12-11,San Joaquin,077,24885,6045
@@ -13490,7 +13548,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-10,Riverside,065,79442,29110
 2020-12-10,Sacramento,067,34643,10740
 2020-12-10,San Benito,069,1784,501
-2020-12-10,San Bernardino,071,86003,27188
+2020-12-10,San Bernardino,071,85446,27188
 2020-12-10,San Diego,073,73228,24294
 2020-12-10,San Francisco,075,14717,2570
 2020-12-10,San Joaquin,077,24900,5141
@@ -13548,7 +13606,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-09,Riverside,065,79497,25381
 2020-12-09,Sacramento,067,34671,9597
 2020-12-09,San Benito,069,1759,480
-2020-12-09,San Bernardino,071,86059,23065
+2020-12-09,San Bernardino,071,85535,23065
 2020-12-09,San Diego,073,73247,22244
 2020-12-09,San Francisco,075,14560,2533
 2020-12-09,San Joaquin,077,24905,4904
@@ -13606,7 +13664,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-08,Riverside,065,78563,22250
 2020-12-08,Sacramento,067,34086,9545
 2020-12-08,San Benito,069,1741,447
-2020-12-08,San Bernardino,071,85195,21404
+2020-12-08,San Bernardino,071,84694,21404
 2020-12-08,San Diego,073,72340,21084
 2020-12-08,San Francisco,075,14378,2535
 2020-12-08,San Joaquin,077,24480,3295
@@ -13664,7 +13722,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-07,Riverside,065,77675,12261
 2020-12-07,Sacramento,067,33154,9240
 2020-12-07,San Benito,069,1720,431
-2020-12-07,San Bernardino,071,82888,22752
+2020-12-07,San Bernardino,071,82399,22752
 2020-12-07,San Diego,073,70845,21354
 2020-12-07,San Francisco,075,14255,2526
 2020-12-07,San Joaquin,077,24066,3040
@@ -13722,7 +13780,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-06,Riverside,065,76153,9503
 2020-12-06,Sacramento,067,31853,8231
 2020-12-06,San Benito,069,1719,418
-2020-12-06,San Bernardino,071,82296,22239
+2020-12-06,San Bernardino,071,81821,22239
 2020-12-06,San Diego,073,69715,20523
 2020-12-06,San Francisco,075,14159,2314
 2020-12-06,San Joaquin,077,23901,2820
@@ -13780,7 +13838,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-05,Riverside,065,76183,9503
 2020-12-05,Sacramento,067,31850,8231
 2020-12-05,San Benito,069,1688,413
-2020-12-05,San Bernardino,071,81990,19710
+2020-12-05,San Bernardino,071,81545,19710
 2020-12-05,San Diego,073,68819,19759
 2020-12-05,San Francisco,075,14042,2156
 2020-12-05,San Joaquin,077,23928,2820
@@ -13838,7 +13896,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-04,Riverside,065,76182,9503
 2020-12-04,Sacramento,067,31852,8231
 2020-12-04,San Benito,069,1671,357
-2020-12-04,San Bernardino,071,79155,19405
+2020-12-04,San Bernardino,071,78743,19405
 2020-12-04,San Diego,073,67377,18950
 2020-12-04,San Francisco,075,13990,1957
 2020-12-04,San Joaquin,077,23940,2820
@@ -13896,7 +13954,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-03,Riverside,065,75813,8788
 2020-12-03,Sacramento,067,31412,7894
 2020-12-03,San Benito,069,1653,331
-2020-12-03,San Bernardino,071,78200,18786
+2020-12-03,San Bernardino,071,77787,18786
 2020-12-03,San Diego,073,66303,18002
 2020-12-03,San Francisco,075,13782,1960
 2020-12-03,San Joaquin,077,23763,2633
@@ -13954,7 +14012,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-02,Riverside,065,75471,8260
 2020-12-02,Sacramento,067,30873,7515
 2020-12-02,San Benito,069,1626,316
-2020-12-02,San Bernardino,071,76160,18359
+2020-12-02,San Bernardino,071,75749,18359
 2020-12-02,San Diego,073,65445,17397
 2020-12-02,San Francisco,075,13671,1863
 2020-12-02,San Joaquin,077,23647,2449
@@ -14012,7 +14070,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-12-01,Riverside,065,74577,8100
 2020-12-01,Sacramento,067,30416,7612
 2020-12-01,San Benito,069,1618,286
-2020-12-01,San Bernardino,071,74591,17421
+2020-12-01,San Bernardino,071,74187,17421
 2020-12-01,San Diego,073,64567,17102
 2020-12-01,San Francisco,075,13542,1846
 2020-12-01,San Joaquin,077,23499,1893
@@ -14070,7 +14128,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-30,Riverside,065,73723,8564
 2020-11-30,Sacramento,067,30049,6885
 2020-11-30,San Benito,069,1598,273
-2020-11-30,San Bernardino,071,72866,18742
+2020-11-30,San Bernardino,071,72476,18742
 2020-11-30,San Diego,073,63873,16442
 2020-11-30,San Francisco,075,13505,1766
 2020-11-30,San Joaquin,077,23079,2186
@@ -14128,7 +14186,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-29,Riverside,065,72077,8106
 2020-11-29,Sacramento,067,28916,6793
 2020-11-29,San Benito,069,1592,266
-2020-11-29,San Bernardino,071,72198,18853
+2020-11-29,San Bernardino,071,71825,18853
 2020-11-29,San Diego,073,63073,16316
 2020-11-29,San Francisco,075,13421,1752
 2020-11-29,San Joaquin,077,22870,2158
@@ -14186,7 +14244,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-28,Riverside,065,72107,8106
 2020-11-28,Sacramento,067,28935,6793
 2020-11-28,San Benito,069,1572,272
-2020-11-28,San Bernardino,071,71994,18249
+2020-11-28,San Bernardino,071,71637,18249
 2020-11-28,San Diego,073,62011,16337
 2020-11-28,San Francisco,075,13262,1840
 2020-11-28,San Joaquin,077,22877,2158
@@ -14244,7 +14302,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-27,Riverside,065,72163,8106
 2020-11-27,Sacramento,067,28959,6793
 2020-11-27,San Benito,069,1561,256
-2020-11-27,San Bernardino,071,71147,17221
+2020-11-27,San Bernardino,071,70804,17221
 2020-11-27,San Diego,073,61312,15214
 2020-11-27,San Francisco,075,13168,1682
 2020-11-27,San Joaquin,077,22889,2158
@@ -14302,7 +14360,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-26,Riverside,065,71532,8402
 2020-11-26,Sacramento,067,28659,6229
 2020-11-26,San Benito,069,1544,250
-2020-11-26,San Bernardino,071,70014,16606
+2020-11-26,San Bernardino,071,69686,16606
 2020-11-26,San Diego,073,60742,12971
 2020-11-26,San Francisco,075,13074,1693
 2020-11-26,San Joaquin,077,22601,2451
@@ -14360,7 +14418,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-25,Riverside,065,70352,9602
 2020-11-25,Sacramento,067,28149,6725
 2020-11-25,San Benito,069,1521,244
-2020-11-25,San Bernardino,071,69249,17381
+2020-11-25,San Bernardino,071,68930,17381
 2020-11-25,San Diego,073,59478,14252
 2020-11-25,San Francisco,075,12979,1642
 2020-11-25,San Joaquin,077,22371,2682
@@ -14418,7 +14476,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-24,Riverside,065,70397,8630
 2020-11-24,Sacramento,067,27869,6422
 2020-11-24,San Benito,069,1506,242
-2020-11-24,San Bernardino,071,68545,17195
+2020-11-24,San Bernardino,071,68240,17195
 2020-11-24,San Diego,073,59515,13308
 2020-11-24,San Francisco,075,12918,1523
 2020-11-24,San Joaquin,077,22369,2244
@@ -14476,7 +14534,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-23,Riverside,065,69709,8391
 2020-11-23,Sacramento,067,27403,5949
 2020-11-23,San Benito,069,1499,229
-2020-11-23,San Bernardino,071,67078,16311
+2020-11-23,San Bernardino,071,66781,16311
 2020-11-23,San Diego,073,59076,12245
 2020-11-23,San Francisco,075,12870,1461
 2020-11-23,San Joaquin,077,22116,2064
@@ -14534,7 +14592,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-22,Riverside,065,68822,7746
 2020-11-22,Sacramento,067,26707,5335
 2020-11-22,San Benito,069,1500,224
-2020-11-22,San Bernardino,071,67012,15810
+2020-11-22,San Bernardino,071,66726,15810
 2020-11-22,San Diego,073,58708,11479
 2020-11-22,San Francisco,075,12760,1471
 2020-11-22,San Joaquin,077,22017,2014
@@ -14592,7 +14650,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-21,Riverside,065,68833,7746
 2020-11-21,Sacramento,067,26707,5335
 2020-11-21,San Benito,069,1493,202
-2020-11-21,San Bernardino,071,66556,15959
+2020-11-21,San Bernardino,071,66278,15959
 2020-11-21,San Diego,073,58205,11053
 2020-11-21,San Francisco,075,12645,1463
 2020-11-21,San Joaquin,077,22018,2014
@@ -14650,7 +14708,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-20,Riverside,065,68856,7746
 2020-11-20,Sacramento,067,26718,5335
 2020-11-20,San Benito,069,1483,195
-2020-11-20,San Bernardino,071,66091,13551
+2020-11-20,San Bernardino,071,65822,13551
 2020-11-20,San Diego,073,57694,10115
 2020-11-20,San Francisco,075,12544,1498
 2020-11-20,San Joaquin,077,22028,2014
@@ -14708,7 +14766,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-19,Riverside,065,68473,7700
 2020-11-19,Sacramento,067,26475,5133
 2020-11-19,San Benito,069,1475,185
-2020-11-19,San Bernardino,071,65560,13122
+2020-11-19,San Bernardino,071,65301,13122
 2020-11-19,San Diego,073,57237,9504
 2020-11-19,San Francisco,075,12464,1375
 2020-11-19,San Joaquin,077,21964,1894
@@ -14766,7 +14824,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-18,Riverside,065,68017,7809
 2020-11-18,Sacramento,067,26258,4809
 2020-11-18,San Benito,069,1466,169
-2020-11-18,San Bernardino,071,65042,11642
+2020-11-18,San Bernardino,071,64787,11642
 2020-11-18,San Diego,073,56727,9135
 2020-11-18,San Francisco,075,12396,1330
 2020-11-18,San Joaquin,077,21860,1885
@@ -14824,7 +14882,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-17,Riverside,065,67624,7317
 2020-11-17,Sacramento,067,26123,4503
 2020-11-17,San Benito,069,1461,165
-2020-11-17,San Bernardino,071,64415,10688
+2020-11-17,San Bernardino,071,64150,10688
 2020-11-17,San Diego,073,56351,8617
 2020-11-17,San Francisco,075,12350,1239
 2020-11-17,San Joaquin,077,21781,1806
@@ -14882,7 +14940,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-16,Riverside,065,67149,6928
 2020-11-16,Sacramento,067,25969,4283
 2020-11-16,San Benito,069,1460,143
-2020-11-16,San Bernardino,071,63753,9598
+2020-11-16,San Bernardino,071,63500,9598
 2020-11-16,San Diego,073,56081,8192
 2020-11-16,San Francisco,075,12308,1248
 2020-11-16,San Joaquin,077,21580,1567
@@ -14940,7 +14998,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-15,Riverside,065,66295,6130
 2020-11-15,Sacramento,067,25473,3652
 2020-11-15,San Benito,069,1456,141
-2020-11-15,San Bernardino,071,63668,8959
+2020-11-15,San Bernardino,071,63424,8959
 2020-11-15,San Diego,073,55806,7666
 2020-11-15,San Francisco,075,12256,1211
 2020-11-15,San Joaquin,077,21522,1411
@@ -14998,7 +15056,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-14,Riverside,065,66315,6130
 2020-11-14,Sacramento,067,25472,3652
 2020-11-14,San Benito,069,1448,129
-2020-11-14,San Bernardino,071,63436,8963
+2020-11-14,San Bernardino,071,63198,8963
 2020-11-14,San Diego,073,55461,6931
 2020-11-14,San Francisco,075,12204,1103
 2020-11-14,San Joaquin,077,21524,1411
@@ -15056,7 +15114,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-13,Riverside,065,66319,6130
 2020-11-13,Sacramento,067,25475,3652
 2020-11-13,San Benito,069,1444,120
-2020-11-13,San Bernardino,071,62882,8634
+2020-11-13,San Bernardino,071,62649,8634
 2020-11-13,San Diego,073,55099,6576
 2020-11-13,San Francisco,075,12124,1084
 2020-11-13,San Joaquin,077,21531,1411
@@ -15114,7 +15172,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-12,Riverside,065,65854,5989
 2020-11-12,Sacramento,067,25301,3492
 2020-11-12,San Benito,069,1433,114
-2020-11-12,San Bernardino,071,62659,7716
+2020-11-12,San Bernardino,071,62435,7716
 2020-11-12,San Diego,073,54643,6436
 2020-11-12,San Francisco,075,12078,1031
 2020-11-12,San Joaquin,077,21430,1230
@@ -15172,7 +15230,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-11,Riverside,065,65624,5042
 2020-11-11,Sacramento,067,25195,3132
 2020-11-11,San Benito,069,1428,96
-2020-11-11,San Bernardino,071,62402,7222
+2020-11-11,San Bernardino,071,62187,7222
 2020-11-11,San Diego,073,54281,5513
 2020-11-11,San Francisco,075,12046,968
 2020-11-11,San Joaquin,077,21415,1005
@@ -15230,7 +15288,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-10,Riverside,065,65334,5348
 2020-11-10,Sacramento,067,25053,2971
 2020-11-10,San Benito,069,1426,83
-2020-11-10,San Bernardino,071,61922,6980
+2020-11-10,San Bernardino,071,61712,6980
 2020-11-10,San Diego,073,53940,5843
 2020-11-10,San Francisco,075,11999,950
 2020-11-10,San Joaquin,077,21339,1087
@@ -15288,7 +15346,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-09,Riverside,065,65107,4888
 2020-11-09,Sacramento,067,24909,2636
 2020-11-09,San Benito,069,1426,75
-2020-11-09,San Bernardino,071,61347,6091
+2020-11-09,San Bernardino,071,61143,6091
 2020-11-09,San Diego,073,53681,5629
 2020-11-09,San Francisco,075,11962,929
 2020-11-09,San Joaquin,077,21173,1011
@@ -15346,7 +15404,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-08,Riverside,065,64138,4939
 2020-11-08,Sacramento,067,24598,2266
 2020-11-08,San Benito,069,1419,80
-2020-11-08,San Bernardino,071,61197,6102
+2020-11-08,San Bernardino,071,60996,6102
 2020-11-08,San Diego,073,53333,5586
 2020-11-08,San Francisco,075,11910,864
 2020-11-08,San Joaquin,077,21080,1005
@@ -15404,7 +15462,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-07,Riverside,065,64146,4939
 2020-11-07,Sacramento,067,24612,2266
 2020-11-07,San Benito,069,1418,73
-2020-11-07,San Bernardino,071,60948,5889
+2020-11-07,San Bernardino,071,60752,5889
 2020-11-07,San Diego,073,53052,5342
 2020-11-07,San Francisco,075,11877,791
 2020-11-07,San Joaquin,077,21079,1005
@@ -15462,7 +15520,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-06,Riverside,065,64176,4939
 2020-11-06,Sacramento,067,24626,2266
 2020-11-06,San Benito,069,1414,67
-2020-11-06,San Bernardino,071,60310,6051
+2020-11-06,San Bernardino,071,60118,6051
 2020-11-06,San Diego,073,52683,5188
 2020-11-06,San Francisco,075,11839,721
 2020-11-06,San Joaquin,077,21087,1005
@@ -15520,7 +15578,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-05,Riverside,065,63789,4923
 2020-11-05,Sacramento,067,24480,2184
 2020-11-05,San Benito,069,1401,72
-2020-11-05,San Bernardino,071,60126,5646
+2020-11-05,San Bernardino,071,59942,5646
 2020-11-05,San Diego,073,52253,5138
 2020-11-05,San Francisco,075,11815,666
 2020-11-05,San Joaquin,077,20995,1028
@@ -15578,7 +15636,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-04,Riverside,065,63466,4771
 2020-11-04,Sacramento,067,24328,2086
 2020-11-04,San Benito,069,1393,72
-2020-11-04,San Bernardino,071,59518,5711
+2020-11-04,San Bernardino,071,59338,5711
 2020-11-04,San Diego,073,52030,4843
 2020-11-04,San Francisco,075,11782,630
 2020-11-04,San Joaquin,077,20942,977
@@ -15636,7 +15694,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-03,Riverside,065,63077,4739
 2020-11-03,Sacramento,067,24196,2073
 2020-11-03,San Benito,069,1389,71
-2020-11-03,San Bernardino,071,59227,5376
+2020-11-03,San Bernardino,071,59045,5376
 2020-11-03,San Diego,073,51804,4702
 2020-11-03,San Francisco,075,11748,617
 2020-11-03,San Joaquin,077,20906,929
@@ -15694,7 +15752,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-02,Riverside,065,62503,4845
 2020-11-02,Sacramento,067,23971,2134
 2020-11-02,San Benito,069,1386,74
-2020-11-02,San Bernardino,071,58403,5552
+2020-11-02,San Bernardino,071,58223,5552
 2020-11-02,San Diego,073,51553,4674
 2020-11-02,San Francisco,075,11715,607
 2020-11-02,San Joaquin,077,20666,971
@@ -15752,7 +15810,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-11-01,Riverside,065,61734,4766
 2020-11-01,Sacramento,067,23577,1993
 2020-11-01,San Benito,069,1386,72
-2020-11-01,San Bernardino,071,58315,5511
+2020-11-01,San Bernardino,071,58140,5511
 2020-11-01,San Diego,073,51164,4747
 2020-11-01,San Francisco,075,11677,589
 2020-11-01,San Joaquin,077,20656,919
@@ -15810,7 +15868,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-31,Riverside,065,61753,4766
 2020-10-31,Sacramento,067,23590,1993
 2020-10-31,San Benito,069,1386,63
-2020-10-31,San Bernardino,071,58236,5350
+2020-10-31,San Bernardino,071,58067,5350
 2020-10-31,San Diego,073,50811,4768
 2020-10-31,San Francisco,075,11650,563
 2020-10-31,San Joaquin,077,20663,919
@@ -15868,7 +15926,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-30,Riverside,065,61751,4766
 2020-10-30,Sacramento,067,23586,1993
 2020-10-30,San Benito,069,1381,65
-2020-10-30,San Bernardino,071,58090,4904
+2020-10-30,San Bernardino,071,57922,4904
 2020-10-30,San Diego,073,50641,4588
 2020-10-30,San Francisco,075,11595,538
 2020-10-30,San Joaquin,077,20657,919
@@ -15926,7 +15984,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-29,Riverside,065,61605,4427
 2020-10-29,Sacramento,067,23496,1916
 2020-10-29,San Benito,069,1377,57
-2020-10-29,San Bernardino,071,57823,4962
+2020-10-29,San Bernardino,071,57657,4962
 2020-10-29,San Diego,073,50340,4428
 2020-10-29,San Francisco,075,11572,521
 2020-10-29,San Joaquin,077,20608,856
@@ -15984,7 +16042,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-28,Riverside,065,61383,4399
 2020-10-28,Sacramento,067,23452,1822
 2020-10-28,San Benito,069,1375,54
-2020-10-28,San Bernardino,071,57589,4914
+2020-10-28,San Bernardino,071,57432,4914
 2020-10-28,San Diego,073,50211,4213
 2020-10-28,San Francisco,075,11531,529
 2020-10-28,San Joaquin,077,20574,888
@@ -16042,7 +16100,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-27,Riverside,065,61054,4440
 2020-10-27,Sacramento,067,23377,1781
 2020-10-27,San Benito,069,1373,54
-2020-10-27,San Bernardino,071,57238,4788
+2020-10-27,San Bernardino,071,57084,4788
 2020-10-27,San Diego,073,49906,4186
 2020-10-27,San Francisco,075,11519,498
 2020-10-27,San Joaquin,077,20544,842
@@ -16100,7 +16158,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-26,Riverside,065,60312,4908
 2020-10-26,Sacramento,067,23253,1751
 2020-10-26,San Benito,069,1371,56
-2020-10-26,San Bernardino,071,56794,4649
+2020-10-26,San Bernardino,071,56645,4649
 2020-10-26,San Diego,073,49651,4195
 2020-10-26,San Francisco,075,11494,486
 2020-10-26,San Joaquin,077,20308,901
@@ -16158,7 +16216,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-25,Riverside,065,60321,3933
 2020-10-25,Sacramento,067,23053,1615
 2020-10-25,San Benito,069,1368,54
-2020-10-25,San Bernardino,071,56641,4645
+2020-10-25,San Bernardino,071,56495,4645
 2020-10-25,San Diego,073,49474,4032
 2020-10-25,San Francisco,075,11467,466
 2020-10-25,San Joaquin,077,20307,802
@@ -16216,7 +16274,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-24,Riverside,065,60341,3933
 2020-10-24,Sacramento,067,23045,1615
 2020-10-24,San Benito,069,1366,55
-2020-10-24,San Bernardino,071,56499,4519
+2020-10-24,San Bernardino,071,56359,4519
 2020-10-24,San Diego,073,49067,4171
 2020-10-24,San Francisco,075,11441,460
 2020-10-24,San Joaquin,077,20302,802
@@ -16274,7 +16332,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-23,Riverside,065,60336,3933
 2020-10-23,Sacramento,067,23047,1615
 2020-10-23,San Benito,069,1362,55
-2020-10-23,San Bernardino,071,56184,4209
+2020-10-23,San Bernardino,071,56045,4209
 2020-10-23,San Diego,073,48721,4105
 2020-10-23,San Francisco,075,11408,456
 2020-10-23,San Joaquin,077,20305,802
@@ -16332,7 +16390,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-22,Riverside,065,59919,3970
 2020-10-22,Sacramento,067,22924,1571
 2020-10-22,San Benito,069,1359,45
-2020-10-22,San Bernardino,071,55870,4347
+2020-10-22,San Bernardino,071,55737,4347
 2020-10-22,San Diego,073,48365,4032
 2020-10-22,San Francisco,075,11385,451
 2020-10-22,San Joaquin,077,20303,700
@@ -16390,7 +16448,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-21,Riverside,065,59631,3923
 2020-10-21,Sacramento,067,22829,1537
 2020-10-21,San Benito,069,1358,39
-2020-10-21,San Bernardino,071,55513,4122
+2020-10-21,San Bernardino,071,55379,4122
 2020-10-21,San Diego,073,48081,4088
 2020-10-21,San Francisco,075,11363,436
 2020-10-21,San Joaquin,077,20255,694
@@ -16448,7 +16506,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-20,Riverside,065,59381,3801
 2020-10-20,Sacramento,067,22782,1448
 2020-10-20,San Benito,069,1357,36
-2020-10-20,San Bernardino,071,55265,4099
+2020-10-20,San Bernardino,071,55097,4099
 2020-10-20,San Diego,073,47731,4179
 2020-10-20,San Francisco,075,11347,432
 2020-10-20,San Joaquin,077,20217,705
@@ -16506,7 +16564,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-19,Riverside,065,59249,3337
 2020-10-19,Sacramento,067,22665,1337
 2020-10-19,San Benito,069,1353,36
-2020-10-19,San Bernardino,071,55148,3379
+2020-10-19,San Bernardino,071,54975,3379
 2020-10-19,San Diego,073,47568,4075
 2020-10-19,San Francisco,075,11317,421
 2020-10-19,San Joaquin,077,20057,627
@@ -16564,7 +16622,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-18,Riverside,065,58457,3350
 2020-10-18,Sacramento,067,22263,1337
 2020-10-18,San Benito,069,1351,36
-2020-10-18,San Bernardino,071,55026,3421
+2020-10-18,San Bernardino,071,54854,3421
 2020-10-18,San Diego,073,47340,3919
 2020-10-18,San Francisco,075,11303,401
 2020-10-18,San Joaquin,077,19973,702
@@ -16622,7 +16680,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-17,Riverside,065,58447,3350
 2020-10-17,Sacramento,067,22276,1337
 2020-10-17,San Benito,069,1348,39
-2020-10-17,San Bernardino,071,54703,3591
+2020-10-17,San Bernardino,071,54510,3591
 2020-10-17,San Diego,073,47111,3782
 2020-10-17,San Francisco,075,11255,422
 2020-10-17,San Joaquin,077,19968,702
@@ -16680,7 +16738,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-16,Riverside,065,58462,3350
 2020-10-16,Sacramento,067,22270,1337
 2020-10-16,San Benito,069,1344,38
-2020-10-16,San Bernardino,071,54449,3792
+2020-10-16,San Bernardino,071,54250,3792
 2020-10-16,San Diego,073,46706,3990
 2020-10-16,San Francisco,075,11206,422
 2020-10-16,San Joaquin,077,19961,702
@@ -16738,7 +16796,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-15,Riverside,065,58014,3637
 2020-10-15,Sacramento,067,22178,1347
 2020-10-15,San Benito,069,1342,37
-2020-10-15,San Bernardino,071,54167,3775
+2020-10-15,San Bernardino,071,53971,3775
 2020-10-15,San Diego,073,46403,3985
 2020-10-15,San Francisco,075,11177,424
 2020-10-15,San Joaquin,077,19936,681
@@ -16796,7 +16854,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-14,Riverside,065,57923,3495
 2020-10-14,Sacramento,067,22081,1406
 2020-10-14,San Benito,069,1339,38
-2020-10-14,San Bernardino,071,53984,3733
+2020-10-14,San Bernardino,071,53788,3733
 2020-10-14,San Diego,073,46112,4147
 2020-10-14,San Francisco,075,11120,437
 2020-10-14,San Joaquin,077,19892,689
@@ -16854,7 +16912,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-13,Riverside,065,57707,3380
 2020-10-13,Sacramento,067,22012,1379
 2020-10-13,San Benito,069,1335,40
-2020-10-13,San Bernardino,071,53635,3730
+2020-10-13,San Bernardino,071,53442,3730
 2020-10-13,San Diego,073,45902,4039
 2020-10-13,San Francisco,075,11084,453
 2020-10-13,San Joaquin,077,19839,707
@@ -16912,7 +16970,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-12,Riverside,065,57475,2892
 2020-10-12,Sacramento,067,21856,1412
 2020-10-12,San Benito,069,1335,38
-2020-10-12,San Bernardino,071,53260,3643
+2020-10-12,San Bernardino,071,53072,3643
 2020-10-12,San Diego,073,45678,4012
 2020-10-12,San Francisco,075,11042,471
 2020-10-12,San Joaquin,077,19736,583
@@ -16970,7 +17028,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-11,Riverside,065,56729,3646
 2020-10-11,Sacramento,067,21602,1466
 2020-10-11,San Benito,069,1332,38
-2020-10-11,San Bernardino,071,53256,3496
+2020-10-11,San Bernardino,071,53072,3496
 2020-10-11,San Diego,073,45560,3941
 2020-10-11,San Francisco,075,10990,494
 2020-10-11,San Joaquin,077,19693,634
@@ -17028,7 +17086,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-10,Riverside,065,56731,3646
 2020-10-10,Sacramento,067,21599,1466
 2020-10-10,San Benito,069,1327,41
-2020-10-10,San Bernardino,071,53156,3448
+2020-10-10,San Bernardino,071,52977,3448
 2020-10-10,San Diego,073,45259,3812
 2020-10-10,San Francisco,075,10916,533
 2020-10-10,San Joaquin,077,19685,634
@@ -17086,7 +17144,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-09,Riverside,065,56719,3646
 2020-10-09,Sacramento,067,21621,1466
 2020-10-09,San Benito,069,1318,46
-2020-10-09,San Bernardino,071,52427,3848
+2020-10-09,San Bernardino,071,52251,3848
 2020-10-09,San Diego,073,44936,3822
 2020-10-09,San Francisco,075,10876,538
 2020-10-09,San Joaquin,077,19689,634
@@ -17144,7 +17202,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-08,Riverside,065,56420,3533
 2020-10-08,Sacramento,067,21449,1497
 2020-10-08,San Benito,069,1308,53
-2020-10-08,San Bernardino,071,52127,3844
+2020-10-08,San Bernardino,071,51943,3844
 2020-10-08,San Diego,073,44515,3870
 2020-10-08,San Francisco,075,10787,603
 2020-10-08,San Joaquin,077,19611,702
@@ -17202,7 +17260,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-07,Riverside,065,56239,3438
 2020-10-07,Sacramento,067,21303,1548
 2020-10-07,San Benito,069,1301,58
-2020-10-07,San Bernardino,071,51905,3702
+2020-10-07,San Bernardino,071,51716,3702
 2020-10-07,San Diego,073,44351,3750
 2020-10-07,San Francisco,075,10732,632
 2020-10-07,San Joaquin,077,19542,719
@@ -17260,7 +17318,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-06,Riverside,065,56020,3385
 2020-10-06,Sacramento,067,21244,1563
 2020-10-06,San Benito,069,1300,59
-2020-10-06,San Bernardino,071,51668,3649
+2020-10-06,San Bernardino,071,51487,3649
 2020-10-06,San Diego,073,44061,3674
 2020-10-06,San Francisco,075,10700,640
 2020-10-06,San Joaquin,077,19504,712
@@ -17318,7 +17376,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-05,Riverside,065,55972,3319
 2020-10-05,Sacramento,067,21071,1617
 2020-10-05,San Benito,069,1298,57
-2020-10-05,San Bernardino,071,51448,3751
+2020-10-05,San Bernardino,071,51269,3751
 2020-10-05,San Diego,073,43849,3735
 2020-10-05,San Francisco,075,10640,673
 2020-10-05,San Joaquin,077,19327,728
@@ -17376,7 +17434,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-04,Riverside,065,55249,3253
 2020-10-04,Sacramento,067,20619,1684
 2020-10-04,San Benito,069,1289,64
-2020-10-04,San Bernardino,071,51275,3804
+2020-10-04,San Bernardino,071,51099,3804
 2020-10-04,San Diego,073,43518,3859
 2020-10-04,San Francisco,075,10576,719
 2020-10-04,San Joaquin,077,19277,692
@@ -17434,7 +17492,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-03,Riverside,065,55248,3253
 2020-10-03,Sacramento,067,20625,1684
 2020-10-03,San Benito,069,1278,72
-2020-10-03,San Bernardino,071,51101,3724
+2020-10-03,San Bernardino,071,50929,3724
 2020-10-03,San Diego,073,43228,3907
 2020-10-03,San Francisco,075,10532,718
 2020-10-03,San Joaquin,077,19269,692
@@ -17492,7 +17550,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-02,Riverside,065,55249,3253
 2020-10-02,Sacramento,067,20622,1684
 2020-10-02,San Benito,069,1260,86
-2020-10-02,San Bernardino,071,50576,3921
+2020-10-02,San Bernardino,071,50408,3921
 2020-10-02,San Diego,073,42954,3784
 2020-10-02,San Francisco,075,10468,720
 2020-10-02,San Joaquin,077,19265,692
@@ -17550,7 +17608,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-10-01,Riverside,065,54959,3114
 2020-10-01,Sacramento,067,20401,1794
 2020-10-01,San Benito,069,1248,95
-2020-10-01,San Bernardino,071,50292,3927
+2020-10-01,San Bernardino,071,50122,3927
 2020-10-01,San Diego,073,42587,3866
 2020-10-01,San Francisco,075,10395,763
 2020-10-01,San Joaquin,077,19182,756
@@ -17608,7 +17666,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-30,Riverside,065,54811,3204
 2020-09-30,Sacramento,067,20094,1994
 2020-09-30,San Benito,069,1242,98
-2020-09-30,San Bernardino,071,50074,3951
+2020-09-30,San Bernardino,071,49907,3951
 2020-09-30,San Diego,073,42432,3735
 2020-09-30,San Francisco,075,10312,785
 2020-09-30,San Joaquin,077,19116,788
@@ -17666,7 +17724,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-29,Riverside,065,54588,3187
 2020-09-29,Sacramento,067,19969,2045
 2020-09-29,San Benito,069,1233,103
-2020-09-29,San Bernardino,071,49801,3871
+2020-09-29,San Bernardino,071,49633,3871
 2020-09-29,San Diego,073,42162,3804
 2020-09-29,San Francisco,075,10263,808
 2020-09-29,San Joaquin,077,19064,793
@@ -17724,7 +17782,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-28,Riverside,065,54378,3166
 2020-09-28,Sacramento,067,19863,2003
 2020-09-28,San Benito,069,1227,108
-2020-09-28,San Bernardino,071,49561,3773
+2020-09-28,San Bernardino,071,49369,3773
 2020-09-28,San Diego,073,41854,3847
 2020-09-28,San Francisco,075,10212,817
 2020-09-28,San Joaquin,077,18871,881
@@ -17782,7 +17840,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-27,Riverside,065,53707,3105
 2020-09-27,Sacramento,067,19503,2120
 2020-09-27,San Benito,069,1225,107
-2020-09-27,San Bernardino,071,49564,3779
+2020-09-27,San Bernardino,071,49377,3779
 2020-09-27,San Diego,073,41671,3931
 2020-09-27,San Francisco,075,10141,841
 2020-09-27,San Joaquin,077,18195,1507
@@ -17840,7 +17898,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-26,Riverside,065,53703,3105
 2020-09-26,Sacramento,067,19501,2120
 2020-09-26,San Benito,069,1210,117
-2020-09-26,San Bernardino,071,49422,3843
+2020-09-26,San Bernardino,071,49239,3843
 2020-09-26,San Diego,073,41400,3917
 2020-09-26,San Francisco,075,10098,813
 2020-09-26,San Joaquin,077,18197,1507
@@ -17898,7 +17956,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-25,Riverside,065,53688,3105
 2020-09-25,Sacramento,067,19495,2120
 2020-09-25,San Benito,069,1200,118
-2020-09-25,San Bernardino,071,49265,3284
+2020-09-25,San Bernardino,071,49082,3284
 2020-09-25,San Diego,073,40959,4032
 2020-09-25,San Francisco,075,10017,850
 2020-09-25,San Joaquin,077,18194,1507
@@ -17956,7 +18014,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-24,Riverside,065,53485,3015
 2020-09-24,Sacramento,067,19097,2357
 2020-09-24,San Benito,069,1196,112
-2020-09-24,San Bernardino,071,49098,3149
+2020-09-24,San Bernardino,071,48915,3149
 2020-09-24,San Diego,073,40594,3988
 2020-09-24,San Francisco,075,9952,826
 2020-09-24,San Joaquin,077,18035,1598
@@ -18014,7 +18072,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-23,Riverside,065,53365,2960
 2020-09-23,Sacramento,067,18951,2348
 2020-09-23,San Benito,069,1197,105
-2020-09-23,San Bernardino,071,48789,3212
+2020-09-23,San Bernardino,071,48599,3212
 2020-09-23,San Diego,073,40304,4101
 2020-09-23,San Francisco,075,9901,827
 2020-09-23,San Joaquin,077,17960,1596
@@ -18072,7 +18130,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-22,Riverside,065,53186,2910
 2020-09-22,Sacramento,067,18896,2340
 2020-09-22,San Benito,069,1194,105
-2020-09-22,San Bernardino,071,48549,3182
+2020-09-22,San Bernardino,071,48359,3182
 2020-09-22,San Diego,073,40052,4070
 2020-09-22,San Francisco,075,9852,834
 2020-09-22,San Joaquin,077,17709,1815
@@ -18130,7 +18188,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-21,Riverside,065,52627,3432
 2020-09-21,Sacramento,067,18802,2282
 2020-09-21,San Benito,069,1183,113
-2020-09-21,San Bernardino,071,48548,2958
+2020-09-21,San Bernardino,071,48362,2958
 2020-09-21,San Diego,073,39627,4275
 2020-09-21,San Francisco,075,9810,828
 2020-09-21,San Joaquin,077,17606,1742
@@ -18188,7 +18246,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-20,Riverside,065,52648,2694
 2020-09-20,Sacramento,067,18288,2358
 2020-09-20,San Benito,069,1173,113
-2020-09-20,San Bernardino,071,48432,2913
+2020-09-20,San Bernardino,071,48249,2913
 2020-09-20,San Diego,073,39623,3927
 2020-09-20,San Francisco,075,9743,830
 2020-09-20,San Joaquin,077,17621,1694
@@ -18246,7 +18304,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-19,Riverside,065,52642,2694
 2020-09-19,Sacramento,067,18290,2358
 2020-09-19,San Benito,069,1163,113
-2020-09-19,San Bernardino,071,48196,2962
+2020-09-19,San Bernardino,071,48017,2962
 2020-09-19,San Diego,073,39329,3951
 2020-09-19,San Francisco,075,9675,857
 2020-09-19,San Joaquin,077,17618,1694
@@ -18304,7 +18362,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-18,Riverside,065,52635,2694
 2020-09-18,Sacramento,067,18287,2358
 2020-09-18,San Benito,069,1148,110
-2020-09-18,San Bernardino,071,47541,3135
+2020-09-18,San Bernardino,071,47316,3135
 2020-09-18,San Diego,073,38893,4108
 2020-09-18,San Francisco,075,9583,885
 2020-09-18,San Joaquin,077,17621,1694
@@ -18362,7 +18420,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-17,Riverside,065,52350,2671
 2020-09-17,Sacramento,067,18095,2354
 2020-09-17,San Benito,069,1134,114
-2020-09-17,San Bernardino,071,47553,2852
+2020-09-17,San Bernardino,071,47315,2852
 2020-09-17,San Diego,073,38416,4173
 2020-09-17,San Francisco,075,9519,873
 2020-09-17,San Joaquin,077,17520,1701
@@ -18420,7 +18478,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-16,Riverside,065,51952,2895
 2020-09-16,Sacramento,067,17906,2247
 2020-09-16,San Benito,069,1112,131
-2020-09-16,San Bernardino,071,47162,3007
+2020-09-16,San Bernardino,071,46928,3007
 2020-09-16,San Diego,073,38089,4324
 2020-09-16,San Francisco,075,9448,873
 2020-09-16,San Joaquin,077,17307,1845
@@ -18478,7 +18536,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-15,Riverside,065,51811,2833
 2020-09-15,Sacramento,067,17767,2259
 2020-09-15,San Benito,069,1101,133
-2020-09-15,San Bernardino,071,46807,3099
+2020-09-15,San Bernardino,071,46574,3099
 2020-09-15,San Diego,073,37854,4310
 2020-09-15,San Francisco,075,9372,886
 2020-09-15,San Joaquin,077,17148,1944
@@ -18536,7 +18594,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-14,Riverside,065,51587,2857
 2020-09-14,Sacramento,067,17541,2383
 2020-09-14,San Benito,069,1086,143
-2020-09-14,San Bernardino,071,46571,3067
+2020-09-14,San Bernardino,071,46339,3067
 2020-09-14,San Diego,073,37597,4283
 2020-09-14,San Francisco,075,9313,884
 2020-09-14,San Joaquin,077,17026,1867
@@ -18594,7 +18652,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-13,Riverside,065,50557,3213
 2020-09-13,Sacramento,067,16633,2913
 2020-09-13,San Benito,069,1078,148
-2020-09-13,San Bernardino,071,46324,3326
+2020-09-13,San Bernardino,071,46099,3326
 2020-09-13,San Diego,073,37280,4379
 2020-09-13,San Francisco,075,9243,874
 2020-09-13,San Joaquin,077,16443,1774
@@ -18652,7 +18710,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-12,Riverside,065,50557,3213
 2020-09-12,Sacramento,067,16625,2913
 2020-09-12,San Benito,069,1070,142
-2020-09-12,San Bernardino,071,46105,3398
+2020-09-12,San Bernardino,071,45867,3398
 2020-09-12,San Diego,073,37036,4367
 2020-09-12,San Francisco,075,9172,914
 2020-09-12,San Joaquin,077,16454,1774
@@ -18710,7 +18768,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-11,Riverside,065,50525,3213
 2020-09-11,Sacramento,067,16639,2913
 2020-09-11,San Benito,069,1032,171
-2020-09-11,San Bernardino,071,45842,3493
+2020-09-11,San Bernardino,071,45593,3493
 2020-09-11,San Diego,073,36767,4185
 2020-09-11,San Francisco,075,9034,973
 2020-09-11,San Joaquin,077,16447,1774
@@ -18768,7 +18826,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-10,Riverside,065,50409,3134
 2020-09-10,Sacramento,067,16380,2760
 2020-09-10,San Benito,069,1008,191
-2020-09-10,San Bernardino,071,45352,3803
+2020-09-10,San Bernardino,071,45104,3803
 2020-09-10,San Diego,073,36489,4109
 2020-09-10,San Francisco,075,8972,971
 2020-09-10,San Joaquin,077,16306,1755
@@ -18826,7 +18884,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-09,Riverside,065,50215,3197
 2020-09-09,Sacramento,067,16213,2782
 2020-09-09,San Benito,069,988,211
-2020-09-09,San Bernardino,071,44990,3858
+2020-09-09,San Bernardino,071,44742,3858
 2020-09-09,San Diego,073,36192,4102
 2020-09-09,San Francisco,075,8889,1014
 2020-09-09,San Joaquin,077,16140,1849
@@ -18884,7 +18942,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-08,Riverside,065,49864,3372
 2020-09-08,Sacramento,067,16086,2837
 2020-09-08,San Benito,069,977,220
-2020-09-08,San Bernardino,071,44626,4025
+2020-09-08,San Bernardino,071,44357,4025
 2020-09-08,San Diego,073,36007,4083
 2020-09-08,San Francisco,075,8813,1050
 2020-09-08,San Joaquin,077,16061,1659
@@ -18942,7 +19000,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-07,Riverside,065,49434,3243
 2020-09-07,Sacramento,067,15817,3015
 2020-09-07,San Benito,069,968,219
-2020-09-07,San Bernardino,071,44215,4445
+2020-09-07,San Bernardino,071,43952,4445
 2020-09-07,San Diego,073,35737,3923
 2020-09-07,San Francisco,075,8772,1043
 2020-09-07,San Joaquin,077,15664,1968
@@ -19000,7 +19058,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-06,Riverside,065,48185,4505
 2020-09-06,Sacramento,067,14716,3567
 2020-09-06,San Benito,069,960,218
-2020-09-06,San Bernardino,071,44003,4523
+2020-09-06,San Bernardino,071,43744,4523
 2020-09-06,San Diego,073,35567,4110
 2020-09-06,San Francisco,075,8711,1044
 2020-09-06,San Joaquin,077,15159,2477
@@ -19058,7 +19116,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-05,Riverside,065,48195,4505
 2020-09-05,Sacramento,067,14715,3567
 2020-09-05,San Benito,069,937,230
-2020-09-05,San Bernardino,071,43556,4722
+2020-09-05,San Bernardino,071,43305,4722
 2020-09-05,San Diego,073,35239,4139
 2020-09-05,San Francisco,075,8648,1048
 2020-09-05,San Joaquin,077,15150,2477
@@ -19116,7 +19174,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-04,Riverside,065,48199,4505
 2020-09-04,Sacramento,067,14709,3567
 2020-09-04,San Benito,069,907,244
-2020-09-04,San Bernardino,071,42916,4672
+2020-09-04,San Bernardino,071,42647,4672
 2020-09-04,San Diego,073,34933,3987
 2020-09-04,San Francisco,075,8553,1053
 2020-09-04,San Joaquin,077,15153,2477
@@ -19174,7 +19232,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-03,Riverside,065,47681,4747
 2020-09-03,Sacramento,067,14445,3623
 2020-09-03,San Benito,069,892,244
-2020-09-03,San Bernardino,071,42430,5146
+2020-09-03,San Bernardino,071,42164,5146
 2020-09-03,San Diego,073,34619,3838
 2020-09-03,San Francisco,075,8453,1085
 2020-09-03,San Joaquin,077,15019,2508
@@ -19232,7 +19290,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-02,Riverside,065,47341,4676
 2020-09-02,Sacramento,067,14234,3653
 2020-09-02,San Benito,069,862,251
-2020-09-02,San Bernardino,071,41881,5298
+2020-09-02,San Bernardino,071,41621,5298
 2020-09-02,San Diego,073,34391,3745
 2020-09-02,San Francisco,075,8362,1089
 2020-09-02,San Joaquin,077,14910,2399
@@ -19290,7 +19348,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-09-01,Riverside,065,46910,4953
 2020-09-01,Sacramento,067,14072,3684
 2020-09-01,San Benito,069,847,253
-2020-09-01,San Bernardino,071,41065,5729
+2020-09-01,San Bernardino,071,40804,5729
 2020-09-01,San Diego,073,34167,3709
 2020-09-01,San Francisco,075,8251,1117
 2020-09-01,San Joaquin,077,14756,2419
@@ -19348,7 +19406,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-31,Riverside,065,46201,5419
 2020-08-31,Sacramento,067,13790,3726
 2020-08-31,San Benito,069,838,249
-2020-08-31,San Bernardino,071,40493,6078
+2020-08-31,San Bernardino,071,40219,6078
 2020-08-31,San Diego,073,33972,3644
 2020-08-31,San Francisco,075,8177,1148
 2020-08-31,San Joaquin,077,14564,2489
@@ -19406,7 +19464,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-30,Riverside,065,44374,6198
 2020-08-30,Sacramento,067,13114,3535
 2020-08-30,San Benito,069,826,254
-2020-08-30,San Bernardino,071,40071,6249
+2020-08-30,San Bernardino,071,39799,6249
 2020-08-30,San Diego,073,33691,3622
 2020-08-30,San Francisco,075,8129,1136
 2020-08-30,San Joaquin,077,14228,2262
@@ -19464,7 +19522,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-29,Riverside,065,44350,6198
 2020-08-29,Sacramento,067,13096,3535
 2020-08-29,San Benito,069,818,253
-2020-08-29,San Bernardino,071,39288,6807
+2020-08-29,San Bernardino,071,39023,6807
 2020-08-29,San Diego,073,33362,3703
 2020-08-29,San Francisco,075,7989,1192
 2020-08-29,San Joaquin,077,14211,2262
@@ -19522,7 +19580,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-28,Riverside,065,44358,6198
 2020-08-28,Sacramento,067,13111,3535
 2020-08-28,San Benito,069,805,227
-2020-08-28,San Bernardino,071,38304,7518
+2020-08-28,San Bernardino,071,38047,7518
 2020-08-28,San Diego,073,33107,3719
 2020-08-28,San Francisco,075,7878,1162
 2020-08-28,San Joaquin,077,14200,2262
@@ -19580,7 +19638,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-27,Riverside,065,43372,7055
 2020-08-27,Sacramento,067,12714,3693
 2020-08-27,San Benito,069,782,226
-2020-08-27,San Bernardino,071,37594,7737
+2020-08-27,San Bernardino,071,37341,7737
 2020-08-27,San Diego,073,32687,3840
 2020-08-27,San Francisco,075,7771,1205
 2020-08-27,San Joaquin,077,13813,2497
@@ -19638,7 +19696,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-26,Riverside,065,42678,7555
 2020-08-26,Sacramento,067,11965,4264
 2020-08-26,San Benito,069,762,225
-2020-08-26,San Bernardino,071,37214,7761
+2020-08-26,San Bernardino,071,36961,7761
 2020-08-26,San Diego,073,32409,3829
 2020-08-26,San Francisco,075,7655,1226
 2020-08-26,San Joaquin,077,13568,2589
@@ -19696,7 +19754,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-25,Riverside,065,42089,7824
 2020-08-25,Sacramento,067,11767,4349
 2020-08-25,San Benito,069,754,220
-2020-08-25,San Bernardino,071,36240,8351
+2020-08-25,San Bernardino,071,35978,8351
 2020-08-25,San Diego,073,32169,3837
 2020-08-25,San Francisco,075,7507,1289
 2020-08-25,San Joaquin,077,13420,2675
@@ -19754,7 +19812,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-24,Riverside,065,40693,8761
 2020-08-24,Sacramento,067,11538,4291
 2020-08-24,San Benito,069,751,213
-2020-08-24,San Bernardino,071,34978,9174
+2020-08-24,San Bernardino,071,34718,9174
 2020-08-24,San Diego,073,32006,3752
 2020-08-24,San Francisco,075,7429,1313
 2020-08-24,San Joaquin,077,12414,3267
@@ -19812,7 +19870,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-23,Riverside,065,39185,9030
 2020-08-23,Sacramento,067,10310,4451
 2020-08-23,San Benito,069,705,252
-2020-08-23,San Bernardino,071,34594,9323
+2020-08-23,San Bernardino,071,34341,9323
 2020-08-23,San Diego,073,31798,3793
 2020-08-23,San Francisco,075,7362,1323
 2020-08-23,San Joaquin,077,11849,3319
@@ -19870,7 +19928,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-22,Riverside,065,39206,9030
 2020-08-22,Sacramento,067,10291,4451
 2020-08-22,San Benito,069,701,232
-2020-08-22,San Bernardino,071,34342,9151
+2020-08-22,San Bernardino,071,34099,9151
 2020-08-22,San Diego,073,31399,3873
 2020-08-22,San Francisco,075,7249,1359
 2020-08-22,San Joaquin,077,11859,3319
@@ -19928,7 +19986,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-21,Riverside,065,39173,9030
 2020-08-21,Sacramento,067,10292,4451
 2020-08-21,San Benito,069,694,209
-2020-08-21,San Bernardino,071,33864,9004
+2020-08-21,San Bernardino,071,33564,9004
 2020-08-21,San Diego,073,30841,4133
 2020-08-21,San Francisco,075,7136,1376
 2020-08-21,San Joaquin,077,11845,3319
@@ -19986,7 +20044,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-20,Riverside,065,38444,9215
 2020-08-20,Sacramento,067,10036,4440
 2020-08-20,San Benito,069,684,203
-2020-08-20,San Bernardino,071,33549,8834
+2020-08-20,San Bernardino,071,33254,8834
 2020-08-20,San Diego,073,30199,4481
 2020-08-20,San Francisco,075,7031,1383
 2020-08-20,San Joaquin,077,11653,3373
@@ -20044,7 +20102,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-19,Riverside,065,37672,9653
 2020-08-19,Sacramento,067,9728,4516
 2020-08-19,San Benito,069,680,178
-2020-08-19,San Bernardino,071,33116,8710
+2020-08-19,San Bernardino,071,32824,8710
 2020-08-19,San Diego,073,29946,4512
 2020-08-19,San Francisco,075,6876,1447
 2020-08-19,San Joaquin,077,11573,3345
@@ -20102,7 +20160,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-18,Riverside,065,37165,9713
 2020-08-18,Sacramento,067,9650,4428
 2020-08-18,San Benito,069,674,170
-2020-08-18,San Bernardino,071,32872,8133
+2020-08-18,San Bernardino,071,32582,8133
 2020-08-18,San Diego,073,29558,4646
 2020-08-18,San Francisco,075,6787,1438
 2020-08-18,San Joaquin,077,11506,3243
@@ -20160,7 +20218,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-17,Riverside,065,36819,9359
 2020-08-17,Sacramento,067,9610,4204
 2020-08-17,San Benito,069,663,172
-2020-08-17,San Bernardino,071,32343,8132
+2020-08-17,San Bernardino,071,32017,8132
 2020-08-17,San Diego,073,29297,4734
 2020-08-17,San Francisco,075,6738,1430
 2020-08-17,San Joaquin,077,11447,3123
@@ -20218,7 +20276,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-16,Riverside,065,35737,8651
 2020-08-16,Sacramento,067,9569,3548
 2020-08-16,San Benito,069,634,189
-2020-08-16,San Bernardino,071,31885,8144
+2020-08-16,San Bernardino,071,31565,8144
 2020-08-16,San Diego,073,28967,4795
 2020-08-16,San Francisco,075,6634,1481
 2020-08-16,San Joaquin,077,11050,3168
@@ -20276,7 +20334,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-15,Riverside,065,35746,8651
 2020-08-15,Sacramento,067,9523,3599
 2020-08-15,San Benito,069,630,185
-2020-08-15,San Bernardino,071,31587,7642
+2020-08-15,San Bernardino,071,31281,7642
 2020-08-15,San Diego,073,28678,4767
 2020-08-15,San Francisco,075,6536,1434
 2020-08-15,San Joaquin,077,11058,3168
@@ -20334,7 +20392,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-14,Riverside,065,35720,8651
 2020-08-14,Sacramento,067,9341,3795
 2020-08-14,San Benito,069,609,193
-2020-08-14,San Bernardino,071,31133,7144
+2020-08-14,San Bernardino,071,30824,7144
 2020-08-14,San Diego,073,28126,5017
 2020-08-14,San Francisco,075,6399,1478
 2020-08-14,San Joaquin,077,11056,3168
@@ -20392,7 +20450,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-13,Riverside,065,35347,8050
 2020-08-13,Sacramento,067,9201,3552
 2020-08-13,San Benito,069,597,183
-2020-08-13,San Bernardino,071,30579,6982
+2020-08-13,San Bernardino,071,30279,6982
 2020-08-13,San Diego,073,27764,4971
 2020-08-13,San Francisco,075,6246,1521
 2020-08-13,San Joaquin,077,10938,2934
@@ -20450,7 +20508,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-12,Riverside,065,34915,7824
 2020-08-12,Sacramento,067,9037,2964
 2020-08-12,San Benito,069,591,172
-2020-08-12,San Bernardino,071,29721,7465
+2020-08-12,San Bernardino,071,29434,7465
 2020-08-12,San Diego,073,27359,5106
 2020-08-12,San Francisco,075,6017,1637
 2020-08-12,San Joaquin,077,10798,2817
@@ -20508,7 +20566,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-11,Riverside,065,34650,7466
 2020-08-11,Sacramento,067,8948,2856
 2020-08-11,San Benito,069,575,183
-2020-08-11,San Bernardino,071,28885,7353
+2020-08-11,San Bernardino,071,28601,7353
 2020-08-11,San Diego,073,27067,5152
 2020-08-11,San Francisco,075,5896,1627
 2020-08-11,San Joaquin,077,10507,2947
@@ -20566,7 +20624,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-10,Riverside,065,33917,6796
 2020-08-10,Sacramento,067,8528,3022
 2020-08-10,San Benito,069,543,212
-2020-08-10,San Bernardino,071,28036,6941
+2020-08-10,San Bernardino,071,27763,6941
 2020-08-10,San Diego,073,26589,5468
 2020-08-10,San Francisco,075,5859,1601
 2020-08-10,San Joaquin,077,10274,2189
@@ -20624,7 +20682,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-09,Riverside,065,32214,6985
 2020-08-09,Sacramento,067,8416,1892
 2020-08-09,San Benito,069,528,182
-2020-08-09,San Bernardino,071,26893,7720
+2020-08-09,San Bernardino,071,26628,7720
 2020-08-09,San Diego,073,26066,5763
 2020-08-09,San Francisco,075,5767,1616
 2020-08-09,San Joaquin,077,9727,2177
@@ -20682,7 +20740,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-08,Riverside,065,32218,6985
 2020-08-08,Sacramento,067,8150,2159
 2020-08-08,San Benito,069,518,190
-2020-08-08,San Bernardino,071,26499,7897
+2020-08-08,San Bernardino,071,26198,7897
 2020-08-08,San Diego,073,25785,5629
 2020-08-08,San Francisco,075,5632,1645
 2020-08-08,San Joaquin,077,9737,2177
@@ -20740,7 +20798,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-07,Riverside,065,32181,6985
 2020-08-07,Sacramento,067,8060,2241
 2020-08-07,San Benito,069,515,188
-2020-08-07,San Bernardino,071,25746,8143
+2020-08-07,San Bernardino,071,25450,8143
 2020-08-07,San Diego,073,25166,5681
 2020-08-07,San Francisco,075,5525,1647
 2020-08-07,San Joaquin,077,9730,2177
@@ -20798,7 +20856,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-06,Riverside,065,31528,6928
 2020-08-06,Sacramento,067,7783,2297
 2020-08-06,San Benito,069,506,186
-2020-08-06,San Bernardino,071,25094,8450
+2020-08-06,San Bernardino,071,24807,8450
 2020-08-06,San Diego,073,24683,5519
 2020-08-06,San Francisco,075,5407,1664
 2020-08-06,San Joaquin,077,9412,2293
@@ -20856,7 +20914,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-05,Riverside,065,30722,6995
 2020-08-05,Sacramento,067,7508,2273
 2020-08-05,San Benito,069,488,200
-2020-08-05,San Bernardino,071,24671,8462
+2020-08-05,San Bernardino,071,24390,8462
 2020-08-05,San Diego,073,24158,5757
 2020-08-05,San Francisco,075,5303,1622
 2020-08-05,San Joaquin,077,9154,2439
@@ -20914,7 +20972,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-04,Riverside,065,29641,7597
 2020-08-04,Sacramento,067,7228,2488
 2020-08-04,San Benito,069,479,203
-2020-08-04,San Bernardino,071,23991,8950
+2020-08-04,San Bernardino,071,23714,8950
 2020-08-04,San Diego,073,23548,5996
 2020-08-04,San Francisco,075,5198,1626
 2020-08-04,San Joaquin,077,8338,3159
@@ -20972,7 +21030,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-03,Riverside,065,28703,8148
 2020-08-03,Sacramento,067,6873,2796
 2020-08-03,San Benito,069,451,218
-2020-08-03,San Bernardino,071,23044,9333
+2020-08-03,San Bernardino,071,22724,9333
 2020-08-03,San Diego,073,23209,6091
 2020-08-03,San Francisco,075,5140,1611
 2020-08-03,San Joaquin,077,7888,3564
@@ -21030,7 +21088,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-02,Riverside,065,27488,8316
 2020-08-02,Sacramento,067,6498,3132
 2020-08-02,San Benito,069,441,199
-2020-08-02,San Bernardino,071,22713,9208
+2020-08-02,San Bernardino,071,22404,9208
 2020-08-02,San Diego,073,22742,6201
 2020-08-02,San Francisco,075,5032,1609
 2020-08-02,San Joaquin,077,7393,3664
@@ -21088,7 +21146,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-08-01,Riverside,065,27454,8316
 2020-08-01,Sacramento,067,6249,3323
 2020-08-01,San Benito,069,429,206
-2020-08-01,San Bernardino,071,22497,9130
+2020-08-01,San Bernardino,071,22201,9130
 2020-08-01,San Diego,073,22165,6463
 2020-08-01,San Francisco,075,4936,1607
 2020-08-01,San Joaquin,077,7382,3664
@@ -21146,7 +21204,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-31,Riverside,065,27459,8316
 2020-07-31,Sacramento,067,6072,3309
 2020-07-31,San Benito,069,429,188
-2020-07-31,San Bernardino,071,22179,8992
+2020-07-31,San Bernardino,071,21885,8992
 2020-07-31,San Diego,073,21547,6559
 2020-07-31,San Francisco,075,4795,1600
 2020-07-31,San Joaquin,077,7391,3664
@@ -21204,7 +21262,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-30,Riverside,065,26944,8452
 2020-07-30,Sacramento,067,5939,3269
 2020-07-30,San Benito,069,411,191
-2020-07-30,San Bernardino,071,20388,10220
+2020-07-30,San Bernardino,071,20096,10220
 2020-07-30,San Diego,073,20877,6833
 2020-07-30,San Francisco,075,4683,1563
 2020-07-30,San Joaquin,077,7262,3662
@@ -21262,7 +21320,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-29,Riverside,065,26110,8788
 2020-07-29,Sacramento,067,5709,3340
 2020-07-29,San Benito,069,400,193
-2020-07-29,San Bernardino,071,20419,9357
+2020-07-29,San Bernardino,071,20134,9357
 2020-07-29,San Diego,073,20446,6841
 2020-07-29,San Francisco,075,4516,1501
 2020-07-29,San Joaquin,077,7008,3781
@@ -21320,7 +21378,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-28,Riverside,065,25177,9429
 2020-07-28,Sacramento,067,5503,3480
 2020-07-28,San Benito,069,388,186
-2020-07-28,San Bernardino,071,19351,9506
+2020-07-28,San Bernardino,071,19082,9506
 2020-07-28,San Diego,073,19838,7118
 2020-07-28,San Francisco,075,4461,1425
 2020-07-28,San Joaquin,077,6812,3707
@@ -21378,7 +21436,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-27,Riverside,065,24468,9439
 2020-07-27,Sacramento,067,5297,3304
 2020-07-27,San Benito,069,374,171
-2020-07-27,San Bernardino,071,18430,9629
+2020-07-27,San Bernardino,071,18161,9629
 2020-07-27,San Diego,073,19383,7159
 2020-07-27,San Francisco,075,4416,1432
 2020-07-27,San Joaquin,077,6610,3687
@@ -21436,7 +21494,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-26,Riverside,065,23498,8702
 2020-07-26,Sacramento,067,5088,3414
 2020-07-26,San Benito,069,354,174
-2020-07-26,San Bernardino,071,17947,8949
+2020-07-26,San Bernardino,071,17690,8949
 2020-07-26,San Diego,073,18938,7055
 2020-07-26,San Francisco,075,4349,1410
 2020-07-26,San Joaquin,077,5906,3847
@@ -21494,7 +21552,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-25,Riverside,065,23518,8702
 2020-07-25,Sacramento,067,4946,3297
 2020-07-25,San Benito,069,346,171
-2020-07-25,San Bernardino,071,17798,8643
+2020-07-25,San Bernardino,071,17544,8643
 2020-07-25,San Diego,073,18396,7330
 2020-07-25,San Francisco,075,4252,1361
 2020-07-25,San Joaquin,077,5920,3847
@@ -21552,7 +21610,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-24,Riverside,065,23530,8702
 2020-07-24,Sacramento,067,4769,3402
 2020-07-24,San Benito,069,328,185
-2020-07-24,San Bernardino,071,17188,8521
+2020-07-24,San Bernardino,071,16957,8521
 2020-07-24,San Diego,073,17919,7235
 2020-07-24,San Francisco,075,4150,1363
 2020-07-24,San Joaquin,077,5909,3847
@@ -21610,7 +21668,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-23,Riverside,065,22036,9479
 2020-07-23,Sacramento,067,4525,3315
 2020-07-23,San Benito,069,306,202
-2020-07-23,San Bernardino,071,16352,8771
+2020-07-23,San Bernardino,071,16118,8771
 2020-07-23,San Diego,073,17448,7206
 2020-07-23,San Francisco,075,3976,1419
 2020-07-23,San Joaquin,077,5711,3761
@@ -21668,7 +21726,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-22,Riverside,065,20667,10025
 2020-07-22,Sacramento,067,4387,3195
 2020-07-22,San Benito,069,300,190
-2020-07-22,San Bernardino,071,15561,9189
+2020-07-22,San Bernardino,071,15328,9189
 2020-07-22,San Diego,073,16904,7265
 2020-07-22,San Francisco,075,3905,1388
 2020-07-22,San Joaquin,077,5452,3778
@@ -21726,7 +21784,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-21,Riverside,065,19824,9789
 2020-07-21,Sacramento,067,4201,3120
 2020-07-21,San Benito,069,286,194
-2020-07-21,San Bernardino,071,14875,9135
+2020-07-21,San Bernardino,071,14652,9135
 2020-07-21,San Diego,073,16606,6942
 2020-07-21,San Francisco,075,3846,1343
 2020-07-21,San Joaquin,077,5245,3199
@@ -21784,7 +21842,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-20,Riverside,065,19260,9428
 2020-07-20,Sacramento,067,4054,2931
 2020-07-20,San Benito,069,280,174
-2020-07-20,San Bernardino,071,14340,8754
+2020-07-20,San Bernardino,071,14129,8754
 2020-07-20,San Diego,073,16023,7135
 2020-07-20,San Francisco,075,3835,1313
 2020-07-20,San Joaquin,077,5087,2870
@@ -21842,7 +21900,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-19,Riverside,065,18924,8516
 2020-07-19,Sacramento,067,3899,2699
 2020-07-19,San Benito,069,268,175
-2020-07-19,San Bernardino,071,13920,8850
+2020-07-19,San Bernardino,071,13726,8850
 2020-07-19,San Diego,073,15766,6956
 2020-07-19,San Francisco,075,3615,1426
 2020-07-19,San Joaquin,077,4900,2588
@@ -21900,7 +21958,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-18,Riverside,065,18915,8516
 2020-07-18,Sacramento,067,3685,2689
 2020-07-18,San Benito,069,260,172
-2020-07-18,San Bernardino,071,13673,8866
+2020-07-18,San Bernardino,071,13493,8866
 2020-07-18,San Diego,073,14731,7418
 2020-07-18,San Francisco,075,3617,1340
 2020-07-18,San Joaquin,077,4587,2912
@@ -21958,7 +22016,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-17,Riverside,065,18169,9245
 2020-07-17,Sacramento,067,3354,2840
 2020-07-17,San Benito,069,256,174
-2020-07-17,San Bernardino,071,12681,9562
+2020-07-17,San Bernardino,071,12495,9562
 2020-07-17,San Diego,073,14715,6793
 2020-07-17,San Francisco,075,3619,1199
 2020-07-17,San Joaquin,077,4208,3296
@@ -22016,7 +22074,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-16,Riverside,065,17460,9457
 2020-07-16,Sacramento,067,3247,2836
 2020-07-16,San Benito,069,254,161
-2020-07-16,San Bernardino,071,12166,8316
+2020-07-16,San Bernardino,071,11994,8316
 2020-07-16,San Diego,073,14244,6648
 2020-07-16,San Francisco,075,3561,1141
 2020-07-16,San Joaquin,077,4003,3363
@@ -22074,7 +22132,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-15,Riverside,065,16782,9330
 2020-07-15,Sacramento,067,3101,2777
 2020-07-15,San Benito,069,236,169
-2020-07-15,San Bernardino,071,11780,8722
+2020-07-15,San Bernardino,071,11621,8722
 2020-07-15,San Diego,073,13675,6823
 2020-07-15,San Francisco,075,3490,1048
 2020-07-15,San Joaquin,077,3756,3325
@@ -22132,7 +22190,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-14,Riverside,065,16027,9185
 2020-07-14,Sacramento,067,2937,2715
 2020-07-14,San Benito,069,229,165
-2020-07-14,San Bernardino,071,11565,7906
+2020-07-14,San Bernardino,071,11422,7906
 2020-07-14,San Diego,073,13231,6738
 2020-07-14,San Francisco,075,3448,1037
 2020-07-14,San Joaquin,077,3590,3317
@@ -22190,7 +22248,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-13,Riverside,065,15422,9114
 2020-07-13,Sacramento,067,2720,2710
 2020-07-13,San Benito,069,209,169
-2020-07-13,San Bernardino,071,10810,7705
+2020-07-13,San Bernardino,071,10677,7705
 2020-07-13,San Diego,073,12952,6516
 2020-07-13,San Francisco,075,3402,1029
 2020-07-13,San Joaquin,077,3290,3381
@@ -22248,7 +22306,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-12,Riverside,065,14471,9122
 2020-07-12,Sacramento,067,2493,2713
 2020-07-12,San Benito,069,202,156
-2020-07-12,San Bernardino,071,10526,7542
+2020-07-12,San Bernardino,071,10407,7542
 2020-07-12,San Diego,073,12445,6595
 2020-07-12,San Francisco,075,3368,1010
 2020-07-12,San Joaquin,077,3112,2862
@@ -22306,7 +22364,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-11,Riverside,065,14459,9122
 2020-07-11,Sacramento,067,2405,2673
 2020-07-11,San Benito,069,200,149
-2020-07-11,San Bernardino,071,10334,7622
+2020-07-11,San Bernardino,071,10224,7622
 2020-07-11,San Diego,073,11949,6534
 2020-07-11,San Francisco,075,3321,958
 2020-07-11,San Joaquin,077,2914,3065
@@ -22364,7 +22422,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-10,Riverside,065,14425,9122
 2020-07-10,Sacramento,067,2411,2486
 2020-07-10,San Benito,069,192,138
-2020-07-10,San Bernardino,071,10344,6985
+2020-07-10,San Bernardino,071,10240,6985
 2020-07-10,San Diego,073,11491,6462
 2020-07-10,San Francisco,075,3253,916
 2020-07-10,San Joaquin,077,2828,3139
@@ -22422,7 +22480,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-09,Riverside,065,13919,8192
 2020-07-09,Sacramento,067,2253,2420
 2020-07-09,San Benito,069,189,117
-2020-07-09,San Bernardino,071,9865,6645
+2020-07-09,San Bernardino,071,9767,6645
 2020-07-09,San Diego,073,11057,6441
 2020-07-09,San Francisco,075,3153,848
 2020-07-09,San Joaquin,077,2643,3111
@@ -22480,7 +22538,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-08,Riverside,065,13726,7052
 2020-07-08,Sacramento,067,2185,2336
 2020-07-08,San Benito,069,187,113
-2020-07-08,San Bernardino,071,9515,6179
+2020-07-08,San Bernardino,071,9414,6179
 2020-07-08,San Diego,073,10737,6216
 2020-07-08,San Francisco,075,3111,822
 2020-07-08,San Joaquin,077,2479,3033
@@ -22538,7 +22596,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-07,Riverside,065,13274,6670
 2020-07-07,Sacramento,067,2125,2192
 2020-07-07,San Benito,069,182,107
-2020-07-07,San Bernardino,071,9159,5922
+2020-07-07,San Bernardino,071,9043,5922
 2020-07-07,San Diego,073,10416,6284
 2020-07-07,San Francisco,075,3081,801
 2020-07-07,San Joaquin,077,2368,2965
@@ -22596,7 +22654,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-06,Riverside,065,12656,6755
 2020-07-06,Sacramento,067,1997,2152
 2020-07-06,San Benito,069,179,103
-2020-07-06,San Bernardino,071,8518,5984
+2020-07-06,San Bernardino,071,8406,5984
 2020-07-06,San Diego,073,10253,5904
 2020-07-06,San Francisco,075,3055,807
 2020-07-06,San Joaquin,077,2161,2993
@@ -22654,7 +22712,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-05,Riverside,065,11683,7401
 2020-07-05,Sacramento,067,1922,2076
 2020-07-05,San Benito,069,168,103
-2020-07-05,San Bernardino,071,8322,5766
+2020-07-05,San Bernardino,071,8230,5766
 2020-07-05,San Diego,073,9966,5932
 2020-07-05,San Francisco,075,2924,718
 2020-07-05,San Joaquin,077,2100,2888
@@ -22712,7 +22770,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-04,Riverside,065,11697,7401
 2020-07-04,Sacramento,067,1833,1935
 2020-07-04,San Benito,069,161,101
-2020-07-04,San Bernardino,071,8133,5741
+2020-07-04,San Bernardino,071,8048,5741
 2020-07-04,San Diego,073,9652,5212
 2020-07-04,San Francisco,075,2926,718
 2020-07-04,San Joaquin,077,2022,2636
@@ -22770,7 +22828,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-03,Riverside,065,11728,6672
 2020-07-03,Sacramento,067,1763,1695
 2020-07-03,San Benito,069,158,99
-2020-07-03,San Bernardino,071,7906,4962
+2020-07-03,San Bernardino,071,7827,4962
 2020-07-03,San Diego,073,9528,5346
 2020-07-03,San Francisco,075,2922,719
 2020-07-03,San Joaquin,077,1868,2394
@@ -22828,7 +22886,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-02,Riverside,065,11426,6253
 2020-07-02,Sacramento,067,1722,1619
 2020-07-02,San Benito,069,150,104
-2020-07-02,San Bernardino,071,7660,4698
+2020-07-02,San Bernardino,071,7585,4698
 2020-07-02,San Diego,073,9256,5115
 2020-07-02,San Francisco,075,2888,699
 2020-07-02,San Joaquin,077,1783,2286
@@ -22886,7 +22944,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-07-01,Riverside,065,10941,6090
 2020-07-01,Sacramento,067,1688,1505
 2020-07-01,San Benito,069,137,99
-2020-07-01,San Bernardino,071,7240,4732
+2020-07-01,San Bernardino,071,7162,4732
 2020-07-01,San Diego,073,9020,4769
 2020-07-01,San Francisco,075,2847,666
 2020-07-01,San Joaquin,077,1702,2184
@@ -22944,7 +23002,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-30,Riverside,065,10706,5602
 2020-06-30,Sacramento,067,1630,1398
 2020-06-30,San Benito,069,133,97
-2020-06-30,San Bernardino,071,7052,4754
+2020-06-30,San Bernardino,071,6973,4754
 2020-06-30,San Diego,073,8912,4419
 2020-06-30,San Francisco,075,2841,632
 2020-06-30,San Joaquin,077,1533,2118
@@ -23002,7 +23060,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-29,Riverside,065,10338,5349
 2020-06-29,Sacramento,067,1596,1210
 2020-06-29,San Benito,069,127,84
-2020-06-29,San Bernardino,071,6788,4282
+2020-06-29,San Bernardino,071,6713,4282
 2020-06-29,San Diego,073,8756,4222
 2020-06-29,San Francisco,075,2823,609
 2020-06-29,San Joaquin,077,1506,1890
@@ -23060,7 +23118,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-28,Riverside,065,9570,5153
 2020-06-28,Sacramento,067,1581,1023
 2020-06-28,San Benito,069,123,81
-2020-06-28,San Bernardino,071,6651,4142
+2020-06-28,San Bernardino,071,6588,4142
 2020-06-28,San Diego,073,8621,3894
 2020-06-28,San Francisco,075,2809,584
 2020-06-28,San Joaquin,077,1474,1731
@@ -23118,7 +23176,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-27,Riverside,065,9567,5153
 2020-06-27,Sacramento,067,1556,950
 2020-06-27,San Benito,069,119,84
-2020-06-27,San Bernardino,071,6481,4129
+2020-06-27,San Bernardino,071,6423,4129
 2020-06-27,San Diego,073,8517,3523
 2020-06-27,San Francisco,075,2785,562
 2020-06-27,San Joaquin,077,1381,1627
@@ -23176,7 +23234,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-26,Riverside,065,9578,5153
 2020-06-26,Sacramento,067,1555,962
 2020-06-26,San Benito,069,116,80
-2020-06-26,San Bernardino,071,6282,4314
+2020-06-26,San Bernardino,071,6228,4314
 2020-06-26,San Diego,073,8345,3271
 2020-06-26,San Francisco,075,2761,523
 2020-06-26,San Joaquin,077,1236,1700
@@ -23234,7 +23292,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-25,Riverside,065,9345,4902
 2020-06-25,Sacramento,067,1507,842
 2020-06-25,San Benito,069,110,82
-2020-06-25,San Bernardino,071,6058,4027
+2020-06-25,San Bernardino,071,6014,4027
 2020-06-25,San Diego,073,8221,2963
 2020-06-25,San Francisco,075,2738,457
 2020-06-25,San Joaquin,077,1211,1557
@@ -23292,7 +23350,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-24,Riverside,065,9042,4994
 2020-06-24,Sacramento,067,1499,798
 2020-06-24,San Benito,069,107,82
-2020-06-24,San Bernardino,071,5916,3814
+2020-06-24,San Bernardino,071,5874,3814
 2020-06-24,San Diego,073,8107,2789
 2020-06-24,San Francisco,075,2706,440
 2020-06-24,San Joaquin,077,1140,1473
@@ -23350,7 +23408,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-23,Riverside,065,8725,4841
 2020-06-23,Sacramento,067,1493,750
 2020-06-23,San Benito,069,107,76
-2020-06-23,San Bernardino,071,5742,3593
+2020-06-23,San Bernardino,071,5694,3593
 2020-06-23,San Diego,073,8018,2565
 2020-06-23,San Francisco,075,2692,426
 2020-06-23,San Joaquin,077,1101,1377
@@ -23408,7 +23466,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-22,Riverside,065,8359,4594
 2020-06-22,Sacramento,067,1468,655
 2020-06-22,San Benito,069,107,72
-2020-06-22,San Bernardino,071,5628,3114
+2020-06-22,San Bernardino,071,5583,3114
 2020-06-22,San Diego,073,7935,2477
 2020-06-22,San Francisco,075,2684,406
 2020-06-22,San Joaquin,077,1009,1260
@@ -23466,7 +23524,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-21,Riverside,065,7962,4001
 2020-06-21,Sacramento,067,1442,591
 2020-06-21,San Benito,069,105,63
-2020-06-21,San Bernardino,071,5463,3116
+2020-06-21,San Bernardino,071,5419,3116
 2020-06-21,San Diego,073,7812,2318
 2020-06-21,San Francisco,075,2656,311
 2020-06-21,San Joaquin,077,1023,1173
@@ -23524,7 +23582,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-20,Riverside,065,8001,4001
 2020-06-20,Sacramento,067,1418,532
 2020-06-20,San Benito,069,103,59
-2020-06-20,San Bernardino,071,5477,2919
+2020-06-20,San Bernardino,071,5436,2919
 2020-06-20,San Diego,073,7677,2139
 2020-06-20,San Francisco,075,2609,346
 2020-06-20,San Joaquin,077,993,1146
@@ -23582,7 +23640,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-19,Riverside,065,7981,4001
 2020-06-19,Sacramento,067,1398,457
 2020-06-19,San Benito,069,103,56
-2020-06-19,San Bernardino,071,5382,2784
+2020-06-19,San Bernardino,071,5341,2784
 2020-06-19,San Diego,073,7489,2170
 2020-06-19,San Francisco,075,2612,359
 2020-06-19,San Joaquin,077,940,1070
@@ -23640,7 +23698,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-18,Riverside,065,7474,4164
 2020-06-18,Sacramento,067,1376,450
 2020-06-18,San Benito,069,100,51
-2020-06-18,San Bernardino,071,5250,2661
+2020-06-18,San Bernardino,071,5212,2661
 2020-06-18,San Diego,073,7258,2152
 2020-06-18,San Francisco,075,2552,376
 2020-06-18,San Joaquin,077,909,1001
@@ -23698,7 +23756,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-17,Riverside,065,7525,3648
 2020-06-17,Sacramento,067,1344,429
 2020-06-17,San Benito,069,94,44
-2020-06-17,San Bernardino,071,5124,2364
+2020-06-17,San Bernardino,071,5086,2364
 2020-06-17,San Diego,073,7128,2056
 2020-06-17,San Francisco,075,2522,369
 2020-06-17,San Joaquin,077,904,909
@@ -23756,7 +23814,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-16,Riverside,065,7419,3539
 2020-06-16,Sacramento,067,1319,386
 2020-06-16,San Benito,069,88,46
-2020-06-16,San Bernardino,071,4980,2295
+2020-06-16,San Bernardino,071,4944,2295
 2020-06-16,San Diego,073,7008,2056
 2020-06-16,San Francisco,075,2499,384
 2020-06-16,San Joaquin,077,875,800
@@ -23814,7 +23872,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-15,Riverside,065,7263,3303
 2020-06-15,Sacramento,067,1318,365
 2020-06-15,San Benito,069,86,41
-2020-06-15,San Bernardino,071,4832,2160
+2020-06-15,San Bernardino,071,4796,2160
 2020-06-15,San Diego,073,6874,2056
 2020-06-15,San Francisco,075,2480,382
 2020-06-15,San Joaquin,077,848,768
@@ -23872,7 +23930,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-14,Riverside,065,6783,3004
 2020-06-14,Sacramento,067,1286,353
 2020-06-14,San Benito,069,85,38
-2020-06-14,San Bernardino,071,4723,2113
+2020-06-14,San Bernardino,071,4690,2113
 2020-06-14,San Diego,073,6796,1959
 2020-06-14,San Francisco,075,2464,370
 2020-06-14,San Joaquin,077,812,758
@@ -23930,7 +23988,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-13,Riverside,065,6767,3004
 2020-06-13,Sacramento,067,1286,316
 2020-06-13,San Benito,069,85,34
-2020-06-13,San Bernardino,071,4687,1961
+2020-06-13,San Bernardino,071,4658,1961
 2020-06-13,San Diego,073,6724,1929
 2020-06-13,San Francisco,075,2438,374
 2020-06-13,San Joaquin,077,797,677
@@ -23988,7 +24046,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-12,Riverside,065,6784,3004
 2020-06-12,Sacramento,067,1243,331
 2020-06-12,San Benito,069,85,31
-2020-06-12,San Bernardino,071,4523,1942
+2020-06-12,San Bernardino,071,4498,1942
 2020-06-12,San Diego,073,6611,1890
 2020-06-12,San Francisco,075,2377,404
 2020-06-12,San Joaquin,077,756,574
@@ -24046,7 +24104,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-11,Riverside,065,6658,2899
 2020-06-11,Sacramento,067,1224,321
 2020-06-11,San Benito,069,83,27
-2020-06-11,San Bernardino,071,4416,1828
+2020-06-11,San Bernardino,071,4392,1828
 2020-06-11,San Diego,073,6440,1898
 2020-06-11,San Francisco,075,2342,403
 2020-06-11,San Joaquin,077,735,553
@@ -24104,7 +24162,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-10,Riverside,065,6547,2659
 2020-06-10,Sacramento,067,1195,323
 2020-06-10,San Benito,069,81,26
-2020-06-10,San Bernardino,071,4305,1816
+2020-06-10,San Bernardino,071,4283,1816
 2020-06-10,San Diego,073,6316,1854
 2020-06-10,San Francisco,075,2314,401
 2020-06-10,San Joaquin,077,709,479
@@ -24162,7 +24220,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-09,Riverside,065,6441,2451
 2020-06-09,Sacramento,067,1197,314
 2020-06-09,San Benito,069,74,33
-2020-06-09,San Bernardino,071,4070,1850
+2020-06-09,San Bernardino,071,4047,1850
 2020-06-09,San Diego,073,6208,1847
 2020-06-09,San Francisco,075,2306,394
 2020-06-09,San Joaquin,077,697,446
@@ -24220,7 +24278,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-08,Riverside,065,6320,2202
 2020-06-08,Sacramento,067,1180,286
 2020-06-08,San Benito,069,70,37
-2020-06-08,San Bernardino,071,3893,1882
+2020-06-08,San Bernardino,071,3875,1882
 2020-06-08,San Diego,073,6130,1822
 2020-06-08,San Francisco,075,2300,393
 2020-06-08,San Joaquin,077,702,389
@@ -24278,7 +24336,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-07,Riverside,065,5813,2313
 2020-06-07,Sacramento,067,1175,276
 2020-06-07,San Benito,069,68,37
-2020-06-07,San Bernardino,071,3923,1675
+2020-06-07,San Bernardino,071,3908,1675
 2020-06-07,San Diego,073,6046,1775
 2020-06-07,San Francisco,075,2276,380
 2020-06-07,San Joaquin,077,677,393
@@ -24336,7 +24394,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-06,Riverside,065,5800,2313
 2020-06-06,Sacramento,067,1169,248
 2020-06-06,San Benito,069,67,36
-2020-06-06,San Bernardino,071,3840,1725
+2020-06-06,San Bernardino,071,3825,1725
 2020-06-06,San Diego,073,5902,1786
 2020-06-06,San Francisco,075,2242,362
 2020-06-06,San Joaquin,077,671,353
@@ -24394,7 +24452,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-05,Riverside,065,5783,2313
 2020-06-05,Sacramento,067,1141,247
 2020-06-05,San Benito,069,67,36
-2020-06-05,San Bernardino,071,3686,1784
+2020-06-05,San Bernardino,071,3670,1784
 2020-06-05,San Diego,073,5772,1746
 2020-06-05,San Francisco,075,2213,378
 2020-06-05,San Joaquin,077,657,307
@@ -24452,7 +24510,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-04,Riverside,065,5681,1960
 2020-06-04,Sacramento,067,1147,224
 2020-06-04,San Benito,069,64,36
-2020-06-04,San Bernardino,071,3536,1809
+2020-06-04,San Bernardino,071,3513,1809
 2020-06-04,San Diego,073,5648,1625
 2020-06-04,San Francisco,075,2093,446
 2020-06-04,San Joaquin,077,642,297
@@ -24510,7 +24568,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-03,Riverside,065,5517,2119
 2020-06-03,Sacramento,067,1145,208
 2020-06-03,San Benito,069,62,32
-2020-06-03,San Bernardino,071,3354,1855
+2020-06-03,San Bernardino,071,3333,1855
 2020-06-03,San Diego,073,5487,1658
 2020-06-03,San Francisco,075,2071,428
 2020-06-03,San Joaquin,077,621,294
@@ -24568,7 +24626,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-02,Riverside,065,5406,2102
 2020-06-02,Sacramento,067,1150,189
 2020-06-02,San Benito,069,61,27
-2020-06-02,San Bernardino,071,3273,1794
+2020-06-02,San Bernardino,071,3256,1794
 2020-06-02,San Diego,073,5381,1648
 2020-06-02,San Francisco,075,2065,408
 2020-06-02,San Joaquin,077,620,274
@@ -24626,7 +24684,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-06-01,Riverside,065,5314,2030
 2020-06-01,Sacramento,067,1155,184
 2020-06-01,San Benito,069,59,27
-2020-06-01,San Bernardino,071,3172,1762
+2020-06-01,San Bernardino,071,3153,1762
 2020-06-01,San Diego,073,5280,1608
 2020-06-01,San Francisco,075,2014,439
 2020-06-01,San Joaquin,077,615,252
@@ -24684,7 +24742,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-31,Riverside,065,5001,1868
 2020-05-31,Sacramento,067,1147,163
 2020-05-31,San Benito,069,59,26
-2020-05-31,San Bernardino,071,3098,1735
+2020-05-31,San Bernardino,071,3080,1735
 2020-05-31,San Diego,073,5169,1645
 2020-05-31,San Francisco,075,1980,467
 2020-05-31,San Joaquin,077,608,241
@@ -24742,7 +24800,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-30,Riverside,065,5026,1868
 2020-05-30,Sacramento,067,1129,178
 2020-05-30,San Benito,069,59,26
-2020-05-30,San Bernardino,071,3034,1737
+2020-05-30,San Bernardino,071,3018,1737
 2020-05-30,San Diego,073,4996,1723
 2020-05-30,San Francisco,075,1949,478
 2020-05-30,San Joaquin,077,592,242
@@ -24800,7 +24858,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-29,Riverside,065,5025,1868
 2020-05-29,Sacramento,067,1118,162
 2020-05-29,San Benito,069,58,27
-2020-05-29,San Bernardino,071,2883,1723
+2020-05-29,San Bernardino,071,2867,1723
 2020-05-29,San Diego,073,4899,1717
 2020-05-29,San Francisco,075,1920,447
 2020-05-29,San Joaquin,077,581,210
@@ -24858,7 +24916,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-28,Riverside,065,4826,1901
 2020-05-28,Sacramento,067,1097,155
 2020-05-28,San Benito,069,57,26
-2020-05-28,San Bernardino,071,2765,1716
+2020-05-28,San Bernardino,071,2742,1716
 2020-05-28,San Diego,073,4748,1709
 2020-05-28,San Francisco,075,1868,438
 2020-05-28,San Joaquin,077,569,201
@@ -24916,7 +24974,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-27,Riverside,065,4724,1909
 2020-05-27,Sacramento,067,1098,136
 2020-05-27,San Benito,069,55,25
-2020-05-27,San Bernardino,071,2710,1624
+2020-05-27,San Bernardino,071,2686,1624
 2020-05-27,San Diego,073,4615,1705
 2020-05-27,San Francisco,075,1872,414
 2020-05-27,San Joaquin,077,565,196
@@ -24974,7 +25032,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-26,Riverside,065,4636,1891
 2020-05-26,Sacramento,067,1107,129
 2020-05-26,San Benito,069,55,18
-2020-05-26,San Bernardino,071,2623,1489
+2020-05-26,San Bernardino,071,2598,1489
 2020-05-26,San Diego,073,4529,1721
 2020-05-26,San Francisco,075,1850,422
 2020-05-26,San Joaquin,077,552,184
@@ -25032,7 +25090,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-25,Riverside,065,4616,1815
 2020-05-25,Sacramento,067,1091,129
 2020-05-25,San Benito,069,53,16
-2020-05-25,San Bernardino,071,2585,1350
+2020-05-25,San Bernardino,071,2563,1350
 2020-05-25,San Diego,073,4431,1732
 2020-05-25,San Francisco,075,1833,432
 2020-05-25,San Joaquin,077,551,189
@@ -25090,7 +25148,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-24,Riverside,065,4481,1425
 2020-05-24,Sacramento,067,1085,126
 2020-05-24,San Benito,069,52,15
-2020-05-24,San Bernardino,071,2546,1401
+2020-05-24,San Bernardino,071,2527,1401
 2020-05-24,San Diego,073,4307,1775
 2020-05-24,San Francisco,075,1815,424
 2020-05-24,San Joaquin,077,544,164
@@ -25148,7 +25206,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-23,Riverside,065,4414,1472
 2020-05-23,Sacramento,067,1085,124
 2020-05-23,San Benito,069,52,14
-2020-05-23,San Bernardino,071,2492,1413
+2020-05-23,San Bernardino,071,2476,1413
 2020-05-23,San Diego,073,4141,1783
 2020-05-23,San Francisco,075,1778,459
 2020-05-23,San Joaquin,077,540,168
@@ -25206,7 +25264,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-22,Riverside,065,4217,1647
 2020-05-22,Sacramento,067,1081,112
 2020-05-22,San Benito,069,52,14
-2020-05-22,San Bernardino,071,2230,1517
+2020-05-22,San Bernardino,071,2218,1517
 2020-05-22,San Diego,073,4039,1772
 2020-05-22,San Francisco,075,1741,467
 2020-05-22,San Joaquin,077,530,154
@@ -25264,7 +25322,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-21,Riverside,065,4187,1587
 2020-05-21,Sacramento,067,990,113
 2020-05-21,San Benito,069,51,12
-2020-05-21,San Bernardino,071,2174,1422
+2020-05-21,San Bernardino,071,2157,1422
 2020-05-21,San Diego,073,3810,1886
 2020-05-21,San Francisco,075,1689,392
 2020-05-21,San Joaquin,077,519,150
@@ -25322,7 +25380,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-20,Riverside,065,4112,1512
 2020-05-20,Sacramento,067,983,113
 2020-05-20,San Benito,069,50,11
-2020-05-20,San Bernardino,071,2058,1363
+2020-05-20,San Bernardino,071,2037,1363
 2020-05-20,San Diego,073,3685,1821
 2020-05-20,San Francisco,075,1638,431
 2020-05-20,San Joaquin,077,509,136
@@ -25380,7 +25438,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-19,Riverside,065,3892,1599
 2020-05-19,Sacramento,067,976,117
 2020-05-19,San Benito,069,50,10
-2020-05-19,San Bernardino,071,1962,1378
+2020-05-19,San Bernardino,071,1942,1378
 2020-05-19,San Diego,073,3551,1866
 2020-05-19,San Francisco,075,1618,451
 2020-05-19,San Joaquin,077,511,130
@@ -25438,7 +25496,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-18,Riverside,065,3812,1598
 2020-05-18,Sacramento,067,1000,118
 2020-05-18,San Benito,069,49,9
-2020-05-18,San Bernardino,071,1806,1411
+2020-05-18,San Bernardino,071,1788,1411
 2020-05-18,San Diego,073,3431,1926
 2020-05-18,San Francisco,075,1509,507
 2020-05-18,San Joaquin,077,509,124
@@ -25496,7 +25554,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-17,Riverside,065,3661,1438
 2020-05-17,Sacramento,067,1006,120
 2020-05-17,San Benito,069,48,10
-2020-05-17,San Bernardino,071,1817,1329
+2020-05-17,San Bernardino,071,1802,1329
 2020-05-17,San Diego,073,3338,1909
 2020-05-17,San Francisco,075,1495,489
 2020-05-17,San Joaquin,077,509,118
@@ -25554,7 +25612,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-16,Riverside,065,3656,1454
 2020-05-16,Sacramento,067,1007,115
 2020-05-16,San Benito,069,48,10
-2020-05-16,San Bernardino,071,1826,1281
+2020-05-16,San Bernardino,071,1814,1281
 2020-05-16,San Diego,073,3263,1820
 2020-05-16,San Francisco,075,1433,511
 2020-05-16,San Joaquin,077,497,110
@@ -25612,7 +25670,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-15,Riverside,065,3581,1539
 2020-05-15,Sacramento,067,981,121
 2020-05-15,San Benito,069,48,9
-2020-05-15,San Bernardino,071,1769,1198
+2020-05-15,San Bernardino,071,1754,1198
 2020-05-15,San Diego,073,3111,1812
 2020-05-15,San Francisco,075,1398,503
 2020-05-15,San Joaquin,077,479,101
@@ -25670,7 +25728,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-14,Riverside,065,3521,1409
 2020-05-14,Sacramento,067,971,117
 2020-05-14,San Benito,069,48,8
-2020-05-14,San Bernardino,071,1690,1140
+2020-05-14,San Bernardino,071,1667,1140
 2020-05-14,San Diego,073,2965,1827
 2020-05-14,San Francisco,075,1370,500
 2020-05-14,San Joaquin,077,475,101
@@ -25728,7 +25786,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-13,Riverside,065,3449,1401
 2020-05-13,Sacramento,067,967,115
 2020-05-13,San Benito,069,47,8
-2020-05-13,San Bernardino,071,1567,1225
+2020-05-13,San Bernardino,071,1546,1225
 2020-05-13,San Diego,073,2858,1846
 2020-05-13,San Francisco,075,1366,504
 2020-05-13,San Joaquin,077,478,100
@@ -25786,7 +25844,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-12,Riverside,065,3204,1513
 2020-05-12,Sacramento,067,955,128
 2020-05-12,San Benito,069,47,8
-2020-05-12,San Bernardino,071,1510,1251
+2020-05-12,San Bernardino,071,1476,1251
 2020-05-12,San Diego,073,2739,1847
 2020-05-12,San Francisco,075,1343,509
 2020-05-12,San Joaquin,077,461,103
@@ -25844,7 +25902,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-11,Riverside,065,3136,1546
 2020-05-11,Sacramento,067,944,128
 2020-05-11,San Benito,069,45,8
-2020-05-11,San Bernardino,071,1439,1243
+2020-05-11,San Bernardino,071,1401,1243
 2020-05-11,San Diego,073,2566,1924
 2020-05-11,San Francisco,075,1298,530
 2020-05-11,San Joaquin,077,460,101
@@ -25902,7 +25960,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-10,Riverside,065,3042,1476
 2020-05-10,Sacramento,067,932,130
 2020-05-10,San Benito,069,45,8
-2020-05-10,San Bernardino,071,1410,1213
+2020-05-10,San Bernardino,071,1376,1213
 2020-05-10,San Diego,073,2478,1883
 2020-05-10,San Francisco,075,1283,535
 2020-05-10,San Joaquin,077,432,109
@@ -25960,7 +26018,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-09,Riverside,065,2895,1583
 2020-05-09,Sacramento,067,922,140
 2020-05-09,San Benito,069,45,8
-2020-05-09,San Bernardino,071,1387,1170
+2020-05-09,San Bernardino,071,1358,1170
 2020-05-09,San Diego,073,2372,1833
 2020-05-09,San Francisco,075,1224,537
 2020-05-09,San Joaquin,077,420,112
@@ -26018,7 +26076,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-08,Riverside,065,2834,1502
 2020-05-08,Sacramento,067,918,141
 2020-05-08,San Benito,069,45,8
-2020-05-08,San Bernardino,071,1335,963
+2020-05-08,San Bernardino,071,1308,963
 2020-05-08,San Diego,073,2250,1836
 2020-05-08,San Francisco,075,1204,513
 2020-05-08,San Joaquin,077,410,113
@@ -26076,7 +26134,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-07,Riverside,065,2756,1538
 2020-05-07,Sacramento,067,887,166
 2020-05-07,San Benito,069,45,7
-2020-05-07,San Bernardino,071,1274,954
+2020-05-07,San Bernardino,071,1247,954
 2020-05-07,San Diego,073,2091,1786
 2020-05-07,San Francisco,075,1177,504
 2020-05-07,San Joaquin,077,403,114
@@ -26134,7 +26192,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-06,Riverside,065,2602,1588
 2020-05-06,Sacramento,067,857,171
 2020-05-06,San Benito,069,44,7
-2020-05-06,San Bernardino,071,1238,854
+2020-05-06,San Bernardino,071,1213,854
 2020-05-06,San Diego,073,1954,1828
 2020-05-06,San Francisco,075,1114,521
 2020-05-06,San Joaquin,077,382,125
@@ -26192,7 +26250,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-05,Riverside,065,2443,1494
 2020-05-05,Sacramento,067,857,179
 2020-05-05,San Benito,069,43,8
-2020-05-05,San Bernardino,071,1128,840
+2020-05-05,San Bernardino,071,1105,840
 2020-05-05,San Diego,073,1921,1726
 2020-05-05,San Francisco,075,1097,497
 2020-05-05,San Joaquin,077,371,133
@@ -26250,7 +26308,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-04,Riverside,065,2343,1507
 2020-05-04,Sacramento,067,843,187
 2020-05-04,San Benito,069,42,8
-2020-05-04,San Bernardino,071,1050,776
+2020-05-04,San Bernardino,071,1026,776
 2020-05-04,San Diego,073,1827,1695
 2020-05-04,San Francisco,075,1093,408
 2020-05-04,San Joaquin,077,359,155
@@ -26308,7 +26366,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-03,Riverside,065,2128,1542
 2020-05-03,Sacramento,067,826,192
 2020-05-03,San Benito,069,42,7
-2020-05-03,San Bernardino,071,935,896
+2020-05-03,San Bernardino,071,914,896
 2020-05-03,San Diego,073,1777,1659
 2020-05-03,San Francisco,075,1027,445
 2020-05-03,San Joaquin,077,348,161
@@ -26366,7 +26424,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-02,Riverside,065,2104,1562
 2020-05-02,Sacramento,067,814,193
 2020-05-02,San Benito,069,41,7
-2020-05-02,San Bernardino,071,862,963
+2020-05-02,San Bernardino,071,842,963
 2020-05-02,San Diego,073,1718,1629
 2020-05-02,San Francisco,075,1000,406
 2020-05-02,San Joaquin,077,336,164
@@ -26424,7 +26482,7 @@ date,county,fips,recoveries_estimated,active_cases
 2020-05-01,Riverside,065,1939,1622
 2020-05-01,Sacramento,067,790,194
 2020-05-01,San Benito,069,41,7
-2020-05-01,San Bernardino,071,739,1017
+2020-05-01,San Bernardino,071,724,1017
 2020-05-01,San Diego,073,1674,1553
 2020-05-01,San Francisco,075,930,465
 2020-05-01,San Joaquin,077,311,186
