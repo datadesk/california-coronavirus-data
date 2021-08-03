@@ -2,12 +2,12 @@ agency,county,fips,date,confirmed_cases,deaths,did_not_update
 Alameda,Alameda,001,2021-08-02,93117,1236,
 Berkeley,Alameda,001,2021-08-02,4004,50,
 Alpine,Alpine,003,2021-08-02,89,0,TRUE
-Amador,Amador,005,2021-08-02,3873,48,TRUE
+Amador,Amador,005,2021-08-02,3899,48,
 Butte,Butte,007,2021-08-02,13176,200,TRUE
 Calaveras,Calaveras,009,2021-08-02,2321,58,
 Colusa,Colusa,011,2021-08-02,2381,18,
 Contra Costa,Contra Costa,013,2021-08-02,77866,834,
-Del Norte,Del Norte,015,2021-08-02,1668,8,TRUE
+Del Norte,Del Norte,015,2021-08-02,1732,9,
 El Dorado,El Dorado,017,2021-08-02,11288,120,
 Fresno,Fresno,019,2021-08-02,105339,1746,
 Glenn,Glenn,021,2021-08-02,2403,27,
@@ -17,32 +17,32 @@ Inyo,Inyo,027,2021-08-02,1473,38,TRUE
 Kern,Kern,029,2021-08-02,113810,1426,
 Kings,Kings,031,2021-08-02,23788,251,
 Lake,Lake,033,2021-08-02,4294,66,
-Lassen,Lassen,035,2021-08-02,5888,26,TRUE
+Lassen,Lassen,035,2021-08-02,5898,26,
 Long Beach,Los Angeles,037,2021-08-02,56191,953,
-Los Angeles,Los Angeles,037,2021-08-02,1235581,23380,TRUE
+Los Angeles,Los Angeles,037,2021-08-02,1237942,23385,
 Pasadena,Los Angeles,037,2021-08-02,11946,352,
 Madera,Madera,039,2021-08-02,16911,249,
 Marin,Marin,041,2021-08-02,14982,214,
 Mariposa,Mariposa,043,2021-08-02,521,7,
-Mendocino,Mendocino,045,2021-08-02,4710,52,TRUE
+Mendocino,Mendocino,045,2021-08-02,4799,52,
 Merced,Merced,047,2021-08-02,33321,485,TRUE
 Modoc,Modoc,049,2021-08-02,576,7,TRUE
 Mono,Mono,051,2021-08-02,1336,5,
 Monterey,Monterey,053,2021-08-02,44591,528,
-Napa,Napa,055,2021-08-02,10503,84,
+Napa,Napa,055,2021-08-02,10503,81,
 Nevada,Nevada,057,2021-08-02,5540,75,
 Orange,Orange,059,2021-08-02,266167,5143,
 Placer,Placer,061,2021-08-02,25146,307,TRUE
-Plumas,Plumas,063,2021-08-02,772,6,TRUE
+Plumas,Plumas,063,2021-08-02,792,6,
 Riverside,Riverside,065,2021-08-02,309217,4667,
 Sacramento,Sacramento,067,2021-08-02,117126,1784,
 San Benito,San Benito,069,2021-08-02,6303,63,
 San Bernardino,San Bernardino,071,2021-08-02,308052,5075,
 San Diego,San Diego,073,2021-08-02,299021,3798,
-San Francisco,San Francisco,075,2021-08-02,40640,563,
+San Francisco,San Francisco,075,2021-08-02,40689,565,
 San Joaquin,San Joaquin,077,2021-08-02,76915,1460,TRUE
 San Luis Obispo,San Luis Obispo,079,2021-08-02,21970,265,TRUE
-San Mateo,San Mateo,081,2021-08-02,44430,588,TRUE
+San Mateo,San Mateo,081,2021-08-02,44938,588,
 Santa Barbara,Santa Barbara,083,2021-08-02,35953,463,
 Santa Clara,Santa Clara,085,2021-08-02,124115,1709,
 Santa Cruz,Santa Cruz,087,2021-08-02,16779,207,
@@ -8760,7 +8760,7 @@ Plumas,Plumas,063,2021-03-12,660,6,
 Riverside,Riverside,065,2021-03-12,291866,3971,
 Sacramento,Sacramento,067,2021-03-12,95088,1541,
 San Benito,San Benito,069,2021-03-12,5769,61,
-San Bernardino,San Bernardino,071,2021-03-12,288364,4858,
+San Bernardino,San Bernardino,071,2021-03-12,288364,5075,
 San Diego,San Diego,073,2021-03-12,264527,3422,
 San Francisco,San Francisco,075,2021-03-12,34495,445,
 San Joaquin,San Joaquin,077,2021-03-12,67817,1210,
