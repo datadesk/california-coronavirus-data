@@ -30,7 +30,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-05,Nevada,057,5771,75,78,0
 2021-08-05,Orange,059,267908,5146,777,3
 2021-08-05,Placer,061,26004,307,445,0
-2021-08-05,Plumas,063,792,6,0,0
+2021-08-05,Plumas,063,812,6,20,0
 2021-08-05,Riverside,065,312705,4667,1132,0
 2021-08-05,Sacramento,067,118507,1795,676,5
 2021-08-05,San Benito,069,6336,64,10,0
@@ -39,7 +39,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-05,San Francisco,075,41675,565,193,0
 2021-08-05,San Joaquin,077,78119,1474,0,0
 2021-08-05,San Luis Obispo,079,22356,267,0,0
-2021-08-05,San Mateo,081,45198,588,0,0
+2021-08-05,San Mateo,081,45316,588,118,0
 2021-08-05,Santa Barbara,083,36200,464,94,0
 2021-08-05,Santa Clara,085,124954,1709,368,0
 2021-08-05,Santa Cruz,087,16901,207,122,0
