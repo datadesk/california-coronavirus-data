@@ -2,7 +2,7 @@ agency,county,fips,date,confirmed_cases,deaths,did_not_update
 Alameda,Alameda,001,2021-08-10,96049,1245,
 Berkeley,Alameda,001,2021-08-10,4138,51,
 Alpine,Alpine,003,2021-08-10,89,0,TRUE
-Amador,Amador,005,2021-08-10,4057,49,TRUE
+Amador,Amador,005,2021-08-10,4067,49,
 Butte,Butte,007,2021-08-10,13922,200,
 Calaveras,Calaveras,009,2021-08-10,2458,58,
 Colusa,Colusa,011,2021-08-10,2459,18,TRUE
@@ -26,17 +26,17 @@ Marin,Marin,041,2021-08-10,15362,214,
 Mariposa,Mariposa,043,2021-08-10,592,7,
 Mendocino,Mendocino,045,2021-08-10,5024,54,
 Merced,Merced,047,2021-08-10,33761,488,TRUE
-Modoc,Modoc,049,2021-08-10,577,7,TRUE
+Modoc,Modoc,049,2021-08-10,581,7,
 Mono,Mono,051,2021-08-10,1351,5,
 Monterey,Monterey,053,2021-08-10,45055,530,
-Napa,Napa,055,2021-08-10,10698,81,TRUE
+Napa,Napa,055,2021-08-10,10723,85,
 Nevada,Nevada,057,2021-08-10,6099,76,
 Orange,Orange,059,2021-08-10,271837,5152,
 Placer,Placer,061,2021-08-10,26609,307,
 Plumas,Plumas,063,2021-08-10,831,6,TRUE
 Riverside,Riverside,065,2021-08-10,316405,4669,
 Sacramento,Sacramento,067,2021-08-10,120837,1806,
-San Benito,San Benito,069,2021-08-10,6382,64,TRUE
+San Benito,San Benito,069,2021-08-10,6397,64,
 San Bernardino,San Bernardino,071,2021-08-10,313149,4865,
 San Diego,San Diego,073,2021-08-10,308288,3815,
 San Francisco,San Francisco,075,2021-08-10,42990,567,
