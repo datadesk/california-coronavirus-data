@@ -7,7 +7,7 @@ Butte,Butte,007,2021-08-11,13975,200,
 Calaveras,Calaveras,009,2021-08-11,2485,58,
 Colusa,Colusa,011,2021-08-11,2459,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-11,80628,841,
-Del Norte,Del Norte,015,2021-08-11,1946,10,TRUE
+Del Norte,Del Norte,015,2021-08-11,1972,10,
 El Dorado,El Dorado,017,2021-08-11,11900,122,
 Fresno,Fresno,019,2021-08-11,107616,1747,
 Glenn,Glenn,021,2021-08-11,2444,27,
@@ -19,12 +19,12 @@ Kings,Kings,031,2021-08-11,24370,253,
 Lake,Lake,033,2021-08-11,4700,67,
 Lassen,Lassen,035,2021-08-11,5977,26,
 Long Beach,Los Angeles,037,2021-08-11,58067,958,
-Los Angeles,Los Angeles,037,2021-08-11,1262244,23496,TRUE
+Los Angeles,Los Angeles,037,2021-08-11,1265287,23523,
 Pasadena,Los Angeles,037,2021-08-11,12196,353,
 Madera,Madera,039,2021-08-11,17381,249,TRUE
 Marin,Marin,041,2021-08-11,15402,214,
 Mariposa,Mariposa,043,2021-08-11,601,7,
-Mendocino,Mendocino,045,2021-08-11,5077,54,
+Mendocino,Mendocino,045,2021-08-11,5116,54,
 Merced,Merced,047,2021-08-11,33761,488,TRUE
 Modoc,Modoc,049,2021-08-11,581,7,TRUE
 Mono,Mono,051,2021-08-11,1363,5,
@@ -38,11 +38,11 @@ Riverside,Riverside,065,2021-08-11,317814,4674,
 Sacramento,Sacramento,067,2021-08-11,121258,1808,
 San Benito,San Benito,069,2021-08-11,6411,64,
 San Bernardino,San Bernardino,071,2021-08-11,314430,4867,
-San Diego,San Diego,073,2021-08-11,308288,3815,TRUE
+San Diego,San Diego,073,2021-08-11,309406,3818,
 San Francisco,San Francisco,075,2021-08-11,43204,567,
 San Joaquin,San Joaquin,077,2021-08-11,79681,1491,TRUE
 San Luis Obispo,San Luis Obispo,079,2021-08-11,22959,269,TRUE
-San Mateo,San Mateo,081,2021-08-11,45952,588,
+San Mateo,San Mateo,081,2021-08-11,46055,588,
 Santa Barbara,Santa Barbara,083,2021-08-11,36804,467,
 Santa Clara,Santa Clara,085,2021-08-11,126788,1711,
 Santa Cruz,Santa Cruz,087,2021-08-11,17014,209,TRUE
@@ -50,7 +50,7 @@ Shasta,Shasta,089,2021-08-11,13604,244,
 Sierra,Sierra,091,2021-08-11,146,0,
 Siskiyou,Siskiyou,093,2021-08-11,2735,40,
 Solano,Solano,095,2021-08-11,37350,254,
-Sonoma,Sonoma,097,2021-08-11,34126,337,
+Sonoma,Sonoma,097,2021-08-11,34296,337,
 Stanislaus,Stanislaus,099,2021-08-11,61228,1102,
 Sutter,Sutter,101,2021-08-11,10737,113,
 Tehama,Tehama,103,2021-08-11,6096,66,
