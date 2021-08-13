@@ -518,7 +518,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
 2021-08-09,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
 2021-08-10,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
-2021-08-11,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,0,65,3034,8,0
+2021-08-11,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
+2021-08-12,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,0,65,3034,8,0
 2020-03-10,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,,,0,,0,
 2020-03-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,,0,,0,0
 2020-03-12,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,,0,,0,0
@@ -1038,7 +1039,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
 2021-08-09,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
 2021-08-10,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
-2021-08-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,1,9,988,2,0
+2021-08-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
+2021-08-12,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,1,9,988,2,0
 2020-03-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,,,0,,0,
 2020-03-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,,0,,0,0
 2020-03-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,,0,,0,0
@@ -1558,7 +1560,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
 2021-08-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
 2021-08-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,0,33,1366,0,0
+2021-08-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
+2021-08-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,1,1,33,1366,0,0
 2020-03-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,,,0,,0,
 2020-03-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,,0,,0,0
 2020-03-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,,0,,0,0
@@ -2078,7 +2081,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,,62,,4,0
 2021-08-09,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,,62,,4,0
 2021-08-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,,62,,4,0
-2021-08-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,1,62,1320,4,0
+2021-08-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,,62,,4,0
+2021-08-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,1,62,1320,4,0
 2020-03-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,,,0,,0,
 2020-03-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,,0,,0,0
 2020-03-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,,0,,0,0
@@ -2598,7 +2602,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,635,0,,2,,19,0
 2021-08-09,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,635,0,,2,,19,0
 2021-08-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,635,0,,2,,19,0
-2021-08-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,635,0,0,2,614,19,0
+2021-08-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,635,0,,2,,19,0
+2021-08-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,635,0,0,2,614,19,0
 2020-03-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,,,0,,0,
 2020-03-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,,0,,0,0
 2020-03-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,,0,,0,0
@@ -3118,7 +3123,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
 2021-08-09,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
 2021-08-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
-2021-08-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,0,32,1441,29,0
+2021-08-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
+2021-08-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,0,32,1441,29,0
 2020-03-10,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,,,0,,0,
 2020-03-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,,0,,0,0
 2020-03-12,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,,0,,0,0
@@ -3638,7 +3644,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
 2021-08-09,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
 2021-08-10,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
-2021-08-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,0,10,478,1,0
+2021-08-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,,10,,1,0
+2021-08-12,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,489,0,0,10,478,1,0
 2020-03-10,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,,,0,,0,
 2020-03-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,,0,,0,0
 2020-03-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,,0,,0,0
@@ -4158,7 +4165,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,11,0
 2021-08-09,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,11,0
 2021-08-10,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,11,0
-2021-08-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,0,3,696,11,0
+2021-08-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,11,0
+2021-08-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,0,3,696,11,0
 2020-03-10,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,,,0,,0,
 2020-03-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,,0,,0,0
 2020-03-12,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,,0,,0,0
@@ -4678,7 +4686,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2471,0,,22,,11,0
 2021-08-09,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2471,0,,22,,11,0
 2021-08-10,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2471,0,,22,,11,0
-2021-08-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2471,0,0,22,2438,11,0
+2021-08-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2471,0,,22,,11,0
+2021-08-12,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2471,0,0,22,2438,11,0
 2020-03-10,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,,,0,,0,
 2020-03-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,,0,,0,0
 2020-03-12,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,,0,,0,0
@@ -5198,7 +5207,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1994,0,,59,,1,0
 2021-08-09,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1994,0,,59,,1,0
 2021-08-10,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1994,0,,59,,1,0
-2021-08-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1994,0,0,59,1934,1,0
+2021-08-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1994,0,,59,,1,0
+2021-08-12,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,1994,0,0,59,1934,1,0
 2020-03-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,,,0,,0,
 2020-03-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,,0,,0,0
 2020-03-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,,0,,0,0
@@ -5718,7 +5728,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,865,0,,7,,1,0
 2021-08-09,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,865,0,,7,,1,0
 2021-08-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,865,0,,7,,1,0
-2021-08-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,865,0,0,7,857,1,0
+2021-08-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,865,0,,7,,1,0
+2021-08-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,865,0,0,7,857,1,0
 2020-03-10,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,,,0,,0,
 2020-03-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,,0,,0,0
 2020-03-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,,0,,0,0
@@ -6238,7 +6249,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1080,0,,5,,6,0
 2021-08-09,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1081,1,,5,,6,0
 2021-08-10,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1082,1,,5,,6,0
-2021-08-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1082,0,6,5,1065,6,0
+2021-08-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1082,0,,5,,6,0
+2021-08-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1082,0,5,5,1066,6,0
 2020-03-10,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,,,0,,0,
 2020-03-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,,0,,0,0
 2020-03-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,,0,,0,0
@@ -6758,7 +6770,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
 2021-08-09,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
 2021-08-10,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
-2021-08-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,0,10,1487,14,0
+2021-08-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
+2021-08-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,0,10,1487,14,0
 2020-03-10,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,,,0,,0,
 2020-03-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,,0,,0,0
 2020-03-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,,0,,0,0
@@ -7278,7 +7291,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,297,0,,2,,1,0
 2021-08-09,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,297,0,,2,,1,0
 2021-08-10,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,297,0,,2,,1,0
-2021-08-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,297,0,3,2,291,1,0
+2021-08-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,297,0,,2,,1,0
+2021-08-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,298,1,4,2,291,1,0
 2020-03-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,,,0,,0,
 2020-03-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,,0,,0,0
 2020-03-12,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,,0,,0,0
@@ -7796,9 +7810,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-06,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1257,0,,11,,6,0
 2021-08-07,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1257,0,,11,,6,0
 2021-08-08,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1257,0,,11,,6,0
-2021-08-09,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1257,0,,11,,6,0
-2021-08-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1257,0,,11,,6,0
-2021-08-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1257,0,14,11,1226,6,0
+2021-08-09,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1258,1,,11,,6,0
+2021-08-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1258,0,,11,,6,0
+2021-08-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1258,0,,11,,6,0
+2021-08-12,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1262,4,19,11,1226,6,0
 2020-03-10,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,,,0,,0,
 2020-03-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,,0,,0,0
 2020-03-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,,0,,0,0
@@ -8318,7 +8333,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3020,0,,15,,7,0
 2021-08-09,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3020,0,,15,,7,0
 2021-08-10,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3020,0,,15,,7,0
-2021-08-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3020,0,3,15,2995,7,0
+2021-08-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3020,0,,15,,7,0
+2021-08-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3020,0,3,15,2995,7,0
 2020-03-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,,,0,,0,
 2020-03-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,,0,,0,0
 2020-03-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,,0,,0,0
@@ -8838,7 +8854,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
 2021-08-09,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
 2021-08-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
-2021-08-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,0,10,1111,2,0
+2021-08-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,,10,,2,0
+2021-08-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1123,0,0,10,1111,2,0
 2020-03-10,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,,,0,,0,
 2020-03-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,,0,,0,0
 2020-03-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,,0,,0,0
@@ -9358,7 +9375,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,812,0,,1,,1,0
 2021-08-09,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,812,0,,1,,1,0
 2021-08-10,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,812,0,,1,,1,0
-2021-08-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,812,0,3,1,807,1,0
+2021-08-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,812,0,,1,,1,0
+2021-08-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,812,0,3,1,807,1,0
 2020-03-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,,,0,,0,
 2020-03-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,,0,,0,0
 2020-03-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,,0,,0,0
@@ -9878,7 +9896,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
 2021-08-09,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
 2021-08-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
-2021-08-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,0,19,1756,9,0
+2021-08-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
+2021-08-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,0,19,1756,9,0
 2020-03-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,,,0,,0,
 2020-03-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,,0,,0,0
 2020-03-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,,0,,0,0
@@ -10398,7 +10417,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,28,,20,0
 2021-08-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,28,,20,0
 2021-08-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,28,,20,0
-2021-08-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,0,28,2671,20,0
+2021-08-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,,28,,20,0
+2021-08-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2719,0,0,28,2671,20,0
 2020-03-10,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,,,0,,0,
 2020-03-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,,0,,0,0
 2020-03-12,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,,0,,0,0
@@ -10918,7 +10938,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
 2021-08-09,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
 2021-08-10,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
-2021-08-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,0,5,538,0,0
+2021-08-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
+2021-08-12,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,0,5,538,0,0
 2020-03-10,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,,,0,,0,
 2020-03-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,,0,,0,0
 2020-03-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,,0,,0,0
@@ -11438,7 +11459,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
 2021-08-09,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
 2021-08-10,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
-2021-08-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,0,12,1355,2,0
+2021-08-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
+2021-08-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,0,12,1355,2,0
 2020-03-10,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,,,0,,0,
 2020-03-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,,0,,0,0
 2020-03-12,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,,0,,0,0
@@ -11958,7 +11980,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2042,0,,5,,2,0
 2021-08-09,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2042,0,,5,,2,0
 2021-08-10,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2042,0,,5,,2,0
-2021-08-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2042,0,10,5,2025,2,0
+2021-08-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2042,0,,5,,2,0
+2021-08-12,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2042,0,10,5,2025,2,0
 2020-03-10,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,,,0,,0,
 2020-03-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,,0,,0,0
 2020-03-12,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,,0,,0,0
@@ -12478,7 +12501,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
 2021-08-09,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
 2021-08-10,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
-2021-08-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,0,11,1556,1,0
+2021-08-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
+2021-08-12,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,0,11,1556,1,0
 2020-03-10,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,,,0,,0,
 2020-03-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,,0,,0,0
 2020-03-12,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,,0,,0,0
@@ -12998,7 +13022,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
 2021-08-09,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
 2021-08-10,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
-2021-08-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,0,7,882,6,0
+2021-08-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
+2021-08-12,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,0,7,882,6,0
 2020-03-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,,,0,,0,
 2020-03-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,,0,,0,0
 2020-03-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,,0,,0,0
@@ -13518,7 +13543,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
 2021-08-09,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
 2021-08-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
-2021-08-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,0,2,1863,9,0
+2021-08-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
+2021-08-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,0,2,1863,9,0
 2020-03-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,,,0,,0,
 2020-03-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,,0,,0,0
 2020-03-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,,0,,0,0
@@ -14036,9 +14062,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-06,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,939,0,,11,,4,0
 2021-08-07,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,940,1,,11,,4,0
 2021-08-08,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,940,0,,11,,4,0
-2021-08-09,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,940,0,,11,,4,0
-2021-08-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,940,0,,11,,4,0
-2021-08-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,941,1,2,11,924,4,0
+2021-08-09,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,941,1,,11,,4,0
+2021-08-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,941,0,,11,,4,0
+2021-08-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,941,0,,11,,4,0
+2021-08-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,942,1,3,11,924,4,0
 2020-03-10,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,,,0,,0,
 2020-03-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,,0,,0,0
 2020-03-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,,0,,0,0
@@ -14558,7 +14585,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,249,0,,5,,0,0
 2021-08-09,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,249,0,,5,,0,0
 2021-08-10,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,249,0,,5,,0,0
-2021-08-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,249,0,25,5,219,0,0
+2021-08-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,249,0,,5,,0,0
+2021-08-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,250,1,26,5,219,0,0
 2020-03-10,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,,,0,,0,
 2020-03-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,,0,,0,0
 2020-03-12,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,,0,,0,0
@@ -15078,7 +15106,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2003,0,,13,,3,0
 2021-08-09,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2003,0,,13,,3,0
 2021-08-10,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2003,0,,13,,3,0
-2021-08-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2003,0,11,13,1976,3,0
+2021-08-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2003,0,,13,,3,0
+2021-08-12,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2003,0,9,13,1978,3,0
 2020-03-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,,,0,,0,
 2020-03-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,,0,,0,0
 2020-03-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,,0,,0,0
@@ -15598,7 +15627,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1012,0,,1,,18,0
 2021-08-09,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1012,0,,1,,18,0
 2021-08-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1012,0,,1,,18,0
-2021-08-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1012,0,0,1,993,18,0
+2021-08-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1012,0,,1,,18,0
+2021-08-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1012,0,0,1,993,18,0
 2020-03-10,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,,,0,,0,
 2020-03-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,,0,,0,0
 2020-03-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,,0,,0,0
@@ -16118,7 +16148,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,6,0
 2021-08-09,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,6,0
 2021-08-10,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,6,0
-2021-08-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,0,6,667,6,0
+2021-08-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,6,,6,0
+2021-08-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,0,6,667,6,0
 2020-03-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,,,0,,0,
 2020-03-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,,0,,0,0
 2020-03-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,,0,,0,0
@@ -16638,7 +16669,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2242,0,,43,,28,0
 2021-08-09,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2242,0,,43,,28,0
 2021-08-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2242,0,,43,,28,0
-2021-08-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2242,0,1,43,2170,28,0
+2021-08-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2242,0,,43,,28,0
+2021-08-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2242,0,1,43,2170,28,0
 2020-03-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,,,0,,0,
 2020-03-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,,0,,0,0
 2020-03-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,,0,,0,0
@@ -17156,9 +17188,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-06,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1576,5,,18,,0,0
 2021-08-07,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1576,0,,18,,0,0
 2021-08-08,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1576,0,,18,,0,0
-2021-08-09,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1576,0,,18,,0,0
-2021-08-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1576,0,,18,,0,0
-2021-08-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1576,0,87,18,1471,0,0
+2021-08-09,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1578,2,,18,,0,0
+2021-08-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1578,0,,18,,0,0
+2021-08-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1578,0,,18,,0,0
+2021-08-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1579,1,77,18,1484,0,0
 2020-03-10,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,,,0,,0,
 2020-03-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,,0,,0,0
 2020-03-12,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,,0,,0,0
@@ -17678,7 +17711,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-08,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1730,0,,15,,2,0
 2021-08-09,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1730,0,,15,,2,0
 2021-08-10,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1730,0,,15,,2,0
-2021-08-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1730,0,0,15,1713,2,0
+2021-08-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1730,0,,15,,2,0
+2021-08-12,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1730,0,0,15,1713,2,0
 2020-03-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,,,0,,0,
 2020-03-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,,0,,0,0
 2020-03-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,,0,,0,0
@@ -17845,357 +17879,358 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2020-08-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,209,0,,21,,0,0
 2020-08-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,31,,21,,0,0
 2020-08-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,0,,21,,0,0
-2020-08-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,0,,21,,0,0
-2020-08-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,0,,21,,0,0
-2020-08-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,241,1,,21,,0,0
-2020-08-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,241,0,,21,,0,0
-2020-08-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,26,,21,,0,0
-2020-08-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,21,,0,0
-2020-08-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,21,,0,0
-2020-08-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,21,,0,0
-2020-08-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,21,,0,0
-2020-09-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,21,,0,0
-2020-09-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,21,,0,0
-2020-09-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,268,1,,22,,0,0
-2020-09-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,2,,22,,0,0
-2020-09-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,22,,0,0
-2020-09-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,22,,0,0
-2020-09-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,22,,0,0
-2020-09-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,22,,0,0
-2020-09-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,271,1,,22,,0,0
-2020-09-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,272,1,,22,,0,0
-2020-09-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,274,2,,22,,0,0
-2020-09-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,274,0,,22,,0,0
-2020-09-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,274,0,,22,,0,0
-2020-09-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,275,1,,22,,0,0
-2020-09-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,275,0,,22,,0,0
-2020-09-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,275,0,,22,,0,0
-2020-09-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,1,,22,,0,0
-2020-09-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,22,,0,0
-2020-09-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,22,,0,0
-2020-09-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,22,,0,0
-2020-09-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,22,,0,0
-2020-09-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,1,,22,,0,0
-2020-09-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-09-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-09-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-09-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-09-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-09-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-09-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-09-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,22,,0,0
-2020-10-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,279,2,,22,,0,0
-2020-10-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,1,,22,,0,0
-2020-10-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,22,,0,0
-2020-10-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,22,,0,0
-2020-10-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,22,,0,0
-2020-10-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,22,,0,0
-2020-10-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,22,,0,0
-2020-10-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,22,,0,0
-2020-10-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,1,,22,,0,0
-2020-10-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,22,,0,0
-2020-10-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,22,,0,0
-2020-10-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,22,,0,0
-2020-10-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,22,,0,0
-2020-10-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,283,2,,22,,0,0
-2020-10-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,1,,22,,0,0
-2020-10-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,22,,0,0
-2020-10-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,22,,0,0
-2020-10-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,22,,0,0
-2020-10-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,22,,0,0
-2020-10-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,286,2,,22,,0,0
-2020-10-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,290,4,,22,,0,0
-2020-10-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,291,1,,22,,0,0
-2020-10-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,1,,22,,0,0
-2020-10-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,22,,0,0
-2020-10-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,22,,0,0
-2020-10-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,22,,0,0
-2020-10-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,22,,0,0
-2020-10-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,22,,0,0
-2020-10-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,1,,22,,0,0
-2020-10-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,22,,0,0
-2020-10-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,22,,0,0
-2020-11-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,22,,0,0
-2020-11-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,22,,0,0
-2020-11-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,22,,0,0
-2020-11-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,22,,0,0
-2020-11-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,22,,0,0
-2020-11-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,14,,22,,0,0
-2020-11-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,22,,0,0
-2020-11-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,9,,22,,0,0
-2020-11-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,22,,0,0
-2020-11-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,22,,0,0
-2020-11-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,22,,0,0
-2020-11-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,22,,0,0
-2020-11-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,22,,0,0
-2020-11-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,22,,0,0
-2020-11-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,317,1,,22,,0,0
-2020-11-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,3,,22,,0,0
-2020-11-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,0,,22,,0,0
-2020-11-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,0,,22,,0,0
-2020-11-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,0,,22,,0,0
-2020-11-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,321,1,,22,,0,0
-2020-11-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,321,0,,22,,0,0
-2020-11-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,322,1,,22,,0,0
-2020-12-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,323,1,,22,,0,0
-2020-12-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,326,3,,22,,0,0
-2020-12-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,337,11,,22,,0,0
-2020-12-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,338,1,,22,,0,0
-2020-12-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,339,1,,22,,0,0
-2020-12-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,339,0,,22,,0,0
-2020-12-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,345,6,,22,,0,0
-2020-12-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,429,84,,22,,0,0
-2020-12-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,512,83,,22,,0,0
-2020-12-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,525,13,,23,,0,0
-2020-12-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,680,155,,23,,0,0
-2020-12-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,698,18,,24,,0,0
-2020-12-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,699,1,,24,,0,0
-2020-12-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,746,47,,24,,0,0
-2020-12-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,787,41,,24,,0,0
-2020-12-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,805,18,,24,,0,0
-2020-12-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,811,6,,25,,0,0
-2020-12-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,918,107,,25,,0,0
-2020-12-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,918,0,,27,,0,0
-2020-12-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,918,0,,28,,0,0
-2020-12-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,979,61,,32,,0,0
-2020-12-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1054,75,,32,,0,0
-2020-12-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1077,23,,33,,0,0
-2020-12-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1092,15,,33,,0,0
-2020-12-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1101,9,,33,,0,0
-2020-12-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1101,0,,34,,0,0
-2020-12-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1103,2,,35,,0,0
-2020-12-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1121,18,,35,,0,0
-2020-12-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1150,29,,35,,0,0
-2020-12-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1161,11,,35,,0,0
-2020-12-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1177,16,,35,,0,0
-2021-01-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1194,17,,35,,0,0
-2021-01-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1194,0,,35,,0,0
-2021-01-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1196,2,,35,,0,0
-2021-01-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1213,17,,35,,0,0
-2021-01-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1222,9,,35,,0,0
-2021-01-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1242,20,,35,,0,0
-2021-01-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1269,27,,35,,0,0
-2021-01-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1303,34,,35,,0,0
-2021-01-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1304,1,,35,,0,0
-2021-01-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1304,0,,36,,0,0
-2021-01-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1307,3,,36,,0,0
-2021-01-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1313,6,,36,,0,0
-2021-01-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1315,2,,36,,0,0
-2021-01-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1315,0,,36,,0,0
-2021-01-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1331,16,,36,,0,0
-2021-01-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1331,0,,38,,0,0
-2021-01-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1331,0,,38,,1,1
-2021-01-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1333,2,,38,,1,0
-2021-01-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1336,3,,38,,1,0
-2021-01-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1345,9,,38,,1,0
-2021-01-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1345,0,,38,,1,0
-2021-01-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1347,2,,38,,1,0
-2021-01-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1347,0,,38,,1,0
-2021-01-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1347,0,,38,,1,0
-2021-01-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1352,5,,38,,1,0
-2021-01-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1353,1,,38,,1,0
-2021-01-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1364,11,,38,,1,0
-2021-01-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1365,1,,38,,1,0
-2021-01-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1384,19,,38,,1,0
-2021-01-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1384,0,,38,,1,0
-2021-01-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1384,0,,38,,1,0
-2021-02-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1483,99,,38,,1,0
-2021-02-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1587,104,,38,,1,0
-2021-02-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1590,3,,38,,1,0
-2021-02-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1590,0,,38,,1,0
-2021-02-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1626,36,,38,,1,0
-2021-02-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1630,4,,38,,1,0
-2021-02-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1630,0,,39,,1,0
-2021-02-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1636,6,,39,,1,0
-2021-02-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1639,3,,39,,1,0
-2021-02-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1664,25,,39,,1,0
-2021-02-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1702,38,,39,,1,0
-2021-02-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1710,8,,40,,1,0
-2021-02-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1710,0,,41,,1,0
-2021-02-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1710,0,,41,,1,0
-2021-02-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1711,1,,41,,1,0
-2021-02-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1720,9,,41,,1,0
-2021-02-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1723,3,,41,,1,0
-2021-02-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1726,3,,41,,1,0
-2021-02-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,1,,41,,1,0
-2021-02-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,0,,41,,1,0
-2021-02-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,0,,41,,1,0
-2021-02-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,0,,41,,1,0
-2021-02-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1732,5,,41,,1,0
-2021-02-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1735,3,,41,,1,0
-2021-02-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1735,0,,42,,1,0
-2021-02-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1735,0,,42,,1,0
-2021-02-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1742,7,,42,,1,0
-2021-02-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1742,0,,42,,1,0
-2021-03-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1745,3,,42,,1,0
-2021-03-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1746,1,,42,,1,0
-2021-03-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1746,0,,42,,1,0
-2021-03-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1746,0,,42,,1,0
-2021-03-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1749,3,,42,,1,0
-2021-03-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1749,0,,42,,1,0
-2021-03-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1749,0,,42,,1,0
-2021-03-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1751,2,,42,,1,0
-2021-03-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1752,1,,42,,1,0
-2021-03-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1753,1,,42,,1,0
-2021-03-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,6,,42,,1,0
-2021-03-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,42,,1,0
-2021-03-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,42,,1,0
-2021-03-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,42,,1,0
-2021-03-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,42,,1,0
-2021-03-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1760,1,,42,,1,0
-2021-03-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,1,,42,,1,0
-2021-03-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,42,,1,0
-2021-03-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,42,,1,0
-2021-03-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,42,,1,0
-2021-03-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,42,,1,0
-2021-03-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-03-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
-2021-04-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,1,,43,,1,0
-2021-04-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,43,,1,0
-2021-04-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,43,,1,0
-2021-04-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,43,,1,0
-2021-04-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,43,,1,0
-2021-04-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,43,,1,0
-2021-04-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,43,,1,0
-2021-04-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,1,,43,,1,0
-2021-04-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,43,,1,0
-2021-04-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,43,,1,0
-2021-04-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,43,,1,0
-2021-04-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,43,,1,0
-2021-04-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,43,,1,0
-2021-04-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,43,,1,0
-2021-04-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,1,,43,,1,0
-2021-04-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,43,,1,0
-2021-04-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,43,,1,0
-2021-05-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,43,,1,0
-2021-05-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,43,,1,0
-2021-05-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,1,,43,,1,0
-2021-05-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,43,,1,0
-2021-05-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,43,,1,0
-2021-05-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,43,,1,0
-2021-05-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,43,,1,0
-2021-05-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,43,,1,0
-2021-05-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,43,,1,0
-2021-05-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,3,,43,,1,0
-2021-05-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-05-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-06-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,43,,1,0
-2021-07-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,1,,43,,1,0
-2021-07-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,43,,1,0
-2021-07-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,43,,1,0
-2021-07-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,43,,1,0
-2021-07-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,43,,1,0
-2021-07-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1770,1,,43,,1,0
-2021-07-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1770,0,,43,,1,0
-2021-07-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,1,,43,,1,0
-2021-07-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,43,,1,0
-2021-07-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,43,,1,0
-2021-07-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,44,,1,0
-2021-07-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,44,,1,0
-2021-07-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1772,1,,44,,1,0
-2021-07-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,2,,44,,1,0
-2021-07-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,44,,1,0
-2021-07-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,44,,1,0
-2021-07-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,44,,1,0
-2021-07-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,44,,1,0
-2021-07-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,44,,1,0
-2021-07-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,44,,1,0
-2021-07-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,44,,1,0
-2021-07-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,2,,44,,1,0
-2021-07-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,44,,1,0
-2021-08-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,44,,1,0
-2021-08-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,44,,1,0
-2021-08-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,44,,1,0
-2021-08-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,44,,1,0
-2021-08-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1777,1,,44,,1,0
-2021-08-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,1,,44,,1,0
-2021-08-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,44,,1,0
-2021-08-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,44,,1,0
-2021-08-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,44,,1,0
-2021-08-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,44,,1,0
-2021-08-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,4,44,1729,1,0
+2020-08-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,0,,22,,0,0
+2020-08-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,240,0,,22,,0,0
+2020-08-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,241,1,,22,,0,0
+2020-08-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,241,0,,22,,0,0
+2020-08-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,26,,22,,0,0
+2020-08-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,22,,0,0
+2020-08-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,22,,0,0
+2020-08-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,22,,0,0
+2020-08-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,22,,0,0
+2020-09-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,22,,0,0
+2020-09-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,267,0,,22,,0,0
+2020-09-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,268,1,,23,,0,0
+2020-09-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,2,,23,,0,0
+2020-09-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,23,,0,0
+2020-09-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,23,,0,0
+2020-09-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,23,,0,0
+2020-09-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,270,0,,23,,0,0
+2020-09-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,271,1,,23,,0,0
+2020-09-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,272,1,,23,,0,0
+2020-09-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,274,2,,23,,0,0
+2020-09-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,274,0,,23,,0,0
+2020-09-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,274,0,,23,,0,0
+2020-09-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,275,1,,23,,0,0
+2020-09-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,275,0,,23,,0,0
+2020-09-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,275,0,,23,,0,0
+2020-09-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,1,,23,,0,0
+2020-09-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,23,,0,0
+2020-09-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,23,,0,0
+2020-09-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,23,,0,0
+2020-09-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,276,0,,23,,0,0
+2020-09-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,1,,23,,0,0
+2020-09-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-09-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-09-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-09-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-09-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-09-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-09-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-09-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,277,0,,23,,0,0
+2020-10-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,279,2,,23,,0,0
+2020-10-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,1,,23,,0,0
+2020-10-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,23,,0,0
+2020-10-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,23,,0,0
+2020-10-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,23,,0,0
+2020-10-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,23,,0,0
+2020-10-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,23,,0,0
+2020-10-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,280,0,,23,,0,0
+2020-10-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,1,,23,,0,0
+2020-10-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,23,,0,0
+2020-10-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,23,,0,0
+2020-10-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,23,,0,0
+2020-10-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,281,0,,23,,0,0
+2020-10-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,283,2,,23,,0,0
+2020-10-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,1,,23,,0,0
+2020-10-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,23,,0,0
+2020-10-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,23,,0,0
+2020-10-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,23,,0,0
+2020-10-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,284,0,,23,,0,0
+2020-10-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,286,2,,23,,0,0
+2020-10-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,290,4,,23,,0,0
+2020-10-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,291,1,,23,,0,0
+2020-10-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,1,,23,,0,0
+2020-10-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,23,,0,0
+2020-10-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,23,,0,0
+2020-10-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,23,,0,0
+2020-10-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,23,,0,0
+2020-10-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,292,0,,23,,0,0
+2020-10-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,1,,23,,0,0
+2020-10-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,23,,0,0
+2020-10-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,23,,0,0
+2020-11-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,23,,0,0
+2020-11-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,23,,0,0
+2020-11-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,23,,0,0
+2020-11-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,23,,0,0
+2020-11-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,293,0,,23,,0,0
+2020-11-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,14,,23,,0,0
+2020-11-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,307,0,,23,,0,0
+2020-11-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,9,,23,,0,0
+2020-11-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,23,,0,0
+2020-11-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,23,,0,0
+2020-11-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,23,,0,0
+2020-11-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,23,,0,0
+2020-11-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,23,,0,0
+2020-11-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,316,0,,23,,0,0
+2020-11-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,317,1,,23,,0,0
+2020-11-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,3,,23,,0,0
+2020-11-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,0,,23,,0,0
+2020-11-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,0,,23,,0,0
+2020-11-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,320,0,,23,,0,0
+2020-11-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,321,1,,23,,0,0
+2020-11-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,321,0,,23,,0,0
+2020-11-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,322,1,,23,,0,0
+2020-12-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,323,1,,23,,0,0
+2020-12-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,326,3,,23,,0,0
+2020-12-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,337,11,,23,,0,0
+2020-12-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,338,1,,23,,0,0
+2020-12-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,339,1,,23,,0,0
+2020-12-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,339,0,,23,,0,0
+2020-12-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,345,6,,23,,0,0
+2020-12-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,429,84,,23,,0,0
+2020-12-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,512,83,,23,,0,0
+2020-12-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,525,13,,24,,0,0
+2020-12-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,680,155,,24,,0,0
+2020-12-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,698,18,,25,,0,0
+2020-12-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,699,1,,25,,0,0
+2020-12-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,746,47,,25,,0,0
+2020-12-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,787,41,,25,,0,0
+2020-12-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,805,18,,25,,0,0
+2020-12-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,811,6,,26,,0,0
+2020-12-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,918,107,,26,,0,0
+2020-12-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,918,0,,28,,0,0
+2020-12-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,918,0,,29,,0,0
+2020-12-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,979,61,,33,,0,0
+2020-12-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1054,75,,33,,0,0
+2020-12-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1077,23,,34,,0,0
+2020-12-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1092,15,,34,,0,0
+2020-12-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1101,9,,34,,0,0
+2020-12-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1101,0,,35,,0,0
+2020-12-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1103,2,,36,,0,0
+2020-12-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1121,18,,36,,0,0
+2020-12-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1150,29,,36,,0,0
+2020-12-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1161,11,,36,,0,0
+2020-12-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1177,16,,36,,0,0
+2021-01-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1194,17,,36,,0,0
+2021-01-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1194,0,,36,,0,0
+2021-01-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1196,2,,36,,0,0
+2021-01-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1213,17,,36,,0,0
+2021-01-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1222,9,,36,,0,0
+2021-01-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1242,20,,36,,0,0
+2021-01-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1269,27,,36,,0,0
+2021-01-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1303,34,,36,,0,0
+2021-01-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1304,1,,36,,0,0
+2021-01-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1304,0,,37,,0,0
+2021-01-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1307,3,,37,,0,0
+2021-01-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1313,6,,37,,0,0
+2021-01-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1315,2,,37,,0,0
+2021-01-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1315,0,,37,,0,0
+2021-01-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1331,16,,37,,0,0
+2021-01-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1331,0,,39,,0,0
+2021-01-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1331,0,,39,,1,1
+2021-01-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1333,2,,39,,1,0
+2021-01-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1336,3,,39,,1,0
+2021-01-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1345,9,,39,,1,0
+2021-01-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1345,0,,39,,1,0
+2021-01-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1347,2,,39,,1,0
+2021-01-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1347,0,,39,,1,0
+2021-01-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1347,0,,39,,1,0
+2021-01-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1352,5,,39,,1,0
+2021-01-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1353,1,,39,,1,0
+2021-01-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1364,11,,39,,1,0
+2021-01-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1365,1,,39,,1,0
+2021-01-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1384,19,,39,,1,0
+2021-01-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1384,0,,39,,1,0
+2021-01-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1384,0,,39,,1,0
+2021-02-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1483,99,,39,,1,0
+2021-02-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1587,104,,39,,1,0
+2021-02-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1590,3,,39,,1,0
+2021-02-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1590,0,,39,,1,0
+2021-02-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1626,36,,39,,1,0
+2021-02-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1630,4,,39,,1,0
+2021-02-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1630,0,,40,,1,0
+2021-02-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1636,6,,40,,1,0
+2021-02-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1639,3,,40,,1,0
+2021-02-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1664,25,,40,,1,0
+2021-02-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1702,38,,40,,1,0
+2021-02-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1710,8,,41,,1,0
+2021-02-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1710,0,,42,,1,0
+2021-02-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1710,0,,42,,1,0
+2021-02-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1711,1,,42,,1,0
+2021-02-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1720,9,,42,,1,0
+2021-02-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1723,3,,42,,1,0
+2021-02-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1726,3,,42,,1,0
+2021-02-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,1,,42,,1,0
+2021-02-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,0,,42,,1,0
+2021-02-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,0,,42,,1,0
+2021-02-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1727,0,,42,,1,0
+2021-02-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1732,5,,42,,1,0
+2021-02-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1735,3,,42,,1,0
+2021-02-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1735,0,,43,,1,0
+2021-02-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1735,0,,43,,1,0
+2021-02-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1742,7,,43,,1,0
+2021-02-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1742,0,,43,,1,0
+2021-03-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1745,3,,43,,1,0
+2021-03-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1746,1,,43,,1,0
+2021-03-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1746,0,,43,,1,0
+2021-03-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1746,0,,43,,1,0
+2021-03-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1749,3,,43,,1,0
+2021-03-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1749,0,,43,,1,0
+2021-03-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1749,0,,43,,1,0
+2021-03-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1751,2,,43,,1,0
+2021-03-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1752,1,,43,,1,0
+2021-03-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1753,1,,43,,1,0
+2021-03-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,6,,43,,1,0
+2021-03-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,43,,1,0
+2021-03-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,43,,1,0
+2021-03-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,43,,1,0
+2021-03-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1759,0,,43,,1,0
+2021-03-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1760,1,,43,,1,0
+2021-03-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,1,,43,,1,0
+2021-03-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
+2021-03-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
+2021-03-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
+2021-03-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,43,,1,0
+2021-03-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-03-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1761,0,,44,,1,0
+2021-04-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,1,,44,,1,0
+2021-04-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,44,,1,0
+2021-04-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,44,,1,0
+2021-04-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,44,,1,0
+2021-04-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,44,,1,0
+2021-04-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,44,,1,0
+2021-04-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1762,0,,44,,1,0
+2021-04-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,1,,44,,1,0
+2021-04-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,44,,1,0
+2021-04-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,44,,1,0
+2021-04-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,44,,1,0
+2021-04-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,44,,1,0
+2021-04-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,44,,1,0
+2021-04-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1763,0,,44,,1,0
+2021-04-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,1,,44,,1,0
+2021-04-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,44,,1,0
+2021-04-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,44,,1,0
+2021-05-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,44,,1,0
+2021-05-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1764,0,,44,,1,0
+2021-05-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,1,,44,,1,0
+2021-05-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,44,,1,0
+2021-05-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,44,,1,0
+2021-05-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,44,,1,0
+2021-05-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,44,,1,0
+2021-05-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,44,,1,0
+2021-05-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1765,0,,44,,1,0
+2021-05-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,3,,44,,1,0
+2021-05-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-05-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-06-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1768,0,,44,,1,0
+2021-07-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,1,,44,,1,0
+2021-07-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,44,,1,0
+2021-07-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,44,,1,0
+2021-07-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,44,,1,0
+2021-07-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1769,0,,44,,1,0
+2021-07-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1770,1,,44,,1,0
+2021-07-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1770,0,,44,,1,0
+2021-07-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,1,,44,,1,0
+2021-07-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,44,,1,0
+2021-07-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,44,,1,0
+2021-07-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,45,,1,0
+2021-07-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1771,0,,45,,1,0
+2021-07-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1772,1,,45,,1,0
+2021-07-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,2,,45,,1,0
+2021-07-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,45,,1,0
+2021-07-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,45,,1,0
+2021-07-25,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,45,,1,0
+2021-07-26,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,45,,1,0
+2021-07-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,45,,1,0
+2021-07-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,45,,1,0
+2021-07-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1774,0,,45,,1,0
+2021-07-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,2,,45,,1,0
+2021-07-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,45,,1,0
+2021-08-01,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,45,,1,0
+2021-08-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,45,,1,0
+2021-08-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,45,,1,0
+2021-08-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1776,0,,45,,1,0
+2021-08-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1777,1,,45,,1,0
+2021-08-06,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,1,,45,,1,0
+2021-08-07,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,45,,1,0
+2021-08-08,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,45,,1,0
+2021-08-09,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,45,,1,0
+2021-08-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,45,,1,0
+2021-08-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,,45,,1,0
+2021-08-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1778,0,4,45,1728,1,0
