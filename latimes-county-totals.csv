@@ -39,7 +39,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-13,San Francisco,075,43442,567,96,0
 2021-08-13,San Joaquin,077,79641,1478,0,0
 2021-08-13,San Luis Obispo,079,23359,271,400,2
-2021-08-13,San Mateo,081,0,0,-46231,-592
+2021-08-13,San Mateo,081,46231,592,0,0
 2021-08-13,Santa Barbara,083,37133,470,147,2
 2021-08-13,Santa Clara,085,127446,1716,352,5
 2021-08-13,Santa Cruz,087,17272,209,0,0
