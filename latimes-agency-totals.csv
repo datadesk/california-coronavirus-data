@@ -1,70 +1,70 @@
 agency,county,fips,date,confirmed_cases,deaths,did_not_update
 Alameda,Alameda,001,2021-08-14,97271,1250,
 Berkeley,Alameda,001,2021-08-14,4202,51,
-Alpine,Alpine,003,2021-08-14,,,
-Amador,Amador,005,2021-08-14,,,
-Butte,Butte,007,2021-08-14,,,
-Calaveras,Calaveras,009,2021-08-14,,,
-Colusa,Colusa,011,2021-08-14,,,
+Alpine,Alpine,003,2021-08-14,89,0,TRUE
+Amador,Amador,005,2021-08-14,4130,49,TRUE
+Butte,Butte,007,2021-08-14,14179,202,TRUE
+Calaveras,Calaveras,009,2021-08-14,2537,58,TRUE
+Colusa,Colusa,011,2021-08-14,2459,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-14,81823,846,
-Del Norte,Del Norte,015,2021-08-14,,,
-El Dorado,El Dorado,017,2021-08-14,,,
+Del Norte,Del Norte,015,2021-08-14,2060,10,TRUE
+El Dorado,El Dorado,017,2021-08-14,12001,122,TRUE
 Fresno,Fresno,019,2021-08-14,108638,1753,
-Glenn,Glenn,021,2021-08-14,,,
-Humboldt,Humboldt,023,2021-08-14,,,
-Imperial,Imperial,025,2021-08-14,,,
-Inyo,Inyo,027,2021-08-14,,,
-Kern,Kern,029,2021-08-14,,,
+Glenn,Glenn,021,2021-08-14,2457,27,TRUE
+Humboldt,Humboldt,023,2021-08-14,5970,58,TRUE
+Imperial,Imperial,025,2021-08-14,29237,746,TRUE
+Inyo,Inyo,027,2021-08-14,1509,39,TRUE
+Kern,Kern,029,2021-08-14,117101,1434,TRUE
 Kings,Kings,031,2021-08-14,24716,256,
 Lake,Lake,033,2021-08-14,4811,68,
-Lassen,Lassen,035,2021-08-14,,,
-Long Beach,Los Angeles,037,2021-08-14,,,
+Lassen,Lassen,035,2021-08-14,6015,26,TRUE
+Long Beach,Los Angeles,037,2021-08-14,58396,960,TRUE
 Los Angeles,Los Angeles,037,2021-08-14,1276355,23578,
-Pasadena,Los Angeles,037,2021-08-14,,,
-Madera,Madera,039,2021-08-14,,,
+Pasadena,Los Angeles,037,2021-08-14,12272,354,TRUE
+Madera,Madera,039,2021-08-14,17381,249,TRUE
 Marin,Marin,041,2021-08-14,15581,215,
-Mariposa,Mariposa,043,2021-08-14,,,
+Mariposa,Mariposa,043,2021-08-14,636,7,TRUE
 Mendocino,Mendocino,045,2021-08-14,5267,54,
-Merced,Merced,047,2021-08-14,,,
-Modoc,Modoc,049,2021-08-14,,,
+Merced,Merced,047,2021-08-14,34558,492,TRUE
+Modoc,Modoc,049,2021-08-14,581,7,TRUE
 Mono,Mono,051,2021-08-14,1377,5,
-Monterey,Monterey,053,2021-08-14,,,
-Napa,Napa,055,2021-08-14,,,
-Nevada,Nevada,057,2021-08-14,,,
-Orange,Orange,059,2021-08-14,,,
-Placer,Placer,061,2021-08-14,,,
-Plumas,Plumas,063,2021-08-14,,,
-Riverside,Riverside,065,2021-08-14,,,
-Sacramento,Sacramento,067,2021-08-14,,,
-San Benito,San Benito,069,2021-08-14,,,
-San Bernardino,San Bernardino,071,2021-08-14,,,
+Monterey,Monterey,053,2021-08-14,45293,530,TRUE
+Napa,Napa,055,2021-08-14,10842,81,TRUE
+Nevada,Nevada,057,2021-08-14,6284,77,TRUE
+Orange,Orange,059,2021-08-14,273847,5156,TRUE
+Placer,Placer,061,2021-08-14,26905,308,TRUE
+Plumas,Plumas,063,2021-08-14,849,6,TRUE
+Riverside,Riverside,065,2021-08-14,319733,4685,TRUE
+Sacramento,Sacramento,067,2021-08-14,122403,1812,TRUE
+San Benito,San Benito,069,2021-08-14,6447,64,TRUE
+San Bernardino,San Bernardino,071,2021-08-14,316253,4867,TRUE
 San Diego,San Diego,073,2021-08-14,313589,3824,
 San Francisco,San Francisco,075,2021-08-14,43787,570,
-San Joaquin,San Joaquin,077,2021-08-14,,,
-San Luis Obispo,San Luis Obispo,079,2021-08-14,,,
-San Mateo,San Mateo,081,2021-08-14,,,
-Santa Barbara,Santa Barbara,083,2021-08-14,,,
-Santa Clara,Santa Clara,085,2021-08-14,,,
-Santa Cruz,Santa Cruz,087,2021-08-14,,,
-Shasta,Shasta,089,2021-08-14,,,
-Sierra,Sierra,091,2021-08-14,,,
-Siskiyou,Siskiyou,093,2021-08-14,,,
-Solano,Solano,095,2021-08-14,,,
+San Joaquin,San Joaquin,077,2021-08-14,79641,1478,TRUE
+San Luis Obispo,San Luis Obispo,079,2021-08-14,23359,271,TRUE
+San Mateo,San Mateo,081,2021-08-14,46231,592,TRUE
+Santa Barbara,Santa Barbara,083,2021-08-14,37133,470,TRUE
+Santa Clara,Santa Clara,085,2021-08-14,127446,1716,TRUE
+Santa Cruz,Santa Cruz,087,2021-08-14,17272,209,TRUE
+Shasta,Shasta,089,2021-08-14,13791,244,TRUE
+Sierra,Sierra,091,2021-08-14,150,0,TRUE
+Siskiyou,Siskiyou,093,2021-08-14,2786,40,TRUE
+Solano,Solano,095,2021-08-14,37664,254,TRUE
 Sonoma,Sonoma,097,2021-08-14,34686,338,
-Stanislaus,Stanislaus,099,2021-08-14,,,
-Sutter,Sutter,101,2021-08-14,,,
+Stanislaus,Stanislaus,099,2021-08-14,61780,1106,TRUE
+Sutter,Sutter,101,2021-08-14,10862,113,TRUE
 Tehama,Tehama,103,2021-08-14,6214,66,
-Trinity,Trinity,105,2021-08-14,,,
-Tulare,Tulare,107,2021-08-14,,,
-Tuolumne,Tuolumne,109,2021-08-14,,,
-Ventura,Ventura,111,2021-08-14,,,
-Yolo,Yolo,113,2021-08-14,,,
-Yuba,Yuba,115,2021-08-14,,,
+Trinity,Trinity,105,2021-08-14,526,7,TRUE
+Tulare,Tulare,107,2021-08-14,51734,855,TRUE
+Tuolumne,Tuolumne,109,2021-08-14,5053,75,TRUE
+Ventura,Ventura,111,2021-08-14,86440,1046,TRUE
+Yolo,Yolo,113,2021-08-14,15716,223,TRUE
+Yuba,Yuba,115,2021-08-14,7562,44,TRUE
 Alameda,Alameda,001,2021-08-13,96975,1248,
 Berkeley,Alameda,001,2021-08-13,4185,51,
 Alpine,Alpine,003,2021-08-13,89,0,TRUE
 Amador,Amador,005,2021-08-13,4130,49,TRUE
-Butte,Butte,007,2021-08-13,14179,202,
+Butte,Butte,007,2021-08-13,14100,202,
 Calaveras,Calaveras,009,2021-08-13,2537,58,
 Colusa,Colusa,011,2021-08-13,2459,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-13,81406,846,
@@ -125,7 +125,7 @@ Alameda,Alameda,001,2021-08-12,96604,1248,
 Berkeley,Alameda,001,2021-08-12,4168,51,
 Alpine,Alpine,003,2021-08-12,89,0,TRUE
 Amador,Amador,005,2021-08-12,4108,49,
-Butte,Butte,007,2021-08-12,14082,202,
+Butte,Butte,007,2021-08-12,14006,202,
 Calaveras,Calaveras,009,2021-08-12,2510,58,
 Colusa,Colusa,011,2021-08-12,2459,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-12,81090,843,
@@ -186,7 +186,7 @@ Alameda,Alameda,001,2021-08-11,96336,1245,
 Berkeley,Alameda,001,2021-08-11,4156,51,
 Alpine,Alpine,003,2021-08-11,89,0,TRUE
 Amador,Amador,005,2021-08-11,4067,49,TRUE
-Butte,Butte,007,2021-08-11,13975,200,
+Butte,Butte,007,2021-08-11,13905,200,
 Calaveras,Calaveras,009,2021-08-11,2485,58,
 Colusa,Colusa,011,2021-08-11,2459,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-11,80628,841,
@@ -247,7 +247,7 @@ Alameda,Alameda,001,2021-08-10,96049,1245,
 Berkeley,Alameda,001,2021-08-10,4138,51,
 Alpine,Alpine,003,2021-08-10,89,0,TRUE
 Amador,Amador,005,2021-08-10,4067,49,
-Butte,Butte,007,2021-08-10,13922,200,
+Butte,Butte,007,2021-08-10,13853,200,
 Calaveras,Calaveras,009,2021-08-10,2458,58,
 Colusa,Colusa,011,2021-08-10,2459,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-10,80368,838,
@@ -308,7 +308,7 @@ Alameda,Alameda,001,2021-08-09,95558,1241,
 Berkeley,Alameda,001,2021-08-09,4123,50,
 Alpine,Alpine,003,2021-08-09,89,0,TRUE
 Amador,Amador,005,2021-08-09,4057,49,
-Butte,Butte,007,2021-08-09,13880,200,
+Butte,Butte,007,2021-08-09,13813,200,
 Calaveras,Calaveras,009,2021-08-09,2426,58,
 Colusa,Colusa,011,2021-08-09,2459,18,
 Contra Costa,Contra Costa,013,2021-08-09,80100,838,
@@ -369,7 +369,7 @@ Alameda,Alameda,001,2021-08-08,95376,1241,
 Berkeley,Alameda,001,2021-08-08,4108,50,
 Alpine,Alpine,003,2021-08-08,89,0,TRUE
 Amador,Amador,005,2021-08-08,4025,48,
-Butte,Butte,007,2021-08-08,13692,200,TRUE
+Butte,Butte,007,2021-08-08,13791,200,TRUE
 Calaveras,Calaveras,009,2021-08-08,2406,58,TRUE
 Colusa,Colusa,011,2021-08-08,2381,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-08,79814,838,
@@ -430,7 +430,7 @@ Alameda,Alameda,001,2021-08-07,95120,1241,
 Berkeley,Alameda,001,2021-08-07,4098,50,
 Alpine,Alpine,003,2021-08-07,89,0,TRUE
 Amador,Amador,005,2021-08-07,3981,48,
-Butte,Butte,007,2021-08-07,13692,200,TRUE
+Butte,Butte,007,2021-08-07,13714,200,TRUE
 Calaveras,Calaveras,009,2021-08-07,2406,58,TRUE
 Colusa,Colusa,011,2021-08-07,2381,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-07,79530,838,
@@ -491,7 +491,7 @@ Alameda,Alameda,001,2021-08-06,94823,1241,
 Berkeley,Alameda,001,2021-08-06,4083,50,
 Alpine,Alpine,003,2021-08-06,89,0,TRUE
 Amador,Amador,005,2021-08-06,3961,48,TRUE
-Butte,Butte,007,2021-08-06,13692,200,
+Butte,Butte,007,2021-08-06,13626,200,
 Calaveras,Calaveras,009,2021-08-06,2406,58,
 Colusa,Colusa,011,2021-08-06,2381,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-06,79145,838,
@@ -552,7 +552,7 @@ Alameda,Alameda,001,2021-08-05,94298,1241,
 Berkeley,Alameda,001,2021-08-05,4061,50,
 Alpine,Alpine,003,2021-08-05,89,0,TRUE
 Amador,Amador,005,2021-08-05,3961,48,
-Butte,Butte,007,2021-08-05,13616,200,
+Butte,Butte,007,2021-08-05,13564,200,
 Calaveras,Calaveras,009,2021-08-05,2389,58,
 Colusa,Colusa,011,2021-08-05,2381,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-05,78869,838,
@@ -613,7 +613,7 @@ Alameda,Alameda,001,2021-08-04,93976,1240,
 Berkeley,Alameda,001,2021-08-04,4037,50,
 Alpine,Alpine,003,2021-08-04,89,0,TRUE
 Amador,Amador,005,2021-08-04,3912,48,
-Butte,Butte,007,2021-08-04,13539,200,
+Butte,Butte,007,2021-08-04,13509,200,
 Calaveras,Calaveras,009,2021-08-04,2359,58,
 Colusa,Colusa,011,2021-08-04,2381,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-04,78314,838,
@@ -674,7 +674,7 @@ Alameda,Alameda,001,2021-08-03,93264,1236,
 Berkeley,Alameda,001,2021-08-03,4009,50,
 Alpine,Alpine,003,2021-08-03,89,0,TRUE
 Amador,Amador,005,2021-08-03,3899,48,
-Butte,Butte,007,2021-08-03,13523,200,
+Butte,Butte,007,2021-08-03,13468,200,
 Calaveras,Calaveras,009,2021-08-03,2344,58,
 Colusa,Colusa,011,2021-08-03,2381,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-03,78084,834,
@@ -735,7 +735,7 @@ Alameda,Alameda,001,2021-08-02,93117,1236,
 Berkeley,Alameda,001,2021-08-02,4004,50,
 Alpine,Alpine,003,2021-08-02,89,0,TRUE
 Amador,Amador,005,2021-08-02,3899,48,
-Butte,Butte,007,2021-08-02,13176,200,TRUE
+Butte,Butte,007,2021-08-02,13442,200,TRUE
 Calaveras,Calaveras,009,2021-08-02,2321,58,
 Colusa,Colusa,011,2021-08-02,2381,18,
 Contra Costa,Contra Costa,013,2021-08-02,77866,834,
@@ -796,7 +796,7 @@ Alameda,Alameda,001,2021-08-01,91889,1232,TRUE
 Berkeley,Alameda,001,2021-08-01,3963,50,
 Alpine,Alpine,003,2021-08-01,89,0,TRUE
 Amador,Amador,005,2021-08-01,3873,48,TRUE
-Butte,Butte,007,2021-08-01,13176,200,TRUE
+Butte,Butte,007,2021-08-01,13406,200,TRUE
 Calaveras,Calaveras,009,2021-08-01,2316,58,TRUE
 Colusa,Colusa,011,2021-08-01,2357,18,TRUE
 Contra Costa,Contra Costa,013,2021-08-01,77708,834,
@@ -857,7 +857,7 @@ Alameda,Alameda,001,2021-07-31,91889,1232,TRUE
 Berkeley,Alameda,001,2021-07-31,3937,50,TRUE
 Alpine,Alpine,003,2021-07-31,89,0,TRUE
 Amador,Amador,005,2021-07-31,3873,48,
-Butte,Butte,007,2021-07-31,13176,200,TRUE
+Butte,Butte,007,2021-07-31,13235,200,TRUE
 Calaveras,Calaveras,009,2021-07-31,2316,58,TRUE
 Colusa,Colusa,011,2021-07-31,2357,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-31,77271,834,
@@ -918,7 +918,7 @@ Alameda,Alameda,001,2021-07-30,91889,1232,
 Berkeley,Alameda,001,2021-07-30,3937,50,
 Alpine,Alpine,003,2021-07-30,89,0,TRUE
 Amador,Amador,005,2021-07-30,3832,48,
-Butte,Butte,007,2021-07-30,13176,200,TRUE
+Butte,Butte,007,2021-07-30,13235,200,TRUE
 Calaveras,Calaveras,009,2021-07-30,2316,58,
 Colusa,Colusa,011,2021-07-30,2357,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-30,76676,833,
@@ -979,7 +979,7 @@ Alameda,Alameda,001,2021-07-29,91889,1232,
 Berkeley,Alameda,001,2021-07-29,3937,50,
 Alpine,Alpine,003,2021-07-29,89,0,TRUE
 Amador,Amador,005,2021-07-29,3832,48,TRUE
-Butte,Butte,007,2021-07-29,13176,200,TRUE
+Butte,Butte,007,2021-07-29,13235,200,TRUE
 Calaveras,Calaveras,009,2021-07-29,2307,58,
 Colusa,Colusa,011,2021-07-29,2357,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-29,76206,830,
@@ -1040,7 +1040,7 @@ Alameda,Alameda,001,2021-07-28,91616,1230,
 Berkeley,Alameda,001,2021-07-28,3923,50,
 Alpine,Alpine,003,2021-07-28,89,0,TRUE
 Amador,Amador,005,2021-07-28,3832,48,
-Butte,Butte,007,2021-07-28,13176,200,TRUE
+Butte,Butte,007,2021-07-28,13184,200,TRUE
 Calaveras,Calaveras,009,2021-07-28,2295,58,
 Colusa,Colusa,011,2021-07-28,2357,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-28,75842,830,
@@ -1101,7 +1101,7 @@ Alameda,Alameda,001,2021-07-27,91333,1224,
 Berkeley,Alameda,001,2021-07-27,3910,50,
 Alpine,Alpine,003,2021-07-27,89,0,TRUE
 Amador,Amador,005,2021-07-27,3803,48,
-Butte,Butte,007,2021-07-27,13176,200,
+Butte,Butte,007,2021-07-27,13127,200,
 Calaveras,Calaveras,009,2021-07-27,2287,58,
 Colusa,Colusa,011,2021-07-27,2357,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-27,75580,828,
@@ -1162,7 +1162,7 @@ Alameda,Alameda,001,2021-07-26,90900,1222,
 Berkeley,Alameda,001,2021-07-26,3896,50,
 Alpine,Alpine,003,2021-07-26,89,0,TRUE
 Amador,Amador,005,2021-07-26,3802,48,TRUE
-Butte,Butte,007,2021-07-26,12510,198,TRUE
+Butte,Butte,007,2021-07-26,13082,198,TRUE
 Calaveras,Calaveras,009,2021-07-26,2283,58,
 Colusa,Colusa,011,2021-07-26,2357,18,
 Contra Costa,Contra Costa,013,2021-07-26,75212,828,
@@ -1223,7 +1223,7 @@ Alameda,Alameda,001,2021-07-25,90847,1222,
 Berkeley,Alameda,001,2021-07-25,3889,50,
 Alpine,Alpine,003,2021-07-25,89,0,TRUE
 Amador,Amador,005,2021-07-25,3802,48,TRUE
-Butte,Butte,007,2021-07-25,12510,198,TRUE
+Butte,Butte,007,2021-07-25,13074,198,TRUE
 Calaveras,Calaveras,009,2021-07-25,2281,58,TRUE
 Colusa,Colusa,011,2021-07-25,2339,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-25,74985,828,
@@ -1284,7 +1284,7 @@ Alameda,Alameda,001,2021-07-24,90473,1222,
 Berkeley,Alameda,001,2021-07-24,3872,50,
 Alpine,Alpine,003,2021-07-24,89,0,TRUE
 Amador,Amador,005,2021-07-24,3802,48,
-Butte,Butte,007,2021-07-24,12510,198,TRUE
+Butte,Butte,007,2021-07-24,12982,198,TRUE
 Calaveras,Calaveras,009,2021-07-24,2281,58,TRUE
 Colusa,Colusa,011,2021-07-24,2339,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-24,74666,828,
@@ -1345,7 +1345,7 @@ Alameda,Alameda,001,2021-07-23,90103,1222,
 Berkeley,Alameda,001,2021-07-23,3850,50,
 Alpine,Alpine,003,2021-07-23,89,0,TRUE
 Amador,Amador,005,2021-07-23,3802,48,
-Butte,Butte,007,2021-07-23,12510,198,TRUE
+Butte,Butte,007,2021-07-23,12982,198,TRUE
 Calaveras,Calaveras,009,2021-07-23,2281,58,
 Colusa,Colusa,011,2021-07-23,2339,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-23,74369,828,
@@ -1406,7 +1406,7 @@ Alameda,Alameda,001,2021-07-22,89811,1222,
 Berkeley,Alameda,001,2021-07-22,3824,50,
 Alpine,Alpine,003,2021-07-22,89,0,TRUE
 Amador,Amador,005,2021-07-22,3774,48,TRUE
-Butte,Butte,007,2021-07-22,12510,198,TRUE
+Butte,Butte,007,2021-07-22,12982,198,TRUE
 Calaveras,Calaveras,009,2021-07-22,2279,58,
 Colusa,Colusa,011,2021-07-22,2339,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-22,74030,828,
@@ -1467,7 +1467,7 @@ Alameda,Alameda,001,2021-07-21,89548,1222,
 Berkeley,Alameda,001,2021-07-21,3813,50,
 Alpine,Alpine,003,2021-07-21,89,0,TRUE
 Amador,Amador,005,2021-07-21,3774,48,
-Butte,Butte,007,2021-07-21,12510,198,TRUE
+Butte,Butte,007,2021-07-21,12939,198,TRUE
 Calaveras,Calaveras,009,2021-07-21,2267,58,
 Colusa,Colusa,011,2021-07-21,2339,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-21,73662,825,
@@ -1528,7 +1528,7 @@ Alameda,Alameda,001,2021-07-20,89180,1222,
 Berkeley,Alameda,001,2021-07-20,3793,50,
 Alpine,Alpine,003,2021-07-20,89,0,TRUE
 Amador,Amador,005,2021-07-20,3765,48,TRUE
-Butte,Butte,007,2021-07-20,12510,198,
+Butte,Butte,007,2021-07-20,12916,198,
 Calaveras,Calaveras,009,2021-07-20,2266,58,TRUE
 Colusa,Colusa,011,2021-07-20,2339,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-20,73495,823,TRUE
@@ -1589,7 +1589,7 @@ Alameda,Alameda,001,2021-07-19,88806,1221,
 Berkeley,Alameda,001,2021-07-19,3778,50,
 Alpine,Alpine,003,2021-07-19,89,0,TRUE
 Amador,Amador,005,2021-07-19,3765,48,TRUE
-Butte,Butte,007,2021-07-19,12390,198,TRUE
+Butte,Butte,007,2021-07-19,12901,198,TRUE
 Calaveras,Calaveras,009,2021-07-19,2256,58,TRUE
 Colusa,Colusa,011,2021-07-19,2339,18,
 Contra Costa,Contra Costa,013,2021-07-19,73290,823,
@@ -1650,7 +1650,7 @@ Alameda,Alameda,001,2021-07-18,88805,1221,
 Berkeley,Alameda,001,2021-07-18,3775,50,
 Alpine,Alpine,003,2021-07-18,89,0,TRUE
 Amador,Amador,005,2021-07-18,3765,48,TRUE
-Butte,Butte,007,2021-07-18,12390,198,TRUE
+Butte,Butte,007,2021-07-18,12888,198,TRUE
 Calaveras,Calaveras,009,2021-07-18,2256,58,TRUE
 Colusa,Colusa,011,2021-07-18,2322,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-18,73202,823,
@@ -1711,7 +1711,7 @@ Alameda,Alameda,001,2021-07-17,88608,1221,
 Berkeley,Alameda,001,2021-07-17,3764,50,
 Alpine,Alpine,003,2021-07-17,89,0,TRUE
 Amador,Amador,005,2021-07-17,3765,48,TRUE
-Butte,Butte,007,2021-07-17,12390,198,TRUE
+Butte,Butte,007,2021-07-17,12824,198,TRUE
 Calaveras,Calaveras,009,2021-07-17,2256,58,TRUE
 Colusa,Colusa,011,2021-07-17,2322,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-17,72981,823,
@@ -1772,7 +1772,7 @@ Alameda,Alameda,001,2021-07-16,88339,1220,
 Berkeley,Alameda,001,2021-07-16,3752,50,
 Alpine,Alpine,003,2021-07-16,89,0,TRUE
 Amador,Amador,005,2021-07-16,3765,48,
-Butte,Butte,007,2021-07-16,12390,198,TRUE
+Butte,Butte,007,2021-07-16,12824,198,TRUE
 Calaveras,Calaveras,009,2021-07-16,2256,58,
 Colusa,Colusa,011,2021-07-16,2322,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-16,72776,823,
@@ -1833,7 +1833,7 @@ Alameda,Alameda,001,2021-07-15,88013,1220,
 Berkeley,Alameda,001,2021-07-15,3730,50,
 Alpine,Alpine,003,2021-07-15,89,0,TRUE
 Amador,Amador,005,2021-07-15,3751,48,TRUE
-Butte,Butte,007,2021-07-15,12390,198,TRUE
+Butte,Butte,007,2021-07-15,12824,198,TRUE
 Calaveras,Calaveras,009,2021-07-15,2253,58,
 Colusa,Colusa,011,2021-07-15,2322,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-15,72602,822,
@@ -1894,7 +1894,7 @@ Alameda,Alameda,001,2021-07-14,88013,1220,
 Berkeley,Alameda,001,2021-07-14,3730,50,
 Alpine,Alpine,003,2021-07-14,89,0,TRUE
 Amador,Amador,005,2021-07-14,3751,48,
-Butte,Butte,007,2021-07-14,12390,198,TRUE
+Butte,Butte,007,2021-07-14,12813,198,TRUE
 Calaveras,Calaveras,009,2021-07-14,2251,58,
 Colusa,Colusa,011,2021-07-14,2322,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-14,72442,821,
@@ -1955,7 +1955,7 @@ Alameda,Alameda,001,2021-07-13,87824,1220,
 Berkeley,Alameda,001,2021-07-13,3722,50,
 Alpine,Alpine,003,2021-07-13,89,0,TRUE
 Amador,Amador,005,2021-07-13,3747,48,TRUE
-Butte,Butte,007,2021-07-13,12390,198,
+Butte,Butte,007,2021-07-13,12802,198,
 Calaveras,Calaveras,009,2021-07-13,2235,58,TRUE
 Colusa,Colusa,011,2021-07-13,2322,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-13,72326,821,
@@ -2016,7 +2016,7 @@ Alameda,Alameda,001,2021-07-12,87481,1220,
 Berkeley,Alameda,001,2021-07-12,3716,50,
 Alpine,Alpine,003,2021-07-12,89,0,TRUE
 Amador,Amador,005,2021-07-12,3747,48,TRUE
-Butte,Butte,007,2021-07-12,12325,198,TRUE
+Butte,Butte,007,2021-07-12,12796,198,TRUE
 Calaveras,Calaveras,009,2021-07-12,2235,58,
 Colusa,Colusa,011,2021-07-12,2322,18,
 Contra Costa,Contra Costa,013,2021-07-12,72109,821,
@@ -2077,7 +2077,7 @@ Alameda,Alameda,001,2021-07-11,87452,1220,
 Berkeley,Alameda,001,2021-07-11,3708,50,
 Alpine,Alpine,003,2021-07-11,89,0,TRUE
 Amador,Amador,005,2021-07-11,3747,48,TRUE
-Butte,Butte,007,2021-07-11,12325,198,TRUE
+Butte,Butte,007,2021-07-11,12794,198,TRUE
 Calaveras,Calaveras,009,2021-07-11,2233,58,TRUE
 Colusa,Colusa,011,2021-07-11,2308,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-11,72109,821,
@@ -2138,7 +2138,7 @@ Alameda,Alameda,001,2021-07-10,87325,1218,
 Berkeley,Alameda,001,2021-07-10,3691,50,
 Alpine,Alpine,003,2021-07-10,89,0,TRUE
 Amador,Amador,005,2021-07-10,3747,48,TRUE
-Butte,Butte,007,2021-07-10,12325,198,TRUE
+Butte,Butte,007,2021-07-10,12764,198,TRUE
 Calaveras,Calaveras,009,2021-07-10,2233,58,TRUE
 Colusa,Colusa,011,2021-07-10,2308,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-10,71981,821,
@@ -2199,7 +2199,7 @@ Alameda,Alameda,001,2021-07-09,87072,1218,
 Berkeley,Alameda,001,2021-07-09,3689,50,
 Alpine,Alpine,003,2021-07-09,89,0,TRUE
 Amador,Amador,005,2021-07-09,3747,48,
-Butte,Butte,007,2021-07-09,12325,198,
+Butte,Butte,007,2021-07-09,12764,198,
 Calaveras,Calaveras,009,2021-07-09,2233,58,
 Colusa,Colusa,011,2021-07-09,2308,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-09,71876,820,
@@ -2260,7 +2260,7 @@ Alameda,Alameda,001,2021-07-08,87072,1217,
 Berkeley,Alameda,001,2021-07-08,3689,50,
 Alpine,Alpine,003,2021-07-08,89,0,
 Amador,Amador,005,2021-07-08,3738,47,TRUE
-Butte,Butte,007,2021-07-08,12325,198,TRUE
+Butte,Butte,007,2021-07-08,12764,198,TRUE
 Calaveras,Calaveras,009,2021-07-08,2232,58,
 Colusa,Colusa,011,2021-07-08,2308,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-08,71758,819,
@@ -2321,7 +2321,7 @@ Alameda,Alameda,001,2021-07-07,86800,1217,
 Berkeley,Alameda,001,2021-07-07,3683,50,
 Alpine,Alpine,003,2021-07-07,89,0,TRUE
 Amador,Amador,005,2021-07-07,3738,47,TRUE
-Butte,Butte,007,2021-07-07,12325,198,TRUE
+Butte,Butte,007,2021-07-07,12750,198,TRUE
 Calaveras,Calaveras,009,2021-07-07,2228,58,
 Colusa,Colusa,011,2021-07-07,2308,18,
 Contra Costa,Contra Costa,013,2021-07-07,71694,819,
@@ -2382,7 +2382,7 @@ Alameda,Alameda,001,2021-07-06,86700,1217,
 Berkeley,Alameda,001,2021-07-06,3683,50,
 Alpine,Alpine,003,2021-07-06,89,0,TRUE
 Amador,Amador,005,2021-07-06,3738,47,
-Butte,Butte,007,2021-07-06,12325,198,
+Butte,Butte,007,2021-07-06,12744,198,
 Calaveras,Calaveras,009,2021-07-06,2227,58,
 Colusa,Colusa,011,2021-07-06,2298,18,
 Contra Costa,Contra Costa,013,2021-07-06,71648,818,
@@ -2443,7 +2443,7 @@ Alameda,Alameda,001,2021-07-05,86694,1217,TRUE
 Berkeley,Alameda,001,2021-07-05,3681,50,TRUE
 Alpine,Alpine,003,2021-07-05,89,0,TRUE
 Amador,Amador,005,2021-07-05,3732,47,
-Butte,Butte,007,2021-07-05,12274,197,TRUE
+Butte,Butte,007,2021-07-05,12740,197,TRUE
 Calaveras,Calaveras,009,2021-07-05,2220,56,TRUE
 Colusa,Colusa,011,2021-07-05,2298,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-05,71616,818,
@@ -2504,7 +2504,7 @@ Alameda,Alameda,001,2021-07-04,86694,1217,TRUE
 Berkeley,Alameda,001,2021-07-04,3681,50,TRUE
 Alpine,Alpine,003,2021-07-04,89,0,TRUE
 Amador,Amador,005,2021-07-04,3732,47,TRUE
-Butte,Butte,007,2021-07-04,12274,197,TRUE
+Butte,Butte,007,2021-07-04,12684,197,TRUE
 Calaveras,Calaveras,009,2021-07-04,2220,56,TRUE
 Colusa,Colusa,011,2021-07-04,2298,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-04,71548,818,
@@ -2565,7 +2565,7 @@ Alameda,Alameda,001,2021-07-03,86694,1217,
 Berkeley,Alameda,001,2021-07-03,3681,50,
 Alpine,Alpine,003,2021-07-03,89,0,TRUE
 Amador,Amador,005,2021-07-03,3732,47,
-Butte,Butte,007,2021-07-03,12274,197,
+Butte,Butte,007,2021-07-03,12684,197,
 Calaveras,Calaveras,009,2021-07-03,2220,56,
 Colusa,Colusa,011,2021-07-03,2298,18,
 Contra Costa,Contra Costa,013,2021-07-03,71478,818,
@@ -2626,7 +2626,7 @@ Alameda,Alameda,001,2021-07-02,86694,1217,
 Berkeley,Alameda,001,2021-07-02,3676,50,
 Alpine,Alpine,003,2021-07-02,89,0,TRUE
 Amador,Amador,005,2021-07-02,3724,47,TRUE
-Butte,Butte,007,2021-07-02,12274,197,TRUE
+Butte,Butte,007,2021-07-02,12684,197,TRUE
 Calaveras,Calaveras,009,2021-07-02,2220,56,
 Colusa,Colusa,011,2021-07-02,2298,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-02,71399,817,
@@ -2687,7 +2687,7 @@ Alameda,Alameda,001,2021-07-01,86608,1217,TRUE
 Berkeley,Alameda,001,2021-07-01,3673,50,
 Alpine,Alpine,003,2021-07-01,89,0,TRUE
 Amador,Amador,005,2021-07-01,3724,47,
-Butte,Butte,007,2021-07-01,12274,197,TRUE
+Butte,Butte,007,2021-07-01,12684,197,TRUE
 Calaveras,Calaveras,009,2021-07-01,2217,56,
 Colusa,Colusa,011,2021-07-01,2298,18,TRUE
 Contra Costa,Contra Costa,013,2021-07-01,71319,816,
@@ -2748,7 +2748,7 @@ Alameda,Alameda,001,2021-06-30,86608,1217,
 Berkeley,Alameda,001,2021-06-30,3668,50,
 Alpine,Alpine,003,2021-06-30,89,0,TRUE
 Amador,Amador,005,2021-06-30,3724,47,TRUE
-Butte,Butte,007,2021-06-30,12274,197,TRUE
+Butte,Butte,007,2021-06-30,12676,197,TRUE
 Calaveras,Calaveras,009,2021-06-30,2215,56,
 Colusa,Colusa,011,2021-06-30,2298,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-30,71250,816,
@@ -2809,7 +2809,7 @@ Alameda,Alameda,001,2021-06-29,86543,1217,
 Berkeley,Alameda,001,2021-06-29,3668,50,
 Alpine,Alpine,003,2021-06-29,89,0,TRUE
 Amador,Amador,005,2021-06-29,3724,47,
-Butte,Butte,007,2021-06-29,12274,197,
+Butte,Butte,007,2021-06-29,12669,197,
 Calaveras,Calaveras,009,2021-06-29,2214,56,
 Colusa,Colusa,011,2021-06-29,2298,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-29,71150,815,
@@ -2870,7 +2870,7 @@ Alameda,Alameda,001,2021-06-28,86494,1217,
 Berkeley,Alameda,001,2021-06-28,3671,50,TRUE
 Alpine,Alpine,003,2021-06-28,89,0,TRUE
 Amador,Amador,005,2021-06-28,3714,47,TRUE
-Butte,Butte,007,2021-06-28,12231,194,TRUE
+Butte,Butte,007,2021-06-28,12697,194,TRUE
 Calaveras,Calaveras,009,2021-06-28,2213,56,
 Colusa,Colusa,011,2021-06-28,2298,18,
 Contra Costa,Contra Costa,013,2021-06-28,71093,815,
@@ -2931,7 +2931,7 @@ Alameda,Alameda,001,2021-06-27,86432,1217,
 Berkeley,Alameda,001,2021-06-27,3671,50,
 Alpine,Alpine,003,2021-06-27,89,0,TRUE
 Amador,Amador,005,2021-06-27,3714,47,TRUE
-Butte,Butte,007,2021-06-27,12231,194,TRUE
+Butte,Butte,007,2021-06-27,12696,194,TRUE
 Calaveras,Calaveras,009,2021-06-27,2210,56,TRUE
 Colusa,Colusa,011,2021-06-27,2288,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-27,71048,815,
@@ -2992,7 +2992,7 @@ Alameda,Alameda,001,2021-06-26,86426,1217,
 Berkeley,Alameda,001,2021-06-26,3664,50,
 Alpine,Alpine,003,2021-06-26,89,0,TRUE
 Amador,Amador,005,2021-06-26,3714,47,
-Butte,Butte,007,2021-06-26,12231,194,TRUE
+Butte,Butte,007,2021-06-26,12693,194,TRUE
 Calaveras,Calaveras,009,2021-06-26,2210,56,TRUE
 Colusa,Colusa,011,2021-06-26,2288,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-26,70945,814,TRUE
@@ -3053,7 +3053,7 @@ Alameda,Alameda,001,2021-06-25,86272,1217,
 Berkeley,Alameda,001,2021-06-25,3664,50,
 Alpine,Alpine,003,2021-06-25,89,0,TRUE
 Amador,Amador,005,2021-06-25,3714,47,
-Butte,Butte,007,2021-06-25,12231,194,TRUE
+Butte,Butte,007,2021-06-25,12682,194,TRUE
 Calaveras,Calaveras,009,2021-06-25,2210,56,
 Colusa,Colusa,011,2021-06-25,2288,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-25,70945,814,
@@ -3114,7 +3114,7 @@ Alameda,Alameda,001,2021-06-24,86226,1217,
 Berkeley,Alameda,001,2021-06-24,3664,50,
 Alpine,Alpine,003,2021-06-24,89,0,TRUE
 Amador,Amador,005,2021-06-24,3710,47,TRUE
-Butte,Butte,007,2021-06-24,12231,194,TRUE
+Butte,Butte,007,2021-06-24,12673,194,TRUE
 Calaveras,Calaveras,009,2021-06-24,2210,56,
 Colusa,Colusa,011,2021-06-24,2288,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-24,70882,812,
@@ -3175,7 +3175,7 @@ Alameda,Alameda,001,2021-06-23,86153,1217,
 Berkeley,Alameda,001,2021-06-23,3664,50,
 Alpine,Alpine,003,2021-06-23,89,0,TRUE
 Amador,Amador,005,2021-06-23,3710,47,
-Butte,Butte,007,2021-06-23,12231,194,TRUE
+Butte,Butte,007,2021-06-23,12666,194,TRUE
 Calaveras,Calaveras,009,2021-06-23,2209,56,
 Colusa,Colusa,011,2021-06-23,2288,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-23,70818,812,
@@ -3236,7 +3236,7 @@ Alameda,Alameda,001,2021-06-22,86093,1217,
 Berkeley,Alameda,001,2021-06-22,3663,50,
 Alpine,Alpine,003,2021-06-22,89,0,TRUE
 Amador,Amador,005,2021-06-22,3710,47,
-Butte,Butte,007,2021-06-22,12231,194,
+Butte,Butte,007,2021-06-22,12662,194,
 Calaveras,Calaveras,009,2021-06-22,2208,56,
 Colusa,Colusa,011,2021-06-22,2288,18,
 Contra Costa,Contra Costa,013,2021-06-22,70770,811,
@@ -3297,7 +3297,7 @@ Alameda,Alameda,001,2021-06-21,85991,1217,
 Berkeley,Alameda,001,2021-06-21,3658,50,
 Alpine,Alpine,003,2021-06-21,89,0,TRUE
 Amador,Amador,005,2021-06-21,3703,47,TRUE
-Butte,Butte,007,2021-06-21,12183,192,TRUE
+Butte,Butte,007,2021-06-21,12668,192,TRUE
 Calaveras,Calaveras,009,2021-06-21,2207,56,
 Colusa,Colusa,011,2021-06-21,2288,18,
 Contra Costa,Contra Costa,013,2021-06-21,70730,811,
@@ -3358,7 +3358,7 @@ Alameda,Alameda,001,2021-06-20,85946,1217,TRUE
 Berkeley,Alameda,001,2021-06-20,3646,46,TRUE
 Alpine,Alpine,003,2021-06-20,89,0,TRUE
 Amador,Amador,005,2021-06-20,3703,47,
-Butte,Butte,007,2021-06-20,12183,192,TRUE
+Butte,Butte,007,2021-06-20,12668,192,TRUE
 Calaveras,Calaveras,009,2021-06-20,2201,56,TRUE
 Colusa,Colusa,011,2021-06-20,2284,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-20,70691,811,
@@ -3419,7 +3419,7 @@ Alameda,Alameda,001,2021-06-19,85946,1217,TRUE
 Berkeley,Alameda,001,2021-06-19,3646,46,TRUE
 Alpine,Alpine,003,2021-06-19,89,0,TRUE
 Amador,Amador,005,2021-06-19,3685,47,
-Butte,Butte,007,2021-06-19,12183,192,TRUE
+Butte,Butte,007,2021-06-19,12659,192,TRUE
 Calaveras,Calaveras,009,2021-06-19,2201,56,TRUE
 Colusa,Colusa,011,2021-06-19,2284,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-19,70624,811,
@@ -3480,7 +3480,7 @@ Alameda,Alameda,001,2021-06-18,85946,1217,
 Berkeley,Alameda,001,2021-06-18,3646,46,
 Alpine,Alpine,003,2021-06-18,89,0,TRUE
 Amador,Amador,005,2021-06-18,3685,47,TRUE
-Butte,Butte,007,2021-06-18,12183,192,TRUE
+Butte,Butte,007,2021-06-18,12653,192,TRUE
 Calaveras,Calaveras,009,2021-06-18,2201,56,TRUE
 Colusa,Colusa,011,2021-06-18,2284,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-18,70561,811,
@@ -3541,7 +3541,7 @@ Alameda,Alameda,001,2021-06-17,85920,1217,
 Berkeley,Alameda,001,2021-06-17,3642,46,
 Alpine,Alpine,003,2021-06-17,89,0,TRUE
 Amador,Amador,005,2021-06-17,3685,47,TRUE
-Butte,Butte,007,2021-06-17,12183,192,TRUE
+Butte,Butte,007,2021-06-17,12644,192,TRUE
 Calaveras,Calaveras,009,2021-06-17,2201,56,
 Colusa,Colusa,011,2021-06-17,2284,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-17,70478,808,
@@ -3602,7 +3602,7 @@ Alameda,Alameda,001,2021-06-16,85899,1217,
 Berkeley,Alameda,001,2021-06-16,3636,46,
 Alpine,Alpine,003,2021-06-16,89,0,TRUE
 Amador,Amador,005,2021-06-16,3685,47,TRUE
-Butte,Butte,007,2021-06-16,12183,192,TRUE
+Butte,Butte,007,2021-06-16,12635,192,TRUE
 Calaveras,Calaveras,009,2021-06-16,2201,56,
 Colusa,Colusa,011,2021-06-16,2284,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-16,70428,808,
@@ -3663,7 +3663,7 @@ Alameda,Alameda,001,2021-06-15,85865,1217,
 Berkeley,Alameda,001,2021-06-15,3634,46,
 Alpine,Alpine,003,2021-06-15,89,0,TRUE
 Amador,Amador,005,2021-06-15,3685,47,TRUE
-Butte,Butte,007,2021-06-15,12183,192,
+Butte,Butte,007,2021-06-15,12620,192,
 Calaveras,Calaveras,009,2021-06-15,2201,56,
 Colusa,Colusa,011,2021-06-15,2284,18,
 Contra Costa,Contra Costa,013,2021-06-15,70389,808,
@@ -3724,7 +3724,7 @@ Alameda,Alameda,001,2021-06-14,85814,1217,
 Berkeley,Alameda,001,2021-06-14,3634,46,
 Alpine,Alpine,003,2021-06-14,89,0,TRUE
 Amador,Amador,005,2021-06-14,3685,47,TRUE
-Butte,Butte,007,2021-06-14,12178,192,
+Butte,Butte,007,2021-06-14,12613,192,
 Calaveras,Calaveras,009,2021-06-14,2201,56,
 Colusa,Colusa,011,2021-06-14,2279,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-14,70358,808,
@@ -3785,7 +3785,7 @@ Alameda,Alameda,001,2021-06-13,85754,1217,
 Berkeley,Alameda,001,2021-06-13,3633,46,
 Alpine,Alpine,003,2021-06-13,89,0,TRUE
 Amador,Amador,005,2021-06-13,3685,47,
-Butte,Butte,007,2021-06-13,12152,192,TRUE
+Butte,Butte,007,2021-06-13,12586,192,TRUE
 Calaveras,Calaveras,009,2021-06-13,2200,56,TRUE
 Colusa,Colusa,011,2021-06-13,2279,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-13,70328,808,
@@ -3846,7 +3846,7 @@ Alameda,Alameda,001,2021-06-12,85707,1217,TRUE
 Berkeley,Alameda,001,2021-06-12,3632,46,
 Alpine,Alpine,003,2021-06-12,89,0,TRUE
 Amador,Amador,005,2021-06-12,3677,47,TRUE
-Butte,Butte,007,2021-06-12,12152,192,
+Butte,Butte,007,2021-06-12,12576,192,
 Calaveras,Calaveras,009,2021-06-12,2200,56,TRUE
 Colusa,Colusa,011,2021-06-12,2279,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-12,70276,808,
@@ -3907,7 +3907,7 @@ Alameda,Alameda,001,2021-06-11,85707,1217,
 Berkeley,Alameda,001,2021-06-11,3631,46,TRUE
 Alpine,Alpine,003,2021-06-11,89,0,TRUE
 Amador,Amador,005,2021-06-11,3677,47,TRUE
-Butte,Butte,007,2021-06-11,12151,192,
+Butte,Butte,007,2021-06-11,12576,192,
 Calaveras,Calaveras,009,2021-06-11,2200,56,
 Colusa,Colusa,011,2021-06-11,2279,18,
 Contra Costa,Contra Costa,013,2021-06-11,70228,806,
@@ -3968,7 +3968,7 @@ Alameda,Alameda,001,2021-06-10,85673,1217,
 Berkeley,Alameda,001,2021-06-10,3631,46,
 Alpine,Alpine,003,2021-06-10,89,0,
 Amador,Amador,005,2021-06-10,3677,47,
-Butte,Butte,007,2021-06-10,12143,190,
+Butte,Butte,007,2021-06-10,12565,190,
 Calaveras,Calaveras,009,2021-06-10,2199,56,
 Colusa,Colusa,011,2021-06-10,2277,18,
 Contra Costa,Contra Costa,013,2021-06-10,70168,805,
@@ -4029,7 +4029,7 @@ Alameda,Alameda,001,2021-06-09,85575,1217,TRUE
 Berkeley,Alameda,001,2021-06-09,3628,46,
 Alpine,Alpine,003,2021-06-09,89,0,TRUE
 Amador,Amador,005,2021-06-09,3669,47,
-Butte,Butte,007,2021-06-09,12131,190,
+Butte,Butte,007,2021-06-09,12555,190,
 Calaveras,Calaveras,009,2021-06-09,2198,56,
 Colusa,Colusa,011,2021-06-09,2276,18,
 Contra Costa,Contra Costa,013,2021-06-09,70116,804,
@@ -4090,7 +4090,7 @@ Alameda,Alameda,001,2021-06-08,85575,1217,
 Berkeley,Alameda,001,2021-06-08,3626,46,
 Alpine,Alpine,003,2021-06-08,89,0,TRUE
 Amador,Amador,005,2021-06-08,3666,47,TRUE
-Butte,Butte,007,2021-06-08,12118,190,
+Butte,Butte,007,2021-06-08,12540,190,
 Calaveras,Calaveras,009,2021-06-08,2195,56,
 Colusa,Colusa,011,2021-06-08,2276,18,
 Contra Costa,Contra Costa,013,2021-06-08,70048,804,
@@ -4151,7 +4151,7 @@ Alameda,Alameda,001,2021-06-07,85522,1217,
 Berkeley,Alameda,001,2021-06-07,3625,46,
 Alpine,Alpine,003,2021-06-07,89,0,TRUE
 Amador,Amador,005,2021-06-07,3666,47,TRUE
-Butte,Butte,007,2021-06-07,12110,190,
+Butte,Butte,007,2021-06-07,12533,190,
 Calaveras,Calaveras,009,2021-06-07,2195,56,
 Colusa,Colusa,011,2021-06-07,2274,18,
 Contra Costa,Contra Costa,013,2021-06-07,70003,804,
@@ -4212,7 +4212,7 @@ Alameda,Alameda,001,2021-06-06,85518,1217,
 Berkeley,Alameda,001,2021-06-06,3623,46,
 Alpine,Alpine,003,2021-06-06,89,0,TRUE
 Amador,Amador,005,2021-06-06,3666,47,
-Butte,Butte,007,2021-06-06,12076,190,TRUE
+Butte,Butte,007,2021-06-06,12527,190,TRUE
 Calaveras,Calaveras,009,2021-06-06,2193,56,TRUE
 Colusa,Colusa,011,2021-06-06,2272,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-06,69945,804,
@@ -4273,7 +4273,7 @@ Alameda,Alameda,001,2021-06-05,85506,1217,
 Berkeley,Alameda,001,2021-06-05,3623,46,
 Alpine,Alpine,003,2021-06-05,89,0,TRUE
 Amador,Amador,005,2021-06-05,3659,47,TRUE
-Butte,Butte,007,2021-06-05,12076,190,TRUE
+Butte,Butte,007,2021-06-05,12514,190,TRUE
 Calaveras,Calaveras,009,2021-06-05,2193,56,TRUE
 Colusa,Colusa,011,2021-06-05,2272,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-05,69886,804,
@@ -4334,7 +4334,7 @@ Alameda,Alameda,001,2021-06-04,85469,1217,
 Berkeley,Alameda,001,2021-06-04,3622,46,
 Alpine,Alpine,003,2021-06-04,89,0,TRUE
 Amador,Amador,005,2021-06-04,3659,47,
-Butte,Butte,007,2021-06-04,12076,190,
+Butte,Butte,007,2021-06-04,12494,190,
 Calaveras,Calaveras,009,2021-06-04,2193,56,
 Colusa,Colusa,011,2021-06-04,2272,18,
 Contra Costa,Contra Costa,013,2021-06-04,69827,802,
@@ -4395,7 +4395,7 @@ Alameda,Alameda,001,2021-06-03,85402,1217,
 Berkeley,Alameda,001,2021-06-03,3623,46,
 Alpine,Alpine,003,2021-06-03,89,0,
 Amador,Amador,005,2021-06-03,3653,47,
-Butte,Butte,007,2021-06-03,12061,190,
+Butte,Butte,007,2021-06-03,12478,190,
 Calaveras,Calaveras,009,2021-06-03,2192,56,
 Colusa,Colusa,011,2021-06-03,2272,18,
 Contra Costa,Contra Costa,013,2021-06-03,69791,802,
@@ -4456,7 +4456,7 @@ Alameda,Alameda,001,2021-06-02,85350,1217,
 Berkeley,Alameda,001,2021-06-02,3620,46,
 Alpine,Alpine,003,2021-06-02,89,0,
 Amador,Amador,005,2021-06-02,3652,47,TRUE
-Butte,Butte,007,2021-06-02,12056,190,
+Butte,Butte,007,2021-06-02,12432,190,
 Calaveras,Calaveras,009,2021-06-02,2186,56,
 Colusa,Colusa,011,2021-06-02,2265,18,TRUE
 Contra Costa,Contra Costa,013,2021-06-02,69745,800,
@@ -4517,7 +4517,7 @@ Alameda,Alameda,001,2021-06-01,85335,1217,
 Berkeley,Alameda,001,2021-06-01,3620,46,
 Alpine,Alpine,003,2021-06-01,89,0,TRUE
 Amador,Amador,005,2021-06-01,3652,47,
-Butte,Butte,007,2021-06-01,12050,190,
+Butte,Butte,007,2021-06-01,12427,190,
 Calaveras,Calaveras,009,2021-06-01,2184,56,
 Colusa,Colusa,011,2021-06-01,2265,18,
 Contra Costa,Contra Costa,013,2021-06-01,69693,799,
@@ -4578,7 +4578,7 @@ Alameda,Alameda,001,2021-05-31,85309,1217,
 Berkeley,Alameda,001,2021-05-31,3620,46,
 Alpine,Alpine,003,2021-05-31,89,0,TRUE
 Amador,Amador,005,2021-05-31,3649,47,TRUE
-Butte,Butte,007,2021-05-31,12017,189,TRUE
+Butte,Butte,007,2021-05-31,12429,189,TRUE
 Calaveras,Calaveras,009,2021-05-31,2174,56,TRUE
 Colusa,Colusa,011,2021-05-31,2265,18,TRUE
 Contra Costa,Contra Costa,013,2021-05-31,69676,799,
@@ -4639,7 +4639,7 @@ Alameda,Alameda,001,2021-05-30,85300,1217,
 Berkeley,Alameda,001,2021-05-30,3620,46,
 Alpine,Alpine,003,2021-05-30,89,0,TRUE
 Amador,Amador,005,2021-05-30,3649,47,
-Butte,Butte,007,2021-05-30,12017,189,
+Butte,Butte,007,2021-05-30,12427,189,
 Calaveras,Calaveras,009,2021-05-30,2174,56,
 Colusa,Colusa,011,2021-05-30,2265,18,
 Contra Costa,Contra Costa,013,2021-05-30,69663,799,
@@ -4700,7 +4700,7 @@ Alameda,Alameda,001,2021-05-29,85272,1217,TRUE
 Berkeley,Alameda,001,2021-05-29,3620,46,TRUE
 Alpine,Alpine,003,2021-05-29,89,0,TRUE
 Amador,Amador,005,2021-05-29,3649,47,
-Butte,Butte,007,2021-05-29,12017,189,TRUE
+Butte,Butte,007,2021-05-29,12425,189,TRUE
 Calaveras,Calaveras,009,2021-05-29,2174,56,TRUE
 Colusa,Colusa,011,2021-05-29,2265,18,TRUE
 Contra Costa,Contra Costa,013,2021-05-29,69635,799,
@@ -4761,7 +4761,7 @@ Alameda,Alameda,001,2021-05-28,85217,1217,
 Berkeley,Alameda,001,2021-05-28,3620,46,
 Alpine,Alpine,003,2021-05-28,89,0,TRUE
 Amador,Amador,005,2021-05-28,3648,47,
-Butte,Butte,007,2021-05-28,12017,189,
+Butte,Butte,007,2021-05-28,12407,189,
 Calaveras,Calaveras,009,2021-05-28,2174,56,
 Colusa,Colusa,011,2021-05-28,2265,18,
 Contra Costa,Contra Costa,013,2021-05-28,69574,799,
@@ -4822,7 +4822,7 @@ Alameda,Alameda,001,2021-05-27,85155,1217,
 Berkeley,Alameda,001,2021-05-27,3618,46,
 Alpine,Alpine,003,2021-05-27,89,0,
 Amador,Amador,005,2021-05-27,3643,47,
-Butte,Butte,007,2021-05-27,12008,189,
+Butte,Butte,007,2021-05-27,12401,189,
 Calaveras,Calaveras,009,2021-05-27,2168,56,
 Colusa,Colusa,011,2021-05-27,2261,18,
 Contra Costa,Contra Costa,013,2021-05-27,69532,799,
@@ -4883,7 +4883,7 @@ Alameda,Alameda,001,2021-05-26,85089,1217,
 Berkeley,Alameda,001,2021-05-26,3618,46,
 Alpine,Alpine,003,2021-05-26,89,0,
 Amador,Amador,005,2021-05-26,3643,47,TRUE
-Butte,Butte,007,2021-05-26,11993,189,
+Butte,Butte,007,2021-05-26,12332,189,
 Calaveras,Calaveras,009,2021-05-26,2166,56,
 Colusa,Colusa,011,2021-05-26,2261,18,
 Contra Costa,Contra Costa,013,2021-05-26,69496,798,
@@ -4944,7 +4944,7 @@ Alameda,Alameda,001,2021-05-25,85047,1217,
 Berkeley,Alameda,001,2021-05-25,3618,46,
 Alpine,Alpine,003,2021-05-25,89,0,TRUE
 Amador,Amador,005,2021-05-25,3643,47,
-Butte,Butte,007,2021-05-25,11977,188,
+Butte,Butte,007,2021-05-25,12295,188,
 Calaveras,Calaveras,009,2021-05-25,2161,56,
 Colusa,Colusa,011,2021-05-25,2259,18,
 Contra Costa,Contra Costa,013,2021-05-25,69454,796,
@@ -5005,7 +5005,7 @@ Alameda,Alameda,001,2021-05-24,85002,1217,
 Berkeley,Alameda,001,2021-05-24,3618,46,
 Alpine,Alpine,003,2021-05-24,89,0,
 Amador,Amador,005,2021-05-24,3637,47,TRUE
-Butte,Butte,007,2021-05-24,11968,187,
+Butte,Butte,007,2021-05-24,12279,187,
 Calaveras,Calaveras,009,2021-05-24,2159,56,
 Colusa,Colusa,011,2021-05-24,2254,18,
 Contra Costa,Contra Costa,013,2021-05-24,69392,796,
@@ -5066,7 +5066,7 @@ Alameda,Alameda,001,2021-05-23,84927,1217,
 Berkeley,Alameda,001,2021-05-23,3618,46,
 Alpine,Alpine,003,2021-05-23,88,0,TRUE
 Amador,Amador,005,2021-05-23,3636,47,TRUE
-Butte,Butte,007,2021-05-23,11935,187,TRUE
+Butte,Butte,007,2021-05-23,12271,187,TRUE
 Calaveras,Calaveras,009,2021-05-23,2151,55,TRUE
 Colusa,Colusa,011,2021-05-23,2252,18,TRUE
 Contra Costa,Contra Costa,013,2021-05-23,69357,796,
@@ -5127,7 +5127,7 @@ Alameda,Alameda,001,2021-05-22,84884,1217,TRUE
 Berkeley,Alameda,001,2021-05-22,3618,46,TRUE
 Alpine,Alpine,003,2021-05-22,88,0,TRUE
 Amador,Amador,005,2021-05-22,3636,47,TRUE
-Butte,Butte,007,2021-05-22,11935,187,TRUE
+Butte,Butte,007,2021-05-22,12265,187,TRUE
 Calaveras,Calaveras,009,2021-05-22,2151,55,TRUE
 Colusa,Colusa,011,2021-05-22,2252,18,TRUE
 Contra Costa,Contra Costa,013,2021-05-22,69288,796,
@@ -5188,7 +5188,7 @@ Alameda,Alameda,001,2021-05-21,84869,1217,
 Berkeley,Alameda,001,2021-05-21,3614,46,
 Alpine,Alpine,003,2021-05-21,88,0,TRUE
 Amador,Amador,005,2021-05-21,3636,47,
-Butte,Butte,007,2021-05-21,11935,187,
+Butte,Butte,007,2021-05-21,12236,187,
 Calaveras,Calaveras,009,2021-05-21,2151,55,
 Colusa,Colusa,011,2021-05-21,2252,18,
 Contra Costa,Contra Costa,013,2021-05-21,69245,796,
@@ -5249,7 +5249,7 @@ Alameda,Alameda,001,2021-05-20,84797,1217,
 Berkeley,Alameda,001,2021-05-20,3611,46,
 Alpine,Alpine,003,2021-05-20,88,0,TRUE
 Amador,Amador,005,2021-05-20,3633,47,TRUE
-Butte,Butte,007,2021-05-20,11922,187,TRUE
+Butte,Butte,007,2021-05-20,12220,187,TRUE
 Calaveras,Calaveras,009,2021-05-20,2150,55,
 Colusa,Colusa,011,2021-05-20,2248,18,
 Contra Costa,Contra Costa,013,2021-05-20,69197,796,
@@ -5310,7 +5310,7 @@ Alameda,Alameda,001,2021-05-19,84750,1217,
 Berkeley,Alameda,001,2021-05-19,3609,46,
 Alpine,Alpine,003,2021-05-19,88,0,TRUE
 Amador,Amador,005,2021-05-19,3633,47,TRUE
-Butte,Butte,007,2021-05-19,11922,187,
+Butte,Butte,007,2021-05-19,12198,187,
 Calaveras,Calaveras,009,2021-05-19,2148,55,
 Colusa,Colusa,011,2021-05-19,2246,18,
 Contra Costa,Contra Costa,013,2021-05-19,69120,796,
@@ -5371,7 +5371,7 @@ Alameda,Alameda,001,2021-05-18,84696,1217,
 Berkeley,Alameda,001,2021-05-18,3608,46,
 Alpine,Alpine,003,2021-05-18,88,0,
 Amador,Amador,005,2021-05-18,3633,47,
-Butte,Butte,007,2021-05-18,11916,185,
+Butte,Butte,007,2021-05-18,12164,185,
 Calaveras,Calaveras,009,2021-05-18,2145,55,
 Colusa,Colusa,011,2021-05-18,2241,17,
 Contra Costa,Contra Costa,013,2021-05-18,69035,795,
@@ -5432,7 +5432,7 @@ Alameda,Alameda,001,2021-05-17,84649,1217,
 Berkeley,Alameda,001,2021-05-17,3606,46,
 Alpine,Alpine,003,2021-05-17,88,0,TRUE
 Amador,Amador,005,2021-05-17,3631,47,TRUE
-Butte,Butte,007,2021-05-17,11898,183,
+Butte,Butte,007,2021-05-17,12144,183,
 Calaveras,Calaveras,009,2021-05-17,2143,55,
 Colusa,Colusa,011,2021-05-17,2239,16,
 Contra Costa,Contra Costa,013,2021-05-17,69002,793,
@@ -5493,7 +5493,7 @@ Alameda,Alameda,001,2021-05-16,84625,1217,
 Berkeley,Alameda,001,2021-05-16,3605,46,
 Alpine,Alpine,003,2021-05-16,88,0,TRUE
 Amador,Amador,005,2021-05-16,3631,47,TRUE
-Butte,Butte,007,2021-05-16,11863,183,TRUE
+Butte,Butte,007,2021-05-16,12140,183,TRUE
 Calaveras,Calaveras,009,2021-05-16,2136,54,TRUE
 Colusa,Colusa,011,2021-05-16,2236,16,TRUE
 Contra Costa,Contra Costa,013,2021-05-16,68976,793,
@@ -5554,7 +5554,7 @@ Alameda,Alameda,001,2021-05-15,84584,1217,TRUE
 Berkeley,Alameda,001,2021-05-15,3603,46,TRUE
 Alpine,Alpine,003,2021-05-15,88,0,TRUE
 Amador,Amador,005,2021-05-15,3631,47,TRUE
-Butte,Butte,007,2021-05-15,11863,183,TRUE
+Butte,Butte,007,2021-05-15,12095,183,TRUE
 Calaveras,Calaveras,009,2021-05-15,2136,54,TRUE
 Colusa,Colusa,011,2021-05-15,2236,16,TRUE
 Contra Costa,Contra Costa,013,2021-05-15,68942,793,
@@ -5615,7 +5615,7 @@ Alameda,Alameda,001,2021-05-14,84526,1217,
 Berkeley,Alameda,001,2021-05-14,3603,46,
 Alpine,Alpine,003,2021-05-14,88,0,TRUE
 Amador,Amador,005,2021-05-14,3631,47,
-Butte,Butte,007,2021-05-14,11863,183,
+Butte,Butte,007,2021-05-14,12076,183,
 Calaveras,Calaveras,009,2021-05-14,2136,54,
 Colusa,Colusa,011,2021-05-14,2236,16,
 Contra Costa,Contra Costa,013,2021-05-14,68871,793,
@@ -5676,7 +5676,7 @@ Alameda,Alameda,001,2021-05-13,84458,1217,
 Berkeley,Alameda,001,2021-05-13,3603,46,
 Alpine,Alpine,003,2021-05-13,88,0,
 Amador,Amador,005,2021-05-13,3623,47,TRUE
-Butte,Butte,007,2021-05-13,11843,182,
+Butte,Butte,007,2021-05-13,12051,182,
 Calaveras,Calaveras,009,2021-05-13,2130,54,
 Colusa,Colusa,011,2021-05-13,2234,16,
 Contra Costa,Contra Costa,013,2021-05-13,68803,793,
@@ -5737,7 +5737,7 @@ Alameda,Alameda,001,2021-05-12,84395,1217,
 Berkeley,Alameda,001,2021-05-12,3603,46,
 Alpine,Alpine,003,2021-05-12,88,0,TRUE
 Amador,Amador,005,2021-05-12,3623,47,TRUE
-Butte,Butte,007,2021-05-12,11817,182,
+Butte,Butte,007,2021-05-12,12026,182,
 Calaveras,Calaveras,009,2021-05-12,2129,54,
 Colusa,Colusa,011,2021-05-12,2234,16,
 Contra Costa,Contra Costa,013,2021-05-12,68741,793,
@@ -5798,7 +5798,7 @@ Alameda,Alameda,001,2021-05-11,84335,1217,
 Berkeley,Alameda,001,2021-05-11,3600,46,
 Alpine,Alpine,003,2021-05-11,88,0,TRUE
 Amador,Amador,005,2021-05-11,3623,47,
-Butte,Butte,007,2021-05-11,11796,182,
+Butte,Butte,007,2021-05-11,12008,182,
 Calaveras,Calaveras,009,2021-05-11,2129,54,
 Colusa,Colusa,011,2021-05-11,2233,16,
 Contra Costa,Contra Costa,013,2021-05-11,68689,792,
@@ -5859,7 +5859,7 @@ Alameda,Alameda,001,2021-05-10,84277,1217,
 Berkeley,Alameda,001,2021-05-10,3599,46,
 Alpine,Alpine,003,2021-05-10,88,0,TRUE
 Amador,Amador,005,2021-05-10,3617,47,TRUE
-Butte,Butte,007,2021-05-10,11782,182,
+Butte,Butte,007,2021-05-10,11993,182,
 Calaveras,Calaveras,009,2021-05-10,2125,53,
 Colusa,Colusa,011,2021-05-10,2232,16,
 Contra Costa,Contra Costa,013,2021-05-10,68638,792,
@@ -5920,7 +5920,7 @@ Alameda,Alameda,001,2021-05-09,84204,1217,
 Berkeley,Alameda,001,2021-05-09,3597,46,
 Alpine,Alpine,003,2021-05-09,88,0,TRUE
 Amador,Amador,005,2021-05-09,3617,47,TRUE
-Butte,Butte,007,2021-05-09,11735,182,TRUE
+Butte,Butte,007,2021-05-09,11985,182,TRUE
 Calaveras,Calaveras,009,2021-05-09,2121,53,TRUE
 Colusa,Colusa,011,2021-05-09,2230,16,TRUE
 Contra Costa,Contra Costa,013,2021-05-09,68582,792,
@@ -5981,7 +5981,7 @@ Alameda,Alameda,001,2021-05-08,84124,1217,
 Berkeley,Alameda,001,2021-05-08,3593,46,
 Alpine,Alpine,003,2021-05-08,88,0,TRUE
 Amador,Amador,005,2021-05-08,3617,47,TRUE
-Butte,Butte,007,2021-05-08,11735,182,TRUE
+Butte,Butte,007,2021-05-08,11962,182,TRUE
 Calaveras,Calaveras,009,2021-05-08,2121,53,TRUE
 Colusa,Colusa,011,2021-05-08,2230,16,TRUE
 Contra Costa,Contra Costa,013,2021-05-08,68503,789,
@@ -6042,7 +6042,7 @@ Alameda,Alameda,001,2021-05-07,84042,1217,
 Berkeley,Alameda,001,2021-05-07,3588,46,
 Alpine,Alpine,003,2021-05-07,88,0,
 Amador,Amador,005,2021-05-07,3617,47,
-Butte,Butte,007,2021-05-07,11735,182,
+Butte,Butte,007,2021-05-07,11943,182,
 Calaveras,Calaveras,009,2021-05-07,2121,53,
 Colusa,Colusa,011,2021-05-07,2230,16,
 Contra Costa,Contra Costa,013,2021-05-07,68437,789,
@@ -6103,7 +6103,7 @@ Alameda,Alameda,001,2021-05-06,83951,1217,
 Berkeley,Alameda,001,2021-05-06,3583,46,
 Alpine,Alpine,003,2021-05-06,88,0,TRUE
 Amador,Amador,005,2021-05-06,3617,47,TRUE
-Butte,Butte,007,2021-05-06,11700,182,TRUE
+Butte,Butte,007,2021-05-06,11929,182,TRUE
 Calaveras,Calaveras,009,2021-05-06,2116,53,
 Colusa,Colusa,011,2021-05-06,2226,16,
 Contra Costa,Contra Costa,013,2021-05-06,68359,787,
@@ -6164,7 +6164,7 @@ Alameda,Alameda,001,2021-05-05,83855,1217,
 Berkeley,Alameda,001,2021-05-05,3577,46,
 Alpine,Alpine,003,2021-05-05,88,0,TRUE
 Amador,Amador,005,2021-05-05,3617,47,TRUE
-Butte,Butte,007,2021-05-05,11700,182,
+Butte,Butte,007,2021-05-05,11907,182,
 Calaveras,Calaveras,009,2021-05-05,2111,53,
 Colusa,Colusa,011,2021-05-05,2224,16,
 Contra Costa,Contra Costa,013,2021-05-05,68279,787,
@@ -6225,7 +6225,7 @@ Alameda,Alameda,001,2021-05-04,83801,1217,
 Berkeley,Alameda,001,2021-05-04,3577,46,
 Alpine,Alpine,003,2021-05-04,88,0,TRUE
 Amador,Amador,005,2021-05-04,3617,47,
-Butte,Butte,007,2021-05-04,11680,182,
+Butte,Butte,007,2021-05-04,11883,182,
 Calaveras,Calaveras,009,2021-05-04,2108,53,
 Colusa,Colusa,011,2021-05-04,2221,16,
 Contra Costa,Contra Costa,013,2021-05-04,68212,783,
@@ -6286,7 +6286,7 @@ Alameda,Alameda,001,2021-05-03,83775,1217,
 Berkeley,Alameda,001,2021-05-03,3576,46,
 Alpine,Alpine,003,2021-05-03,88,0,TRUE
 Amador,Amador,005,2021-05-03,3616,47,
-Butte,Butte,007,2021-05-03,11660,182,
+Butte,Butte,007,2021-05-03,11864,182,
 Calaveras,Calaveras,009,2021-05-03,2099,52,
 Colusa,Colusa,011,2021-05-03,2221,16,
 Contra Costa,Contra Costa,013,2021-05-03,68167,783,
@@ -6347,7 +6347,7 @@ Alameda,Alameda,001,2021-05-02,83712,1217,
 Berkeley,Alameda,001,2021-05-02,3573,46,
 Alpine,Alpine,003,2021-05-02,88,0,TRUE
 Amador,Amador,005,2021-05-02,3615,47,
-Butte,Butte,007,2021-05-02,11613,182,
+Butte,Butte,007,2021-05-02,11859,182,
 Calaveras,Calaveras,009,2021-05-02,2095,52,
 Colusa,Colusa,011,2021-05-02,2221,16,TRUE
 Contra Costa,Contra Costa,013,2021-05-02,68115,783,
@@ -6408,7 +6408,7 @@ Alameda,Alameda,001,2021-05-01,83636,1217,
 Berkeley,Alameda,001,2021-05-01,3569,46,
 Alpine,Alpine,003,2021-05-01,88,0,TRUE
 Amador,Amador,005,2021-05-01,3615,47,TRUE
-Butte,Butte,007,2021-05-01,11613,182,TRUE
+Butte,Butte,007,2021-05-01,11845,182,TRUE
 Calaveras,Calaveras,009,2021-05-01,2095,52,TRUE
 Colusa,Colusa,011,2021-05-01,2221,16,TRUE
 Contra Costa,Contra Costa,013,2021-05-01,68051,783,
@@ -6469,7 +6469,7 @@ Alameda,Alameda,001,2021-04-30,83542,1217,
 Berkeley,Alameda,001,2021-04-30,3564,46,
 Alpine,Alpine,003,2021-04-30,88,0,
 Amador,Amador,005,2021-04-30,3615,47,
-Butte,Butte,007,2021-04-30,11613,182,
+Butte,Butte,007,2021-04-30,11812,182,
 Calaveras,Calaveras,009,2021-04-30,2095,52,
 Colusa,Colusa,011,2021-04-30,2221,16,
 Contra Costa,Contra Costa,013,2021-04-30,67957,783,
@@ -6530,7 +6530,7 @@ Alameda,Alameda,001,2021-04-29,83436,1217,
 Berkeley,Alameda,001,2021-04-29,3561,46,
 Alpine,Alpine,003,2021-04-29,88,0,TRUE
 Amador,Amador,005,2021-04-29,3615,47,
-Butte,Butte,007,2021-04-29,11585,181,
+Butte,Butte,007,2021-04-29,11787,181,
 Calaveras,Calaveras,009,2021-04-29,2090,52,
 Colusa,Colusa,011,2021-04-29,2218,16,
 Contra Costa,Contra Costa,013,2021-04-29,67880,781,
@@ -6591,7 +6591,7 @@ Alameda,Alameda,001,2021-04-28,83341,1217,
 Berkeley,Alameda,001,2021-04-28,3559,46,
 Alpine,Alpine,003,2021-04-28,88,0,
 Amador,Amador,005,2021-04-28,3614,47,
-Butte,Butte,007,2021-04-28,11563,181,
+Butte,Butte,007,2021-04-28,11762,181,
 Calaveras,Calaveras,009,2021-04-28,2086,52,
 Colusa,Colusa,011,2021-04-28,2216,16,
 Contra Costa,Contra Costa,013,2021-04-28,67816,780,
@@ -6652,7 +6652,7 @@ Alameda,Alameda,001,2021-04-27,83276,1217,
 Berkeley,Alameda,001,2021-04-27,3556,46,
 Alpine,Alpine,003,2021-04-27,88,0,TRUE
 Amador,Amador,005,2021-04-27,3611,47,
-Butte,Butte,007,2021-04-27,11540,181,
+Butte,Butte,007,2021-04-27,11738,181,
 Calaveras,Calaveras,009,2021-04-27,2083,52,
 Colusa,Colusa,011,2021-04-27,2216,16,
 Contra Costa,Contra Costa,013,2021-04-27,67746,777,
@@ -6713,7 +6713,7 @@ Alameda,Alameda,001,2021-04-26,83209,1217,
 Berkeley,Alameda,001,2021-04-26,3552,46,
 Alpine,Alpine,003,2021-04-26,88,0,TRUE
 Amador,Amador,005,2021-04-26,3610,47,
-Butte,Butte,007,2021-04-26,11525,181,
+Butte,Butte,007,2021-04-26,11720,181,
 Calaveras,Calaveras,009,2021-04-26,2075,52,
 Colusa,Colusa,011,2021-04-26,2213,16,
 Contra Costa,Contra Costa,013,2021-04-26,67670,775,
@@ -6774,7 +6774,7 @@ Alameda,Alameda,001,2021-04-25,83137,1217,
 Berkeley,Alameda,001,2021-04-25,3550,46,TRUE
 Alpine,Alpine,003,2021-04-25,88,0,TRUE
 Amador,Amador,005,2021-04-25,3609,47,
-Butte,Butte,007,2021-04-25,11478,181,
+Butte,Butte,007,2021-04-25,11709,181,
 Calaveras,Calaveras,009,2021-04-25,2070,52,
 Colusa,Colusa,011,2021-04-25,2210,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-25,67587,775,
@@ -6835,7 +6835,7 @@ Alameda,Alameda,001,2021-04-24,82987,1217,
 Berkeley,Alameda,001,2021-04-24,3549,46,
 Alpine,Alpine,003,2021-04-24,88,0,TRUE
 Amador,Amador,005,2021-04-24,3603,47,TRUE
-Butte,Butte,007,2021-04-24,11478,181,TRUE
+Butte,Butte,007,2021-04-24,11678,181,TRUE
 Calaveras,Calaveras,009,2021-04-24,2070,52,TRUE
 Colusa,Colusa,011,2021-04-24,2210,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-24,67492,775,
@@ -6896,7 +6896,7 @@ Alameda,Alameda,001,2021-04-23,82909,1217,
 Berkeley,Alameda,001,2021-04-23,3547,46,TRUE
 Alpine,Alpine,003,2021-04-23,88,0,TRUE
 Amador,Amador,005,2021-04-23,3602,47,
-Butte,Butte,007,2021-04-23,11478,181,
+Butte,Butte,007,2021-04-23,11672,181,
 Calaveras,Calaveras,009,2021-04-23,2070,52,
 Colusa,Colusa,011,2021-04-23,2210,16,
 Contra Costa,Contra Costa,013,2021-04-23,67435,771,
@@ -6957,7 +6957,7 @@ Alameda,Alameda,001,2021-04-22,82791,1217,
 Berkeley,Alameda,001,2021-04-22,3539,46,
 Alpine,Alpine,003,2021-04-22,88,0,
 Amador,Amador,005,2021-04-22,3600,47,
-Butte,Butte,007,2021-04-22,11462,181,
+Butte,Butte,007,2021-04-22,11656,181,
 Calaveras,Calaveras,009,2021-04-22,2066,52,
 Colusa,Colusa,011,2021-04-22,2208,16,
 Contra Costa,Contra Costa,013,2021-04-22,67300,768,
@@ -7018,7 +7018,7 @@ Alameda,Alameda,001,2021-04-21,82683,1216,
 Berkeley,Alameda,001,2021-04-21,3535,46,
 Alpine,Alpine,003,2021-04-21,88,0,
 Amador,Amador,005,2021-04-21,3598,46,
-Butte,Butte,007,2021-04-21,11448,181,
+Butte,Butte,007,2021-04-21,11643,181,
 Calaveras,Calaveras,009,2021-04-21,2064,52,
 Colusa,Colusa,011,2021-04-21,2208,16,
 Contra Costa,Contra Costa,013,2021-04-21,67223,768,
@@ -7079,7 +7079,7 @@ Alameda,Alameda,001,2021-04-20,82608,1214,
 Berkeley,Alameda,001,2021-04-20,3529,46,
 Alpine,Alpine,003,2021-04-20,88,0,TRUE
 Amador,Amador,005,2021-04-20,3597,46,
-Butte,Butte,007,2021-04-20,11424,181,
+Butte,Butte,007,2021-04-20,11619,181,
 Calaveras,Calaveras,009,2021-04-20,2062,52,
 Colusa,Colusa,011,2021-04-20,2204,16,
 Contra Costa,Contra Costa,013,2021-04-20,67157,768,
@@ -7140,7 +7140,7 @@ Alameda,Alameda,001,2021-04-19,82541,1213,
 Berkeley,Alameda,001,2021-04-19,3525,46,
 Alpine,Alpine,003,2021-04-19,88,0,TRUE
 Amador,Amador,005,2021-04-19,3595,46,
-Butte,Butte,007,2021-04-19,11406,181,
+Butte,Butte,007,2021-04-19,11601,181,
 Calaveras,Calaveras,009,2021-04-19,2060,51,
 Colusa,Colusa,011,2021-04-19,2199,16,
 Contra Costa,Contra Costa,013,2021-04-19,67101,768,
@@ -7201,7 +7201,7 @@ Alameda,Alameda,001,2021-04-18,82438,1210,
 Berkeley,Alameda,001,2021-04-18,3523,46,
 Alpine,Alpine,003,2021-04-18,88,0,TRUE
 Amador,Amador,005,2021-04-18,3593,46,
-Butte,Butte,007,2021-04-18,11357,181,TRUE
+Butte,Butte,007,2021-04-18,11591,181,TRUE
 Calaveras,Calaveras,009,2021-04-18,2055,51,TRUE
 Colusa,Colusa,011,2021-04-18,2198,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-18,67019,768,
@@ -7262,7 +7262,7 @@ Alameda,Alameda,001,2021-04-17,82326,1208,
 Berkeley,Alameda,001,2021-04-17,3522,46,
 Alpine,Alpine,003,2021-04-17,88,0,TRUE
 Amador,Amador,005,2021-04-17,3589,46,TRUE
-Butte,Butte,007,2021-04-17,11357,181,TRUE
+Butte,Butte,007,2021-04-17,11573,181,TRUE
 Calaveras,Calaveras,009,2021-04-17,2055,51,TRUE
 Colusa,Colusa,011,2021-04-17,2198,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-17,66927,768,
@@ -7323,7 +7323,7 @@ Alameda,Alameda,001,2021-04-16,82202,1208,
 Berkeley,Alameda,001,2021-04-16,3518,46,
 Alpine,Alpine,003,2021-04-16,88,0,
 Amador,Amador,005,2021-04-16,3589,46,
-Butte,Butte,007,2021-04-16,11357,181,
+Butte,Butte,007,2021-04-16,11549,181,
 Calaveras,Calaveras,009,2021-04-16,2055,51,
 Colusa,Colusa,011,2021-04-16,2192,16,
 Contra Costa,Contra Costa,013,2021-04-16,66839,768,
@@ -7384,7 +7384,7 @@ Alameda,Alameda,001,2021-04-15,82068,1208,
 Berkeley,Alameda,001,2021-04-15,3512,46,
 Alpine,Alpine,003,2021-04-15,88,0,
 Amador,Amador,005,2021-04-15,3586,46,
-Butte,Butte,007,2021-04-15,11320,181,
+Butte,Butte,007,2021-04-15,11529,181,
 Calaveras,Calaveras,009,2021-04-15,2050,51,
 Colusa,Colusa,011,2021-04-15,2192,16,
 Contra Costa,Contra Costa,013,2021-04-15,66750,767,
@@ -7445,7 +7445,7 @@ Alameda,Alameda,001,2021-04-14,81986,1208,
 Berkeley,Alameda,001,2021-04-14,3510,46,
 Alpine,Alpine,003,2021-04-14,88,0,
 Amador,Amador,005,2021-04-14,3581,46,
-Butte,Butte,007,2021-04-14,11320,181,
+Butte,Butte,007,2021-04-14,11513,181,
 Calaveras,Calaveras,009,2021-04-14,2048,51,
 Colusa,Colusa,011,2021-04-14,2189,16,
 Contra Costa,Contra Costa,013,2021-04-14,66666,767,
@@ -7506,7 +7506,7 @@ Alameda,Alameda,001,2021-04-13,81905,1208,
 Berkeley,Alameda,001,2021-04-13,3508,46,
 Alpine,Alpine,003,2021-04-13,88,0,TRUE
 Amador,Amador,005,2021-04-13,3576,46,
-Butte,Butte,007,2021-04-13,11304,181,
+Butte,Butte,007,2021-04-13,11497,181,
 Calaveras,Calaveras,009,2021-04-13,2045,51,
 Colusa,Colusa,011,2021-04-13,2188,16,
 Contra Costa,Contra Costa,013,2021-04-13,66567,764,
@@ -7567,7 +7567,7 @@ Alameda,Alameda,001,2021-04-12,81823,1208,
 Berkeley,Alameda,001,2021-04-12,3500,46,
 Alpine,Alpine,003,2021-04-12,88,0,TRUE
 Amador,Amador,005,2021-04-12,3576,46,
-Butte,Butte,007,2021-04-12,11295,181,
+Butte,Butte,007,2021-04-12,11488,181,
 Calaveras,Calaveras,009,2021-04-12,2041,51,
 Colusa,Colusa,011,2021-04-12,2184,16,
 Contra Costa,Contra Costa,013,2021-04-12,66442,764,
@@ -7628,7 +7628,7 @@ Alameda,Alameda,001,2021-04-11,81761,1207,
 Berkeley,Alameda,001,2021-04-11,3497,46,
 Alpine,Alpine,003,2021-04-11,88,0,TRUE
 Amador,Amador,005,2021-04-11,3573,46,
-Butte,Butte,007,2021-04-11,11274,178,TRUE
+Butte,Butte,007,2021-04-11,11487,178,TRUE
 Calaveras,Calaveras,009,2021-04-11,2036,51,TRUE
 Colusa,Colusa,011,2021-04-11,2178,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-11,66369,764,
@@ -7689,7 +7689,7 @@ Alameda,Alameda,001,2021-04-10,81634,1207,
 Berkeley,Alameda,001,2021-04-10,3493,46,
 Alpine,Alpine,003,2021-04-10,88,0,TRUE
 Amador,Amador,005,2021-04-10,3569,46,TRUE
-Butte,Butte,007,2021-04-10,11274,178,TRUE
+Butte,Butte,007,2021-04-10,11482,178,TRUE
 Calaveras,Calaveras,009,2021-04-10,2036,51,TRUE
 Colusa,Colusa,011,2021-04-10,2178,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-10,66262,764,
@@ -7750,7 +7750,7 @@ Alameda,Alameda,001,2021-04-09,81430,1206,TRUE
 Berkeley,Alameda,001,2021-04-09,3488,46,
 Alpine,Alpine,003,2021-04-09,88,0,TRUE
 Amador,Amador,005,2021-04-09,3569,46,
-Butte,Butte,007,2021-04-09,11274,178,TRUE
+Butte,Butte,007,2021-04-09,11454,178,TRUE
 Calaveras,Calaveras,009,2021-04-09,2036,51,
 Colusa,Colusa,011,2021-04-09,2178,16,
 Contra Costa,Contra Costa,013,2021-04-09,66118,764,
@@ -7811,7 +7811,7 @@ Alameda,Alameda,001,2021-04-08,81249,1206,
 Berkeley,Alameda,001,2021-04-08,3486,46,
 Alpine,Alpine,003,2021-04-08,88,0,
 Amador,Amador,005,2021-04-08,3563,46,
-Butte,Butte,007,2021-04-08,11210,178,
+Butte,Butte,007,2021-04-08,11414,178,
 Calaveras,Calaveras,009,2021-04-08,2033,51,
 Colusa,Colusa,011,2021-04-08,2175,16,
 Contra Costa,Contra Costa,013,2021-04-08,65967,762,
@@ -7872,7 +7872,7 @@ Alameda,Alameda,001,2021-04-07,81160,1206,
 Berkeley,Alameda,001,2021-04-07,3483,46,
 Alpine,Alpine,003,2021-04-07,88,0,TRUE
 Amador,Amador,005,2021-04-07,3559,46,
-Butte,Butte,007,2021-04-07,11198,178,
+Butte,Butte,007,2021-04-07,11405,178,
 Calaveras,Calaveras,009,2021-04-07,2032,51,
 Colusa,Colusa,011,2021-04-07,2173,16,
 Contra Costa,Contra Costa,013,2021-04-07,65882,762,
@@ -7933,7 +7933,7 @@ Alameda,Alameda,001,2021-04-06,81110,1206,
 Berkeley,Alameda,001,2021-04-06,3482,46,
 Alpine,Alpine,003,2021-04-06,88,0,TRUE
 Amador,Amador,005,2021-04-06,3554,45,
-Butte,Butte,007,2021-04-06,11187,178,
+Butte,Butte,007,2021-04-06,11396,178,
 Calaveras,Calaveras,009,2021-04-06,2029,51,
 Colusa,Colusa,011,2021-04-06,2171,16,
 Contra Costa,Contra Costa,013,2021-04-06,65835,760,
@@ -7994,7 +7994,7 @@ Alameda,Alameda,001,2021-04-05,81032,1204,
 Berkeley,Alameda,001,2021-04-05,3472,46,
 Alpine,Alpine,003,2021-04-05,88,0,
 Amador,Amador,005,2021-04-05,3552,45,
-Butte,Butte,007,2021-04-05,11176,178,
+Butte,Butte,007,2021-04-05,11384,178,
 Calaveras,Calaveras,009,2021-04-05,2023,51,
 Colusa,Colusa,011,2021-04-05,2170,16,
 Contra Costa,Contra Costa,013,2021-04-05,65718,760,
@@ -8055,7 +8055,7 @@ Alameda,Alameda,001,2021-04-04,80972,1204,
 Berkeley,Alameda,001,2021-04-04,3469,46,
 Alpine,Alpine,003,2021-04-04,88,0,TRUE
 Amador,Amador,005,2021-04-04,3547,45,
-Butte,Butte,007,2021-04-04,11138,178,TRUE
+Butte,Butte,007,2021-04-04,11375,178,TRUE
 Calaveras,Calaveras,009,2021-04-04,2018,51,TRUE
 Colusa,Colusa,011,2021-04-04,2165,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-04,65668,760,
@@ -8116,7 +8116,7 @@ Alameda,Alameda,001,2021-04-03,80885,1204,
 Berkeley,Alameda,001,2021-04-03,3466,46,
 Alpine,Alpine,003,2021-04-03,88,0,TRUE
 Amador,Amador,005,2021-04-03,3539,45,TRUE
-Butte,Butte,007,2021-04-03,11138,178,TRUE
+Butte,Butte,007,2021-04-03,11359,178,TRUE
 Calaveras,Calaveras,009,2021-04-03,2018,51,TRUE
 Colusa,Colusa,011,2021-04-03,2165,16,TRUE
 Contra Costa,Contra Costa,013,2021-04-03,65598,760,
@@ -8177,7 +8177,7 @@ Alameda,Alameda,001,2021-04-02,80800,1204,
 Berkeley,Alameda,001,2021-04-02,3462,46,
 Alpine,Alpine,003,2021-04-02,88,0,TRUE
 Amador,Amador,005,2021-04-02,3539,45,
-Butte,Butte,007,2021-04-02,11138,178,
+Butte,Butte,007,2021-04-02,11350,178,
 Calaveras,Calaveras,009,2021-04-02,2018,51,
 Colusa,Colusa,011,2021-04-02,2165,16,
 Contra Costa,Contra Costa,013,2021-04-02,65559,760,
@@ -8238,7 +8238,7 @@ Alameda,Alameda,001,2021-04-01,80612,1204,
 Berkeley,Alameda,001,2021-04-01,3454,46,
 Alpine,Alpine,003,2021-04-01,88,0,
 Amador,Amador,005,2021-04-01,3522,45,
-Butte,Butte,007,2021-04-01,11115,178,
+Butte,Butte,007,2021-04-01,11328,178,
 Calaveras,Calaveras,009,2021-04-01,2013,51,
 Colusa,Colusa,011,2021-04-01,2165,16,
 Contra Costa,Contra Costa,013,2021-04-01,65435,757,
@@ -8299,7 +8299,7 @@ Alameda,Alameda,001,2021-03-31,80512,1204,
 Berkeley,Alameda,001,2021-03-31,3445,46,
 Alpine,Alpine,003,2021-03-31,88,0,
 Amador,Amador,005,2021-03-31,3522,45,
-Butte,Butte,007,2021-03-31,11086,178,TRUE
+Butte,Butte,007,2021-03-31,11321,178,TRUE
 Calaveras,Calaveras,009,2021-03-31,2011,51,
 Colusa,Colusa,011,2021-03-31,2165,16,
 Contra Costa,Contra Costa,013,2021-03-31,65370,757,
@@ -8360,7 +8360,7 @@ Alameda,Alameda,001,2021-03-30,80446,1203,
 Berkeley,Alameda,001,2021-03-30,3441,46,
 Alpine,Alpine,003,2021-03-30,88,0,TRUE
 Amador,Amador,005,2021-03-30,3521,45,
-Butte,Butte,007,2021-03-30,11086,178,
+Butte,Butte,007,2021-03-30,11296,178,
 Calaveras,Calaveras,009,2021-03-30,2009,51,
 Colusa,Colusa,011,2021-03-30,2165,16,
 Contra Costa,Contra Costa,013,2021-03-30,65303,754,
@@ -8421,7 +8421,7 @@ Alameda,Alameda,001,2021-03-29,80390,1203,
 Berkeley,Alameda,001,2021-03-29,3437,46,
 Alpine,Alpine,003,2021-03-29,88,,
 Amador,Amador,005,2021-03-29,3515,45,
-Butte,Butte,007,2021-03-29,11080,178,
+Butte,Butte,007,2021-03-29,11291,178,
 Calaveras,Calaveras,009,2021-03-29,2006,51,
 Colusa,Colusa,011,2021-03-29,2164,16,TRUE
 Contra Costa,Contra Costa,013,2021-03-29,65230,754,
@@ -8482,7 +8482,7 @@ Alameda,Alameda,001,2021-03-28,80290,1201,TRUE
 Berkeley,Alameda,001,2021-03-28,3434,46,TRUE
 Alpine,Alpine,003,2021-03-28,86,0,TRUE
 Amador,Amador,005,2021-03-28,3502,45,TRUE
-Butte,Butte,007,2021-03-28,11059,177,TRUE
+Butte,Butte,007,2021-03-28,11285,177,TRUE
 Calaveras,Calaveras,009,2021-03-28,1995,51,TRUE
 Colusa,Colusa,011,2021-03-28,2164,16,TRUE
 Contra Costa,Contra Costa,013,2021-03-28,65140,754,
@@ -8543,7 +8543,7 @@ Alameda,Alameda,001,2021-03-27,80221,1200,TRUE
 Berkeley,Alameda,001,2021-03-27,3429,46,TRUE
 Alpine,Alpine,003,2021-03-27,86,0,TRUE
 Amador,Amador,005,2021-03-27,3502,45,
-Butte,Butte,007,2021-03-27,11059,177,TRUE
+Butte,Butte,007,2021-03-27,11278,177,TRUE
 Calaveras,Calaveras,009,2021-03-27,1995,51,TRUE
 Colusa,Colusa,011,2021-03-27,2164,16,
 Contra Costa,Contra Costa,013,2021-03-27,65065,754,TRUE
@@ -8604,7 +8604,7 @@ Alameda,Alameda,001,2021-03-26,80097,1200,
 Berkeley,Alameda,001,2021-03-26,3426,46,
 Alpine,Alpine,003,2021-03-26,86,0,TRUE
 Amador,Amador,005,2021-03-26,3502,45,
-Butte,Butte,007,2021-03-26,11059,177,
+Butte,Butte,007,2021-03-26,11278,177,
 Calaveras,Calaveras,009,2021-03-26,1995,51,
 Colusa,Colusa,011,2021-03-26,2164,16,
 Contra Costa,Contra Costa,013,2021-03-26,64961,748,
@@ -8665,7 +8665,7 @@ Alameda,Alameda,001,2021-03-25,79993,1198,
 Berkeley,Alameda,001,2021-03-25,3423,46,
 Alpine,Alpine,003,2021-03-25,86,0,
 Amador,Amador,005,2021-03-25,3497,45,
-Butte,Butte,007,2021-03-25,11048,177,
+Butte,Butte,007,2021-03-25,11270,177,
 Calaveras,Calaveras,009,2021-03-25,1991,51,
 Colusa,Colusa,011,2021-03-25,2160,16,
 Contra Costa,Contra Costa,013,2021-03-25,64869,744,
@@ -8726,7 +8726,7 @@ Alameda,Alameda,001,2021-03-24,79898,1197,
 Berkeley,Alameda,001,2021-03-24,3418,46,
 Alpine,Alpine,003,2021-03-24,86,0,
 Amador,Amador,005,2021-03-24,3495,45,
-Butte,Butte,007,2021-03-24,11033,175,
+Butte,Butte,007,2021-03-24,11252,175,
 Calaveras,Calaveras,009,2021-03-24,1983,51,
 Colusa,Colusa,011,2021-03-24,2158,16,
 Contra Costa,Contra Costa,013,2021-03-24,64801,742,
@@ -8787,7 +8787,7 @@ Alameda,Alameda,001,2021-03-23,79830,1196,
 Berkeley,Alameda,001,2021-03-23,3415,45,
 Alpine,Alpine,003,2021-03-23,86,0,
 Amador,Amador,005,2021-03-23,3492,45,
-Butte,Butte,007,2021-03-23,11012,173,
+Butte,Butte,007,2021-03-23,11227,173,
 Calaveras,Calaveras,009,2021-03-23,1979,51,
 Colusa,Colusa,011,2021-03-23,2158,16,
 Contra Costa,Contra Costa,013,2021-03-23,64752,738,
@@ -8848,7 +8848,7 @@ Alameda,Alameda,001,2021-03-22,79783,1196,
 Berkeley,Alameda,001,2021-03-22,3408,45,
 Alpine,Alpine,003,2021-03-22,86,0,TRUE
 Amador,Amador,005,2021-03-22,3490,45,
-Butte,Butte,007,2021-03-22,10997,173,
+Butte,Butte,007,2021-03-22,11211,173,
 Calaveras,Calaveras,009,2021-03-22,1972,51,
 Colusa,Colusa,011,2021-03-22,2158,15,
 Contra Costa,Contra Costa,013,2021-03-22,64695,734,
@@ -8909,7 +8909,7 @@ Alameda,Alameda,001,2021-03-21,79720,1196,
 Berkeley,Alameda,001,2021-03-21,3404,45,TRUE
 Alpine,Alpine,003,2021-03-21,86,0,TRUE
 Amador,Amador,005,2021-03-21,3487,44,
-Butte,Butte,007,2021-03-21,10975,171,TRUE
+Butte,Butte,007,2021-03-21,11208,171,TRUE
 Calaveras,Calaveras,009,2021-03-21,1968,50,TRUE
 Colusa,Colusa,011,2021-03-21,2156,15,TRUE
 Contra Costa,Contra Costa,013,2021-03-21,64642,734,
@@ -8970,7 +8970,7 @@ Alameda,Alameda,001,2021-03-20,79648,1196,
 Berkeley,Alameda,001,2021-03-20,3404,45,
 Alpine,Alpine,003,2021-03-20,86,0,TRUE
 Amador,Amador,005,2021-03-20,3484,44,TRUE
-Butte,Butte,007,2021-03-20,10975,171,TRUE
+Butte,Butte,007,2021-03-20,11199,171,TRUE
 Calaveras,Calaveras,009,2021-03-20,1968,50,TRUE
 Colusa,Colusa,011,2021-03-20,2156,15,TRUE
 Contra Costa,Contra Costa,013,2021-03-20,64573,734,
@@ -9031,7 +9031,7 @@ Alameda,Alameda,001,2021-03-19,79545,1194,
 Berkeley,Alameda,001,2021-03-19,3400,45,
 Alpine,Alpine,003,2021-03-19,86,0,TRUE
 Amador,Amador,005,2021-03-19,3484,44,
-Butte,Butte,007,2021-03-19,10975,171,
+Butte,Butte,007,2021-03-19,11191,171,
 Calaveras,Calaveras,009,2021-03-19,1968,50,
 Colusa,Colusa,011,2021-03-19,2156,15,
 Contra Costa,Contra Costa,013,2021-03-19,64454,730,
@@ -9092,7 +9092,7 @@ Alameda,Alameda,001,2021-03-18,79462,1194,
 Berkeley,Alameda,001,2021-03-18,3398,45,
 Alpine,Alpine,003,2021-03-18,86,0,
 Amador,Amador,005,2021-03-18,3481,44,
-Butte,Butte,007,2021-03-18,10963,171,
+Butte,Butte,007,2021-03-18,11179,171,
 Calaveras,Calaveras,009,2021-03-18,1963,50,
 Colusa,Colusa,011,2021-03-18,2155,15,
 Contra Costa,Contra Costa,013,2021-03-18,64358,727,
@@ -9153,7 +9153,7 @@ Alameda,Alameda,001,2021-03-17,79392,1192,
 Berkeley,Alameda,001,2021-03-17,3392,45,
 Alpine,Alpine,003,2021-03-17,85,0,TRUE
 Amador,Amador,005,2021-03-17,3480,44,
-Butte,Butte,007,2021-03-17,10953,171,
+Butte,Butte,007,2021-03-17,11170,171,
 Calaveras,Calaveras,009,2021-03-17,1958,50,
 Colusa,Colusa,011,2021-03-17,2155,14,
 Contra Costa,Contra Costa,013,2021-03-17,64280,725,
@@ -9214,7 +9214,7 @@ Alameda,Alameda,001,2021-03-16,79294,1192,
 Berkeley,Alameda,001,2021-03-16,3383,45,
 Alpine,Alpine,003,2021-03-16,85,0,TRUE
 Amador,Amador,005,2021-03-16,3478,44,
-Butte,Butte,007,2021-03-16,10937,171,
+Butte,Butte,007,2021-03-16,11154,171,
 Calaveras,Calaveras,009,2021-03-16,1951,50,
 Colusa,Colusa,011,2021-03-16,2155,14,
 Contra Costa,Contra Costa,013,2021-03-16,64203,724,
@@ -9275,7 +9275,7 @@ Alameda,Alameda,001,2021-03-15,79208,1192,
 Berkeley,Alameda,001,2021-03-15,3372,45,
 Alpine,Alpine,003,2021-03-15,85,0,TRUE
 Amador,Amador,005,2021-03-15,3474,44,
-Butte,Butte,007,2021-03-15,10926,171,
+Butte,Butte,007,2021-03-15,11141,171,
 Calaveras,Calaveras,009,2021-03-15,1946,50,
 Colusa,Colusa,011,2021-03-15,2155,14,
 Contra Costa,Contra Costa,013,2021-03-15,64096,720,
@@ -9336,7 +9336,7 @@ Alameda,Alameda,001,2021-03-14,79169,1189,
 Berkeley,Alameda,001,2021-03-14,3368,45,
 Alpine,Alpine,003,2021-03-14,85,0,TRUE
 Amador,Amador,005,2021-03-14,3472,44,
-Butte,Butte,007,2021-03-14,10912,170,TRUE
+Butte,Butte,007,2021-03-14,11140,170,TRUE
 Calaveras,Calaveras,009,2021-03-14,1944,50,TRUE
 Colusa,Colusa,011,2021-03-14,2155,14,TRUE
 Contra Costa,Contra Costa,013,2021-03-14,64056,719,
@@ -9397,7 +9397,7 @@ Alameda,Alameda,001,2021-03-13,79069,1189,
 Berkeley,Alameda,001,2021-03-13,3363,45,
 Alpine,Alpine,003,2021-03-13,85,0,TRUE
 Amador,Amador,005,2021-03-13,3471,44,TRUE
-Butte,Butte,007,2021-03-13,10912,170,TRUE
+Butte,Butte,007,2021-03-13,11131,170,TRUE
 Calaveras,Calaveras,009,2021-03-13,1944,50,TRUE
 Colusa,Colusa,011,2021-03-13,2155,14,TRUE
 Contra Costa,Contra Costa,013,2021-03-13,63830,716,TRUE
@@ -9458,7 +9458,7 @@ Alameda,Alameda,001,2021-03-12,78967,1188,
 Berkeley,Alameda,001,2021-03-12,3356,45,
 Alpine,Alpine,003,2021-03-12,85,0,TRUE
 Amador,Amador,005,2021-03-12,3471,44,
-Butte,Butte,007,2021-03-12,10912,170,
+Butte,Butte,007,2021-03-12,11126,170,
 Calaveras,Calaveras,009,2021-03-12,1944,50,
 Colusa,Colusa,011,2021-03-12,2155,14,
 Contra Costa,Contra Costa,013,2021-03-12,63830,716,
@@ -9519,7 +9519,7 @@ Alameda,Alameda,001,2021-03-11,78882,1188,
 Berkeley,Alameda,001,2021-03-11,3350,45,
 Alpine,Alpine,003,2021-03-11,85,0,
 Amador,Amador,005,2021-03-11,3468,43,
-Butte,Butte,007,2021-03-11,10897,170,
+Butte,Butte,007,2021-03-11,11110,170,
 Calaveras,Calaveras,009,2021-03-11,1941,50,
 Colusa,Colusa,011,2021-03-11,2155,14,
 Contra Costa,Contra Costa,013,2021-03-11,63712,716,
@@ -9580,7 +9580,7 @@ Alameda,Alameda,001,2021-03-10,78785,1186,
 Berkeley,Alameda,001,2021-03-10,3344,45,
 Alpine,Alpine,003,2021-03-10,85,0,TRUE
 Amador,Amador,005,2021-03-10,3464,41,
-Butte,Butte,007,2021-03-10,10882,170,
+Butte,Butte,007,2021-03-10,11096,170,
 Calaveras,Calaveras,009,2021-03-10,1941,50,
 Colusa,Colusa,011,2021-03-10,2153,14,
 Contra Costa,Contra Costa,013,2021-03-10,63626,713,
@@ -9641,7 +9641,7 @@ Alameda,Alameda,001,2021-03-09,78702,1184,
 Berkeley,Alameda,001,2021-03-09,3333,45,
 Alpine,Alpine,003,2021-03-09,85,0,TRUE
 Amador,Amador,005,2021-03-09,3461,41,
-Butte,Butte,007,2021-03-09,10876,169,
+Butte,Butte,007,2021-03-09,11092,169,
 Calaveras,Calaveras,009,2021-03-09,1934,49,
 Colusa,Colusa,011,2021-03-09,2152,14,
 Contra Costa,Contra Costa,013,2021-03-09,63567,712,
@@ -9702,7 +9702,7 @@ Alameda,Alameda,001,2021-03-08,78647,1183,
 Berkeley,Alameda,001,2021-03-08,3326,45,
 Alpine,Alpine,003,2021-03-08,85,0,
 Amador,Amador,005,2021-03-08,3460,41,
-Butte,Butte,007,2021-03-08,10868,169,
+Butte,Butte,007,2021-03-08,11082,169,
 Calaveras,Calaveras,009,2021-03-08,1933,49,
 Colusa,Colusa,011,2021-03-08,2144,13,
 Contra Costa,Contra Costa,013,2021-03-08,63493,708,
@@ -9763,7 +9763,7 @@ Alameda,Alameda,001,2021-03-07,78526,1182,
 Berkeley,Alameda,001,2021-03-07,3318,45,
 Alpine,Alpine,003,2021-03-07,84,0,TRUE
 Amador,Amador,005,2021-03-07,3455,41,TRUE
-Butte,Butte,007,2021-03-07,10837,169,TRUE
+Butte,Butte,007,2021-03-07,11075,169,TRUE
 Calaveras,Calaveras,009,2021-03-07,1928,49,TRUE
 Colusa,Colusa,011,2021-03-07,2142,13,TRUE
 Contra Costa,Contra Costa,013,2021-03-07,63400,708,
@@ -9824,7 +9824,7 @@ Alameda,Alameda,001,2021-03-06,78424,1182,
 Berkeley,Alameda,001,2021-03-06,3312,45,
 Alpine,Alpine,003,2021-03-06,84,0,TRUE
 Amador,Amador,005,2021-03-06,3455,41,TRUE
-Butte,Butte,007,2021-03-06,10837,169,TRUE
+Butte,Butte,007,2021-03-06,11065,169,TRUE
 Calaveras,Calaveras,009,2021-03-06,1928,49,TRUE
 Colusa,Colusa,011,2021-03-06,2142,13,TRUE
 Contra Costa,Contra Costa,013,2021-03-06,63297,708,
@@ -9885,7 +9885,7 @@ Alameda,Alameda,001,2021-03-05,78319,1181,
 Berkeley,Alameda,001,2021-03-05,3304,45,
 Alpine,Alpine,003,2021-03-05,84,0,
 Amador,Amador,005,2021-03-05,3455,41,
-Butte,Butte,007,2021-03-05,10837,169,
+Butte,Butte,007,2021-03-05,11050,169,
 Calaveras,Calaveras,009,2021-03-05,1928,49,
 Colusa,Colusa,011,2021-03-05,2142,13,
 Contra Costa,Contra Costa,013,2021-03-05,63142,701,
@@ -9946,7 +9946,7 @@ Alameda,Alameda,001,2021-03-04,78194,1181,
 Berkeley,Alameda,001,2021-03-04,3297,45,
 Alpine,Alpine,003,2021-03-04,84,0,
 Amador,Amador,005,2021-03-04,3451,41,
-Butte,Butte,007,2021-03-04,10824,167,
+Butte,Butte,007,2021-03-04,11033,167,
 Calaveras,Calaveras,009,2021-03-04,1922,49,
 Colusa,Colusa,011,2021-03-04,2140,13,
 Contra Costa,Contra Costa,013,2021-03-04,63053,696,
@@ -10007,7 +10007,7 @@ Alameda,Alameda,001,2021-03-03,78066,1179,
 Berkeley,Alameda,001,2021-03-03,3287,45,
 Alpine,Alpine,003,2021-03-03,82,0,TRUE
 Amador,Amador,005,2021-03-03,3444,41,
-Butte,Butte,007,2021-03-03,10805,167,
+Butte,Butte,007,2021-03-03,11014,167,
 Calaveras,Calaveras,009,2021-03-03,1918,49,
 Colusa,Colusa,011,2021-03-03,2140,13,
 Contra Costa,Contra Costa,013,2021-03-03,62931,695,
@@ -10068,7 +10068,7 @@ Alameda,Alameda,001,2021-03-02,77975,1179,
 Berkeley,Alameda,001,2021-03-02,3280,45,
 Alpine,Alpine,003,2021-03-02,82,0,TRUE
 Amador,Amador,005,2021-03-02,3443,41,
-Butte,Butte,007,2021-03-02,10796,167,
+Butte,Butte,007,2021-03-02,11007,167,
 Calaveras,Calaveras,009,2021-03-02,1911,49,
 Colusa,Colusa,011,2021-03-02,2139,13,
 Contra Costa,Contra Costa,013,2021-03-02,62818,681,
@@ -10129,7 +10129,7 @@ Alameda,Alameda,001,2021-03-01,77882,1179,
 Berkeley,Alameda,001,2021-03-01,3277,45,
 Alpine,Alpine,003,2021-03-01,82,0,
 Amador,Amador,005,2021-03-01,3440,41,
-Butte,Butte,007,2021-03-01,10774,163,
+Butte,Butte,007,2021-03-01,10981,163,
 Calaveras,Calaveras,009,2021-03-01,1910,49,
 Colusa,Colusa,011,2021-03-01,2136,13,
 Contra Costa,Contra Costa,013,2021-03-01,62720,681,
@@ -10190,7 +10190,7 @@ Alameda,Alameda,001,2021-02-28,77812,1177,
 Berkeley,Alameda,001,2021-02-28,3270,45,
 Alpine,Alpine,003,2021-02-28,82,0,TRUE
 Amador,Amador,005,2021-02-28,3430,41,
-Butte,Butte,007,2021-02-28,10731,160,TRUE
+Butte,Butte,007,2021-02-28,10970,160,TRUE
 Calaveras,Calaveras,009,2021-02-28,1905,47,TRUE
 Colusa,Colusa,011,2021-02-28,2129,13,TRUE
 Contra Costa,Contra Costa,013,2021-02-28,62645,681,
@@ -10251,7 +10251,7 @@ Alameda,Alameda,001,2021-02-27,77655,1176,
 Berkeley,Alameda,001,2021-02-27,3265,45,
 Alpine,Alpine,003,2021-02-27,82,0,TRUE
 Amador,Amador,005,2021-02-27,3429,41,
-Butte,Butte,007,2021-02-27,10731,160,TRUE
+Butte,Butte,007,2021-02-27,10962,160,TRUE
 Calaveras,Calaveras,009,2021-02-27,1905,47,TRUE
 Colusa,Colusa,011,2021-02-27,2129,13,TRUE
 Contra Costa,Contra Costa,013,2021-02-27,62507,681,
@@ -10312,7 +10312,7 @@ Alameda,Alameda,001,2021-02-26,77478,1174,
 Berkeley,Alameda,001,2021-02-26,3253,45,
 Alpine,Alpine,003,2021-02-26,82,0,
 Amador,Amador,005,2021-02-26,3408,41,
-Butte,Butte,007,2021-02-26,10731,160,
+Butte,Butte,007,2021-02-26,10941,160,
 Calaveras,Calaveras,009,2021-02-26,1905,47,
 Colusa,Colusa,011,2021-02-26,2129,13,
 Contra Costa,Contra Costa,013,2021-02-26,62367,674,
@@ -10373,7 +10373,7 @@ Alameda,Alameda,001,2021-02-25,77238,1174,
 Berkeley,Alameda,001,2021-02-25,3243,45,
 Alpine,Alpine,003,2021-02-25,81,0,
 Amador,Amador,005,2021-02-25,3396,41,
-Butte,Butte,007,2021-02-25,10711,160,
+Butte,Butte,007,2021-02-25,10922,160,
 Calaveras,Calaveras,009,2021-02-25,1905,47,
 Colusa,Colusa,011,2021-02-25,2128,13,
 Contra Costa,Contra Costa,013,2021-02-25,62164,674,
@@ -10434,7 +10434,7 @@ Alameda,Alameda,001,2021-02-24,77090,1173,
 Berkeley,Alameda,001,2021-02-24,3238,45,
 Alpine,Alpine,003,2021-02-24,80,0,
 Amador,Amador,005,2021-02-24,3393,40,
-Butte,Butte,007,2021-02-24,10702,160,
+Butte,Butte,007,2021-02-24,10915,160,
 Calaveras,Calaveras,009,2021-02-24,1904,47,
 Colusa,Colusa,011,2021-02-24,2127,13,
 Contra Costa,Contra Costa,013,2021-02-24,62028,655,
@@ -10495,7 +10495,7 @@ Alameda,Alameda,001,2021-02-23,76951,1171,
 Berkeley,Alameda,001,2021-02-23,3230,45,
 Alpine,Alpine,003,2021-02-23,80,0,
 Amador,Amador,005,2021-02-23,3391,40,
-Butte,Butte,007,2021-02-23,10675,158,
+Butte,Butte,007,2021-02-23,10887,158,
 Calaveras,Calaveras,009,2021-02-23,1902,25,
 Colusa,Colusa,011,2021-02-23,2125,13,
 Contra Costa,Contra Costa,013,2021-02-23,61865,653,
@@ -10556,7 +10556,7 @@ Alameda,Alameda,001,2021-02-22,76804,1168,
 Berkeley,Alameda,001,2021-02-22,3223,45,
 Alpine,Alpine,003,2021-02-22,80,0,
 Amador,Amador,005,2021-02-22,3389,40,
-Butte,Butte,007,2021-02-22,10649,158,
+Butte,Butte,007,2021-02-22,10855,158,
 Calaveras,Calaveras,009,2021-02-22,1901,25,
 Colusa,Colusa,011,2021-02-22,2120,13,
 Contra Costa,Contra Costa,013,2021-02-22,61744,653,
@@ -10617,7 +10617,7 @@ Alameda,Alameda,001,2021-02-21,76648,1166,
 Berkeley,Alameda,001,2021-02-21,3221,45,
 Alpine,Alpine,003,2021-02-21,80,0,TRUE
 Amador,Amador,005,2021-02-21,3383,39,
-Butte,Butte,007,2021-02-21,10617,156,TRUE
+Butte,Butte,007,2021-02-21,10855,156,TRUE
 Calaveras,Calaveras,009,2021-02-21,1898,25,TRUE
 Colusa,Colusa,011,2021-02-21,2117,13,TRUE
 Contra Costa,Contra Costa,013,2021-02-21,61628,653,
@@ -10678,7 +10678,7 @@ Alameda,Alameda,001,2021-02-20,76494,1163,
 Berkeley,Alameda,001,2021-02-20,3215,45,
 Alpine,Alpine,003,2021-02-20,80,0,TRUE
 Amador,Amador,005,2021-02-20,3376,39,TRUE
-Butte,Butte,007,2021-02-20,10617,156,TRUE
+Butte,Butte,007,2021-02-20,10838,156,TRUE
 Calaveras,Calaveras,009,2021-02-20,1898,25,TRUE
 Colusa,Colusa,011,2021-02-20,2117,13,TRUE
 Contra Costa,Contra Costa,013,2021-02-20,61469,653,
@@ -10739,7 +10739,7 @@ Alameda,Alameda,001,2021-02-19,76314,1163,
 Berkeley,Alameda,001,2021-02-19,3211,45,
 Alpine,Alpine,003,2021-02-19,80,0,
 Amador,Amador,005,2021-02-19,3376,39,
-Butte,Butte,007,2021-02-19,10617,156,
+Butte,Butte,007,2021-02-19,10823,156,
 Calaveras,Calaveras,009,2021-02-19,1898,25,
 Colusa,Colusa,011,2021-02-19,2117,13,
 Contra Costa,Contra Costa,013,2021-02-19,61284,643,
@@ -10800,7 +10800,7 @@ Alameda,Alameda,001,2021-02-18,76104,1162,
 Berkeley,Alameda,001,2021-02-18,3190,45,
 Alpine,Alpine,003,2021-02-18,80,0,
 Amador,Amador,005,2021-02-18,3370,39,
-Butte,Butte,007,2021-02-18,10592,156,
+Butte,Butte,007,2021-02-18,10791,156,
 Calaveras,Calaveras,009,2021-02-18,1896,25,
 Colusa,Colusa,011,2021-02-18,2116,13,
 Contra Costa,Contra Costa,013,2021-02-18,61134,632,
@@ -10861,7 +10861,7 @@ Alameda,Alameda,001,2021-02-17,75868,1161,
 Berkeley,Alameda,001,2021-02-17,3167,45,
 Alpine,Alpine,003,2021-02-17,79,0,
 Amador,Amador,005,2021-02-17,3365,38,
-Butte,Butte,007,2021-02-17,10570,153,
+Butte,Butte,007,2021-02-17,10770,153,
 Calaveras,Calaveras,009,2021-02-17,1896,25,
 Colusa,Colusa,011,2021-02-17,2110,13,
 Contra Costa,Contra Costa,013,2021-02-17,60996,626,
@@ -10922,7 +10922,7 @@ Alameda,Alameda,001,2021-02-16,75739,1161,
 Berkeley,Alameda,001,2021-02-16,3151,45,
 Alpine,Alpine,003,2021-02-16,79,0,
 Amador,Amador,005,2021-02-16,3361,38,
-Butte,Butte,007,2021-02-16,10552,153,
+Butte,Butte,007,2021-02-16,10748,153,
 Calaveras,Calaveras,009,2021-02-16,1836,25,
 Colusa,Colusa,011,2021-02-16,2086,12,
 Contra Costa,Contra Costa,013,2021-02-16,60834,622,
@@ -10983,7 +10983,7 @@ Alameda,Alameda,001,2021-02-15,75613,1160,
 Berkeley,Alameda,001,2021-02-15,3150,45,
 Alpine,Alpine,003,2021-02-15,79,0,TRUE
 Amador,Amador,005,2021-02-15,3356,38,
-Butte,Butte,007,2021-02-15,10461,149,TRUE
+Butte,Butte,007,2021-02-15,10723,149,TRUE
 Calaveras,Calaveras,009,2021-02-15,1825,25,TRUE
 Colusa,Colusa,011,2021-02-15,2069,11,TRUE
 Contra Costa,Contra Costa,013,2021-02-15,60710,622,
@@ -11044,7 +11044,7 @@ Alameda,Alameda,001,2021-02-14,75425,1160,
 Berkeley,Alameda,001,2021-02-14,3140,45,
 Alpine,Alpine,003,2021-02-14,79,0,TRUE
 Amador,Amador,005,2021-02-14,3342,38,
-Butte,Butte,007,2021-02-14,10461,149,TRUE
+Butte,Butte,007,2021-02-14,10717,149,TRUE
 Calaveras,Calaveras,009,2021-02-14,1825,25,TRUE
 Colusa,Colusa,011,2021-02-14,2069,11,TRUE
 Contra Costa,Contra Costa,013,2021-02-14,60537,622,
@@ -11105,7 +11105,7 @@ Alameda,Alameda,001,2021-02-13,75225,1159,
 Berkeley,Alameda,001,2021-02-13,3132,45,
 Alpine,Alpine,003,2021-02-13,79,0,TRUE
 Amador,Amador,005,2021-02-13,3339,38,
-Butte,Butte,007,2021-02-13,10461,149,TRUE
+Butte,Butte,007,2021-02-13,10699,149,TRUE
 Calaveras,Calaveras,009,2021-02-13,1825,25,TRUE
 Colusa,Colusa,011,2021-02-13,2069,11,TRUE
 Contra Costa,Contra Costa,013,2021-02-13,60365,620,
@@ -11166,7 +11166,7 @@ Alameda,Alameda,001,2021-02-12,74963,1154,
 Berkeley,Alameda,001,2021-02-12,3122,45,
 Alpine,Alpine,003,2021-02-12,79,0,TRUE
 Amador,Amador,005,2021-02-12,3332,38,
-Butte,Butte,007,2021-02-12,10461,149,
+Butte,Butte,007,2021-02-12,10655,149,
 Calaveras,Calaveras,009,2021-02-12,1825,25,
 Colusa,Colusa,011,2021-02-12,2069,11,TRUE
 Contra Costa,Contra Costa,013,2021-02-12,60142,610,
@@ -11227,7 +11227,7 @@ Alameda,Alameda,001,2021-02-11,74648,1150,
 Berkeley,Alameda,001,2021-02-11,3075,44,
 Alpine,Alpine,003,2021-02-11,79,0,
 Amador,Amador,005,2021-02-11,3324,38,
-Butte,Butte,007,2021-02-11,10437,149,
+Butte,Butte,007,2021-02-11,10624,149,
 Calaveras,Calaveras,009,2021-02-11,1822,25,
 Colusa,Colusa,011,2021-02-11,2069,11,
 Contra Costa,Contra Costa,013,2021-02-11,59895,595,
@@ -11288,7 +11288,7 @@ Alameda,Alameda,001,2021-02-10,74440,1146,
 Berkeley,Alameda,001,2021-02-10,3039,44,
 Alpine,Alpine,003,2021-02-10,79,0,TRUE
 Amador,Amador,005,2021-02-10,3315,37,
-Butte,Butte,007,2021-02-10,10404,148,
+Butte,Butte,007,2021-02-10,10594,148,
 Calaveras,Calaveras,009,2021-02-10,1818,25,
 Colusa,Colusa,011,2021-02-10,2056,11,
 Contra Costa,Contra Costa,013,2021-02-10,59751,580,
@@ -11349,7 +11349,7 @@ Alameda,Alameda,001,2021-02-09,74131,1145,
 Berkeley,Alameda,001,2021-02-09,3009,44,
 Alpine,Alpine,003,2021-02-09,79,0,
 Amador,Amador,005,2021-02-09,3298,37,
-Butte,Butte,007,2021-02-09,10376,148,
+Butte,Butte,007,2021-02-09,10563,148,
 Calaveras,Calaveras,009,2021-02-09,1813,23,
 Colusa,Colusa,011,2021-02-09,2046,11,
 Contra Costa,Contra Costa,013,2021-02-09,59585,574,
@@ -11410,7 +11410,7 @@ Alameda,Alameda,001,2021-02-08,73911,1141,
 Berkeley,Alameda,001,2021-02-08,2972,44,
 Alpine,Alpine,003,2021-02-08,79,0,
 Amador,Amador,005,2021-02-08,3297,36,
-Butte,Butte,007,2021-02-08,10343,148,
+Butte,Butte,007,2021-02-08,10524,148,
 Calaveras,Calaveras,009,2021-02-08,1811,23,
 Colusa,Colusa,011,2021-02-08,2020,11,
 Contra Costa,Contra Costa,013,2021-02-08,59313,560,
@@ -11471,7 +11471,7 @@ Alameda,Alameda,001,2021-02-07,73678,1141,
 Berkeley,Alameda,001,2021-02-07,2961,44,
 Alpine,Alpine,003,2021-02-07,78,0,TRUE
 Amador,Amador,005,2021-02-07,3295,35,
-Butte,Butte,007,2021-02-07,10237,147,TRUE
+Butte,Butte,007,2021-02-07,10513,147,TRUE
 Calaveras,Calaveras,009,2021-02-07,1777,23,TRUE
 Colusa,Colusa,011,2021-02-07,2004,11,TRUE
 Contra Costa,Contra Costa,013,2021-02-07,59107,559,
@@ -11532,7 +11532,7 @@ Alameda,Alameda,001,2021-02-06,73378,1138,TRUE
 Berkeley,Alameda,001,2021-02-06,2934,44,TRUE
 Alpine,Alpine,003,2021-02-06,78,0,
 Amador,Amador,005,2021-02-06,3289,35,
-Butte,Butte,007,2021-02-06,10237,147,TRUE
+Butte,Butte,007,2021-02-06,10480,147,TRUE
 Calaveras,Calaveras,009,2021-02-06,1777,23,TRUE
 Colusa,Colusa,011,2021-02-06,2004,11,
 Contra Costa,Contra Costa,013,2021-02-06,58839,559,TRUE
@@ -11593,7 +11593,7 @@ Alameda,Alameda,001,2021-02-05,72946,1135,
 Berkeley,Alameda,001,2021-02-05,2881,44,
 Alpine,Alpine,003,2021-02-05,78,0,
 Amador,Amador,005,2021-02-05,3280,35,
-Butte,Butte,007,2021-02-05,10237,147,
+Butte,Butte,007,2021-02-05,10421,147,
 Calaveras,Calaveras,009,2021-02-05,1777,23,
 Colusa,Colusa,011,2021-02-05,2004,11,
 Contra Costa,Contra Costa,013,2021-02-05,58462,552,
@@ -11654,7 +11654,7 @@ Alameda,Alameda,001,2021-02-04,72663,1131,
 Berkeley,Alameda,001,2021-02-04,2846,44,
 Alpine,Alpine,003,2021-02-04,78,0,
 Amador,Amador,005,2021-02-04,3239,34,
-Butte,Butte,007,2021-02-04,10205,145,
+Butte,Butte,007,2021-02-04,10386,145,
 Calaveras,Calaveras,009,2021-02-04,1770,23,
 Colusa,Colusa,011,2021-02-04,1999,11,
 Contra Costa,Contra Costa,013,2021-02-04,58248,542,
@@ -11715,7 +11715,7 @@ Alameda,Alameda,001,2021-02-03,72293,1128,
 Berkeley,Alameda,001,2021-02-03,2786,44,
 Alpine,Alpine,003,2021-02-03,78,0,
 Amador,Amador,005,2021-02-03,3236,34,
-Butte,Butte,007,2021-02-03,10173,145,
+Butte,Butte,007,2021-02-03,10355,145,
 Calaveras,Calaveras,009,2021-02-03,1763,23,
 Colusa,Colusa,011,2021-02-03,1989,11,
 Contra Costa,Contra Costa,013,2021-02-03,58021,532,
@@ -11776,7 +11776,7 @@ Alameda,Alameda,001,2021-02-02,71978,1123,
 Berkeley,Alameda,001,2021-02-02,2747,43,
 Alpine,Alpine,003,2021-02-02,76,0,
 Amador,Amador,005,2021-02-02,3229,34,
-Butte,Butte,007,2021-02-02,10128,142,
+Butte,Butte,007,2021-02-02,10307,142,
 Calaveras,Calaveras,009,2021-02-02,1749,23,
 Colusa,Colusa,011,2021-02-02,1972,11,
 Contra Costa,Contra Costa,013,2021-02-02,57812,531,
@@ -11837,7 +11837,7 @@ Alameda,Alameda,001,2021-02-01,71761,1119,
 Berkeley,Alameda,001,2021-02-01,2709,43,
 Alpine,Alpine,003,2021-02-01,74,0,
 Amador,Amador,005,2021-02-01,3227,34,
-Butte,Butte,007,2021-02-01,10083,142,
+Butte,Butte,007,2021-02-01,10263,142,
 Calaveras,Calaveras,009,2021-02-01,1739,23,
 Colusa,Colusa,011,2021-02-01,1952,10,
 Contra Costa,Contra Costa,013,2021-02-01,57580,529,
@@ -11898,7 +11898,7 @@ Alameda,Alameda,001,2021-01-31,71397,1117,
 Berkeley,Alameda,001,2021-01-31,2688,43,
 Alpine,Alpine,003,2021-01-31,74,0,TRUE
 Amador,Amador,005,2021-01-31,3199,33,
-Butte,Butte,007,2021-01-31,9944,138,TRUE
+Butte,Butte,007,2021-01-31,10215,138,TRUE
 Calaveras,Calaveras,009,2021-01-31,1637,23,TRUE
 Colusa,Colusa,011,2021-01-31,1935,10,TRUE
 Contra Costa,Contra Costa,013,2021-01-31,57337,529,
@@ -11959,7 +11959,7 @@ Alameda,Alameda,001,2021-01-30,71061,1114,
 Berkeley,Alameda,001,2021-01-30,2669,43,
 Alpine,Alpine,003,2021-01-30,74,0,TRUE
 Amador,Amador,005,2021-01-30,3156,33,
-Butte,Butte,007,2021-01-30,9944,138,TRUE
+Butte,Butte,007,2021-01-30,10177,138,TRUE
 Calaveras,Calaveras,009,2021-01-30,1637,23,TRUE
 Colusa,Colusa,011,2021-01-30,1935,10,TRUE
 Contra Costa,Contra Costa,013,2021-01-30,57021,529,
@@ -12020,7 +12020,7 @@ Alameda,Alameda,001,2021-01-29,70676,1110,
 Berkeley,Alameda,001,2021-01-29,2645,42,
 Alpine,Alpine,003,2021-01-29,74,0,
 Amador,Amador,005,2021-01-29,3147,33,
-Butte,Butte,007,2021-01-29,9944,138,
+Butte,Butte,007,2021-01-29,10122,138,
 Calaveras,Calaveras,009,2021-01-29,1637,23,
 Colusa,Colusa,011,2021-01-29,1935,10,
 Contra Costa,Contra Costa,013,2021-01-29,56575,528,
@@ -12081,7 +12081,7 @@ Alameda,Alameda,001,2021-01-28,70224,1104,
 Berkeley,Alameda,001,2021-01-28,2604,42,
 Alpine,Alpine,003,2021-01-28,74,0,
 Amador,Amador,005,2021-01-28,3105,33,
-Butte,Butte,007,2021-01-28,9862,136,
+Butte,Butte,007,2021-01-28,10037,136,
 Calaveras,Calaveras,009,2021-01-28,1626,23,
 Colusa,Colusa,011,2021-01-28,1931,9,
 Contra Costa,Contra Costa,013,2021-01-28,56252,525,
@@ -12142,7 +12142,7 @@ Alameda,Alameda,001,2021-01-27,69693,1097,
 Berkeley,Alameda,001,2021-01-27,2584,42,
 Alpine,Alpine,003,2021-01-27,74,0,
 Amador,Amador,005,2021-01-27,3103,33,
-Butte,Butte,007,2021-01-27,9820,136,
+Butte,Butte,007,2021-01-27,9988,136,
 Calaveras,Calaveras,009,2021-01-27,1620,23,
 Colusa,Colusa,011,2021-01-27,1917,9,
 Contra Costa,Contra Costa,013,2021-01-27,55835,507,
@@ -12203,7 +12203,7 @@ Alameda,Alameda,001,2021-01-26,69376,1089,
 Berkeley,Alameda,001,2021-01-26,2571,42,
 Alpine,Alpine,003,2021-01-26,74,0,
 Amador,Amador,005,2021-01-26,3070,33,
-Butte,Butte,007,2021-01-26,9775,136,
+Butte,Butte,007,2021-01-26,9943,136,
 Calaveras,Calaveras,009,2021-01-26,1611,23,
 Colusa,Colusa,011,2021-01-26,1907,9,
 Contra Costa,Contra Costa,013,2021-01-26,55593,492,
@@ -12264,7 +12264,7 @@ Alameda,Alameda,001,2021-01-25,68821,1083,
 Berkeley,Alameda,001,2021-01-25,2549,42,
 Alpine,Alpine,003,2021-01-25,73,0,
 Amador,Amador,005,2021-01-25,3067,33,
-Butte,Butte,007,2021-01-25,9656,136,
+Butte,Butte,007,2021-01-25,9865,136,
 Calaveras,Calaveras,009,2021-01-25,1598,23,
 Colusa,Colusa,011,2021-01-25,1871,9,
 Contra Costa,Contra Costa,013,2021-01-25,55245,489,
@@ -12325,7 +12325,7 @@ Alameda,Alameda,001,2021-01-24,68411,1073,
 Berkeley,Alameda,001,2021-01-24,2530,42,
 Alpine,Alpine,003,2021-01-24,73,0,TRUE
 Amador,Amador,005,2021-01-24,3045,32,
-Butte,Butte,007,2021-01-24,9544,134,TRUE
+Butte,Butte,007,2021-01-24,9820,134,TRUE
 Calaveras,Calaveras,009,2021-01-24,1407,23,TRUE
 Colusa,Colusa,011,2021-01-24,1854,9,TRUE
 Contra Costa,Contra Costa,013,2021-01-24,54951,489,
@@ -12386,7 +12386,7 @@ Alameda,Alameda,001,2021-01-23,68003,1067,
 Berkeley,Alameda,001,2021-01-23,2520,42,
 Alpine,Alpine,003,2021-01-23,73,0,TRUE
 Amador,Amador,005,2021-01-23,3011,32,
-Butte,Butte,007,2021-01-23,9544,134,TRUE
+Butte,Butte,007,2021-01-23,9757,134,TRUE
 Calaveras,Calaveras,009,2021-01-23,1407,23,TRUE
 Colusa,Colusa,011,2021-01-23,1854,9,TRUE
 Contra Costa,Contra Costa,013,2021-01-23,54416,487,
@@ -12447,7 +12447,7 @@ Alameda,Alameda,001,2021-01-22,67272,1063,
 Berkeley,Alameda,001,2021-01-22,2481,42,
 Alpine,Alpine,003,2021-01-22,73,0,
 Amador,Amador,005,2021-01-22,3008,32,
-Butte,Butte,007,2021-01-22,9544,134,
+Butte,Butte,007,2021-01-22,9711,134,
 Calaveras,Calaveras,009,2021-01-22,1407,23,
 Colusa,Colusa,011,2021-01-22,1854,9,
 Contra Costa,Contra Costa,013,2021-01-22,54140,484,
@@ -12508,7 +12508,7 @@ Alameda,Alameda,001,2021-01-21,66931,1050,
 Berkeley,Alameda,001,2021-01-21,2453,42,
 Alpine,Alpine,003,2021-01-21,73,0,
 Amador,Amador,005,2021-01-21,2996,32,
-Butte,Butte,007,2021-01-21,9475,130,
+Butte,Butte,007,2021-01-21,9643,130,
 Calaveras,Calaveras,009,2021-01-21,1389,23,
 Colusa,Colusa,011,2021-01-21,1853,9,
 Contra Costa,Contra Costa,013,2021-01-21,53844,478,
@@ -12569,7 +12569,7 @@ Alameda,Alameda,001,2021-01-20,66394,1042,
 Berkeley,Alameda,001,2021-01-20,2444,42,
 Alpine,Alpine,003,2021-01-20,73,0,
 Amador,Amador,005,2021-01-20,2993,31,
-Butte,Butte,007,2021-01-20,9415,128,
+Butte,Butte,007,2021-01-20,9582,128,
 Calaveras,Calaveras,009,2021-01-20,1374,23,
 Colusa,Colusa,011,2021-01-20,1796,9,
 Contra Costa,Contra Costa,013,2021-01-20,53349,460,
@@ -12630,7 +12630,7 @@ Alameda,Alameda,001,2021-01-19,66034,1033,
 Berkeley,Alameda,001,2021-01-19,2434,42,
 Alpine,Alpine,003,2021-01-19,73,0,
 Amador,Amador,005,2021-01-19,2985,31,
-Butte,Butte,007,2021-01-19,9368,123,
+Butte,Butte,007,2021-01-19,9528,123,
 Calaveras,Calaveras,009,2021-01-19,1255,23,
 Colusa,Colusa,011,2021-01-19,1733,9,
 Contra Costa,Contra Costa,013,2021-01-19,52965,450,
@@ -12691,7 +12691,7 @@ Alameda,Alameda,001,2021-01-18,65575,1024,
 Berkeley,Alameda,001,2021-01-18,2402,42,
 Alpine,Alpine,003,2021-01-18,73,0,TRUE
 Amador,Amador,005,2021-01-18,2981,29,
-Butte,Butte,007,2021-01-18,9091,121,TRUE
+Butte,Butte,007,2021-01-18,9474,121,TRUE
 Calaveras,Calaveras,009,2021-01-18,1240,23,TRUE
 Colusa,Colusa,011,2021-01-18,1691,9,TRUE
 Contra Costa,Contra Costa,013,2021-01-18,52547,450,
@@ -12752,7 +12752,7 @@ Alameda,Alameda,001,2021-01-17,65028,1014,TRUE
 Berkeley,Alameda,001,2021-01-17,2378,42,
 Alpine,Alpine,003,2021-01-17,73,0,TRUE
 Amador,Amador,005,2021-01-17,2972,29,
-Butte,Butte,007,2021-01-17,9091,121,TRUE
+Butte,Butte,007,2021-01-17,9411,121,TRUE
 Calaveras,Calaveras,009,2021-01-17,1240,23,TRUE
 Colusa,Colusa,011,2021-01-17,1691,9,TRUE
 Contra Costa,Contra Costa,013,2021-01-17,52146,449,
@@ -12813,7 +12813,7 @@ Alameda,Alameda,001,2021-01-16,64249,1013,
 Berkeley,Alameda,001,2021-01-16,2351,42,TRUE
 Alpine,Alpine,003,2021-01-16,73,0,TRUE
 Amador,Amador,005,2021-01-16,2965,29,
-Butte,Butte,007,2021-01-16,9091,121,TRUE
+Butte,Butte,007,2021-01-16,9359,121,TRUE
 Calaveras,Calaveras,009,2021-01-16,1240,23,TRUE
 Colusa,Colusa,011,2021-01-16,1691,9,TRUE
 Contra Costa,Contra Costa,013,2021-01-16,51573,446,
@@ -12874,7 +12874,7 @@ Alameda,Alameda,001,2021-01-15,63188,1002,
 Berkeley,Alameda,001,2021-01-15,2312,41,
 Alpine,Alpine,003,2021-01-15,73,0,
 Amador,Amador,005,2021-01-15,2951,29,
-Butte,Butte,007,2021-01-15,9091,121,
+Butte,Butte,007,2021-01-15,9233,121,
 Calaveras,Calaveras,009,2021-01-15,1240,23,
 Colusa,Colusa,011,2021-01-15,1691,9,
 Contra Costa,Contra Costa,013,2021-01-15,50627,430,
@@ -12935,7 +12935,7 @@ Alameda,Alameda,001,2021-01-14,62183,988,
 Berkeley,Alameda,001,2021-01-14,2282,41,
 Alpine,Alpine,003,2021-01-14,73,0,
 Amador,Amador,005,2021-01-14,2921,29,
-Butte,Butte,007,2021-01-14,8992,120,
+Butte,Butte,007,2021-01-14,9127,120,
 Calaveras,Calaveras,009,2021-01-14,945,22,TRUE
 Colusa,Colusa,011,2021-01-14,1684,9,
 Contra Costa,Contra Costa,013,2021-01-14,49759,410,
@@ -12996,7 +12996,7 @@ Alameda,Alameda,001,2021-01-13,61443,977,
 Berkeley,Alameda,001,2021-01-13,2255,41,
 Alpine,Alpine,003,2021-01-13,73,0,
 Amador,Amador,005,2021-01-13,2889,29,
-Butte,Butte,007,2021-01-13,8891,120,
+Butte,Butte,007,2021-01-13,9013,120,
 Calaveras,Calaveras,009,2021-01-13,945,22,TRUE
 Colusa,Colusa,011,2021-01-13,1667,9,
 Contra Costa,Contra Costa,013,2021-01-13,49082,395,
@@ -13057,7 +13057,7 @@ Alameda,Alameda,001,2021-01-12,60523,971,
 Berkeley,Alameda,001,2021-01-12,2232,41,
 Alpine,Alpine,003,2021-01-12,73,0,
 Amador,Amador,005,2021-01-12,2867,28,
-Butte,Butte,007,2021-01-12,8795,116,
+Butte,Butte,007,2021-01-12,8883,116,
 Calaveras,Calaveras,009,2021-01-12,945,22,
 Colusa,Colusa,011,2021-01-12,1643,9,
 Contra Costa,Contra Costa,013,2021-01-12,48449,392,
@@ -13118,7 +13118,7 @@ Alameda,Alameda,001,2021-01-11,59829,956,
 Berkeley,Alameda,001,2021-01-11,2221,41,
 Alpine,Alpine,003,2021-01-11,72,0,
 Amador,Amador,005,2021-01-11,2855,28,
-Butte,Butte,007,2021-01-11,8359,112,
+Butte,Butte,007,2021-01-11,8757,112,
 Calaveras,Calaveras,009,2021-01-11,922,22,TRUE
 Colusa,Colusa,011,2021-01-11,1613,9,
 Contra Costa,Contra Costa,013,2021-01-11,47940,392,
@@ -13179,7 +13179,7 @@ Alameda,Alameda,001,2021-01-10,59023,947,
 Berkeley,Alameda,001,2021-01-10,2200,41,
 Alpine,Alpine,003,2021-01-10,72,0,TRUE
 Amador,Amador,005,2021-01-10,2824,26,
-Butte,Butte,007,2021-01-10,8359,111,TRUE
+Butte,Butte,007,2021-01-10,8665,111,TRUE
 Calaveras,Calaveras,009,2021-01-10,922,22,TRUE
 Colusa,Colusa,011,2021-01-10,1565,9,TRUE
 Contra Costa,Contra Costa,013,2021-01-10,47315,392,
@@ -13240,7 +13240,7 @@ Alameda,Alameda,001,2021-01-09,58070,939,
 Berkeley,Alameda,001,2021-01-09,2175,41,
 Alpine,Alpine,003,2021-01-09,72,0,TRUE
 Amador,Amador,005,2021-01-09,2811,26,
-Butte,Butte,007,2021-01-09,8359,111,TRUE
+Butte,Butte,007,2021-01-09,8552,111,TRUE
 Calaveras,Calaveras,009,2021-01-09,922,22,TRUE
 Colusa,Colusa,011,2021-01-09,1565,9,TRUE
 Contra Costa,Contra Costa,013,2021-01-09,46618,389,
@@ -13301,7 +13301,7 @@ Alameda,Alameda,001,2021-01-08,57132,930,
 Berkeley,Alameda,001,2021-01-08,2140,41,
 Alpine,Alpine,003,2021-01-08,72,0,
 Amador,Amador,005,2021-01-08,2801,26,
-Butte,Butte,007,2021-01-08,8359,111,
+Butte,Butte,007,2021-01-08,8430,111,
 Calaveras,Calaveras,009,2021-01-08,922,22,
 Colusa,Colusa,011,2021-01-08,1565,9,
 Contra Costa,Contra Costa,013,2021-01-08,45874,376,
@@ -13362,7 +13362,7 @@ Alameda,Alameda,001,2021-01-07,55882,914,
 Berkeley,Alameda,001,2021-01-07,2106,41,
 Alpine,Alpine,003,2021-01-07,71,0,TRUE
 Amador,Amador,005,2021-01-07,2761,26,
-Butte,Butte,007,2021-01-07,8217,102,
+Butte,Butte,007,2021-01-07,8278,102,
 Calaveras,Calaveras,009,2021-01-07,898,22,TRUE
 Colusa,Colusa,011,2021-01-07,1529,9,
 Contra Costa,Contra Costa,013,2021-01-07,44967,371,
@@ -13423,7 +13423,7 @@ Alameda,Alameda,001,2021-01-06,55036,903,
 Berkeley,Alameda,001,2021-01-06,2083,40,
 Alpine,Alpine,003,2021-01-06,71,0,TRUE
 Amador,Amador,005,2021-01-06,2738,26,
-Butte,Butte,007,2021-01-06,8096,102,
+Butte,Butte,007,2021-01-06,8147,102,
 Calaveras,Calaveras,009,2021-01-06,898,22,TRUE
 Colusa,Colusa,011,2021-01-06,1468,9,
 Contra Costa,Contra Costa,013,2021-01-06,44274,355,
@@ -13484,7 +13484,7 @@ Alameda,Alameda,001,2021-01-05,54423,887,
 Berkeley,Alameda,001,2021-01-05,2016,40,TRUE
 Alpine,Alpine,003,2021-01-05,71,0,TRUE
 Amador,Amador,005,2021-01-05,2717,26,
-Butte,Butte,007,2021-01-05,7963,100,
+Butte,Butte,007,2021-01-05,8008,100,
 Calaveras,Calaveras,009,2021-01-05,898,22,
 Colusa,Colusa,011,2021-01-05,1438,9,
 Contra Costa,Contra Costa,013,2021-01-05,43223,348,
@@ -13545,7 +13545,7 @@ Alameda,Alameda,001,2021-01-04,53873,869,TRUE
 Berkeley,Alameda,001,2021-01-04,1999,35,TRUE
 Alpine,Alpine,003,2021-01-04,71,0,
 Amador,Amador,005,2021-01-04,2701,24,
-Butte,Butte,007,2021-01-04,7850,100,
+Butte,Butte,007,2021-01-04,7893,100,
 Calaveras,Calaveras,009,2021-01-04,853,22,TRUE
 Colusa,Colusa,011,2021-01-04,1396,9,
 Contra Costa,Contra Costa,013,2021-01-04,42632,347,
@@ -13606,7 +13606,7 @@ Alameda,Alameda,001,2021-01-03,53106,859,
 Berkeley,Alameda,001,2021-01-03,1958,34,
 Alpine,Alpine,003,2021-01-03,67,0,TRUE
 Amador,Amador,005,2021-01-03,2671,24,
-Butte,Butte,007,2021-01-03,7390,96,TRUE
+Butte,Butte,007,2021-01-03,7837,96,TRUE
 Calaveras,Calaveras,009,2021-01-03,853,22,TRUE
 Colusa,Colusa,011,2021-01-03,1351,8,TRUE
 Contra Costa,Contra Costa,013,2021-01-03,42628,347,
@@ -13667,7 +13667,7 @@ Alameda,Alameda,001,2021-01-02,52582,844,TRUE
 Berkeley,Alameda,001,2021-01-02,1934,33,TRUE
 Alpine,Alpine,003,2021-01-02,67,0,TRUE
 Amador,Amador,005,2021-01-02,2613,24,
-Butte,Butte,007,2021-01-02,7390,96,TRUE
+Butte,Butte,007,2021-01-02,7750,96,TRUE
 Calaveras,Calaveras,009,2021-01-02,853,22,TRUE
 Colusa,Colusa,011,2021-01-02,1351,8,TRUE
 Contra Costa,Contra Costa,013,2021-01-02,41603,347,
@@ -13728,7 +13728,7 @@ Alameda,Alameda,001,2021-01-01,51634,839,
 Berkeley,Alameda,001,2021-01-01,1902,32,TRUE
 Alpine,Alpine,003,2021-01-01,67,0,TRUE
 Amador,Amador,005,2021-01-01,2562,24,
-Butte,Butte,007,2021-01-01,7390,96,TRUE
+Butte,Butte,007,2021-01-01,7589,96,TRUE
 Calaveras,Calaveras,009,2021-01-01,853,22,TRUE
 Colusa,Colusa,011,2021-01-01,1351,8,TRUE
 Contra Costa,Contra Costa,013,2021-01-01,41599,347,
@@ -13789,7 +13789,7 @@ Alameda,Alameda,001,2020-12-31,50633,826,
 Berkeley,Alameda,001,2020-12-31,1874,32,
 Alpine,Alpine,003,2020-12-31,67,0,TRUE
 Amador,Amador,005,2020-12-31,2515,24,
-Butte,Butte,007,2020-12-31,7390,96,
+Butte,Butte,007,2020-12-31,7405,96,
 Calaveras,Calaveras,009,2020-12-31,853,22,TRUE
 Colusa,Colusa,011,2020-12-31,1351,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-31,40697,335,
@@ -13850,7 +13850,7 @@ Alameda,Alameda,001,2020-12-30,49723,814,TRUE
 Berkeley,Alameda,001,2020-12-30,1847,32,TRUE
 Alpine,Alpine,003,2020-12-30,67,0,
 Amador,Amador,005,2020-12-30,2502,24,
-Butte,Butte,007,2020-12-30,7269,96,
+Butte,Butte,007,2020-12-30,7140,96,
 Calaveras,Calaveras,009,2020-12-30,853,22,TRUE
 Colusa,Colusa,011,2020-12-30,1351,8,
 Contra Costa,Contra Costa,013,2020-12-30,39736,331,
@@ -13911,7 +13911,7 @@ Alameda,Alameda,001,2020-12-29,49060,797,
 Berkeley,Alameda,001,2020-12-29,1836,30,
 Alpine,Alpine,003,2020-12-29,66,0,
 Amador,Amador,005,2020-12-29,2442,24,
-Butte,Butte,007,2020-12-29,7173,90,
+Butte,Butte,007,2020-12-29,7178,90,
 Calaveras,Calaveras,009,2020-12-29,853,22,
 Colusa,Colusa,011,2020-12-29,1332,8,
 Contra Costa,Contra Costa,013,2020-12-29,39391,323,
@@ -13972,7 +13972,7 @@ Alameda,Alameda,001,2020-12-28,48538,786,
 Berkeley,Alameda,001,2020-12-28,1829,30,
 Alpine,Alpine,003,2020-12-28,64,0,TRUE
 Amador,Amador,005,2020-12-28,2394,23,
-Butte,Butte,007,2020-12-28,7051,88,
+Butte,Butte,007,2020-12-28,7053,88,
 Calaveras,Calaveras,009,2020-12-28,754,22,TRUE
 Colusa,Colusa,011,2020-12-28,1264,8,
 Contra Costa,Contra Costa,013,2020-12-28,39029,323,
@@ -14033,7 +14033,7 @@ Alameda,Alameda,001,2020-12-27,47906,771,
 Berkeley,Alameda,001,2020-12-27,1811,30,
 Alpine,Alpine,003,2020-12-27,64,0,TRUE
 Amador,Amador,005,2020-12-27,2359,23,
-Butte,Butte,007,2020-12-27,6584,83,TRUE
+Butte,Butte,007,2020-12-27,7016,83,TRUE
 Calaveras,Calaveras,009,2020-12-27,754,22,TRUE
 Colusa,Colusa,011,2020-12-27,1214,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-27,38558,321,
@@ -14094,7 +14094,7 @@ Alameda,Alameda,001,2020-12-26,47224,763,
 Berkeley,Alameda,001,2020-12-26,1804,29,TRUE
 Alpine,Alpine,003,2020-12-26,64,0,TRUE
 Amador,Amador,005,2020-12-26,2281,23,
-Butte,Butte,007,2020-12-26,6584,83,TRUE
+Butte,Butte,007,2020-12-26,6968,83,TRUE
 Calaveras,Calaveras,009,2020-12-26,754,22,TRUE
 Colusa,Colusa,011,2020-12-26,1214,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-26,38138,321,
@@ -14155,7 +14155,7 @@ Alameda,Alameda,001,2020-12-25,46528,752,TRUE
 Berkeley,Alameda,001,2020-12-25,1794,29,TRUE
 Alpine,Alpine,003,2020-12-25,64,0,TRUE
 Amador,Amador,005,2020-12-25,2219,23,
-Butte,Butte,007,2020-12-25,6584,83,TRUE
+Butte,Butte,007,2020-12-25,6873,83,TRUE
 Calaveras,Calaveras,009,2020-12-25,754,22,TRUE
 Colusa,Colusa,011,2020-12-25,1214,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-25,37610,321,
@@ -14216,7 +14216,7 @@ Alameda,Alameda,001,2020-12-24,45719,743,
 Berkeley,Alameda,001,2020-12-24,1775,29,
 Alpine,Alpine,003,2020-12-24,64,0,TRUE
 Amador,Amador,005,2020-12-24,2189,23,
-Butte,Butte,007,2020-12-24,6584,83,TRUE
+Butte,Butte,007,2020-12-24,6716,83,TRUE
 Calaveras,Calaveras,009,2020-12-24,754,22,TRUE
 Colusa,Colusa,011,2020-12-24,1214,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-24,36752,308,
@@ -14277,7 +14277,7 @@ Alameda,Alameda,001,2020-12-23,44980,734,
 Berkeley,Alameda,001,2020-12-23,1758,28,
 Alpine,Alpine,003,2020-12-23,64,0,
 Amador,Amador,005,2020-12-23,2157,23,
-Butte,Butte,007,2020-12-23,6584,83,
+Butte,Butte,007,2020-12-23,6588,83,
 Calaveras,Calaveras,009,2020-12-23,754,22,TRUE
 Colusa,Colusa,011,2020-12-23,1214,8,
 Contra Costa,Contra Costa,013,2020-12-23,36313,308,
@@ -14338,7 +14338,7 @@ Alameda,Alameda,001,2020-12-22,44032,723,
 Berkeley,Alameda,001,2020-12-22,1747,27,
 Alpine,Alpine,003,2020-12-22,64,0,TRUE
 Amador,Amador,005,2020-12-22,2115,23,
-Butte,Butte,007,2020-12-22,6473,83,
+Butte,Butte,007,2020-12-22,6467,83,
 Calaveras,Calaveras,009,2020-12-22,754,22,
 Colusa,Colusa,011,2020-12-22,1187,8,
 Contra Costa,Contra Costa,013,2020-12-22,35788,298,
@@ -14399,7 +14399,7 @@ Alameda,Alameda,001,2020-12-21,43082,708,
 Berkeley,Alameda,001,2020-12-21,1733,27,
 Alpine,Alpine,003,2020-12-21,64,0,
 Amador,Amador,005,2020-12-21,2081,23,
-Butte,Butte,007,2020-12-21,6344,83,
+Butte,Butte,007,2020-12-21,6335,83,
 Calaveras,Calaveras,009,2020-12-21,722,22,TRUE
 Colusa,Colusa,011,2020-12-21,1112,8,
 Contra Costa,Contra Costa,013,2020-12-21,35322,298,
@@ -14460,7 +14460,7 @@ Alameda,Alameda,001,2020-12-20,42371,691,
 Berkeley,Alameda,001,2020-12-20,1707,27,
 Alpine,Alpine,003,2020-12-20,64,0,
 Amador,Amador,005,2020-12-20,2043,23,
-Butte,Butte,007,2020-12-20,5906,78,TRUE
+Butte,Butte,007,2020-12-20,6228,78,TRUE
 Calaveras,Calaveras,009,2020-12-20,722,22,TRUE
 Colusa,Colusa,011,2020-12-20,1063,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-20,34918,298,
@@ -14521,7 +14521,7 @@ Alameda,Alameda,001,2020-12-19,41532,684,
 Berkeley,Alameda,001,2020-12-19,1672,27,TRUE
 Alpine,Alpine,003,2020-12-19,64,0,
 Amador,Amador,005,2020-12-19,1943,23,
-Butte,Butte,007,2020-12-19,5906,78,TRUE
+Butte,Butte,007,2020-12-19,6118,78,TRUE
 Calaveras,Calaveras,009,2020-12-19,722,22,TRUE
 Colusa,Colusa,011,2020-12-19,1063,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-19,34216,298,
@@ -14582,7 +14582,7 @@ Alameda,Alameda,001,2020-12-18,40650,678,TRUE
 Berkeley,Alameda,001,2020-12-18,1650,22,
 Alpine,Alpine,003,2020-12-18,63,0,TRUE
 Amador,Amador,005,2020-12-18,1846,23,
-Butte,Butte,007,2020-12-18,5906,78,
+Butte,Butte,007,2020-12-18,5891,78,
 Calaveras,Calaveras,009,2020-12-18,722,22,
 Colusa,Colusa,011,2020-12-18,1063,8,
 Contra Costa,Contra Costa,013,2020-12-18,33713,297,
@@ -14643,7 +14643,7 @@ Alameda,Alameda,001,2020-12-17,40017,669,
 Berkeley,Alameda,001,2020-12-17,1626,22,
 Alpine,Alpine,003,2020-12-17,63,0,TRUE
 Amador,Amador,005,2020-12-17,1788,21,
-Butte,Butte,007,2020-12-17,5765,75,
+Butte,Butte,007,2020-12-17,5746,75,
 Calaveras,Calaveras,009,2020-12-17,677,22,TRUE
 Colusa,Colusa,011,2020-12-17,1050,8,
 Contra Costa,Contra Costa,013,2020-12-17,33072,290,
@@ -14704,7 +14704,7 @@ Alameda,Alameda,001,2020-12-16,39263,657,
 Berkeley,Alameda,001,2020-12-16,1608,22,
 Alpine,Alpine,003,2020-12-16,63,0,TRUE
 Amador,Amador,005,2020-12-16,1748,20,
-Butte,Butte,007,2020-12-16,5668,74,
+Butte,Butte,007,2020-12-16,5659,74,
 Calaveras,Calaveras,009,2020-12-16,677,22,TRUE
 Colusa,Colusa,011,2020-12-16,1034,8,
 Contra Costa,Contra Costa,013,2020-12-16,32526,290,
@@ -14765,7 +14765,7 @@ Alameda,Alameda,001,2020-12-15,38627,643,
 Berkeley,Alameda,001,2020-12-15,1589,22,
 Alpine,Alpine,003,2020-12-15,63,0,TRUE
 Amador,Amador,005,2020-12-15,1711,20,
-Butte,Butte,007,2020-12-15,5574,67,
+Butte,Butte,007,2020-12-15,5565,67,
 Calaveras,Calaveras,009,2020-12-15,677,22,
 Colusa,Colusa,011,2020-12-15,1015,8,
 Contra Costa,Contra Costa,013,2020-12-15,31516,279,
@@ -14826,7 +14826,7 @@ Alameda,Alameda,001,2020-12-14,37939,638,
 Berkeley,Alameda,001,2020-12-14,1574,22,
 Alpine,Alpine,003,2020-12-14,63,0,TRUE
 Amador,Amador,005,2020-12-14,1681,20,
-Butte,Butte,007,2020-12-14,4912,67,TRUE
+Butte,Butte,007,2020-12-14,5202,67,TRUE
 Calaveras,Calaveras,009,2020-12-14,642,22,TRUE
 Colusa,Colusa,011,2020-12-14,991,8,
 Contra Costa,Contra Costa,013,2020-12-14,30685,279,
@@ -14887,7 +14887,7 @@ Alameda,Alameda,001,2020-12-13,37234,628,TRUE
 Berkeley,Alameda,001,2020-12-13,1550,22,
 Alpine,Alpine,003,2020-12-13,63,0,TRUE
 Amador,Amador,005,2020-12-13,1637,19,
-Butte,Butte,007,2020-12-13,4912,67,TRUE
+Butte,Butte,007,2020-12-13,5103,67,TRUE
 Calaveras,Calaveras,009,2020-12-13,642,22,TRUE
 Colusa,Colusa,011,2020-12-13,921,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-13,29760,279,
@@ -14948,7 +14948,7 @@ Alameda,Alameda,001,2020-12-12,36252,617,
 Berkeley,Alameda,001,2020-12-12,1532,20,TRUE
 Alpine,Alpine,003,2020-12-12,63,0,TRUE
 Amador,Amador,005,2020-12-12,1513,19,
-Butte,Butte,007,2020-12-12,4912,67,TRUE
+Butte,Butte,007,2020-12-12,4972,67,TRUE
 Calaveras,Calaveras,009,2020-12-12,642,22,TRUE
 Colusa,Colusa,011,2020-12-12,921,8,TRUE
 Contra Costa,Contra Costa,013,2020-12-12,29599,279,
@@ -15009,7 +15009,7 @@ Alameda,Alameda,001,2020-12-11,35234,609,
 Berkeley,Alameda,001,2020-12-11,1484,20,
 Alpine,Alpine,003,2020-12-11,,,TRUE
 Amador,Amador,005,2020-12-11,1289,19,
-Butte,Butte,007,2020-12-11,4912,67,
+Butte,Butte,007,2020-12-11,4941,67,
 Calaveras,Calaveras,009,2020-12-11,642,22,
 Colusa,Colusa,011,2020-12-11,921,8,
 Contra Costa,Contra Costa,013,2020-12-11,29124,279,
@@ -15070,7 +15070,7 @@ Alameda,Alameda,001,2020-12-10,34637,595,
 Berkeley,Alameda,001,2020-12-10,1460,16,
 Alpine,Alpine,003,2020-12-10,63,0,
 Amador,Amador,005,2020-12-10,1227,19,
-Butte,Butte,007,2020-12-10,4829,64,
+Butte,Butte,007,2020-12-10,4863,64,
 Calaveras,Calaveras,009,2020-12-10,588,22,TRUE
 Colusa,Colusa,011,2020-12-10,908,7,
 Contra Costa,Contra Costa,013,2020-12-10,28487,273,
@@ -15131,7 +15131,7 @@ Alameda,Alameda,001,2020-12-09,34033,587,
 Berkeley,Alameda,001,2020-12-09,1427,15,
 Alpine,Alpine,003,2020-12-09,57,0,TRUE
 Amador,Amador,005,2020-12-09,1203,18,
-Butte,Butte,007,2020-12-09,4757,62,
+Butte,Butte,007,2020-12-09,4733,62,
 Calaveras,Calaveras,009,2020-12-09,588,22,TRUE
 Colusa,Colusa,011,2020-12-09,895,7,
 Contra Costa,Contra Costa,013,2020-12-09,28391,270,
@@ -15192,7 +15192,7 @@ Alameda,Alameda,001,2020-12-08,33527,577,
 Berkeley,Alameda,001,2020-12-08,1390,14,
 Alpine,Alpine,003,2020-12-08,57,0,TRUE
 Amador,Amador,005,2020-12-08,1162,18,
-Butte,Butte,007,2020-12-08,4706,62,
+Butte,Butte,007,2020-12-08,4651,62,
 Calaveras,Calaveras,009,2020-12-08,588,22,
 Colusa,Colusa,011,2020-12-08,885,7,
 Contra Costa,Contra Costa,013,2020-12-08,28088,267,
@@ -15253,7 +15253,7 @@ Alameda,Alameda,001,2020-12-07,32766,574,
 Berkeley,Alameda,001,2020-12-07,1366,14,
 Alpine,Alpine,003,2020-12-07,57,0,TRUE
 Amador,Amador,005,2020-12-07,1137,17,
-Butte,Butte,007,2020-12-07,4638,62,
+Butte,Butte,007,2020-12-07,4604,62,
 Calaveras,Calaveras,009,2020-12-07,556,22,TRUE
 Colusa,Colusa,011,2020-12-07,823,7,
 Contra Costa,Contra Costa,013,2020-12-07,27455,267,
@@ -15314,7 +15314,7 @@ Alameda,Alameda,001,2020-12-06,32373,566,
 Berkeley,Alameda,001,2020-12-06,1351,13,
 Alpine,Alpine,003,2020-12-06,57,0,TRUE
 Amador,Amador,005,2020-12-06,1020,17,
-Butte,Butte,007,2020-12-06,4417,60,TRUE
+Butte,Butte,007,2020-12-06,4527,60,TRUE
 Calaveras,Calaveras,009,2020-12-06,556,22,TRUE
 Colusa,Colusa,011,2020-12-06,789,6,TRUE
 Contra Costa,Contra Costa,013,2020-12-06,26703,267,
@@ -15375,7 +15375,7 @@ Alameda,Alameda,001,2020-12-05,31774,560,
 Berkeley,Alameda,001,2020-12-05,1334,13,
 Alpine,Alpine,003,2020-12-05,57,0,TRUE
 Amador,Amador,005,2020-12-05,991,17,
-Butte,Butte,007,2020-12-05,4417,60,TRUE
+Butte,Butte,007,2020-12-05,4455,60,TRUE
 Calaveras,Calaveras,009,2020-12-05,556,22,TRUE
 Colusa,Colusa,011,2020-12-05,789,6,TRUE
 Contra Costa,Contra Costa,013,2020-12-05,26355,267,
@@ -15436,7 +15436,7 @@ Alameda,Alameda,001,2020-12-04,31149,555,
 Berkeley,Alameda,001,2020-12-04,1279,13,
 Alpine,Alpine,003,2020-12-04,57,0,TRUE
 Amador,Amador,005,2020-12-04,917,17,
-Butte,Butte,007,2020-12-04,4417,60,
+Butte,Butte,007,2020-12-04,4336,60,
 Calaveras,Calaveras,009,2020-12-04,556,22,
 Colusa,Colusa,011,2020-12-04,789,6,
 Contra Costa,Contra Costa,013,2020-12-04,25768,262,
@@ -15497,7 +15497,7 @@ Alameda,Alameda,001,2020-12-03,30565,540,
 Berkeley,Alameda,001,2020-12-03,1254,13,
 Alpine,Alpine,003,2020-12-03,57,0,
 Amador,Amador,005,2020-12-03,832,16,
-Butte,Butte,007,2020-12-03,4302,60,
+Butte,Butte,007,2020-12-03,4305,60,
 Calaveras,Calaveras,009,2020-12-03,498,22,TRUE
 Colusa,Colusa,011,2020-12-03,767,6,
 Contra Costa,Contra Costa,013,2020-12-03,25588,262,
@@ -15558,7 +15558,7 @@ Alameda,Alameda,001,2020-12-02,30014,536,
 Berkeley,Alameda,001,2020-12-02,1216,10,
 Alpine,Alpine,003,2020-12-02,51,0,TRUE
 Amador,Amador,005,2020-12-02,740,16,
-Butte,Butte,007,2020-12-02,4244,60,
+Butte,Butte,007,2020-12-02,4243,60,
 Calaveras,Calaveras,009,2020-12-02,498,22,TRUE
 Colusa,Colusa,011,2020-12-02,754,6,
 Contra Costa,Contra Costa,013,2020-12-02,25264,261,
@@ -15619,7 +15619,7 @@ Alameda,Alameda,001,2020-12-01,29732,533,
 Berkeley,Alameda,001,2020-12-01,1178,10,
 Alpine,Alpine,003,2020-12-01,51,0,TRUE
 Amador,Amador,005,2020-12-01,666,16,
-Butte,Butte,007,2020-12-01,4195,60,
+Butte,Butte,007,2020-12-01,4177,60,
 Calaveras,Calaveras,009,2020-12-01,498,22,
 Colusa,Colusa,011,2020-12-01,747,6,
 Contra Costa,Contra Costa,013,2020-12-01,24914,261,
@@ -15680,7 +15680,7 @@ Alameda,Alameda,001,2020-11-30,29322,529,
 Berkeley,Alameda,001,2020-11-30,1162,10,
 Alpine,Alpine,003,2020-11-30,51,0,
 Amador,Amador,005,2020-11-30,638,16,
-Butte,Butte,007,2020-11-30,4131,60,
+Butte,Butte,007,2020-11-30,4148,60,
 Calaveras,Calaveras,009,2020-11-30,450,22,
 Colusa,Colusa,011,2020-11-30,737,6,
 Contra Costa,Contra Costa,013,2020-11-30,24475,261,
@@ -15741,7 +15741,7 @@ Alameda,Alameda,001,2020-11-29,28943,525,
 Berkeley,Alameda,001,2020-11-29,1158,10,
 Alpine,Alpine,003,2020-11-29,50,0,TRUE
 Amador,Amador,005,2020-11-29,590,16,
-Butte,Butte,007,2020-11-29,3853,59,TRUE
+Butte,Butte,007,2020-11-29,4008,59,TRUE
 Calaveras,Calaveras,009,2020-11-29,450,22,TRUE
 Colusa,Colusa,011,2020-11-29,694,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-29,24275,261,
@@ -15802,7 +15802,7 @@ Alameda,Alameda,001,2020-11-28,28641,516,
 Berkeley,Alameda,001,2020-11-28,1147,10,TRUE
 Alpine,Alpine,003,2020-11-28,50,0,TRUE
 Amador,Amador,005,2020-11-28,563,16,
-Butte,Butte,007,2020-11-28,3853,59,TRUE
+Butte,Butte,007,2020-11-28,3894,59,TRUE
 Calaveras,Calaveras,009,2020-11-28,450,22,TRUE
 Colusa,Colusa,011,2020-11-28,694,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-28,23895,261,
@@ -15863,7 +15863,7 @@ Alameda,Alameda,001,2020-11-27,28479,513,
 Berkeley,Alameda,001,2020-11-27,1135,10,
 Alpine,Alpine,003,2020-11-27,50,0,
 Amador,Amador,005,2020-11-27,554,16,
-Butte,Butte,007,2020-11-27,3853,59,TRUE
+Butte,Butte,007,2020-11-27,3894,59,TRUE
 Calaveras,Calaveras,009,2020-11-27,450,22,TRUE
 Colusa,Colusa,011,2020-11-27,694,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-27,23571,261,TRUE
@@ -15924,7 +15924,7 @@ Alameda,Alameda,001,2020-11-26,28070,507,TRUE
 Berkeley,Alameda,001,2020-11-26,1127,10,TRUE
 Alpine,Alpine,003,2020-11-26,47,0,TRUE
 Amador,Amador,005,2020-11-26,520,15,
-Butte,Butte,007,2020-11-26,3853,59,TRUE
+Butte,Butte,007,2020-11-26,3894,59,TRUE
 Calaveras,Calaveras,009,2020-11-26,450,22,TRUE
 Colusa,Colusa,011,2020-11-26,694,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-26,23571,261,
@@ -15985,7 +15985,7 @@ Alameda,Alameda,001,2020-11-25,27829,498,
 Berkeley,Alameda,001,2020-11-25,1119,10,
 Alpine,Alpine,003,2020-11-25,47,0,TRUE
 Amador,Amador,005,2020-11-25,448,15,
-Butte,Butte,007,2020-11-25,3853,59,
+Butte,Butte,007,2020-11-25,3848,59,
 Calaveras,Calaveras,009,2020-11-25,450,22,TRUE
 Colusa,Colusa,011,2020-11-25,694,6,
 Contra Costa,Contra Costa,013,2020-11-25,23381,260,
@@ -16046,7 +16046,7 @@ Alameda,Alameda,001,2020-11-24,27554,495,
 Berkeley,Alameda,001,2020-11-24,1109,10,
 Alpine,Alpine,003,2020-11-24,47,0,
 Amador,Amador,005,2020-11-24,445,15,
-Butte,Butte,007,2020-11-24,3812,59,
+Butte,Butte,007,2020-11-24,3798,59,
 Calaveras,Calaveras,009,2020-11-24,450,22,
 Colusa,Colusa,011,2020-11-24,680,6,
 Contra Costa,Contra Costa,013,2020-11-24,23146,258,
@@ -16107,7 +16107,7 @@ Alameda,Alameda,001,2020-11-23,27027,492,
 Berkeley,Alameda,001,2020-11-23,1086,10,
 Alpine,Alpine,003,2020-11-23,42,0,TRUE
 Amador,Amador,005,2020-11-23,432,15,
-Butte,Butte,007,2020-11-23,3762,59,
+Butte,Butte,007,2020-11-23,3765,59,
 Calaveras,Calaveras,009,2020-11-23,422,21,TRUE
 Colusa,Colusa,011,2020-11-23,663,6,
 Contra Costa,Contra Costa,013,2020-11-23,22747,258,
@@ -16168,7 +16168,7 @@ Alameda,Alameda,001,2020-11-22,26787,486,
 Berkeley,Alameda,001,2020-11-22,1073,10,
 Alpine,Alpine,003,2020-11-22,42,0,TRUE
 Amador,Amador,005,2020-11-22,413,15,TRUE
-Butte,Butte,007,2020-11-22,3624,59,TRUE
+Butte,Butte,007,2020-11-22,3712,59,TRUE
 Calaveras,Calaveras,009,2020-11-22,422,21,TRUE
 Colusa,Colusa,011,2020-11-22,639,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-22,22482,258,
@@ -16229,7 +16229,7 @@ Alameda,Alameda,001,2020-11-21,26540,481,
 Berkeley,Alameda,001,2020-11-21,1064,10,
 Alpine,Alpine,003,2020-11-21,42,0,TRUE
 Amador,Amador,005,2020-11-21,413,15,TRUE
-Butte,Butte,007,2020-11-21,3624,59,TRUE
+Butte,Butte,007,2020-11-21,3664,59,TRUE
 Calaveras,Calaveras,009,2020-11-21,422,21,TRUE
 Colusa,Colusa,011,2020-11-21,639,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-21,22412,258,
@@ -16290,7 +16290,7 @@ Alameda,Alameda,001,2020-11-20,26345,481,
 Berkeley,Alameda,001,2020-11-20,1060,10,
 Alpine,Alpine,003,2020-11-20,42,0,
 Amador,Amador,005,2020-11-20,413,15,
-Butte,Butte,007,2020-11-20,3624,59,
+Butte,Butte,007,2020-11-20,3618,59,
 Calaveras,Calaveras,009,2020-11-20,422,21,
 Colusa,Colusa,011,2020-11-20,639,6,
 Contra Costa,Contra Costa,013,2020-11-20,22191,257,
@@ -16351,7 +16351,7 @@ Alameda,Alameda,001,2020-11-19,26156,477,
 Berkeley,Alameda,001,2020-11-19,1034,10,
 Alpine,Alpine,003,2020-11-19,39,0,
 Amador,Amador,005,2020-11-19,410,15,
-Butte,Butte,007,2020-11-19,3580,58,
+Butte,Butte,007,2020-11-19,3576,58,
 Calaveras,Calaveras,009,2020-11-19,399,21,
 Colusa,Colusa,011,2020-11-19,623,6,
 Contra Costa,Contra Costa,013,2020-11-19,21959,256,
@@ -16412,7 +16412,7 @@ Alameda,Alameda,001,2020-11-18,25885,475,
 Berkeley,Alameda,001,2020-11-18,971,10,
 Alpine,Alpine,003,2020-11-18,39,0,
 Amador,Amador,005,2020-11-18,399,15,
-Butte,Butte,007,2020-11-18,3536,58,
+Butte,Butte,007,2020-11-18,3537,58,
 Calaveras,Calaveras,009,2020-11-18,399,21,TRUE
 Colusa,Colusa,011,2020-11-18,618,6,
 Contra Costa,Contra Costa,013,2020-11-18,21758,255,
@@ -16473,7 +16473,7 @@ Alameda,Alameda,001,2020-11-17,25641,474,
 Berkeley,Alameda,001,2020-11-17,919,10,
 Alpine,Alpine,003,2020-11-17,36,0,TRUE
 Amador,Amador,005,2020-11-17,394,15,
-Butte,Butte,007,2020-11-17,3501,57,
+Butte,Butte,007,2020-11-17,3500,57,
 Calaveras,Calaveras,009,2020-11-17,399,21,
 Colusa,Colusa,011,2020-11-17,608,6,
 Contra Costa,Contra Costa,013,2020-11-17,21630,253,
@@ -16534,7 +16534,7 @@ Alameda,Alameda,001,2020-11-16,25404,473,
 Berkeley,Alameda,001,2020-11-16,898,10,
 Alpine,Alpine,003,2020-11-16,36,0,
 Amador,Amador,005,2020-11-16,388,15,
-Butte,Butte,007,2020-11-16,3462,57,
+Butte,Butte,007,2020-11-16,3490,57,
 Calaveras,Calaveras,009,2020-11-16,390,21,TRUE
 Colusa,Colusa,011,2020-11-16,603,6,
 Contra Costa,Contra Costa,013,2020-11-16,21458,253,
@@ -16595,7 +16595,7 @@ Alameda,Alameda,001,2020-11-15,25204,470,
 Berkeley,Alameda,001,2020-11-15,888,10,
 Alpine,Alpine,003,2020-11-15,30,0,TRUE
 Amador,Amador,005,2020-11-15,368,15,TRUE
-Butte,Butte,007,2020-11-15,3399,56,TRUE
+Butte,Butte,007,2020-11-15,3452,56,TRUE
 Calaveras,Calaveras,009,2020-11-15,390,21,TRUE
 Colusa,Colusa,011,2020-11-15,599,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-15,21250,253,
@@ -16656,7 +16656,7 @@ Alameda,Alameda,001,2020-11-14,25006,466,
 Berkeley,Alameda,001,2020-11-14,878,10,
 Alpine,Alpine,003,2020-11-14,30,0,TRUE
 Amador,Amador,005,2020-11-14,368,15,TRUE
-Butte,Butte,007,2020-11-14,3399,56,TRUE
+Butte,Butte,007,2020-11-14,3434,56,TRUE
 Calaveras,Calaveras,009,2020-11-14,390,21,TRUE
 Colusa,Colusa,011,2020-11-14,599,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-14,21046,253,
@@ -16717,7 +16717,7 @@ Alameda,Alameda,001,2020-11-13,24864,464,
 Berkeley,Alameda,001,2020-11-13,868,10,
 Alpine,Alpine,003,2020-11-13,30,0,TRUE
 Amador,Amador,005,2020-11-13,368,15,
-Butte,Butte,007,2020-11-13,3399,56,
+Butte,Butte,007,2020-11-13,3402,56,
 Calaveras,Calaveras,009,2020-11-13,390,21,
 Colusa,Colusa,011,2020-11-13,599,6,
 Contra Costa,Contra Costa,013,2020-11-13,20868,253,
@@ -16778,7 +16778,7 @@ Alameda,Alameda,001,2020-11-12,24647,463,
 Berkeley,Alameda,001,2020-11-12,859,10,
 Alpine,Alpine,003,2020-11-12,30,0,
 Amador,Amador,005,2020-11-12,361,15,
-Butte,Butte,007,2020-11-12,3371,56,
+Butte,Butte,007,2020-11-12,3347,56,
 Calaveras,Calaveras,009,2020-11-12,373,21,TRUE
 Colusa,Colusa,011,2020-11-12,593,6,
 Contra Costa,Contra Costa,013,2020-11-12,20570,252,
@@ -16839,7 +16839,7 @@ Alameda,Alameda,001,2020-11-11,24449,462,
 Berkeley,Alameda,001,2020-11-11,852,10,
 Alpine,Alpine,003,2020-11-11,26,0,TRUE
 Amador,Amador,005,2020-11-11,353,15,TRUE
-Butte,Butte,007,2020-11-11,3318,56,TRUE
+Butte,Butte,007,2020-11-11,3348,56,TRUE
 Calaveras,Calaveras,009,2020-11-11,373,21,TRUE
 Colusa,Colusa,011,2020-11-11,591,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-11,20418,252,
@@ -16900,7 +16900,7 @@ Alameda,Alameda,001,2020-11-10,24359,460,
 Berkeley,Alameda,001,2020-11-10,850,10,
 Alpine,Alpine,003,2020-11-10,26,0,
 Amador,Amador,005,2020-11-10,353,15,
-Butte,Butte,007,2020-11-10,3318,56,
+Butte,Butte,007,2020-11-10,3327,56,
 Calaveras,Calaveras,009,2020-11-10,373,21,
 Colusa,Colusa,011,2020-11-10,591,6,
 Contra Costa,Contra Costa,013,2020-11-10,20268,253,
@@ -16961,7 +16961,7 @@ Alameda,Alameda,001,2020-11-09,24228,459,
 Berkeley,Alameda,001,2020-11-09,843,10,
 Alpine,Alpine,003,2020-11-09,25,0,
 Amador,Amador,005,2020-11-09,348,15,
-Butte,Butte,007,2020-11-09,3297,56,
+Butte,Butte,007,2020-11-09,3301,56,
 Calaveras,Calaveras,009,2020-11-09,366,21,TRUE
 Colusa,Colusa,011,2020-11-09,584,6,
 Contra Costa,Contra Costa,013,2020-11-09,20166,253,
@@ -17022,7 +17022,7 @@ Alameda,Alameda,001,2020-11-08,24081,457,
 Berkeley,Alameda,001,2020-11-08,837,10,
 Alpine,Alpine,003,2020-11-08,23,0,TRUE
 Amador,Amador,005,2020-11-08,338,15,TRUE
-Butte,Butte,007,2020-11-08,3229,54,TRUE
+Butte,Butte,007,2020-11-08,3285,54,TRUE
 Calaveras,Calaveras,009,2020-11-08,366,21,TRUE
 Colusa,Colusa,011,2020-11-08,581,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-08,20016,253,
@@ -17083,7 +17083,7 @@ Alameda,Alameda,001,2020-11-07,23913,457,
 Berkeley,Alameda,001,2020-11-07,830,10,
 Alpine,Alpine,003,2020-11-07,23,0,TRUE
 Amador,Amador,005,2020-11-07,338,15,TRUE
-Butte,Butte,007,2020-11-07,3229,54,TRUE
+Butte,Butte,007,2020-11-07,3277,54,TRUE
 Calaveras,Calaveras,009,2020-11-07,366,21,TRUE
 Colusa,Colusa,011,2020-11-07,581,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-07,19932,251,
@@ -17144,7 +17144,7 @@ Alameda,Alameda,001,2020-11-06,23719,456,
 Berkeley,Alameda,001,2020-11-06,822,10,
 Alpine,Alpine,003,2020-11-06,23,0,
 Amador,Amador,005,2020-11-06,338,15,
-Butte,Butte,007,2020-11-06,3229,54,
+Butte,Butte,007,2020-11-06,3254,54,
 Calaveras,Calaveras,009,2020-11-06,366,21,
 Colusa,Colusa,011,2020-11-06,581,6,
 Contra Costa,Contra Costa,013,2020-11-06,19785,250,
@@ -17205,7 +17205,7 @@ Alameda,Alameda,001,2020-11-05,23579,454,
 Berkeley,Alameda,001,2020-11-05,818,10,
 Alpine,Alpine,003,2020-11-05,22,0,
 Amador,Amador,005,2020-11-05,332,15,
-Butte,Butte,007,2020-11-05,3225,54,
+Butte,Butte,007,2020-11-05,3239,54,
 Calaveras,Calaveras,009,2020-11-05,361,21,TRUE
 Colusa,Colusa,011,2020-11-05,576,6,
 Contra Costa,Contra Costa,013,2020-11-05,19685,250,
@@ -17266,7 +17266,7 @@ Alameda,Alameda,001,2020-11-04,23454,452,
 Berkeley,Alameda,001,2020-11-04,807,10,
 Alpine,Alpine,003,2020-11-04,18,0,TRUE
 Amador,Amador,005,2020-11-04,326,15,TRUE
-Butte,Butte,007,2020-11-04,3207,54,
+Butte,Butte,007,2020-11-04,3218,54,
 Calaveras,Calaveras,009,2020-11-04,361,21,TRUE
 Colusa,Colusa,011,2020-11-04,576,6,
 Contra Costa,Contra Costa,013,2020-11-04,19517,248,
@@ -17327,7 +17327,7 @@ Alameda,Alameda,001,2020-11-03,23386,451,
 Berkeley,Alameda,001,2020-11-03,803,10,
 Alpine,Alpine,003,2020-11-03,18,0,
 Amador,Amador,005,2020-11-03,326,15,
-Butte,Butte,007,2020-11-03,3190,54,
+Butte,Butte,007,2020-11-03,3211,54,
 Calaveras,Calaveras,009,2020-11-03,361,21,
 Colusa,Colusa,011,2020-11-03,572,6,
 Contra Costa,Contra Costa,013,2020-11-03,19408,247,
@@ -17388,7 +17388,7 @@ Alameda,Alameda,001,2020-11-02,23285,451,
 Berkeley,Alameda,001,2020-11-02,801,10,
 Alpine,Alpine,003,2020-11-02,16,0,
 Amador,Amador,005,2020-11-02,323,15,
-Butte,Butte,007,2020-11-02,3186,54,
+Butte,Butte,007,2020-11-02,3198,54,
 Calaveras,Calaveras,009,2020-11-02,354,21,TRUE
 Colusa,Colusa,011,2020-11-02,572,6,
 Contra Costa,Contra Costa,013,2020-11-02,19337,247,
@@ -17449,7 +17449,7 @@ Alameda,Alameda,001,2020-11-01,23218,451,
 Berkeley,Alameda,001,2020-11-01,792,10,
 Alpine,Alpine,003,2020-11-01,8,0,TRUE
 Amador,Amador,005,2020-11-01,311,15,TRUE
-Butte,Butte,007,2020-11-01,3144,53,TRUE
+Butte,Butte,007,2020-11-01,3185,53,TRUE
 Calaveras,Calaveras,009,2020-11-01,354,21,TRUE
 Colusa,Colusa,011,2020-11-01,557,6,TRUE
 Contra Costa,Contra Costa,013,2020-11-01,19254,247,
@@ -17510,7 +17510,7 @@ Alameda,Alameda,001,2020-10-31,23092,447,
 Berkeley,Alameda,001,2020-10-31,787,10,
 Alpine,Alpine,003,2020-10-31,8,0,
 Amador,Amador,005,2020-10-31,311,15,TRUE
-Butte,Butte,007,2020-10-31,3144,53,TRUE
+Butte,Butte,007,2020-10-31,3172,53,TRUE
 Calaveras,Calaveras,009,2020-10-31,354,21,TRUE
 Colusa,Colusa,011,2020-10-31,557,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-31,19195,246,
@@ -17571,7 +17571,7 @@ Alameda,Alameda,001,2020-10-30,22981,446,
 Berkeley,Alameda,001,2020-10-30,779,10,
 Alpine,Alpine,003,2020-10-30,8,0,TRUE
 Amador,Amador,005,2020-10-30,311,15,
-Butte,Butte,007,2020-10-30,3144,53,
+Butte,Butte,007,2020-10-30,3160,53,
 Calaveras,Calaveras,009,2020-10-30,354,21,
 Colusa,Colusa,011,2020-10-30,557,6,
 Contra Costa,Contra Costa,013,2020-10-30,19086,246,
@@ -17632,7 +17632,7 @@ Alameda,Alameda,001,2020-10-29,22917,446,
 Berkeley,Alameda,001,2020-10-29,778,10,
 Alpine,Alpine,003,2020-10-29,8,0,
 Amador,Amador,005,2020-10-29,308,15,
-Butte,Butte,007,2020-10-29,3127,53,
+Butte,Butte,007,2020-10-29,3143,53,
 Calaveras,Calaveras,009,2020-10-29,347,21,TRUE
 Colusa,Colusa,011,2020-10-29,555,6,
 Contra Costa,Contra Costa,013,2020-10-29,18981,246,
@@ -17693,7 +17693,7 @@ Alameda,Alameda,001,2020-10-28,22781,446,
 Berkeley,Alameda,001,2020-10-28,770,10,
 Alpine,Alpine,003,2020-10-28,3,0,TRUE
 Amador,Amador,005,2020-10-28,302,15,
-Butte,Butte,007,2020-10-28,3113,53,
+Butte,Butte,007,2020-10-28,3134,53,
 Calaveras,Calaveras,009,2020-10-28,347,21,TRUE
 Colusa,Colusa,011,2020-10-28,553,6,
 Contra Costa,Contra Costa,013,2020-10-28,18877,243,
@@ -17754,7 +17754,7 @@ Alameda,Alameda,001,2020-10-27,22724,445,
 Berkeley,Alameda,001,2020-10-27,765,10,
 Alpine,Alpine,003,2020-10-27,3,0,TRUE
 Amador,Amador,005,2020-10-27,301,15,
-Butte,Butte,007,2020-10-27,3105,52,
+Butte,Butte,007,2020-10-27,3107,52,
 Calaveras,Calaveras,009,2020-10-27,347,21,
 Colusa,Colusa,011,2020-10-27,553,6,
 Contra Costa,Contra Costa,013,2020-10-27,18817,243,
@@ -17815,7 +17815,7 @@ Alameda,Alameda,001,2020-10-26,22634,444,
 Berkeley,Alameda,001,2020-10-26,762,10,
 Alpine,Alpine,003,2020-10-26,3,0,TRUE
 Amador,Amador,005,2020-10-26,299,15,
-Butte,Butte,007,2020-10-26,3073,52,
+Butte,Butte,007,2020-10-26,3095,52,
 Calaveras,Calaveras,009,2020-10-26,342,18,TRUE
 Colusa,Colusa,011,2020-10-26,551,6,
 Contra Costa,Contra Costa,013,2020-10-26,18763,242,
@@ -17876,7 +17876,7 @@ Alameda,Alameda,001,2020-10-25,22540,443,
 Berkeley,Alameda,001,2020-10-25,758,10,
 Alpine,Alpine,003,2020-10-25,3,0,TRUE
 Amador,Amador,005,2020-10-25,291,15,TRUE
-Butte,Butte,007,2020-10-25,3047,52,TRUE
+Butte,Butte,007,2020-10-25,3087,52,TRUE
 Calaveras,Calaveras,009,2020-10-25,342,18,TRUE
 Colusa,Colusa,011,2020-10-25,550,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-25,18694,242,
@@ -17937,7 +17937,7 @@ Alameda,Alameda,001,2020-10-24,22448,442,
 Berkeley,Alameda,001,2020-10-24,755,10,
 Alpine,Alpine,003,2020-10-24,3,0,TRUE
 Amador,Amador,005,2020-10-24,291,15,TRUE
-Butte,Butte,007,2020-10-24,3047,52,TRUE
+Butte,Butte,007,2020-10-24,3078,52,TRUE
 Calaveras,Calaveras,009,2020-10-24,342,18,TRUE
 Colusa,Colusa,011,2020-10-24,550,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-24,18621,241,
@@ -17998,7 +17998,7 @@ Alameda,Alameda,001,2020-10-23,22386,442,
 Berkeley,Alameda,001,2020-10-23,753,10,
 Alpine,Alpine,003,2020-10-23,3,0,TRUE
 Amador,Amador,005,2020-10-23,291,15,
-Butte,Butte,007,2020-10-23,3047,52,
+Butte,Butte,007,2020-10-23,3059,52,
 Calaveras,Calaveras,009,2020-10-23,342,18,
 Colusa,Colusa,011,2020-10-23,550,6,
 Contra Costa,Contra Costa,013,2020-10-23,18523,241,
@@ -18059,7 +18059,7 @@ Alameda,Alameda,001,2020-10-22,22276,440,
 Berkeley,Alameda,001,2020-10-22,747,10,
 Alpine,Alpine,003,2020-10-22,3,0,TRUE
 Amador,Amador,005,2020-10-22,287,15,
-Butte,Butte,007,2020-10-22,3030,52,
+Butte,Butte,007,2020-10-22,3046,52,
 Calaveras,Calaveras,009,2020-10-22,339,17,TRUE
 Colusa,Colusa,011,2020-10-22,549,6,
 Contra Costa,Contra Costa,013,2020-10-22,18413,240,
@@ -18120,7 +18120,7 @@ Alameda,Alameda,001,2020-10-21,22195,439,
 Berkeley,Alameda,001,2020-10-21,746,10,
 Alpine,Alpine,003,2020-10-21,3,0,TRUE
 Amador,Amador,005,2020-10-21,276,15,
-Butte,Butte,007,2020-10-21,3018,51,
+Butte,Butte,007,2020-10-21,3041,51,
 Calaveras,Calaveras,009,2020-10-21,339,17,TRUE
 Colusa,Colusa,011,2020-10-21,549,6,
 Contra Costa,Contra Costa,013,2020-10-21,18342,240,
@@ -18181,7 +18181,7 @@ Alameda,Alameda,001,2020-10-20,22119,436,
 Berkeley,Alameda,001,2020-10-20,744,10,
 Alpine,Alpine,003,2020-10-20,3,0,TRUE
 Amador,Amador,005,2020-10-20,276,15,
-Butte,Butte,007,2020-10-20,3015,51,
+Butte,Butte,007,2020-10-20,3027,51,
 Calaveras,Calaveras,009,2020-10-20,339,17,
 Colusa,Colusa,011,2020-10-20,548,6,
 Contra Costa,Contra Costa,013,2020-10-20,18273,238,
@@ -18242,7 +18242,7 @@ Alameda,Alameda,001,2020-10-19,22008,430,
 Berkeley,Alameda,001,2020-10-19,743,10,
 Alpine,Alpine,003,2020-10-19,3,0,TRUE
 Amador,Amador,005,2020-10-19,276,15,
-Butte,Butte,007,2020-10-19,3002,51,
+Butte,Butte,007,2020-10-19,3026,51,
 Calaveras,Calaveras,009,2020-10-19,333,17,TRUE
 Colusa,Colusa,011,2020-10-19,547,6,
 Contra Costa,Contra Costa,013,2020-10-19,18214,236,
@@ -18303,7 +18303,7 @@ Alameda,Alameda,001,2020-10-18,21928,430,
 Berkeley,Alameda,001,2020-10-18,740,10,TRUE
 Alpine,Alpine,003,2020-10-18,3,0,TRUE
 Amador,Amador,005,2020-10-18,272,15,TRUE
-Butte,Butte,007,2020-10-18,2961,50,TRUE
+Butte,Butte,007,2020-10-18,3019,50,TRUE
 Calaveras,Calaveras,009,2020-10-18,333,17,TRUE
 Colusa,Colusa,011,2020-10-18,545,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-18,18157,234,
@@ -18364,7 +18364,7 @@ Alameda,Alameda,001,2020-10-17,21781,429,
 Berkeley,Alameda,001,2020-10-17,736,10,
 Alpine,Alpine,003,2020-10-17,3,0,TRUE
 Amador,Amador,005,2020-10-17,272,15,TRUE
-Butte,Butte,007,2020-10-17,2961,50,TRUE
+Butte,Butte,007,2020-10-17,3012,50,TRUE
 Calaveras,Calaveras,009,2020-10-17,333,17,TRUE
 Colusa,Colusa,011,2020-10-17,545,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-17,18054,234,
@@ -18425,7 +18425,7 @@ Alameda,Alameda,001,2020-10-16,21679,429,
 Berkeley,Alameda,001,2020-10-16,735,10,
 Alpine,Alpine,003,2020-10-16,3,0,TRUE
 Amador,Amador,005,2020-10-16,272,15,
-Butte,Butte,007,2020-10-16,2961,50,
+Butte,Butte,007,2020-10-16,3004,50,
 Calaveras,Calaveras,009,2020-10-16,333,17,
 Colusa,Colusa,011,2020-10-16,545,6,
 Contra Costa,Contra Costa,013,2020-10-16,17997,234,
@@ -18486,7 +18486,7 @@ Alameda,Alameda,001,2020-10-15,21645,428,
 Berkeley,Alameda,001,2020-10-15,733,10,
 Alpine,Alpine,003,2020-10-15,3,0,TRUE
 Amador,Amador,005,2020-10-15,272,15,
-Butte,Butte,007,2020-10-15,2958,50,
+Butte,Butte,007,2020-10-15,3000,50,
 Calaveras,Calaveras,009,2020-10-15,331,16,TRUE
 Colusa,Colusa,011,2020-10-15,545,6,
 Contra Costa,Contra Costa,013,2020-10-15,17945,234,
@@ -18547,7 +18547,7 @@ Alameda,Alameda,001,2020-10-14,21602,428,
 Berkeley,Alameda,001,2020-10-14,733,10,
 Alpine,Alpine,003,2020-10-14,3,0,TRUE
 Amador,Amador,005,2020-10-14,271,15,
-Butte,Butte,007,2020-10-14,2948,50,
+Butte,Butte,007,2020-10-14,2995,50,
 Calaveras,Calaveras,009,2020-10-14,331,16,TRUE
 Colusa,Colusa,011,2020-10-14,545,6,
 Contra Costa,Contra Costa,013,2020-10-14,17866,233,
@@ -18608,7 +18608,7 @@ Alameda,Alameda,001,2020-10-13,21566,428,
 Berkeley,Alameda,001,2020-10-13,732,10,
 Alpine,Alpine,003,2020-10-13,3,0,TRUE
 Amador,Amador,005,2020-10-13,270,15,
-Butte,Butte,007,2020-10-13,2946,48,
+Butte,Butte,007,2020-10-13,2992,48,
 Calaveras,Calaveras,009,2020-10-13,331,16,
 Colusa,Colusa,011,2020-10-13,543,6,
 Contra Costa,Contra Costa,013,2020-10-13,17834,231,
@@ -18669,7 +18669,7 @@ Alameda,Alameda,001,2020-10-12,21521,428,
 Berkeley,Alameda,001,2020-10-12,732,10,
 Alpine,Alpine,003,2020-10-12,3,0,TRUE
 Amador,Amador,005,2020-10-12,269,15,
-Butte,Butte,007,2020-10-12,2944,48,
+Butte,Butte,007,2020-10-12,2975,48,
 Calaveras,Calaveras,009,2020-10-12,330,16,TRUE
 Colusa,Colusa,011,2020-10-12,543,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-12,17783,230,
@@ -18730,7 +18730,7 @@ Alameda,Alameda,001,2020-10-11,21458,428,
 Berkeley,Alameda,001,2020-10-11,732,10,
 Alpine,Alpine,003,2020-10-11,3,0,TRUE
 Amador,Amador,005,2020-10-11,267,15,TRUE
-Butte,Butte,007,2020-10-11,2914,48,TRUE
+Butte,Butte,007,2020-10-11,2967,48,TRUE
 Calaveras,Calaveras,009,2020-10-11,330,16,TRUE
 Colusa,Colusa,011,2020-10-11,543,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-11,17732,230,
@@ -18791,7 +18791,7 @@ Alameda,Alameda,001,2020-10-10,21368,427,
 Berkeley,Alameda,001,2020-10-10,730,10,TRUE
 Alpine,Alpine,003,2020-10-10,3,0,TRUE
 Amador,Amador,005,2020-10-10,267,15,TRUE
-Butte,Butte,007,2020-10-10,2914,48,TRUE
+Butte,Butte,007,2020-10-10,2962,48,TRUE
 Calaveras,Calaveras,009,2020-10-10,330,16,TRUE
 Colusa,Colusa,011,2020-10-10,543,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-10,17624,230,
@@ -18852,7 +18852,7 @@ Alameda,Alameda,001,2020-10-09,21302,426,
 Berkeley,Alameda,001,2020-10-09,729,10,
 Alpine,Alpine,003,2020-10-09,3,0,TRUE
 Amador,Amador,005,2020-10-09,267,15,
-Butte,Butte,007,2020-10-09,2914,48,
+Butte,Butte,007,2020-10-09,2956,48,
 Calaveras,Calaveras,009,2020-10-09,330,16,
 Colusa,Colusa,011,2020-10-09,543,6,
 Contra Costa,Contra Costa,013,2020-10-09,17546,228,
@@ -18913,7 +18913,7 @@ Alameda,Alameda,001,2020-10-08,21215,426,
 Berkeley,Alameda,001,2020-10-08,724,10,
 Alpine,Alpine,003,2020-10-08,3,0,TRUE
 Amador,Amador,005,2020-10-08,266,15,
-Butte,Butte,007,2020-10-08,2907,45,
+Butte,Butte,007,2020-10-08,2935,45,
 Calaveras,Calaveras,009,2020-10-08,329,14,TRUE
 Colusa,Colusa,011,2020-10-08,541,6,
 Contra Costa,Contra Costa,013,2020-10-08,17478,227,
@@ -18974,7 +18974,7 @@ Alameda,Alameda,001,2020-10-07,21122,426,
 Berkeley,Alameda,001,2020-10-07,721,10,
 Alpine,Alpine,003,2020-10-07,3,0,TRUE
 Amador,Amador,005,2020-10-07,265,15,
-Butte,Butte,007,2020-10-07,2886,45,
+Butte,Butte,007,2020-10-07,2927,45,
 Calaveras,Calaveras,009,2020-10-07,329,14,TRUE
 Colusa,Colusa,011,2020-10-07,541,6,
 Contra Costa,Contra Costa,013,2020-10-07,17420,224,
@@ -19035,7 +19035,7 @@ Alameda,Alameda,001,2020-10-06,21076,426,
 Berkeley,Alameda,001,2020-10-06,719,10,
 Alpine,Alpine,003,2020-10-06,3,0,TRUE
 Amador,Amador,005,2020-10-06,264,15,
-Butte,Butte,007,2020-10-06,2880,45,
+Butte,Butte,007,2020-10-06,2925,45,
 Calaveras,Calaveras,009,2020-10-06,329,14,
 Colusa,Colusa,011,2020-10-06,540,6,
 Contra Costa,Contra Costa,013,2020-10-06,17365,218,
@@ -19096,7 +19096,7 @@ Alameda,Alameda,001,2020-10-05,21030,426,
 Berkeley,Alameda,001,2020-10-05,719,10,
 Alpine,Alpine,003,2020-10-05,3,0,
 Amador,Amador,005,2020-10-05,264,15,
-Butte,Butte,007,2020-10-05,2874,45,
+Butte,Butte,007,2020-10-05,2910,45,
 Calaveras,Calaveras,009,2020-10-05,324,14,TRUE
 Colusa,Colusa,011,2020-10-05,539,6,
 Contra Costa,Contra Costa,013,2020-10-05,17322,213,
@@ -19157,7 +19157,7 @@ Alameda,Alameda,001,2020-10-04,20980,426,
 Berkeley,Alameda,001,2020-10-04,717,10,TRUE
 Alpine,Alpine,003,2020-10-04,2,0,TRUE
 Amador,Amador,005,2020-10-04,259,15,TRUE
-Butte,Butte,007,2020-10-04,2840,45,TRUE
+Butte,Butte,007,2020-10-04,2903,45,TRUE
 Calaveras,Calaveras,009,2020-10-04,324,14,TRUE
 Colusa,Colusa,011,2020-10-04,538,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-04,17263,212,
@@ -19218,7 +19218,7 @@ Alameda,Alameda,001,2020-10-03,20923,426,
 Berkeley,Alameda,001,2020-10-03,716,10,
 Alpine,Alpine,003,2020-10-03,2,0,TRUE
 Amador,Amador,005,2020-10-03,259,15,TRUE
-Butte,Butte,007,2020-10-03,2840,45,TRUE
+Butte,Butte,007,2020-10-03,2894,45,TRUE
 Calaveras,Calaveras,009,2020-10-03,324,14,TRUE
 Colusa,Colusa,011,2020-10-03,538,6,TRUE
 Contra Costa,Contra Costa,013,2020-10-03,17159,211,
@@ -19279,7 +19279,7 @@ Alameda,Alameda,001,2020-10-02,20812,425,
 Berkeley,Alameda,001,2020-10-02,713,10,
 Alpine,Alpine,003,2020-10-02,2,0,TRUE
 Amador,Amador,005,2020-10-02,259,15,
-Butte,Butte,007,2020-10-02,2840,45,
+Butte,Butte,007,2020-10-02,2879,45,
 Calaveras,Calaveras,009,2020-10-02,324,14,
 Colusa,Colusa,011,2020-10-02,538,6,
 Contra Costa,Contra Costa,013,2020-10-02,17069,211,
@@ -19340,7 +19340,7 @@ Alameda,Alameda,001,2020-10-01,20722,423,
 Berkeley,Alameda,001,2020-10-01,706,10,
 Alpine,Alpine,003,2020-10-01,2,0,TRUE
 Amador,Amador,005,2020-10-01,259,15,
-Butte,Butte,007,2020-10-01,2824,45,
+Butte,Butte,007,2020-10-01,2865,45,
 Calaveras,Calaveras,009,2020-10-01,322,14,TRUE
 Colusa,Colusa,011,2020-10-01,538,6,
 Contra Costa,Contra Costa,013,2020-10-01,16973,209,
@@ -19401,7 +19401,7 @@ Alameda,Alameda,001,2020-09-30,20658,421,
 Berkeley,Alameda,001,2020-09-30,705,10,
 Alpine,Alpine,003,2020-09-30,2,0,TRUE
 Amador,Amador,005,2020-09-30,257,15,
-Butte,Butte,007,2020-09-30,2809,45,
+Butte,Butte,007,2020-09-30,2858,45,
 Calaveras,Calaveras,009,2020-09-30,322,14,TRUE
 Colusa,Colusa,011,2020-09-30,536,6,
 Contra Costa,Contra Costa,013,2020-09-30,16896,209,
@@ -19462,7 +19462,7 @@ Alameda,Alameda,001,2020-09-29,20603,419,
 Berkeley,Alameda,001,2020-09-29,705,10,
 Alpine,Alpine,003,2020-09-29,2,0,TRUE
 Amador,Amador,005,2020-09-29,257,15,
-Butte,Butte,007,2020-09-29,2804,44,
+Butte,Butte,007,2020-09-29,2848,44,
 Calaveras,Calaveras,009,2020-09-29,322,14,
 Colusa,Colusa,011,2020-09-29,535,6,
 Contra Costa,Contra Costa,013,2020-09-29,16793,207,
@@ -19523,7 +19523,7 @@ Alameda,Alameda,001,2020-09-28,20525,418,
 Berkeley,Alameda,001,2020-09-28,702,10,
 Alpine,Alpine,003,2020-09-28,2,0,TRUE
 Amador,Amador,005,2020-09-28,257,15,
-Butte,Butte,007,2020-09-28,2795,44,
+Butte,Butte,007,2020-09-28,2837,44,
 Calaveras,Calaveras,009,2020-09-28,317,14,TRUE
 Colusa,Colusa,011,2020-09-28,532,6,
 Contra Costa,Contra Costa,013,2020-09-28,16702,206,
@@ -19584,7 +19584,7 @@ Alameda,Alameda,001,2020-09-27,20502,416,
 Berkeley,Alameda,001,2020-09-27,696,10,
 Alpine,Alpine,003,2020-09-27,2,0,TRUE
 Amador,Amador,005,2020-09-27,254,15,TRUE
-Butte,Butte,007,2020-09-27,2774,44,TRUE
+Butte,Butte,007,2020-09-27,2833,44,TRUE
 Calaveras,Calaveras,009,2020-09-27,317,14,TRUE
 Colusa,Colusa,011,2020-09-27,529,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-27,16640,206,
@@ -19645,7 +19645,7 @@ Alameda,Alameda,001,2020-09-26,20422,416,
 Berkeley,Alameda,001,2020-09-26,689,10,
 Alpine,Alpine,003,2020-09-26,2,0,TRUE
 Amador,Amador,005,2020-09-26,254,15,TRUE
-Butte,Butte,007,2020-09-26,2774,44,TRUE
+Butte,Butte,007,2020-09-26,2827,44,TRUE
 Calaveras,Calaveras,009,2020-09-26,317,14,TRUE
 Colusa,Colusa,011,2020-09-26,529,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-26,16572,205,
@@ -19706,7 +19706,7 @@ Alameda,Alameda,001,2020-09-25,20318,415,
 Berkeley,Alameda,001,2020-09-25,686,10,
 Alpine,Alpine,003,2020-09-25,2,0,TRUE
 Amador,Amador,005,2020-09-25,254,15,
-Butte,Butte,007,2020-09-25,2774,44,
+Butte,Butte,007,2020-09-25,2819,44,
 Calaveras,Calaveras,009,2020-09-25,317,14,
 Colusa,Colusa,011,2020-09-25,529,6,
 Contra Costa,Contra Costa,013,2020-09-25,16469,205,
@@ -19767,7 +19767,7 @@ Alameda,Alameda,001,2020-09-24,20246,415,
 Berkeley,Alameda,001,2020-09-24,686,10,
 Alpine,Alpine,003,2020-09-24,2,0,TRUE
 Amador,Amador,005,2020-09-24,253,15,
-Butte,Butte,007,2020-09-24,2754,43,
+Butte,Butte,007,2020-09-24,2803,43,
 Calaveras,Calaveras,009,2020-09-24,314,14,
 Colusa,Colusa,011,2020-09-24,527,6,
 Contra Costa,Contra Costa,013,2020-09-24,16327,204,
@@ -19828,7 +19828,7 @@ Alameda,Alameda,001,2020-09-23,20127,414,
 Berkeley,Alameda,001,2020-09-23,680,10,
 Alpine,Alpine,003,2020-09-23,2,0,TRUE
 Amador,Amador,005,2020-09-23,252,15,
-Butte,Butte,007,2020-09-23,2744,43,
+Butte,Butte,007,2020-09-23,2790,43,
 Calaveras,Calaveras,009,2020-09-23,314,14,TRUE
 Colusa,Colusa,011,2020-09-23,524,6,
 Contra Costa,Contra Costa,013,2020-09-23,16238,204,
@@ -19889,7 +19889,7 @@ Alameda,Alameda,001,2020-09-22,20042,414,
 Berkeley,Alameda,001,2020-09-22,676,10,
 Alpine,Alpine,003,2020-09-22,2,0,TRUE
 Amador,Amador,005,2020-09-22,252,15,
-Butte,Butte,007,2020-09-22,2732,40,
+Butte,Butte,007,2020-09-22,2776,40,
 Calaveras,Calaveras,009,2020-09-22,314,14,
 Colusa,Colusa,011,2020-09-22,522,6,
 Contra Costa,Contra Costa,013,2020-09-22,16156,202,
@@ -19950,7 +19950,7 @@ Alameda,Alameda,001,2020-09-21,19988,414,
 Berkeley,Alameda,001,2020-09-21,673,10,
 Alpine,Alpine,003,2020-09-21,2,0,TRUE
 Amador,Amador,005,2020-09-21,251,15,
-Butte,Butte,007,2020-09-21,2720,40,
+Butte,Butte,007,2020-09-21,2769,40,
 Calaveras,Calaveras,009,2020-09-21,311,14,TRUE
 Colusa,Colusa,011,2020-09-21,519,6,
 Contra Costa,Contra Costa,013,2020-09-21,16056,201,
@@ -20011,7 +20011,7 @@ Alameda,Alameda,001,2020-09-20,19896,414,
 Berkeley,Alameda,001,2020-09-20,670,10,TRUE
 Alpine,Alpine,003,2020-09-20,2,0,TRUE
 Amador,Amador,005,2020-09-20,249,15,TRUE
-Butte,Butte,007,2020-09-20,2688,35,TRUE
+Butte,Butte,007,2020-09-20,2764,35,TRUE
 Calaveras,Calaveras,009,2020-09-20,311,14,TRUE
 Colusa,Colusa,011,2020-09-20,509,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-20,15958,201,
@@ -20072,7 +20072,7 @@ Alameda,Alameda,001,2020-09-19,19799,414,
 Berkeley,Alameda,001,2020-09-19,666,10,
 Alpine,Alpine,003,2020-09-19,2,0,TRUE
 Amador,Amador,005,2020-09-19,249,15,TRUE
-Butte,Butte,007,2020-09-19,2688,35,TRUE
+Butte,Butte,007,2020-09-19,2748,35,TRUE
 Calaveras,Calaveras,009,2020-09-19,311,14,TRUE
 Colusa,Colusa,011,2020-09-19,509,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-19,15835,199,
@@ -20133,7 +20133,7 @@ Alameda,Alameda,001,2020-09-18,19700,413,
 Berkeley,Alameda,001,2020-09-18,660,10,
 Alpine,Alpine,003,2020-09-18,2,0,TRUE
 Amador,Amador,005,2020-09-18,249,15,
-Butte,Butte,007,2020-09-18,2688,35,
+Butte,Butte,007,2020-09-18,2738,35,
 Calaveras,Calaveras,009,2020-09-18,311,14,
 Colusa,Colusa,011,2020-09-18,509,6,
 Contra Costa,Contra Costa,013,2020-09-18,15734,199,
@@ -20194,7 +20194,7 @@ Alameda,Alameda,001,2020-09-17,19599,412,
 Berkeley,Alameda,001,2020-09-17,656,10,
 Alpine,Alpine,003,2020-09-17,2,0,TRUE
 Amador,Amador,005,2020-09-17,248,15,TRUE
-Butte,Butte,007,2020-09-17,2674,33,
+Butte,Butte,007,2020-09-17,2720,33,
 Calaveras,Calaveras,009,2020-09-17,305,13,TRUE
 Colusa,Colusa,011,2020-09-17,502,6,
 Contra Costa,Contra Costa,013,2020-09-17,15640,198,
@@ -20255,7 +20255,7 @@ Alameda,Alameda,001,2020-09-16,19479,410,TRUE
 Berkeley,Alameda,001,2020-09-16,654,10,
 Alpine,Alpine,003,2020-09-16,2,0,TRUE
 Amador,Amador,005,2020-09-16,248,15,
-Butte,Butte,007,2020-09-16,2655,33,
+Butte,Butte,007,2020-09-16,2704,33,
 Calaveras,Calaveras,009,2020-09-16,305,13,TRUE
 Colusa,Colusa,011,2020-09-16,499,6,
 Contra Costa,Contra Costa,013,2020-09-16,15544,197,
@@ -20316,7 +20316,7 @@ Alameda,Alameda,001,2020-09-15,19403,409,
 Berkeley,Alameda,001,2020-09-15,648,10,
 Alpine,Alpine,003,2020-09-15,2,0,TRUE
 Amador,Amador,005,2020-09-15,247,15,
-Butte,Butte,007,2020-09-15,2638,31,
+Butte,Butte,007,2020-09-15,2695,31,
 Calaveras,Calaveras,009,2020-09-15,305,13,
 Colusa,Colusa,011,2020-09-15,499,6,
 Contra Costa,Contra Costa,013,2020-09-15,15489,194,
@@ -20377,7 +20377,7 @@ Alameda,Alameda,001,2020-09-14,19347,408,
 Berkeley,Alameda,001,2020-09-14,644,10,
 Alpine,Alpine,003,2020-09-14,2,0,TRUE
 Amador,Amador,005,2020-09-14,246,15,
-Butte,Butte,007,2020-09-14,2592,28,
+Butte,Butte,007,2020-09-14,2642,28,
 Calaveras,Calaveras,009,2020-09-14,298,10,TRUE
 Colusa,Colusa,011,2020-09-14,496,6,
 Contra Costa,Contra Costa,013,2020-09-14,15424,192,
@@ -20438,7 +20438,7 @@ Alameda,Alameda,001,2020-09-13,19296,407,
 Berkeley,Alameda,001,2020-09-13,637,10,
 Alpine,Alpine,003,2020-09-13,2,0,TRUE
 Amador,Amador,005,2020-09-13,245,15,
-Butte,Butte,007,2020-09-13,2550,28,TRUE
+Butte,Butte,007,2020-09-13,2640,28,TRUE
 Calaveras,Calaveras,009,2020-09-13,298,10,TRUE
 Colusa,Colusa,011,2020-09-13,489,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-13,15351,192,
@@ -20499,7 +20499,7 @@ Alameda,Alameda,001,2020-09-12,19226,404,TRUE
 Berkeley,Alameda,001,2020-09-12,636,10,
 Alpine,Alpine,003,2020-09-12,2,0,TRUE
 Amador,Amador,005,2020-09-12,242,15,TRUE
-Butte,Butte,007,2020-09-12,2550,28,TRUE
+Butte,Butte,007,2020-09-12,2629,28,TRUE
 Calaveras,Calaveras,009,2020-09-12,298,10,TRUE
 Colusa,Colusa,011,2020-09-12,489,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-12,15203,191,
@@ -20560,7 +20560,7 @@ Alameda,Alameda,001,2020-09-11,19143,403,
 Berkeley,Alameda,001,2020-09-11,631,10,
 Alpine,Alpine,003,2020-09-11,2,0,TRUE
 Amador,Amador,005,2020-09-11,242,15,
-Butte,Butte,007,2020-09-11,2550,28,
+Butte,Butte,007,2020-09-11,2605,28,
 Calaveras,Calaveras,009,2020-09-11,298,10,
 Colusa,Colusa,011,2020-09-11,489,6,
 Contra Costa,Contra Costa,013,2020-09-11,15058,189,
@@ -20621,7 +20621,7 @@ Alameda,Alameda,001,2020-09-10,19016,401,
 Berkeley,Alameda,001,2020-09-10,614,10,
 Alpine,Alpine,003,2020-09-10,2,0,TRUE
 Amador,Amador,005,2020-09-10,241,15,
-Butte,Butte,007,2020-09-10,2463,28,TRUE
+Butte,Butte,007,2020-09-10,2590,28,TRUE
 Calaveras,Calaveras,009,2020-09-10,286,2,TRUE
 Colusa,Colusa,011,2020-09-10,487,6,
 Contra Costa,Contra Costa,013,2020-09-10,14966,188,
@@ -20682,7 +20682,7 @@ Alameda,Alameda,001,2020-09-09,18919,397,
 Berkeley,Alameda,001,2020-09-09,598,10,
 Alpine,Alpine,003,2020-09-09,2,0,TRUE
 Amador,Amador,005,2020-09-09,241,15,
-Butte,Butte,007,2020-09-09,2463,28,TRUE
+Butte,Butte,007,2020-09-09,2561,28,TRUE
 Calaveras,Calaveras,009,2020-09-09,286,2,TRUE
 Colusa,Colusa,011,2020-09-09,485,6,
 Contra Costa,Contra Costa,013,2020-09-09,14885,187,
@@ -20743,7 +20743,7 @@ Alameda,Alameda,001,2020-09-08,18858,394,
 Berkeley,Alameda,001,2020-09-08,596,10,
 Alpine,Alpine,003,2020-09-08,2,0,TRUE
 Amador,Amador,005,2020-09-08,239,15,
-Butte,Butte,007,2020-09-08,2463,28,
+Butte,Butte,007,2020-09-08,2453,28,
 Calaveras,Calaveras,009,2020-09-08,286,2,
 Colusa,Colusa,011,2020-09-08,478,6,
 Contra Costa,Contra Costa,013,2020-09-08,14712,187,
@@ -20804,7 +20804,7 @@ Alameda,Alameda,001,2020-09-07,18789,393,
 Berkeley,Alameda,001,2020-09-07,589,10,
 Alpine,Alpine,003,2020-09-07,2,0,TRUE
 Amador,Amador,005,2020-09-07,239,15,
-Butte,Butte,007,2020-09-07,2327,23,TRUE
+Butte,Butte,007,2020-09-07,2450,23,TRUE
 Calaveras,Calaveras,009,2020-09-07,273,2,TRUE
 Colusa,Colusa,011,2020-09-07,470,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-07,14712,187,
@@ -20865,7 +20865,7 @@ Alameda,Alameda,001,2020-09-06,18727,390,TRUE
 Berkeley,Alameda,001,2020-09-06,585,10,
 Alpine,Alpine,003,2020-09-06,2,0,TRUE
 Amador,Amador,005,2020-09-06,237,15,TRUE
-Butte,Butte,007,2020-09-06,2327,23,TRUE
+Butte,Butte,007,2020-09-06,2446,23,TRUE
 Calaveras,Calaveras,009,2020-09-06,273,2,TRUE
 Colusa,Colusa,011,2020-09-06,470,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-06,14639,186,
@@ -20926,7 +20926,7 @@ Alameda,Alameda,001,2020-09-05,18586,389,
 Berkeley,Alameda,001,2020-09-05,580,10,
 Alpine,Alpine,003,2020-09-05,2,0,TRUE
 Amador,Amador,005,2020-09-05,237,15,TRUE
-Butte,Butte,007,2020-09-05,2327,23,TRUE
+Butte,Butte,007,2020-09-05,2406,23,TRUE
 Calaveras,Calaveras,009,2020-09-05,273,2,TRUE
 Colusa,Colusa,011,2020-09-05,470,6,TRUE
 Contra Costa,Contra Costa,013,2020-09-05,14527,186,
@@ -20987,7 +20987,7 @@ Alameda,Alameda,001,2020-09-04,18423,388,
 Berkeley,Alameda,001,2020-09-04,574,10,
 Alpine,Alpine,003,2020-09-04,2,0,TRUE
 Amador,Amador,005,2020-09-04,237,15,
-Butte,Butte,007,2020-09-04,2327,23,
+Butte,Butte,007,2020-09-04,2325,23,
 Calaveras,Calaveras,009,2020-09-04,273,2,
 Colusa,Colusa,011,2020-09-04,470,6,
 Contra Costa,Contra Costa,013,2020-09-04,14411,186,
@@ -21048,7 +21048,7 @@ Alameda,Alameda,001,2020-09-03,18300,386,
 Berkeley,Alameda,001,2020-09-03,570,10,
 Alpine,Alpine,003,2020-09-03,2,0,TRUE
 Amador,Amador,005,2020-09-03,237,15,
-Butte,Butte,007,2020-09-03,2254,23,
+Butte,Butte,007,2020-09-03,2274,23,
 Calaveras,Calaveras,009,2020-09-03,257,2,TRUE
 Colusa,Colusa,011,2020-09-03,467,6,
 Contra Costa,Contra Costa,013,2020-09-03,14212,183,
@@ -21109,7 +21109,7 @@ Alameda,Alameda,001,2020-09-02,18150,384,
 Berkeley,Alameda,001,2020-09-02,561,10,
 Alpine,Alpine,003,2020-09-02,2,0,TRUE
 Amador,Amador,005,2020-09-02,237,15,
-Butte,Butte,007,2020-09-02,2208,23,
+Butte,Butte,007,2020-09-02,2241,23,
 Calaveras,Calaveras,009,2020-09-02,257,2,TRUE
 Colusa,Colusa,011,2020-09-02,466,6,
 Contra Costa,Contra Costa,013,2020-09-02,14111,183,
@@ -21231,7 +21231,7 @@ Alameda,Alameda,001,2020-08-31,17904,377,
 Berkeley,Alameda,001,2020-08-31,555,10,
 Alpine,Alpine,003,2020-08-31,2,0,TRUE
 Amador,Amador,005,2020-08-31,236,13,
-Butte,Butte,007,2020-08-31,2026,23,
+Butte,Butte,007,2020-08-31,2069,23,
 Calaveras,Calaveras,009,2020-08-31,236,2,TRUE
 Colusa,Colusa,011,2020-08-31,445,6,
 Contra Costa,Contra Costa,013,2020-08-31,13938,175,
@@ -21292,7 +21292,7 @@ Alameda,Alameda,001,2020-08-30,17726,373,
 Berkeley,Alameda,001,2020-08-30,544,10,
 Alpine,Alpine,003,2020-08-30,2,0,TRUE
 Amador,Amador,005,2020-08-30,234,13,TRUE
-Butte,Butte,007,2020-08-30,1848,23,TRUE
+Butte,Butte,007,2020-08-30,1988,23,TRUE
 Calaveras,Calaveras,009,2020-08-30,236,2,TRUE
 Colusa,Colusa,011,2020-08-30,441,6,TRUE
 Contra Costa,Contra Costa,013,2020-08-30,13802,175,
@@ -21353,7 +21353,7 @@ Alameda,Alameda,001,2020-08-29,17566,371,TRUE
 Berkeley,Alameda,001,2020-08-29,541,10,TRUE
 Alpine,Alpine,003,2020-08-29,2,0,TRUE
 Amador,Amador,005,2020-08-29,234,13,TRUE
-Butte,Butte,007,2020-08-29,1848,23,TRUE
+Butte,Butte,007,2020-08-29,1948,23,TRUE
 Calaveras,Calaveras,009,2020-08-29,236,2,TRUE
 Colusa,Colusa,011,2020-08-29,441,6,TRUE
 Contra Costa,Contra Costa,013,2020-08-29,13700,173,
@@ -21414,7 +21414,7 @@ Alameda,Alameda,001,2020-08-28,17368,370,
 Berkeley,Alameda,001,2020-08-28,533,10,
 Alpine,Alpine,003,2020-08-28,2,0,TRUE
 Amador,Amador,005,2020-08-28,234,13,
-Butte,Butte,007,2020-08-28,1848,23,
+Butte,Butte,007,2020-08-28,1886,23,
 Calaveras,Calaveras,009,2020-08-28,236,2,
 Colusa,Colusa,011,2020-08-28,441,6,
 Contra Costa,Contra Costa,013,2020-08-28,13562,173,
@@ -21475,7 +21475,7 @@ Alameda,Alameda,001,2020-08-27,17190,365,
 Berkeley,Alameda,001,2020-08-27,526,10,
 Alpine,Alpine,003,2020-08-27,2,0,TRUE
 Amador,Amador,005,2020-08-27,232,13,
-Butte,Butte,007,2020-08-27,1815,21,
+Butte,Butte,007,2020-08-27,1803,21,
 Calaveras,Calaveras,009,2020-08-27,223,2,TRUE
 Colusa,Colusa,011,2020-08-27,439,6,
 Contra Costa,Contra Costa,013,2020-08-27,13398,173,
@@ -21536,7 +21536,7 @@ Alameda,Alameda,001,2020-08-26,16990,362,
 Berkeley,Alameda,001,2020-08-26,522,10,
 Alpine,Alpine,003,2020-08-26,2,0,TRUE
 Amador,Amador,005,2020-08-26,231,13,
-Butte,Butte,007,2020-08-26,1744,21,
+Butte,Butte,007,2020-08-26,1765,21,
 Calaveras,Calaveras,009,2020-08-26,223,2,TRUE
 Colusa,Colusa,011,2020-08-26,434,6,
 Contra Costa,Contra Costa,013,2020-08-26,13259,172,
@@ -21597,7 +21597,7 @@ Alameda,Alameda,001,2020-08-25,16855,356,
 Berkeley,Alameda,001,2020-08-25,519,10,
 Alpine,Alpine,003,2020-08-25,2,0,TRUE
 Amador,Amador,005,2020-08-25,226,13,
-Butte,Butte,007,2020-08-25,1699,18,
+Butte,Butte,007,2020-08-25,1718,18,
 Calaveras,Calaveras,009,2020-08-25,223,2,
 Colusa,Colusa,011,2020-08-25,429,5,
 Contra Costa,Contra Costa,013,2020-08-25,13123,171,
@@ -21658,7 +21658,7 @@ Alameda,Alameda,001,2020-08-24,16704,349,
 Berkeley,Alameda,001,2020-08-24,516,10,
 Alpine,Alpine,003,2020-08-24,2,0,TRUE
 Amador,Amador,005,2020-08-24,224,13,
-Butte,Butte,007,2020-08-24,1664,18,
+Butte,Butte,007,2020-08-24,1649,18,
 Calaveras,Calaveras,009,2020-08-24,197,2,TRUE
 Colusa,Colusa,011,2020-08-24,426,5,
 Contra Costa,Contra Costa,013,2020-08-24,12869,169,
@@ -21719,7 +21719,7 @@ Alameda,Alameda,001,2020-08-23,16587,345,
 Berkeley,Alameda,001,2020-08-23,512,10,
 Alpine,Alpine,003,2020-08-23,2,0,TRUE
 Amador,Amador,005,2020-08-23,221,13,TRUE
-Butte,Butte,007,2020-08-23,1555,17,TRUE
+Butte,Butte,007,2020-08-23,1637,17,TRUE
 Calaveras,Calaveras,009,2020-08-23,197,2,TRUE
 Colusa,Colusa,011,2020-08-23,419,5,TRUE
 Contra Costa,Contra Costa,013,2020-08-23,12663,169,
@@ -21780,7 +21780,7 @@ Alameda,Alameda,001,2020-08-22,16261,343,
 Berkeley,Alameda,001,2020-08-22,506,8,TRUE
 Alpine,Alpine,003,2020-08-22,2,0,TRUE
 Amador,Amador,005,2020-08-22,221,13,TRUE
-Butte,Butte,007,2020-08-22,1555,17,TRUE
+Butte,Butte,007,2020-08-22,1618,17,TRUE
 Calaveras,Calaveras,009,2020-08-22,197,2,TRUE
 Colusa,Colusa,011,2020-08-22,419,5,TRUE
 Contra Costa,Contra Costa,013,2020-08-22,12527,168,
@@ -21841,7 +21841,7 @@ Alameda,Alameda,001,2020-08-21,16056,337,
 Berkeley,Alameda,001,2020-08-21,501,8,
 Alpine,Alpine,003,2020-08-21,2,0,TRUE
 Amador,Amador,005,2020-08-21,221,13,
-Butte,Butte,007,2020-08-21,1555,17,
+Butte,Butte,007,2020-08-21,1582,17,
 Calaveras,Calaveras,009,2020-08-21,197,2,
 Colusa,Colusa,011,2020-08-21,419,5,
 Contra Costa,Contra Costa,013,2020-08-21,12362,164,
@@ -21902,7 +21902,7 @@ Alameda,Alameda,001,2020-08-20,15797,332,
 Berkeley,Alameda,001,2020-08-20,491,8,
 Alpine,Alpine,003,2020-08-20,2,0,TRUE
 Amador,Amador,005,2020-08-20,220,13,
-Butte,Butte,007,2020-08-20,1537,17,
+Butte,Butte,007,2020-08-20,1549,17,
 Calaveras,Calaveras,009,2020-08-20,181,1,TRUE
 Colusa,Colusa,011,2020-08-20,418,5,
 Contra Costa,Contra Costa,013,2020-08-20,12046,161,
@@ -21963,7 +21963,7 @@ Alameda,Alameda,001,2020-08-19,15567,326,
 Berkeley,Alameda,001,2020-08-19,489,8,
 Alpine,Alpine,003,2020-08-19,2,0,TRUE
 Amador,Amador,005,2020-08-19,218,13,
-Butte,Butte,007,2020-08-19,1494,14,
+Butte,Butte,007,2020-08-19,1517,14,
 Calaveras,Calaveras,009,2020-08-19,181,1,TRUE
 Colusa,Colusa,011,2020-08-19,418,5,
 Contra Costa,Contra Costa,013,2020-08-19,11886,158,
@@ -22024,7 +22024,7 @@ Alameda,Alameda,001,2020-08-18,15372,315,
 Berkeley,Alameda,001,2020-08-18,484,8,
 Alpine,Alpine,003,2020-08-18,2,0,TRUE
 Amador,Amador,005,2020-08-18,216,11,
-Butte,Butte,007,2020-08-18,1463,14,
+Butte,Butte,007,2020-08-18,1491,14,
 Calaveras,Calaveras,009,2020-08-18,181,1,
 Colusa,Colusa,011,2020-08-18,418,5,
 Contra Costa,Contra Costa,013,2020-08-18,11668,157,
@@ -22085,7 +22085,7 @@ Alameda,Alameda,001,2020-08-17,15138,307,
 Berkeley,Alameda,001,2020-08-17,482,8,
 Alpine,Alpine,003,2020-08-17,2,0,TRUE
 Amador,Amador,005,2020-08-17,211,11,
-Butte,Butte,007,2020-08-17,1421,12,
+Butte,Butte,007,2020-08-17,1463,12,
 Calaveras,Calaveras,009,2020-08-17,174,1,TRUE
 Colusa,Colusa,011,2020-08-17,415,5,
 Contra Costa,Contra Costa,013,2020-08-17,11408,157,
@@ -22146,7 +22146,7 @@ Alameda,Alameda,001,2020-08-16,14995,306,
 Berkeley,Alameda,001,2020-08-16,477,8,
 Alpine,Alpine,003,2020-08-16,2,0,TRUE
 Amador,Amador,005,2020-08-16,210,11,
-Butte,Butte,007,2020-08-16,1370,12,TRUE
+Butte,Butte,007,2020-08-16,1432,12,TRUE
 Calaveras,Calaveras,009,2020-08-16,174,1,TRUE
 Colusa,Colusa,011,2020-08-16,409,5,TRUE
 Contra Costa,Contra Costa,013,2020-08-16,11228,157,
@@ -22207,7 +22207,7 @@ Alameda,Alameda,001,2020-08-15,14835,301,TRUE
 Berkeley,Alameda,001,2020-08-15,466,8,
 Alpine,Alpine,003,2020-08-15,2,0,TRUE
 Amador,Amador,005,2020-08-15,208,11,TRUE
-Butte,Butte,007,2020-08-15,1370,12,TRUE
+Butte,Butte,007,2020-08-15,1409,12,TRUE
 Calaveras,Calaveras,009,2020-08-15,174,1,TRUE
 Colusa,Colusa,011,2020-08-15,409,5,TRUE
 Contra Costa,Contra Costa,013,2020-08-15,11013,156,
@@ -22268,7 +22268,7 @@ Alameda,Alameda,001,2020-08-14,14549,295,
 Berkeley,Alameda,001,2020-08-14,464,8,
 Alpine,Alpine,003,2020-08-14,2,0,
 Amador,Amador,005,2020-08-14,208,11,
-Butte,Butte,007,2020-08-14,1370,12,
+Butte,Butte,007,2020-08-14,1384,12,
 Calaveras,Calaveras,009,2020-08-14,174,1,
 Colusa,Colusa,011,2020-08-14,409,5,
 Contra Costa,Contra Costa,013,2020-08-14,10756,152,
@@ -22329,7 +22329,7 @@ Alameda,Alameda,001,2020-08-13,14131,288,
 Berkeley,Alameda,001,2020-08-13,458,8,
 Alpine,Alpine,003,2020-08-13,2,0,TRUE
 Amador,Amador,005,2020-08-13,207,11,
-Butte,Butte,007,2020-08-13,1321,12,
+Butte,Butte,007,2020-08-13,1345,12,
 Calaveras,Calaveras,009,2020-08-13,161,1,TRUE
 Colusa,Colusa,011,2020-08-13,401,5,
 Contra Costa,Contra Costa,013,2020-08-13,10482,151,
@@ -22390,7 +22390,7 @@ Alameda,Alameda,001,2020-08-12,13817,274,
 Berkeley,Alameda,001,2020-08-12,452,8,
 Alpine,Alpine,003,2020-08-12,2,0,TRUE
 Amador,Amador,005,2020-08-12,198,10,
-Butte,Butte,007,2020-08-12,1305,8,
+Butte,Butte,007,2020-08-12,1317,8,
 Calaveras,Calaveras,009,2020-08-12,161,1,TRUE
 Colusa,Colusa,011,2020-08-12,397,5,
 Contra Costa,Contra Costa,013,2020-08-12,10103,149,
@@ -22451,7 +22451,7 @@ Alameda,Alameda,001,2020-08-11,13613,267,
 Berkeley,Alameda,001,2020-08-11,450,8,
 Alpine,Alpine,003,2020-08-11,2,0,TRUE
 Amador,Amador,005,2020-08-11,195,10,
-Butte,Butte,007,2020-08-11,1280,8,
+Butte,Butte,007,2020-08-11,1296,8,
 Calaveras,Calaveras,009,2020-08-11,161,1,
 Colusa,Colusa,011,2020-08-11,396,5,
 Contra Costa,Contra Costa,013,2020-08-11,9787,146,
@@ -22512,7 +22512,7 @@ Alameda,Alameda,001,2020-08-10,13369,261,
 Berkeley,Alameda,001,2020-08-10,447,8,
 Alpine,Alpine,003,2020-08-10,2,0,TRUE
 Amador,Amador,005,2020-08-10,185,3,
-Butte,Butte,007,2020-08-10,1238,8,
+Butte,Butte,007,2020-08-10,1174,8,
 Calaveras,Calaveras,009,2020-08-10,147,1,TRUE
 Colusa,Colusa,011,2020-08-10,391,4,
 Contra Costa,Contra Costa,013,2020-08-10,9404,139,
@@ -22573,7 +22573,7 @@ Alameda,Alameda,001,2020-08-09,13048,253,
 Berkeley,Alameda,001,2020-08-09,438,8,TRUE
 Alpine,Alpine,003,2020-08-09,2,0,TRUE
 Amador,Amador,005,2020-08-09,182,2,
-Butte,Butte,007,2020-08-09,1095,8,TRUE
+Butte,Butte,007,2020-08-09,1155,8,TRUE
 Calaveras,Calaveras,009,2020-08-09,147,1,TRUE
 Colusa,Colusa,011,2020-08-09,362,4,TRUE
 Contra Costa,Contra Costa,013,2020-08-09,9182,139,
@@ -22634,7 +22634,7 @@ Alameda,Alameda,001,2020-08-08,12752,247,
 Berkeley,Alameda,001,2020-08-08,437,8,
 Alpine,Alpine,003,2020-08-08,2,0,TRUE
 Amador,Amador,005,2020-08-08,164,2,TRUE
-Butte,Butte,007,2020-08-08,1095,8,TRUE
+Butte,Butte,007,2020-08-08,1140,8,TRUE
 Calaveras,Calaveras,009,2020-08-08,147,1,TRUE
 Colusa,Colusa,011,2020-08-08,362,4,TRUE
 Contra Costa,Contra Costa,013,2020-08-08,9022,138,
@@ -22695,7 +22695,7 @@ Alameda,Alameda,001,2020-08-07,12470,246,
 Berkeley,Alameda,001,2020-08-07,426,8,
 Alpine,Alpine,003,2020-08-07,2,0,TRUE
 Amador,Amador,005,2020-08-07,164,2,
-Butte,Butte,007,2020-08-07,1095,8,
+Butte,Butte,007,2020-08-07,1092,8,
 Calaveras,Calaveras,009,2020-08-07,147,1,
 Colusa,Colusa,011,2020-08-07,362,4,
 Contra Costa,Contra Costa,013,2020-08-07,8760,136,
@@ -22817,7 +22817,7 @@ Alameda,Alameda,001,2020-08-05,11797,243,
 Berkeley,Alameda,001,2020-08-05,414,8,
 Alpine,Alpine,003,2020-08-05,2,0,TRUE
 Amador,Amador,005,2020-08-05,156,0,
-Butte,Butte,007,2020-08-05,1029,8,
+Butte,Butte,007,2020-08-05,1038,8,
 Calaveras,Calaveras,009,2020-08-05,136,1,TRUE
 Colusa,Colusa,011,2020-08-05,359,4,
 Contra Costa,Contra Costa,013,2020-08-05,8324,131,
@@ -22878,7 +22878,7 @@ Alameda,Alameda,001,2020-08-04,11615,241,
 Berkeley,Alameda,001,2020-08-04,413,8,
 Alpine,Alpine,003,2020-08-04,2,0,
 Amador,Amador,005,2020-08-04,137,0,
-Butte,Butte,007,2020-08-04,1012,8,
+Butte,Butte,007,2020-08-04,1011,8,
 Calaveras,Calaveras,009,2020-08-04,136,1,
 Colusa,Colusa,011,2020-08-04,357,4,
 Contra Costa,Contra Costa,013,2020-08-04,8176,131,
@@ -22939,7 +22939,7 @@ Alameda,Alameda,001,2020-08-03,11521,236,
 Berkeley,Alameda,001,2020-08-03,410,8,
 Alpine,Alpine,003,2020-08-03,2,0,TRUE
 Amador,Amador,005,2020-08-03,135,0,
-Butte,Butte,007,2020-08-03,980,7,
+Butte,Butte,007,2020-08-03,989,7,
 Calaveras,Calaveras,009,2020-08-03,125,1,TRUE
 Colusa,Colusa,011,2020-08-03,331,4,
 Contra Costa,Contra Costa,013,2020-08-03,8033,127,
@@ -23000,7 +23000,7 @@ Alameda,Alameda,001,2020-08-02,11446,234,
 Berkeley,Alameda,001,2020-08-02,408,8,
 Alpine,Alpine,003,2020-08-02,2,0,TRUE
 Amador,Amador,005,2020-08-02,126,0,TRUE
-Butte,Butte,007,2020-08-02,941,7,TRUE
+Butte,Butte,007,2020-08-02,987,7,TRUE
 Calaveras,Calaveras,009,2020-08-02,125,1,TRUE
 Colusa,Colusa,011,2020-08-02,323,4,TRUE
 Contra Costa,Contra Costa,013,2020-08-02,7966,125,
@@ -23061,7 +23061,7 @@ Alameda,Alameda,001,2020-08-01,11288,232,
 Berkeley,Alameda,001,2020-08-01,405,8,
 Alpine,Alpine,003,2020-08-01,2,0,TRUE
 Amador,Amador,005,2020-08-01,126,0,
-Butte,Butte,007,2020-08-01,941,7,TRUE
+Butte,Butte,007,2020-08-01,976,7,TRUE
 Calaveras,Calaveras,009,2020-08-01,125,1,TRUE
 Colusa,Colusa,011,2020-08-01,323,4,TRUE
 Contra Costa,Contra Costa,013,2020-08-01,7806,121,
@@ -23122,7 +23122,7 @@ Alameda,Alameda,001,2020-07-31,11099,231,TRUE
 Berkeley,Alameda,001,2020-07-31,401,8,
 Alpine,Alpine,003,2020-07-31,2,0,TRUE
 Amador,Amador,005,2020-07-31,125,0,
-Butte,Butte,007,2020-07-31,941,7,
+Butte,Butte,007,2020-07-31,925,7,
 Calaveras,Calaveras,009,2020-07-31,125,1,
 Colusa,Colusa,011,2020-07-31,323,4,
 Contra Costa,Contra Costa,013,2020-07-31,7670,119,
@@ -23183,7 +23183,7 @@ Alameda,Alameda,001,2020-07-30,10919,229,
 Berkeley,Alameda,001,2020-07-30,390,8,
 Alpine,Alpine,003,2020-07-30,2,0,TRUE
 Amador,Amador,005,2020-07-30,115,0,
-Butte,Butte,007,2020-07-30,907,7,
+Butte,Butte,007,2020-07-30,915,7,
 Calaveras,Calaveras,009,2020-07-30,108,1,TRUE
 Colusa,Colusa,011,2020-07-30,312,4,
 Contra Costa,Contra Costa,013,2020-07-30,7577,116,
@@ -23244,7 +23244,7 @@ Alameda,Alameda,001,2020-07-29,10795,228,
 Berkeley,Alameda,001,2020-07-29,388,7,
 Alpine,Alpine,003,2020-07-29,2,0,TRUE
 Amador,Amador,005,2020-07-29,110,0,
-Butte,Butte,007,2020-07-29,883,7,
+Butte,Butte,007,2020-07-29,889,7,
 Calaveras,Calaveras,009,2020-07-29,108,1,TRUE
 Colusa,Colusa,011,2020-07-29,304,3,
 Contra Costa,Contra Costa,013,2020-07-29,7491,116,
@@ -23305,7 +23305,7 @@ Alameda,Alameda,001,2020-07-28,10650,227,
 Berkeley,Alameda,001,2020-07-28,382,7,
 Alpine,Alpine,003,2020-07-28,2,0,TRUE
 Amador,Amador,005,2020-07-28,89,0,
-Butte,Butte,007,2020-07-28,866,7,
+Butte,Butte,007,2020-07-28,857,7,
 Calaveras,Calaveras,009,2020-07-28,108,1,
 Colusa,Colusa,011,2020-07-28,292,2,
 Contra Costa,Contra Costa,013,2020-07-28,7402,108,
@@ -23366,7 +23366,7 @@ Alameda,Alameda,001,2020-07-27,10407,226,
 Berkeley,Alameda,001,2020-07-27,368,7,
 Alpine,Alpine,003,2020-07-27,2,0,TRUE
 Amador,Amador,005,2020-07-27,84,0,
-Butte,Butte,007,2020-07-27,820,7,
+Butte,Butte,007,2020-07-27,843,7,
 Calaveras,Calaveras,009,2020-07-27,99,1,TRUE
 Colusa,Colusa,011,2020-07-27,273,2,
 Contra Costa,Contra Costa,013,2020-07-27,7239,104,
@@ -23427,7 +23427,7 @@ Alameda,Alameda,001,2020-07-26,10341,225,
 Berkeley,Alameda,001,2020-07-26,368,7,
 Alpine,Alpine,003,2020-07-26,2,0,TRUE
 Amador,Amador,005,2020-07-26,81,0,
-Butte,Butte,007,2020-07-26,758,5,TRUE
+Butte,Butte,007,2020-07-26,822,5,TRUE
 Calaveras,Calaveras,009,2020-07-26,99,1,TRUE
 Colusa,Colusa,011,2020-07-26,263,2,TRUE
 Contra Costa,Contra Costa,013,2020-07-26,7075,104,
@@ -23488,7 +23488,7 @@ Alameda,Alameda,001,2020-07-25,10219,224,
 Berkeley,Alameda,001,2020-07-25,367,7,
 Alpine,Alpine,003,2020-07-25,2,0,TRUE
 Amador,Amador,005,2020-07-25,76,0,
-Butte,Butte,007,2020-07-25,758,5,TRUE
+Butte,Butte,007,2020-07-25,810,5,TRUE
 Calaveras,Calaveras,009,2020-07-25,99,1,TRUE
 Colusa,Colusa,011,2020-07-25,263,2,TRUE
 Contra Costa,Contra Costa,013,2020-07-25,6895,104,
@@ -23549,7 +23549,7 @@ Alameda,Alameda,001,2020-07-24,10020,224,
 Berkeley,Alameda,001,2020-07-24,353,7,
 Alpine,Alpine,003,2020-07-24,2,0,TRUE
 Amador,Amador,005,2020-07-24,71,0,
-Butte,Butte,007,2020-07-24,758,5,
+Butte,Butte,007,2020-07-24,751,5,
 Calaveras,Calaveras,009,2020-07-24,99,1,
 Colusa,Colusa,011,2020-07-24,263,2,
 Contra Costa,Contra Costa,013,2020-07-24,6792,103,
@@ -23610,7 +23610,7 @@ Alameda,Alameda,001,2020-07-23,9884,224,
 Berkeley,Alameda,001,2020-07-23,349,6,
 Alpine,Alpine,003,2020-07-23,2,0,TRUE
 Amador,Amador,005,2020-07-23,67,0,
-Butte,Butte,007,2020-07-23,722,5,
+Butte,Butte,007,2020-07-23,726,5,
 Calaveras,Calaveras,009,2020-07-23,94,1,
 Colusa,Colusa,011,2020-07-23,250,2,
 Contra Costa,Contra Costa,013,2020-07-23,6588,102,
@@ -23671,7 +23671,7 @@ Alameda,Alameda,001,2020-07-22,9659,223,
 Berkeley,Alameda,001,2020-07-22,343,6,
 Alpine,Alpine,003,2020-07-22,2,0,TRUE
 Amador,Amador,005,2020-07-22,65,0,
-Butte,Butte,007,2020-07-22,683,5,
+Butte,Butte,007,2020-07-22,694,5,
 Calaveras,Calaveras,009,2020-07-22,94,1,TRUE
 Colusa,Colusa,011,2020-07-22,242,2,
 Contra Costa,Contra Costa,013,2020-07-22,6372,102,
@@ -23732,7 +23732,7 @@ Alameda,Alameda,001,2020-07-21,9474,221,
 Berkeley,Alameda,001,2020-07-21,337,6,
 Alpine,Alpine,003,2020-07-21,2,0,
 Amador,Amador,005,2020-07-21,62,0,
-Butte,Butte,007,2020-07-21,658,5,
+Butte,Butte,007,2020-07-21,659,5,
 Calaveras,Calaveras,009,2020-07-21,94,1,
 Colusa,Colusa,011,2020-07-21,234,1,
 Contra Costa,Contra Costa,013,2020-07-21,6188,102,
@@ -23793,7 +23793,7 @@ Alameda,Alameda,001,2020-07-20,9217,216,
 Berkeley,Alameda,001,2020-07-20,330,6,
 Alpine,Alpine,003,2020-07-20,2,0,TRUE
 Amador,Amador,005,2020-07-20,57,0,
-Butte,Butte,007,2020-07-20,640,5,
+Butte,Butte,007,2020-07-20,586,5,
 Calaveras,Calaveras,009,2020-07-20,87,0,TRUE
 Colusa,Colusa,011,2020-07-20,223,0,
 Contra Costa,Contra Costa,013,2020-07-20,5815,99,
@@ -23854,7 +23854,7 @@ Alameda,Alameda,001,2020-07-19,8994,213,
 Berkeley,Alameda,001,2020-07-19,321,5,
 Alpine,Alpine,003,2020-07-19,2,0,TRUE
 Amador,Amador,005,2020-07-19,54,0,
-Butte,Butte,007,2020-07-19,522,4,TRUE
+Butte,Butte,007,2020-07-19,555,4,TRUE
 Calaveras,Calaveras,009,2020-07-19,87,0,TRUE
 Colusa,Colusa,011,2020-07-19,173,0,TRUE
 Contra Costa,Contra Costa,013,2020-07-19,5681,98,
@@ -23915,7 +23915,7 @@ Alameda,Alameda,001,2020-07-18,8847,211,
 Berkeley,Alameda,001,2020-07-18,319,5,
 Alpine,Alpine,003,2020-07-18,2,0,TRUE
 Amador,Amador,005,2020-07-18,51,0,TRUE
-Butte,Butte,007,2020-07-18,522,4,TRUE
+Butte,Butte,007,2020-07-18,551,4,TRUE
 Calaveras,Calaveras,009,2020-07-18,87,0,TRUE
 Colusa,Colusa,011,2020-07-18,173,0,TRUE
 Contra Costa,Contra Costa,013,2020-07-18,5619,98,
@@ -23976,7 +23976,7 @@ Alameda,Alameda,001,2020-07-17,8591,210,
 Berkeley,Alameda,001,2020-07-17,307,5,
 Alpine,Alpine,003,2020-07-17,2,0,TRUE
 Amador,Amador,005,2020-07-17,51,0,
-Butte,Butte,007,2020-07-17,522,4,
+Butte,Butte,007,2020-07-17,497,4,
 Calaveras,Calaveras,009,2020-07-17,87,0,
 Colusa,Colusa,011,2020-07-17,173,0,
 Contra Costa,Contra Costa,013,2020-07-17,5478,96,
@@ -24037,7 +24037,7 @@ Alameda,Alameda,001,2020-07-16,8466,208,
 Berkeley,Alameda,001,2020-07-16,303,5,
 Alpine,Alpine,003,2020-07-16,2,0,
 Amador,Amador,005,2020-07-16,49,0,
-Butte,Butte,007,2020-07-16,487,4,
+Butte,Butte,007,2020-07-16,465,4,
 Calaveras,Calaveras,009,2020-07-16,75,0,TRUE
 Colusa,Colusa,011,2020-07-16,147,0,
 Contra Costa,Contra Costa,013,2020-07-16,5324,93,
@@ -24098,7 +24098,7 @@ Alameda,Alameda,001,2020-07-15,8380,203,
 Berkeley,Alameda,001,2020-07-15,299,5,
 Alpine,Alpine,003,2020-07-15,1,0,TRUE
 Amador,Amador,005,2020-07-15,48,0,
-Butte,Butte,007,2020-07-15,437,4,
+Butte,Butte,007,2020-07-15,420,4,
 Calaveras,Calaveras,009,2020-07-15,75,0,TRUE
 Colusa,Colusa,011,2020-07-15,140,0,
 Contra Costa,Contra Costa,013,2020-07-15,5235,92,
@@ -24159,7 +24159,7 @@ Alameda,Alameda,001,2020-07-14,8184,202,
 Berkeley,Alameda,001,2020-07-14,295,5,
 Alpine,Alpine,003,2020-07-14,1,0,TRUE
 Amador,Amador,005,2020-07-14,45,0,
-Butte,Butte,007,2020-07-14,416,4,
+Butte,Butte,007,2020-07-14,382,4,
 Calaveras,Calaveras,009,2020-07-14,75,0,
 Colusa,Colusa,011,2020-07-14,135,0,
 Contra Costa,Contra Costa,013,2020-07-14,5104,92,
@@ -24220,7 +24220,7 @@ Alameda,Alameda,001,2020-07-13,8079,201,
 Berkeley,Alameda,001,2020-07-13,279,5,
 Alpine,Alpine,003,2020-07-13,1,0,TRUE
 Amador,Amador,005,2020-07-13,40,0,
-Butte,Butte,007,2020-07-13,376,4,
+Butte,Butte,007,2020-07-13,354,4,
 Calaveras,Calaveras,009,2020-07-13,67,0,TRUE
 Colusa,Colusa,011,2020-07-13,129,0,
 Contra Costa,Contra Costa,013,2020-07-13,4886,90,
@@ -24281,7 +24281,7 @@ Alameda,Alameda,001,2020-07-12,7933,199,TRUE
 Berkeley,Alameda,001,2020-07-12,276,5,
 Alpine,Alpine,003,2020-07-12,1,0,TRUE
 Amador,Amador,005,2020-07-12,40,0,TRUE
-Butte,Butte,007,2020-07-12,338,4,TRUE
+Butte,Butte,007,2020-07-12,341,4,TRUE
 Calaveras,Calaveras,009,2020-07-12,67,0,TRUE
 Colusa,Colusa,011,2020-07-12,113,0,TRUE
 Contra Costa,Contra Costa,013,2020-07-12,4714,90,
@@ -24342,7 +24342,7 @@ Alameda,Alameda,001,2020-07-11,7749,197,
 Berkeley,Alameda,001,2020-07-11,263,5,TRUE
 Alpine,Alpine,003,2020-07-11,1,0,TRUE
 Amador,Amador,005,2020-07-11,40,0,
-Butte,Butte,007,2020-07-11,338,4,TRUE
+Butte,Butte,007,2020-07-11,325,4,TRUE
 Calaveras,Calaveras,009,2020-07-11,67,0,TRUE
 Colusa,Colusa,011,2020-07-11,113,0,TRUE
 Contra Costa,Contra Costa,013,2020-07-11,4652,89,
@@ -24403,7 +24403,7 @@ Alameda,Alameda,001,2020-07-10,7532,197,
 Berkeley,Alameda,001,2020-07-10,253,5,
 Alpine,Alpine,003,2020-07-10,1,0,
 Amador,Amador,005,2020-07-10,37,0,
-Butte,Butte,007,2020-07-10,338,4,
+Butte,Butte,007,2020-07-10,318,4,
 Calaveras,Calaveras,009,2020-07-10,67,0,
 Colusa,Colusa,011,2020-07-10,113,0,
 Contra Costa,Contra Costa,013,2020-07-10,4483,88,
@@ -24464,7 +24464,7 @@ Alameda,Alameda,001,2020-07-09,7332,196,
 Berkeley,Alameda,001,2020-07-09,241,4,
 Alpine,Alpine,003,2020-07-09,1,0,
 Amador,Amador,005,2020-07-09,36,0,
-Butte,Butte,007,2020-07-09,319,4,
+Butte,Butte,007,2020-07-09,295,4,
 Calaveras,Calaveras,009,2020-07-09,61,0,TRUE
 Colusa,Colusa,011,2020-07-09,103,0,
 Contra Costa,Contra Costa,013,2020-07-09,4376,88,
@@ -24525,7 +24525,7 @@ Alameda,Alameda,001,2020-07-08,7218,193,
 Berkeley,Alameda,001,2020-07-08,228,4,
 Alpine,Alpine,003,2020-07-08,1,0,
 Amador,Amador,005,2020-07-08,35,0,
-Butte,Butte,007,2020-07-08,295,4,
+Butte,Butte,007,2020-07-08,281,4,
 Calaveras,Calaveras,009,2020-07-08,61,0,TRUE
 Colusa,Colusa,011,2020-07-08,98,0,
 Contra Costa,Contra Costa,013,2020-07-08,4267,86,
@@ -24586,7 +24586,7 @@ Alameda,Alameda,001,2020-07-07,7083,193,TRUE
 Berkeley,Alameda,001,2020-07-07,221,4,
 Alpine,Alpine,003,2020-07-07,1,0,
 Amador,Amador,005,2020-07-07,34,0,
-Butte,Butte,007,2020-07-07,275,3,
+Butte,Butte,007,2020-07-07,269,3,
 Calaveras,Calaveras,009,2020-07-07,61,0,
 Colusa,Colusa,011,2020-07-07,86,0,
 Contra Costa,Contra Costa,013,2020-07-07,4131,86,
@@ -24647,7 +24647,7 @@ Alameda,Alameda,001,2020-07-06,6995,193,
 Berkeley,Alameda,001,2020-07-06,209,4,
 Alpine,Alpine,003,2020-07-06,1,0,
 Amador,Amador,005,2020-07-06,33,0,
-Butte,Butte,007,2020-07-06,268,3,
+Butte,Butte,007,2020-07-06,257,3,
 Calaveras,Calaveras,009,2020-07-06,53,0,TRUE
 Colusa,Colusa,011,2020-07-06,83,0,
 Contra Costa,Contra Costa,013,2020-07-06,3909,85,
@@ -24708,7 +24708,7 @@ Alameda,Alameda,001,2020-07-05,6874,191,
 Berkeley,Alameda,001,2020-07-05,208,4,TRUE
 Alpine,Alpine,003,2020-07-05,1,0,TRUE
 Amador,Amador,005,2020-07-05,33,0,
-Butte,Butte,007,2020-07-05,206,3,TRUE
+Butte,Butte,007,2020-07-05,248,3,TRUE
 Calaveras,Calaveras,009,2020-07-05,53,0,TRUE
 Colusa,Colusa,011,2020-07-05,70,0,TRUE
 Contra Costa,Contra Costa,013,2020-07-05,3684,81,
@@ -24769,7 +24769,7 @@ Alameda,Alameda,001,2020-07-04,6650,190,
 Berkeley,Alameda,001,2020-07-04,198,4,
 Alpine,Alpine,003,2020-07-04,1,0,
 Amador,Amador,005,2020-07-04,31,0,
-Butte,Butte,007,2020-07-04,206,3,TRUE
+Butte,Butte,007,2020-07-04,224,3,TRUE
 Calaveras,Calaveras,009,2020-07-04,53,0,TRUE
 Colusa,Colusa,011,2020-07-04,70,0,TRUE
 Contra Costa,Contra Costa,013,2020-07-04,3581,81,
@@ -24830,7 +24830,7 @@ Alameda,Alameda,001,2020-07-03,6426,185,
 Berkeley,Alameda,001,2020-07-03,191,3,
 Alpine,Alpine,003,2020-07-03,1,0,
 Amador,Amador,005,2020-07-03,31,0,
-Butte,Butte,007,2020-07-03,206,3,TRUE
+Butte,Butte,007,2020-07-03,212,3,TRUE
 Calaveras,Calaveras,009,2020-07-03,53,0,TRUE
 Colusa,Colusa,011,2020-07-03,70,0,TRUE
 Contra Costa,Contra Costa,013,2020-07-03,3439,79,
@@ -24891,7 +24891,7 @@ Alameda,Alameda,001,2020-07-02,6232,183,
 Berkeley,Alameda,001,2020-07-02,170,3,
 Alpine,Alpine,003,2020-07-02,1,0,TRUE
 Amador,Amador,005,2020-07-02,26,0,
-Butte,Butte,007,2020-07-02,206,3,
+Butte,Butte,007,2020-07-02,199,3,
 Calaveras,Calaveras,009,2020-07-02,53,0,
 Colusa,Colusa,011,2020-07-02,70,0,
 Contra Costa,Contra Costa,013,2020-07-02,3333,78,
@@ -24952,7 +24952,7 @@ Alameda,Alameda,001,2020-07-01,6062,180,
 Berkeley,Alameda,001,2020-07-01,167,3,
 Alpine,Alpine,003,2020-07-01,1,0,TRUE
 Amador,Amador,005,2020-07-01,24,0,
-Butte,Butte,007,2020-07-01,189,2,
+Butte,Butte,007,2020-07-01,185,2,
 Calaveras,Calaveras,009,2020-07-01,40,0,TRUE
 Colusa,Colusa,011,2020-07-01,59,0,
 Contra Costa,Contra Costa,013,2020-07-01,3246,77,
@@ -25013,7 +25013,7 @@ Alameda,Alameda,001,2020-06-30,5931,180,
 Berkeley,Alameda,001,2020-06-30,157,2,
 Alpine,Alpine,003,2020-06-30,1,0,TRUE
 Amador,Amador,005,2020-06-30,22,0,
-Butte,Butte,007,2020-06-30,175,2,
+Butte,Butte,007,2020-06-30,163,2,
 Calaveras,Calaveras,009,2020-06-30,40,0,TRUE
 Colusa,Colusa,011,2020-06-30,50,0,
 Contra Costa,Contra Costa,013,2020-06-30,3132,76,
@@ -25074,7 +25074,7 @@ Alameda,Alameda,001,2020-06-29,5809,177,
 Berkeley,Alameda,001,2020-06-29,152,2,
 Alpine,Alpine,003,2020-06-29,,,
 Amador,Amador,005,2020-06-29,22,0,
-Butte,Butte,007,2020-06-29,168,2,
+Butte,Butte,007,2020-06-29,157,2,
 Calaveras,Calaveras,009,2020-06-29,32,0,TRUE
 Colusa,Colusa,011,2020-06-29,35,0,
 Contra Costa,Contra Costa,013,2020-06-29,2973,76,
@@ -25135,7 +25135,7 @@ Alameda,Alameda,001,2020-06-28,5621,176,
 Berkeley,Alameda,001,2020-06-28,150,2,
 Alpine,Alpine,003,2020-06-28,1,0,TRUE
 Amador,Amador,005,2020-06-28,21,0,
-Butte,Butte,007,2020-06-28,143,2,TRUE
+Butte,Butte,007,2020-06-28,150,2,TRUE
 Calaveras,Calaveras,009,2020-06-28,32,0,TRUE
 Colusa,Colusa,011,2020-06-28,17,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-28,2808,74,
@@ -25196,7 +25196,7 @@ Alameda,Alameda,001,2020-06-27,5471,174,TRUE
 Berkeley,Alameda,001,2020-06-27,147,2,TRUE
 Alpine,Alpine,003,2020-06-27,1,0,TRUE
 Amador,Amador,005,2020-06-27,20,0,
-Butte,Butte,007,2020-06-27,143,2,TRUE
+Butte,Butte,007,2020-06-27,137,2,TRUE
 Calaveras,Calaveras,009,2020-06-27,32,0,TRUE
 Colusa,Colusa,011,2020-06-27,17,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-27,2726,73,
@@ -25257,7 +25257,7 @@ Alameda,Alameda,001,2020-06-26,5411,171,
 Berkeley,Alameda,001,2020-06-26,143,2,
 Alpine,Alpine,003,2020-06-26,1,0,TRUE
 Amador,Amador,005,2020-06-26,20,0,
-Butte,Butte,007,2020-06-26,143,2,
+Butte,Butte,007,2020-06-26,135,2,
 Calaveras,Calaveras,009,2020-06-26,32,0,
 Colusa,Colusa,011,2020-06-26,17,0,
 Contra Costa,Contra Costa,013,2020-06-26,2684,73,
@@ -25318,7 +25318,7 @@ Alameda,Alameda,001,2020-06-25,5291,171,
 Berkeley,Alameda,001,2020-06-25,141,2,
 Alpine,Alpine,003,2020-06-25,1,0,TRUE
 Amador,Amador,005,2020-06-25,20,0,
-Butte,Butte,007,2020-06-25,133,2,
+Butte,Butte,007,2020-06-25,127,2,
 Calaveras,Calaveras,009,2020-06-25,29,0,TRUE
 Colusa,Colusa,011,2020-06-25,16,0,
 Contra Costa,Contra Costa,013,2020-06-25,2592,72,
@@ -25379,7 +25379,7 @@ Alameda,Alameda,001,2020-06-24,5227,171,
 Berkeley,Alameda,001,2020-06-24,138,2,
 Alpine,Alpine,003,2020-06-24,1,0,TRUE
 Amador,Amador,005,2020-06-24,19,0,
-Butte,Butte,007,2020-06-24,127,1,
+Butte,Butte,007,2020-06-24,119,1,
 Calaveras,Calaveras,009,2020-06-24,29,0,TRUE
 Colusa,Colusa,011,2020-06-24,14,0,
 Contra Costa,Contra Costa,013,2020-06-24,2523,67,
@@ -25440,7 +25440,7 @@ Alameda,Alameda,001,2020-06-23,5147,170,
 Berkeley,Alameda,001,2020-06-23,133,2,
 Alpine,Alpine,003,2020-06-23,1,0,TRUE
 Amador,Amador,005,2020-06-23,16,0,
-Butte,Butte,007,2020-06-23,119,1,
+Butte,Butte,007,2020-06-23,111,1,
 Calaveras,Calaveras,009,2020-06-23,29,0,
 Colusa,Colusa,011,2020-06-23,11,0,
 Contra Costa,Contra Costa,013,2020-06-23,2453,62,
@@ -25501,7 +25501,7 @@ Alameda,Alameda,001,2020-06-22,5036,170,
 Berkeley,Alameda,001,2020-06-22,126,2,
 Alpine,Alpine,003,2020-06-22,1,0,TRUE
 Amador,Amador,005,2020-06-22,14,0,
-Butte,Butte,007,2020-06-22,111,1,
+Butte,Butte,007,2020-06-22,104,1,
 Calaveras,Calaveras,009,2020-06-22,28,0,TRUE
 Colusa,Colusa,011,2020-06-22,7,0,
 Contra Costa,Contra Costa,013,2020-06-22,2368,62,
@@ -25562,7 +25562,7 @@ Alameda,Alameda,001,2020-06-21,4861,168,
 Berkeley,Alameda,001,2020-06-21,125,2,
 Alpine,Alpine,003,2020-06-21,1,0,TRUE
 Amador,Amador,005,2020-06-21,13,0,
-Butte,Butte,007,2020-06-21,94,1,TRUE
+Butte,Butte,007,2020-06-21,97,1,TRUE
 Calaveras,Calaveras,009,2020-06-21,28,0,TRUE
 Colusa,Colusa,011,2020-06-21,7,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-21,2289,62,
@@ -25684,7 +25684,7 @@ Alameda,Alameda,001,2020-06-19,4581,162,
 Berkeley,Alameda,001,2020-06-19,120,2,
 Alpine,Alpine,003,2020-06-19,1,0,TRUE
 Amador,Amador,005,2020-06-19,12,0,
-Butte,Butte,007,2020-06-19,94,1,
+Butte,Butte,007,2020-06-19,91,1,
 Calaveras,Calaveras,009,2020-06-19,28,0,
 Colusa,Colusa,011,2020-06-19,7,0,
 Contra Costa,Contra Costa,013,2020-06-19,2141,56,
@@ -25745,7 +25745,7 @@ Alameda,Alameda,001,2020-06-18,4536,160,
 Berkeley,Alameda,001,2020-06-18,118,2,
 Alpine,Alpine,003,2020-06-18,1,0,TRUE
 Amador,Amador,005,2020-06-18,12,0,
-Butte,Butte,007,2020-06-18,90,1,
+Butte,Butte,007,2020-06-18,88,1,
 Calaveras,Calaveras,009,2020-06-18,26,0,TRUE
 Colusa,Colusa,011,2020-06-18,7,0,
 Contra Costa,Contra Costa,013,2020-06-18,2105,55,
@@ -25806,7 +25806,7 @@ Alameda,Alameda,001,2020-06-17,4446,160,
 Berkeley,Alameda,001,2020-06-17,117,2,
 Alpine,Alpine,003,2020-06-17,1,0,TRUE
 Amador,Amador,005,2020-06-17,12,0,
-Butte,Butte,007,2020-06-17,90,1,
+Butte,Butte,007,2020-06-17,81,1,
 Calaveras,Calaveras,009,2020-06-17,26,0,TRUE
 Colusa,Colusa,011,2020-06-17,7,0,
 Contra Costa,Contra Costa,013,2020-06-17,2069,50,
@@ -25867,7 +25867,7 @@ Alameda,Alameda,001,2020-06-16,4362,160,
 Berkeley,Alameda,001,2020-06-16,116,2,
 Alpine,Alpine,003,2020-06-16,1,0,TRUE
 Amador,Amador,005,2020-06-16,12,0,
-Butte,Butte,007,2020-06-16,88,1,
+Butte,Butte,007,2020-06-16,79,1,
 Calaveras,Calaveras,009,2020-06-16,26,0,TRUE
 Colusa,Colusa,011,2020-06-16,7,0,
 Contra Costa,Contra Costa,013,2020-06-16,2022,49,
@@ -25928,7 +25928,7 @@ Alameda,Alameda,001,2020-06-15,4298,153,
 Berkeley,Alameda,001,2020-06-15,116,2,
 Alpine,Alpine,003,2020-06-15,1,0,TRUE
 Amador,Amador,005,2020-06-15,11,0,
-Butte,Butte,007,2020-06-15,82,1,
+Butte,Butte,007,2020-06-15,78,1,
 Calaveras,Calaveras,009,2020-06-15,26,0,TRUE
 Colusa,Colusa,011,2020-06-15,7,0,
 Contra Costa,Contra Costa,013,2020-06-15,1976,44,
@@ -25989,7 +25989,7 @@ Alameda,Alameda,001,2020-06-14,4213,148,
 Berkeley,Alameda,001,2020-06-14,116,2,
 Alpine,Alpine,003,2020-06-14,1,0,TRUE
 Amador,Amador,005,2020-06-14,10,0,
-Butte,Butte,007,2020-06-14,74,1,TRUE
+Butte,Butte,007,2020-06-14,78,1,TRUE
 Calaveras,Calaveras,009,2020-06-14,26,0,TRUE
 Colusa,Colusa,011,2020-06-14,7,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-14,1948,44,
@@ -26050,7 +26050,7 @@ Alameda,Alameda,001,2020-06-13,4141,144,
 Berkeley,Alameda,001,2020-06-13,116,2,
 Alpine,Alpine,003,2020-06-13,1,0,TRUE
 Amador,Amador,005,2020-06-13,10,0,TRUE
-Butte,Butte,007,2020-06-13,74,1,TRUE
+Butte,Butte,007,2020-06-13,72,1,TRUE
 Calaveras,Calaveras,009,2020-06-13,26,0,TRUE
 Colusa,Colusa,011,2020-06-13,7,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-13,1903,44,
@@ -26111,7 +26111,7 @@ Alameda,Alameda,001,2020-06-12,4092,143,
 Berkeley,Alameda,001,2020-06-12,115,2,
 Alpine,Alpine,003,2020-06-12,1,0,
 Amador,Amador,005,2020-06-12,10,0,
-Butte,Butte,007,2020-06-12,74,1,
+Butte,Butte,007,2020-06-12,71,1,
 Calaveras,Calaveras,009,2020-06-12,26,0,
 Colusa,Colusa,011,2020-06-12,7,0,
 Contra Costa,Contra Costa,013,2020-06-12,1863,44,
@@ -26172,7 +26172,7 @@ Alameda,Alameda,001,2020-06-11,3997,143,
 Berkeley,Alameda,001,2020-06-11,114,2,
 Alpine,Alpine,003,2020-06-11,1,0,TRUE
 Amador,Amador,005,2020-06-11,10,0,
-Butte,Butte,007,2020-06-11,73,1,
+Butte,Butte,007,2020-06-11,72,1,
 Calaveras,Calaveras,009,2020-06-11,25,0,
 Colusa,Colusa,011,2020-06-11,7,0,
 Contra Costa,Contra Costa,013,2020-06-11,1829,44,
@@ -26233,7 +26233,7 @@ Alameda,Alameda,001,2020-06-10,3932,142,
 Berkeley,Alameda,001,2020-06-10,114,2,
 Alpine,Alpine,003,2020-06-10,1,0,
 Amador,Amador,005,2020-06-10,10,0,
-Butte,Butte,007,2020-06-10,73,1,
+Butte,Butte,007,2020-06-10,71,1,
 Calaveras,Calaveras,009,2020-06-10,21,0,
 Colusa,Colusa,011,2020-06-10,7,0,
 Contra Costa,Contra Costa,013,2020-06-10,1796,43,
@@ -26294,7 +26294,7 @@ Alameda,Alameda,001,2020-06-09,3864,140,
 Berkeley,Alameda,001,2020-06-09,111,2,
 Alpine,Alpine,003,2020-06-09,1,0,TRUE
 Amador,Amador,005,2020-06-09,10,0,
-Butte,Butte,007,2020-06-09,71,1,
+Butte,Butte,007,2020-06-09,70,1,
 Calaveras,Calaveras,009,2020-06-09,21,0,
 Colusa,Colusa,011,2020-06-09,7,0,
 Contra Costa,Contra Costa,013,2020-06-09,1775,43,
@@ -26416,7 +26416,7 @@ Alameda,Alameda,001,2020-06-07,3767,138,
 Berkeley,Alameda,001,2020-06-07,105,2,TRUE
 Alpine,Alpine,003,2020-06-07,1,0,TRUE
 Amador,Amador,005,2020-06-07,10,0,TRUE
-Butte,Butte,007,2020-06-07,65,1,TRUE
+Butte,Butte,007,2020-06-07,64,1,TRUE
 Calaveras,Calaveras,009,2020-06-07,19,0,TRUE
 Colusa,Colusa,011,2020-06-07,7,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-07,1667,39,
@@ -26477,7 +26477,7 @@ Alameda,Alameda,001,2020-06-06,3704,137,
 Berkeley,Alameda,001,2020-06-06,105,2,
 Alpine,Alpine,003,2020-06-06,1,0,TRUE
 Amador,Amador,005,2020-06-06,10,0,
-Butte,Butte,007,2020-06-06,65,1,TRUE
+Butte,Butte,007,2020-06-06,63,1,TRUE
 Calaveras,Calaveras,009,2020-06-06,19,0,TRUE
 Colusa,Colusa,011,2020-06-06,7,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-06,1630,38,
@@ -26538,7 +26538,7 @@ Alameda,Alameda,001,2020-06-05,3643,136,
 Berkeley,Alameda,001,2020-06-05,100,2,
 Alpine,Alpine,003,2020-06-05,1,0,
 Amador,Amador,005,2020-06-05,10,0,
-Butte,Butte,007,2020-06-05,65,1,
+Butte,Butte,007,2020-06-05,61,1,
 Calaveras,Calaveras,009,2020-06-05,19,0,
 Colusa,Colusa,011,2020-06-05,7,0,
 Contra Costa,Contra Costa,013,2020-06-05,1592,38,
@@ -26599,7 +26599,7 @@ Alameda,Alameda,001,2020-06-04,3577,135,
 Berkeley,Alameda,001,2020-06-04,100,2,
 Alpine,Alpine,003,2020-06-04,1,0,TRUE
 Amador,Amador,005,2020-06-04,10,0,
-Butte,Butte,007,2020-06-04,60,1,
+Butte,Butte,007,2020-06-04,57,1,
 Calaveras,Calaveras,009,2020-06-04,16,0,
 Colusa,Colusa,011,2020-06-04,7,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-04,1559,38,
@@ -26660,7 +26660,7 @@ Alameda,Alameda,001,2020-06-03,3505,131,
 Berkeley,Alameda,001,2020-06-03,99,2,
 Alpine,Alpine,003,2020-06-03,1,0,TRUE
 Amador,Amador,005,2020-06-03,10,0,
-Butte,Butte,007,2020-06-03,55,1,
+Butte,Butte,007,2020-06-03,53,1,
 Calaveras,Calaveras,009,2020-06-03,15,0,TRUE
 Colusa,Colusa,011,2020-06-03,7,0,TRUE
 Contra Costa,Contra Costa,013,2020-06-03,1512,38,
@@ -26782,7 +26782,7 @@ Alameda,Alameda,001,2020-06-01,3366,127,
 Berkeley,Alameda,001,2020-06-01,96,2,TRUE
 Alpine,Alpine,003,2020-06-01,1,0,TRUE
 Amador,Amador,005,2020-06-01,10,0,
-Butte,Butte,007,2020-06-01,51,1,
+Butte,Butte,007,2020-06-01,50,1,
 Calaveras,Calaveras,009,2020-06-01,15,0,TRUE
 Colusa,Colusa,011,2020-06-01,7,0,
 Contra Costa,Contra Costa,013,2020-06-01,1469,37,
@@ -26843,7 +26843,7 @@ Alameda,Alameda,001,2020-05-31,3333,127,
 Berkeley,Alameda,001,2020-05-31,96,2,TRUE
 Alpine,Alpine,003,2020-05-31,1,0,TRUE
 Amador,Amador,005,2020-05-31,10,0,TRUE
-Butte,Butte,007,2020-05-31,44,0,TRUE
+Butte,Butte,007,2020-05-31,51,0,TRUE
 Calaveras,Calaveras,009,2020-05-31,15,0,TRUE
 Colusa,Colusa,011,2020-05-31,5,0,TRUE
 Contra Costa,Contra Costa,013,2020-05-31,1447,37,
@@ -26965,7 +26965,7 @@ Alameda,Alameda,001,2020-05-29,3121,125,
 Berkeley,Alameda,001,2020-05-29,94,2,
 Alpine,Alpine,003,2020-05-29,1,0,TRUE
 Amador,Amador,005,2020-05-29,10,0,
-Butte,Butte,007,2020-05-29,44,0,
+Butte,Butte,007,2020-05-29,41,0,
 Calaveras,Calaveras,009,2020-05-29,15,0,TRUE
 Colusa,Colusa,011,2020-05-29,5,0,TRUE
 Contra Costa,Contra Costa,013,2020-05-29,1399,37,
@@ -27148,7 +27148,7 @@ Alameda,Alameda,001,2020-05-26,2904,121,
 Berkeley,Alameda,001,2020-05-26,88,2,
 Alpine,Alpine,003,2020-05-26,1,0,TRUE
 Amador,Amador,005,2020-05-26,10,0,
-Butte,Butte,007,2020-05-26,40,0,
+Butte,Butte,007,2020-05-26,37,0,
 Calaveras,Calaveras,009,2020-05-26,15,0,
 Colusa,Colusa,011,2020-05-26,5,0,
 Contra Costa,Contra Costa,013,2020-05-26,1340,37,
@@ -27209,7 +27209,7 @@ Alameda,Alameda,001,2020-05-25,2843,120,
 Berkeley,Alameda,001,2020-05-25,88,2,
 Alpine,Alpine,003,2020-05-25,1,0,TRUE
 Amador,Amador,005,2020-05-25,10,0,TRUE
-Butte,Butte,007,2020-05-25,34,0,TRUE
+Butte,Butte,007,2020-05-25,37,0,TRUE
 Calaveras,Calaveras,009,2020-05-25,13,0,TRUE
 Colusa,Colusa,011,2020-05-25,5,0,TRUE
 Contra Costa,Contra Costa,013,2020-05-25,1325,37,
@@ -27270,7 +27270,7 @@ Alameda,Alameda,001,2020-05-24,2772,120,
 Berkeley,Alameda,001,2020-05-24,88,2,TRUE
 Alpine,Alpine,003,2020-05-24,1,0,TRUE
 Amador,Amador,005,2020-05-24,10,0,
-Butte,Butte,007,2020-05-24,34,0,TRUE
+Butte,Butte,007,2020-05-24,35,0,TRUE
 Calaveras,Calaveras,009,2020-05-24,13,0,TRUE
 Colusa,Colusa,011,2020-05-24,5,0,TRUE
 Contra Costa,Contra Costa,013,2020-05-24,1309,36,
@@ -27575,7 +27575,7 @@ Alameda,Alameda,001,2020-05-19,2442,117,
 Berkeley,Alameda,001,2020-05-19,72,2,
 Alpine,Alpine,003,2020-05-19,1,0,TRUE
 Amador,Amador,005,2020-05-19,10,0,
-Butte,Butte,007,2020-05-19,26,0,
+Butte,Butte,007,2020-05-19,25,0,
 Calaveras,Calaveras,009,2020-05-19,13,0,
 Colusa,Colusa,011,2020-05-19,3,0,
 Contra Costa,Contra Costa,013,2020-05-19,1180,33,
@@ -27697,7 +27697,7 @@ Alameda,Alameda,001,2020-05-17,2346,113,
 Berkeley,Alameda,001,2020-05-17,70,1,TRUE
 Alpine,Alpine,003,2020-05-17,1,0,TRUE
 Amador,Amador,005,2020-05-17,9,0,
-Butte,Butte,007,2020-05-17,22,0,TRUE
+Butte,Butte,007,2020-05-17,23,0,TRUE
 Calaveras,Calaveras,009,2020-05-17,13,0,TRUE
 Colusa,Colusa,011,2020-05-17,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-05-17,1133,33,
@@ -27941,7 +27941,7 @@ Alameda,Alameda,001,2020-05-13,2110,110,
 Berkeley,Alameda,001,2020-05-13,68,1,TRUE
 Alpine,Alpine,003,2020-05-13,1,0,TRUE
 Amador,Amador,005,2020-05-13,9,0,
-Butte,Butte,007,2020-05-13,20,0,
+Butte,Butte,007,2020-05-13,21,0,
 Calaveras,Calaveras,009,2020-05-13,13,0,
 Colusa,Colusa,011,2020-05-13,3,0,
 Contra Costa,Contra Costa,013,2020-05-13,1072,33,
@@ -28063,7 +28063,7 @@ Alameda,Alameda,001,2020-05-11,2039,108,
 Berkeley,Alameda,001,2020-05-11,67,1,
 Alpine,Alpine,003,2020-05-11,1,0,TRUE
 Amador,Amador,005,2020-05-11,8,0,TRUE
-Butte,Butte,007,2020-05-11,20,0,
+Butte,Butte,007,2020-05-11,19,0,
 Calaveras,Calaveras,009,2020-05-11,13,0,TRUE
 Colusa,Colusa,011,2020-05-11,3,0,
 Contra Costa,Contra Costa,013,2020-05-11,1045,32,
@@ -28307,7 +28307,7 @@ Alameda,Alameda,001,2020-05-07,1866,103,
 Berkeley,Alameda,001,2020-05-07,64,1,
 Alpine,Alpine,003,2020-05-07,1,0,TRUE
 Amador,Amador,005,2020-05-07,8,0,TRUE
-Butte,Butte,007,2020-05-07,18,0,
+Butte,Butte,007,2020-05-07,19,0,
 Calaveras,Calaveras,009,2020-05-07,13,0,TRUE
 Colusa,Colusa,011,2020-05-07,3,0,
 Contra Costa,Contra Costa,013,2020-05-07,990,29,
@@ -28368,7 +28368,7 @@ Alameda,Alameda,001,2020-05-06,1813,102,
 Berkeley,Alameda,001,2020-05-06,61,1,
 Alpine,Alpine,003,2020-05-06,1,0,TRUE
 Amador,Amador,005,2020-05-06,8,0,
-Butte,Butte,007,2020-05-06,18,0,
+Butte,Butte,007,2020-05-06,19,0,
 Calaveras,Calaveras,009,2020-05-06,13,0,TRUE
 Colusa,Colusa,011,2020-05-06,3,0,
 Contra Costa,Contra Costa,013,2020-05-06,978,29,
@@ -28429,7 +28429,7 @@ Alameda,Alameda,001,2020-05-05,1771,102,
 Berkeley,Alameda,001,2020-05-05,57,1,
 Alpine,Alpine,003,2020-05-05,1,0,TRUE
 Amador,Amador,005,2020-05-05,8,0,
-Butte,Butte,007,2020-05-05,18,0,
+Butte,Butte,007,2020-05-05,19,0,
 Calaveras,Calaveras,009,2020-05-05,13,0,TRUE
 Colusa,Colusa,011,2020-05-05,3,0,
 Contra Costa,Contra Costa,013,2020-05-05,961,29,
@@ -28490,7 +28490,7 @@ Alameda,Alameda,001,2020-05-04,1736,100,
 Berkeley,Alameda,001,2020-05-04,56,1,
 Alpine,Alpine,003,2020-05-04,1,0,TRUE
 Amador,Amador,005,2020-05-04,8,0,
-Butte,Butte,007,2020-05-04,17,0,
+Butte,Butte,007,2020-05-04,16,0,
 Calaveras,Calaveras,009,2020-05-04,13,0,TRUE
 Colusa,Colusa,011,2020-05-04,3,0,
 Contra Costa,Contra Costa,013,2020-05-04,941,28,
@@ -28551,7 +28551,7 @@ Alameda,Alameda,001,2020-05-03,1713,98,
 Berkeley,Alameda,001,2020-05-03,55,1,
 Alpine,Alpine,003,2020-05-03,1,0,TRUE
 Amador,Amador,005,2020-05-03,8,0,TRUE
-Butte,Butte,007,2020-05-03,16,0,TRUE
+Butte,Butte,007,2020-05-03,17,0,TRUE
 Calaveras,Calaveras,009,2020-05-03,13,0,TRUE
 Colusa,Colusa,011,2020-05-03,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-05-03,936,28,
@@ -28612,7 +28612,7 @@ Alameda,Alameda,001,2020-05-02,1668,97,
 Berkeley,Alameda,001,2020-05-02,54,1,TRUE
 Alpine,Alpine,003,2020-05-02,1,0,TRUE
 Amador,Amador,005,2020-05-02,8,0,
-Butte,Butte,007,2020-05-02,16,0,TRUE
+Butte,Butte,007,2020-05-02,17,0,TRUE
 Calaveras,Calaveras,009,2020-05-02,13,0,TRUE
 Colusa,Colusa,011,2020-05-02,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-05-02,923,28,
@@ -28673,7 +28673,7 @@ Alameda,Alameda,001,2020-05-01,1604,97,
 Berkeley,Alameda,001,2020-05-01,54,1,
 Alpine,Alpine,003,2020-05-01,1,0,TRUE
 Amador,Amador,005,2020-05-01,8,0,
-Butte,Butte,007,2020-05-01,16,0,
+Butte,Butte,007,2020-05-01,17,0,
 Calaveras,Calaveras,009,2020-05-01,13,0,TRUE
 Colusa,Colusa,011,2020-05-01,3,0,
 Contra Costa,Contra Costa,013,2020-05-01,899,28,
@@ -29081,7 +29081,7 @@ Alameda,Alameda,001,2020-04-24,1385,90,
 Berkeley,Alameda,001,2020-04-24,48,1,
 Alpine,Alpine,003,2020-04-24,1,0,TRUE
 Amador,Amador,005,2020-04-24,8,0,
-Butte,Butte,007,2020-04-24,16,0,
+Butte,Butte,007,2020-04-24,15,0,
 Calaveras,Calaveras,009,2020-04-24,13,0,TRUE
 Colusa,Colusa,011,2020-04-24,3,0,
 Contra Costa,Contra Costa,013,2020-04-24,798,23,
@@ -29137,7 +29137,7 @@ Alameda,Alameda,001,2020-04-23,1334,87,
 Berkeley,Alameda,001,2020-04-23,47,1,
 Alpine,Alpine,003,2020-04-23,1,0,TRUE
 Amador,Amador,005,2020-04-23,8,0,
-Butte,Butte,007,2020-04-23,16,0,
+Butte,Butte,007,2020-04-23,15,0,
 Calaveras,Calaveras,009,2020-04-23,13,0,
 Colusa,Colusa,011,2020-04-23,3,0,
 Contra Costa,Contra Costa,013,2020-04-23,779,23,
@@ -29193,7 +29193,7 @@ Alameda,Alameda,001,2020-04-22,1293,83,
 Berkeley,Alameda,001,2020-04-22,47,1,
 Alpine,Alpine,003,2020-04-22,1,0,TRUE
 Amador,Amador,005,2020-04-22,8,0,
-Butte,Butte,007,2020-04-22,16,0,
+Butte,Butte,007,2020-04-22,15,0,
 Calaveras,Calaveras,009,2020-04-22,12,0,TRUE
 Colusa,Colusa,011,2020-04-22,3,0,
 Contra Costa,Contra Costa,013,2020-04-22,775,22,
@@ -29249,7 +29249,7 @@ Alameda,Alameda,001,2020-04-21,1255,83,
 Berkeley,Alameda,001,2020-04-21,46,1,
 Alpine,Alpine,003,2020-04-21,1,0,
 Amador,Amador,005,2020-04-21,8,0,
-Butte,Butte,007,2020-04-21,16,0,
+Butte,Butte,007,2020-04-21,15,0,
 Calaveras,Calaveras,009,2020-04-21,12,0,TRUE
 Colusa,Colusa,011,2020-04-21,3,0,
 Contra Costa,Contra Costa,013,2020-04-21,759,22,
@@ -29305,7 +29305,7 @@ Alameda,Alameda,001,2020-04-20,1214,83,
 Berkeley,Alameda,001,2020-04-20,45,1,
 Alpine,Alpine,003,2020-04-20,1,0,
 Amador,Amador,005,2020-04-20,7,0,
-Butte,Butte,007,2020-04-20,16,0,
+Butte,Butte,007,2020-04-20,15,0,
 Calaveras,Calaveras,009,2020-04-20,12,0,TRUE
 Colusa,Colusa,011,2020-04-20,3,0,
 Contra Costa,Contra Costa,013,2020-04-20,749,22,
@@ -29361,7 +29361,7 @@ Alameda,Alameda,001,2020-04-19,1181,82,
 Berkeley,Alameda,001,2020-04-19,45,1,TRUE
 Alpine,Alpine,003,2020-04-19,1,0,TRUE
 Amador,Amador,005,2020-04-19,7,0,TRUE
-Butte,Butte,007,2020-04-19,16,0,TRUE
+Butte,Butte,007,2020-04-19,15,0,TRUE
 Calaveras,Calaveras,009,2020-04-19,12,0,TRUE
 Colusa,Colusa,011,2020-04-19,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-19,731,20,
@@ -29417,7 +29417,7 @@ Alameda,Alameda,001,2020-04-18,1127,80,
 Berkeley,Alameda,001,2020-04-18,44,1,TRUE
 Alpine,Alpine,003,2020-04-18,1,0,TRUE
 Amador,Amador,005,2020-04-18,7,0,TRUE
-Butte,Butte,007,2020-04-18,16,0,TRUE
+Butte,Butte,007,2020-04-18,15,0,TRUE
 Calaveras,Calaveras,009,2020-04-18,12,0,TRUE
 Colusa,Colusa,011,2020-04-18,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-18,723,19,
@@ -29473,7 +29473,7 @@ Alameda,Alameda,001,2020-04-17,1075,78,
 Berkeley,Alameda,001,2020-04-17,42,1,
 Alpine,Alpine,003,2020-04-17,1,0,TRUE
 Amador,Amador,005,2020-04-17,7,0,
-Butte,Butte,007,2020-04-17,16,0,
+Butte,Butte,007,2020-04-17,15,0,
 Calaveras,Calaveras,009,2020-04-17,12,0,
 Colusa,Colusa,011,2020-04-17,3,0,
 Contra Costa,Contra Costa,013,2020-04-17,685,19,
@@ -29529,7 +29529,7 @@ Alameda,Alameda,001,2020-04-16,1037,75,
 Berkeley,Alameda,001,2020-04-16,41,1,
 Alpine,Alpine,003,2020-04-16,1,0,
 Amador,Amador,005,2020-04-16,7,0,
-Butte,Butte,007,2020-04-16,16,0,TRUE
+Butte,Butte,007,2020-04-16,15,0,TRUE
 Calaveras,Calaveras,009,2020-04-16,11,0,
 Colusa,Colusa,011,2020-04-16,3,0,
 Contra Costa,Contra Costa,013,2020-04-16,670,16,
@@ -29585,7 +29585,7 @@ Alameda,Alameda,001,2020-04-15,960,73,
 Berkeley,Alameda,001,2020-04-15,39,1,
 Alpine,Alpine,003,2020-04-15,1,0,TRUE
 Amador,Amador,005,2020-04-15,7,0,
-Butte,Butte,007,2020-04-15,16,0,TRUE
+Butte,Butte,007,2020-04-15,14,0,TRUE
 Calaveras,Calaveras,009,2020-04-15,11,0,
 Colusa,Colusa,011,2020-04-15,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-15,650,14,
@@ -29641,7 +29641,7 @@ Alameda,Alameda,001,2020-04-14,933,72,TRUE
 Berkeley,Alameda,001,2020-04-14,37,1,
 Alpine,Alpine,003,2020-04-14,1,0,TRUE
 Amador,Amador,005,2020-04-14,7,0,
-Butte,Butte,007,2020-04-14,16,0,
+Butte,Butte,007,2020-04-14,13,0,
 Calaveras,Calaveras,009,2020-04-14,9,0,
 Colusa,Colusa,011,2020-04-14,3,0,
 Contra Costa,Contra Costa,013,2020-04-14,628,12,
@@ -29697,7 +29697,7 @@ Alameda,Alameda,001,2020-04-13,902,70,
 Berkeley,Alameda,001,2020-04-13,37,1,
 Alpine,Alpine,003,2020-04-13,1,0,
 Amador,Amador,005,2020-04-13,7,0,
-Butte,Butte,007,2020-04-13,15,0,
+Butte,Butte,007,2020-04-13,13,0,
 Calaveras,Calaveras,009,2020-04-13,9,0,
 Colusa,Colusa,011,2020-04-13,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-13,585,11,
@@ -29753,7 +29753,7 @@ Alameda,Alameda,001,2020-04-12,850,67,
 Berkeley,Alameda,001,2020-04-12,37,1,TRUE
 Alpine,Alpine,003,2020-04-12,1,0,TRUE
 Amador,Amador,005,2020-04-12,7,0,TRUE
-Butte,Butte,007,2020-04-12,14,0,TRUE
+Butte,Butte,007,2020-04-12,13,0,TRUE
 Calaveras,Calaveras,009,2020-04-12,8,0,TRUE
 Colusa,Colusa,011,2020-04-12,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-12,565,11,
@@ -29809,7 +29809,7 @@ Alameda,Alameda,001,2020-04-11,803,62,
 Berkeley,Alameda,001,2020-04-11,37,1,TRUE
 Alpine,Alpine,003,2020-04-11,1,0,TRUE
 Amador,Amador,005,2020-04-11,7,0,TRUE
-Butte,Butte,007,2020-04-11,14,0,TRUE
+Butte,Butte,007,2020-04-11,13,0,TRUE
 Calaveras,Calaveras,009,2020-04-11,8,0,TRUE
 Colusa,Colusa,011,2020-04-11,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-11,556,11,
@@ -29865,7 +29865,7 @@ Alameda,Alameda,001,2020-04-10,773,59,
 Berkeley,Alameda,001,2020-04-10,37,1,
 Alpine,Alpine,003,2020-04-10,1,0,
 Amador,Amador,005,2020-04-10,7,0,
-Butte,Butte,007,2020-04-10,14,0,
+Butte,Butte,007,2020-04-10,13,0,
 Calaveras,Calaveras,009,2020-04-10,8,0,
 Colusa,Colusa,011,2020-04-10,3,0,
 Contra Costa,Contra Costa,013,2020-04-10,532,9,
@@ -29921,7 +29921,7 @@ Alameda,Alameda,001,2020-04-09,718,58,
 Berkeley,Alameda,001,2020-04-09,34,1,
 Alpine,Alpine,003,2020-04-09,1,0,
 Amador,Amador,005,2020-04-09,7,0,
-Butte,Butte,007,2020-04-09,13,0,
+Butte,Butte,007,2020-04-09,12,0,
 Calaveras,Calaveras,009,2020-04-09,8,0,
 Colusa,Colusa,011,2020-04-09,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-09,504,8,
@@ -29977,7 +29977,7 @@ Alameda,Alameda,001,2020-04-08,679,54,
 Berkeley,Alameda,001,2020-04-08,33,1,
 Alpine,Alpine,003,2020-04-08,1,0,
 Amador,Amador,005,2020-04-08,3,0,
-Butte,Butte,007,2020-04-08,13,0,
+Butte,Butte,007,2020-04-08,11,0,
 Calaveras,Calaveras,009,2020-04-08,5,0,
 Colusa,Colusa,011,2020-04-08,3,0,
 Contra Costa,Contra Costa,013,2020-04-08,482,7,
@@ -30033,7 +30033,7 @@ Alameda,Alameda,001,2020-04-07,652,50,
 Berkeley,Alameda,001,2020-04-07,31,1,
 Alpine,Alpine,003,2020-04-07,1,0,TRUE
 Amador,Amador,005,2020-04-07,3,0,
-Butte,Butte,007,2020-04-07,13,0,
+Butte,Butte,007,2020-04-07,11,0,
 Calaveras,Calaveras,009,2020-04-07,5,0,
 Colusa,Colusa,011,2020-04-07,3,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-07,461,7,
@@ -30089,7 +30089,7 @@ Alameda,Alameda,001,2020-04-06,610,50,
 Berkeley,Alameda,001,2020-04-06,30,1,
 Alpine,Alpine,003,2020-04-06,1,0,
 Amador,Amador,005,2020-04-06,3,0,
-Butte,Butte,007,2020-04-06,12,0,
+Butte,Butte,007,2020-04-06,11,0,
 Calaveras,Calaveras,009,2020-04-06,5,0,
 Colusa,Colusa,011,2020-04-06,3,0,
 Contra Costa,Contra Costa,013,2020-04-06,435,7,
@@ -30145,7 +30145,7 @@ Alameda,Alameda,001,2020-04-05,581,49,
 Berkeley,Alameda,001,2020-04-05,30,1,TRUE
 Alpine,Alpine,003,2020-04-05,1,0,TRUE
 Amador,Amador,005,2020-04-05,3,0,
-Butte,Butte,007,2020-04-05,11,0,TRUE
+Butte,Butte,007,2020-04-05,10,0,TRUE
 Calaveras,Calaveras,009,2020-04-05,4,0,TRUE
 Colusa,Colusa,011,2020-04-05,2,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-05,409,6,
@@ -30201,7 +30201,7 @@ Alameda,Alameda,001,2020-04-04,552,47,
 Berkeley,Alameda,001,2020-04-04,29,1,TRUE
 Alpine,Alpine,003,2020-04-04,1,0,TRUE
 Amador,Amador,005,2020-04-04,3,0,TRUE
-Butte,Butte,007,2020-04-04,11,0,TRUE
+Butte,Butte,007,2020-04-04,10,0,TRUE
 Calaveras,Calaveras,009,2020-04-04,4,0,TRUE
 Colusa,Colusa,011,2020-04-04,2,0,TRUE
 Contra Costa,Contra Costa,013,2020-04-04,376,5,
@@ -30256,7 +30256,7 @@ Alameda,Alameda,001,2020-04-03,484,46,
 Berkeley,Alameda,001,2020-04-03,25,1,
 Alpine,Alpine,003,2020-04-03,1,0,TRUE
 Amador,Amador,005,2020-04-03,3,0,
-Butte,Butte,007,2020-04-03,11,0,
+Butte,Butte,007,2020-04-03,8,0,
 Calaveras,Calaveras,009,2020-04-03,4,0,
 Colusa,Colusa,011,2020-04-03,2,0,
 Contra Costa,Contra Costa,013,2020-04-03,324,5,
@@ -30311,7 +30311,7 @@ Alameda,Alameda,001,2020-04-02,434,38,
 Berkeley,Alameda,001,2020-04-02,24,1,
 Alpine,Alpine,003,2020-04-02,1,0,TRUE
 Amador,Amador,005,2020-04-02,3,0,
-Butte,Butte,007,2020-04-02,10,0,
+Butte,Butte,007,2020-04-02,7,0,
 Calaveras,Calaveras,009,2020-04-02,3,0,
 Colusa,Colusa,011,2020-04-02,1,0,
 Contra Costa,Contra Costa,013,2020-04-02,294,3,
@@ -30366,7 +30366,7 @@ Alameda,Alameda,001,2020-04-01,395,30,
 Berkeley,Alameda,001,2020-04-01,20,1,
 Alpine,Alpine,003,2020-04-01,1,0,TRUE
 Amador,Amador,005,2020-04-01,3,0,
-Butte,Butte,007,2020-04-01,9,0,
+Butte,Butte,007,2020-04-01,6,0,
 Calaveras,Calaveras,009,2020-04-01,3,0,
 Colusa,Colusa,011,2020-04-01,1,0,
 Contra Costa,Contra Costa,013,2020-04-01,270,3,
@@ -30420,7 +30420,7 @@ Alameda,Alameda,001,2020-03-31,354,28,
 Berkeley,Alameda,001,2020-03-31,19,0,
 Alpine,Alpine,003,2020-03-31,1,0,TRUE
 Amador,Amador,005,2020-03-31,2,0,
-Butte,Butte,007,2020-03-31,8,0,
+Butte,Butte,007,2020-03-31,6,0,
 Calaveras,Calaveras,009,2020-03-31,3,0,
 Colusa,Colusa,011,2020-03-31,1,0,
 Contra Costa,Contra Costa,013,2020-03-31,240,3,
@@ -30473,7 +30473,7 @@ Alameda,Alameda,001,2020-03-30,305,25,
 Berkeley,Alameda,001,2020-03-30,19,0,
 Alpine,Alpine,003,2020-03-30,1,0,
 Amador,Amador,005,2020-03-30,2,0,
-Butte,Butte,007,2020-03-30,8,0,
+Butte,Butte,007,2020-03-30,5,0,
 Calaveras,Calaveras,009,2020-03-30,3,0,
 Colusa,Colusa,011,2020-03-30,1,0,TRUE
 Contra Costa,Contra Costa,013,2020-03-30,217,3,
@@ -30524,7 +30524,7 @@ Yuba,Yuba,115,2020-03-30,6,0,
 Alameda,Alameda,001,2020-03-29,296,21,
 Berkeley,Alameda,001,2020-03-29,19,0,TRUE
 Amador,Amador,005,2020-03-29,2,0,
-Butte,Butte,007,2020-03-29,5,0,TRUE
+Butte,Butte,007,2020-03-29,4,0,TRUE
 Calaveras,Calaveras,009,2020-03-29,3,0,TRUE
 Colusa,Colusa,011,2020-03-29,1,0,TRUE
 Contra Costa,Contra Costa,013,2020-03-29,197,3,
@@ -30574,7 +30574,7 @@ Yuba,Yuba,115,2020-03-29,4,0,
 Alameda,Alameda,001,2020-03-28,279,19,
 Berkeley,Alameda,001,2020-03-28,19,0,TRUE
 Amador,Amador,005,2020-03-28,2,0,
-Butte,Butte,007,2020-03-28,5,0,TRUE
+Butte,Butte,007,2020-03-28,8,0,TRUE
 Calaveras,Calaveras,009,2020-03-28,3,0,TRUE
 Colusa,Colusa,011,2020-03-28,1,0,TRUE
 Contra Costa,Contra Costa,013,2020-03-28,181,3,
@@ -30624,7 +30624,7 @@ Yuba,Yuba,115,2020-03-28,3,0,
 Alameda,Alameda,001,2020-03-27,246,19,
 Berkeley,Alameda,001,2020-03-27,16,0,
 Amador,Amador,005,2020-03-27,2,0,
-Butte,Butte,007,2020-03-27,5,0,
+Butte,Butte,007,2020-03-27,4,0,
 Calaveras,Calaveras,009,2020-03-27,3,0,
 Colusa,Colusa,011,2020-03-27,1,0,
 Contra Costa,Contra Costa,013,2020-03-27,158,2,
@@ -30674,7 +30674,7 @@ Yuba,Yuba,115,2020-03-27,3,0,
 Alameda,Alameda,001,2020-03-26,210,16,
 Berkeley,Alameda,001,2020-03-26,14,0,
 Amador,Amador,005,2020-03-26,2,0,TRUE
-Butte,Butte,007,2020-03-26,5,0,
+Butte,Butte,007,2020-03-26,4,0,
 Calaveras,Calaveras,009,2020-03-26,3,0,
 Contra Costa,Contra Costa,013,2020-03-26,142,1,
 El Dorado,El Dorado,017,2020-03-26,9,0,
@@ -30768,7 +30768,7 @@ Yuba,Yuba,115,2020-03-25,3,0,
 Alameda,Alameda,001,2020-03-24,153,10,
 Berkeley,Alameda,001,2020-03-24,11,0,
 Amador,Amador,005,2020-03-24,2,0,
-Butte,Butte,007,2020-03-24,4,0,
+Butte,Butte,007,2020-03-24,3,0,
 Calaveras,Calaveras,009,2020-03-24,2,0,
 Contra Costa,Contra Costa,013,2020-03-24,91,1,
 El Dorado,El Dorado,017,2020-03-24,3,0,
@@ -30813,7 +30813,7 @@ Yuba,Yuba,115,2020-03-24,3,0,
 Alameda,Alameda,001,2020-03-23,134,8,
 Berkeley,Alameda,001,2020-03-23,6,0,
 Amador,Amador,005,2020-03-23,2,0,
-Butte,Butte,007,2020-03-23,3,0,
+Butte,Butte,007,2020-03-23,2,0,
 Calaveras,Calaveras,009,2020-03-23,2,0,
 Contra Costa,Contra Costa,013,2020-03-23,76,1,
 El Dorado,El Dorado,017,2020-03-23,2,0,
@@ -30858,7 +30858,7 @@ Yuba,Yuba,115,2020-03-23,3,0,
 Alameda,Alameda,001,2020-03-22,108,7,
 Berkeley,Alameda,001,2020-03-22,5,0,TRUE
 Amador,Amador,005,2020-03-22,2,0,
-Butte,Butte,007,2020-03-22,2,0,
+Butte,Butte,007,2020-03-22,1,0,
 Calaveras,Calaveras,009,2020-03-22,2,0,TRUE
 Contra Costa,Contra Costa,013,2020-03-22,64,1,
 El Dorado,El Dorado,017,2020-03-22,2,0,TRUE
