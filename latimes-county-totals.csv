@@ -1,8 +1,8 @@
 date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-16,Alameda,001,102101,1302,628,1
 2021-08-16,Alpine,003,89,0,0,0
-2021-08-16,Amador,005,4130,49,0,0
-2021-08-16,Butte,007,14179,202,0,0
+2021-08-16,Amador,005,4199,50,69,1
+2021-08-16,Butte,007,14367,202,188,0
 2021-08-16,Calaveras,009,2556,61,19,3
 2021-08-16,Colusa,011,2565,18,106,0
 2021-08-16,Contra Costa,013,82440,846,290,0
@@ -21,7 +21,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-16,Madera,039,17381,249,0,0
 2021-08-16,Marin,041,15683,215,72,0
 2021-08-16,Mariposa,043,662,7,26,0
-2021-08-16,Mendocino,045,5267,54,0,0
+2021-08-16,Mendocino,045,5332,55,65,1
 2021-08-16,Merced,047,34558,492,0,0
 2021-08-16,Modoc,049,581,7,0,0
 2021-08-16,Mono,051,1387,5,10,0
@@ -39,7 +39,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-16,San Francisco,075,44076,570,289,0
 2021-08-16,San Joaquin,077,80832,1488,1191,10
 2021-08-16,San Luis Obispo,079,23359,271,0,0
-2021-08-16,San Mateo,081,46667,592,436,0
+2021-08-16,San Mateo,081,46760,592,529,0
 2021-08-16,Santa Barbara,083,37454,470,321,0
 2021-08-16,Santa Clara,085,128454,1716,1008,0
 2021-08-16,Santa Cruz,087,17497,209,225,0
@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-16,Sierra,091,152,0,2,0
 2021-08-16,Siskiyou,093,2822,40,36,0
 2021-08-16,Solano,095,37914,259,250,5
-2021-08-16,Sonoma,097,34686,338,0,0
+2021-08-16,Sonoma,097,34839,338,153,0
 2021-08-16,Stanislaus,099,62520,1108,740,2
 2021-08-16,Sutter,101,11014,113,152,0
 2021-08-16,Tehama,103,6214,66,0,0
