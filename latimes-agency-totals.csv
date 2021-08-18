@@ -2,7 +2,7 @@ agency,county,fips,date,confirmed_cases,deaths,did_not_update
 Alameda,Alameda,001,2021-08-17,98513,1253,
 Berkeley,Alameda,001,2021-08-17,4238,52,
 Alpine,Alpine,003,2021-08-17,89,0,TRUE
-Amador,Amador,005,2021-08-17,4199,50,TRUE
+Amador,Amador,005,2021-08-17,4215,50,
 Butte,Butte,007,2021-08-17,14448,205,
 Calaveras,Calaveras,009,2021-08-17,2590,61,
 Colusa,Colusa,011,2021-08-17,2565,18,TRUE
@@ -26,7 +26,7 @@ Marin,Marin,041,2021-08-17,15717,215,
 Mariposa,Mariposa,043,2021-08-17,673,8,
 Mendocino,Mendocino,045,2021-08-17,5332,55,TRUE
 Merced,Merced,047,2021-08-17,34558,492,TRUE
-Modoc,Modoc,049,2021-08-17,581,7,TRUE
+Modoc,Modoc,049,2021-08-17,588,7,
 Mono,Mono,051,2021-08-17,1387,5,TRUE
 Monterey,Monterey,053,2021-08-17,45528,531,
 Napa,Napa,055,2021-08-17,11021,82,
@@ -42,7 +42,7 @@ San Diego,San Diego,073,2021-08-17,317058,3824,
 San Francisco,San Francisco,075,2021-08-17,44426,570,
 San Joaquin,San Joaquin,077,2021-08-17,80832,1488,TRUE
 San Luis Obispo,San Luis Obispo,079,2021-08-17,23737,273,
-San Mateo,San Mateo,081,2021-08-17,46760,592,TRUE
+San Mateo,San Mateo,081,2021-08-17,46904,592,
 Santa Barbara,Santa Barbara,083,2021-08-17,37566,470,
 Santa Clara,Santa Clara,085,2021-08-17,128862,1716,
 Santa Cruz,Santa Cruz,087,2021-08-17,17497,209,TRUE
@@ -50,7 +50,7 @@ Shasta,Shasta,089,2021-08-17,14001,247,
 Sierra,Sierra,091,2021-08-17,154,0,
 Siskiyou,Siskiyou,093,2021-08-17,2876,40,
 Solano,Solano,095,2021-08-17,37914,259,TRUE
-Sonoma,Sonoma,097,2021-08-17,34839,338,TRUE
+Sonoma,Sonoma,097,2021-08-17,34992,340,
 Stanislaus,Stanislaus,099,2021-08-17,62883,1109,
 Sutter,Sutter,101,2021-08-17,11061,113,
 Tehama,Tehama,103,2021-08-17,6214,66,TRUE
