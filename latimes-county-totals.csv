@@ -47,7 +47,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-22,Sierra,091,160,0,0,0
 2021-08-22,Siskiyou,093,2944,40,0,0
 2021-08-22,Solano,095,38764,262,0,0
-2021-08-22,Sonoma,097,35558,344,0,0
+2021-08-22,Sonoma,097,35562,344,4,0
 2021-08-22,Stanislaus,099,63719,1117,0,0
 2021-08-22,Sutter,101,11243,117,0,0
 2021-08-22,Tehama,103,6503,66,0,0
