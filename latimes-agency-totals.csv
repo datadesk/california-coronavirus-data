@@ -1,4 +1,65 @@
 agency,county,fips,date,confirmed_cases,deaths,did_not_update
+Alameda,Alameda,001,2021-08-24,101111,1258,
+Berkeley,Alameda,001,2021-08-24,4360,53,
+Alpine,Alpine,003,2021-08-24,89,0,TRUE
+Amador,Amador,005,2021-08-24,4342,50,
+Butte,Butte,007,2021-08-24,15076,208,
+Calaveras,Calaveras,009,2021-08-24,2688,61,
+Colusa,Colusa,011,2021-08-24,2655,18,TRUE
+Contra Costa,Contra Costa,013,2021-08-24,85338,854,
+Del Norte,Del Norte,015,2021-08-24,2635,18,
+El Dorado,El Dorado,017,2021-08-24,12798,122,
+Fresno,Fresno,019,2021-08-24,112445,1759,
+Glenn,Glenn,021,2021-08-24,2696,20,
+Humboldt,Humboldt,023,2021-08-24,6643,62,
+Imperial,Imperial,025,2021-08-24,29669,751,
+Inyo,Inyo,027,2021-08-24,1520,39,TRUE
+Kern,Kern,029,2021-08-24,121299,1448,
+Kings,Kings,031,2021-08-24,25705,259,
+Lake,Lake,033,2021-08-24,5099,69,
+Lassen,Lassen,035,2021-08-24,6122,27,TRUE
+Long Beach,Los Angeles,037,2021-08-24,60215,969,
+Los Angeles,Los Angeles,037,2021-08-24,1315856,23794,
+Pasadena,Los Angeles,037,2021-08-24,12601,354,
+Madera,Madera,039,2021-08-24,18129,250,
+Marin,Marin,041,2021-08-24,16033,215,
+Mariposa,Mariposa,043,2021-08-24,749,10,
+Mendocino,Mendocino,045,2021-08-24,5729,58,
+Merced,Merced,047,2021-08-24,35820,502,
+Modoc,Modoc,049,2021-08-24,599,7,
+Mono,Mono,051,2021-08-24,1428,5,
+Monterey,Monterey,053,2021-08-24,46035,542,
+Napa,Napa,055,2021-08-24,11327,89,
+Nevada,Nevada,057,2021-08-24,6785,81,
+Orange,Orange,059,2021-08-24,281609,5184,
+Placer,Placer,061,2021-08-24,28665,316,
+Plumas,Plumas,063,2021-08-24,929,6,
+Riverside,Riverside,065,2021-08-24,329184,4707,
+Sacramento,Sacramento,067,2021-08-24,128853,1862,
+San Benito,San Benito,069,2021-08-24,6610,65,
+San Bernardino,San Bernardino,071,2021-08-24,325337,4901,
+San Diego,San Diego,073,2021-08-24,325823,3851,
+San Francisco,San Francisco,075,2021-08-24,45707,577,
+San Joaquin,San Joaquin,077,2021-08-24,83121,1498,TRUE
+San Luis Obispo,San Luis Obispo,079,2021-08-24,24622,279,
+San Mateo,San Mateo,081,2021-08-24,47703,594,
+Santa Barbara,Santa Barbara,083,2021-08-24,38414,473,
+Santa Clara,Santa Clara,085,2021-08-24,131272,1721,
+Santa Cruz,Santa Cruz,087,2021-08-24,17792,209,TRUE
+Shasta,Shasta,089,2021-08-24,14766,252,
+Sierra,Sierra,091,2021-08-24,174,0,TRUE
+Siskiyou,Siskiyou,093,2021-08-24,3059,40,
+Solano,Solano,095,2021-08-24,39002,264,TRUE
+Sonoma,Sonoma,097,2021-08-24,35664,344,TRUE
+Stanislaus,Stanislaus,099,2021-08-24,64706,1120,
+Sutter,Sutter,101,2021-08-24,11519,118,
+Tehama,Tehama,103,2021-08-24,6605,67,
+Trinity,Trinity,105,2021-08-24,597,8,
+Tulare,Tulare,107,2021-08-24,53129,855,
+Tuolumne,Tuolumne,109,2021-08-24,5465,87,
+Ventura,Ventura,111,2021-08-24,89239,1061,
+Yolo,Yolo,113,2021-08-24,16458,229,
+Yuba,Yuba,115,2021-08-24,8179,47,
 Alameda,Alameda,001,2021-08-23,100511,1257,
 Berkeley,Alameda,001,2021-08-23,4348,52,
 Alpine,Alpine,003,2021-08-23,89,0,TRUE
@@ -10,7 +71,7 @@ Contra Costa,Contra Costa,013,2021-08-23,85019,854,
 Del Norte,Del Norte,015,2021-08-23,2447,15,TRUE
 El Dorado,El Dorado,017,2021-08-23,12747,122,
 Fresno,Fresno,019,2021-08-23,112057,1759,
-Glenn,Glenn,021,2021-08-23,2516,27,
+Glenn,Glenn,021,2021-08-23,2516,20,
 Humboldt,Humboldt,023,2021-08-23,6529,62,
 Imperial,Imperial,025,2021-08-23,29447,749,TRUE
 Inyo,Inyo,027,2021-08-23,1520,39,
@@ -50,7 +111,7 @@ Shasta,Shasta,089,2021-08-23,14591,251,
 Sierra,Sierra,091,2021-08-23,174,0,
 Siskiyou,Siskiyou,093,2021-08-23,3014,40,
 Solano,Solano,095,2021-08-23,39002,264,
-Sonoma,Sonoma,097,2021-08-23,35562,344,TRUE
+Sonoma,Sonoma,097,2021-08-23,35664,344,
 Stanislaus,Stanislaus,099,2021-08-23,64417,1118,
 Sutter,Sutter,101,2021-08-23,11427,118,
 Tehama,Tehama,103,2021-08-23,6503,66,TRUE
@@ -71,7 +132,7 @@ Contra Costa,Contra Costa,013,2021-08-22,84729,854,
 Del Norte,Del Norte,015,2021-08-22,2447,15,TRUE
 El Dorado,El Dorado,017,2021-08-22,12545,122,TRUE
 Fresno,Fresno,019,2021-08-22,111765,1759,
-Glenn,Glenn,021,2021-08-22,2502,27,TRUE
+Glenn,Glenn,021,2021-08-22,2502,20,TRUE
 Humboldt,Humboldt,023,2021-08-22,6427,61,TRUE
 Imperial,Imperial,025,2021-08-22,29447,749,TRUE
 Inyo,Inyo,027,2021-08-22,1518,39,TRUE
@@ -132,7 +193,7 @@ Contra Costa,Contra Costa,013,2021-08-21,84491,854,
 Del Norte,Del Norte,015,2021-08-21,2447,15,TRUE
 El Dorado,El Dorado,017,2021-08-21,12545,122,TRUE
 Fresno,Fresno,019,2021-08-21,111315,1759,
-Glenn,Glenn,021,2021-08-21,2502,27,TRUE
+Glenn,Glenn,021,2021-08-21,2502,20,TRUE
 Humboldt,Humboldt,023,2021-08-21,6427,61,TRUE
 Imperial,Imperial,025,2021-08-21,29447,749,TRUE
 Inyo,Inyo,027,2021-08-21,1518,39,TRUE
@@ -193,7 +254,7 @@ Contra Costa,Contra Costa,013,2021-08-20,84082,854,
 Del Norte,Del Norte,015,2021-08-20,2447,15,
 El Dorado,El Dorado,017,2021-08-20,12545,122,
 Fresno,Fresno,019,2021-08-20,110947,1759,
-Glenn,Glenn,021,2021-08-20,2502,27,
+Glenn,Glenn,021,2021-08-20,2502,20,
 Humboldt,Humboldt,023,2021-08-20,6427,61,
 Imperial,Imperial,025,2021-08-20,29447,749,
 Inyo,Inyo,027,2021-08-20,1518,39,TRUE
@@ -254,7 +315,7 @@ Contra Costa,Contra Costa,013,2021-08-19,83651,849,
 Del Norte,Del Norte,015,2021-08-19,2376,15,
 El Dorado,El Dorado,017,2021-08-19,12461,122,
 Fresno,Fresno,019,2021-08-19,110523,1759,
-Glenn,Glenn,021,2021-08-19,2489,27,
+Glenn,Glenn,021,2021-08-19,2489,20,
 Humboldt,Humboldt,023,2021-08-19,6341,59,
 Imperial,Imperial,025,2021-08-19,29446,749,
 Inyo,Inyo,027,2021-08-19,1518,39,TRUE
@@ -315,7 +376,7 @@ Contra Costa,Contra Costa,013,2021-08-18,82850,846,TRUE
 Del Norte,Del Norte,015,2021-08-18,2306,15,
 El Dorado,El Dorado,017,2021-08-18,12363,122,
 Fresno,Fresno,019,2021-08-18,110263,1755,
-Glenn,Glenn,021,2021-08-18,2472,27,
+Glenn,Glenn,021,2021-08-18,2472,20,
 Humboldt,Humboldt,023,2021-08-18,6288,59,
 Imperial,Imperial,025,2021-08-18,29396,748,TRUE
 Inyo,Inyo,027,2021-08-18,1518,39,
@@ -376,7 +437,7 @@ Contra Costa,Contra Costa,013,2021-08-17,82850,846,
 Del Norte,Del Norte,015,2021-08-17,2275,14,
 El Dorado,El Dorado,017,2021-08-17,12298,122,
 Fresno,Fresno,019,2021-08-17,109623,1753,
-Glenn,Glenn,021,2021-08-17,2471,27,
+Glenn,Glenn,021,2021-08-17,2471,20,
 Humboldt,Humboldt,023,2021-08-17,6252,59,
 Imperial,Imperial,025,2021-08-17,29396,748,
 Inyo,Inyo,027,2021-08-17,1518,39,
@@ -437,7 +498,7 @@ Contra Costa,Contra Costa,013,2021-08-16,82440,846,
 Del Norte,Del Norte,015,2021-08-16,2240,13,
 El Dorado,El Dorado,017,2021-08-16,12195,122,
 Fresno,Fresno,019,2021-08-16,109382,1753,
-Glenn,Glenn,021,2021-08-16,2457,27,TRUE
+Glenn,Glenn,021,2021-08-16,2457,20,TRUE
 Humboldt,Humboldt,023,2021-08-16,6161,59,
 Imperial,Imperial,025,2021-08-16,29237,746,TRUE
 Inyo,Inyo,027,2021-08-16,1509,39,TRUE
@@ -498,7 +559,7 @@ Contra Costa,Contra Costa,013,2021-08-15,82150,846,
 Del Norte,Del Norte,015,2021-08-15,2060,10,TRUE
 El Dorado,El Dorado,017,2021-08-15,12001,122,TRUE
 Fresno,Fresno,019,2021-08-15,109056,1753,
-Glenn,Glenn,021,2021-08-15,2457,27,TRUE
+Glenn,Glenn,021,2021-08-15,2457,20,TRUE
 Humboldt,Humboldt,023,2021-08-15,5970,58,TRUE
 Imperial,Imperial,025,2021-08-15,29237,746,TRUE
 Inyo,Inyo,027,2021-08-15,1509,39,TRUE
@@ -559,7 +620,7 @@ Contra Costa,Contra Costa,013,2021-08-14,81823,846,
 Del Norte,Del Norte,015,2021-08-14,2060,10,TRUE
 El Dorado,El Dorado,017,2021-08-14,12001,122,TRUE
 Fresno,Fresno,019,2021-08-14,108638,1753,
-Glenn,Glenn,021,2021-08-14,2457,27,TRUE
+Glenn,Glenn,021,2021-08-14,2457,20,TRUE
 Humboldt,Humboldt,023,2021-08-14,5970,58,TRUE
 Imperial,Imperial,025,2021-08-14,29237,746,TRUE
 Inyo,Inyo,027,2021-08-14,1509,39,TRUE
@@ -620,7 +681,7 @@ Contra Costa,Contra Costa,013,2021-08-13,81406,846,
 Del Norte,Del Norte,015,2021-08-13,2060,10,
 El Dorado,El Dorado,017,2021-08-13,12001,122,
 Fresno,Fresno,019,2021-08-13,108193,1753,
-Glenn,Glenn,021,2021-08-13,2457,27,
+Glenn,Glenn,021,2021-08-13,2457,20,
 Humboldt,Humboldt,023,2021-08-13,5970,58,
 Imperial,Imperial,025,2021-08-13,29237,746,TRUE
 Inyo,Inyo,027,2021-08-13,1509,39,TRUE
@@ -681,7 +742,7 @@ Contra Costa,Contra Costa,013,2021-08-12,81090,843,
 Del Norte,Del Norte,015,2021-08-12,2026,10,
 El Dorado,El Dorado,017,2021-08-12,11973,122,
 Fresno,Fresno,019,2021-08-12,107773,1751,
-Glenn,Glenn,021,2021-08-12,2445,27,
+Glenn,Glenn,021,2021-08-12,2445,20,
 Humboldt,Humboldt,023,2021-08-12,5929,58,
 Imperial,Imperial,025,2021-08-12,29237,746,
 Inyo,Inyo,027,2021-08-12,1509,39,
@@ -742,7 +803,7 @@ Contra Costa,Contra Costa,013,2021-08-11,80628,841,
 Del Norte,Del Norte,015,2021-08-11,1972,10,
 El Dorado,El Dorado,017,2021-08-11,11900,122,
 Fresno,Fresno,019,2021-08-11,107616,1747,
-Glenn,Glenn,021,2021-08-11,2444,27,
+Glenn,Glenn,021,2021-08-11,2444,20,
 Humboldt,Humboldt,023,2021-08-11,5841,57,
 Imperial,Imperial,025,2021-08-11,29206,746,TRUE
 Inyo,Inyo,027,2021-08-11,1498,39,TRUE
@@ -803,7 +864,7 @@ Contra Costa,Contra Costa,013,2021-08-10,80368,838,
 Del Norte,Del Norte,015,2021-08-10,1946,10,
 El Dorado,El Dorado,017,2021-08-10,11822,121,
 Fresno,Fresno,019,2021-08-10,107310,1747,
-Glenn,Glenn,021,2021-08-10,2441,27,
+Glenn,Glenn,021,2021-08-10,2441,20,
 Humboldt,Humboldt,023,2021-08-10,5808,57,
 Imperial,Imperial,025,2021-08-10,29206,746,
 Inyo,Inyo,027,2021-08-10,1498,39,TRUE
@@ -864,7 +925,7 @@ Contra Costa,Contra Costa,013,2021-08-09,80100,838,
 Del Norte,Del Norte,015,2021-08-09,1919,10,
 El Dorado,El Dorado,017,2021-08-09,11762,121,
 Fresno,Fresno,019,2021-08-09,107078,1747,
-Glenn,Glenn,021,2021-08-09,2424,27,
+Glenn,Glenn,021,2021-08-09,2424,20,
 Humboldt,Humboldt,023,2021-08-09,5717,56,
 Imperial,Imperial,025,2021-08-09,29078,746,TRUE
 Inyo,Inyo,027,2021-08-09,1498,39,TRUE
@@ -925,7 +986,7 @@ Contra Costa,Contra Costa,013,2021-08-08,79814,838,
 Del Norte,Del Norte,015,2021-08-08,1838,10,TRUE
 El Dorado,El Dorado,017,2021-08-08,11566,121,TRUE
 Fresno,Fresno,019,2021-08-08,106861,1747,
-Glenn,Glenn,021,2021-08-08,2420,27,TRUE
+Glenn,Glenn,021,2021-08-08,2420,20,TRUE
 Humboldt,Humboldt,023,2021-08-08,5501,56,TRUE
 Imperial,Imperial,025,2021-08-08,29078,746,TRUE
 Inyo,Inyo,027,2021-08-08,1498,39,TRUE
@@ -986,7 +1047,7 @@ Contra Costa,Contra Costa,013,2021-08-07,79530,838,
 Del Norte,Del Norte,015,2021-08-07,1838,10,TRUE
 El Dorado,El Dorado,017,2021-08-07,11566,121,TRUE
 Fresno,Fresno,019,2021-08-07,106542,1747,
-Glenn,Glenn,021,2021-08-07,2420,27,TRUE
+Glenn,Glenn,021,2021-08-07,2420,20,TRUE
 Humboldt,Humboldt,023,2021-08-07,5501,56,TRUE
 Imperial,Imperial,025,2021-08-07,29078,746,TRUE
 Inyo,Inyo,027,2021-08-07,1498,39,
@@ -1047,7 +1108,7 @@ Contra Costa,Contra Costa,013,2021-08-06,79145,838,
 Del Norte,Del Norte,015,2021-08-06,1838,10,
 El Dorado,El Dorado,017,2021-08-06,11566,121,
 Fresno,Fresno,019,2021-08-06,106219,1747,
-Glenn,Glenn,021,2021-08-06,2420,27,
+Glenn,Glenn,021,2021-08-06,2420,20,
 Humboldt,Humboldt,023,2021-08-06,5501,56,
 Imperial,Imperial,025,2021-08-06,29078,746,
 Inyo,Inyo,027,2021-08-06,1482,38,TRUE
@@ -1108,7 +1169,7 @@ Contra Costa,Contra Costa,013,2021-08-05,78869,838,
 Del Norte,Del Norte,015,2021-08-05,1799,10,
 El Dorado,El Dorado,017,2021-08-05,11470,121,
 Fresno,Fresno,019,2021-08-05,105899,1747,
-Glenn,Glenn,021,2021-08-05,2413,27,
+Glenn,Glenn,021,2021-08-05,2413,20,
 Humboldt,Humboldt,023,2021-08-05,5401,55,
 Imperial,Imperial,025,2021-08-05,29078,746,
 Inyo,Inyo,027,2021-08-05,1482,38,TRUE
@@ -1169,7 +1230,7 @@ Contra Costa,Contra Costa,013,2021-08-04,78314,838,
 Del Norte,Del Norte,015,2021-08-04,1777,10,
 El Dorado,El Dorado,017,2021-08-04,11375,121,
 Fresno,Fresno,019,2021-08-04,105732,1746,
-Glenn,Glenn,021,2021-08-04,2410,27,
+Glenn,Glenn,021,2021-08-04,2410,20,
 Humboldt,Humboldt,023,2021-08-04,5351,54,
 Imperial,Imperial,025,2021-08-04,29036,746,
 Inyo,Inyo,027,2021-08-04,1482,38,TRUE
@@ -1230,7 +1291,7 @@ Contra Costa,Contra Costa,013,2021-08-03,78084,834,
 Del Norte,Del Norte,015,2021-08-03,1747,10,
 El Dorado,El Dorado,017,2021-08-03,11312,121,
 Fresno,Fresno,019,2021-08-03,105471,1746,
-Glenn,Glenn,021,2021-08-03,2406,27,
+Glenn,Glenn,021,2021-08-03,2406,20,
 Humboldt,Humboldt,023,2021-08-03,5269,54,
 Imperial,Imperial,025,2021-08-03,29036,746,
 Inyo,Inyo,027,2021-08-03,1482,38,
@@ -1291,7 +1352,7 @@ Contra Costa,Contra Costa,013,2021-08-02,77866,834,
 Del Norte,Del Norte,015,2021-08-02,1732,9,
 El Dorado,El Dorado,017,2021-08-02,11288,120,
 Fresno,Fresno,019,2021-08-02,105339,1746,
-Glenn,Glenn,021,2021-08-02,2403,27,
+Glenn,Glenn,021,2021-08-02,2403,20,
 Humboldt,Humboldt,023,2021-08-02,5114,53,TRUE
 Imperial,Imperial,025,2021-08-02,28809,745,TRUE
 Inyo,Inyo,027,2021-08-02,1473,38,TRUE
@@ -1352,7 +1413,7 @@ Contra Costa,Contra Costa,013,2021-08-01,77708,834,
 Del Norte,Del Norte,015,2021-08-01,1668,8,TRUE
 El Dorado,El Dorado,017,2021-08-01,11125,120,TRUE
 Fresno,Fresno,019,2021-08-01,104639,1746,TRUE
-Glenn,Glenn,021,2021-08-01,2399,27,TRUE
+Glenn,Glenn,021,2021-08-01,2399,20,TRUE
 Humboldt,Humboldt,023,2021-08-01,5114,53,TRUE
 Imperial,Imperial,025,2021-08-01,28809,745,TRUE
 Inyo,Inyo,027,2021-08-01,1473,38,TRUE
@@ -1413,7 +1474,7 @@ Contra Costa,Contra Costa,013,2021-07-31,77271,834,
 Del Norte,Del Norte,015,2021-07-31,1668,8,TRUE
 El Dorado,El Dorado,017,2021-07-31,11125,120,TRUE
 Fresno,Fresno,019,2021-07-31,104639,1746,TRUE
-Glenn,Glenn,021,2021-07-31,2399,27,TRUE
+Glenn,Glenn,021,2021-07-31,2399,20,TRUE
 Humboldt,Humboldt,023,2021-07-31,5114,53,TRUE
 Imperial,Imperial,025,2021-07-31,28809,745,TRUE
 Inyo,Inyo,027,2021-07-31,1473,38,TRUE
@@ -1474,7 +1535,7 @@ Contra Costa,Contra Costa,013,2021-07-30,76676,833,
 Del Norte,Del Norte,015,2021-07-30,1668,8,
 El Dorado,El Dorado,017,2021-07-30,11125,120,
 Fresno,Fresno,019,2021-07-30,104639,1746,
-Glenn,Glenn,021,2021-07-30,2399,27,
+Glenn,Glenn,021,2021-07-30,2399,20,
 Humboldt,Humboldt,023,2021-07-30,5114,53,
 Imperial,Imperial,025,2021-07-30,28809,745,
 Inyo,Inyo,027,2021-07-30,1473,38,TRUE
@@ -1535,7 +1596,7 @@ Contra Costa,Contra Costa,013,2021-07-29,76206,830,
 Del Norte,Del Norte,015,2021-07-29,1643,8,
 El Dorado,El Dorado,017,2021-07-29,11063,120,
 Fresno,Fresno,019,2021-07-29,104458,1746,
-Glenn,Glenn,021,2021-07-29,2395,27,
+Glenn,Glenn,021,2021-07-29,2395,20,
 Humboldt,Humboldt,023,2021-07-29,5045,53,
 Imperial,Imperial,025,2021-07-29,28809,745,
 Inyo,Inyo,027,2021-07-29,1470,38,
@@ -1596,7 +1657,7 @@ Contra Costa,Contra Costa,013,2021-07-28,75842,830,
 Del Norte,Del Norte,015,2021-07-28,1612,8,
 El Dorado,El Dorado,017,2021-07-28,11010,120,
 Fresno,Fresno,019,2021-07-28,104288,1746,
-Glenn,Glenn,021,2021-07-28,2391,27,
+Glenn,Glenn,021,2021-07-28,2391,20,
 Humboldt,Humboldt,023,2021-07-28,5010,53,
 Imperial,Imperial,025,2021-07-28,28785,745,
 Inyo,Inyo,027,2021-07-28,1453,38,TRUE
@@ -1657,7 +1718,7 @@ Contra Costa,Contra Costa,013,2021-07-27,75580,828,
 Del Norte,Del Norte,015,2021-07-27,1589,8,
 El Dorado,El Dorado,017,2021-07-27,10983,120,
 Fresno,Fresno,019,2021-07-27,104143,1742,
-Glenn,Glenn,021,2021-07-27,2390,27,
+Glenn,Glenn,021,2021-07-27,2390,20,
 Humboldt,Humboldt,023,2021-07-27,4989,53,
 Imperial,Imperial,025,2021-07-27,28784,745,
 Inyo,Inyo,027,2021-07-27,1453,38,TRUE
@@ -1718,7 +1779,7 @@ Contra Costa,Contra Costa,013,2021-07-26,75212,828,
 Del Norte,Del Norte,015,2021-07-26,1581,8,
 El Dorado,El Dorado,017,2021-07-26,10935,120,
 Fresno,Fresno,019,2021-07-26,104019,1742,
-Glenn,Glenn,021,2021-07-26,2389,27,
+Glenn,Glenn,021,2021-07-26,2389,20,
 Humboldt,Humboldt,023,2021-07-26,4971,53,
 Imperial,Imperial,025,2021-07-26,28692,745,
 Inyo,Inyo,027,2021-07-26,1453,38,TRUE
@@ -1779,7 +1840,7 @@ Contra Costa,Contra Costa,013,2021-07-25,74985,828,
 Del Norte,Del Norte,015,2021-07-25,1554,8,TRUE
 El Dorado,El Dorado,017,2021-07-25,10857,120,TRUE
 Fresno,Fresno,019,2021-07-25,103637,1736,TRUE
-Glenn,Glenn,021,2021-07-25,2387,27,TRUE
+Glenn,Glenn,021,2021-07-25,2387,20,TRUE
 Humboldt,Humboldt,023,2021-07-25,4897,53,TRUE
 Imperial,Imperial,025,2021-07-25,28692,745,TRUE
 Inyo,Inyo,027,2021-07-25,1453,38,TRUE
@@ -1840,7 +1901,7 @@ Contra Costa,Contra Costa,013,2021-07-24,74666,828,
 Del Norte,Del Norte,015,2021-07-24,1554,8,TRUE
 El Dorado,El Dorado,017,2021-07-24,10857,120,
 Fresno,Fresno,019,2021-07-24,103637,1736,TRUE
-Glenn,Glenn,021,2021-07-24,2387,27,TRUE
+Glenn,Glenn,021,2021-07-24,2387,20,TRUE
 Humboldt,Humboldt,023,2021-07-24,4897,53,TRUE
 Imperial,Imperial,025,2021-07-24,28692,745,TRUE
 Inyo,Inyo,027,2021-07-24,1453,38,TRUE
@@ -1901,7 +1962,7 @@ Contra Costa,Contra Costa,013,2021-07-23,74369,828,
 Del Norte,Del Norte,015,2021-07-23,1554,8,
 El Dorado,El Dorado,017,2021-07-23,10804,120,
 Fresno,Fresno,019,2021-07-23,103637,1736,
-Glenn,Glenn,021,2021-07-23,2387,27,
+Glenn,Glenn,021,2021-07-23,2387,20,
 Humboldt,Humboldt,023,2021-07-23,4897,53,
 Imperial,Imperial,025,2021-07-23,28692,745,
 Inyo,Inyo,027,2021-07-23,1453,38,
@@ -1962,7 +2023,7 @@ Contra Costa,Contra Costa,013,2021-07-22,74030,828,
 Del Norte,Del Norte,015,2021-07-22,1551,8,
 El Dorado,El Dorado,017,2021-07-22,10774,120,TRUE
 Fresno,Fresno,019,2021-07-22,103504,1736,
-Glenn,Glenn,021,2021-07-22,2387,27,
+Glenn,Glenn,021,2021-07-22,2387,20,
 Humboldt,Humboldt,023,2021-07-22,4853,53,
 Imperial,Imperial,025,2021-07-22,28692,745,
 Inyo,Inyo,027,2021-07-22,1453,38,
@@ -2023,7 +2084,7 @@ Contra Costa,Contra Costa,013,2021-07-21,73662,825,
 Del Norte,Del Norte,015,2021-07-21,1541,8,
 El Dorado,El Dorado,017,2021-07-21,10774,120,
 Fresno,Fresno,019,2021-07-21,103438,1736,
-Glenn,Glenn,021,2021-07-21,2385,27,TRUE
+Glenn,Glenn,021,2021-07-21,2385,20,TRUE
 Humboldt,Humboldt,023,2021-07-21,4824,53,
 Imperial,Imperial,025,2021-07-21,28651,745,TRUE
 Inyo,Inyo,027,2021-07-21,1446,38,TRUE
@@ -2084,7 +2145,7 @@ Contra Costa,Contra Costa,013,2021-07-20,73495,823,TRUE
 Del Norte,Del Norte,015,2021-07-20,1537,8,
 El Dorado,El Dorado,017,2021-07-20,10760,120,
 Fresno,Fresno,019,2021-07-20,103350,1731,
-Glenn,Glenn,021,2021-07-20,2385,27,TRUE
+Glenn,Glenn,021,2021-07-20,2385,20,TRUE
 Humboldt,Humboldt,023,2021-07-20,4798,53,
 Imperial,Imperial,025,2021-07-20,28651,745,
 Inyo,Inyo,027,2021-07-20,1446,38,TRUE
@@ -2145,7 +2206,7 @@ Contra Costa,Contra Costa,013,2021-07-19,73290,823,
 Del Norte,Del Norte,015,2021-07-19,1529,8,
 El Dorado,El Dorado,017,2021-07-19,10740,118,
 Fresno,Fresno,019,2021-07-19,103298,1731,
-Glenn,Glenn,021,2021-07-19,2385,27,TRUE
+Glenn,Glenn,021,2021-07-19,2385,20,TRUE
 Humboldt,Humboldt,023,2021-07-19,4775,53,
 Imperial,Imperial,025,2021-07-19,28568,745,TRUE
 Inyo,Inyo,027,2021-07-19,1446,38,TRUE
@@ -2206,7 +2267,7 @@ Contra Costa,Contra Costa,013,2021-07-18,73202,823,
 Del Norte,Del Norte,015,2021-07-18,1522,8,TRUE
 El Dorado,El Dorado,017,2021-07-18,10692,118,TRUE
 Fresno,Fresno,019,2021-07-18,103055,1730,TRUE
-Glenn,Glenn,021,2021-07-18,2385,27,TRUE
+Glenn,Glenn,021,2021-07-18,2385,20,TRUE
 Humboldt,Humboldt,023,2021-07-18,4730,53,TRUE
 Imperial,Imperial,025,2021-07-18,28568,745,TRUE
 Inyo,Inyo,027,2021-07-18,1446,38,TRUE
@@ -2267,7 +2328,7 @@ Contra Costa,Contra Costa,013,2021-07-17,72981,823,
 Del Norte,Del Norte,015,2021-07-17,1522,8,TRUE
 El Dorado,El Dorado,017,2021-07-17,10692,118,TRUE
 Fresno,Fresno,019,2021-07-17,103055,1730,TRUE
-Glenn,Glenn,021,2021-07-17,2385,27,TRUE
+Glenn,Glenn,021,2021-07-17,2385,20,TRUE
 Humboldt,Humboldt,023,2021-07-17,4730,53,TRUE
 Imperial,Imperial,025,2021-07-17,28568,745,TRUE
 Inyo,Inyo,027,2021-07-17,1446,38,TRUE
@@ -2328,7 +2389,7 @@ Contra Costa,Contra Costa,013,2021-07-16,72776,823,
 Del Norte,Del Norte,015,2021-07-16,1522,8,
 El Dorado,El Dorado,017,2021-07-16,10692,118,
 Fresno,Fresno,019,2021-07-16,103055,1730,
-Glenn,Glenn,021,2021-07-16,2385,27,TRUE
+Glenn,Glenn,021,2021-07-16,2385,20,TRUE
 Humboldt,Humboldt,023,2021-07-16,4730,53,
 Imperial,Imperial,025,2021-07-16,28568,745,TRUE
 Inyo,Inyo,027,2021-07-16,1446,38,TRUE
@@ -2389,7 +2450,7 @@ Contra Costa,Contra Costa,013,2021-07-15,72602,822,
 Del Norte,Del Norte,015,2021-07-15,1521,8,
 El Dorado,El Dorado,017,2021-07-15,10657,118,
 Fresno,Fresno,019,2021-07-15,102966,1730,
-Glenn,Glenn,021,2021-07-15,2385,27,
+Glenn,Glenn,021,2021-07-15,2385,20,
 Humboldt,Humboldt,023,2021-07-15,4711,53,
 Imperial,Imperial,025,2021-07-15,28568,745,
 Inyo,Inyo,027,2021-07-15,1446,38,TRUE
@@ -2450,7 +2511,7 @@ Contra Costa,Contra Costa,013,2021-07-14,72442,821,
 Del Norte,Del Norte,015,2021-07-14,1518,8,
 El Dorado,El Dorado,017,2021-07-14,10633,118,
 Fresno,Fresno,019,2021-07-14,102909,1730,
-Glenn,Glenn,021,2021-07-14,2382,27,
+Glenn,Glenn,021,2021-07-14,2382,20,
 Humboldt,Humboldt,023,2021-07-14,4703,53,
 Imperial,Imperial,025,2021-07-14,28559,745,TRUE
 Inyo,Inyo,027,2021-07-14,1446,38,
@@ -2511,7 +2572,7 @@ Contra Costa,Contra Costa,013,2021-07-13,72326,821,
 Del Norte,Del Norte,015,2021-07-13,1516,8,
 El Dorado,El Dorado,017,2021-07-13,10604,118,TRUE
 Fresno,Fresno,019,2021-07-13,102853,1730,
-Glenn,Glenn,021,2021-07-13,2380,27,TRUE
+Glenn,Glenn,021,2021-07-13,2380,20,TRUE
 Humboldt,Humboldt,023,2021-07-13,4691,52,
 Imperial,Imperial,025,2021-07-13,28559,745,
 Inyo,Inyo,027,2021-07-13,1444,38,TRUE
@@ -2572,7 +2633,7 @@ Contra Costa,Contra Costa,013,2021-07-12,72109,821,
 Del Norte,Del Norte,015,2021-07-12,1514,8,
 El Dorado,El Dorado,017,2021-07-12,10604,118,
 Fresno,Fresno,019,2021-07-12,102813,1730,
-Glenn,Glenn,021,2021-07-12,2377,27,
+Glenn,Glenn,021,2021-07-12,2377,20,
 Humboldt,Humboldt,023,2021-07-12,4675,51,
 Imperial,Imperial,025,2021-07-12,28483,742,TRUE
 Inyo,Inyo,027,2021-07-12,1444,38,TRUE
@@ -2633,7 +2694,7 @@ Contra Costa,Contra Costa,013,2021-07-11,72109,821,
 Del Norte,Del Norte,015,2021-07-11,1502,8,TRUE
 El Dorado,El Dorado,017,2021-07-11,10558,118,TRUE
 Fresno,Fresno,019,2021-07-11,102811,1730,TRUE
-Glenn,Glenn,021,2021-07-11,2375,27,TRUE
+Glenn,Glenn,021,2021-07-11,2375,20,TRUE
 Humboldt,Humboldt,023,2021-07-11,4647,51,TRUE
 Imperial,Imperial,025,2021-07-11,28483,742,TRUE
 Inyo,Inyo,027,2021-07-11,1444,38,TRUE
@@ -2694,7 +2755,7 @@ Contra Costa,Contra Costa,013,2021-07-10,71981,821,
 Del Norte,Del Norte,015,2021-07-10,1502,8,TRUE
 El Dorado,El Dorado,017,2021-07-10,10558,118,TRUE
 Fresno,Fresno,019,2021-07-10,102811,1730,TRUE
-Glenn,Glenn,021,2021-07-10,2375,27,TRUE
+Glenn,Glenn,021,2021-07-10,2375,20,TRUE
 Humboldt,Humboldt,023,2021-07-10,4647,51,TRUE
 Imperial,Imperial,025,2021-07-10,28483,742,TRUE
 Inyo,Inyo,027,2021-07-10,1444,38,TRUE
@@ -2755,7 +2816,7 @@ Contra Costa,Contra Costa,013,2021-07-09,71876,820,
 Del Norte,Del Norte,015,2021-07-09,1502,8,
 El Dorado,El Dorado,017,2021-07-09,10558,118,
 Fresno,Fresno,019,2021-07-09,102805,1730,
-Glenn,Glenn,021,2021-07-09,2375,27,
+Glenn,Glenn,021,2021-07-09,2375,20,
 Humboldt,Humboldt,023,2021-07-09,4647,51,
 Imperial,Imperial,025,2021-07-09,28483,742,
 Inyo,Inyo,027,2021-07-09,1444,38,
@@ -2816,7 +2877,7 @@ Contra Costa,Contra Costa,013,2021-07-08,71758,819,
 Del Norte,Del Norte,015,2021-07-08,1495,8,
 El Dorado,El Dorado,017,2021-07-08,10550,118,
 Fresno,Fresno,019,2021-07-08,102777,1727,TRUE
-Glenn,Glenn,021,2021-07-08,2373,27,TRUE
+Glenn,Glenn,021,2021-07-08,2373,20,TRUE
 Humboldt,Humboldt,023,2021-07-08,4621,51,
 Imperial,Imperial,025,2021-07-08,28483,742,
 Inyo,Inyo,027,2021-07-08,1441,38,TRUE
@@ -2877,7 +2938,7 @@ Contra Costa,Contra Costa,013,2021-07-07,71694,819,
 Del Norte,Del Norte,015,2021-07-07,1491,8,
 El Dorado,El Dorado,017,2021-07-07,10533,118,
 Fresno,Fresno,019,2021-07-07,102746,1727,TRUE
-Glenn,Glenn,021,2021-07-07,2373,27,TRUE
+Glenn,Glenn,021,2021-07-07,2373,20,TRUE
 Humboldt,Humboldt,023,2021-07-07,4614,51,
 Imperial,Imperial,025,2021-07-07,28452,742,
 Inyo,Inyo,027,2021-07-07,1441,38,TRUE
@@ -2938,7 +2999,7 @@ Contra Costa,Contra Costa,013,2021-07-06,71648,818,
 Del Norte,Del Norte,015,2021-07-06,1490,8,TRUE
 El Dorado,El Dorado,017,2021-07-06,10523,117,
 Fresno,Fresno,019,2021-07-06,102713,1727,TRUE
-Glenn,Glenn,021,2021-07-06,2373,27,
+Glenn,Glenn,021,2021-07-06,2373,20,
 Humboldt,Humboldt,023,2021-07-06,4608,51,
 Imperial,Imperial,025,2021-07-06,28452,742,TRUE
 Inyo,Inyo,027,2021-07-06,1441,38,TRUE
@@ -2999,7 +3060,7 @@ Contra Costa,Contra Costa,013,2021-07-05,71616,818,
 Del Norte,Del Norte,015,2021-07-05,1487,8,
 El Dorado,El Dorado,017,2021-07-05,10479,117,TRUE
 Fresno,Fresno,019,2021-07-05,102682,1727,TRUE
-Glenn,Glenn,021,2021-07-05,2371,27,TRUE
+Glenn,Glenn,021,2021-07-05,2371,20,TRUE
 Humboldt,Humboldt,023,2021-07-05,4586,50,TRUE
 Imperial,Imperial,025,2021-07-05,28452,742,TRUE
 Inyo,Inyo,027,2021-07-05,1441,38,TRUE
@@ -3060,7 +3121,7 @@ Contra Costa,Contra Costa,013,2021-07-04,71548,818,
 Del Norte,Del Norte,015,2021-07-04,1487,8,TRUE
 El Dorado,El Dorado,017,2021-07-04,10479,117,TRUE
 Fresno,Fresno,019,2021-07-04,102659,1727,
-Glenn,Glenn,021,2021-07-04,2371,27,TRUE
+Glenn,Glenn,021,2021-07-04,2371,20,TRUE
 Humboldt,Humboldt,023,2021-07-04,4586,50,TRUE
 Imperial,Imperial,025,2021-07-04,28452,742,TRUE
 Inyo,Inyo,027,2021-07-04,1441,38,TRUE
@@ -3121,7 +3182,7 @@ Contra Costa,Contra Costa,013,2021-07-03,71478,818,
 Del Norte,Del Norte,015,2021-07-03,1487,8,TRUE
 El Dorado,El Dorado,017,2021-07-03,10479,117,TRUE
 Fresno,Fresno,019,2021-07-03,102643,1727,
-Glenn,Glenn,021,2021-07-03,2371,27,
+Glenn,Glenn,021,2021-07-03,2371,20,
 Humboldt,Humboldt,023,2021-07-03,4586,50,TRUE
 Imperial,Imperial,025,2021-07-03,28452,742,
 Inyo,Inyo,027,2021-07-03,1441,38,TRUE
@@ -3182,7 +3243,7 @@ Contra Costa,Contra Costa,013,2021-07-02,71399,817,
 Del Norte,Del Norte,015,2021-07-02,1487,8,
 El Dorado,El Dorado,017,2021-07-02,10479,117,
 Fresno,Fresno,019,2021-07-02,102615,1727,TRUE
-Glenn,Glenn,021,2021-07-02,2371,27,
+Glenn,Glenn,021,2021-07-02,2371,20,
 Humboldt,Humboldt,023,2021-07-02,4586,50,
 Imperial,Imperial,025,2021-07-02,28452,742,TRUE
 Inyo,Inyo,027,2021-07-02,1434,38,TRUE
@@ -3243,7 +3304,7 @@ Contra Costa,Contra Costa,013,2021-07-01,71319,816,
 Del Norte,Del Norte,015,2021-07-01,1485,8,
 El Dorado,El Dorado,017,2021-07-01,10467,117,
 Fresno,Fresno,019,2021-07-01,102583,1727,
-Glenn,Glenn,021,2021-07-01,2370,27,
+Glenn,Glenn,021,2021-07-01,2370,20,
 Humboldt,Humboldt,023,2021-07-01,4582,50,
 Imperial,Imperial,025,2021-07-01,28452,742,
 Inyo,Inyo,027,2021-07-01,1434,38,TRUE
@@ -3304,7 +3365,7 @@ Contra Costa,Contra Costa,013,2021-06-30,71250,816,
 Del Norte,Del Norte,015,2021-06-30,1483,8,
 El Dorado,El Dorado,017,2021-06-30,10456,117,
 Fresno,Fresno,019,2021-06-30,102554,1727,TRUE
-Glenn,Glenn,021,2021-06-30,2366,27,TRUE
+Glenn,Glenn,021,2021-06-30,2366,20,TRUE
 Humboldt,Humboldt,023,2021-06-30,4569,50,
 Imperial,Imperial,025,2021-06-30,28447,742,TRUE
 Inyo,Inyo,027,2021-06-30,1434,38,TRUE
@@ -3365,7 +3426,7 @@ Contra Costa,Contra Costa,013,2021-06-29,71150,815,
 Del Norte,Del Norte,015,2021-06-29,1481,7,
 El Dorado,El Dorado,017,2021-06-29,10440,117,
 Fresno,Fresno,019,2021-06-29,102524,1727,
-Glenn,Glenn,021,2021-06-29,2366,27,
+Glenn,Glenn,021,2021-06-29,2366,20,
 Humboldt,Humboldt,023,2021-06-29,4560,50,
 Imperial,Imperial,025,2021-06-29,28447,742,
 Inyo,Inyo,027,2021-06-29,1434,38,TRUE
@@ -3426,7 +3487,7 @@ Contra Costa,Contra Costa,013,2021-06-28,71093,815,
 Del Norte,Del Norte,015,2021-06-28,1481,7,
 El Dorado,El Dorado,017,2021-06-28,10440,117,
 Fresno,Fresno,019,2021-06-28,102498,1727,
-Glenn,Glenn,021,2021-06-28,2365,27,TRUE
+Glenn,Glenn,021,2021-06-28,2365,20,TRUE
 Humboldt,Humboldt,023,2021-06-28,4554,50,
 Imperial,Imperial,025,2021-06-28,28348,741,TRUE
 Inyo,Inyo,027,2021-06-28,1434,38,TRUE
@@ -3487,7 +3548,7 @@ Contra Costa,Contra Costa,013,2021-06-27,71048,815,
 Del Norte,Del Norte,015,2021-06-27,1468,7,TRUE
 El Dorado,El Dorado,017,2021-06-27,10428,117,TRUE
 Fresno,Fresno,019,2021-06-27,102471,1727,
-Glenn,Glenn,021,2021-06-27,2365,27,TRUE
+Glenn,Glenn,021,2021-06-27,2365,20,TRUE
 Humboldt,Humboldt,023,2021-06-27,4533,50,TRUE
 Imperial,Imperial,025,2021-06-27,28348,741,TRUE
 Inyo,Inyo,027,2021-06-27,1434,38,TRUE
@@ -3548,7 +3609,7 @@ Contra Costa,Contra Costa,013,2021-06-26,70945,814,TRUE
 Del Norte,Del Norte,015,2021-06-26,1468,7,TRUE
 El Dorado,El Dorado,017,2021-06-26,10428,117,TRUE
 Fresno,Fresno,019,2021-06-26,102456,1727,TRUE
-Glenn,Glenn,021,2021-06-26,2365,27,TRUE
+Glenn,Glenn,021,2021-06-26,2365,20,TRUE
 Humboldt,Humboldt,023,2021-06-26,4533,50,TRUE
 Imperial,Imperial,025,2021-06-26,28348,741,TRUE
 Inyo,Inyo,027,2021-06-26,1434,38,TRUE
@@ -3609,7 +3670,7 @@ Contra Costa,Contra Costa,013,2021-06-25,70945,814,
 Del Norte,Del Norte,015,2021-06-25,1468,7,
 El Dorado,El Dorado,017,2021-06-25,10428,117,
 Fresno,Fresno,019,2021-06-25,102442,1727,
-Glenn,Glenn,021,2021-06-25,2365,27,
+Glenn,Glenn,021,2021-06-25,2365,20,
 Humboldt,Humboldt,023,2021-06-25,4533,50,
 Imperial,Imperial,025,2021-06-25,28348,741,
 Inyo,Inyo,027,2021-06-25,1434,38,TRUE
@@ -3670,7 +3731,7 @@ Contra Costa,Contra Costa,013,2021-06-24,70882,812,
 Del Norte,Del Norte,015,2021-06-24,1468,7,
 El Dorado,El Dorado,017,2021-06-24,10423,117,
 Fresno,Fresno,019,2021-06-24,102424,1724,
-Glenn,Glenn,021,2021-06-24,2364,27,
+Glenn,Glenn,021,2021-06-24,2364,20,
 Humboldt,Humboldt,023,2021-06-24,4528,49,
 Imperial,Imperial,025,2021-06-24,28348,741,
 Inyo,Inyo,027,2021-06-24,1434,38,TRUE
@@ -3731,7 +3792,7 @@ Contra Costa,Contra Costa,013,2021-06-23,70818,812,
 Del Norte,Del Norte,015,2021-06-23,1465,7,
 El Dorado,El Dorado,017,2021-06-23,10415,117,
 Fresno,Fresno,019,2021-06-23,102395,1724,
-Glenn,Glenn,021,2021-06-23,2363,27,
+Glenn,Glenn,021,2021-06-23,2363,20,
 Humboldt,Humboldt,023,2021-06-23,4514,49,
 Imperial,Imperial,025,2021-06-23,28316,741,TRUE
 Inyo,Inyo,027,2021-06-23,1434,38,TRUE
@@ -3792,7 +3853,7 @@ Contra Costa,Contra Costa,013,2021-06-22,70770,811,
 Del Norte,Del Norte,015,2021-06-22,1458,7,TRUE
 El Dorado,El Dorado,017,2021-06-22,10401,116,
 Fresno,Fresno,019,2021-06-22,102378,1724,
-Glenn,Glenn,021,2021-06-22,2363,27,
+Glenn,Glenn,021,2021-06-22,2363,20,
 Humboldt,Humboldt,023,2021-06-22,4508,49,
 Imperial,Imperial,025,2021-06-22,28316,741,
 Inyo,Inyo,027,2021-06-22,1434,38,TRUE
@@ -3853,7 +3914,7 @@ Contra Costa,Contra Costa,013,2021-06-21,70730,811,
 Del Norte,Del Norte,015,2021-06-21,1458,7,
 El Dorado,El Dorado,017,2021-06-21,10396,116,
 Fresno,Fresno,019,2021-06-21,102358,1724,
-Glenn,Glenn,021,2021-06-21,2361,27,
+Glenn,Glenn,021,2021-06-21,2361,20,
 Humboldt,Humboldt,023,2021-06-21,4499,48,
 Imperial,Imperial,025,2021-06-21,28303,741,
 Inyo,Inyo,027,2021-06-21,1434,38,TRUE
@@ -3914,7 +3975,7 @@ Contra Costa,Contra Costa,013,2021-06-20,70691,811,
 Del Norte,Del Norte,015,2021-06-20,1456,7,TRUE
 El Dorado,El Dorado,017,2021-06-20,10371,116,TRUE
 Fresno,Fresno,019,2021-06-20,102320,1724,
-Glenn,Glenn,021,2021-06-20,2361,27,TRUE
+Glenn,Glenn,021,2021-06-20,2361,20,TRUE
 Humboldt,Humboldt,023,2021-06-20,4462,48,TRUE
 Imperial,Imperial,025,2021-06-20,28303,741,TRUE
 Inyo,Inyo,027,2021-06-20,1434,38,TRUE
@@ -3975,7 +4036,7 @@ Contra Costa,Contra Costa,013,2021-06-19,70624,811,
 Del Norte,Del Norte,015,2021-06-19,1456,7,TRUE
 El Dorado,El Dorado,017,2021-06-19,10371,116,TRUE
 Fresno,Fresno,019,2021-06-19,102306,1722,
-Glenn,Glenn,021,2021-06-19,2361,27,TRUE
+Glenn,Glenn,021,2021-06-19,2361,20,TRUE
 Humboldt,Humboldt,023,2021-06-19,4462,48,TRUE
 Imperial,Imperial,025,2021-06-19,28303,741,
 Inyo,Inyo,027,2021-06-19,1434,38,TRUE
@@ -4036,7 +4097,7 @@ Contra Costa,Contra Costa,013,2021-06-18,70561,811,
 Del Norte,Del Norte,015,2021-06-18,1456,7,
 El Dorado,El Dorado,017,2021-06-18,10371,116,
 Fresno,Fresno,019,2021-06-18,102290,1722,TRUE
-Glenn,Glenn,021,2021-06-18,2361,27,
+Glenn,Glenn,021,2021-06-18,2361,20,
 Humboldt,Humboldt,023,2021-06-18,4462,48,
 Imperial,Imperial,025,2021-06-18,28302,741,TRUE
 Inyo,Inyo,027,2021-06-18,1434,38,TRUE
@@ -4097,7 +4158,7 @@ Contra Costa,Contra Costa,013,2021-06-17,70478,808,
 Del Norte,Del Norte,015,2021-06-17,1454,7,TRUE
 El Dorado,El Dorado,017,2021-06-17,10363,116,
 Fresno,Fresno,019,2021-06-17,102265,1722,
-Glenn,Glenn,021,2021-06-17,2360,27,
+Glenn,Glenn,021,2021-06-17,2360,20,
 Humboldt,Humboldt,023,2021-06-17,4462,48,
 Imperial,Imperial,025,2021-06-17,28295,741,
 Inyo,Inyo,027,2021-06-17,1434,38,TRUE
@@ -4158,7 +4219,7 @@ Contra Costa,Contra Costa,013,2021-06-16,70428,808,
 Del Norte,Del Norte,015,2021-06-16,1454,7,
 El Dorado,El Dorado,017,2021-06-16,10356,116,
 Fresno,Fresno,019,2021-06-16,102235,1722,
-Glenn,Glenn,021,2021-06-16,2359,27,
+Glenn,Glenn,021,2021-06-16,2359,20,
 Humboldt,Humboldt,023,2021-06-16,4451,48,
 Imperial,Imperial,025,2021-06-16,28287,741,
 Inyo,Inyo,027,2021-06-16,1434,38,TRUE
@@ -4219,7 +4280,7 @@ Contra Costa,Contra Costa,013,2021-06-15,70389,808,
 Del Norte,Del Norte,015,2021-06-15,1453,7,
 El Dorado,El Dorado,017,2021-06-15,10353,116,
 Fresno,Fresno,019,2021-06-15,102209,1719,
-Glenn,Glenn,021,2021-06-15,2358,27,
+Glenn,Glenn,021,2021-06-15,2358,20,
 Humboldt,Humboldt,023,2021-06-15,4442,47,
 Imperial,Imperial,025,2021-06-15,28284,741,
 Inyo,Inyo,027,2021-06-15,1434,38,TRUE
@@ -4280,7 +4341,7 @@ Contra Costa,Contra Costa,013,2021-06-14,70358,808,
 Del Norte,Del Norte,015,2021-06-14,1452,7,
 El Dorado,El Dorado,017,2021-06-14,10351,116,
 Fresno,Fresno,019,2021-06-14,102187,1719,TRUE
-Glenn,Glenn,021,2021-06-14,2357,27,
+Glenn,Glenn,021,2021-06-14,2357,20,
 Humboldt,Humboldt,023,2021-06-14,4434,46,
 Imperial,Imperial,025,2021-06-14,28282,739,
 Inyo,Inyo,027,2021-06-14,1434,38,TRUE
@@ -4341,7 +4402,7 @@ Contra Costa,Contra Costa,013,2021-06-13,70328,808,
 Del Norte,Del Norte,015,2021-06-13,1448,7,TRUE
 El Dorado,El Dorado,017,2021-06-13,10339,116,TRUE
 Fresno,Fresno,019,2021-06-13,102159,1719,
-Glenn,Glenn,021,2021-06-13,2357,27,TRUE
+Glenn,Glenn,021,2021-06-13,2357,20,TRUE
 Humboldt,Humboldt,023,2021-06-13,4415,46,TRUE
 Imperial,Imperial,025,2021-06-13,28246,739,TRUE
 Inyo,Inyo,027,2021-06-13,1434,38,TRUE
@@ -4402,7 +4463,7 @@ Contra Costa,Contra Costa,013,2021-06-12,70276,808,
 Del Norte,Del Norte,015,2021-06-12,1448,7,TRUE
 El Dorado,El Dorado,017,2021-06-12,10339,116,TRUE
 Fresno,Fresno,019,2021-06-12,102149,1717,TRUE
-Glenn,Glenn,021,2021-06-12,2357,27,TRUE
+Glenn,Glenn,021,2021-06-12,2357,20,TRUE
 Humboldt,Humboldt,023,2021-06-12,4415,46,TRUE
 Imperial,Imperial,025,2021-06-12,28246,739,TRUE
 Inyo,Inyo,027,2021-06-12,1434,38,TRUE
@@ -4463,7 +4524,7 @@ Contra Costa,Contra Costa,013,2021-06-11,70228,806,
 Del Norte,Del Norte,015,2021-06-11,1448,7,
 El Dorado,El Dorado,017,2021-06-11,10339,116,
 Fresno,Fresno,019,2021-06-11,102132,1717,
-Glenn,Glenn,021,2021-06-11,2357,27,
+Glenn,Glenn,021,2021-06-11,2357,20,
 Humboldt,Humboldt,023,2021-06-11,4415,46,
 Imperial,Imperial,025,2021-06-11,28246,739,
 Inyo,Inyo,027,2021-06-11,1434,38,TRUE
@@ -4524,7 +4585,7 @@ Contra Costa,Contra Costa,013,2021-06-10,70168,805,
 Del Norte,Del Norte,015,2021-06-10,1448,7,
 El Dorado,El Dorado,017,2021-06-10,10336,115,
 Fresno,Fresno,019,2021-06-10,102106,1717,
-Glenn,Glenn,021,2021-06-10,2356,27,
+Glenn,Glenn,021,2021-06-10,2356,20,
 Humboldt,Humboldt,023,2021-06-10,4408,46,
 Imperial,Imperial,025,2021-06-10,28242,738,
 Inyo,Inyo,027,2021-06-10,1434,38,
@@ -4585,7 +4646,7 @@ Contra Costa,Contra Costa,013,2021-06-09,70116,804,
 Del Norte,Del Norte,015,2021-06-09,1444,7,
 El Dorado,El Dorado,017,2021-06-09,10329,115,
 Fresno,Fresno,019,2021-06-09,102088,1717,
-Glenn,Glenn,021,2021-06-09,2355,27,
+Glenn,Glenn,021,2021-06-09,2355,20,
 Humboldt,Humboldt,023,2021-06-09,4405,46,
 Imperial,Imperial,025,2021-06-09,28226,738,
 Inyo,Inyo,027,2021-06-09,1434,38,
@@ -4646,7 +4707,7 @@ Contra Costa,Contra Costa,013,2021-06-08,70048,804,
 Del Norte,Del Norte,015,2021-06-08,1443,7,
 El Dorado,El Dorado,017,2021-06-08,10329,115,
 Fresno,Fresno,019,2021-06-08,102063,1717,
-Glenn,Glenn,021,2021-06-08,2355,27,TRUE
+Glenn,Glenn,021,2021-06-08,2355,20,TRUE
 Humboldt,Humboldt,023,2021-06-08,4390,46,
 Imperial,Imperial,025,2021-06-08,28226,738,
 Inyo,Inyo,027,2021-06-08,1433,38,
@@ -4707,7 +4768,7 @@ Contra Costa,Contra Costa,013,2021-06-07,70003,804,
 Del Norte,Del Norte,015,2021-06-07,1441,7,
 El Dorado,El Dorado,017,2021-06-07,10328,115,
 Fresno,Fresno,019,2021-06-07,102037,1717,
-Glenn,Glenn,021,2021-06-07,2355,27,
+Glenn,Glenn,021,2021-06-07,2355,20,
 Humboldt,Humboldt,023,2021-06-07,4382,46,
 Imperial,Imperial,025,2021-06-07,28225,738,
 Inyo,Inyo,027,2021-06-07,1432,38,
@@ -4768,7 +4829,7 @@ Contra Costa,Contra Costa,013,2021-06-06,69945,804,
 Del Norte,Del Norte,015,2021-06-06,1439,7,TRUE
 El Dorado,El Dorado,017,2021-06-06,10327,115,TRUE
 Fresno,Fresno,019,2021-06-06,102004,1717,
-Glenn,Glenn,021,2021-06-06,2354,27,TRUE
+Glenn,Glenn,021,2021-06-06,2354,20,TRUE
 Humboldt,Humboldt,023,2021-06-06,4355,45,TRUE
 Imperial,Imperial,025,2021-06-06,28172,738,TRUE
 Inyo,Inyo,027,2021-06-06,1432,38,TRUE
@@ -4829,7 +4890,7 @@ Contra Costa,Contra Costa,013,2021-06-05,69886,804,
 Del Norte,Del Norte,015,2021-06-05,1439,7,TRUE
 El Dorado,El Dorado,017,2021-06-05,10326,115,TRUE
 Fresno,Fresno,019,2021-06-05,101995,1712,
-Glenn,Glenn,021,2021-06-05,2354,27,TRUE
+Glenn,Glenn,021,2021-06-05,2354,20,TRUE
 Humboldt,Humboldt,023,2021-06-05,4355,45,TRUE
 Imperial,Imperial,025,2021-06-05,28172,738,TRUE
 Inyo,Inyo,027,2021-06-05,1432,38,TRUE
@@ -4890,7 +4951,7 @@ Contra Costa,Contra Costa,013,2021-06-04,69827,802,
 Del Norte,Del Norte,015,2021-06-04,1439,7,
 El Dorado,El Dorado,017,2021-06-04,10322,115,
 Fresno,Fresno,019,2021-06-04,101979,1709,
-Glenn,Glenn,021,2021-06-04,2354,27,
+Glenn,Glenn,021,2021-06-04,2354,20,
 Humboldt,Humboldt,023,2021-06-04,4355,45,
 Imperial,Imperial,025,2021-06-04,28172,738,
 Inyo,Inyo,027,2021-06-04,1432,38,
@@ -4951,7 +5012,7 @@ Contra Costa,Contra Costa,013,2021-06-03,69791,802,
 Del Norte,Del Norte,015,2021-06-03,1437,7,
 El Dorado,El Dorado,017,2021-06-03,10311,115,
 Fresno,Fresno,019,2021-06-03,101963,1707,
-Glenn,Glenn,021,2021-06-03,2352,27,
+Glenn,Glenn,021,2021-06-03,2352,20,
 Humboldt,Humboldt,023,2021-06-03,4339,44,
 Imperial,Imperial,025,2021-06-03,28166,736,
 Inyo,Inyo,027,2021-06-03,1432,38,
@@ -5012,7 +5073,7 @@ Contra Costa,Contra Costa,013,2021-06-02,69745,800,
 Del Norte,Del Norte,015,2021-06-02,1434,7,
 El Dorado,El Dorado,017,2021-06-02,10303,113,
 Fresno,Fresno,019,2021-06-02,101940,1706,
-Glenn,Glenn,021,2021-06-02,2352,27,
+Glenn,Glenn,021,2021-06-02,2352,20,
 Humboldt,Humboldt,023,2021-06-02,4325,43,
 Imperial,Imperial,025,2021-06-02,28166,736,
 Inyo,Inyo,027,2021-06-02,1432,38,
@@ -5073,7 +5134,7 @@ Contra Costa,Contra Costa,013,2021-06-01,69693,799,
 Del Norte,Del Norte,015,2021-06-01,1434,7,
 El Dorado,El Dorado,017,2021-06-01,10303,113,
 Fresno,Fresno,019,2021-06-01,101921,1706,
-Glenn,Glenn,021,2021-06-01,2352,27,
+Glenn,Glenn,021,2021-06-01,2352,20,
 Humboldt,Humboldt,023,2021-06-01,4323,43,
 Imperial,Imperial,025,2021-06-01,28131,733,
 Inyo,Inyo,027,2021-06-01,1431,38,
@@ -5134,7 +5195,7 @@ Contra Costa,Contra Costa,013,2021-05-31,69676,799,
 Del Norte,Del Norte,015,2021-05-31,1431,7,TRUE
 El Dorado,El Dorado,017,2021-05-31,10296,113,TRUE
 Fresno,Fresno,019,2021-05-31,101885,1705,TRUE
-Glenn,Glenn,021,2021-05-31,2349,26,TRUE
+Glenn,Glenn,021,2021-05-31,2349,20,TRUE
 Humboldt,Humboldt,023,2021-05-31,4285,43,TRUE
 Imperial,Imperial,025,2021-05-31,28131,733,TRUE
 Inyo,Inyo,027,2021-05-31,1431,38,TRUE
@@ -5195,7 +5256,7 @@ Contra Costa,Contra Costa,013,2021-05-30,69663,799,
 Del Norte,Del Norte,015,2021-05-30,1431,7,
 El Dorado,El Dorado,017,2021-05-30,10296,113,
 Fresno,Fresno,019,2021-05-30,101867,1705,
-Glenn,Glenn,021,2021-05-30,2349,26,
+Glenn,Glenn,021,2021-05-30,2349,20,
 Humboldt,Humboldt,023,2021-05-30,4285,43,
 Imperial,Imperial,025,2021-05-30,28131,733,
 Inyo,Inyo,027,2021-05-30,1431,38,
@@ -5256,7 +5317,7 @@ Contra Costa,Contra Costa,013,2021-05-29,69635,799,
 Del Norte,Del Norte,015,2021-05-29,1431,7,TRUE
 El Dorado,El Dorado,017,2021-05-29,10296,113,TRUE
 Fresno,Fresno,019,2021-05-29,101855,1704,TRUE
-Glenn,Glenn,021,2021-05-29,2349,26,TRUE
+Glenn,Glenn,021,2021-05-29,2349,20,TRUE
 Humboldt,Humboldt,023,2021-05-29,4285,43,TRUE
 Imperial,Imperial,025,2021-05-29,28131,733,TRUE
 Inyo,Inyo,027,2021-05-29,1431,38,TRUE
@@ -5317,7 +5378,7 @@ Contra Costa,Contra Costa,013,2021-05-28,69574,799,
 Del Norte,Del Norte,015,2021-05-28,1431,7,
 El Dorado,El Dorado,017,2021-05-28,10296,113,
 Fresno,Fresno,019,2021-05-28,101841,1704,
-Glenn,Glenn,021,2021-05-28,2349,26,
+Glenn,Glenn,021,2021-05-28,2349,20,
 Humboldt,Humboldt,023,2021-05-28,4285,43,
 Imperial,Imperial,025,2021-05-28,28131,733,
 Inyo,Inyo,027,2021-05-28,1431,38,
@@ -5378,7 +5439,7 @@ Contra Costa,Contra Costa,013,2021-05-27,69532,799,
 Del Norte,Del Norte,015,2021-05-27,1428,7,
 El Dorado,El Dorado,017,2021-05-27,10282,113,
 Fresno,Fresno,019,2021-05-27,101824,1702,
-Glenn,Glenn,021,2021-05-27,2348,26,
+Glenn,Glenn,021,2021-05-27,2348,20,
 Humboldt,Humboldt,023,2021-05-27,4279,43,
 Imperial,Imperial,025,2021-05-27,28111,733,
 Inyo,Inyo,027,2021-05-27,1430,38,TRUE
@@ -5439,7 +5500,7 @@ Contra Costa,Contra Costa,013,2021-05-26,69496,798,
 Del Norte,Del Norte,015,2021-05-26,1427,7,
 El Dorado,El Dorado,017,2021-05-26,10280,113,
 Fresno,Fresno,019,2021-05-26,101793,1701,
-Glenn,Glenn,021,2021-05-26,2347,26,
+Glenn,Glenn,021,2021-05-26,2347,20,
 Humboldt,Humboldt,023,2021-05-26,4266,43,
 Imperial,Imperial,025,2021-05-26,28099,733,
 Inyo,Inyo,027,2021-05-26,1430,38,
@@ -5500,7 +5561,7 @@ Contra Costa,Contra Costa,013,2021-05-25,69454,796,
 Del Norte,Del Norte,015,2021-05-25,1425,7,
 El Dorado,El Dorado,017,2021-05-25,10278,113,
 Fresno,Fresno,019,2021-05-25,101771,1698,
-Glenn,Glenn,021,2021-05-25,2341,25,TRUE
+Glenn,Glenn,021,2021-05-25,2341,20,TRUE
 Humboldt,Humboldt,023,2021-05-25,4253,43,
 Imperial,Imperial,025,2021-05-25,28088,731,
 Inyo,Inyo,027,2021-05-25,1429,38,
@@ -5561,7 +5622,7 @@ Contra Costa,Contra Costa,013,2021-05-24,69392,796,
 Del Norte,Del Norte,015,2021-05-24,1423,7,
 El Dorado,El Dorado,017,2021-05-24,10266,113,
 Fresno,Fresno,019,2021-05-24,101732,1698,
-Glenn,Glenn,021,2021-05-24,2341,25,TRUE
+Glenn,Glenn,021,2021-05-24,2341,20,TRUE
 Humboldt,Humboldt,023,2021-05-24,4248,43,
 Imperial,Imperial,025,2021-05-24,28088,731,
 Inyo,Inyo,027,2021-05-24,1429,38,
@@ -5622,7 +5683,7 @@ Contra Costa,Contra Costa,013,2021-05-23,69357,796,
 Del Norte,Del Norte,015,2021-05-23,1419,7,TRUE
 El Dorado,El Dorado,017,2021-05-23,10247,113,TRUE
 Fresno,Fresno,019,2021-05-23,101688,1698,
-Glenn,Glenn,021,2021-05-23,2341,25,TRUE
+Glenn,Glenn,021,2021-05-23,2341,20,TRUE
 Humboldt,Humboldt,023,2021-05-23,4198,42,TRUE
 Imperial,Imperial,025,2021-05-23,28076,731,TRUE
 Inyo,Inyo,027,2021-05-23,1429,38,TRUE
@@ -5683,7 +5744,7 @@ Contra Costa,Contra Costa,013,2021-05-22,69288,796,
 Del Norte,Del Norte,015,2021-05-22,1419,7,TRUE
 El Dorado,El Dorado,017,2021-05-22,10247,113,TRUE
 Fresno,Fresno,019,2021-05-22,101674,1698,
-Glenn,Glenn,021,2021-05-22,2341,25,TRUE
+Glenn,Glenn,021,2021-05-22,2341,20,TRUE
 Humboldt,Humboldt,023,2021-05-22,4198,42,TRUE
 Imperial,Imperial,025,2021-05-22,28076,731,TRUE
 Inyo,Inyo,027,2021-05-22,1429,38,TRUE
@@ -5744,7 +5805,7 @@ Contra Costa,Contra Costa,013,2021-05-21,69245,796,
 Del Norte,Del Norte,015,2021-05-21,1419,7,
 El Dorado,El Dorado,017,2021-05-21,10247,113,
 Fresno,Fresno,019,2021-05-21,101646,1696,
-Glenn,Glenn,021,2021-05-21,2341,25,
+Glenn,Glenn,021,2021-05-21,2341,20,
 Humboldt,Humboldt,023,2021-05-21,4198,42,
 Imperial,Imperial,025,2021-05-21,28076,731,
 Inyo,Inyo,027,2021-05-21,1429,38,
@@ -5805,7 +5866,7 @@ Contra Costa,Contra Costa,013,2021-05-20,69197,796,
 Del Norte,Del Norte,015,2021-05-20,1414,7,
 El Dorado,El Dorado,017,2021-05-20,10235,113,
 Fresno,Fresno,019,2021-05-20,101626,1693,
-Glenn,Glenn,021,2021-05-20,2341,25,
+Glenn,Glenn,021,2021-05-20,2341,20,
 Humboldt,Humboldt,023,2021-05-20,4186,42,
 Imperial,Imperial,025,2021-05-20,28065,730,
 Inyo,Inyo,027,2021-05-20,1429,38,
@@ -5866,7 +5927,7 @@ Contra Costa,Contra Costa,013,2021-05-19,69120,796,
 Del Norte,Del Norte,015,2021-05-19,1410,7,
 El Dorado,El Dorado,017,2021-05-19,10224,113,
 Fresno,Fresno,019,2021-05-19,101597,1690,
-Glenn,Glenn,021,2021-05-19,2340,25,
+Glenn,Glenn,021,2021-05-19,2340,20,
 Humboldt,Humboldt,023,2021-05-19,4166,42,
 Imperial,Imperial,025,2021-05-19,28045,730,
 Inyo,Inyo,027,2021-05-19,1429,38,
@@ -5927,7 +5988,7 @@ Contra Costa,Contra Costa,013,2021-05-18,69035,795,
 Del Norte,Del Norte,015,2021-05-18,1409,7,
 El Dorado,El Dorado,017,2021-05-18,10218,113,
 Fresno,Fresno,019,2021-05-18,101560,1690,
-Glenn,Glenn,021,2021-05-18,2340,25,
+Glenn,Glenn,021,2021-05-18,2340,20,
 Humboldt,Humboldt,023,2021-05-18,4152,42,
 Imperial,Imperial,025,2021-05-18,28045,729,
 Inyo,Inyo,027,2021-05-18,1428,38,
@@ -5988,7 +6049,7 @@ Contra Costa,Contra Costa,013,2021-05-17,69002,793,
 Del Norte,Del Norte,015,2021-05-17,1408,7,
 El Dorado,El Dorado,017,2021-05-17,10193,113,TRUE
 Fresno,Fresno,019,2021-05-17,101517,1690,
-Glenn,Glenn,021,2021-05-17,2337,25,
+Glenn,Glenn,021,2021-05-17,2337,20,
 Humboldt,Humboldt,023,2021-05-17,4135,42,
 Imperial,Imperial,025,2021-05-17,27952,726,
 Inyo,Inyo,027,2021-05-17,1428,38,
@@ -6049,7 +6110,7 @@ Contra Costa,Contra Costa,013,2021-05-16,68976,793,
 Del Norte,Del Norte,015,2021-05-16,1398,7,TRUE
 El Dorado,El Dorado,017,2021-05-16,10193,113,TRUE
 Fresno,Fresno,019,2021-05-16,101474,1690,
-Glenn,Glenn,021,2021-05-16,2336,25,TRUE
+Glenn,Glenn,021,2021-05-16,2336,20,TRUE
 Humboldt,Humboldt,023,2021-05-16,4072,42,TRUE
 Imperial,Imperial,025,2021-05-16,27887,725,TRUE
 Inyo,Inyo,027,2021-05-16,1428,38,TRUE
@@ -6110,7 +6171,7 @@ Contra Costa,Contra Costa,013,2021-05-15,68942,793,
 Del Norte,Del Norte,015,2021-05-15,1398,7,TRUE
 El Dorado,El Dorado,017,2021-05-15,10193,113,TRUE
 Fresno,Fresno,019,2021-05-15,101439,1688,
-Glenn,Glenn,021,2021-05-15,2336,25,TRUE
+Glenn,Glenn,021,2021-05-15,2336,20,TRUE
 Humboldt,Humboldt,023,2021-05-15,4072,42,TRUE
 Imperial,Imperial,025,2021-05-15,27887,725,TRUE
 Inyo,Inyo,027,2021-05-15,1428,38,TRUE
@@ -6171,7 +6232,7 @@ Contra Costa,Contra Costa,013,2021-05-14,68871,793,
 Del Norte,Del Norte,015,2021-05-14,1398,7,
 El Dorado,El Dorado,017,2021-05-14,10193,113,
 Fresno,Fresno,019,2021-05-14,101411,1687,
-Glenn,Glenn,021,2021-05-14,2336,25,
+Glenn,Glenn,021,2021-05-14,2336,20,
 Humboldt,Humboldt,023,2021-05-14,4072,42,
 Imperial,Imperial,025,2021-05-14,27887,725,
 Inyo,Inyo,027,2021-05-14,1428,38,
@@ -6232,7 +6293,7 @@ Contra Costa,Contra Costa,013,2021-05-13,68803,793,
 Del Norte,Del Norte,015,2021-05-13,1395,7,
 El Dorado,El Dorado,017,2021-05-13,10168,112,TRUE
 Fresno,Fresno,019,2021-05-13,101383,1687,
-Glenn,Glenn,021,2021-05-13,2332,25,
+Glenn,Glenn,021,2021-05-13,2332,20,
 Humboldt,Humboldt,023,2021-05-13,4046,41,
 Imperial,Imperial,025,2021-05-13,27860,721,
 Inyo,Inyo,027,2021-05-13,1428,38,TRUE
@@ -6293,7 +6354,7 @@ Contra Costa,Contra Costa,013,2021-05-12,68741,793,
 Del Norte,Del Norte,015,2021-05-12,1393,7,
 El Dorado,El Dorado,017,2021-05-12,10168,112,
 Fresno,Fresno,019,2021-05-12,101336,1686,
-Glenn,Glenn,021,2021-05-12,2328,25,
+Glenn,Glenn,021,2021-05-12,2328,20,
 Humboldt,Humboldt,023,2021-05-12,4002,41,
 Imperial,Imperial,025,2021-05-12,27848,721,
 Inyo,Inyo,027,2021-05-12,1428,38,TRUE
@@ -6354,7 +6415,7 @@ Contra Costa,Contra Costa,013,2021-05-11,68689,792,
 Del Norte,Del Norte,015,2021-05-11,1390,7,
 El Dorado,El Dorado,017,2021-05-11,10154,112,
 Fresno,Fresno,019,2021-05-11,101292,1682,
-Glenn,Glenn,021,2021-05-11,2327,25,
+Glenn,Glenn,021,2021-05-11,2327,20,
 Humboldt,Humboldt,023,2021-05-11,3984,40,
 Imperial,Imperial,025,2021-05-11,27847,722,
 Inyo,Inyo,027,2021-05-11,1428,38,TRUE
@@ -6415,7 +6476,7 @@ Contra Costa,Contra Costa,013,2021-05-10,68638,792,
 Del Norte,Del Norte,015,2021-05-10,1380,7,
 El Dorado,El Dorado,017,2021-05-10,10141,112,
 Fresno,Fresno,019,2021-05-10,101261,1682,
-Glenn,Glenn,021,2021-05-10,2323,25,
+Glenn,Glenn,021,2021-05-10,2323,20,
 Humboldt,Humboldt,023,2021-05-10,3980,40,
 Imperial,Imperial,025,2021-05-10,27837,721,
 Inyo,Inyo,027,2021-05-10,1428,38,
@@ -6476,7 +6537,7 @@ Contra Costa,Contra Costa,013,2021-05-09,68582,792,
 Del Norte,Del Norte,015,2021-05-09,1367,7,TRUE
 El Dorado,El Dorado,017,2021-05-09,10111,112,TRUE
 Fresno,Fresno,019,2021-05-09,101223,1682,
-Glenn,Glenn,021,2021-05-09,2321,25,TRUE
+Glenn,Glenn,021,2021-05-09,2321,20,TRUE
 Humboldt,Humboldt,023,2021-05-09,3935,39,TRUE
 Imperial,Imperial,025,2021-05-09,27837,718,
 Inyo,Inyo,027,2021-05-09,1426,38,
@@ -6537,7 +6598,7 @@ Contra Costa,Contra Costa,013,2021-05-08,68503,789,
 Del Norte,Del Norte,015,2021-05-08,1367,7,TRUE
 El Dorado,El Dorado,017,2021-05-08,10111,112,TRUE
 Fresno,Fresno,019,2021-05-08,101188,1682,
-Glenn,Glenn,021,2021-05-08,2321,25,TRUE
+Glenn,Glenn,021,2021-05-08,2321,20,TRUE
 Humboldt,Humboldt,023,2021-05-08,3935,39,TRUE
 Imperial,Imperial,025,2021-05-08,27837,718,TRUE
 Inyo,Inyo,027,2021-05-08,1426,38,TRUE
@@ -6598,7 +6659,7 @@ Contra Costa,Contra Costa,013,2021-05-07,68437,789,
 Del Norte,Del Norte,015,2021-05-07,1367,7,
 El Dorado,El Dorado,017,2021-05-07,10111,112,
 Fresno,Fresno,019,2021-05-07,101156,1680,
-Glenn,Glenn,021,2021-05-07,2321,25,
+Glenn,Glenn,021,2021-05-07,2321,20,
 Humboldt,Humboldt,023,2021-05-07,3935,39,
 Imperial,Imperial,025,2021-05-07,27837,718,
 Inyo,Inyo,027,2021-05-07,1426,38,
@@ -6659,7 +6720,7 @@ Contra Costa,Contra Costa,013,2021-05-06,68359,787,
 Del Norte,Del Norte,015,2021-05-06,1367,7,
 El Dorado,El Dorado,017,2021-05-06,10099,112,
 Fresno,Fresno,019,2021-05-06,101115,1680,
-Glenn,Glenn,021,2021-05-06,2318,25,
+Glenn,Glenn,021,2021-05-06,2318,20,
 Humboldt,Humboldt,023,2021-05-06,3915,39,
 Imperial,Imperial,025,2021-05-06,27837,718,
 Inyo,Inyo,027,2021-05-06,1425,38,
@@ -6720,7 +6781,7 @@ Contra Costa,Contra Costa,013,2021-05-05,68279,787,
 Del Norte,Del Norte,015,2021-05-05,1363,7,
 El Dorado,El Dorado,017,2021-05-05,10073,111,
 Fresno,Fresno,019,2021-05-05,101066,1677,
-Glenn,Glenn,021,2021-05-05,2315,25,
+Glenn,Glenn,021,2021-05-05,2315,20,
 Humboldt,Humboldt,023,2021-05-05,3903,39,
 Imperial,Imperial,025,2021-05-05,27837,718,
 Inyo,Inyo,027,2021-05-05,1425,38,
@@ -6781,7 +6842,7 @@ Contra Costa,Contra Costa,013,2021-05-04,68212,783,
 Del Norte,Del Norte,015,2021-05-04,1353,7,
 El Dorado,El Dorado,017,2021-05-04,10067,110,
 Fresno,Fresno,019,2021-05-04,101012,1677,
-Glenn,Glenn,021,2021-05-04,2312,25,
+Glenn,Glenn,021,2021-05-04,2312,20,
 Humboldt,Humboldt,023,2021-05-04,3895,39,
 Imperial,Imperial,025,2021-05-04,27837,718,
 Inyo,Inyo,027,2021-05-04,1424,38,
@@ -6842,7 +6903,7 @@ Contra Costa,Contra Costa,013,2021-05-03,68167,783,
 Del Norte,Del Norte,015,2021-05-03,1348,7,
 El Dorado,El Dorado,017,2021-05-03,10040,110,
 Fresno,Fresno,019,2021-05-03,100959,1677,
-Glenn,Glenn,021,2021-05-03,2309,25,
+Glenn,Glenn,021,2021-05-03,2309,20,
 Humboldt,Humboldt,023,2021-05-03,3885,38,
 Imperial,Imperial,025,2021-05-03,27837,718,
 Inyo,Inyo,027,2021-05-03,1423,38,1382
@@ -6903,7 +6964,7 @@ Contra Costa,Contra Costa,013,2021-05-02,68115,783,
 Del Norte,Del Norte,015,2021-05-02,1329,7,
 El Dorado,El Dorado,017,2021-05-02,9964,110,TRUE
 Fresno,Fresno,019,2021-05-02,100888,1677,
-Glenn,Glenn,021,2021-05-02,2309,25,TRUE
+Glenn,Glenn,021,2021-05-02,2309,20,TRUE
 Humboldt,Humboldt,023,2021-05-02,3852,38,
 Imperial,Imperial,025,2021-05-02,27829,718,
 Inyo,Inyo,027,2021-05-02,1422,38,TRUE
@@ -6964,7 +7025,7 @@ Contra Costa,Contra Costa,013,2021-05-01,68051,783,
 Del Norte,Del Norte,015,2021-05-01,1329,7,TRUE
 El Dorado,El Dorado,017,2021-05-01,9964,110,TRUE
 Fresno,Fresno,019,2021-05-01,100843,1670,
-Glenn,Glenn,021,2021-05-01,2309,25,TRUE
+Glenn,Glenn,021,2021-05-01,2309,20,TRUE
 Humboldt,Humboldt,023,2021-05-01,3852,38,TRUE
 Imperial,Imperial,025,2021-05-01,27829,718,TRUE
 Inyo,Inyo,027,2021-05-01,1422,38,TRUE
@@ -7025,7 +7086,7 @@ Contra Costa,Contra Costa,013,2021-04-30,67957,783,
 Del Norte,Del Norte,015,2021-04-30,1329,7,
 El Dorado,El Dorado,017,2021-04-30,9964,110,
 Fresno,Fresno,019,2021-04-30,100797,1667,
-Glenn,Glenn,021,2021-04-30,2309,25,
+Glenn,Glenn,021,2021-04-30,2309,20,
 Humboldt,Humboldt,023,2021-04-30,3852,38,
 Imperial,Imperial,025,2021-04-30,27829,718,
 Inyo,Inyo,027,2021-04-30,1422,38,
@@ -7086,7 +7147,7 @@ Contra Costa,Contra Costa,013,2021-04-29,67880,781,
 Del Norte,Del Norte,015,2021-04-29,1315,7,
 El Dorado,El Dorado,017,2021-04-29,9941,110,
 Fresno,Fresno,019,2021-04-29,100743,1666,
-Glenn,Glenn,021,2021-04-29,2309,25,
+Glenn,Glenn,021,2021-04-29,2309,20,
 Humboldt,Humboldt,023,2021-04-29,3833,38,
 Imperial,Imperial,025,2021-04-29,27815,718,
 Inyo,Inyo,027,2021-04-29,1422,38,
@@ -7147,7 +7208,7 @@ Contra Costa,Contra Costa,013,2021-04-28,67816,780,
 Del Norte,Del Norte,015,2021-04-28,1310,7,
 El Dorado,El Dorado,017,2021-04-28,9929,110,
 Fresno,Fresno,019,2021-04-28,100697,1663,
-Glenn,Glenn,021,2021-04-28,2308,25,TRUE
+Glenn,Glenn,021,2021-04-28,2308,20,TRUE
 Humboldt,Humboldt,023,2021-04-28,3814,38,
 Imperial,Imperial,025,2021-04-28,27809,718,
 Inyo,Inyo,027,2021-04-28,1421,38,TRUE
@@ -7208,7 +7269,7 @@ Contra Costa,Contra Costa,013,2021-04-27,67746,777,
 Del Norte,Del Norte,015,2021-04-27,1306,7,
 El Dorado,El Dorado,017,2021-04-27,9924,109,
 Fresno,Fresno,019,2021-04-27,100634,1662,
-Glenn,Glenn,021,2021-04-27,2308,25,
+Glenn,Glenn,021,2021-04-27,2308,20,
 Humboldt,Humboldt,023,2021-04-27,3799,38,
 Imperial,Imperial,025,2021-04-27,27797,718,
 Inyo,Inyo,027,2021-04-27,1421,38,
@@ -7269,7 +7330,7 @@ Contra Costa,Contra Costa,013,2021-04-26,67670,775,
 Del Norte,Del Norte,015,2021-04-26,1303,7,
 El Dorado,El Dorado,017,2021-04-26,9906,109,
 Fresno,Fresno,019,2021-04-26,100579,1662,
-Glenn,Glenn,021,2021-04-26,2303,25,
+Glenn,Glenn,021,2021-04-26,2303,20,
 Humboldt,Humboldt,023,2021-04-26,3785,38,
 Imperial,Imperial,025,2021-04-26,27795,718,
 Inyo,Inyo,027,2021-04-26,1421,38,
@@ -7330,7 +7391,7 @@ Contra Costa,Contra Costa,013,2021-04-25,67587,775,
 Del Norte,Del Norte,015,2021-04-25,1293,7,
 El Dorado,El Dorado,017,2021-04-25,9845,109,
 Fresno,Fresno,019,2021-04-25,100521,1662,
-Glenn,Glenn,021,2021-04-25,2302,25,TRUE
+Glenn,Glenn,021,2021-04-25,2302,20,TRUE
 Humboldt,Humboldt,023,2021-04-25,3717,38,
 Imperial,Imperial,025,2021-04-25,27725,718,
 Inyo,Inyo,027,2021-04-25,1420,38,TRUE
@@ -7391,7 +7452,7 @@ Contra Costa,Contra Costa,013,2021-04-24,67492,775,
 Del Norte,Del Norte,015,2021-04-24,1293,7,TRUE
 El Dorado,El Dorado,017,2021-04-24,9845,109,TRUE
 Fresno,Fresno,019,2021-04-24,100490,1662,
-Glenn,Glenn,021,2021-04-24,2302,25,TRUE
+Glenn,Glenn,021,2021-04-24,2302,20,TRUE
 Humboldt,Humboldt,023,2021-04-24,3717,38,TRUE
 Imperial,Imperial,025,2021-04-24,27725,718,TRUE
 Inyo,Inyo,027,2021-04-24,1420,38,TRUE
@@ -7452,7 +7513,7 @@ Contra Costa,Contra Costa,013,2021-04-23,67435,771,
 Del Norte,Del Norte,015,2021-04-23,1293,7,
 El Dorado,El Dorado,017,2021-04-23,9845,109,
 Fresno,Fresno,019,2021-04-23,100450,1657,
-Glenn,Glenn,021,2021-04-23,2302,25,TRUE
+Glenn,Glenn,021,2021-04-23,2302,20,TRUE
 Humboldt,Humboldt,023,2021-04-23,3717,38,
 Imperial,Imperial,025,2021-04-23,27725,718,
 Inyo,Inyo,027,2021-04-23,1420,38,
@@ -7513,7 +7574,7 @@ Contra Costa,Contra Costa,013,2021-04-22,67300,768,
 Del Norte,Del Norte,015,2021-04-22,1292,7,
 El Dorado,El Dorado,017,2021-04-22,9831,109,
 Fresno,Fresno,019,2021-04-22,100406,1654,
-Glenn,Glenn,021,2021-04-22,2302,25,
+Glenn,Glenn,021,2021-04-22,2302,20,
 Humboldt,Humboldt,023,2021-04-22,3697,38,
 Imperial,Imperial,025,2021-04-22,27686,718,
 Inyo,Inyo,027,2021-04-22,1419,38,
@@ -7574,7 +7635,7 @@ Contra Costa,Contra Costa,013,2021-04-21,67223,768,
 Del Norte,Del Norte,015,2021-04-21,1291,7,
 El Dorado,El Dorado,017,2021-04-21,9818,109,
 Fresno,Fresno,019,2021-04-21,100351,1650,
-Glenn,Glenn,021,2021-04-21,2300,25,TRUE
+Glenn,Glenn,021,2021-04-21,2300,20,TRUE
 Humboldt,Humboldt,023,2021-04-21,3659,38,
 Imperial,Imperial,025,2021-04-21,27672,718,
 Inyo,Inyo,027,2021-04-21,1418,38,
@@ -7635,7 +7696,7 @@ Contra Costa,Contra Costa,013,2021-04-20,67157,768,
 Del Norte,Del Norte,015,2021-04-20,1290,7,
 El Dorado,El Dorado,017,2021-04-20,9797,109,
 Fresno,Fresno,019,2021-04-20,100294,1646,
-Glenn,Glenn,021,2021-04-20,2300,25,
+Glenn,Glenn,021,2021-04-20,2300,20,
 Humboldt,Humboldt,023,2021-04-20,3631,38,
 Imperial,Imperial,025,2021-04-20,27665,718,
 Inyo,Inyo,027,2021-04-20,1418,38,
@@ -7696,7 +7757,7 @@ Contra Costa,Contra Costa,013,2021-04-19,67101,768,
 Del Norte,Del Norte,015,2021-04-19,1288,7,
 El Dorado,El Dorado,017,2021-04-19,9777,109,
 Fresno,Fresno,019,2021-04-19,100226,1646,
-Glenn,Glenn,021,2021-04-19,2299,25,
+Glenn,Glenn,021,2021-04-19,2299,20,
 Humboldt,Humboldt,023,2021-04-19,3621,38,
 Imperial,Imperial,025,2021-04-19,27655,718,
 Inyo,Inyo,027,2021-04-19,1417,38,
@@ -7757,7 +7818,7 @@ Contra Costa,Contra Costa,013,2021-04-18,67019,768,
 Del Norte,Del Norte,015,2021-04-18,1274,7,TRUE
 El Dorado,El Dorado,017,2021-04-18,9719,109,TRUE
 Fresno,Fresno,019,2021-04-18,100169,1646,
-Glenn,Glenn,021,2021-04-18,2297,25,TRUE
+Glenn,Glenn,021,2021-04-18,2297,20,TRUE
 Humboldt,Humboldt,023,2021-04-18,3587,37,TRUE
 Imperial,Imperial,025,2021-04-18,27562,717,
 Inyo,Inyo,027,2021-04-18,1417,38,TRUE
@@ -7818,7 +7879,7 @@ Contra Costa,Contra Costa,013,2021-04-17,66927,768,
 Del Norte,Del Norte,015,2021-04-17,1274,7,TRUE
 El Dorado,El Dorado,017,2021-04-17,9719,109,
 Fresno,Fresno,019,2021-04-17,100138,1643,
-Glenn,Glenn,021,2021-04-17,2297,25,TRUE
+Glenn,Glenn,021,2021-04-17,2297,20,TRUE
 Humboldt,Humboldt,023,2021-04-17,3587,37,TRUE
 Imperial,Imperial,025,2021-04-17,27561,717,TRUE
 Inyo,Inyo,027,2021-04-17,1417,38,TRUE
@@ -7879,7 +7940,7 @@ Contra Costa,Contra Costa,013,2021-04-16,66839,768,
 Del Norte,Del Norte,015,2021-04-16,1274,7,
 El Dorado,El Dorado,017,2021-04-16,9688,109,TRUE
 Fresno,Fresno,019,2021-04-16,100089,1642,
-Glenn,Glenn,021,2021-04-16,2297,25,
+Glenn,Glenn,021,2021-04-16,2297,20,
 Humboldt,Humboldt,023,2021-04-16,3587,37,
 Imperial,Imperial,025,2021-04-16,27561,717,
 Inyo,Inyo,027,2021-04-16,1417,38,
@@ -7940,7 +8001,7 @@ Contra Costa,Contra Costa,013,2021-04-15,66750,767,
 Del Norte,Del Norte,015,2021-04-15,1272,7,
 El Dorado,El Dorado,017,2021-04-15,9688,109,
 Fresno,Fresno,019,2021-04-15,100030,1640,
-Glenn,Glenn,021,2021-04-15,2294,25,
+Glenn,Glenn,021,2021-04-15,2294,20,
 Humboldt,Humboldt,023,2021-04-15,3579,37,
 Imperial,Imperial,025,2021-04-15,27535,716,
 Inyo,Inyo,027,2021-04-15,1417,38,
@@ -8001,7 +8062,7 @@ Contra Costa,Contra Costa,013,2021-04-14,66666,767,
 Del Norte,Del Norte,015,2021-04-14,1271,7,
 El Dorado,El Dorado,017,2021-04-14,9677,108,
 Fresno,Fresno,019,2021-04-14,99974,1636,
-Glenn,Glenn,021,2021-04-14,2292,25,TRUE
+Glenn,Glenn,021,2021-04-14,2292,20,TRUE
 Humboldt,Humboldt,023,2021-04-14,3572,36,
 Imperial,Imperial,025,2021-04-14,27515,716,
 Inyo,Inyo,027,2021-04-14,1417,38,
@@ -8062,7 +8123,7 @@ Contra Costa,Contra Costa,013,2021-04-13,66567,764,
 Del Norte,Del Norte,015,2021-04-13,1263,7,
 El Dorado,El Dorado,017,2021-04-13,9662,108,
 Fresno,Fresno,019,2021-04-13,99894,1633,
-Glenn,Glenn,021,2021-04-13,2292,25,
+Glenn,Glenn,021,2021-04-13,2292,20,
 Humboldt,Humboldt,023,2021-04-13,3560,36,
 Imperial,Imperial,025,2021-04-13,27512,716,
 Inyo,Inyo,027,2021-04-13,1416,38,
@@ -8123,7 +8184,7 @@ Contra Costa,Contra Costa,013,2021-04-12,66442,764,
 Del Norte,Del Norte,015,2021-04-12,1254,7,
 El Dorado,El Dorado,017,2021-04-12,9641,108,
 Fresno,Fresno,019,2021-04-12,99833,1633,
-Glenn,Glenn,021,2021-04-12,2290,25,
+Glenn,Glenn,021,2021-04-12,2290,20,
 Humboldt,Humboldt,023,2021-04-12,3553,36,
 Imperial,Imperial,025,2021-04-12,27494,716,
 Inyo,Inyo,027,2021-04-12,1415,38,
@@ -8184,7 +8245,7 @@ Contra Costa,Contra Costa,013,2021-04-11,66369,764,
 Del Norte,Del Norte,015,2021-04-11,1245,5,TRUE
 El Dorado,El Dorado,017,2021-04-11,9580,108,TRUE
 Fresno,Fresno,019,2021-04-11,99767,1630,TRUE
-Glenn,Glenn,021,2021-04-11,2284,25,TRUE
+Glenn,Glenn,021,2021-04-11,2284,20,TRUE
 Humboldt,Humboldt,023,2021-04-11,3518,36,TRUE
 Imperial,Imperial,025,2021-04-11,27401,716,TRUE
 Inyo,Inyo,027,2021-04-11,1412,38,TRUE
@@ -8245,7 +8306,7 @@ Contra Costa,Contra Costa,013,2021-04-10,66262,764,
 Del Norte,Del Norte,015,2021-04-10,1245,5,TRUE
 El Dorado,El Dorado,017,2021-04-10,9580,108,TRUE
 Fresno,Fresno,019,2021-04-10,99734,1630,
-Glenn,Glenn,021,2021-04-10,2284,25,TRUE
+Glenn,Glenn,021,2021-04-10,2284,20,TRUE
 Humboldt,Humboldt,023,2021-04-10,3518,36,TRUE
 Imperial,Imperial,025,2021-04-10,27401,716,TRUE
 Inyo,Inyo,027,2021-04-10,1412,38,TRUE
@@ -8306,7 +8367,7 @@ Contra Costa,Contra Costa,013,2021-04-09,66118,764,
 Del Norte,Del Norte,015,2021-04-09,1245,5,
 El Dorado,El Dorado,017,2021-04-09,9580,108,
 Fresno,Fresno,019,2021-04-09,99700,1627,
-Glenn,Glenn,021,2021-04-09,2284,25,TRUE
+Glenn,Glenn,021,2021-04-09,2284,20,TRUE
 Humboldt,Humboldt,023,2021-04-09,3518,36,
 Imperial,Imperial,025,2021-04-09,27401,716,
 Inyo,Inyo,027,2021-04-09,1412,38,
@@ -8367,7 +8428,7 @@ Contra Costa,Contra Costa,013,2021-04-08,65967,762,
 Del Norte,Del Norte,015,2021-04-08,1239,5,
 El Dorado,El Dorado,017,2021-04-08,9562,108,
 Fresno,Fresno,019,2021-04-08,99637,1627,
-Glenn,Glenn,021,2021-04-08,2284,25,
+Glenn,Glenn,021,2021-04-08,2284,20,
 Humboldt,Humboldt,023,2021-04-08,3508,36,
 Imperial,Imperial,025,2021-04-08,27367,715,
 Inyo,Inyo,027,2021-04-08,1412,38,
@@ -8428,7 +8489,7 @@ Contra Costa,Contra Costa,013,2021-04-07,65882,762,
 Del Norte,Del Norte,015,2021-04-07,1232,5,
 El Dorado,El Dorado,017,2021-04-07,9547,108,
 Fresno,Fresno,019,2021-04-07,99574,1626,
-Glenn,Glenn,021,2021-04-07,2284,25,
+Glenn,Glenn,021,2021-04-07,2284,20,
 Humboldt,Humboldt,023,2021-04-07,3507,36,
 Imperial,Imperial,025,2021-04-07,27308,715,
 Inyo,Inyo,027,2021-04-07,1408,38,
@@ -8489,7 +8550,7 @@ Contra Costa,Contra Costa,013,2021-04-06,65835,760,
 Del Norte,Del Norte,015,2021-04-06,1230,5,
 El Dorado,El Dorado,017,2021-04-06,9538,108,
 Fresno,Fresno,019,2021-04-06,99510,1622,
-Glenn,Glenn,021,2021-04-06,2279,25,
+Glenn,Glenn,021,2021-04-06,2279,20,
 Humboldt,Humboldt,023,2021-04-06,3500,36,
 Imperial,Imperial,025,2021-04-06,27296,715,
 Inyo,Inyo,027,2021-04-06,1402,38,
@@ -8550,7 +8611,7 @@ Contra Costa,Contra Costa,013,2021-04-05,65718,760,
 Del Norte,Del Norte,015,2021-04-05,1229,5,
 El Dorado,El Dorado,017,2021-04-05,9514,108,
 Fresno,Fresno,019,2021-04-05,99426,1597,
-Glenn,Glenn,021,2021-04-05,2276,25,
+Glenn,Glenn,021,2021-04-05,2276,20,
 Humboldt,Humboldt,023,2021-04-05,3500,36,
 Imperial,Imperial,025,2021-04-05,27283,715,
 Inyo,Inyo,027,2021-04-05,1402,38,
@@ -8611,7 +8672,7 @@ Contra Costa,Contra Costa,013,2021-04-04,65668,760,
 Del Norte,Del Norte,015,2021-04-04,1218,5,TRUE
 El Dorado,El Dorado,017,2021-04-04,9488,108,TRUE
 Fresno,Fresno,019,2021-04-04,99352,1597,TRUE
-Glenn,Glenn,021,2021-04-04,2270,25,TRUE
+Glenn,Glenn,021,2021-04-04,2270,20,TRUE
 Humboldt,Humboldt,023,2021-04-04,3492,36,TRUE
 Imperial,Imperial,025,2021-04-04,27209,715,TRUE
 Inyo,Inyo,027,2021-04-04,1401,38,TRUE
@@ -8672,7 +8733,7 @@ Contra Costa,Contra Costa,013,2021-04-03,65598,760,
 Del Norte,Del Norte,015,2021-04-03,1218,5,
 El Dorado,El Dorado,017,2021-04-03,9488,108,TRUE
 Fresno,Fresno,019,2021-04-03,99296,1597,
-Glenn,Glenn,021,2021-04-03,2270,25,TRUE
+Glenn,Glenn,021,2021-04-03,2270,20,TRUE
 Humboldt,Humboldt,023,2021-04-03,3492,36,TRUE
 Imperial,Imperial,025,2021-04-03,27209,715,TRUE
 Inyo,Inyo,027,2021-04-03,1401,38,
@@ -8733,7 +8794,7 @@ Contra Costa,Contra Costa,013,2021-04-02,65559,760,
 Del Norte,Del Norte,015,2021-04-02,1213,5,
 El Dorado,El Dorado,017,2021-04-02,9488,108,
 Fresno,Fresno,019,2021-04-02,99242,1597,
-Glenn,Glenn,021,2021-04-02,2270,25,
+Glenn,Glenn,021,2021-04-02,2270,20,
 Humboldt,Humboldt,023,2021-04-02,3492,36,
 Imperial,Imperial,025,2021-04-02,27209,715,
 Inyo,Inyo,027,2021-04-02,1401,38,
@@ -8794,7 +8855,7 @@ Contra Costa,Contra Costa,013,2021-04-01,65435,757,
 Del Norte,Del Norte,015,2021-04-01,1197,5,
 El Dorado,El Dorado,017,2021-04-01,9450,108,
 Fresno,Fresno,019,2021-04-01,99191,1596,
-Glenn,Glenn,021,2021-04-01,2261,25,
+Glenn,Glenn,021,2021-04-01,2261,20,
 Humboldt,Humboldt,023,2021-04-01,3489,36,
 Imperial,Imperial,025,2021-04-01,27116,715,
 Inyo,Inyo,027,2021-04-01,1399,38,
@@ -8855,7 +8916,7 @@ Contra Costa,Contra Costa,013,2021-03-31,65370,757,
 Del Norte,Del Norte,015,2021-03-31,1163,5,
 El Dorado,El Dorado,017,2021-03-31,9448,108,
 Fresno,Fresno,019,2021-03-31,99101,1593,
-Glenn,Glenn,021,2021-03-31,2258,25,TRUE
+Glenn,Glenn,021,2021-03-31,2258,20,TRUE
 Humboldt,Humboldt,023,2021-03-31,3476,36,TRUE
 Imperial,Imperial,025,2021-03-31,27116,715,TRUE
 Inyo,Inyo,027,2021-03-31,1399,38,
@@ -8916,7 +8977,7 @@ Contra Costa,Contra Costa,013,2021-03-30,65303,754,
 Del Norte,Del Norte,015,2021-03-30,1149,5,
 El Dorado,El Dorado,017,2021-03-30,9447,107,
 Fresno,Fresno,019,2021-03-30,99037,1593,
-Glenn,Glenn,021,2021-03-30,2258,25,
+Glenn,Glenn,021,2021-03-30,2258,20,
 Humboldt,Humboldt,023,2021-03-30,3476,36,
 Imperial,Imperial,025,2021-03-30,27116,715,
 Inyo,Inyo,027,2021-03-30,1397,37,
@@ -8977,7 +9038,7 @@ Contra Costa,Contra Costa,013,2021-03-29,65230,754,
 Del Norte,Del Norte,015,2021-03-29,1138,5,
 El Dorado,El Dorado,017,2021-03-29,9441,107,
 Fresno,Fresno,019,2021-03-29,98954,1592,
-Glenn,Glenn,021,2021-03-29,2257,25,
+Glenn,Glenn,021,2021-03-29,2257,20,
 Humboldt,Humboldt,023,2021-03-29,3473,36,
 Imperial,Imperial,025,2021-03-29,27103,715,
 Inyo,Inyo,027,2021-03-29,1397,37,
@@ -9038,7 +9099,7 @@ Contra Costa,Contra Costa,013,2021-03-28,65140,754,
 Del Norte,Del Norte,015,2021-03-28,1125,5,TRUE
 El Dorado,El Dorado,017,2021-03-28,9417,107,TRUE
 Fresno,Fresno,019,2021-03-28,98873,1592,TRUE
-Glenn,Glenn,021,2021-03-28,2252,25,TRUE
+Glenn,Glenn,021,2021-03-28,2252,20,TRUE
 Humboldt,Humboldt,023,2021-03-28,3448,35,TRUE
 Imperial,Imperial,025,2021-03-28,26998,715,
 Inyo,Inyo,027,2021-03-28,1394,37,TRUE
@@ -9099,7 +9160,7 @@ Contra Costa,Contra Costa,013,2021-03-27,65065,754,TRUE
 Del Norte,Del Norte,015,2021-03-27,1125,5,TRUE
 El Dorado,El Dorado,017,2021-03-27,9417,107,TRUE
 Fresno,Fresno,019,2021-03-27,98821,1592,
-Glenn,Glenn,021,2021-03-27,2252,25,TRUE
+Glenn,Glenn,021,2021-03-27,2252,20,TRUE
 Humboldt,Humboldt,023,2021-03-27,3448,35,TRUE
 Imperial,Imperial,025,2021-03-27,26998,715,TRUE
 Inyo,Inyo,027,2021-03-27,1394,37,TRUE
@@ -9160,7 +9221,7 @@ Contra Costa,Contra Costa,013,2021-03-26,64961,748,
 Del Norte,Del Norte,015,2021-03-26,1125,5,
 El Dorado,El Dorado,017,2021-03-26,9417,107,
 Fresno,Fresno,019,2021-03-26,98760,1592,
-Glenn,Glenn,021,2021-03-26,2252,25,
+Glenn,Glenn,021,2021-03-26,2252,20,
 Humboldt,Humboldt,023,2021-03-26,3448,35,
 Imperial,Imperial,025,2021-03-26,26998,715,
 Inyo,Inyo,027,2021-03-26,1394,37,
@@ -9221,7 +9282,7 @@ Contra Costa,Contra Costa,013,2021-03-25,64869,744,
 Del Norte,Del Norte,015,2021-03-25,1120,5,
 El Dorado,El Dorado,017,2021-03-25,9398,107,
 Fresno,Fresno,019,2021-03-25,98644,1590,
-Glenn,Glenn,021,2021-03-25,2246,24,
+Glenn,Glenn,021,2021-03-25,2246,20,
 Humboldt,Humboldt,023,2021-03-25,3441,34,
 Imperial,Imperial,025,2021-03-25,26998,715,
 Inyo,Inyo,027,2021-03-25,1394,37,
@@ -9282,7 +9343,7 @@ Contra Costa,Contra Costa,013,2021-03-24,64801,742,
 Del Norte,Del Norte,015,2021-03-24,1113,5,
 El Dorado,El Dorado,017,2021-03-24,9387,107,
 Fresno,Fresno,019,2021-03-24,98554,1571,
-Glenn,Glenn,021,2021-03-24,2242,24,
+Glenn,Glenn,021,2021-03-24,2242,20,
 Humboldt,Humboldt,023,2021-03-24,3432,34,
 Imperial,Imperial,025,2021-03-24,26986,715,
 Inyo,Inyo,027,2021-03-24,1389,37,
@@ -9343,7 +9404,7 @@ Contra Costa,Contra Costa,013,2021-03-23,64752,738,
 Del Norte,Del Norte,015,2021-03-23,1107,5,
 El Dorado,El Dorado,017,2021-03-23,9384,107,
 Fresno,Fresno,019,2021-03-23,98444,1571,
-Glenn,Glenn,021,2021-03-23,2242,24,
+Glenn,Glenn,021,2021-03-23,2242,20,
 Humboldt,Humboldt,023,2021-03-23,3426,34,
 Imperial,Imperial,025,2021-03-23,26946,715,
 Inyo,Inyo,027,2021-03-23,1388,37,
@@ -9404,7 +9465,7 @@ Contra Costa,Contra Costa,013,2021-03-22,64695,734,
 Del Norte,Del Norte,015,2021-03-22,1103,5,
 El Dorado,El Dorado,017,2021-03-22,9374,107,
 Fresno,Fresno,019,2021-03-22,98348,1568,
-Glenn,Glenn,021,2021-03-22,2240,24,
+Glenn,Glenn,021,2021-03-22,2240,20,
 Humboldt,Humboldt,023,2021-03-22,3426,34,
 Imperial,Imperial,025,2021-03-22,26920,699,
 Inyo,Inyo,027,2021-03-22,1388,37,
@@ -9465,7 +9526,7 @@ Contra Costa,Contra Costa,013,2021-03-21,64642,734,
 Del Norte,Del Norte,015,2021-03-21,1095,5,TRUE
 El Dorado,El Dorado,017,2021-03-21,9340,107,TRUE
 Fresno,Fresno,019,2021-03-21,98237,1546,TRUE
-Glenn,Glenn,021,2021-03-21,2229,24,TRUE
+Glenn,Glenn,021,2021-03-21,2229,20,TRUE
 Humboldt,Humboldt,023,2021-03-21,3419,35,TRUE
 Imperial,Imperial,025,2021-03-21,26851,691,TRUE
 Inyo,Inyo,027,2021-03-21,1377,37,TRUE
@@ -9526,7 +9587,7 @@ Contra Costa,Contra Costa,013,2021-03-20,64573,734,
 Del Norte,Del Norte,015,2021-03-20,1095,5,TRUE
 El Dorado,El Dorado,017,2021-03-20,9340,107,TRUE
 Fresno,Fresno,019,2021-03-20,98177,1546,
-Glenn,Glenn,021,2021-03-20,2229,24,TRUE
+Glenn,Glenn,021,2021-03-20,2229,20,TRUE
 Humboldt,Humboldt,023,2021-03-20,3419,35,TRUE
 Imperial,Imperial,025,2021-03-20,26851,691,TRUE
 Inyo,Inyo,027,2021-03-20,1377,37,TRUE
@@ -9587,7 +9648,7 @@ Contra Costa,Contra Costa,013,2021-03-19,64454,730,
 Del Norte,Del Norte,015,2021-03-19,1095,5,
 El Dorado,El Dorado,017,2021-03-19,9340,107,
 Fresno,Fresno,019,2021-03-19,98096,1546,TRUE
-Glenn,Glenn,021,2021-03-19,2229,24,
+Glenn,Glenn,021,2021-03-19,2229,20,
 Humboldt,Humboldt,023,2021-03-19,3419,35,
 Imperial,Imperial,025,2021-03-19,26851,691,
 Inyo,Inyo,027,2021-03-19,1377,37,
@@ -9648,7 +9709,7 @@ Contra Costa,Contra Costa,013,2021-03-18,64358,727,
 Del Norte,Del Norte,015,2021-03-18,1090,5,
 El Dorado,El Dorado,017,2021-03-18,9326,107,
 Fresno,Fresno,019,2021-03-18,98002,1546,
-Glenn,Glenn,021,2021-03-18,2224,24,
+Glenn,Glenn,021,2021-03-18,2224,20,
 Humboldt,Humboldt,023,2021-03-18,3406,35,
 Imperial,Imperial,025,2021-03-18,26817,689,
 Inyo,Inyo,027,2021-03-18,1375,37,
@@ -9709,7 +9770,7 @@ Contra Costa,Contra Costa,013,2021-03-17,64280,725,
 Del Norte,Del Norte,015,2021-03-17,1078,5,
 El Dorado,El Dorado,017,2021-03-17,9313,107,
 Fresno,Fresno,019,2021-03-17,97892,1543,
-Glenn,Glenn,021,2021-03-17,2222,24,
+Glenn,Glenn,021,2021-03-17,2222,20,
 Humboldt,Humboldt,023,2021-03-17,3392,35,
 Imperial,Imperial,025,2021-03-17,26815,687,
 Inyo,Inyo,027,2021-03-17,1374,37,
@@ -9770,7 +9831,7 @@ Contra Costa,Contra Costa,013,2021-03-16,64203,724,
 Del Norte,Del Norte,015,2021-03-16,1069,5,
 El Dorado,El Dorado,017,2021-03-16,9305,107,
 Fresno,Fresno,019,2021-03-16,97762,1535,
-Glenn,Glenn,021,2021-03-16,2219,23,
+Glenn,Glenn,021,2021-03-16,2219,20,
 Humboldt,Humboldt,023,2021-03-16,3383,34,
 Imperial,Imperial,025,2021-03-16,26815,686,
 Inyo,Inyo,027,2021-03-16,1369,37,
@@ -9831,7 +9892,7 @@ Contra Costa,Contra Costa,013,2021-03-15,64096,720,
 Del Norte,Del Norte,015,2021-03-15,1068,5,
 El Dorado,El Dorado,017,2021-03-15,9296,105,
 Fresno,Fresno,019,2021-03-15,97637,1534,
-Glenn,Glenn,021,2021-03-15,2217,23,
+Glenn,Glenn,021,2021-03-15,2217,20,
 Humboldt,Humboldt,023,2021-03-15,3370,34,
 Imperial,Imperial,025,2021-03-15,26814,680,
 Inyo,Inyo,027,2021-03-15,1369,37,
@@ -9892,7 +9953,7 @@ Contra Costa,Contra Costa,013,2021-03-14,64056,719,
 Del Norte,Del Norte,015,2021-03-14,1056,5,TRUE
 El Dorado,El Dorado,017,2021-03-14,9277,105,TRUE
 Fresno,Fresno,019,2021-03-14,97530,1534,TRUE
-Glenn,Glenn,021,2021-03-14,2214,23,TRUE
+Glenn,Glenn,021,2021-03-14,2214,20,TRUE
 Humboldt,Humboldt,023,2021-03-14,3349,34,TRUE
 Imperial,Imperial,025,2021-03-14,26749,680,TRUE
 Inyo,Inyo,027,2021-03-14,1362,37,TRUE
@@ -9953,7 +10014,7 @@ Contra Costa,Contra Costa,013,2021-03-13,63830,716,TRUE
 Del Norte,Del Norte,015,2021-03-13,1056,5,TRUE
 El Dorado,El Dorado,017,2021-03-13,9277,105,TRUE
 Fresno,Fresno,019,2021-03-13,97471,1534,
-Glenn,Glenn,021,2021-03-13,2214,23,TRUE
+Glenn,Glenn,021,2021-03-13,2214,20,TRUE
 Humboldt,Humboldt,023,2021-03-13,3349,34,TRUE
 Imperial,Imperial,025,2021-03-13,26749,680,TRUE
 Inyo,Inyo,027,2021-03-13,1362,37,TRUE
@@ -10014,7 +10075,7 @@ Contra Costa,Contra Costa,013,2021-03-12,63830,716,
 Del Norte,Del Norte,015,2021-03-12,1056,5,
 El Dorado,El Dorado,017,2021-03-12,9277,105,
 Fresno,Fresno,019,2021-03-12,97376,1527,
-Glenn,Glenn,021,2021-03-12,2214,23,
+Glenn,Glenn,021,2021-03-12,2214,20,
 Humboldt,Humboldt,023,2021-03-12,3349,34,
 Imperial,Imperial,025,2021-03-12,26749,680,
 Inyo,Inyo,027,2021-03-12,1362,37,
@@ -10075,7 +10136,7 @@ Contra Costa,Contra Costa,013,2021-03-11,63712,716,
 Del Norte,Del Norte,015,2021-03-11,1050,5,
 El Dorado,El Dorado,017,2021-03-11,9266,104,
 Fresno,Fresno,019,2021-03-11,97262,1519,
-Glenn,Glenn,021,2021-03-11,2211,23,
+Glenn,Glenn,021,2021-03-11,2211,20,
 Humboldt,Humboldt,023,2021-03-11,3335,34,
 Imperial,Imperial,025,2021-03-11,26749,679,
 Inyo,Inyo,027,2021-03-11,1357,37,
@@ -10136,7 +10197,7 @@ Contra Costa,Contra Costa,013,2021-03-10,63626,713,
 Del Norte,Del Norte,015,2021-03-10,1043,5,
 El Dorado,El Dorado,017,2021-03-10,9260,103,
 Fresno,Fresno,019,2021-03-10,97156,1509,
-Glenn,Glenn,021,2021-03-10,2210,23,
+Glenn,Glenn,021,2021-03-10,2210,20,
 Humboldt,Humboldt,023,2021-03-10,3326,34,
 Imperial,Imperial,025,2021-03-10,26732,667,
 Inyo,Inyo,027,2021-03-10,1351,37,
@@ -10197,7 +10258,7 @@ Contra Costa,Contra Costa,013,2021-03-09,63567,712,
 Del Norte,Del Norte,015,2021-03-09,1037,5,
 El Dorado,El Dorado,017,2021-03-09,9256,101,
 Fresno,Fresno,019,2021-03-09,97038,1505,
-Glenn,Glenn,021,2021-03-09,2204,23,
+Glenn,Glenn,021,2021-03-09,2204,20,
 Humboldt,Humboldt,023,2021-03-09,3317,34,
 Imperial,Imperial,025,2021-03-09,26725,661,
 Inyo,Inyo,027,2021-03-09,1344,37,
@@ -10258,7 +10319,7 @@ Contra Costa,Contra Costa,013,2021-03-08,63493,708,
 Del Norte,Del Norte,015,2021-03-08,1034,5,
 El Dorado,El Dorado,017,2021-03-08,9239,100,
 Fresno,Fresno,019,2021-03-08,96945,1488,
-Glenn,Glenn,021,2021-03-08,2203,23,
+Glenn,Glenn,021,2021-03-08,2203,20,
 Humboldt,Humboldt,023,2021-03-08,3308,33,
 Imperial,Imperial,025,2021-03-08,26721,661,
 Inyo,Inyo,027,2021-03-08,1344,37,
@@ -10319,7 +10380,7 @@ Contra Costa,Contra Costa,013,2021-03-07,63400,708,
 Del Norte,Del Norte,015,2021-03-07,1027,5,TRUE
 El Dorado,El Dorado,017,2021-03-07,9204,100,TRUE
 Fresno,Fresno,019,2021-03-07,96770,1488,
-Glenn,Glenn,021,2021-03-07,2196,23,
+Glenn,Glenn,021,2021-03-07,2196,20,
 Humboldt,Humboldt,023,2021-03-07,3266,33,TRUE
 Imperial,Imperial,025,2021-03-07,26708,641,TRUE
 Inyo,Inyo,027,2021-03-07,1334,37,TRUE
@@ -10380,7 +10441,7 @@ Contra Costa,Contra Costa,013,2021-03-06,63297,708,
 Del Norte,Del Norte,015,2021-03-06,1027,5,
 El Dorado,El Dorado,017,2021-03-06,9204,100,
 Fresno,Fresno,019,2021-03-06,96679,1488,
-Glenn,Glenn,021,2021-03-06,2196,23,
+Glenn,Glenn,021,2021-03-06,2196,20,
 Humboldt,Humboldt,023,2021-03-06,3266,33,
 Imperial,Imperial,025,2021-03-06,26708,641,
 Inyo,Inyo,027,2021-03-06,1334,37,
@@ -10441,7 +10502,7 @@ Contra Costa,Contra Costa,013,2021-03-05,63142,701,
 Del Norte,Del Norte,015,2021-03-05,1020,5,
 El Dorado,El Dorado,017,2021-03-05,9204,100,
 Fresno,Fresno,019,2021-03-05,96573,1466,
-Glenn,Glenn,021,2021-03-05,2196,23,
+Glenn,Glenn,021,2021-03-05,2196,20,
 Humboldt,Humboldt,023,2021-03-05,3266,33,
 Imperial,Imperial,025,2021-03-05,26708,641,
 Inyo,Inyo,027,2021-03-05,1334,37,
@@ -10502,7 +10563,7 @@ Contra Costa,Contra Costa,013,2021-03-04,63053,696,
 Del Norte,Del Norte,015,2021-03-04,1016,5,
 El Dorado,El Dorado,017,2021-03-04,9201,100,
 Fresno,Fresno,019,2021-03-04,96410,1458,
-Glenn,Glenn,021,2021-03-04,2193,23,
+Glenn,Glenn,021,2021-03-04,2193,20,
 Humboldt,Humboldt,023,2021-03-04,3246,33,
 Imperial,Imperial,025,2021-03-04,26674,638,
 Inyo,Inyo,027,2021-03-04,1326,37,
@@ -10563,7 +10624,7 @@ Contra Costa,Contra Costa,013,2021-03-03,62931,695,
 Del Norte,Del Norte,015,2021-03-03,1008,5,
 El Dorado,El Dorado,017,2021-03-03,9195,100,
 Fresno,Fresno,019,2021-03-03,96269,1451,
-Glenn,Glenn,021,2021-03-03,2192,23,
+Glenn,Glenn,021,2021-03-03,2192,20,
 Humboldt,Humboldt,023,2021-03-03,3230,33,
 Imperial,Imperial,025,2021-03-03,26674,638,
 Inyo,Inyo,027,2021-03-03,1321,37,
@@ -10624,7 +10685,7 @@ Contra Costa,Contra Costa,013,2021-03-02,62818,681,
 Del Norte,Del Norte,015,2021-03-02,1007,5,
 El Dorado,El Dorado,017,2021-03-02,9168,100,
 Fresno,Fresno,019,2021-03-02,96125,1451,
-Glenn,Glenn,021,2021-03-02,2192,23,
+Glenn,Glenn,021,2021-03-02,2192,20,
 Humboldt,Humboldt,023,2021-03-02,3219,33,
 Imperial,Imperial,025,2021-03-02,26674,638,
 Inyo,Inyo,027,2021-03-02,1317,37,
@@ -10685,7 +10746,7 @@ Contra Costa,Contra Costa,013,2021-03-01,62720,681,
 Del Norte,Del Norte,015,2021-03-01,1003,5,
 El Dorado,El Dorado,017,2021-03-01,9160,100,
 Fresno,Fresno,019,2021-03-01,95988,1443,
-Glenn,Glenn,021,2021-03-01,2189,23,
+Glenn,Glenn,021,2021-03-01,2189,20,
 Humboldt,Humboldt,023,2021-03-01,3210,33,
 Imperial,Imperial,025,2021-03-01,26674,635,
 Inyo,Inyo,027,2021-03-01,1313,37,
@@ -10746,7 +10807,7 @@ Contra Costa,Contra Costa,013,2021-02-28,62645,681,
 Del Norte,Del Norte,015,2021-02-28,1001,5,TRUE
 El Dorado,El Dorado,017,2021-02-28,9120,100,TRUE
 Fresno,Fresno,019,2021-02-28,95812,1443,
-Glenn,Glenn,021,2021-02-28,2181,23,TRUE
+Glenn,Glenn,021,2021-02-28,2181,20,TRUE
 Humboldt,Humboldt,023,2021-02-28,3180,33,TRUE
 Imperial,Imperial,025,2021-02-28,26595,593,
 Inyo,Inyo,027,2021-02-28,1298,37,TRUE
@@ -10807,7 +10868,7 @@ Contra Costa,Contra Costa,013,2021-02-27,62507,681,
 Del Norte,Del Norte,015,2021-02-27,1001,5,
 El Dorado,El Dorado,017,2021-02-27,9120,100,TRUE
 Fresno,Fresno,019,2021-02-27,95739,1443,
-Glenn,Glenn,021,2021-02-27,2181,23,TRUE
+Glenn,Glenn,021,2021-02-27,2181,20,TRUE
 Humboldt,Humboldt,023,2021-02-27,3180,33,TRUE
 Imperial,Imperial,025,2021-02-27,26594,593,
 Inyo,Inyo,027,2021-02-27,1298,37,TRUE
@@ -10868,7 +10929,7 @@ Contra Costa,Contra Costa,013,2021-02-26,62367,674,
 Del Norte,Del Norte,015,2021-02-26,994,5,
 El Dorado,El Dorado,017,2021-02-26,9120,100,
 Fresno,Fresno,019,2021-02-26,95635,1422,
-Glenn,Glenn,021,2021-02-26,2181,23,
+Glenn,Glenn,021,2021-02-26,2181,20,
 Humboldt,Humboldt,023,2021-02-26,3180,33,
 Imperial,Imperial,025,2021-02-26,26594,593,
 Inyo,Inyo,027,2021-02-26,1298,37,
@@ -10929,7 +10990,7 @@ Contra Costa,Contra Costa,013,2021-02-25,62164,674,
 Del Norte,Del Norte,015,2021-02-25,987,5,
 El Dorado,El Dorado,017,2021-02-25,9095,100,
 Fresno,Fresno,019,2021-02-25,95492,1412,
-Glenn,Glenn,021,2021-02-25,2171,23,
+Glenn,Glenn,021,2021-02-25,2171,20,
 Humboldt,Humboldt,023,2021-02-25,3160,33,
 Imperial,Imperial,025,2021-02-25,26594,589,
 Inyo,Inyo,027,2021-02-25,1287,36,
@@ -10990,7 +11051,7 @@ Contra Costa,Contra Costa,013,2021-02-24,62028,655,
 Del Norte,Del Norte,015,2021-02-24,986,5,
 El Dorado,El Dorado,017,2021-02-24,9086,98,
 Fresno,Fresno,019,2021-02-24,95346,1401,
-Glenn,Glenn,021,2021-02-24,2171,23,
+Glenn,Glenn,021,2021-02-24,2171,20,
 Humboldt,Humboldt,023,2021-02-24,3151,33,
 Imperial,Imperial,025,2021-02-24,26576,588,
 Inyo,Inyo,027,2021-02-24,1281,36,
@@ -11051,7 +11112,7 @@ Contra Costa,Contra Costa,013,2021-02-23,61865,653,
 Del Norte,Del Norte,015,2021-02-23,976,5,
 El Dorado,El Dorado,017,2021-02-23,9069,95,
 Fresno,Fresno,019,2021-02-23,95185,1397,
-Glenn,Glenn,021,2021-02-23,2168,23,
+Glenn,Glenn,021,2021-02-23,2168,20,
 Humboldt,Humboldt,023,2021-02-23,3136,33,
 Imperial,Imperial,025,2021-02-23,26574,587,
 Inyo,Inyo,027,2021-02-23,1278,35,
@@ -11112,7 +11173,7 @@ Contra Costa,Contra Costa,013,2021-02-22,61744,653,
 Del Norte,Del Norte,015,2021-02-22,971,5,
 El Dorado,El Dorado,017,2021-02-22,9059,95,
 Fresno,Fresno,019,2021-02-22,95021,1367,
-Glenn,Glenn,021,2021-02-22,2167,23,
+Glenn,Glenn,021,2021-02-22,2167,20,
 Humboldt,Humboldt,023,2021-02-22,3124,32,
 Imperial,Imperial,025,2021-02-22,26574,587,
 Inyo,Inyo,027,2021-02-22,1277,34,
@@ -11173,7 +11234,7 @@ Contra Costa,Contra Costa,013,2021-02-21,61628,653,
 Del Norte,Del Norte,015,2021-02-21,959,5,TRUE
 El Dorado,El Dorado,017,2021-02-21,9017,93,TRUE
 Fresno,Fresno,019,2021-02-21,94875,1367,
-Glenn,Glenn,021,2021-02-21,2161,23,TRUE
+Glenn,Glenn,021,2021-02-21,2161,20,TRUE
 Humboldt,Humboldt,023,2021-02-21,3067,32,TRUE
 Imperial,Imperial,025,2021-02-21,26574,584,TRUE
 Inyo,Inyo,027,2021-02-21,1243,34,TRUE
@@ -11234,7 +11295,7 @@ Contra Costa,Contra Costa,013,2021-02-20,61469,653,
 Del Norte,Del Norte,015,2021-02-20,959,5,
 El Dorado,El Dorado,017,2021-02-20,9017,93,TRUE
 Fresno,Fresno,019,2021-02-20,94788,1367,
-Glenn,Glenn,021,2021-02-20,2161,23,TRUE
+Glenn,Glenn,021,2021-02-20,2161,20,TRUE
 Humboldt,Humboldt,023,2021-02-20,3067,32,TRUE
 Imperial,Imperial,025,2021-02-20,26574,584,TRUE
 Inyo,Inyo,027,2021-02-20,1243,34,TRUE
@@ -11295,7 +11356,7 @@ Contra Costa,Contra Costa,013,2021-02-19,61284,643,
 Del Norte,Del Norte,015,2021-02-19,955,5,
 El Dorado,El Dorado,017,2021-02-19,9017,93,
 Fresno,Fresno,019,2021-02-19,94658,1367,
-Glenn,Glenn,021,2021-02-19,2161,23,
+Glenn,Glenn,021,2021-02-19,2161,20,
 Humboldt,Humboldt,023,2021-02-19,3067,32,
 Imperial,Imperial,025,2021-02-19,26574,584,
 Inyo,Inyo,027,2021-02-19,1243,34,
@@ -11356,7 +11417,7 @@ Contra Costa,Contra Costa,013,2021-02-18,61134,632,
 Del Norte,Del Norte,015,2021-02-18,954,5,
 El Dorado,El Dorado,017,2021-02-18,8984,91,
 Fresno,Fresno,019,2021-02-18,94490,1356,
-Glenn,Glenn,021,2021-02-18,2157,23,
+Glenn,Glenn,021,2021-02-18,2157,20,
 Humboldt,Humboldt,023,2021-02-18,3053,32,
 Imperial,Imperial,025,2021-02-18,26574,584,
 Inyo,Inyo,027,2021-02-18,1240,34,
@@ -11417,7 +11478,7 @@ Contra Costa,Contra Costa,013,2021-02-17,60996,626,
 Del Norte,Del Norte,015,2021-02-17,947,4,
 El Dorado,El Dorado,017,2021-02-17,8982,91,
 Fresno,Fresno,019,2021-02-17,94358,1349,
-Glenn,Glenn,021,2021-02-17,2154,23,
+Glenn,Glenn,021,2021-02-17,2154,20,
 Humboldt,Humboldt,023,2021-02-17,3036,32,
 Imperial,Imperial,025,2021-02-17,26574,584,
 Inyo,Inyo,027,2021-02-17,1224,34,
@@ -11478,7 +11539,7 @@ Contra Costa,Contra Costa,013,2021-02-16,60834,622,
 Del Norte,Del Norte,015,2021-02-16,938,4,
 El Dorado,El Dorado,017,2021-02-16,8973,91,
 Fresno,Fresno,019,2021-02-16,94187,1341,
-Glenn,Glenn,021,2021-02-16,2138,23,
+Glenn,Glenn,021,2021-02-16,2138,20,
 Humboldt,Humboldt,023,2021-02-16,3025,32,
 Imperial,Imperial,025,2021-02-16,26574,584,
 Inyo,Inyo,027,2021-02-16,1217,34,
@@ -11539,7 +11600,7 @@ Contra Costa,Contra Costa,013,2021-02-15,60710,622,
 Del Norte,Del Norte,015,2021-02-15,931,4,
 El Dorado,El Dorado,017,2021-02-15,8855,90,TRUE
 Fresno,Fresno,019,2021-02-15,93988,1291,TRUE
-Glenn,Glenn,021,2021-02-15,2138,23,TRUE
+Glenn,Glenn,021,2021-02-15,2138,20,TRUE
 Humboldt,Humboldt,023,2021-02-15,3025,32,
 Imperial,Imperial,025,2021-02-15,26574,584,TRUE
 Inyo,Inyo,027,2021-02-15,1193,34,TRUE
@@ -11600,7 +11661,7 @@ Contra Costa,Contra Costa,013,2021-02-14,60537,622,
 Del Norte,Del Norte,015,2021-02-14,929,4,TRUE
 El Dorado,El Dorado,017,2021-02-14,8855,90,TRUE
 Fresno,Fresno,019,2021-02-14,93823,1291,TRUE
-Glenn,Glenn,021,2021-02-14,2138,23,TRUE
+Glenn,Glenn,021,2021-02-14,2138,20,TRUE
 Humboldt,Humboldt,023,2021-02-14,3009,32,TRUE
 Imperial,Imperial,025,2021-02-14,26574,584,TRUE
 Inyo,Inyo,027,2021-02-14,1193,34,TRUE
@@ -11661,7 +11722,7 @@ Contra Costa,Contra Costa,013,2021-02-13,60365,620,
 Del Norte,Del Norte,015,2021-02-13,929,4,
 El Dorado,El Dorado,017,2021-02-13,8855,90,TRUE
 Fresno,Fresno,019,2021-02-13,93716,1291,
-Glenn,Glenn,021,2021-02-13,2138,23,TRUE
+Glenn,Glenn,021,2021-02-13,2138,20,TRUE
 Humboldt,Humboldt,023,2021-02-13,3009,32,TRUE
 Imperial,Imperial,025,2021-02-13,26574,584,TRUE
 Inyo,Inyo,027,2021-02-13,1193,34,TRUE
@@ -11722,7 +11783,7 @@ Contra Costa,Contra Costa,013,2021-02-12,60142,610,
 Del Norte,Del Norte,015,2021-02-12,922,4,
 El Dorado,El Dorado,017,2021-02-12,8855,90,
 Fresno,Fresno,019,2021-02-12,93568,1291,
-Glenn,Glenn,021,2021-02-12,2138,23,
+Glenn,Glenn,021,2021-02-12,2138,20,
 Humboldt,Humboldt,023,2021-02-12,3009,32,TRUE
 Imperial,Imperial,025,2021-02-12,26574,584,
 Inyo,Inyo,027,2021-02-12,1193,34,
@@ -11783,7 +11844,7 @@ Contra Costa,Contra Costa,013,2021-02-11,59895,595,
 Del Norte,Del Norte,015,2021-02-11,919,4,
 El Dorado,El Dorado,017,2021-02-11,8827,88,
 Fresno,Fresno,019,2021-02-11,93415,1291,
-Glenn,Glenn,021,2021-02-11,2133,23,
+Glenn,Glenn,021,2021-02-11,2133,20,
 Humboldt,Humboldt,023,2021-02-11,3009,32,
 Imperial,Imperial,025,2021-02-11,26574,584,
 Inyo,Inyo,027,2021-02-11,1180,34,
@@ -11844,7 +11905,7 @@ Contra Costa,Contra Costa,013,2021-02-10,59751,580,
 Del Norte,Del Norte,015,2021-02-10,911,3,
 El Dorado,El Dorado,017,2021-02-10,8807,86,
 Fresno,Fresno,019,2021-02-10,93243,1283,
-Glenn,Glenn,021,2021-02-10,2089,23,
+Glenn,Glenn,021,2021-02-10,2089,20,
 Humboldt,Humboldt,023,2021-02-10,2976,32,
 Imperial,Imperial,025,2021-02-10,26549,574,
 Inyo,Inyo,027,2021-02-10,1176,34,
@@ -11905,7 +11966,7 @@ Contra Costa,Contra Costa,013,2021-02-09,59585,574,
 Del Norte,Del Norte,015,2021-02-09,905,3,
 El Dorado,El Dorado,017,2021-02-09,8785,86,
 Fresno,Fresno,019,2021-02-09,93008,1258,
-Glenn,Glenn,021,2021-02-09,2088,23,
+Glenn,Glenn,021,2021-02-09,2088,20,
 Humboldt,Humboldt,023,2021-02-09,2960,32,
 Imperial,Imperial,025,2021-02-09,26509,573,
 Inyo,Inyo,027,2021-02-09,1174,34,
@@ -11966,7 +12027,7 @@ Contra Costa,Contra Costa,013,2021-02-08,59313,560,
 Del Norte,Del Norte,015,2021-02-08,904,3,
 El Dorado,El Dorado,017,2021-02-08,8762,86,
 Fresno,Fresno,019,2021-02-08,92797,1254,
-Glenn,Glenn,021,2021-02-08,2078,23,
+Glenn,Glenn,021,2021-02-08,2078,20,
 Humboldt,Humboldt,023,2021-02-08,2955,32,
 Imperial,Imperial,025,2021-02-08,26489,561,
 Inyo,Inyo,027,2021-02-08,1162,32,
@@ -12027,7 +12088,7 @@ Contra Costa,Contra Costa,013,2021-02-07,59107,559,
 Del Norte,Del Norte,015,2021-02-07,898,3,TRUE
 El Dorado,El Dorado,017,2021-02-07,8647,86,TRUE
 Fresno,Fresno,019,2021-02-07,92573,1224,TRUE
-Glenn,Glenn,021,2021-02-07,2048,23,TRUE
+Glenn,Glenn,021,2021-02-07,2048,20,TRUE
 Humboldt,Humboldt,023,2021-02-07,2907,31,TRUE
 Imperial,Imperial,025,2021-02-07,26372,560,TRUE
 Inyo,Inyo,027,2021-02-07,1140,29,TRUE
@@ -12088,7 +12149,7 @@ Contra Costa,Contra Costa,013,2021-02-06,58839,559,TRUE
 Del Norte,Del Norte,015,2021-02-06,898,3,TRUE
 El Dorado,El Dorado,017,2021-02-06,8647,86,
 Fresno,Fresno,019,2021-02-06,92463,1224,TRUE
-Glenn,Glenn,021,2021-02-06,2048,23,
+Glenn,Glenn,021,2021-02-06,2048,20,
 Humboldt,Humboldt,023,2021-02-06,2907,31,
 Imperial,Imperial,025,2021-02-06,26372,560,
 Inyo,Inyo,027,2021-02-06,1140,29,
@@ -12149,7 +12210,7 @@ Contra Costa,Contra Costa,013,2021-02-05,58462,552,
 Del Norte,Del Norte,015,2021-02-05,894,3,
 El Dorado,El Dorado,017,2021-02-05,8647,86,
 Fresno,Fresno,019,2021-02-05,92259,1224,
-Glenn,Glenn,021,2021-02-05,2048,23,
+Glenn,Glenn,021,2021-02-05,2048,20,
 Humboldt,Humboldt,023,2021-02-05,2907,31,
 Imperial,Imperial,025,2021-02-05,26372,560,
 Inyo,Inyo,027,2021-02-05,1140,29,
@@ -12210,7 +12271,7 @@ Contra Costa,Contra Costa,013,2021-02-04,58248,542,
 Del Norte,Del Norte,015,2021-02-04,892,3,
 El Dorado,El Dorado,017,2021-02-04,8622,85,
 Fresno,Fresno,019,2021-02-04,92047,1224,
-Glenn,Glenn,021,2021-02-04,2048,23,
+Glenn,Glenn,021,2021-02-04,2048,20,
 Humboldt,Humboldt,023,2021-02-04,2877,31,
 Imperial,Imperial,025,2021-02-04,26331,551,
 Inyo,Inyo,027,2021-02-04,1117,29,
@@ -12271,7 +12332,7 @@ Contra Costa,Contra Costa,013,2021-02-03,58021,532,
 Del Norte,Del Norte,015,2021-02-03,888,3,
 El Dorado,El Dorado,017,2021-02-03,8552,83,
 Fresno,Fresno,019,2021-02-03,91830,1198,
-Glenn,Glenn,021,2021-02-03,2045,23,
+Glenn,Glenn,021,2021-02-03,2045,20,
 Humboldt,Humboldt,023,2021-02-03,2849,31,
 Imperial,Imperial,025,2021-02-03,26260,551,
 Inyo,Inyo,027,2021-02-03,1108,29,
@@ -12332,7 +12393,7 @@ Contra Costa,Contra Costa,013,2021-02-02,57812,531,
 Del Norte,Del Norte,015,2021-02-02,886,3,
 El Dorado,El Dorado,017,2021-02-02,8479,81,
 Fresno,Fresno,019,2021-02-02,91530,1185,
-Glenn,Glenn,021,2021-02-02,2038,23,
+Glenn,Glenn,021,2021-02-02,2038,20,
 Humboldt,Humboldt,023,2021-02-02,2836,31,
 Imperial,Imperial,025,2021-02-02,26184,551,
 Inyo,Inyo,027,2021-02-02,1091,29,
@@ -12393,7 +12454,7 @@ Contra Costa,Contra Costa,013,2021-02-01,57580,529,
 Del Norte,Del Norte,015,2021-02-01,884,3,
 El Dorado,El Dorado,017,2021-02-01,8443,81,
 Fresno,Fresno,019,2021-02-01,91202,1173,
-Glenn,Glenn,021,2021-02-01,2016,23,
+Glenn,Glenn,021,2021-02-01,2016,20,
 Humboldt,Humboldt,023,2021-02-01,2815,30,
 Imperial,Imperial,025,2021-02-01,26157,549,
 Inyo,Inyo,027,2021-02-01,1087,29,
@@ -12454,7 +12515,7 @@ Contra Costa,Contra Costa,013,2021-01-31,57337,529,
 Del Norte,Del Norte,015,2021-01-31,883,3,TRUE
 El Dorado,El Dorado,017,2021-01-31,8359,79,TRUE
 Fresno,Fresno,019,2021-01-31,90888,1137,TRUE
-Glenn,Glenn,021,2021-01-31,1998,23,TRUE
+Glenn,Glenn,021,2021-01-31,1998,20,TRUE
 Humboldt,Humboldt,023,2021-01-31,2754,30,TRUE
 Imperial,Imperial,025,2021-01-31,25948,532,TRUE
 Inyo,Inyo,027,2021-01-31,1083,29,TRUE
@@ -12515,7 +12576,7 @@ Contra Costa,Contra Costa,013,2021-01-30,57021,529,
 Del Norte,Del Norte,015,2021-01-30,883,3,TRUE
 El Dorado,El Dorado,017,2021-01-30,8359,79,TRUE
 Fresno,Fresno,019,2021-01-30,90710,1137,
-Glenn,Glenn,021,2021-01-30,1998,23,TRUE
+Glenn,Glenn,021,2021-01-30,1998,20,TRUE
 Humboldt,Humboldt,023,2021-01-30,2754,30,TRUE
 Imperial,Imperial,025,2021-01-30,25948,532,TRUE
 Inyo,Inyo,027,2021-01-30,1083,29,TRUE
@@ -12576,7 +12637,7 @@ Contra Costa,Contra Costa,013,2021-01-29,56575,528,
 Del Norte,Del Norte,015,2021-01-29,883,3,
 El Dorado,El Dorado,017,2021-01-29,8359,79,
 Fresno,Fresno,019,2021-01-29,90500,1137,
-Glenn,Glenn,021,2021-01-29,1998,23,
+Glenn,Glenn,021,2021-01-29,1998,20,
 Humboldt,Humboldt,023,2021-01-29,2754,30,
 Imperial,Imperial,025,2021-01-29,25948,532,
 Inyo,Inyo,027,2021-01-29,1083,29,
@@ -12637,7 +12698,7 @@ Contra Costa,Contra Costa,013,2021-01-28,56252,525,
 Del Norte,Del Norte,015,2021-01-28,883,3,
 El Dorado,El Dorado,017,2021-01-28,8323,74,
 Fresno,Fresno,019,2021-01-28,90214,1137,
-Glenn,Glenn,021,2021-01-28,1994,22,
+Glenn,Glenn,021,2021-01-28,1994,20,
 Humboldt,Humboldt,023,2021-01-28,2725,27,
 Imperial,Imperial,025,2021-01-28,25827,528,
 Inyo,Inyo,027,2021-01-28,1073,29,
@@ -12698,7 +12759,7 @@ Contra Costa,Contra Costa,013,2021-01-27,55835,507,
 Del Norte,Del Norte,015,2021-01-27,879,3,
 El Dorado,El Dorado,017,2021-01-27,8268,71,
 Fresno,Fresno,019,2021-01-27,89919,1122,
-Glenn,Glenn,021,2021-01-27,1990,22,
+Glenn,Glenn,021,2021-01-27,1990,20,
 Humboldt,Humboldt,023,2021-01-27,2672,27,
 Imperial,Imperial,025,2021-01-27,25784,514,
 Inyo,Inyo,027,2021-01-27,1058,29,
@@ -12759,7 +12820,7 @@ Contra Costa,Contra Costa,013,2021-01-26,55593,492,
 Del Norte,Del Norte,015,2021-01-26,878,3,
 El Dorado,El Dorado,017,2021-01-26,8245,66,
 Fresno,Fresno,019,2021-01-26,89565,1084,
-Glenn,Glenn,021,2021-01-26,1984,22,
+Glenn,Glenn,021,2021-01-26,1984,20,
 Humboldt,Humboldt,023,2021-01-26,2652,27,
 Imperial,Imperial,025,2021-01-26,25721,510,
 Inyo,Inyo,027,2021-01-26,1053,29,
@@ -12820,7 +12881,7 @@ Contra Costa,Contra Costa,013,2021-01-25,55245,489,
 Del Norte,Del Norte,015,2021-01-25,874,2,
 El Dorado,El Dorado,017,2021-01-25,8184,62,
 Fresno,Fresno,019,2021-01-25,89198,1067,
-Glenn,Glenn,021,2021-01-25,1965,22,
+Glenn,Glenn,021,2021-01-25,1965,20,
 Humboldt,Humboldt,023,2021-01-25,2624,27,
 Imperial,Imperial,025,2021-01-25,25646,510,
 Inyo,Inyo,027,2021-01-25,1051,29,
@@ -12881,7 +12942,7 @@ Contra Costa,Contra Costa,013,2021-01-24,54951,489,
 Del Norte,Del Norte,015,2021-01-24,873,2,
 El Dorado,El Dorado,017,2021-01-24,8002,59,TRUE
 Fresno,Fresno,019,2021-01-24,88761,1043,TRUE
-Glenn,Glenn,021,2021-01-24,1927,22,TRUE
+Glenn,Glenn,021,2021-01-24,1927,20,TRUE
 Humboldt,Humboldt,023,2021-01-24,2494,25,TRUE
 Imperial,Imperial,025,2021-01-24,25445,493,TRUE
 Inyo,Inyo,027,2021-01-24,1007,29,TRUE
@@ -12942,7 +13003,7 @@ Contra Costa,Contra Costa,013,2021-01-23,54416,487,
 Del Norte,Del Norte,015,2021-01-23,873,2,
 El Dorado,El Dorado,017,2021-01-23,8002,59,TRUE
 Fresno,Fresno,019,2021-01-23,88578,1043,
-Glenn,Glenn,021,2021-01-23,1927,22,
+Glenn,Glenn,021,2021-01-23,1927,20,
 Humboldt,Humboldt,023,2021-01-23,2494,25,TRUE
 Imperial,Imperial,025,2021-01-23,25445,493,TRUE
 Inyo,Inyo,027,2021-01-23,1007,29,TRUE
