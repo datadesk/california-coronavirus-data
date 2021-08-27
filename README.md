@@ -225,7 +225,7 @@ Statewide demographic data tallying totals by age for both cases and deaths. Pro
 | `deaths_total`            | integer | The cumulative number of deaths case amoung this age bracket at that time.                          |
 | `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
 
-### [latimes-county-cases-deaths.csv](./latimes-state-cases-deaths.csv)
+### [cdph-county-cases-deaths.csv](./cdph-state-cases-deaths.csv)
 
 The county-level totals of cases and deaths logged by the California Department of Public Health.
 
@@ -240,7 +240,7 @@ The county-level totals of cases and deaths logged by the California Department 
 | `reported_and_probable_cases` | integer | The cumulative number of reported and probable coronavirus cases as of that time.                                                                                                                |
 | `reported_deaths`             | integer | The cumulative number of deaths reported at that time.                                                                                                                                           |
 
-### [latimes-state-cases-deaths.csv](./latimes-state-cases-deaths.csv)
+### [cdph-state-cases-deaths.csv](./cdph-state-cases-deaths.csv)
 
 The statewide total of cases and deaths logged by the California Department of Public Health.
 
