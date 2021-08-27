@@ -20,6 +20,8 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 ### CDPH press releases
 
 - [cdph-age.csv](#cdph-agecsv)
+- [cdph-county-cases-deaths.csv](#cdph-countycasesdeathscsv)
+- [cdph-state-cases-deaths.csv](#cdph-statecasesdeathscsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-hpi-zipcodes.csv](#cdph-hpi-zipcodescsv)
 - [cdph-state-totals.csv](#cdph-state-totalscsv)
@@ -182,6 +184,7 @@ In some cases, the precise area being tracked by local officials is unclear. Wha
 | `centroid_x`      | float   | The longitude of the `place`.                                                                                                                                                        |
 | `centroid_y`      | float   | The latitude of the `place`.                                                                                                                                                         |
 | `population`      | integer | The number of residents in the area. Not available for all places.                                                                                                                   |
+
 ### [latimes-county-recovery-estimates.csv](./latimes-county-recovery-estimates.csv)
 
 The estimated number of recovered and active cases by county each day.
@@ -197,6 +200,7 @@ The result matches closely in areas with officially reported counts. One limitat
 | `fips`            | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources.                                              |
 | `recoveries_estimated` | integer | The cumulative number of estimated recovered coronavirus cases as of this `date`.                                                                                                                                                             |
 | `active_cases`          | integer | The current number of presumed active cases, or newly reported cases in the last 14 days, as of this `date`.                                                                                                                                                        |
+
 ### [latimes-agency-websites.csv](./latimes-agency-websites.csv)
 
 The 61 local-health agency websites that the Los Angeles Times consults to conduct its survey.
@@ -220,6 +224,34 @@ Statewide demographic data tallying totals by age for both cases and deaths. Pro
 | `confirmed_cases_percent` | float   | The case totals percentage of the total in this age bracket                                         |
 | `deaths_total`            | integer | The cumulative number of deaths case amoung this age bracket at that time.                          |
 | `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
+
+### [latimes-county-cases-deaths.csv](./latimes-state-cases-deaths.csv)
+
+The county-level totals of cases and deaths logged by the California Department of Public Health.
+
+| field                         | type    | description                                                                                                                                                                                      |
+| ----------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `county`                      | string  | The name of the county where the agency is based.                                                                                                                                                |
+| `fips`                        | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources.           |
+| `date`                        | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                              |
+| `confirmed_cases`             | integer | The cumulative number of coronavirus cases that were confirmed as of that time. This is sometimes called the episode date by other sources.                                                      |
+| `reported_cases`              | integer | The cumulative number of coronavirus cases that were reported as of that time. This reflects when cases were first announced by the state.                                                       |
+| `probable_cases`              | integer | The cumulative number of probable coronavirus cases that were confirmed as of that time. This reflects the results of antigen tests, a rapid testing technique different from the standard test. |
+| `reported_and_probable_cases` | integer | The cumulative number of reported and probable coronavirus cases as of that time.                                                                                                                |
+| `reported_deaths`             | integer | The cumulative number of deaths reported at that time.                                                                                                                                           |
+
+### [latimes-state-cases-deaths.csv](./latimes-state-cases-deaths.csv)
+
+The statewide total of cases and deaths logged by the California Department of Public Health.
+
+| field                         | type    | description                                                                                         |
+| ----------------------------- | ------- | --------------------------------------------------------------------------------------------------- |
+| `date`                        | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
+| `confirmed_cases`             | integer | The cumulative number of coronavirus cases that were confirmed as of that time. This is sometimes called the episode date by other sources.                                                      |
+| `reported_cases`              | integer | The cumulative number of coronavirus cases that were reported as of that time. This reflects when cases were first announced by the state.                                                       |
+| `probable_cases`              | integer | The cumulative number of probable coronavirus cases that were confirmed as of that time. This reflects the results of antigen tests, a rapid testing technique different from the standard test. |
+| `reported_and_probable_cases` | integer | The cumulative number of reported and probable coronavirus cases as of that time.                                                                                                                |
+| `reported_deaths`             | integer | The cumulative number of deaths reported at that time.                                                                                                                                           |
 
 ### [cdph-hospital-patient-county-totals.csv](./cdph-hospital-patient-county-totals.csv)
 
