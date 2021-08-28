@@ -20,8 +20,8 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 ### CDPH press releases
 
 - [cdph-age.csv](#cdph-agecsv)
-- [cdph-county-cases-deaths.csv](#cdph-countycasesdeathscsv)
-- [cdph-state-cases-deaths.csv](#cdph-statecasesdeathscsv)
+- [cdph-county-cases-deaths.csv](#cdph-county-cases-deathscsv)
+- [cdph-state-cases-deaths.csv](#cdph-state-cases-deathscsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-hpi-zipcodes.csv](#cdph-hpi-zipcodescsv)
 - [cdph-state-totals.csv](#cdph-state-totalscsv)
