@@ -24,9 +24,9 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-state-cases-deaths.csv](#cdph-state-cases-deathscsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
 - [cdph-hpi-zipcodes.csv](#cdph-hpi-zipcodescsv)
-- [cdph-state-totals.csv](#cdph-state-totalscsv)
 - [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
 - [cdph-positive-test-rate.csv](#cdph-positive-test-ratecsv)
+- [cdph-press-releases.csv](#cdph-press-releasesscsv)
 - [cdph-race-ethnicity.csv](#cdph-race-ethnicitycsv)
 - [cdph-regional-stay-home-metrics.csv](#cdph-regional-stay-home-metricscsv)
 - [cdph-reopening-metrics.csv](#cdph-reopening-metricscsv)
@@ -279,8 +279,40 @@ California's Department of Public Health has assigned each California ZIP Code a
 | `county`                 | string  | The name of the county.                                                                                                                                                              |
 | `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `city`                   | string  | The city the ZIP Code falls within                                                                                                                                                   |
+### [cdph-population-race-ethnicity.csv](./cdph-population-race-ethnicity.csv)
 
-### [cdph-state-totals.csv](./cdph-state-totals.csv)
+The breakdown of the population by race and ethnicity statewide and in each of the 58 counties, as provided by the California Department of Public Health.
+
+| field                    | type    | description                                                                                                                                                                          |
+| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `county`                 | string  | The name of the county. The state of California also included as a row.                                                                                                              |
+| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `aian`                   | float   | The percentage of people in the area who are American Indian or Alaska Native                                                                                                        |
+| `asian`                  | float   | The percentage of people in the area who are Asian                                                                                                                                   |
+| `black`                  | float   | The percentage of people in the area who are Black                                                                                                                                   |
+| `latino`                 | float   | The percentage of people in the area who are Latino                                                                                                                                  |
+| `multirace`              | float   | The percentage of people in the area who are multirace                                                                                                                               |
+| `nhpi`                   | float   | The percentage of people in the area who are Native Hawaiian or Pacific Islander                                                                                                     |
+| `other`                  | float   | The percentage of people in the area who are of another race                                                                                                                         |
+| `unknown`                | float   | The percentage of people in the area who are of unknown race                                                                                                                         |
+| `white`                  | float   | The percentage of people in the area who are white                                                                                                                                   |
+
+### [cdph-positive-test-rate.csv](./cdph-positive-test-rate.csv)
+
+All of the data used by The Times to estimate how many recent tests have come back positive. The daily tallies of new cases and tests are drawn from [cdph-state-totals.csv](./cdph-state-totals.csv).
+
+| field                                  | type    | description                                                                                                                                            |
+| -------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                                 | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                    |
+| `confirmed_cases`                      | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                      |
+| `total_tests`                          | integer | The total number of tests conducted.                                                                                                                   |
+| `new_confirmed_cases`                  | integer | The number of new confirmed cases compared to the previous date.                                                                                       |
+| `new_tests`                            | integer | The number of new tests compared to the previous date.                                                                                                 |
+| `new_confirmed_cases_seven_day_total`  | integer | The total number of new confirmed cases in the previous seven days.                                                                                    |
+| `new_tests_seven_day_total`            | integer | The total number of new tests in the previous seven days.                                                                                              |
+| `positive_test_rate_seven_day_percent` | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
+
+### [cdph-press-releases.csv](./cdph-press-releases.csv)
 
 Totals published by the California Department of Public Health in [its daily press releases](https://www.cdph.ca.gov/Programs/OPA/Pages/New-Release-2020.aspx). Each row contains all numbers included in that day's release.
 
@@ -322,39 +354,6 @@ Some dates are missing because the state did not publish a press release for tha
 | `vaccine_doses_administered`   | integer | The total number of vaccine doses given out.                                                                                                                                                                 |
 | `vaccine_doses_distributed`    | integer | The total number of vaccine doses available in the state.                                                                                                                                                    |
 | `source_url`                   | string  | The URL to the state press release.                                                                                                                                                                          |
-
-### [cdph-population-race-ethnicity.csv](./cdph-population-race-ethnicity.csv)
-
-The breakdown of the population by race and ethnicity statewide and in each of the 58 counties, as provided by the California Department of Public Health.
-
-| field                    | type    | description                                                                                                                                                                          |
-| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `county`                 | string  | The name of the county. The state of California also included as a row.                                                                                                              |
-| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
-| `aian`                   | float   | The percentage of people in the area who are American Indian or Alaska Native                                                                                                        |
-| `asian`                  | float   | The percentage of people in the area who are Asian                                                                                                                                   |
-| `black`                  | float   | The percentage of people in the area who are Black                                                                                                                                   |
-| `latino`                 | float   | The percentage of people in the area who are Latino                                                                                                                                  |
-| `multirace`              | float   | The percentage of people in the area who are multirace                                                                                                                               |
-| `nhpi`                   | float   | The percentage of people in the area who are Native Hawaiian or Pacific Islander                                                                                                     |
-| `other`                  | float   | The percentage of people in the area who are of another race                                                                                                                         |
-| `unknown`                | float   | The percentage of people in the area who are of unknown race                                                                                                                         |
-| `white`                  | float   | The percentage of people in the area who are white                                                                                                                                   |
-
-### [cdph-positive-test-rate.csv](./cdph-positive-test-rate.csv)
-
-All of the data used by The Times to estimate how many recent tests have come back positive. The daily tallies of new cases and tests are drawn from [cdph-state-totals.csv](./cdph-state-totals.csv).
-
-| field                                  | type    | description                                                                                                                                            |
-| -------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `date`                                 | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                    |
-| `confirmed_cases`                      | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                      |
-| `total_tests`                          | integer | The total number of tests conducted.                                                                                                                   |
-| `new_confirmed_cases`                  | integer | The number of new confirmed cases compared to the previous date.                                                                                       |
-| `new_tests`                            | integer | The number of new tests compared to the previous date.                                                                                                 |
-| `new_confirmed_cases_seven_day_total`  | integer | The total number of new confirmed cases in the previous seven days.                                                                                    |
-| `new_tests_seven_day_total`            | integer | The total number of new tests in the previous seven days.                                                                                              |
-| `positive_test_rate_seven_day_percent` | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
 
 ### [cdph-race-ethnicity.csv](./cdph-race-ethnicity.csv)
 
