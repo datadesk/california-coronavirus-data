@@ -225,7 +225,7 @@ Statewide demographic data tallying totals by age for both cases and deaths. Pro
 | `deaths_total`            | integer | The cumulative number of deaths case amoung this age bracket at that time.                          |
 | `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
 
-### [cdph-county-cases-deaths.csv](./cdph-state-cases-deaths.csv)
+### [cdph-county-cases-deaths.csv](./cdph-county-cases-deaths.csv)
 
 The county-level totals of cases and deaths logged by the California Department of Public Health.
 
