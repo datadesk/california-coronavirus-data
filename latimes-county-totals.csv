@@ -22,7 +22,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-29,Marin,041,16250,215,17,0
 2021-08-29,Mariposa,043,781,10,0,0
 2021-08-29,Mendocino,045,5927,61,0,0
-2021-08-29,Merced,047,26352,506,0,0
+2021-08-29,Merced,047,36352,506,0,0
 2021-08-29,Modoc,049,606,7,0,0
 2021-08-29,Mono,051,1433,5,0,0
 2021-08-29,Monterey,053,46340,542,0,0
@@ -80,7 +80,7 @@ date,county,fips,confirmed_cases,deaths,new_confirmed_cases,new_deaths
 2021-08-28,Marin,041,16233,215,33,0
 2021-08-28,Mariposa,043,781,10,0,0
 2021-08-28,Mendocino,045,5927,61,42,0
-2021-08-28,Merced,047,26352,506,-10000,0
+2021-08-28,Merced,047,36352,506,0,0
 2021-08-28,Modoc,049,606,7,0,0
 2021-08-28,Mono,051,1433,5,0,0
 2021-08-28,Monterey,053,46340,542,0,0
