@@ -537,7 +537,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
 2021-08-28,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
 2021-08-29,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
-2021-08-30,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,0,65,3034,8,0
+2021-08-30,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,,65,,8,0
+2021-08-31,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3107,0,0,65,3034,8,0
 2020-03-10,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,,,0,,0,
 2020-03-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,,0,,0,0
 2020-03-12,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,,0,,0,0
@@ -1076,7 +1077,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
 2021-08-28,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
 2021-08-29,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
-2021-08-30,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,0,9,989,2,0
+2021-08-30,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,,9,,2,0
+2021-08-31,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1000,0,0,9,989,2,0
 2020-03-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,,,0,,0,
 2020-03-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,,0,,0,0
 2020-03-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,,0,,0,0
@@ -1219,403 +1221,404 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2020-07-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,571,44,,13,,0,0
 2020-07-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,571,0,,13,,0,0
 2020-07-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,575,4,,14,,0,0
-2020-07-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,587,12,,21,,0,0
-2020-07-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,589,2,,21,,0,0
-2020-08-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,593,4,,21,,0,0
-2020-08-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,1,,21,,0,0
-2020-08-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,0,,21,,0,0
-2020-08-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,0,,22,,0,0
-2020-08-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,0,,22,,0,0
-2020-08-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,46,,22,,0,0
-2020-08-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,0,,22,,0,0
-2020-08-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,0,,23,,0,0
-2020-08-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,0,,23,,0,0
-2020-08-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,644,4,,23,,0,0
-2020-08-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,644,0,,23,,0,0
-2020-08-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,650,6,,24,,0,0
-2020-08-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,1,,24,,0,0
-2020-08-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,24,,0,0
-2020-08-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,24,,0,0
-2020-08-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,24,,0,0
-2020-08-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,24,,0,0
-2020-08-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,24,,0,0
-2020-08-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,24,,0,0
-2020-08-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,8,,24,,0,0
-2020-08-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
-2020-08-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-08-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-09-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-09-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,25,,0,0
-2020-09-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,2,,25,,0,0
-2020-09-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-09-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-10-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,25,,0,0
-2020-11-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,662,1,,25,,0,0
-2020-11-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,662,0,,25,,0,0
-2020-11-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,662,0,,25,,0,0
-2020-11-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,1,,25,,0,0
-2020-11-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,0,,25,,0,0
-2020-11-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,0,,25,,0,0
-2020-11-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,0,,25,,0,0
-2020-11-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,24,,25,,0,0
-2020-11-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,0,,25,,0,0
-2020-11-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,0,,25,,0,0
-2020-11-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,0,,25,,0,0
-2020-11-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,688,1,,25,,0,0
-2020-11-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,3,,25,,0,0
-2020-11-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,25,,0,0
-2020-11-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,25,,0,0
-2020-11-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,25,,0,0
-2020-11-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,25,,0,0
-2020-11-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,25,,0,0
-2020-11-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,25,,0,0
-2020-12-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,693,2,,25,,0,0
-2020-12-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,702,9,,25,,0,0
-2020-12-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,707,5,,25,,0,0
-2020-12-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,710,3,,25,,0,0
-2020-12-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,710,0,,25,,0,0
-2020-12-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,710,0,,25,,0,0
-2020-12-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,712,2,,25,,0,0
-2020-12-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,726,14,,25,,0,0
-2020-12-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,732,6,,25,,0,0
-2020-12-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,732,0,,25,,0,0
-2020-12-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,1,,25,,0,0
-2020-12-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,0,,25,,0,0
-2020-12-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,0,,25,,0,0
-2020-12-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,0,,25,,0,0
-2020-12-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,766,33,,25,,0,0
-2020-12-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,849,83,,26,,0,0
-2020-12-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,849,0,,26,,0,0
-2020-12-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,858,9,,26,,0,0
-2020-12-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,858,0,,26,,0,0
-2020-12-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,858,0,,26,,0,0
-2020-12-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,859,1,,27,,0,0
-2020-12-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,862,3,,27,,0,0
-2020-12-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1100,238,,27,,0,0
-2020-12-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1101,1,,27,,0,0
-2020-12-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1101,0,,27,,0,0
-2020-12-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1102,1,,27,,0,0
-2020-12-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1105,3,,27,,0,0
-2020-12-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1117,12,,28,,0,0
-2020-12-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1129,12,,28,,0,0
-2020-12-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,83,,28,,0,0
-2020-12-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,0,,28,,0,0
-2021-01-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,0,,28,,0,0
-2021-01-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,0,,29,,0,0
-2021-01-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1213,1,,30,,0,0
-2021-01-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1215,2,,30,,0,0
-2021-01-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1224,9,,30,,0,0
-2021-01-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1225,1,,30,,0,0
-2021-01-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1225,0,,30,,0,0
-2021-01-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1227,2,,30,,0,0
-2021-01-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1227,0,,30,,0,0
-2021-01-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1227,0,,30,,0,0
-2021-01-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1230,3,,30,,0,0
-2021-01-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1236,6,,30,,0,0
-2021-01-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,10,,30,,0,0
-2021-01-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,30,,0,0
-2021-01-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,30,,0,0
-2021-01-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,30,,0,0
-2021-01-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,30,,0,0
-2021-01-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,30,,0,0
-2021-01-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1265,19,,30,,0,0
-2021-01-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1265,0,,31,,0,0
-2021-01-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1265,0,,31,,0,0
-2021-01-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,1,,31,,0,0
-2021-01-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,0,,32,,0,0
-2021-01-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,0,,32,,0,0
-2021-01-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,0,,32,,0,0
-2021-01-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,13,,32,,0,0
-2021-01-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,0,,32,,0,0
-2021-01-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,0,,32,,0,0
-2021-01-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,0,,32,,0,0
-2021-01-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1280,1,,32,,0,0
-2021-01-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1282,2,,32,,0,0
-2021-02-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1282,0,,32,,0,0
-2021-02-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1295,13,,32,,0,0
-2021-02-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1297,2,,32,,0,0
-2021-02-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1298,1,,32,,0,0
-2021-02-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1301,3,,32,,0,0
-2021-02-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1302,1,,32,,0,0
-2021-02-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1303,1,,32,,0,0
-2021-02-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1309,6,,32,,0,0
-2021-02-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1312,3,,32,,0,0
-2021-02-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1313,1,,32,,0,0
-2021-02-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1315,2,,32,,0,0
-2021-02-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1323,8,,32,,0,0
-2021-02-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1325,2,,32,,0,0
-2021-02-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1326,1,,32,,0,0
-2021-02-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1328,2,,32,,0,0
-2021-02-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1329,1,,32,,0,0
-2021-02-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1331,2,,32,,0,0
-2021-02-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1334,3,,32,,0,0
-2021-02-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1343,9,,32,,0,0
-2021-02-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1343,0,,32,,0,0
-2021-02-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1345,2,,32,,0,0
-2021-02-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1346,1,,32,,0,0
-2021-02-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1347,1,,32,,0,0
-2021-02-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1351,4,,33,,0,0
-2021-02-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1352,1,,33,,0,0
-2021-02-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1354,2,,33,,0,0
-2021-02-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1354,0,,33,,0,0
-2021-02-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1355,1,,33,,0,0
-2021-03-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1355,0,,33,,0,0
-2021-03-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1358,3,,33,,0,0
-2021-03-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,5,,33,,0,0
-2021-03-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,33,,0,0
-2021-03-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1364,1,,33,,0,0
-2021-03-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1364,0,,33,,0,0
-2021-03-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1364,0,,33,,0,0
-2021-03-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,1,,33,,0,0
-2021-03-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-03-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-04-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-05-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,33,,0,0
-2021-06-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1366,1,,33,,0,0
-2021-06-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1372,6,,33,,0,0
-2021-06-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1372,0,,33,,0,0
-2021-06-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,8,,33,,0,0
-2021-06-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,0,,33,,0,0
-2021-06-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,0,,33,,0,0
-2021-06-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,0,,33,,0,0
-2021-06-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,1,,33,,0,0
-2021-06-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,33,,0,0
-2021-06-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,33,,0,0
-2021-06-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,33,,0,0
-2021-06-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,33,,0,0
-2021-06-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,33,,0,0
-2021-06-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1382,1,,33,,0,0
-2021-06-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1382,0,,33,,0,0
-2021-06-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1382,0,,33,,0,0
-2021-06-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1385,3,,33,,0,0
-2021-06-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1388,3,,33,,0,0
-2021-06-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,1,,33,,0,0
-2021-06-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,0,,33,,0,0
-2021-06-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,0,,33,,0,0
-2021-06-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,0,,33,,0,0
-2021-06-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1393,4,,33,,0,0
-2021-06-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1393,0,,33,,0,0
-2021-06-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1393,0,,33,,0,0
-2021-06-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1394,1,,33,,0,0
-2021-06-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1395,1,,33,,0,0
-2021-06-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1395,0,,33,,0,0
-2021-06-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1395,0,,33,,0,0
-2021-06-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1397,2,,33,,0,0
-2021-07-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,1,,33,,0,0
-2021-07-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,33,,0,0
-2021-07-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,1,,33,,0,0
-2021-07-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-07-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,33,,0,0
-2021-08-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,1,,33,,0,0
-2021-08-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,33,,0,0
-2021-08-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1403,3,,33,,0,0
-2021-08-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1403,0,,33,,0,0
-2021-08-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1403,0,,33,,0,0
-2021-08-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1404,1,,33,,0,0
-2021-08-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1404,0,,33,,0,0
-2021-08-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,1,,33,,0,0
-2021-08-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,0,,33,,0,0
-2021-08-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,0,,33,,0,0
-2021-08-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,0,,33,,0,0
-2021-08-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1412,7,,33,,0,0
-2021-08-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1412,0,,33,,0,0
-2021-08-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1413,1,13,33,1367,0,0
+2020-07-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,587,12,,20,,0,0
+2020-07-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,589,2,,20,,0,0
+2020-08-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,593,4,,20,,0,0
+2020-08-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,1,,20,,0,0
+2020-08-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,0,,20,,0,0
+2020-08-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,0,,21,,0,0
+2020-08-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,594,0,,21,,0,0
+2020-08-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,46,,21,,0,0
+2020-08-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,0,,21,,0,0
+2020-08-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,0,,22,,0,0
+2020-08-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,640,0,,22,,0,0
+2020-08-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,644,4,,22,,0,0
+2020-08-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,644,0,,22,,0,0
+2020-08-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,650,6,,23,,0,0
+2020-08-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,1,,23,,0,0
+2020-08-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,23,,0,0
+2020-08-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,23,,0,0
+2020-08-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,23,,0,0
+2020-08-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,23,,0,0
+2020-08-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,23,,0,0
+2020-08-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,651,0,,23,,0,0
+2020-08-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,8,,23,,0,0
+2020-08-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,23,,0,0
+2020-08-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-08-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-09-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-09-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,659,0,,24,,0,0
+2020-09-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,2,,24,,0,0
+2020-09-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-09-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-10-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,661,0,,24,,0,0
+2020-11-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,662,1,,24,,0,0
+2020-11-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,662,0,,24,,0,0
+2020-11-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,662,0,,24,,0,0
+2020-11-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,1,,24,,0,0
+2020-11-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,0,,24,,0,0
+2020-11-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,0,,24,,0,0
+2020-11-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,663,0,,24,,0,0
+2020-11-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,24,,24,,0,0
+2020-11-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,0,,24,,0,0
+2020-11-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,0,,24,,0,0
+2020-11-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,687,0,,24,,0,0
+2020-11-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,688,1,,24,,0,0
+2020-11-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,3,,24,,0,0
+2020-11-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,24,,0,0
+2020-11-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,24,,0,0
+2020-11-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,24,,0,0
+2020-11-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,24,,0,0
+2020-11-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,24,,0,0
+2020-11-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,691,0,,24,,0,0
+2020-12-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,693,2,,24,,0,0
+2020-12-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,702,9,,24,,0,0
+2020-12-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,707,5,,24,,0,0
+2020-12-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,710,3,,24,,0,0
+2020-12-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,710,0,,24,,0,0
+2020-12-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,710,0,,24,,0,0
+2020-12-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,712,2,,24,,0,0
+2020-12-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,726,14,,24,,0,0
+2020-12-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,732,6,,24,,0,0
+2020-12-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,732,0,,24,,0,0
+2020-12-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,1,,24,,0,0
+2020-12-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,0,,24,,0,0
+2020-12-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,0,,24,,0,0
+2020-12-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,733,0,,24,,0,0
+2020-12-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,766,33,,24,,0,0
+2020-12-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,849,83,,25,,0,0
+2020-12-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,849,0,,25,,0,0
+2020-12-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,858,9,,25,,0,0
+2020-12-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,858,0,,25,,0,0
+2020-12-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,858,0,,25,,0,0
+2020-12-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,859,1,,26,,0,0
+2020-12-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,862,3,,26,,0,0
+2020-12-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1100,238,,26,,0,0
+2020-12-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1101,1,,26,,0,0
+2020-12-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1101,0,,26,,0,0
+2020-12-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1102,1,,26,,0,0
+2020-12-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1105,3,,26,,0,0
+2020-12-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1117,12,,27,,0,0
+2020-12-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1129,12,,27,,0,0
+2020-12-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,83,,27,,0,0
+2020-12-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,0,,27,,0,0
+2021-01-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,0,,27,,0,0
+2021-01-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1212,0,,28,,0,0
+2021-01-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1213,1,,29,,0,0
+2021-01-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1215,2,,29,,0,0
+2021-01-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1224,9,,29,,0,0
+2021-01-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1225,1,,29,,0,0
+2021-01-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1225,0,,29,,0,0
+2021-01-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1227,2,,29,,0,0
+2021-01-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1227,0,,29,,0,0
+2021-01-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1227,0,,29,,0,0
+2021-01-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1230,3,,29,,0,0
+2021-01-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1236,6,,29,,0,0
+2021-01-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,10,,29,,0,0
+2021-01-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,29,,0,0
+2021-01-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,29,,0,0
+2021-01-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,29,,0,0
+2021-01-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,29,,0,0
+2021-01-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1246,0,,29,,0,0
+2021-01-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1265,19,,29,,0,0
+2021-01-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1265,0,,30,,0,0
+2021-01-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1265,0,,30,,0,0
+2021-01-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,1,,30,,0,0
+2021-01-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,0,,31,,0,0
+2021-01-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,0,,31,,0,0
+2021-01-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1266,0,,31,,0,0
+2021-01-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,13,,31,,0,0
+2021-01-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,0,,31,,0,0
+2021-01-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,0,,31,,0,0
+2021-01-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1279,0,,31,,0,0
+2021-01-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1280,1,,31,,0,0
+2021-01-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1282,2,,31,,0,0
+2021-02-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1282,0,,31,,0,0
+2021-02-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1295,13,,31,,0,0
+2021-02-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1297,2,,31,,0,0
+2021-02-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1298,1,,31,,0,0
+2021-02-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1301,3,,31,,0,0
+2021-02-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1302,1,,31,,0,0
+2021-02-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1303,1,,31,,0,0
+2021-02-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1309,6,,31,,0,0
+2021-02-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1312,3,,31,,0,0
+2021-02-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1313,1,,31,,0,0
+2021-02-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1315,2,,31,,0,0
+2021-02-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1323,8,,31,,0,0
+2021-02-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1325,2,,31,,0,0
+2021-02-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1326,1,,31,,0,0
+2021-02-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1328,2,,31,,0,0
+2021-02-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1329,1,,31,,0,0
+2021-02-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1331,2,,31,,0,0
+2021-02-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1334,3,,31,,0,0
+2021-02-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1343,9,,31,,0,0
+2021-02-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1343,0,,31,,0,0
+2021-02-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1345,2,,31,,0,0
+2021-02-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1346,1,,31,,0,0
+2021-02-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1347,1,,31,,0,0
+2021-02-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1351,4,,32,,0,0
+2021-02-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1352,1,,32,,0,0
+2021-02-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1354,2,,32,,0,0
+2021-02-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1354,0,,32,,0,0
+2021-02-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1355,1,,32,,0,0
+2021-03-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1355,0,,32,,0,0
+2021-03-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1358,3,,32,,0,0
+2021-03-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,5,,32,,0,0
+2021-03-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1363,0,,32,,0,0
+2021-03-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1364,1,,32,,0,0
+2021-03-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1364,0,,32,,0,0
+2021-03-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1364,0,,32,,0,0
+2021-03-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,1,,32,,0,0
+2021-03-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-03-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-04-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-05-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1365,0,,32,,0,0
+2021-06-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1366,1,,32,,0,0
+2021-06-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1372,6,,32,,0,0
+2021-06-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1372,0,,32,,0,0
+2021-06-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,8,,32,,0,0
+2021-06-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,0,,32,,0,0
+2021-06-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,0,,32,,0,0
+2021-06-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1380,0,,32,,0,0
+2021-06-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,1,,32,,0,0
+2021-06-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,32,,0,0
+2021-06-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,32,,0,0
+2021-06-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,32,,0,0
+2021-06-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,32,,0,0
+2021-06-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1381,0,,32,,0,0
+2021-06-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1382,1,,32,,0,0
+2021-06-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1382,0,,32,,0,0
+2021-06-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1382,0,,32,,0,0
+2021-06-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1385,3,,32,,0,0
+2021-06-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1388,3,,32,,0,0
+2021-06-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,1,,32,,0,0
+2021-06-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,0,,32,,0,0
+2021-06-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,0,,32,,0,0
+2021-06-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1389,0,,32,,0,0
+2021-06-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1393,4,,32,,0,0
+2021-06-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1393,0,,32,,0,0
+2021-06-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1393,0,,32,,0,0
+2021-06-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1394,1,,32,,0,0
+2021-06-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1395,1,,32,,0,0
+2021-06-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1395,0,,32,,0,0
+2021-06-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1395,0,,32,,0,0
+2021-06-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1397,2,,32,,0,0
+2021-07-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,1,,32,,0,0
+2021-07-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,32,,0,0
+2021-07-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,32,,0,0
+2021-07-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,32,,0,0
+2021-07-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,32,,0,0
+2021-07-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,32,,0,0
+2021-07-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,32,,0,0
+2021-07-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1398,0,,32,,0,0
+2021-07-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,1,,32,,0,0
+2021-07-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-07-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-01,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-06,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-07,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-08,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-09,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1399,0,,32,,0,0
+2021-08-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,1,,32,,0,0
+2021-08-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1400,0,,32,,0,0
+2021-08-19,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1403,3,,32,,0,0
+2021-08-20,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1403,0,,32,,0,0
+2021-08-21,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1403,0,,32,,0,0
+2021-08-22,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1404,1,,32,,0,0
+2021-08-23,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1404,0,,32,,0,0
+2021-08-24,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,1,,32,,0,0
+2021-08-25,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,0,,32,,0,0
+2021-08-26,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,0,,32,,0,0
+2021-08-27,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1405,0,,32,,0,0
+2021-08-28,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1412,7,,32,,0,0
+2021-08-29,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1412,0,,32,,0,0
+2021-08-30,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1413,1,,32,,0,0
+2021-08-31,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1413,0,13,32,1368,0,0
 2020-03-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,,,0,,0,
 2020-03-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,,0,,0,0
 2020-03-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,,0,,0,0
@@ -2154,7 +2157,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,,62,,4,0
 2021-08-28,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,,62,,4,0
 2021-08-29,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1387,0,,62,,4,0
-2021-08-30,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1388,1,1,62,1321,4,0
+2021-08-30,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1388,1,,62,,4,0
+2021-08-31,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1388,0,1,62,1321,4,0
 2020-03-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,,,0,,0,
 2020-03-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,,0,,0,0
 2020-03-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,,0,,0,0
@@ -2693,7 +2697,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,638,0,,2,,19,0
 2021-08-28,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,638,0,,2,,19,0
 2021-08-29,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,638,0,,2,,19,0
-2021-08-30,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,638,0,3,2,614,19,0
+2021-08-30,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,638,0,,2,,19,0
+2021-08-31,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,638,0,3,2,614,19,0
 2020-03-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,,,0,,0,
 2020-03-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,,0,,0,0
 2020-03-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,,0,,0,0
@@ -3232,7 +3237,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
 2021-08-28,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
 2021-08-29,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
-2021-08-30,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,0,32,1441,29,0
+2021-08-30,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,,32,,29,0
+2021-08-31,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1502,0,0,32,1441,29,0
 2020-03-10,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,,,0,,0,
 2020-03-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,,0,,0,0
 2020-03-12,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,,0,,0,0
@@ -3771,7 +3777,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,495,0,,10,,1,0
 2021-08-28,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,495,0,,10,,1,0
 2021-08-29,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,495,0,,10,,1,0
-2021-08-30,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,495,0,6,10,478,1,0
+2021-08-30,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,495,0,,10,,1,0
+2021-08-31,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,495,0,5,10,479,1,0
 2020-03-10,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,,,0,,0,
 2020-03-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,,0,,0,0
 2020-03-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,,0,,0,0
@@ -4310,7 +4317,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,12,0
 2021-08-28,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,12,0
 2021-08-29,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,12,0
-2021-08-30,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,0,3,695,12,0
+2021-08-30,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,,3,,12,0
+2021-08-31,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,710,0,0,3,695,12,0
 2020-03-10,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,,,0,,0,
 2020-03-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,,0,,0,0
 2020-03-12,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,,0,,0,0
@@ -4849,7 +4857,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2474,0,,22,,12,0
 2021-08-28,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2474,0,,22,,12,0
 2021-08-29,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2474,0,,22,,12,0
-2021-08-30,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2474,0,2,22,2438,12,0
+2021-08-30,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2474,0,,22,,12,0
+2021-08-31,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2474,0,2,22,2438,12,0
 2020-03-10,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,,,0,,0,
 2020-03-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,,0,,0,0
 2020-03-12,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,,0,,0,0
@@ -5387,8 +5396,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-26,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2004,0,,59,,1,0
 2021-08-27,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2005,1,,59,,1,0
 2021-08-28,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2005,0,,59,,1,0
-2021-08-29,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2005,0,,59,,1,0
-2021-08-30,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2006,1,12,59,1934,1,0
+2021-08-29,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2006,1,,59,,1,0
+2021-08-30,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2006,0,,59,,1,0
+2021-08-31,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2006,0,12,59,1934,1,0
 2020-03-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,,,0,,0,
 2020-03-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,,0,,0,0
 2020-03-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,,0,,0,0
@@ -5927,7 +5937,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,866,0,,7,,1,0
 2021-08-28,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,866,0,,7,,1,0
 2021-08-29,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,866,0,,7,,1,0
-2021-08-30,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,866,0,1,7,857,1,0
+2021-08-30,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,866,0,,7,,1,0
+2021-08-31,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,866,0,1,7,857,1,0
 2020-03-10,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,,,0,,0,
 2020-03-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,,0,,0,0
 2020-03-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,,0,,0,0
@@ -6463,10 +6474,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-24,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1086,1,,6,,6,0
 2021-08-25,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1086,0,,6,,6,0
 2021-08-26,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1086,0,,6,,6,0
-2021-08-27,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1086,0,,6,,6,0
-2021-08-28,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1086,0,,6,,6,0
-2021-08-29,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1086,0,,6,,6,0
-2021-08-30,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1088,2,5,6,1071,6,0
+2021-08-27,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1088,2,,6,,6,0
+2021-08-28,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1088,0,,6,,6,0
+2021-08-29,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1088,0,,6,,6,0
+2021-08-30,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1088,0,,6,,6,0
+2021-08-31,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1088,0,5,6,1071,6,0
 2020-03-10,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,,,0,,0,
 2020-03-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,,0,,0,0
 2020-03-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,,0,,0,0
@@ -7005,7 +7017,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
 2021-08-28,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
 2021-08-29,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
-2021-08-30,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,0,10,1487,14,0
+2021-08-30,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,,10,,14,0
+2021-08-31,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1511,0,0,10,1487,14,0
 2020-03-10,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,,,0,,0,
 2020-03-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,,0,,0,0
 2020-03-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,,0,,0,0
@@ -7544,7 +7557,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,298,0,,2,,1,0
 2021-08-28,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,298,0,,2,,1,0
 2021-08-29,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,298,0,,2,,1,0
-2021-08-30,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,298,0,0,2,295,1,0
+2021-08-30,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,298,0,,2,,1,0
+2021-08-31,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,298,0,0,2,295,1,0
 2020-03-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,,,0,,0,
 2020-03-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,,0,,0,0
 2020-03-12,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,,0,,0,0
@@ -8083,7 +8097,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1270,0,,11,,6,0
 2021-08-28,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1271,1,,11,,6,0
 2021-08-29,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1271,0,,11,,6,0
-2021-08-30,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1271,0,10,11,1244,6,0
+2021-08-30,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1271,0,,11,,6,0
+2021-08-31,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1271,0,9,11,1245,6,0
 2020-03-10,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,,,0,,0,
 2020-03-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,,0,,0,0
 2020-03-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,,0,,0,0
@@ -8622,7 +8637,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3023,0,,15,,7,0
 2021-08-28,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3023,0,,15,,7,0
 2021-08-29,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3023,0,,15,,7,0
-2021-08-30,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3023,0,1,15,3000,7,0
+2021-08-30,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3023,0,,15,,7,0
+2021-08-31,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3023,0,1,15,3000,7,0
 2020-03-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,,,0,,0,
 2020-03-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,,0,,0,0
 2020-03-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,,0,,0,0
@@ -9161,7 +9177,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1124,0,,10,,2,0
 2021-08-28,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1124,0,,10,,2,0
 2021-08-29,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1124,0,,10,,2,0
-2021-08-30,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1124,0,1,10,1111,2,0
+2021-08-30,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1124,0,,10,,2,0
+2021-08-31,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1124,0,1,10,1111,2,0
 2020-03-10,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,,,0,,0,
 2020-03-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,,0,,0,0
 2020-03-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,,0,,0,0
@@ -9700,7 +9717,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,815,0,,1,,1,0
 2021-08-28,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,815,0,,1,,1,0
 2021-08-29,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,815,0,,1,,1,0
-2021-08-30,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,815,0,1,1,812,1,0
+2021-08-30,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,815,0,,1,,1,0
+2021-08-31,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,815,0,1,1,812,1,0
 2020-03-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,,,0,,0,
 2020-03-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,,0,,0,0
 2020-03-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,,0,,0,0
@@ -10239,7 +10257,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
 2021-08-28,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
 2021-08-29,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
-2021-08-30,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,0,19,1756,9,0
+2021-08-30,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,,19,,9,0
+2021-08-31,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1784,0,0,19,1756,9,0
 2020-03-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,,,0,,0,
 2020-03-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,,0,,0,0
 2020-03-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,,0,,0,0
@@ -10778,7 +10797,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2721,0,,28,,20,0
 2021-08-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2721,0,,28,,20,0
 2021-08-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2721,0,,28,,20,0
-2021-08-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2721,0,1,28,2672,20,0
+2021-08-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2721,0,,28,,20,0
+2021-08-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2720,-1,0,28,2672,20,0
 2020-03-10,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,,,0,,0,
 2020-03-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,,0,,0,0
 2020-03-12,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,,0,,0,0
@@ -11317,7 +11337,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
 2021-08-28,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
 2021-08-29,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
-2021-08-30,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,0,5,538,0,0
+2021-08-30,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,,5,,0,0
+2021-08-31,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,543,0,0,5,538,0,0
 2020-03-10,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,,,0,,0,
 2020-03-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,,0,,0,0
 2020-03-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,,0,,0,0
@@ -11856,7 +11877,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
 2021-08-28,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
 2021-08-29,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
-2021-08-30,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,0,12,1355,2,0
+2021-08-30,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,,12,,2,0
+2021-08-31,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1369,0,0,12,1355,2,0
 2020-03-10,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,,,0,,0,
 2020-03-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,,0,,0,0
 2020-03-12,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,,0,,0,0
@@ -12395,7 +12417,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2043,0,,5,,2,0
 2021-08-28,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2043,0,,5,,2,0
 2021-08-29,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2043,0,,5,,2,0
-2021-08-30,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2043,0,1,5,2035,2,0
+2021-08-30,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2043,0,,5,,2,0
+2021-08-31,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2043,0,1,5,2035,2,0
 2020-03-10,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,,,0,,0,
 2020-03-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,,0,,0,0
 2020-03-12,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,,0,,0,0
@@ -12934,7 +12957,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
 2021-08-28,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
 2021-08-29,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
-2021-08-30,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,0,11,1556,1,0
+2021-08-30,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,,11,,1,0
+2021-08-31,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1568,0,0,11,1556,1,0
 2020-03-10,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,,,0,,0,
 2020-03-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,,0,,0,0
 2020-03-12,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,,0,,0,0
@@ -13473,7 +13497,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
 2021-08-28,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
 2021-08-29,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
-2021-08-30,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,0,7,882,6,0
+2021-08-30,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,,7,,6,0
+2021-08-31,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,895,0,0,7,882,6,0
 2020-03-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,,,0,,0,
 2020-03-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,,0,,0,0
 2020-03-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,,0,,0,0
@@ -14012,7 +14037,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
 2021-08-28,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
 2021-08-29,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
-2021-08-30,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,0,2,1863,9,0
+2021-08-30,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,,2,,9,0
+2021-08-31,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1874,0,0,2,1863,9,0
 2020-03-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,,,0,,0,
 2020-03-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,,0,,0,0
 2020-03-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,,0,,0,0
@@ -14549,9 +14575,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-25,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,952,2,,11,,5,0
 2021-08-26,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,953,1,,11,,5,0
 2021-08-27,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,953,0,,11,,5,0
-2021-08-28,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,953,0,,11,,5,0
-2021-08-29,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,953,0,,11,,5,0
-2021-08-30,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,954,1,11,11,927,5,0
+2021-08-28,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,954,1,,11,,5,0
+2021-08-29,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,954,0,,11,,5,0
+2021-08-30,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,954,0,,11,,5,0
+2021-08-31,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,954,0,11,11,927,5,0
 2020-03-10,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,,,0,,0,
 2020-03-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,,0,,0,0
 2020-03-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,,0,,0,0
@@ -15090,7 +15117,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,305,1,,5,,0,0
 2021-08-28,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,305,0,,5,,0,0
 2021-08-29,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,305,0,,5,,0,0
-2021-08-30,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,306,1,23,5,278,0,0
+2021-08-30,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,306,1,,5,,0,0
+2021-08-31,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,306,0,22,5,279,0,0
 2020-03-10,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,,,0,,0,
 2020-03-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,,0,,0,0
 2020-03-12,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,,0,,0,0
@@ -15629,7 +15657,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2006,0,,13,,3,0
 2021-08-28,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2006,0,,13,,3,0
 2021-08-29,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2006,0,,13,,3,0
-2021-08-30,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2006,0,3,13,1987,3,0
+2021-08-30,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2006,0,,13,,3,0
+2021-08-31,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2006,0,3,13,1987,3,0
 2020-03-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,,,0,,0,
 2020-03-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,,0,,0,0
 2020-03-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,,0,,0,0
@@ -16168,7 +16197,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1013,0,,1,,18,0
 2021-08-28,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1013,0,,1,,18,0
 2021-08-29,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1013,0,,1,,18,0
-2021-08-30,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1013,0,1,1,993,18,0
+2021-08-30,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1013,0,,1,,18,0
+2021-08-31,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1013,0,1,1,993,18,0
 2020-03-10,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,,,0,,0,
 2020-03-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,,0,,0,0
 2020-03-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,,0,,0,0
@@ -16707,7 +16737,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,5,,6,0
 2021-08-28,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,5,,6,0
 2021-08-29,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,5,,6,0
-2021-08-30,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,0,5,668,6,0
+2021-08-30,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,,5,,6,0
+2021-08-31,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,679,0,0,5,668,6,0
 2020-03-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,,,0,,0,
 2020-03-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,,0,,0,0
 2020-03-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,,0,,0,0
@@ -17246,7 +17277,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2243,0,,43,,28,0
 2021-08-28,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2243,0,,43,,28,0
 2021-08-29,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2243,0,,43,,28,0
-2021-08-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2243,0,0,43,2172,28,0
+2021-08-30,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2243,0,,43,,28,0
+2021-08-31,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2243,0,0,43,2172,28,0
 2020-03-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,,,0,,0,
 2020-03-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,,0,,0,0
 2020-03-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,,0,,0,0
@@ -17783,9 +17815,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-25,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1606,0,,18,,0,0
 2021-08-26,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1607,1,,18,,0,0
 2021-08-27,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1607,0,,18,,0,0
-2021-08-28,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1607,0,,18,,0,0
-2021-08-29,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1607,0,,18,,0,0
-2021-08-30,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1614,7,32,18,1564,0,0
+2021-08-28,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1614,7,,18,,0,0
+2021-08-29,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1614,0,,18,,0,0
+2021-08-30,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1614,0,,18,,0,0
+2021-08-31,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1614,0,32,18,1564,0,0
 2020-03-10,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,,,0,,0,
 2020-03-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,,0,,0,0
 2020-03-12,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,,0,,0,0
@@ -18322,9 +18355,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-25,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1735,0,,15,,2,0
 2021-08-26,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1735,0,,15,,2,0
 2021-08-27,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1736,1,,15,,2,0
-2021-08-28,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1736,0,,15,,2,0
-2021-08-29,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1736,0,,15,,2,0
-2021-08-30,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1737,1,6,15,1714,2,0
+2021-08-28,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1737,1,,15,,2,0
+2021-08-29,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1737,0,,15,,2,0
+2021-08-30,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1737,0,,15,,2,0
+2021-08-31,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1737,0,6,15,1714,2,0
 2020-03-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,,,0,,0,
 2020-03-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,,0,,0,0
 2020-03-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,,0,,0,0
@@ -18863,4 +18897,5 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-08-27,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1788,0,,45,,1,0
 2021-08-28,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1788,0,,45,,1,0
 2021-08-29,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1788,0,,45,,1,0
-2021-08-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1788,0,9,45,1733,1,0
+2021-08-30,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1788,0,,45,,1,0
+2021-08-31,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1788,0,9,45,1733,1,0
