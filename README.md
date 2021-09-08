@@ -15,6 +15,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-place-polygons.geojson](#latimes-place-polygonsgeojson)
 - [latimes-place-totals.csv](#latimes-place-totalscsv)
 - [latimes-county-recovery-estimates.csv](#latimes-county-recovery-estimatescsv)
+- [latimes-state-recovery-estimates.csv](#latimes-state-recovery-estimatescsv)
 - [latimes-agency-websites.csv](#latimes-agency-websitescsv)
 
 ### CDPH press releases
