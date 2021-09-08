@@ -202,6 +202,22 @@ The result matches closely in areas with officially reported counts. One limitat
 | `recoveries_estimated` | integer | The cumulative number of estimated recovered coronavirus cases as of this `date`.                                                                                                                                                             |
 | `active_cases`          | integer | The current number of presumed active cases, or newly reported cases in the last 14 days, as of this `date`.                                                                                                                                                        |
 
+
+### [latimes-state-recovery-estimates.csv](./latimes-state-recovery-estimates.csv)
+
+The estimated number of recovered and active cases statewide each day.
+
+The number is calculated by subtracting active case, deaths and currently hospitalized patients from the total case count. Active cases are estimated as the number of new cases over the last 14 days, which is based on the amount of time the CDC says most adults remain infectious with COVID-19. The Times consulted biostatisticians at UCLA and UCSF to develop the approach. Some health agencies use the same method.
+
+The result matches closely in areas with officially reported counts. One limitation is that there may be some overlap among active and hospitilized cases, leading to an underestimate in the number of recovered patients.
+
+| field             | type    | description                                                                                                                                                                                                                         |
+| :---------------- | :------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `date`            | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                                                                 |
+| `recoveries_estimated` | integer | The cumulative number of estimated recovered coronavirus cases as of this `date`.                                                                                                                                                             |
+| `active_cases`          | integer | The current number of presumed active cases, or newly reported cases in the last 14 days, as of this `date`.                                                                                                                                                        |
+
+
 ### [latimes-agency-websites.csv](./latimes-agency-websites.csv)
 
 The 61 local-health agency websites that the Los Angeles Times consults to conduct its survey.
