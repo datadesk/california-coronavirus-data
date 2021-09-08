@@ -521,6 +521,7 @@ These are also sometimes known as assisted-living facilities. Counts for staff a
 | `active_cases`    | integer | The number of active coronavirus case at that time.                                                 |
 | `source_url`      | string  | The URL to the state data release.                                                                  |
 
+
 ### [cdph-skilled-nursing-facilities.csv](./cdph-skilled-nursing-facilities.csv)
 
 California's Department of Social Services is [listing the skilled-nursing facilities](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) across the state with COVID-19 outbreaks. The source documents are available in the [pdf/adult-and-senior-care/](pdf/adult-and-senior-care/) directory of this repository.
@@ -560,6 +561,7 @@ In some circumstances the true total of cases is obscured. The lowest number in 
 | `patients_deaths`               | integer | The cumulative number of deaths case among patients at that time.                                       |
 | `staff_deaths_note`             | string  | In cases where the `staff_deaths` are obscured, this explains the range of possible values.             |
 | `source_url`                    | string  | The URL to the state data release.                                                                      |
+
 
 ### [cdph-nursing-home-county-totals.csv](./cdph-nursing-home-county-totals.csv)
 
@@ -639,6 +641,7 @@ Number of students with an option to return to school districts calculated from 
 | `near_term_opening_date`    | date    | Earliest planned reopening date for the district as of `update date`.                                  |
 | `update_date`               | date    | The date when the district submitted status report to the state.                                       |
 
+
 ### [charter-schools-reopening.csv](./charter-schools-reopening.csv)
 
 Number of students with an option to return to individual charter schools calculated from combination of data from California Safe Schools For All and California Department of Education. 
@@ -666,6 +669,7 @@ Number of students with an option to return to individual charter schools calcul
 | `near_term_opening_date`    | date    | Earliest planned reopening date for the school as of `update date`.                                    |
 | `update_date`               | date    | The date when the charter school submitted status report to the state.                                 |
 
+
 ### [cdc-vaccination-state-totals.csv](./cdc-vaccination-state-totals.csv)
 
 State-level vaccination totals derived from the dashboard published by the U.S. Centers for Disease Control and Prevention.
@@ -682,6 +686,7 @@ State-level vaccination totals derived from the dashboard published by the U.S. 
 | `administered_dose1_percent`            | float    | The percentage of people in the state who have received at least one dose as of that `date`.        |
 | `administered_dose2`                    | integer  | The number of second doses administered in the state of that `date`.                                |
 | `administered_dose2_percent`            | float    | The percentage of people in the state who are fully vaccinated as of that `date`.                   |
+
 
 ### [latimes-beach-closures-area-list.csv](./latimes-beach-closures-area-list.csv)
 
@@ -709,10 +714,6 @@ The county-level restrictions on beach access, compiled by the Los Angeles Times
 ### [lausd-cases.csv](./lausd-cases.csv)
 
 The number of coronavirus cases detected at L.A. Unified school. Updates daily via a scraper that pulls from the district's dashboard.
-
-school	status	staff_student	transmission	staff_student_rate	community_rate	lac_rate	community_schools	community	date	time
-![image](https://user-images.githubusercontent.com/9993/132568545-2de0a78f-946d-41bf-a632-e094791611e2.png)
-
 
 | field                | type    | description                                                                                        |
 | -------------------- | ------- | -------------------------------------------------------------------------------------------------- |
