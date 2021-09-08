@@ -58,6 +58,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdc-vaccination-state-totals.csv](#cdc-vaccination-state-totalscsv)
 - [latimes-beach-closures-area-list.csv](#latimes-beach-closures-area-listcsv)
 - [latimes-beach-closures-county-list.csv](#latimes-beach-closures-county-listcsv)
+- [lausd-cases.csv](#lausd-casescsv)
 - [los-angeles-countywide-statistical-areas.json](#los-angeles-countywide-statistical-areasjson)
 - [latimes-project-roomkey-totals.csv](#latimes-project-roomkey-totalscsv)
 - [latimes-zipcode-polygons.geojson](#latimes-zipcode-polygonsgeojson)
@@ -704,6 +705,29 @@ The county-level restrictions on beach access, compiled by the Los Angeles Times
 | `fips`        | string | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the `county` by the federal government. Can be used to merge with other data sources. |
 | `status`      | string | A Times classification of the current level of restriction in this county                                                                                                              |
 | `restriction` | string | A description of the current level of restriction in this county                                                                                                                       |
+
+### [lausd-cases.csv](./lausd-cases.csv)
+
+The number of coronavirus cases detected at L.A. Unified school. Updates daily via a scraper that pulls from the district's dashboard.
+
+school	status	staff_student	transmission	staff_student_rate	community_rate	lac_rate	community_schools	community	date	time
+![image](https://user-images.githubusercontent.com/9993/132568545-2de0a78f-946d-41bf-a632-e094791611e2.png)
+
+
+| field                | type    | description                                                                                        |
+| -------------------- | ------- | -------------------------------------------------------------------------------------------------- |
+| `school`             | string  | The name of the school.                                                                            |
+| `status`             | string  | Whether the school is open or closed.                                                              |
+| `staff_student`      | float   | The current number of active cases among staff and students.                                       |
+| `transmission`       | float   | The number of school-linked cases.                                                                 |
+| `staff_student_rate` | float   | The seven-day average of active cases per 100,000 students in this school's community of schools.  |
+| `community_rate`     | float   | The seven-day average of active cases per 100,000 residents in the school's surrounding community. |
+| `lac_rate`           | float   | The seven-day average of active cases per 100,000 residents in Los Angeles County.                 |
+| `community_schools`  | string  | The name of the community of schools that this school belongs to.                                  |
+| `community`          | string  | The name of the community where the school is located within.                                      |
+| `date`               | date    | The last updated date listed on the district's dashboard.                                          |
+| `time`               | string  | The last updated time listed on the district's dashboard.                                          |
+
 
 ### [los-angeles-countywide-statistical-areas.json](./los-angeles-countywide-statistical-areas.json)
 
