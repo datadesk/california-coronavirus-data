@@ -24,6 +24,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-county-cases-deaths.csv](#cdph-county-cases-deathscsv)
 - [cdph-state-cases-deaths.csv](#cdph-state-cases-deathscsv)
 - [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
+- [cdph-hospital-patient-state-totals.csv](#cdph-hospital-patient-state-totalscsv)
 - [cdph-hpi-zipcodes.csv](#cdph-hpi-zipcodescsv)
 - [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
 - [cdph-positive-test-rate.csv](#cdph-positive-test-ratecsv)
@@ -286,6 +287,19 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
 
+### [cdph-hospital-patient-state-totals.csv](./cdph-hospital-patient-state-totals.csv)
+
+California's Department of Public Health is releasing [county-level hospitalization totals](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics). The file aggregates them statewide.
+
+| field                    | type    | description                                                                                                                                                                          |
+| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                   | date    | The date for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
+| `positive_patients`      | integer | The current number confirmed coronavirus cases in hospitals on this `date`.                                                                                                          |
+| `suspected_patients`     | integer | The current number suspected coronavirus cases in hospitals on this `date`.                                                                                                          |
+| `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
+| `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
+| `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
+
 ### [cdph-hpi-zipcodes.csv](./cdph-hpi-zipcodes.csv)
 
 California's Department of Public Health has assigned each California ZIP Code a community health score by combining a variety of economic and social indicators. It is known as the Healthy Places Index. The quartile that each ZIP Code falls within was released in response to a request by The Times.
@@ -297,6 +311,8 @@ California's Department of Public Health has assigned each California ZIP Code a
 | `county`                 | string  | The name of the county.                                                                                                                                                              |
 | `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `city`                   | string  | The city the ZIP Code falls within                                                                                                                                                   |
+
+
 ### [cdph-population-race-ethnicity.csv](./cdph-population-race-ethnicity.csv)
 
 The breakdown of the population by race and ethnicity statewide and in each of the 58 counties, as provided by the California Department of Public Health.
@@ -329,6 +345,7 @@ All of the data used by The Times to estimate how many recent tests have come ba
 | `new_confirmed_cases_seven_day_total`  | integer | The total number of new confirmed cases in the previous seven days.                                                                                    |
 | `new_tests_seven_day_total`            | integer | The total number of new tests in the previous seven days.                                                                                              |
 | `positive_test_rate_seven_day_percent` | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
+
 
 ### [cdph-press-releases.csv](./cdph-press-releases.csv)
 
@@ -390,6 +407,7 @@ The original race categories published by the state have been grouped and aggreg
 | `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
 | `population_percent`      | float   | The race's percentage of the overall state population in this age bracket.                          |
 
+
 ### [cdph-regional-stay-home-metrics.csv](./cdph-regional-stay-home-metrics.csv)
 
 In December 2020, the state [introduced a new system](https://covid19.ca.gov/stay-home-except-for-essential-needs/) for issuing stay home orders. The state's 58 counties were grouped into six regions and judged based on the percentage of available ICU beds. When the percentage available beds dropped below 15%, a stay home order restricting businesses and movement would be issued. 
@@ -402,6 +420,7 @@ This file records the metrics released for each region by day.
 | `region`               | string  | The name of the region.                                                                                                                         |
 | `icu_capacity_percent` | float   | The percentage of ICU beds in the region that were available on that `date`                                                                     |
 | `stay_home_order`      | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
+
 
 ### [cdph-reopening-metrics.csv](./cdph-reopening-metrics.csv)
 
