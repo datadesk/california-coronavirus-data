@@ -40,6 +40,7 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-hospital-patient-state-totals.csv](#cdph-hospital-patient-state-totalscsv)
 - [cdph-regional-stay-home-metrics.csv](#cdph-regional-stay-home-metricscsv)
 - [hhs-hospital-patient-totals.csv](#hhs-hospital-patient-totalscsv)
+- [hhs-hospital-icu-totals.csv](#hhs-hospital-icu-totalscsv)
 
 ### Nursing homes
 
@@ -537,7 +538,7 @@ This file records the metrics released for each region by day.
 | `stay_home_order`      | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
 
 
-### [hhs-hospital-patient-totals.csv](./hss-hospital-patient-totals.csv)
+### [hhs-hospital-patient-totals.csv](./hhs-hospital-patient-totals.csv)
 
 The Department of Health and Human Services releases a weekly update on the number of COVID-19 patients in hospitals. This file contains the key metrics for facilities in California.
 
@@ -549,11 +550,31 @@ The Department of Health and Human Services releases a weekly update on the numb
 | `county`                         | string  | The county where the hospitals is located.                                                                                                                                           |
 | `fips`                           | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `region`                         | string  | The region of the state where the hospital is located.                                                                                                                               |
-| `adult_covid_patients_total`     | integer | The daily average of adult COVID-19 patients at the hospitals over the past seven days.                                                                                              |
-| `pediatric_covid_patients_total` | integer | The daily average of pediatric COVID-19 patients at the hospitals over the past seven days.                                                                                          |
-| `covid_patients_total`           | integer | The daily average of total COVID-19 patients at the hospitals over the past seven days.                                                                                              |
+| `adult_covid_patients_total`     | integer | The daily average of adult COVID-19 patients at the hospital over the past seven days.                                                                                               |
+| `pediatric_covid_patients_total` | integer | The daily average of pediatric COVID-19 patients at the hospital over the past seven days.                                                                                           |
+| `covid_patients_total`           | integer | The daily average of total COVID-19 patients at the hospital over the past seven days.                                                                                               |
 | `occupied_beds_percent`          | integer | The daily average of occupied beds over the past seven days, measured as a percentage of the hospital's total.                                                                       |
 | `patients_with_covid_percent`    | integer | The daily average of beds occupied by COVID-19 patients over the past seven days, measured as a percentage of the hospital's total.                                                  |
+
+
+### [hhs-hospital-icu-totals.csv](./hhs-hospital-icu-totals.csv)
+
+The Department of Health and Human Services releases a weekly update on the number of COVID-19 patients in intensive-care units. This file contains the key metrics for facilities in California.
+
+| field                            | type    | description                                                                                                                                                                          |
+| -------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `hospital`                       | string  | The name of the hospital                                                                                                                                                             |
+| `ccn`                            | string  | The unique indentifier of the hospital.                                                                                                                                              |
+| `week`                           | date    | The week for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
+| `county`                         | string  | The county where the hospitals is located.                                                                                                                                           |
+| `fips`                           | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `region`                         | string  | The region of the state where the hospital is located.                                                                                                                               |
+| `covid_icu_patients_total`       | integer | The daily average of COVID-19 patients in the adult ICU at the hospital over the past seven days.                                                                                    |
+| `available_adult_icu_beds_total` | integer | The daily average of available adult ICU beds at the hospital over the past seven days.                                                                                              |
+| `occupied_adult_icu_beds_total`  | integer | The daily average of occupied adult ICU beds at the hospital over the past seven days.                                                                                               |
+| `staffed_adult_icu_beds_total`   | integer | The daily average of staffed adult ICU beds at the hospital over the past seven days.                                                                                                |
+| `occupied_adult_icu_beds_percent`| integer | The daily average of occupied adult ICU beds over the past seven days, measured as a percentage of the hospital's total.                                                             |
+| `icu_patients_with_covid_percent`| integer | The daily average of of adult ICU patients with COVID-19 over the past seven days, measured as a percentage of the hospital's total.                                                 |
 
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-adult-and-senior-care-facilities.csv)
