@@ -708,7 +708,7 @@ Number of students with an option to return to individual charter schools calcul
 
 ### [lausd-cases.csv](./lausd-cases.csv)
 
-The number of coronavirus cases detected at L.A. Unified school. Updates daily via a scraper that pulls from the district's dashboard.
+The number of coronavirus cases detected at L.A. Unified schools. Updates daily via a scraper that pulls from the district's dashboard.
 
 | field                | type    | description                                                                                        |
 | -------------------- | ------- | -------------------------------------------------------------------------------------------------- |
