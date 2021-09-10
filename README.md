@@ -23,19 +23,23 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [cdph-age.csv](#cdph-agecsv)
 - [cdph-county-cases-deaths.csv](#cdph-county-cases-deathscsv)
 - [cdph-state-cases-deaths.csv](#cdph-state-cases-deathscsv)
-- [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
-- [cdph-hospital-patient-state-totals.csv](#cdph-hospital-patient-state-totalscsv)
 - [cdph-hpi-zipcodes.csv](#cdph-hpi-zipcodescsv)
 - [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
 - [cdph-positive-test-rate.csv](#cdph-positive-test-ratecsv)
 - [cdph-press-releases.csv](#cdph-press-releasescsv)
 - [cdph-race-ethnicity.csv](#cdph-race-ethnicitycsv)
-- [cdph-regional-stay-home-metrics.csv](#cdph-regional-stay-home-metricscsv)
 - [cdph-reopening-metrics.csv](#cdph-reopening-metricscsv)
 - [cdph-reopening-tiers.csv](#cdph-reopening-tierscsv)
 - [cdph-vaccination-county-totals.csv](#cdph-vaccination-county-totalscsv)
 - [cdph-vaccination-state-totals.csv](#cdph-vaccination-state-totalscsv)
 - [cdph-vaccination-zipcode-totals.csv](#cdph-vaccination-zipcode-totalscsv)
+
+### Hospitals
+
+- [cdph-hospital-patient-county-totals.csv](#cdph-hospital-patient-county-totalscsv)
+- [cdph-hospital-patient-state-totals.csv](#cdph-hospital-patient-state-totalscsv)
+- [cdph-regional-stay-home-metrics.csv](#cdph-regional-stay-home-metricscsv)
+- [hhs-hospital-patient-totals.csv](#hhs-hospital-patient-totalscsv)
 
 ### Nursing homes
 
@@ -244,6 +248,7 @@ Statewide demographic data tallying totals by age for both cases and deaths. Pro
 | `deaths_total`            | integer | The cumulative number of deaths case amoung this age bracket at that time.                          |
 | `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
 
+
 ### [cdph-county-cases-deaths.csv](./cdph-county-cases-deaths.csv)
 
 The county-level totals of cases and deaths logged by the California Department of Public Health.
@@ -271,34 +276,6 @@ The statewide total of cases and deaths logged by the California Department of P
 | `probable_cases`              | integer | The cumulative number of probable coronavirus cases that were confirmed as of that time. This reflects the results of antigen tests, a rapid testing technique different from the standard test. |
 | `reported_and_probable_cases` | integer | The cumulative number of reported and probable coronavirus cases as of that time.                                                                                                                |
 | `reported_deaths`             | integer | The cumulative number of deaths reported at that time.                                                                                                                                           |
-
-### [cdph-hospital-patient-county-totals.csv](./cdph-hospital-patient-county-totals.csv)
-
-California's Department of Public Health is releasing [county-level hospitalization totals](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics).
-
-| field                    | type    | description                                                                                                                                                                          |
-| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `date`                   | date    | The date for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
-| `county`                 | string  | The name of the county.                                                                                                                                                              |
-| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
-| `positive_patients`      | integer | The current number confirmed coronavirus cases in hospitals on this `date`.                                                                                                          |
-| `suspected_patients`     | integer | The current number suspected coronavirus cases in hospitals on this `date`.                                                                                                          |
-| `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
-| `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
-| `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
-
-### [cdph-hospital-patient-state-totals.csv](./cdph-hospital-patient-state-totals.csv)
-
-California's Department of Public Health is releasing [county-level hospitalization totals](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics). The file aggregates them statewide.
-
-| field                    | type    | description                                                                                                                                                                          |
-| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `date`                   | date    | The date for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
-| `positive_patients`      | integer | The current number confirmed coronavirus cases in hospitals on this `date`.                                                                                                          |
-| `suspected_patients`     | integer | The current number suspected coronavirus cases in hospitals on this `date`.                                                                                                          |
-| `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
-| `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
-| `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
 
 ### [cdph-hpi-zipcodes.csv](./cdph-hpi-zipcodes.csv)
 
@@ -408,20 +385,6 @@ The original race categories published by the state have been grouped and aggreg
 | `population_percent`      | float   | The race's percentage of the overall state population in this age bracket.                          |
 
 
-### [cdph-regional-stay-home-metrics.csv](./cdph-regional-stay-home-metrics.csv)
-
-In December 2020, the state [introduced a new system](https://covid19.ca.gov/stay-home-except-for-essential-needs/) for issuing stay home orders. The state's 58 counties were grouped into six regions and judged based on the percentage of available ICU beds. When the percentage available beds dropped below 15%, a stay home order restricting businesses and movement would be issued. 
-
-This file records the metrics released for each region by day.
-
-| field                  | type    | description                                                                                                                                     |
-| ---------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| `date`                 | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                             |
-| `region`               | string  | The name of the region.                                                                                                                         |
-| `icu_capacity_percent` | float   | The percentage of ICU beds in the region that were available on that `date`                                                                     |
-| `stay_home_order`      | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
-
-
 ### [cdph-reopening-metrics.csv](./cdph-reopening-metrics.csv)
 
 In August 2020, the state introduced a new framework for deciding when and how counties can reopen. Under the regime, each county is assigned to one of four tiers based on a set of metrics developed by state officials.
@@ -438,6 +401,7 @@ This file records the metrics released for each county by day. Definition of the
 | `positivity_rate`     | float   | The percentage of tests for the virus that come back positive in a recent seven-day period.                                                                                          |
 | `equity_metric`       | float   | An index measuring disparities in disadvantaged neighborhoods compared to the county overall. Many small counties are exempted. Added Oct. 6, 2020                                   |
 
+
 ### [cdph-reopening-tiers.csv](./cdph-reopening-tiers.csv)
 
 In August 2020, the state introduced a new framework for deciding when and how counties can reopen. Under the regime, each county is assigned to one of four tiers based on a set of metrics developed by state officials.
@@ -450,6 +414,7 @@ This file records the current tier of each county by day. The definition for eac
 | `county` | string  | The name of the county.                                                                                                                                                              |
 | `fips`   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `tier`   | integer | The tier the county was classified in on this `date`. There are four possible values on an ordinal scale with one being the most restrictive and four the least restrictive.         |
+
 
 ### [cdph-vaccination-county-totals.csv](./cdph-vaccination-county-totals.csv)
 
@@ -521,6 +486,48 @@ California's Department of Public Health is releasing zipcode-level vaccination 
 | `partially_vaccinated_percent`| float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
 | `at_least_one_dose_percent`   | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
 | `fully_vaccinated_percent`    | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
+
+### [cdph-hospital-patient-county-totals.csv](./cdph-hospital-patient-county-totals.csv)
+
+California's Department of Public Health is releasing [county-level hospitalization totals](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics).
+
+| field                    | type    | description                                                                                                                                                                          |
+| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                   | date    | The date for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
+| `county`                 | string  | The name of the county.                                                                                                                                                              |
+| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `positive_patients`      | integer | The current number confirmed coronavirus cases in hospitals on this `date`.                                                                                                          |
+| `suspected_patients`     | integer | The current number suspected coronavirus cases in hospitals on this `date`.                                                                                                          |
+| `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
+| `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
+| `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
+
+### [cdph-hospital-patient-state-totals.csv](./cdph-hospital-patient-state-totals.csv)
+
+California's Department of Public Health is releasing [county-level hospitalization totals](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics). The file aggregates them statewide.
+
+| field                    | type    | description                                                                                                                                                                          |
+| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                   | date    | The date for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
+| `positive_patients`      | integer | The current number confirmed coronavirus cases in hospitals on this `date`.                                                                                                          |
+| `suspected_patients`     | integer | The current number suspected coronavirus cases in hospitals on this `date`.                                                                                                          |
+| `icu_positive_patients`  | integer | The current number confirmed coronavirus cases in intensive-care units on this `date`.                                                                                               |
+| `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
+| `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
+
+### [cdph-regional-stay-home-metrics.csv](./cdph-regional-stay-home-metrics.csv)
+
+In December 2020, the state [introduced a new system](https://covid19.ca.gov/stay-home-except-for-essential-needs/) for issuing stay home orders. The state's 58 counties were grouped into six regions and judged based on the percentage of available ICU beds. When the percentage available beds dropped below 15%, a stay home order restricting businesses and movement would be issued. 
+
+This file records the metrics released for each region by day.
+
+| field                  | type    | description                                                                                                                                     |
+| ---------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `date`                 | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                             |
+| `region`               | string  | The name of the region.                                                                                                                         |
+| `icu_capacity_percent` | float   | The percentage of ICU beds in the region that were available on that `date`                                                                     |
+| `stay_home_order`      | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
+
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-adult-and-senior-care-facilities.csv)
 
