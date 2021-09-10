@@ -119,6 +119,7 @@ Most counties have only one agency except for Alameda and Los Angeles counties, 
 | `deaths`          | integer | The cumulative number of deaths attributed to coronavirus as of this `date`.                                                                                                                                                        |
 | `did_not_update`  | boolean | Indicates if the agency did not provide an update on this date. If this is `true` and the case and death totals are unchanged from the previous day, this means they were holdovers. Use this flag omit these records when desired. |
 
+
 ### [latimes-county-totals.csv](./latimes-county-totals.csv)
 
 The county-level totals of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports in that county logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.
@@ -135,6 +136,7 @@ It comes with all of the same caveats as its source. It is included here as a co
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                                                                                                            |
 | `new_deaths`          | integer | The net change in deaths over the previous `date`.                                                                                                                                     |
 
+
 ### [latimes-state-totals.csv](./latimes-state-totals.csv)
 
 The statewide total of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.
@@ -148,6 +150,7 @@ It comes with all of the same caveats as its source. It is included here as a co
 | `deaths`              | integer | The cumulative number of deaths at that time.                                                       |
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                         |
 | `new_deaths`          | integer | The net change in deaths over the previous `date`.                                                  |
+
 
 ### [latimes-place-totals.csv](./latimes-place-totals.csv)
 
@@ -172,6 +175,7 @@ In some circumstances the true total of cases is obscured. Los Angeles and Orang
 | `note`            | string  | In cases where the `confirmed_cases` are obscured, this explains the range of possible values.                                                                                       |
 | `population`      | integer | The number of residents in the area. Not available for all places.                                                                                                                   |
 
+
 ### [latimes-place-polygons.geojson](./latimes-place-polygons.geojson)
 
 A map of sub-county areas where cases are tracked.
@@ -191,6 +195,7 @@ In some cases, the precise area being tracked by local officials is unclear. Wha
 | `centroid_x`      | float   | The longitude of the `place`.                                                                                                                                                        |
 | `centroid_y`      | float   | The latitude of the `place`.                                                                                                                                                         |
 | `population`      | integer | The number of residents in the area. Not available for all places.                                                                                                                   |
+
 
 ### [latimes-county-recovery-estimates.csv](./latimes-county-recovery-estimates.csv)
 
@@ -234,6 +239,7 @@ The 61 local-health agency websites that the Los Angeles Times consults to condu
 | `fips`   | string | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources.           |
 | `agency` | string | The name of the county or city public health agency.                                                                                                                                           |
 | `url`    | string | The location of the agency's website on the World Wide Web.                                                                                                                                    |
+
 
 ### [cdph-age.csv](./cdph-age.csv)
 
@@ -502,6 +508,7 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
 
+
 ### [cdph-hospital-patient-state-totals.csv](./cdph-hospital-patient-state-totals.csv)
 
 California's Department of Public Health is releasing [county-level hospitalization totals](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics). The file aggregates them statewide.
@@ -515,6 +522,7 @@ California's Department of Public Health is releasing [county-level hospitalizat
 | `icu_suspected_patients` | integer | The current number suspected coronavirus cases in intensive-care units on this `date`.                                                                                               |
 | `icu_available_beds`     | integer | The current number open and avilable intensive-care beds on this `date`.                                                                                                             |
 
+
 ### [cdph-regional-stay-home-metrics.csv](./cdph-regional-stay-home-metrics.csv)
 
 In December 2020, the state [introduced a new system](https://covid19.ca.gov/stay-home-except-for-essential-needs/) for issuing stay home orders. The state's 58 counties were grouped into six regions and judged based on the percentage of available ICU beds. When the percentage available beds dropped below 15%, a stay home order restricting businesses and movement would be issued. 
@@ -527,6 +535,25 @@ This file records the metrics released for each region by day.
 | `region`               | string  | The name of the region.                                                                                                                         |
 | `icu_capacity_percent` | float   | The percentage of ICU beds in the region that were available on that `date`                                                                     |
 | `stay_home_order`      | string  | An indicator of whether or not a stay home order was in effect for the region on that `date`. The range of values is `pending`, `yes` and `no`. |
+
+
+### [hhs-hospital-patient-totals.csv](./hss-hospital-patient-totals.csv)
+
+The Department of Health and Human Services releases a weekly update on the number of COVID-19 patients in hospitals. This file contains the key metrics for facilities in California.
+
+| field                            | type    | description                                                                                                                                                                          |
+| -------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `hospital`                       | string  | The name of the hospital                                                                                                                                                             |
+| `ccn`                            | string  | The unique indentifier of the hospital.                                                                                                                                              |
+| `week`                           | date    | The week for which hospital data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                         |
+| `county`                         | string  | The county where the hospitals is located.                                                                                                                                           |
+| `fips`                           | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `region`                         | string  | The region of the state where the hospital is located.                                                                                                                               |
+| `adult_covid_patients_total`     | integer | The daily average of adult COVID-19 patients at the hospitals over the past seven days.                                                                                              |
+| `pediatric_covid_patients_total` | integer | The daily average of pediatric COVID-19 patients at the hospitals over the past seven days.                                                                                          |
+| `covid_patients_total`           | integer | The daily average of total COVID-19 patients at the hospitals over the past seven days.                                                                                              |
+| `occupied_beds_percent`          | integer | The daily average of occupied beds over the past seven days, measured as a percentage of the hospital's total.                                                                       |
+| `patients_with_covid_percent`    | integer | The daily average of beds occupied by COVID-19 patients over the past seven days, measured as a percentage of the hospital's total.                                                  |
 
 
 ### [cdph-adult-and-senior-care-facilities.csv](./cdph-adult-and-senior-care-facilities.csv)
