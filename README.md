@@ -473,14 +473,14 @@ California's Department of Public Health releases [county-level vaccination tota
 
 #### [cdph-vaccination-county-by-race-ethnicity.csv](./cdph-vaccination-county-by-race-ethnicity.csv)
 
-California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by race and ethnicity.
+California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by race and ethnicity. The racial groups provided by the state have been simplified to the categories commonly used by Los Angeles Times.
 
 | field                                   | type    | description                                                                                                                                                                          |
 | --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `county`                                | string  | The name of the county.                                                                                                                                                              |
 | `fips`                                  | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
 | `date`                                  | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
-| `race_ethnicity`                        | string  | The race group being tallied.                                                                                                                                                         |
+| `race_ethnicity`                        | string  | The race group being tallied.                                                                                                                                                        |
 | `partially_vaccinated`                  | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
 | `at_least_one_dose`                     | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
 | `fully_vaccinated`                      | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
@@ -517,7 +517,7 @@ California's Department of Public Health releases [county-level vaccination tota
 
 #### [cdph-vaccination-state-by-race-ethnicity.csv](./cdph-vaccination-county-by-race-ethnicity.csv)
 
-California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by race and ethnicity.
+California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by race and ethnicity. The racial groups provided by the state have been simplified to the categories commonly used by Los Angeles Times.
 
 | field                                   | type    | description                                                                                                                                                                          |
 | --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
