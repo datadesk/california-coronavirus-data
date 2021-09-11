@@ -861,7 +861,7 @@ The subcounty-level restrictions on beach access, compiled by the Los Angeles Ti
 | `state_park`  | boolean | An indicator if this area is a state park.                                                                                                                                             |
 | `restriction` | string  | A description of the current level of restriction in this area.                                                                                                                        |
 
-### [latimes-beach-closures-county-list.csv](./latimes-beach-closures-county-list.csv)
+#### [latimes-beach-closures-county-list.csv](./latimes-beach-closures-county-list.csv)
 
 The county-level restrictions on beach access, compiled by the Los Angeles Times based on data released by the California Coastal Commission.
 
@@ -873,7 +873,7 @@ The county-level restrictions on beach access, compiled by the Los Angeles Times
 | `restriction` | string | A description of the current level of restriction in this county                                                                                                                       |
 
 
-### [latimes-project-roomkey-totals.csv](./latimes-project-roomkey-totals.csv)
+#### [latimes-project-roomkey-totals.csv](./latimes-project-roomkey-totals.csv)
 
 Los Angeles County officials have launched an unprecedented effort to shield 15,000 homeless people from the coronavirus by moving them into hotel rooms. The Times is tracking the latest data from the Los Angeles County Emergency Operations Center and the Los Angeles County Department of Public Health.
 
