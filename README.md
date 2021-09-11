@@ -20,18 +20,22 @@ The Los Angeles Times' independent tally of coronavirus cases in California.
 - [latimes-county-recovery-estimates.csv](#latimes-county-recovery-estimatescsv)
 - [latimes-state-recovery-estimates.csv](#latimes-state-recovery-estimatescsv)
 
-### Demographics
-
-- [cdph-age.csv](#cdph-agecsv)
-- [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
-- [cdph-race-ethnicity.csv](#cdph-race-ethnicitycsv)
-
 ### Vaccinations
 
 - [cdc-vaccination-state-totals.csv](#cdc-vaccination-state-totalscsv)
 - [cdph-vaccination-county-totals.csv](#cdph-vaccination-county-totalscsv)
 - [cdph-vaccination-state-totals.csv](#cdph-vaccination-state-totalscsv)
 - [cdph-vaccination-zipcode-totals.csv](#cdph-vaccination-zipcode-totalscsv)
+
+### Demographics
+
+- [cdph-age.csv](#cdph-agecsv)
+- [cdph-population-race-ethnicity.csv](#cdph-population-race-ethnicitycsv)
+- [cdph-race-ethnicity.csv](#cdph-race-ethnicitycsv)
+- [cdph-vaccination-county-by-age.csv](#cdph-vaccination-county-by-agecsv)
+- [cdph-vaccination-county-by-race-ethnicity.csv](#cdph-vaccination-county-by-race-ethnicitycsv)
+- [cdph-vaccination-state-by-age.csv](#cdph-vaccination-county-by-agecsv)
+- [cdph-vaccination-state-by-race-ethnicity.csv](#cdph-vaccination-county-by-race-ethnicitycsv)
 
 ### Hospitals
 
@@ -298,59 +302,6 @@ The result matches closely in areas with officially reported counts. One limitat
 | `active_cases`          | integer | The current number of presumed active cases, or newly reported cases in the last 14 days, as of this `date`.                                                                                                                                                        |
 
 
-### Demographics
-
-#### [cdph-age.csv](./cdph-age.csv)
-
-Statewide demographic data tallying totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Cases-by-Age-Group.aspx).
-
-| field                     | type    | description                                                                                         |
-| ------------------------- | ------- | --------------------------------------------------------------------------------------------------- |
-| `date`                    | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
-| `age`                     | string  | The age bracket being tallied                                                                       |
-| `confirmed_cases_total`   | integer | The cumulative number of confirmed coronavirus case amoung this age bracket at that time.           |
-| `confirmed_cases_percent` | float   | The case totals percentage of the total in this age bracket                                         |
-| `deaths_total`            | integer | The cumulative number of deaths case amoung this age bracket at that time.                          |
-| `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
-
-
-#### [cdph-population-race-ethnicity.csv](./cdph-population-race-ethnicity.csv)
-
-The breakdown of the population by race and ethnicity statewide and in each of the 58 counties, as provided by the California Department of Public Health.
-
-| field                    | type    | description                                                                                                                                                                          |
-| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `county`                 | string  | The name of the county. The state of California also included as a row.                                                                                                              |
-| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
-| `aian`                   | float   | The percentage of people in the area who are American Indian or Alaska Native                                                                                                        |
-| `asian`                  | float   | The percentage of people in the area who are Asian                                                                                                                                   |
-| `black`                  | float   | The percentage of people in the area who are Black                                                                                                                                   |
-| `latino`                 | float   | The percentage of people in the area who are Latino                                                                                                                                  |
-| `multirace`              | float   | The percentage of people in the area who are multirace                                                                                                                               |
-| `nhpi`                   | float   | The percentage of people in the area who are Native Hawaiian or Pacific Islander                                                                                                     |
-| `other`                  | float   | The percentage of people in the area who are of another race                                                                                                                         |
-| `unknown`                | float   | The percentage of people in the area who are of unknown race                                                                                                                         |
-| `white`                  | float   | The percentage of people in the area who are white                                                                                                                                   |
-
-
-#### [cdph-race-ethnicity.csv](./cdph-race-ethnicity.csv)
-
-Statewide demographic data tallying race totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Race-Ethnicity.aspx).
-
-The original race categories published by the state have been grouped and aggregated to match the five race categories traditionally published by the Los Angeles Times.
-
-| field                     | type    | description                                                                                         |
-| ------------------------- | ------- | --------------------------------------------------------------------------------------------------- |
-| `date`                    | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
-| `race`                    | string  | The race being tallied.                                                                             |
-| `age`                     | string  | The age bracket being tallied                                                                       |
-| `confirmed_cases_total`   | integer | The cumulative number of confirmed coronavirus case amoung this race and age at that time.          |
-| `confirmed_cases_percent` | float   | The case totals percentage of the total in this age bracket                                         |
-| `deaths_total`            | integer | The cumulative number of deaths case amoung this race and age at that time.                         |
-| `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
-| `population_percent`      | float   | The race's percentage of the overall state population in this age bracket.                          |
-
-
 ### Vaccinations
 
 #### [cdc-vaccination-state-totals.csv](./cdc-vaccination-state-totals.csv)
@@ -441,6 +392,148 @@ California's Department of Public Health is releasing zipcode-level vaccination 
 | `partially_vaccinated_percent`| float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
 | `at_least_one_dose_percent`   | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
 | `fully_vaccinated_percent`    | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
+
+
+
+### Demographics
+
+#### [cdph-age.csv](./cdph-age.csv)
+
+Statewide demographic data tallying totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19-Cases-by-Age-Group.aspx).
+
+| field                     | type    | description                                                                                         |
+| ------------------------- | ------- | --------------------------------------------------------------------------------------------------- |
+| `date`                    | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
+| `age`                     | string  | The age bracket being tallied                                                                       |
+| `confirmed_cases_total`   | integer | The cumulative number of confirmed coronavirus case amoung this age bracket at that time.           |
+| `confirmed_cases_percent` | float   | The case totals percentage of the total in this age bracket                                         |
+| `deaths_total`            | integer | The cumulative number of deaths case amoung this age bracket at that time.                          |
+| `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
+
+
+#### [cdph-population-race-ethnicity.csv](./cdph-population-race-ethnicity.csv)
+
+The breakdown of the population by race and ethnicity statewide and in each of the 58 counties, as provided by the California Department of Public Health.
+
+| field                    | type    | description                                                                                                                                                                          |
+| ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `county`                 | string  | The name of the county. The state of California also included as a row.                                                                                                              |
+| `fips`                   | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `aian`                   | float   | The percentage of people in the area who are American Indian or Alaska Native                                                                                                        |
+| `asian`                  | float   | The percentage of people in the area who are Asian                                                                                                                                   |
+| `black`                  | float   | The percentage of people in the area who are Black                                                                                                                                   |
+| `latino`                 | float   | The percentage of people in the area who are Latino                                                                                                                                  |
+| `multirace`              | float   | The percentage of people in the area who are multirace                                                                                                                               |
+| `nhpi`                   | float   | The percentage of people in the area who are Native Hawaiian or Pacific Islander                                                                                                     |
+| `other`                  | float   | The percentage of people in the area who are of another race                                                                                                                         |
+| `unknown`                | float   | The percentage of people in the area who are of unknown race                                                                                                                         |
+| `white`                  | float   | The percentage of people in the area who are white                                                                                                                                   |
+
+
+#### [cdph-race-ethnicity.csv](./cdph-race-ethnicity.csv)
+
+Statewide demographic data tallying race totals by age for both cases and deaths. Provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Race-Ethnicity.aspx).
+
+The original race categories published by the state have been grouped and aggregated to match the five race categories traditionally published by the Los Angeles Times.
+
+| field                     | type    | description                                                                                         |
+| ------------------------- | ------- | --------------------------------------------------------------------------------------------------- |
+| `date`                    | date    | The date when the data were retrieved in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
+| `race`                    | string  | The race being tallied.                                                                             |
+| `age`                     | string  | The age bracket being tallied                                                                       |
+| `confirmed_cases_total`   | integer | The cumulative number of confirmed coronavirus case amoung this race and age at that time.          |
+| `confirmed_cases_percent` | float   | The case totals percentage of the total in this age bracket                                         |
+| `deaths_total`            | integer | The cumulative number of deaths case amoung this race and age at that time.                         |
+| `deaths_percent`          | float   | The death totals percentage of the total in this age bracket.                                       |
+| `population_percent`      | float   | The race's percentage of the overall state population in this age bracket.                          |
+
+
+#### [cdph-vaccination-county-by-age.csv](./cdph-vaccination-county-by-age.csv)
+
+California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by age.
+
+| field                                   | type    | description                                                                                                                                                                          |
+| --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `county`                                | string  | The name of the county.                                                                                                                                                              |
+| `fips`                                  | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `date`                                  | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `age_group`                             | string  | The age group being tallied.                                                                                                                                                         |
+| `partially_vaccinated`                  | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
+| `at_least_one_dose`                     | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
+| `fully_vaccinated`                      | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
+| `population_total`                      | integer | The number of people who live in the county.                                                                                                                                         |
+| `population_12_and_up`                  | integer | The number of people 12 years or older who live in the county.                                                                                                                       |
+| `partially_vaccinated_percent`          | float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
+| `partially_vaccinated_percent_12_and_up`| float   | The percentage of people 12 and up who were partially vaccinated as of this `date`.                                                                                                  |
+| `at_least_one_dose_percent`             | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
+| `at_least_one_dose_percent_12_and_up`   | float   | The percentage of people 12 and up who received at least one dose any vaccine as of this `date`.                                                                                     |
+| `fully_vaccinated_percent`              | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
+| `fully_vaccinated_percent_12_and_up`    | float   | The percentage of people 12 and up who were fully vaccinated as of this `date`.                                                                                                      |
+
+
+#### [cdph-vaccination-county-by-race-ethnicity.csv](./cdph-vaccination-county-by-race-ethnicity.csv)
+
+California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by race and ethnicity.
+
+| field                                   | type    | description                                                                                                                                                                          |
+| --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `county`                                | string  | The name of the county.                                                                                                                                                              |
+| `fips`                                  | string  | The [FIPS code](https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards) given to the county by the federal government. Can be used to merge with other data sources. |
+| `date`                                  | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `race_ethnicity`                        | string  | The race group being tallied.                                                                                                                                                         |
+| `partially_vaccinated`                  | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
+| `at_least_one_dose`                     | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
+| `fully_vaccinated`                      | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
+| `population_total`                      | integer | The number of people who live in the county.                                                                                                                                         |
+| `population_12_and_up`                  | integer | The number of people 12 years or older who live in the county.                                                                                                                       |
+| `partially_vaccinated_percent`          | float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
+| `partially_vaccinated_percent_12_and_up`| float   | The percentage of people 12 and up who were partially vaccinated as of this `date`.                                                                                                  |
+| `at_least_one_dose_percent`             | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
+| `at_least_one_dose_percent_12_and_up`   | float   | The percentage of people 12 and up who received at least one dose any vaccine as of this `date`.                                                                                     |
+| `fully_vaccinated_percent`              | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
+| `fully_vaccinated_percent_12_and_up`    | float   | The percentage of people 12 and up who were fully vaccinated as of this `date`.                                                                                                      |
+
+
+#### [cdph-vaccination-state-by-age.csv](./cdph-vaccination-state-by-age.csv)
+
+California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by age.
+
+| field                                   | type    | description                                                                                                                                                                          |
+| --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                                  | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `age_group`                             | string  | The age group being tallied.                                                                                                                                                         |
+| `partially_vaccinated`                  | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
+| `at_least_one_dose`                     | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
+| `fully_vaccinated`                      | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
+| `population_total`                      | integer | The number of people who live in the county.                                                                                                                                         |
+| `population_12_and_up`                  | integer | The number of people 12 years or older who live in the county.                                                                                                                       |
+| `partially_vaccinated_percent`          | float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
+| `partially_vaccinated_percent_12_and_up`| float   | The percentage of people 12 and up who were partially vaccinated as of this `date`.                                                                                                  |
+| `at_least_one_dose_percent`             | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
+| `at_least_one_dose_percent_12_and_up`   | float   | The percentage of people 12 and up who received at least one dose any vaccine as of this `date`.                                                                                     |
+| `fully_vaccinated_percent`              | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
+| `fully_vaccinated_percent_12_and_up`    | float   | The percentage of people 12 and up who were fully vaccinated as of this `date`.                                                                                                      |
+
+
+#### [cdph-vaccination-state-by-race-ethnicity.csv](./cdph-vaccination-county-by-race-ethnicity.csv)
+
+California's Department of Public Health releases [county-level vaccination totals](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19VaccineDashboardPublic/Vaccine) segemented by race and ethnicity.
+
+| field                                   | type    | description                                                                                                                                                                          |
+| --------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                                  | date    | The date for which data were reported in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                                                  |
+| `race_ethnicity`                        | string  | The race group being tallied.                                                                                                                                                         |
+| `partially_vaccinated`                  | integer | The total number of partially vaccinated people as of this `date`.                                                                                                                   |
+| `at_least_one_dose`                     | integer | The total number of people who have received at least one dose any vaccine given as of this `date`.                                                                                  |
+| `fully_vaccinated`                      | integer | The total number of fully vaccinated people as of this `date`.                                                                                                                       |
+| `population_total`                      | integer | The number of people who live in the county.                                                                                                                                         |
+| `population_12_and_up`                  | integer | The number of people 12 years or older who live in the county.                                                                                                                       |
+| `partially_vaccinated_percent`          | float   | The percentage of people who were partially vaccinated as of this `date`.                                                                                                            |
+| `partially_vaccinated_percent_12_and_up`| float   | The percentage of people 12 and up who were partially vaccinated as of this `date`.                                                                                                  |
+| `at_least_one_dose_percent`             | float   | The percentage of people who received at least one dose any vaccine as of this `date`.                                                                                               |
+| `at_least_one_dose_percent_12_and_up`   | float   | The percentage of people 12 and up who received at least one dose any vaccine as of this `date`.                                                                                     |
+| `fully_vaccinated_percent`              | float   | The percentage of people who were fully vaccinated as of this `date`.                                                                                                                |
+| `fully_vaccinated_percent_12_and_up`    | float   | The percentage of people 12 and up who were fully vaccinated as of this `date`.                                                                                                      |
 
 
 ### Hospitals
