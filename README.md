@@ -197,7 +197,7 @@ Some dates are missing because the state did not publish a press release for tha
 
 #### [latimes-agency-totals.csv](./latimes-agency-totals.csv)
 
-The total cases and deaths logged by local public health agencies each day. Each row contains the cumulative totals reported by a single agency as of that date.
+The total cases and deaths logged by local public health agencies each day. Each row contains the cumulative totals reported by a single agency as of that date. This file stopped updating in September 2021 when The Times switched its tracker to use case and death counts consolidated by the state's Department of Public Health. Those figures can be found elsewhere in this repository.
 
 Most counties have only one agency except for Alameda and Los Angeles counties, where some cities run independent health departments. In Alameda County, the city of Berkeley is managed independently. In Los Angeles County, Pasadena and Long Beach are managed independently. These cities' totals are broken out into separate rows. In order to calculate county-level totals, you must aggregate them together using the `county` field.
 
@@ -214,7 +214,7 @@ Most counties have only one agency except for Alameda and Los Angeles counties, 
 
 #### [latimes-county-totals.csv](./latimes-county-totals.csv)
 
-The county-level totals of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports in that county logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.
+The county-level totals of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports in that county logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.  This file stopped updating in September 2021 when The Times switched its tracker to use case and death counts consolidated by the state's Department of Public Health. Those figures can be found elsewhere in this repository.
 
 It comes with all of the same caveats as its source. It is included here as a convenience.
 
@@ -231,7 +231,7 @@ It comes with all of the same caveats as its source. It is included here as a co
 
 #### [latimes-state-totals.csv](./latimes-state-totals.csv)
 
-The statewide total of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.
+The statewide total of cases and deaths logged by local public health agencies each day. This is a derived table. Each row contains the aggregation of all local agency reports logged by Los Angeles Times reporters and editors in `latimes-agency-totals.csv`.  This file stopped updating in September 2021 when The Times switched its tracker to use case and death counts consolidated by the state's Department of Public Health. Those figures can be found elsewhere in this repository.
 
 It comes with all of the same caveats as its source. It is included here as a convenience.
 
@@ -246,9 +246,7 @@ It comes with all of the same caveats as its source. It is included here as a co
 
 #### [latimes-place-totals.csv](./latimes-place-totals.csv)
 
-Most counties break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date.
-
-The following counties currently do not report cases by locality: Alpine, Colusa, Fresno, Glenn, Lassen, Mariposa, Modoc, San Benito, Tehama and Tuolumne.
+Most counties break out the location of cases within their service area. The Times is gathering and consolidating these lists. Each row contains cumulative case totals reported in that area as of that date. Some counties currently do not report cases by locality.
 
 Different counties provide different geography types. Some provide data by region, some by Census designation, some by ZIP Code. The locations provided by Los Angeles County correspond to the public health department's official "Countywide Statistical Areas". Locations can be mapped after being joined to the shapes in `latimes-places-polygons.geojson` using the `id` column.
 
