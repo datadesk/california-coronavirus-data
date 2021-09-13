@@ -9294,7 +9294,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Kings,031,125,133,0,23
 2020-12-11,Lake,033,40,88,0,2
 2020-12-11,Lassen,035,11,17,0,1
-2020-12-11,Los Angeles,037,11776,15672,71,2146
+2020-12-11,Los Angeles,037,11780,15672,71,2146
 2020-12-11,Madera,039,169,288,0,25
 2020-12-11,Marin,041,251,345,2,46
 2020-12-11,Mendocino,045,5,28,1,2
@@ -9310,7 +9310,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Sacramento,067,1508,2192,5,106
 2020-12-11,San Benito,069,20,15,1,3
 2020-12-11,San Bernardino,071,2035,2787,10,207
-2020-12-11,San Diego,073,1927,2299,6,157
+2020-12-11,San Diego,073,1927,2300,6,157
 2020-12-11,San Francisco,075,304,312,2,35
 2020-12-11,San Joaquin,077,1041,1421,3,109
 2020-12-11,San Luis Obispo,079,83,100,0,6
@@ -9329,7 +9329,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-11,Trinity,105,11,1,0,0
 2020-12-11,Tulare,107,535,738,1,111
 2020-12-11,Tuolumne,109,22,3,0,1
-2020-12-11,Ventura,111,572,496,1,18
+2020-12-11,Ventura,111,572,497,1,18
 2020-12-11,Yolo,113,210,241,1,39
 2020-12-11,Yuba,115,12,1,0,1
 2020-12-12,Alameda,001,1021,1582,7,123
@@ -9349,7 +9349,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Kings,031,125,133,0,23
 2020-12-12,Lake,033,41,89,0,2
 2020-12-12,Lassen,035,11,21,0,1
-2020-12-12,Los Angeles,037,12040,15861,71,2155
+2020-12-12,Los Angeles,037,12044,15861,71,2155
 2020-12-12,Madera,039,169,290,0,25
 2020-12-12,Marin,041,256,345,2,46
 2020-12-12,Mariposa,043,1,0,0,0
@@ -9366,7 +9366,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Sacramento,067,1522,2220,5,106
 2020-12-12,San Benito,069,20,15,1,3
 2020-12-12,San Bernardino,071,2078,2804,10,207
-2020-12-12,San Diego,073,2006,2315,6,158
+2020-12-12,San Diego,073,2006,2316,6,158
 2020-12-12,San Francisco,075,318,312,2,36
 2020-12-12,San Joaquin,077,1061,1445,3,109
 2020-12-12,San Luis Obispo,079,84,114,0,6
@@ -9385,7 +9385,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-12,Trinity,105,11,1,0,0
 2020-12-12,Tulare,107,544,746,1,111
 2020-12-12,Tuolumne,109,24,3,0,1
-2020-12-12,Ventura,111,576,496,1,18
+2020-12-12,Ventura,111,576,497,1,18
 2020-12-12,Yolo,113,212,242,1,39
 2020-12-12,Yuba,115,12,1,0,1
 2020-12-13,Alameda,001,1074,1647,7,123
@@ -9612,7 +9612,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2020-12-16,Ventura,111,598,516,1,18
 2020-12-16,Yolo,113,213,243,1,39
 2020-12-16,Yuba,115,12,1,0,1
-2020-12-17,Alameda,001,1209,1833,7,129
+2020-12-17,Alameda,001,1209,1849,7,129
 2020-12-17,Amador,005,26,61,0,17
 2020-12-17,Butte,007,209,344,1,21
 2020-12-17,Calaveras,009,21,58,0,1
@@ -20428,7 +20428,7 @@ date,county,fips,minimum_staff_confirmed_cases,minimum_patients_confirmed_cases,
 2021-06-28,Contra Costa,013,997,1489,5,123
 2021-06-28,Del Norte,015,23,1,0,0
 2021-06-28,El Dorado,017,236,231,0,36
-2021-06-28,Fresno,019,1843,1948,4,193
+2021-06-28,Fresno,019,1843,1949,5,194
 2021-06-28,Glenn,021,57,75,0,2
 2021-06-28,Humboldt,023,34,61,1,4
 2021-06-28,Imperial,025,151,178,1,25
