@@ -696,9 +696,6 @@ The data is currently limited to July 22, 2020, forward.
 | `y`                   | float   | The latitude of the area's centroid.                                                                                                                                                 |
 | `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                                                                                                    |
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                                                                                                          |
-| `active_cases`        | integer | The number of active coronavirus case at that time.                                                                                                                                  |
-| `released_cases`      | integer | The cumulative number of coronavirus cases released from the prison at that time.                                                                                                        |
-| `resolved_cases`      | integer | The cumulative of coronavirus case where the patient ultimately recovered or had their cases otherwise resolved at that time.                                                            |
 | `deaths`              | integer | The cumulative number of deaths at that time.                                                                                                                                        |
 | `new_deaths`          | integer | The net change in deaths over the previous `date`.                                                                                                                                   |
 
@@ -712,7 +709,6 @@ The total number of cases amoung inmates at prisons run by the California Depart
 | `date`                | date    | The date when the data were collected in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. |
 | `confirmed_cases`     | integer | The cumulative number of confirmed coronavirus case at that time.                                   |
 | `new_confirmed_cases` | integer | The net change in confirmed cases over the previous `date`.                                         |
-| `active_cases`        | integer | The number of active coronavirus case at that time.                                                 |
 
 
 ### Schools
