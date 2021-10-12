@@ -1,6 +1,4 @@
-# california-coronavirus-data
-
-The Los Angeles Times' independent tally of coronavirus cases in California.
+The Los Angeles Times' open-source archive of California coronavirus data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datadesk/california-coronavirus-data/master?urlpath=lab/tree/notebooks/examples.ipynb)
 ![Jupyer Notebook tests](https://github.com/datadesk/california-coronavirus-data/workflows/Jupyer%20Notebook%20tests/badge.svg)
