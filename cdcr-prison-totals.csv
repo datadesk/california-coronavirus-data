@@ -604,6 +604,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3134,0,8,0
 2021-11-03,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3134,0,8,0
 2021-11-04,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3134,0,8,0
+2021-11-05,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,3134,0,8,0
 2020-03-10,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,,0,
 2020-03-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,0,0
 2020-03-12,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,0,0
@@ -1209,6 +1210,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1016,0,2,0
 2021-11-03,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1016,0,2,0
 2021-11-04,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1016,0,2,0
+2021-11-05,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1016,0,2,0
 2020-03-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,,0,
 2020-03-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,0,0
 2020-03-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,0,0
@@ -1814,6 +1816,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1462,0,0,0
 2021-11-03,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1462,0,0,0
 2021-11-04,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1462,0,0,0
+2021-11-05,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1462,0,0,0
 2020-03-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,,0,
 2020-03-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,0,0
 2020-03-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,0,0
@@ -2419,6 +2422,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1417,0,4,0
 2021-11-03,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1417,0,4,0
 2021-11-04,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1417,0,4,0
+2021-11-05,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1417,0,4,0
 2020-03-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,,0,
 2020-03-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,0,0
 2020-03-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,0,0
@@ -3024,6 +3028,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,664,0,19,0
 2021-11-03,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,664,0,19,0
 2021-11-04,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,664,0,19,0
+2021-11-05,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,664,0,19,0
 2020-03-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,,0,
 2020-03-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,0,0
 2020-03-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,0,0
@@ -3629,6 +3634,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1554,0,30,0
 2021-11-03,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1555,1,30,0
 2021-11-04,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1555,0,30,0
+2021-11-05,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,1555,0,30,0
 2020-03-10,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,,0,
 2020-03-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,0,0
 2020-03-12,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,0,0
@@ -4234,6 +4240,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,508,0,1,0
 2021-11-03,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,508,0,1,0
 2021-11-04,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,508,0,1,0
+2021-11-05,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,508,0,1,0
 2020-03-10,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,,0,
 2020-03-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,0,0
 2020-03-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,0,0
@@ -4839,6 +4846,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,727,0,12,0
 2021-11-03,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,727,0,12,0
 2021-11-04,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,727,0,12,0
+2021-11-05,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,727,0,12,0
 2020-03-10,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,,0,
 2020-03-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,0,0
 2020-03-12,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,0,0
@@ -5444,6 +5452,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2495,1,13,0
 2021-11-03,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2495,0,13,0
 2021-11-04,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2495,0,13,0
+2021-11-05,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,2495,0,13,0
 2020-03-10,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,,0,
 2020-03-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,0,0
 2020-03-12,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,0,0
@@ -6049,6 +6058,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2033,0,1,0
 2021-11-03,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2033,0,1,0
 2021-11-04,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2033,0,1,0
+2021-11-05,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2033,0,1,0
 2020-03-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,,0,
 2020-03-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,0,0
 2020-03-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,0,0
@@ -6654,6 +6664,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,890,2,1,0
 2021-11-03,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,891,1,1,0
 2021-11-04,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,892,1,1,0
+2021-11-05,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,892,0,1,0
 2020-03-10,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,,0,
 2020-03-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,0,0
 2020-03-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,0,0
@@ -7259,6 +7270,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1282,0,6,0
 2021-11-03,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1282,0,6,0
 2021-11-04,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1282,0,6,0
+2021-11-05,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1282,0,6,0
 2020-03-10,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,,0,
 2020-03-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,0,0
 2020-03-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,0,0
@@ -7864,6 +7876,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1531,0,14,0
 2021-11-03,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1531,0,14,0
 2021-11-04,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1531,0,14,0
+2021-11-05,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1531,0,14,0
 2020-03-10,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,,0,
 2020-03-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,0,0
 2020-03-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,0,0
@@ -8469,6 +8482,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,311,0,1,0
 2021-11-03,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,311,0,1,0
 2021-11-04,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,311,0,1,0
+2021-11-05,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,311,0,1,0
 2020-03-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,,0,
 2020-03-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,0,0
 2020-03-12,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,0,0
@@ -9074,6 +9088,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1342,1,7,0
 2021-11-03,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1342,0,7,0
 2021-11-04,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1342,0,7,0
+2021-11-05,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1342,0,7,0
 2020-03-10,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,,0,
 2020-03-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,0,0
 2020-03-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,0,0
@@ -9677,8 +9692,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-10-31,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3092,0,7,0
 2021-11-01,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3092,0,7,0
 2021-11-02,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3092,0,7,0
-2021-11-03,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3092,0,7,0
-2021-11-04,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3092,0,7,0
+2021-11-03,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3093,1,7,0
+2021-11-04,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3093,0,7,0
+2021-11-05,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,3093,0,7,0
 2020-03-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,,0,
 2020-03-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,0,0
 2020-03-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,0,0
@@ -10282,8 +10298,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-10-31,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1129,0,2,0
 2021-11-01,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1130,1,2,0
 2021-11-02,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1132,2,2,0
-2021-11-03,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1132,0,2,0
-2021-11-04,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1132,0,2,0
+2021-11-03,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1135,3,2,0
+2021-11-04,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1141,6,2,0
+2021-11-05,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1141,0,2,0
 2020-03-10,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,,0,
 2020-03-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,0,0
 2020-03-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,0,0
@@ -10886,9 +10903,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-10-30,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,865,3,1,0
 2021-10-31,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,874,9,1,0
 2021-11-01,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,887,13,1,0
-2021-11-02,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,892,5,1,0
-2021-11-03,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,895,3,1,0
-2021-11-04,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,896,1,1,0
+2021-11-02,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,897,10,1,0
+2021-11-03,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,908,11,1,0
+2021-11-04,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,911,3,1,0
+2021-11-05,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,914,3,1,0
 2020-03-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,,0,
 2020-03-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,0,0
 2020-03-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,0,0
@@ -11494,6 +11512,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1808,0,9,0
 2021-11-03,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1808,0,9,0
 2021-11-04,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1808,0,9,0
+2021-11-05,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,1808,0,9,0
 2020-03-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,,0,
 2020-03-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0
 2020-03-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0
@@ -11882,223 +11901,224 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-03-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
 2021-03-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
 2021-04-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,20,0
-2021-04-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,1,20,0
-2021-04-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,20,0
-2021-04-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,20,0
-2021-04-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,20,0
-2021-04-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,20,0
-2021-04-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,1,20,0
-2021-04-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,20,0
-2021-04-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,20,0
-2021-04-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,20,0
-2021-04-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,20,0
-2021-04-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,20,0
-2021-04-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,20,0
-2021-04-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,1,20,0
-2021-04-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,20,0
-2021-04-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,20,0
-2021-04-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,20,0
-2021-04-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,20,0
-2021-04-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,2,20,0
-2021-04-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-04-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-04-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-04-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,20,0
-2021-05-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,1,20,0
-2021-05-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-05-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-05-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-05-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-05-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-05-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-06-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,20,0
-2021-07-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,1,20,0
-2021-07-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-07-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-07-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-07-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-07-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,20,0
-2021-08-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,1,20,0
-2021-08-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-08-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-09-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,20,0
-2021-10-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,1,20,0
-2021-10-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-10-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-10-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-10-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-10-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-10-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-10-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-11-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-11-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-11-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
-2021-11-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,20,0
+2021-04-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,21,1
+2021-04-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,21,0
+2021-04-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,21,0
+2021-04-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,21,0
+2021-04-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,21,0
+2021-04-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,21,0
+2021-04-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2727,0,21,0
+2021-04-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,1,21,0
+2021-04-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,21,0
+2021-04-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,21,0
+2021-04-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,21,0
+2021-04-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2728,0,21,0
+2021-04-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,1,21,0
+2021-04-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,21,0
+2021-04-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,21,0
+2021-04-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,21,0
+2021-04-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,21,0
+2021-04-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,21,0
+2021-04-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2729,0,21,0
+2021-04-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,1,21,0
+2021-04-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,21,0
+2021-04-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,21,0
+2021-04-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,21,0
+2021-04-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2730,0,21,0
+2021-04-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,2,21,0
+2021-04-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-04-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-04-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-04-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2732,0,21,0
+2021-05-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,1,21,0
+2021-05-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-05-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-05-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-05-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-05-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-05-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-06-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2733,0,21,0
+2021-07-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,1,21,0
+2021-07-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-07-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-07-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-07-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-07-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2734,0,21,0
+2021-08-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,1,21,0
+2021-08-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-08-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-09-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-06,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-07,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-08,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-09,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-19,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-20,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-21,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-22,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-23,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2735,0,21,0
+2021-10-24,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,1,21,0
+2021-10-25,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-10-26,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-10-27,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-10-28,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-10-29,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-10-30,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-10-31,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-11-01,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-11-02,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-11-03,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-11-04,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2736,0,21,0
+2021-11-05,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,2737,1,21,0
 2020-03-10,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,,0,
 2020-03-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0
 2020-03-12,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0
@@ -12704,6 +12724,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
 2021-11-03,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
 2021-11-04,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
+2021-11-05,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
 2020-03-10,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,,0,
 2020-03-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,0,0
 2020-03-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,0,0
@@ -13307,8 +13328,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-10-31,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1376,0,2,0
 2021-11-01,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1376,0,2,0
 2021-11-02,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1376,0,2,0
-2021-11-03,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1376,0,2,0
-2021-11-04,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1377,1,2,0
+2021-11-03,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1377,1,2,0
+2021-11-04,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1378,1,2,0
+2021-11-05,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,1378,0,2,0
 2020-03-10,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,,0,
 2020-03-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,0,0
 2020-03-12,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,0,0
@@ -13914,6 +13936,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2076,0,2,0
 2021-11-03,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2076,0,2,0
 2021-11-04,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2076,0,2,0
+2021-11-05,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2076,0,2,0
 2020-03-10,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,,0,
 2020-03-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,0,0
 2020-03-12,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,0,0
@@ -14519,6 +14542,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1579,0,1,0
 2021-11-03,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1579,0,1,0
 2021-11-04,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1579,0,1,0
+2021-11-05,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,1579,0,1,0
 2020-03-10,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,,0,
 2020-03-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,0,0
 2020-03-12,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,0,0
@@ -15122,8 +15146,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-10-31,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,908,0,6,0
 2021-11-01,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,925,17,6,0
 2021-11-02,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,925,0,6,0
-2021-11-03,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,925,0,6,0
-2021-11-04,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,925,0,6,0
+2021-11-03,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,926,1,6,0
+2021-11-04,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,926,0,6,0
+2021-11-05,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,926,0,6,0
 2020-03-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,,0,
 2020-03-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0
 2020-03-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0
@@ -15729,6 +15754,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1903,0,9,0
 2021-11-03,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1903,0,9,0
 2021-11-04,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1903,0,9,0
+2021-11-05,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,1903,0,9,0
 2020-03-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,,0,
 2020-03-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,0,0
 2020-03-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,0,0
@@ -16329,11 +16355,12 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-10-28,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1216,0,5,0
 2021-10-29,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1216,0,5,0
 2021-10-30,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1216,0,5,0
-2021-10-31,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1217,1,5,0
-2021-11-01,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1222,5,5,0
-2021-11-02,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1222,0,5,0
-2021-11-03,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1222,0,5,0
+2021-10-31,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1216,0,5,0
+2021-11-01,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1221,5,5,0
+2021-11-02,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1221,0,5,0
+2021-11-03,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1222,1,5,0
 2021-11-04,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1222,0,5,0
+2021-11-05,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,1222,0,5,0
 2020-03-10,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,,0,
 2020-03-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0
 2020-03-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0
@@ -16939,6 +16966,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,332,0,0,0
 2021-11-03,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,332,0,0,0
 2021-11-04,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,332,0,0,0
+2021-11-05,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,332,0,0,0
 2020-03-10,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,,0,
 2020-03-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,0,0
 2020-03-12,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,0,0
@@ -17544,6 +17572,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2027,1,3,0
 2021-11-03,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2027,0,3,0
 2021-11-04,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2027,0,3,0
+2021-11-05,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2027,0,3,0
 2020-03-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,,0,
 2020-03-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,0,0
 2020-03-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,0,0
@@ -18149,6 +18178,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1019,0,18,0
 2021-11-03,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1019,0,18,0
 2021-11-04,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1019,0,18,0
+2021-11-05,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1019,0,18,0
 2020-03-10,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,,0,
 2020-03-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,0,0
 2020-03-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,0,0
@@ -18754,6 +18784,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,685,0,6,0
 2021-11-03,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,685,0,6,0
 2021-11-04,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,685,0,6,0
+2021-11-05,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,685,0,6,0
 2020-03-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,,0,
 2020-03-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,0,0
 2020-03-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,0,0
@@ -19359,6 +19390,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2262,0,28,0
 2021-11-03,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2262,0,28,0
 2021-11-04,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2262,0,28,0
+2021-11-05,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2262,0,28,0
 2020-03-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,,0,
 2020-03-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0
 2020-03-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0
@@ -19964,6 +19996,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1668,1,0,0
 2021-11-03,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1668,0,0,0
 2021-11-04,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1668,0,0,0
+2021-11-05,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,1668,0,0,0
 2020-03-10,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,,0,
 2020-03-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0
 2020-03-12,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0
@@ -20569,6 +20602,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1763,0,2,0
 2021-11-03,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1763,0,2,0
 2021-11-04,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1763,0,2,0
+2021-11-05,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1763,0,2,0
 2020-03-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,,0,
 2020-03-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,0,0
 2020-03-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,0,0
@@ -21174,3 +21208,4 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2021-11-02,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1919,1,1,0
 2021-11-03,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1919,0,1,0
 2021-11-04,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1919,0,1,0
+2021-11-05,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,1919,0,1,0
