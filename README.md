@@ -10,6 +10,7 @@ The Los Angeles Times' open-source archive of California coronavirus data
 - [cdph-county-cases-deaths.csv](#cdph-county-cases-deathscsv)
 - [cdph-state-cases-deaths.csv](#cdph-state-cases-deathscsv)
 - [cdph-positive-test-rate.csv](#cdph-positive-test-ratecsv)
+- [cdph-variants](#cdph-variantscsv)
 - [latimes-agency-totals.csv](#latimes-agency-totalscsv)
 - [latimes-county-totals.csv](#latimes-county-totalscsv)
 - [latimes-state-totals.csv](#latimes-state-totalscsv)
@@ -151,6 +152,21 @@ All of the data used by The Times to estimate how many recent tests have come ba
 | `new_confirmed_cases_seven_day_total`  | integer | The total number of new confirmed cases in the previous seven days.                                                                                    |
 | `new_tests_seven_day_total`            | integer | The total number of new tests in the previous seven days.                                                                                              |
 | `positive_test_rate_seven_day_percent` | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
+
+
+### [cdph-variants](./cdph-variants.csv)
+
+The share of cases each month attributed each month to variants tracked by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-Variants.aspx).
+
+| field                                  | type    | description                                                                                                                                            |
+| -------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `date`                                 | date    | The month the data describe in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format.                                                              |
+| `alpha`                                | float   | The percentage of new cases attributed to the Alpha variant                                                                                            |
+| `gamma`                                | float   | The percentage of new cases attributed to the Gamma variant                                                                                            |
+| `epsilon`                              | float   | The percentage of new cases attributed to the Epsilon variant                                                                                          |
+| `iota`                                 | float   | The percentage of new cases attributed to the Iota variant                                                                                             |
+| `delta`                                | float   | The percentage of new cases attributed to the Delta variant                                                                                            |
+| `other`                                | float   | The percentage of new cases attributed to other variants                                                                                               |
 
 
 #### [latimes-agency-totals.csv](./latimes-agency-totals.csv)
