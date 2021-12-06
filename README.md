@@ -154,7 +154,7 @@ All of the data used by The Times to estimate how many recent tests have come ba
 | `positive_test_rate_seven_day_percent` | float   | The positive test rate over the past seven days, calculated by dividing the number of new confirmed cases over that time into the number of new tests. |
 
 
-### [cdph-variants](./cdph-variants.csv)
+### [cdph-variants.csv](./cdph-variants.csv)
 
 The share of cases each month attributed each month to variants tracked by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-Variants.aspx).
 
