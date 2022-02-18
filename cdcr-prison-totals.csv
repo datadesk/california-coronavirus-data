@@ -709,6 +709,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,4011,0,8,0
 2022-02-16,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,4011,0,8,0
 2022-02-17,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,4011,0,8,0
+2022-02-18,ASP,Avenal State Prison,Avenal,Kings,031,93204,-120.1211248,35.9705041,4011,0,8,0
 2020-03-10,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,,0,
 2020-03-11,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,0,0
 2020-03-12,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,0,0,0,0
@@ -1419,6 +1420,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1138,0,2,0
 2022-02-16,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1138,0,2,0
 2022-02-17,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1138,0,2,0
+2022-02-18,CAC,California City Correctional Facility,California City,Kern,029,93505,-117.858308,35.152328,1138,0,2,0
 2020-03-10,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,,0,
 2020-03-11,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,0,0
 2020-03-12,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,0,0,0,0
@@ -2127,8 +2129,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-13,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,1990,34,0,0
 2022-02-14,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,2013,23,0,0
 2022-02-15,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,2013,0,0,0
-2022-02-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,2015,2,0,0
-2022-02-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,2015,0,0,0
+2022-02-16,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,2021,8,0,0
+2022-02-17,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,2023,2,0,0
+2022-02-18,CCC,California Correctional Center,Susanville,Lassen,035,96127,-120.5117488,40.3974017,2023,0,0,0
 2020-03-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,,0,
 2020-03-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,0,0
 2020-03-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,0,0,0,0
@@ -2829,16 +2832,17 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-05,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1644,2,4,0
 2022-02-06,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1646,2,4,0
 2022-02-07,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1650,4,4,0
-2022-02-08,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1651,1,4,0
-2022-02-09,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1651,0,4,0
-2022-02-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1651,0,4,0
-2022-02-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1653,2,4,0
-2022-02-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1653,0,4,0
-2022-02-13,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1654,1,4,0
-2022-02-14,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1656,2,4,0
-2022-02-15,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1656,0,4,0
-2022-02-16,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1656,0,4,0
+2022-02-08,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1650,0,4,0
+2022-02-09,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1650,0,4,0
+2022-02-10,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1650,0,4,0
+2022-02-11,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1652,2,4,0
+2022-02-12,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1652,0,4,0
+2022-02-13,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1653,1,4,0
+2022-02-14,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1655,2,4,0
+2022-02-15,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1655,0,4,0
+2022-02-16,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1656,1,4,0
 2022-02-17,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1656,0,4,0
+2022-02-18,CCI,California Correctional Institution,Tehachapi,Kern,029,93561,-118.5694869,35.1133011,1656,0,4,0
 2020-03-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,,0,
 2020-03-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,0,0
 2020-03-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,0,0,0,0
@@ -3514,41 +3518,42 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-01-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,740,8,19,0
 2022-01-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,740,0,19,0
 2022-01-13,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,740,0,19,0
-2022-01-14,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,742,2,19,0
-2022-01-15,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,791,49,19,0
-2022-01-16,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,792,1,19,0
-2022-01-17,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,804,12,19,0
-2022-01-18,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,806,2,19,0
-2022-01-19,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,806,0,19,0
-2022-01-20,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,809,3,19,0
-2022-01-21,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,810,1,19,0
-2022-01-22,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,832,22,19,0
-2022-01-23,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,833,1,19,0
-2022-01-24,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,858,25,19,0
-2022-01-25,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,861,3,19,0
-2022-01-26,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,862,1,19,0
-2022-01-27,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,864,2,19,0
-2022-01-28,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,865,1,19,0
-2022-01-29,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,866,1,19,0
-2022-01-30,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,866,0,19,0
-2022-01-31,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,877,11,20,1
-2022-02-01,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,879,2,20,0
-2022-02-02,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,879,0,20,0
-2022-02-03,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,879,0,20,0
-2022-02-04,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,879,0,20,0
-2022-02-05,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,879,0,20,0
-2022-02-06,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,879,0,20,0
-2022-02-07,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,882,3,20,0
-2022-02-08,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,882,0,20,0
-2022-02-09,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,884,2,20,0
-2022-02-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,884,0,20,0
-2022-02-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,1,20,0
-2022-02-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,0,20,0
-2022-02-13,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,0,20,0
-2022-02-14,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,0,20,0
-2022-02-15,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,0,20,0
-2022-02-16,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,0,20,0
-2022-02-17,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,0,20,0
+2022-01-14,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,743,3,19,0
+2022-01-15,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,792,49,19,0
+2022-01-16,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,793,1,19,0
+2022-01-17,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,805,12,19,0
+2022-01-18,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,807,2,19,0
+2022-01-19,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,807,0,19,0
+2022-01-20,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,810,3,19,0
+2022-01-21,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,811,1,19,0
+2022-01-22,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,833,22,19,0
+2022-01-23,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,834,1,19,0
+2022-01-24,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,859,25,19,0
+2022-01-25,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,862,3,19,0
+2022-01-26,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,863,1,19,0
+2022-01-27,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,865,2,19,0
+2022-01-28,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,866,1,19,0
+2022-01-29,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,867,1,19,0
+2022-01-30,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,867,0,19,0
+2022-01-31,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,878,11,20,1
+2022-02-01,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,880,2,20,0
+2022-02-02,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,880,0,20,0
+2022-02-03,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,880,0,20,0
+2022-02-04,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,880,0,20,0
+2022-02-05,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,880,0,20,0
+2022-02-06,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,880,0,20,0
+2022-02-07,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,883,3,20,0
+2022-02-08,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,883,0,20,0
+2022-02-09,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,2,20,0
+2022-02-10,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,885,0,20,0
+2022-02-11,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,886,1,20,0
+2022-02-12,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,886,0,20,0
+2022-02-13,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,886,0,20,0
+2022-02-14,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,886,0,20,0
+2022-02-15,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,887,1,20,0
+2022-02-16,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,887,0,20,0
+2022-02-17,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,888,1,20,0
+2022-02-18,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,888,0,20,0
 2020-03-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,,0,
 2020-03-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,0,0
 2020-03-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,0,0
@@ -4236,8 +4241,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-01-23,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2484,1,30,0
 2022-01-24,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2488,4,30,0
 2022-01-25,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2499,11,30,0
-2022-01-26,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2509,10,30,0
-2022-01-27,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2557,48,30,0
+2022-01-26,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2510,11,30,0
+2022-01-27,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2557,47,30,0
 2022-01-28,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2580,23,30,0
 2022-01-29,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2580,0,30,0
 2022-01-30,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2580,0,30,0
@@ -4257,8 +4262,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-13,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2654,0,30,0
 2022-02-14,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2657,3,30,0
 2022-02-15,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2657,0,30,0
-2022-02-16,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2657,0,30,0
-2022-02-17,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2657,0,30,0
+2022-02-16,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2669,12,30,0
+2022-02-17,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2669,0,30,0
+2022-02-18,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,2669,0,30,0
 2020-03-10,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,,0,
 2020-03-11,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,0,0
 2020-03-12,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,0,0,0,0
@@ -4969,6 +4975,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,658,0,1,0
 2022-02-16,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,658,0,1,0
 2022-02-17,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,658,0,1,0
+2022-02-18,CIW,California Institution for Women,Chino,San Bernardino,071,92877,-117.634771,33.9493511,658,0,1,0
 2020-03-10,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,,0,
 2020-03-11,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,0,0
 2020-03-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,0,0,0,0
@@ -5676,9 +5683,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-12,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1050,1,12,0
 2022-02-13,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1050,0,12,0
 2022-02-14,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1061,11,12,0
-2022-02-15,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1066,5,12,0
-2022-02-16,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1066,0,12,0
-2022-02-17,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1066,0,12,0
+2022-02-15,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1071,10,12,0
+2022-02-16,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1073,2,12,0
+2022-02-17,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1075,2,12,0
+2022-02-18,CMF,California Medical Facility,Vacaville,Solano,095,95687,-121.9793527,38.333213,1075,0,12,0
 2020-03-10,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,,0,
 2020-03-11,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,0,0
 2020-03-12,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,0,0,0,0
@@ -6387,8 +6395,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-13,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3065,3,13,0
 2022-02-14,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3077,12,13,0
 2022-02-15,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3090,13,13,0
-2022-02-16,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3092,2,13,0
-2022-02-17,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3092,0,13,0
+2022-02-16,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3105,15,13,0
+2022-02-17,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3107,2,13,0
+2022-02-18,CMC,California Men's Colony,San Luis Obispo,San Luis Obispo,079,93401,-120.682159,35.2445252,3107,0,13,0
 2020-03-10,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,,0,
 2020-03-11,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,0,0
 2020-03-12,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,0,0,0,0
@@ -7099,6 +7108,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2969,2,1,0
 2022-02-16,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2969,0,1,0
 2022-02-17,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2969,0,1,0
+2022-02-18,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,2969,0,1,0
 2020-03-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,,0,
 2020-03-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,0,0
 2020-03-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,0,0
@@ -7809,6 +7819,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,986,0,1,0
 2022-02-16,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,986,0,1,0
 2022-02-17,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,986,0,1,0
+2022-02-18,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,986,0,1,0
 2020-03-10,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,,0,
 2020-03-11,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,0,0
 2020-03-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,0,0,0,0
@@ -8516,9 +8527,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-12,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1871,0,8,0
 2022-02-13,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1871,0,8,0
 2022-02-14,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1875,4,8,0
-2022-02-15,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1875,0,8,0
-2022-02-16,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1876,1,8,0
-2022-02-17,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1876,0,8,0
+2022-02-15,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1876,1,8,0
+2022-02-16,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1880,4,8,0
+2022-02-17,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1882,2,8,0
+2022-02-18,COR,"California State Prison, Corcoran",Corcoran,Kings,031,93212,-119.552853,36.060226,1882,0,8,0
 2020-03-10,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,,0,
 2020-03-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,0,0
 2020-03-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,0,0,0,0
@@ -9225,10 +9237,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-11,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1946,1,14,0
 2022-02-12,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1946,0,14,0
 2022-02-13,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1947,1,14,0
-2022-02-14,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1951,4,14,0
-2022-02-15,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1951,0,14,0
-2022-02-16,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1951,0,14,0
-2022-02-17,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1951,0,14,0
+2022-02-14,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1952,5,14,0
+2022-02-15,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1953,1,14,0
+2022-02-16,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1954,1,14,0
+2022-02-17,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1954,0,14,0
+2022-02-18,LAC,"California State Prison, Los Angeles",Lancaster,Los Angeles,037,93534,-118.2365963,34.6894876,1954,0,14,0
 2020-03-10,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,,0,
 2020-03-11,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,0,0
 2020-03-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,0,0,0,0
@@ -9936,9 +9949,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-12,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,667,6,2,0
 2022-02-13,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,667,0,2,0
 2022-02-14,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,675,8,2,0
-2022-02-15,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,676,1,2,0
-2022-02-16,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,676,0,2,0
-2022-02-17,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,676,0,2,0
+2022-02-15,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,678,3,2,0
+2022-02-16,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,679,1,2,0
+2022-02-17,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,679,0,2,0
+2022-02-18,SAC,"California State Prison, Sacramento",Represa,Sacramento,067,95671,-121.159923,38.6875176,679,0,2,0
 2020-03-10,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,,0,
 2020-03-11,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,0,0
 2020-03-12,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,0,0,0,0
@@ -10647,8 +10661,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-13,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1743,0,7,0
 2022-02-14,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1744,1,7,0
 2022-02-15,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1744,0,7,0
-2022-02-16,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1744,0,7,0
-2022-02-17,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1744,0,7,0
+2022-02-16,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1753,9,7,0
+2022-02-17,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1753,0,7,0
+2022-02-18,SOL,"California State Prison, Solano",Vacaville,Solano,095,95687,-121.9742829,38.3168817,1753,0,7,0
 2020-03-10,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,,0,
 2020-03-11,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,0,0
 2020-03-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,0,0,0,0
@@ -11356,9 +11371,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-12,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4126,2,7,0
 2022-02-13,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4131,5,7,0
 2022-02-14,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4194,63,7,0
-2022-02-15,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4203,9,7,0
-2022-02-16,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4206,3,7,0
-2022-02-17,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4206,0,7,0
+2022-02-15,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4214,20,7,0
+2022-02-16,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4217,3,7,0
+2022-02-17,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4217,0,7,0
+2022-02-18,SATF,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Kings,031,93212,-119.5536827,36.0525532,4217,0,7,0
 2020-03-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,,0,
 2020-03-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,0,0
 2020-03-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,0,0,0,0
@@ -12064,11 +12080,12 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-10,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1284,5,3,0
 2022-02-11,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1286,2,3,0
 2022-02-12,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1286,0,3,0
-2022-02-13,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1287,1,3,0
-2022-02-14,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1287,0,3,0
-2022-02-15,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1288,1,3,0
-2022-02-16,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1288,0,3,0
-2022-02-17,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1288,0,3,0
+2022-02-13,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1286,0,3,0
+2022-02-14,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1286,0,3,0
+2022-02-15,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1287,1,3,0
+2022-02-16,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1290,3,3,0
+2022-02-17,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1291,1,3,0
+2022-02-18,CAL,Calipatria State Prison,Calipatria,Imperial,025,92233,-115.4931693,33.163567,1291,0,3,0
 2020-03-10,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,,0,
 2020-03-11,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,0,0
 2020-03-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,0,0,0,0
@@ -12776,9 +12793,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-12,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1707,3,1,0
 2022-02-13,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1707,0,1,0
 2022-02-14,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1711,4,1,0
-2022-02-15,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1714,3,1,0
-2022-02-16,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1714,0,1,0
-2022-02-17,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1714,0,1,0
+2022-02-15,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1720,9,1,0
+2022-02-16,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1720,0,1,0
+2022-02-17,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1720,0,1,0
+2022-02-18,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,1720,0,1,0
 2020-03-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,,0,
 2020-03-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,0,0
 2020-03-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,0,0
@@ -13489,6 +13507,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,2698,4,9,0
 2022-02-16,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,2698,0,9,0
 2022-02-17,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,2698,0,9,0
+2022-02-18,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,2698,0,9,0
 2020-03-10,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,,0,
 2020-03-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0
 2020-03-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,0,0,0,0
@@ -14195,10 +14214,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-11,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3081,16,21,0
 2022-02-12,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3087,6,21,0
 2022-02-13,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3088,1,21,0
-2022-02-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3147,59,21,0
-2022-02-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3154,7,21,0
-2022-02-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3155,1,21,0
-2022-02-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3155,0,21,0
+2022-02-14,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3153,65,21,0
+2022-02-15,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3166,13,21,0
+2022-02-16,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3169,3,21,0
+2022-02-17,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3171,2,21,0
+2022-02-18,CTF,Correctional Training Facility,Soledad,Monterey,053,93960,-121.3193189,36.4093667,3171,0,21,0
 2020-03-10,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,,0,
 2020-03-11,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0
 2020-03-12,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,0,0,0,0
@@ -14909,6 +14929,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
 2022-02-16,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
 2022-02-17,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
+2022-02-18,DVI,Deuel Vocational Institute,Tracy,San Joaquin,077,95304,-121.3299863,37.747725,545,0,0,0
 2020-03-10,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,,0,
 2020-03-11,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,0,0
 2020-03-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,0,0,0,0
@@ -15616,9 +15637,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-12,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2551,4,2,0
 2022-02-13,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2551,0,2,0
 2022-02-14,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2551,0,2,0
-2022-02-15,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2565,14,2,0
-2022-02-16,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2565,0,2,0
-2022-02-17,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2565,0,2,0
+2022-02-15,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2579,28,2,0
+2022-02-16,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2579,0,2,0
+2022-02-17,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2579,0,2,0
+2022-02-18,FSP,Folsom State Prison,Represa,Sacramento,067,95671,-121.1624287,38.694558,2579,0,2,0
 2020-03-10,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,,0,
 2020-03-11,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,0,0
 2020-03-12,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,0,0,0,0
@@ -16327,8 +16349,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-13,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2111,0,2,0
 2022-02-14,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2112,1,2,0
 2022-02-15,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2112,0,2,0
-2022-02-16,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2112,0,2,0
-2022-02-17,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2112,0,2,0
+2022-02-16,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2113,1,2,0
+2022-02-17,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2113,0,2,0
+2022-02-18,HDSP,High Desert State Prison,Susanville,Lassen,035,96127,-120.5260649,40.4052702,2113,0,2,0
 2020-03-10,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,,0,
 2020-03-11,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,0,0
 2020-03-12,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,0,0,0,0
@@ -17037,8 +17060,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-13,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2200,2,1,0
 2022-02-14,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2201,1,1,0
 2022-02-15,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2223,22,1,0
-2022-02-16,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2223,0,1,0
-2022-02-17,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2223,0,1,0
+2022-02-16,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2226,3,1,0
+2022-02-17,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2226,0,1,0
+2022-02-18,ISP,Ironwood State Prison,Blythe,Riverside,065,92225,-114.9266802,33.5609644,2226,0,1,0
 2020-03-10,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,,0,
 2020-03-11,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,0,0
 2020-03-12,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,0,0,0,0
@@ -17748,7 +17772,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-14,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1043,1,6,0
 2022-02-15,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1048,5,6,0
 2022-02-16,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1050,2,6,0
-2022-02-17,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1050,0,6,0
+2022-02-17,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1052,2,6,0
+2022-02-18,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1052,0,6,0
 2020-03-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,,0,
 2020-03-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0
 2020-03-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0
@@ -18455,10 +18480,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2693,4,9,0
 2022-02-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2694,1,9,0
 2022-02-13,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2695,1,9,0
-2022-02-14,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2704,9,9,0
-2022-02-15,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2707,3,9,0
-2022-02-16,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2707,0,9,0
-2022-02-17,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2707,0,9,0
+2022-02-14,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2718,23,9,0
+2022-02-15,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2724,6,9,0
+2022-02-16,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2727,3,9,0
+2022-02-17,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2727,0,9,0
+2022-02-18,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,2727,0,9,0
 2020-03-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,,0,
 2020-03-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,0,0
 2020-03-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,0,0
@@ -19169,6 +19195,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,2789,2,5,0
 2022-02-16,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,2789,0,5,0
 2022-02-17,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,2789,0,5,0
+2022-02-18,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,2789,0,5,0
 2020-03-10,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,,0,
 2020-03-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0
 2020-03-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,0,0,0,0
@@ -19875,10 +19902,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-11,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,461,1,0,0
 2022-02-12,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,461,0,0,0
 2022-02-13,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,462,1,0,0
-2022-02-14,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,465,3,0,0
-2022-02-15,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,468,3,0,0
-2022-02-16,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,468,0,0,0
-2022-02-17,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,468,0,0,0
+2022-02-14,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,467,5,0,0
+2022-02-15,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,473,6,0,0
+2022-02-16,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,473,0,0,0
+2022-02-17,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,473,0,0,0
+2022-02-18,PBSP,Pelican Bay State Prison,Crescent City,Del Norte,015,95531,-124.1583686,41.8504388,473,0,0,0
 2020-03-10,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,,0,
 2020-03-11,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,0,0
 2020-03-12,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,0,0,0,0
@@ -20589,6 +20617,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2521,4,3,0
 2022-02-16,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2521,0,3,0
 2022-02-17,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2521,0,3,0
+2022-02-18,PVSP,Pleasant Valley State Prison,Coalinga,Fresno,019,93210,-120.2486679,36.1314523,2521,0,3,0
 2020-03-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,,0,
 2020-03-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,0,0
 2020-03-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,0,0,0,0
@@ -21290,15 +21319,16 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-06,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1364,2,19,0
 2022-02-07,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1377,13,19,0
 2022-02-08,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1400,23,19,0
-2022-02-09,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1420,20,19,0
-2022-02-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1424,4,19,0
-2022-02-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1426,2,19,0
-2022-02-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1429,3,19,0
-2022-02-13,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1430,1,19,0
-2022-02-14,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1438,8,19,0
-2022-02-15,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1445,7,19,0
-2022-02-16,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1445,0,19,0
-2022-02-17,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1445,0,19,0
+2022-02-09,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1419,19,19,0
+2022-02-10,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1423,4,19,0
+2022-02-11,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1425,2,19,0
+2022-02-12,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1428,3,19,0
+2022-02-13,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1429,1,19,0
+2022-02-14,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1437,8,19,0
+2022-02-15,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1445,8,19,0
+2022-02-16,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1449,4,19,0
+2022-02-17,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1449,0,19,0
+2022-02-18,RJD,Richard J. Donovan Correctional Facility,San Diego,San Diego,073,92101,-116.9334776,32.5846461,1449,0,19,0
 2020-03-10,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,,0,
 2020-03-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,0,0
 2020-03-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,0,0,0,0
@@ -22005,10 +22035,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-11,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,928,5,6,0
 2022-02-12,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,930,2,6,0
 2022-02-13,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,932,2,6,0
-2022-02-14,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,933,1,6,0
-2022-02-15,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,937,4,6,0
-2022-02-16,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,937,0,6,0
-2022-02-17,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,937,0,6,0
+2022-02-14,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,934,2,6,0
+2022-02-15,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,939,5,6,0
+2022-02-16,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,940,1,6,0
+2022-02-17,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,941,1,6,0
+2022-02-18,SVSP,Salinas Valley State Prison,Soledad,Monterey,053,93960,-121.2781234,36.3639126,941,0,6,0
 2020-03-10,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,,0,
 2020-03-11,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,0,0
 2020-03-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,0,0,0,0
@@ -22716,9 +22747,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-12,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2825,2,28,0
 2022-02-13,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2825,0,28,0
 2022-02-14,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2826,1,28,0
-2022-02-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2827,1,28,0
-2022-02-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2827,0,28,0
-2022-02-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2827,0,28,0
+2022-02-15,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2828,2,28,0
+2022-02-16,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2828,0,28,0
+2022-02-17,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2828,0,28,0
+2022-02-18,SQ,San Quentin State Prison,San Quentin,Marin,041,94964,-122.4843922,37.9415566,2828,0,28,0
 2020-03-10,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,,0,
 2020-03-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0
 2020-03-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,0,0,0,0
@@ -23425,10 +23457,11 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-11,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2814,1,0,0
 2022-02-12,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2815,1,0,0
 2022-02-13,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2815,0,0,0
-2022-02-14,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2825,10,0,0
-2022-02-15,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2825,0,0,0
-2022-02-16,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2825,0,0,0
-2022-02-17,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2825,0,0,0
+2022-02-14,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2826,11,0,0
+2022-02-15,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2826,0,0,0
+2022-02-16,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2826,0,0,0
+2022-02-17,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2826,0,0,0
+2022-02-18,SCC,Sierra Conservation Center,Jamestown,Tuolumne,109,95327,-120.5454373,37.8900437,2826,0,0,0
 2020-03-10,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,,0,
 2020-03-11,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0
 2020-03-12,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,0,0,0,0
@@ -24139,6 +24172,7 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-15,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1845,0,2,0
 2022-02-16,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1845,0,2,0
 2022-02-17,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1845,0,2,0
+2022-02-18,VSP,Valley State Prison,Chowchilla,Madera,039,93610,-120.1541466,37.1033659,1845,0,2,0
 2020-03-10,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,,0,
 2020-03-11,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,0,0
 2020-03-12,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,0,0,0,0
@@ -24847,5 +24881,6 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-02-13,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4046,0,2,0
 2022-02-14,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4055,9,2,0
 2022-02-15,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4056,1,2,0
-2022-02-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4056,0,2,0
-2022-02-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4056,0,2,0
+2022-02-16,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4057,1,2,0
+2022-02-17,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4057,0,2,0
+2022-02-18,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,4057,0,2,0
