@@ -1,4 +1,60 @@
 date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_suspected_patients,icu_available_beds
+2022-07-07,Alameda,1,139,52,21,4,106
+2022-07-07,Amador,5,2,1,1,0,2
+2022-07-07,Butte,7,35,0,3,0,16
+2022-07-07,Calaveras,9,1,0,0,0,2
+2022-07-07,Colusa,11,4,0,0,0,0
+2022-07-07,Contra Costa,13,99,41,12,3,38
+2022-07-07,Del Norte,15,5,0,2,0,1
+2022-07-07,El Dorado,17,9,0,1,0,1
+2022-07-07,Fresno,19,174,21,20,1,29
+2022-07-07,Glenn,21,0,0,0,0,0
+2022-07-07,Humboldt,23,12,1,5,0,7
+2022-07-07,Imperial,25,12,0,1,0,8
+2022-07-07,Inyo,27,0,0,0,0,2
+2022-07-07,Kern,29,91,0,14,0,24
+2022-07-07,Kings,31,8,0,2,0,2
+2022-07-07,Lake,33,0,0,0,0,2
+2022-07-07,Lassen,35,4,0,0,0,0
+2022-07-07,Los Angeles,37,1021,73,99,5,699
+2022-07-07,Madera,39,12,6,2,0,11
+2022-07-07,Marin,41,31,2,1,0,11
+2022-07-07,Mariposa,43,0,0,0,0,0
+2022-07-07,Mendocino,45,17,0,0,0,6
+2022-07-07,Merced,47,20,0,1,0,8
+2022-07-07,Modoc,49,0,0,0,0,0
+2022-07-07,Mono,51,2,0,0,0,2
+2022-07-07,Monterey,53,38,0,4,0,16
+2022-07-07,Napa,55,14,0,2,0,6
+2022-07-07,Nevada,57,9,0,2,0,1
+2022-07-07,Orange,59,277,10,34,1,159
+2022-07-07,Placer,61,92,15,10,3,16
+2022-07-07,Plumas,63,3,0,0,0,0
+2022-07-07,Riverside,65,190,17,14,3,99
+2022-07-07,Sacramento,67,197,29,23,3,91
+2022-07-07,San Benito,69,1,0,0,0,0
+2022-07-07,San Bernardino,71,196,5,18,1,157
+2022-07-07,San Diego,73,363,16,45,1,197
+2022-07-07,San Francisco,75,128,7,19,3,96
+2022-07-07,San Joaquin,77,44,2,4,3,12
+2022-07-07,San Luis Obispo,79,31,0,0,0,19
+2022-07-07,San Mateo,81,40,7,2,2,22
+2022-07-07,Santa Barbara,83,45,0,9,0,21
+2022-07-07,Santa Clara,85,234,18,38,3,44
+2022-07-07,Santa Cruz,87,28,0,2,0,7
+2022-07-07,Shasta,89,24,4,4,0,27
+2022-07-07,Siskiyou,93,2,0,1,0,4
+2022-07-07,Solano,95,53,16,5,1,19
+2022-07-07,Sonoma,97,32,7,1,0,19
+2022-07-07,Stanislaus,99,131,28,16,1,30
+2022-07-07,Sutter,101,0,0,0,0,0
+2022-07-07,Tehama,103,7,0,0,0,4
+2022-07-07,Trinity,105,2,0,0,0,0
+2022-07-07,Tulare,107,39,3,2,0,24
+2022-07-07,Tuolumne,109,2,0,0,0,4
+2022-07-07,Ventura,111,75,6,3,0,28
+2022-07-07,Yolo,113,5,1,1,0,3
+2022-07-07,Yuba,115,9,0,1,0,10
 2022-07-06,Alameda,1,138,57,18,4,106
 2022-07-06,Amador,5,3,0,1,0,2
 2022-07-06,Butte,7,31,0,3,0,12
@@ -96,7 +152,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2022-07-05,San Luis Obispo,79,20,0,0,0,16
 2022-07-05,San Mateo,81,44,11,3,2,31
 2022-07-05,Santa Barbara,83,33,1,4,1,18
-2022-07-05,Santa Clara,85,238,17,38,5,53
+2022-07-05,Santa Clara,85,239,20,36,7,52
 2022-07-05,Santa Cruz,87,23,0,0,0,6
 2022-07-05,Shasta,89,21,4,3,0,30
 2022-07-05,Siskiyou,93,2,0,1,0,7
@@ -152,7 +208,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2022-07-04,San Luis Obispo,79,24,1,0,0,16
 2022-07-04,San Mateo,81,42,6,3,1,27
 2022-07-04,Santa Barbara,83,30,0,4,0,20
-2022-07-04,Santa Clara,85,226,21,37,7,53
+2022-07-04,Santa Clara,85,225,23,34,9,60
 2022-07-04,Santa Cruz,87,22,0,0,0,6
 2022-07-04,Shasta,89,18,4,3,0,30
 2022-07-04,Siskiyou,93,2,0,1,0,6
@@ -197,7 +253,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2022-07-03,Nevada,57,7,0,1,0,4
 2022-07-03,Orange,59,230,8,35,2,180
 2022-07-03,Placer,61,83,20,5,2,19
-2022-07-03,Plumas,63,0,0,0,0,0
+2022-07-03,Plumas,63,5,0,0,0,0
 2022-07-03,Riverside,65,136,17,8,1,114
 2022-07-03,Sacramento,67,189,31,24,6,78
 2022-07-03,San Benito,69,3,0,1,0,0
@@ -208,7 +264,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2022-07-03,San Luis Obispo,79,23,3,0,1,16
 2022-07-03,San Mateo,81,37,6,3,0,25
 2022-07-03,Santa Barbara,83,30,0,5,0,20
-2022-07-03,Santa Clara,85,234,17,35,3,48
+2022-07-03,Santa Clara,85,227,19,32,5,52
 2022-07-03,Santa Cruz,87,22,0,1,0,6
 2022-07-03,Shasta,89,16,4,2,0,30
 2022-07-03,Siskiyou,93,2,0,1,0,2
@@ -220,7 +276,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2022-07-03,Trinity,105,2,0,0,0,0
 2022-07-03,Tulare,107,33,4,3,2,21
 2022-07-03,Tuolumne,109,9,0,1,0,5
-2022-07-03,Ventura,111,77,1,3,0,32
+2022-07-03,Ventura,111,89,1,3,0,32
 2022-07-03,Yolo,113,7,0,2,0,6
 2022-07-03,Yuba,115,8,0,2,0,11
 2022-07-02,Alameda,1,123,42,12,3,107
@@ -264,7 +320,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2022-07-02,San Luis Obispo,79,25,3,0,1,17
 2022-07-02,San Mateo,81,44,5,5,0,25
 2022-07-02,Santa Barbara,83,26,1,1,1,25
-2022-07-02,Santa Clara,85,244,13,35,3,43
+2022-07-02,Santa Clara,85,247,14,35,4,41
 2022-07-02,Santa Cruz,87,25,0,1,0,7
 2022-07-02,Shasta,89,20,6,4,1,29
 2022-07-02,Siskiyou,93,3,0,1,0,6
