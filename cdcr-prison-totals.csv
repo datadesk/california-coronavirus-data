@@ -5097,8 +5097,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-12-20,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,1894,3,23,0
 2022-12-21,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,1894,0,23,0
 2022-12-22,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,1896,2,23,0
-2022-12-23,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,1896,0,23,0
-2022-12-24,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,1896,0,23,0
+2022-12-23,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,1897,1,23,0
+2022-12-24,CHCF,California Health Care Facility,Stockton,San Joaquin,077,95201,-121.1848441,37.8947278,1897,0,23,0
 2020-03-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,,0,
 2020-03-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,0,0
 2020-03-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,0,0,0,0
@@ -5128,8 +5128,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2020-04-05,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,16,3,0,0
 2020-04-06,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,18,2,0,0
 2020-04-07,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,20,2,0,0
-2020-04-08,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,26,6,0,0
-2020-04-09,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,32,6,0,0
+2020-04-08,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,25,5,0,0
+2020-04-09,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,32,7,0,0
 2020-04-10,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,37,5,0,0
 2020-04-11,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,41,4,0,0
 2020-04-12,CIM,California Institution for Men,Chino,San Bernardino,071,91708,-117.3861722,34.0821285,45,4,0,0
@@ -10195,10 +10195,10 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-12-18,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3621,0,1,0
 2022-12-19,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3641,20,1,0
 2022-12-20,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3650,9,1,0
-2022-12-21,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3670,20,1,0
-2022-12-22,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3677,7,1,0
-2022-12-23,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3677,0,1,0
-2022-12-24,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3677,0,1,0
+2022-12-21,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3671,21,1,0
+2022-12-22,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3678,7,1,0
+2022-12-23,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3678,0,1,0
+2022-12-24,CRC,California Rehabilitation Center,Norco,Riverside,065,92860,-117.5766389,33.9311823,3678,0,1,0
 2020-03-10,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,,0,
 2020-03-11,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,0,0
 2020-03-12,CEN,"California State Prison, Centinela",Imperial,Imperial,025,92251,-115.7744787,32.7956026,0,0,0,0
@@ -18357,8 +18357,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-12-20,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2337,9,1,0
 2022-12-21,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2339,2,1,0
 2022-12-22,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2341,2,1,0
-2022-12-23,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2344,3,1,0
-2022-12-24,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2344,0,1,0
+2022-12-23,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2345,4,1,0
+2022-12-24,CCWF,Central California Women's Facility,Chowchilla,Madera,039,93610,-120.1497066,37.0903601,2345,0,1,0
 2020-03-10,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,,0,
 2020-03-11,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,0,0
 2020-03-12,CVSP,Chuckawalla Valley State Prison,Blythe,Riverside,065,92225,-114.9072763,33.5629667,0,0,0,0
@@ -25496,9 +25496,9 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-12-19,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1395,12,7,0
 2022-12-20,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1400,5,7,0
 2022-12-21,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1407,7,7,0
-2022-12-22,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1412,5,7,0
-2022-12-23,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1413,1,7,0
-2022-12-24,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1413,0,7,0
+2022-12-22,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1415,8,7,0
+2022-12-23,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1416,1,7,0
+2022-12-24,KVSP,Kern Valley State Prison,Delano,Kern,029,93215,-119.3220574,35.7656527,1416,0,7,0
 2020-03-10,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,,0,
 2020-03-11,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0
 2020-03-12,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,0,0,0,0
@@ -26517,8 +26517,8 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-12-20,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3335,7,9,0
 2022-12-21,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3339,4,9,0
 2022-12-22,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3339,0,9,0
-2022-12-23,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3341,2,9,0
-2022-12-24,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3341,0,9,0
+2022-12-23,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3342,3,9,0
+2022-12-24,MCSP,Mule Creek State Prison,Ione,Amador,005,95640,-120.9594405,38.3686728,3342,0,9,0
 2020-03-10,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,,0,
 2020-03-11,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,0,0
 2020-03-12,NKSP,North Kern State Prison,Delano,Kern,029,93215,-119.3060685,35.7813675,0,0,0,0
@@ -35696,6 +35696,6 @@ date,code,name,city,county,fips,zipcode,x,y,confirmed_cases,new_confirmed_cases,
 2022-12-19,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5174,30,2,0
 2022-12-20,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5180,6,2,0
 2022-12-21,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5191,11,2,0
-2022-12-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5205,14,2,0
-2022-12-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5207,2,2,0
-2022-12-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5207,0,2,0
+2022-12-22,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5207,16,2,0
+2022-12-23,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5209,2,2,0
+2022-12-24,WSP,Wasco State Prison,Wasco,Kern,029,93280,-119.4080748,35.5950806,5209,0,2,0
