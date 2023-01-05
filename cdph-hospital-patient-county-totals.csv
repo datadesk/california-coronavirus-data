@@ -1,4 +1,60 @@
 date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_suspected_patients,icu_available_beds
+2023-01-04,Alameda,1,170,53,15,5,71
+2023-01-04,Amador,5,3,1,0,0,1
+2023-01-04,Butte,7,33,0,3,0,14
+2023-01-04,Calaveras,9,0,0,0,0,4
+2023-01-04,Colusa,11,0,0,0,0,0
+2023-01-04,Contra Costa,13,97,77,11,9,32
+2023-01-04,Del Norte,15,6,0,2,0,0
+2023-01-04,El Dorado,17,8,0,2,0,2
+2023-01-04,Fresno,19,219,27,29,2,17
+2023-01-04,Glenn,21,0,0,0,0,0
+2023-01-04,Humboldt,23,7,0,1,0,3
+2023-01-04,Imperial,25,13,0,1,0,7
+2023-01-04,Inyo,27,2,0,1,0,2
+2023-01-04,Kern,29,76,0,10,0,20
+2023-01-04,Kings,31,6,0,0,0,4
+2023-01-04,Lake,33,4,0,1,0,1
+2023-01-04,Lassen,35,1,0,0,0,0
+2023-01-04,Los Angeles,37,1287,78,133,5,530
+2023-01-04,Madera,39,7,0,0,0,16
+2023-01-04,Marin,41,28,5,3,0,5
+2023-01-04,Mariposa,43,0,0,0,0,0
+2023-01-04,Mendocino,45,10,0,2,0,1
+2023-01-04,Merced,47,13,0,2,0,5
+2023-01-04,Modoc,49,0,0,0,0,0
+2023-01-04,Mono,51,0,0,0,0,2
+2023-01-04,Monterey,53,24,0,0,0,10
+2023-01-04,Napa,55,6,0,3,0,2
+2023-01-04,Nevada,57,12,0,0,0,2
+2023-01-04,Orange,59,352,12,30,1,131
+2023-01-04,Placer,61,113,33,10,3,12
+2023-01-04,Plumas,63,1,0,0,0,0
+2023-01-04,Riverside,65,255,13,31,2,101
+2023-01-04,Sacramento,67,216,58,23,8,65
+2023-01-04,San Benito,69,1,0,1,0,0
+2023-01-04,San Bernardino,71,201,5,33,0,153
+2023-01-04,San Diego,73,438,16,47,0,241
+2023-01-04,San Francisco,75,100,12,19,3,70
+2023-01-04,San Joaquin,77,74,6,13,1,14
+2023-01-04,San Luis Obispo,79,14,0,0,0,21
+2023-01-04,San Mateo,81,56,26,6,6,49
+2023-01-04,Santa Barbara,83,46,0,9,0,11
+2023-01-04,Santa Clara,85,226,39,27,7,36
+2023-01-04,Santa Cruz,87,26,0,0,0,1
+2023-01-04,Shasta,89,13,2,1,0,29
+2023-01-04,Siskiyou,93,2,0,0,0,4
+2023-01-04,Solano,95,65,44,11,1,4
+2023-01-04,Sonoma,97,58,33,2,0,26
+2023-01-04,Stanislaus,99,81,29,8,3,41
+2023-01-04,Sutter,101,0,0,0,0,0
+2023-01-04,Tehama,103,2,0,0,0,2
+2023-01-04,Trinity,105,0,0,0,0,0
+2023-01-04,Tulare,107,58,4,4,0,15
+2023-01-04,Tuolumne,109,2,0,1,0,2
+2023-01-04,Ventura,111,91,7,9,1,29
+2023-01-04,Yolo,113,3,0,2,0,1
+2023-01-04,Yuba,115,21,2,2,0,7
 2023-01-03,Alameda,1,180,56,14,2,74
 2023-01-03,Amador,5,3,2,0,0,1
 2023-01-03,Butte,7,38,0,3,0,9
@@ -38,7 +94,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2023-01-03,San Francisco,75,97,18,17,1,75
 2023-01-03,San Joaquin,77,85,6,14,1,12
 2023-01-03,San Luis Obispo,79,12,0,0,0,20
-2023-01-03,San Mateo,81,57,26,7,4,16
+2023-01-03,San Mateo,81,57,26,7,4,14
 2023-01-03,Santa Barbara,83,50,0,8,0,15
 2023-01-03,Santa Clara,85,237,62,32,7,46
 2023-01-03,Santa Cruz,87,32,0,0,0,1
@@ -94,7 +150,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2023-01-02,San Francisco,75,92,13,15,0,83
 2023-01-02,San Joaquin,77,74,7,12,1,18
 2023-01-02,San Luis Obispo,79,17,0,0,0,19
-2023-01-02,San Mateo,81,61,21,9,3,17
+2023-01-02,San Mateo,81,59,23,9,3,15
 2023-01-02,Santa Barbara,83,52,1,5,1,9
 2023-01-02,Santa Clara,85,232,57,32,8,56
 2023-01-02,Santa Cruz,87,27,0,0,0,1
@@ -150,7 +206,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2023-01-01,San Francisco,75,95,13,8,1,92
 2023-01-01,San Joaquin,77,75,4,11,1,22
 2023-01-01,San Luis Obispo,79,15,1,0,0,19
-2023-01-01,San Mateo,81,58,23,5,3,14
+2023-01-01,San Mateo,81,58,23,5,3,11
 2023-01-01,Santa Barbara,83,47,0,6,0,14
 2023-01-01,Santa Clara,85,227,46,30,6,65
 2023-01-01,Santa Cruz,87,27,0,0,0,1
@@ -206,7 +262,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2022-12-31,San Francisco,75,95,11,12,1,81
 2022-12-31,San Joaquin,77,71,1,12,1,24
 2022-12-31,San Luis Obispo,79,14,1,0,0,17
-2022-12-31,San Mateo,81,51,27,7,4,16
+2022-12-31,San Mateo,81,51,27,7,4,20
 2022-12-31,Santa Barbara,83,53,0,8,0,12
 2022-12-31,Santa Clara,85,206,41,28,4,40
 2022-12-31,Santa Cruz,87,26,0,0,0,0
