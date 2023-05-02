@@ -16,7 +16,7 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2023-04-28,Kings,31,0,0,0,0,2
 2023-04-28,Lake,33,1,0,0,0,1
 2023-04-28,Lassen,35,0,0,0,0,0
-2023-04-28,Los Angeles,37,268,43,21,3,823
+2023-04-28,Los Angeles,37,257,43,21,3,828
 2023-04-28,Madera,39,1,0,0,0,12
 2023-04-28,Marin,41,13,2,1,0,12
 2023-04-28,Mariposa,43,0,0,0,0,0
@@ -27,14 +27,14 @@ date,county,fips,positive_patients,suspected_patients,icu_positive_patients,icu_
 2023-04-28,Monterey,53,19,0,2,0,17
 2023-04-28,Napa,55,4,0,0,0,4
 2023-04-28,Nevada,57,7,0,1,0,3
-2023-04-28,Orange,59,77,6,12,2,143
+2023-04-28,Orange,59,73,6,13,2,143
 2023-04-28,Placer,61,40,1,2,0,17
 2023-04-28,Plumas,63,0,0,0,0,0
-2023-04-28,Riverside,65,58,3,9,0,110
+2023-04-28,Riverside,65,54,3,9,0,109
 2023-04-28,Sacramento,67,77,2,10,1,71
 2023-04-28,San Benito,69,1,0,0,0,1
-2023-04-28,San Bernardino,71,55,1,15,0,156
-2023-04-28,San Diego,73,105,15,22,0,246
+2023-04-28,San Bernardino,71,60,1,17,0,156
+2023-04-28,San Diego,73,100,15,14,0,249
 2023-04-28,San Francisco,75,55,3,7,0,73
 2023-04-28,San Joaquin,77,23,0,3,0,18
 2023-04-28,San Luis Obispo,79,5,0,0,0,16
